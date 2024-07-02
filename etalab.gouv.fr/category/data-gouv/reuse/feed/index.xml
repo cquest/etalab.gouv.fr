@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Réutilisations &#8211; Etalab</title>
+	<atom:link href="/category/data-gouv/reuse/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 16 Feb 2021 17:22:46 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Réutilisations &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rétrospective 2020 #3/6 : Les données publiques au service de la gestion de crise et du pilotage des politiques publiques</title>
+		<link>/les-donnees-publiques-au-service-de-la-gestion-de-crise-et-du-pilotage-des-politiques-publiques</link>
+		
+		<dc:creator><![CDATA[Antonin Garrone]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2021 17:00:34 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[Open data]]></category>
+		<category><![CDATA[Réutilisations]]></category>
+		<category><![CDATA[covid-19]]></category>
+		<category><![CDATA[open data]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14953</guid>
+
+					<description><![CDATA[Ce blogpost fait partie d&#8217;une série de rétrospectives de l’année 2020 autour d’axes de travail d’Etalab : utiliser la science des données et l’intelligence artificielle pour l’administration, accompagner l’administration dans l’utilisation de logiciels libres et la publication de codes sources, ouvrir et faire circuler les données publiques, accompagner les administrations à travers le programme EIG, &#8230;<p class="read-more"> <a class="" href="/les-donnees-publiques-au-service-de-la-gestion-de-crise-et-du-pilotage-des-politiques-publiques"> <span class="screen-reader-text">Rétrospective 2020 #3/6 : Les données publiques au service de la gestion de crise et du pilotage des politiques publiques</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p><em>Ce blogpost fait partie d&rsquo;une série de rétrospectives de l’année 2020 autour d’axes de travail d’Etalab : <a href="https://www.etalab.gouv.fr/retrospective-2020-1-6-lab-ia-datascience-et-intelligence-artificielle-pour-ladministration">utiliser la science des données et l’intelligence artificielle pour l’administration</a>, <a href="https://www.etalab.gouv.fr/retrospective-2020-2-6-laccompagnement-a-louverture-des-codes-sources-et-lutilisation-de-logiciels-libres">accompagner l’administration dans l’utilisation de logiciels libres et la publication de codes sources</a>, ouvrir et faire circuler les données publiques, accompagner les administrations à travers le programme EIG, accompagner les administrations sur l’explicabilité et la redevabilité des algorithmes.</em></p></blockquote>
+
+
+
+<h3 class="wp-block-heading">L&rsquo;open data au coeur de la gestion de crise</h3>
+
+
+
+<p>L&rsquo;année 2020 a été une année très particulière pour l&rsquo;open data. La fréquentation de data.gouv.fr a atteint un record absolu avec un pic au <strong>mois de novembre 2020 lors duquel la plateforme a accueilli 2 305 255 visiteurs uniques</strong>.</p>
+
+
+
+<p>Ces chiffres s&rsquo;expliquent en grande partie par l&rsquo;intérêt du public pour les données et les réutilisations relatives au COVID-19.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="2500" height="900" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/newplot-28.png" alt="" class="wp-image-14959"/></figure>
+
+
+
+<p>Les usages de la plateforme ont également connu une hausse importante. De nombreux jeux de données et réutilisations ont été publiés en 2020.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="2500" height="900" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/newplot-29.png" alt="Jeux de données et réutilisations publiés sur data.gouv.fr en 2020" class="wp-image-14958"/></figure>
+
+
+
+<p>Si l&rsquo;attention a été porté sur les <a href="https://www.data.gouv.fr/fr/pages/donnees-coronavirus" class="broken_link">données relatives à l&rsquo;épidémie de COVID-19</a> afin de répondre aux exigences de transparence et de pilotage informé de la crise sanitaire, l&rsquo;année 2020 représente également un tournant pour l&rsquo;open data des données environnementales en particulier grâce au travail de l&rsquo;<a href="https://www.data.gouv.fr/fr/organizations/ademe/">ADEME</a>.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Pour en savoir plus sur l&rsquo;activité de la plateforme nationale de données en 2020, rendez-vous sur le <a href="https://www.data.gouv.fr/fr/posts/retour-sur-les-activites-de-data-gouv-fr-en-2020/">bilan 2020 de data.gouv.fr</a>.</p></blockquote>
+
+
+
+<h3 class="wp-block-heading">L&rsquo;open data au service de l&rsquo;information et du pilotage des politiques publiques</h3>
+
+
+
+<p>Nous avons également assisté en 2020 à une accélération des services numériques fondés sur les données ouvertes.</p>
+
+
+
+<h4 class="wp-block-heading">Un tableau de bord pour suivre l&rsquo;épidémie de COVID-19</h4>
+
+
+
+<p>Afin de rendre les données relatives à la COVID-19 accessibles et compréhensibles pour le plus grand nombre, un <a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees">tableau de bord développé par Etalab a été publié sur gouvernement.fr</a>. Celui-ci permet de visualiser l’ensemble des indicateurs de suivi de l’épidémie.</p>
+
+
+
+<p>La mise à disposition et la visualisation de ces données permettent d&rsquo;assurer la juste information du public et de faire acte de transparence sur les informations fondant les prises de décisions du gouvernement.</p>
+
+
+
+<figure class="wp-block-image alignfull"><img decoding="async" src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_9773f67bf6296fc43478899c2840bbd1.png" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees">Consulter le tableau de bord</a></p></blockquote>
+
+
+
+<h4 class="wp-block-heading">Le tableau de bord des aides aux entreprises</h4>
+
+
+
+<p>De la même manière, un tableau de bord permettant de mettre à la disposition les données sur les aides versées à destination des entreprises affectées par la crise sanitaire a été développé par Etalab.</p>
+
+
+
+<p>Ces données, détaillées par secteur d’activité et par zone géographique, permettent non seulement aux citoyens de suivre de façon transparente l&rsquo;action de l&rsquo;État, mais apporte également aux décideurs une visibilité claire, en temps réel, de la mise en oeuvre des mesures. Ceci permet notamment d&rsquo;identifier plus rapidement les adaptations nécessaires et les futures actions à mettre en oeuvre.</p>
+
+
+
+<figure class="wp-block-image alignfull"><img decoding="async" src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_7744763c2bb81ecd13b1d0fdc330aaca.png" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://aides-entreprises.data.gouv.fr/" class="broken_link">Consulter le tableau de bord</a></p></blockquote>
+
+
+
+<h4 class="wp-block-heading">Le baromètre des résultats de l&rsquo;action publique</h4>
+
+
+
+<p>L&rsquo;année 2020 est aussi l&rsquo;année de la publication du baromètre des résultats de l’action publique. <a href="https://www.gouvernement.fr/les-actions-du-gouvernement">Accessible en ligne sur le site gouvernement.fr</a>, le baromètre permet à chaque citoyen et décideur de suivre l’action du Gouvernement, politique par politique, territoire par territoire.</p>
+
+
+
+<p>Ce tableau de bord participe à l&rsquo;amélioration du pilotage des politiques publiques en les inscrivant dans une perspective de résultats et de transparence du service rendu à l&rsquo;usager.</p>
+
+
+
+<figure class="wp-block-image alignfull"><img decoding="async" src="https://static.data.gouv.fr/images/9c/07f40f654c470ab563d274ff883780.jpg" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://aides-entreprises.data.gouv.fr/" class="broken_link">Consulter le tableau de bord</a></p></blockquote>
+
+
+
+<h4 class="wp-block-heading">L&rsquo;annuaire des entreprises</h4>
+
+
+
+<p>En 2020, Etalab a également développé avec la DGE, le site <a href="https://annuaire-entreprises.data.gouv.fr/">annuaire-entreprises</a>. L&rsquo;ambition de ce portail est de devenir la référence dans la consultation des données relatives aux personnes morales.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_02da9878bff0b94f8460d16c61fa62ff.png" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://annuaire-entreprises.data.gouv.fr/" rel="sponsored nofollow">Voir l&rsquo;Annuaire des Entreprises</a></p></blockquote>
+
+
+
+<h3 class="wp-block-heading">La publication du rapport sur la politique publique de la donnée, des algorithmes et des codes sources</h3>
+
+
+
+<p>L&rsquo;année 2020 est aussi celle de la <a href="https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources">remise au Premier ministre du rapport sur la politique publique de la donnée, des algorithmes et des codes sources</a>. </p>
+
+
+
+<p>En six mois, la mission conduite par le député Eric Bothorel a réalisé plus de 250 auditions et a conduit une <a href="https://www.mission-open-data.fr/">consultation en ligne</a>, à laquelle ont contribué plus de 500 personnes et organisations.</p>
+
+
+
+<p>Le rapport propose notamment une dizaine d’études de cas comme les données de la délinquance, les modèles épidémiologiques de l’Institut Pasteur, l’ouverture de la base Sirene ou encore des exemples étrangers.</p>
+
+
+
+<p>A l&rsquo;issue de ces travaux, le gouvernement a annoncé des dispositions en matière de données à l&rsquo;occasion du <a href="https://www.modernisation.gouv.fr/transformation-publique/comites-interministeriels-de-la-transformation-publique/article-citp" class="broken_link">5e Comité Interministériel pour la Transformation Publique</a>.</p>
+
+
+
+<p>Le gouvernement a notamment pris l&rsquo;engagement suivant :</p>
+
+
+
+<blockquote class="wp-block-quote"><p>« Une politique publique de la donnée ambitieuse sera mise en œuvre par tous les ministères pour mieux exploiter, ouvrir, partager et valoriser les données publiques, au bénéfice de la transparence et de l’efficacité de l’action publique. »</p></blockquote>
+
+
+
+<p>Chaque ministère sera ainsi chargé de décliner une feuille de route ambitieuse en matière de valorisation des données de son périmètre, en s’appuyant sur une gouvernance renouvelée et plus efficace. L&rsquo;État prendra également une charte d’engagement sur le traitement des demandes de données des chercheurs, et renforcera sa politique de ressources humaines dans le domaine de la donnée.</p>
+
+
+
+<p>Dans ce cadre, de nouvelles bases de données, API et codes sources publics seront ouverts d&rsquo;ici la fin 2021, parmi lesquels :</p>
+
+
+
+<ul><li>les données de la carte scolaire des collèges ;</li><li>les données librement accessibles du répertoire opérationnel de ressources qui recense l&rsquo;ensemble de l&rsquo;offre sanitaire et du médico-social ;</li><li>les données sur les auto-écoles ayant reçu un agrément préfectoral ;</li><li>les données sur l&rsquo;agriculture biologique à la maille communale ;</li><li>les données de mise en oeuvre du plan de relance ;</li><li>les données des permis de construire des personnes physiques.</li></ul>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://www.mission-open-data.fr/uploads/decidim/attachment/file/36/Mission_Bothorel_Rapport.pdf">Lire le rapport sur la politique publique de la donnée, des algorithmes et des codes sources</a>.</p><p><a href="https://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/dp_citp_vdef_1.pdf" class="broken_link">En savoir plus sur les annonces du 5e Comité Interministériel pour la Transformation Publique</a>.</p></blockquote>
+
+
+
+<h3 class="wp-block-heading">La France reste leader en matière d&rsquo;open data en Europe</h3>
+
+
+
+<p>La France conserve sa place sur le podium des pays leader en matière d&rsquo;open data en Europe selon l&rsquo;<a href="https://www.europeandataportal.eu/en/dashboard/2020">Open Data Maturity Index</a> de la Commission Européenne.</p>
+
+
+
+<p>La Commission accorde la première place à la France pour son cadre politico-légal et pour son portail national data.gouv.fr. En revanche, en ce qui concerne la qualité des données et l&rsquo;impact, la France se situe, respectivement, à la cinquième et sixième place.</p>
+
+
+
+<figure class="wp-block-image alignfull"><img decoding="async" src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_31d140ae53955dd995c52667ff8768c5.png" alt=""/></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Le 14 mai, venez tester le « legal design » appliqué aux licences open data[:]</title>
+		<link>/le-14-mai-venez-tester-le-legal-design-applique-aux-licences-open-data</link>
+		
+		<dc:creator><![CDATA[Thomas Menant]]></dc:creator>
+		<pubDate>Tue, 24 Apr 2018 13:44:58 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Ecosystème]]></category>
+		<category><![CDATA[Réutilisations]]></category>
+		<category><![CDATA[licences open data]]></category>
+		<category><![CDATA[open law]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8264</guid>
+
+					<description><![CDATA[[:fr] Etalab s&#8217;associe à Open Law et vous invitent à participer, lundi 14 mai de 17 h 00 à 20 h 00, à une démarche de legal design pour expliciter, sous la meilleure forme possible, les droits et devoirs des réutilisateurs de données publiques. Ce cycle autour de l&#8217;open data et des licences durera jusqu’en &#8230;<p class="read-more"> <a class="" href="/le-14-mai-venez-tester-le-legal-design-applique-aux-licences-open-data"> <span class="screen-reader-text">[:fr]Le 14 mai, venez tester le « legal design » appliqué aux licences open data[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<p style="text-align: left;">Etalab s&rsquo;associe à <a href="http://openlaw.fr/">Open Law</a> et vous invitent à participer,<strong> lundi 14 mai de 17 h 00 à 20 h 00,</strong> à une démarche de <em>legal design</em> pour expliciter, sous la meilleure forme possible, les droits et devoirs des réutilisateurs de données publiques. Ce cycle autour de l&rsquo;open data et des licences durera jusqu’en octobre 2018 ; il sera composé de trois ateliers.</p>
+<blockquote><p><img decoding="async" class="alignleft " src="http://openlaw.fr/sites/default/files/LogoOpenLaw.png" width="110" height="110" />Open Law est une association qui vise à réunir l’ensemble des acteurs du monde du droit prêts à innover. Leurs actions aboutissent à la production de ressources communes (référentiels, ontologies, livres blancs, modèles de statuts, cahiers des charges, bases de données, développements Open Source, etc.), qui, à plus long terme, alimentent tous ceux qui cherchent à innover et développer de nouveaux services ou concepts.</p>
+<p>Le legal design est une démarche exploratoire visant à apporter les méthodes du design dans la sphère juridique. <a href="https://medium.com/@thinkled.openlaw">Retrouvez le blog du Think LeD.</a></p></blockquote>
+<p>&nbsp;</p>
+<h3>Les objectifs de ce premier atelier :</h3>
+<p>Le 14 mai, nous vous proposons de venir :</p>
+<ul>
+<li>Faciliter<strong> la compréhension de l’open data</strong>, à la fois pour les administrations qui doivent ouvrir leurs données (et leurs codes-sources) et pour ceux, nombreux, qui ont vocation à réutiliser ces données.</li>
+<li>Mettre en œuvre une démarche de <em>legal design</em> pour expliciter, sous la meilleure forme possible, les licences ouvertes.</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Où et quand nous rejoindre ?</h3>
+<p>Cet atelier est collaboratif et pluridisciplinaire. Il est ouvert à tous : usagers, designers, juristes, développeurs, entrepreneurs&#8230;</p>
+<p><strong>Il se déroulera au 137 boulevard de Magenta à Paris.</strong></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-medium wp-image-8265" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/04/openlaw-264x300.png" alt="" width="264" height="300" srcset="/wp-content/uploads/2018/04/openlaw-264x300.png 264w, /wp-content/uploads/2018/04/openlaw.png 351w" sizes="(max-width: 264px) 100vw, 264px" /></p>
+<h6 style="text-align: center;"><a href="https://www.meetup.com/fr-FR/Open-Law/events/249704631/"><button><em>Inscription</em></button></a></h6>
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]scanR : le moteur et les données de la recherche[:]</title>
+		<link>/scanr-le-moteur-et-les-donnees-de-la-recherche</link>
+		
+		<dc:creator><![CDATA[Clémentine Désigaud]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2016 10:01:54 +0000</pubDate>
+				<category><![CDATA[Données]]></category>
+		<category><![CDATA[Réutilisations]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=5155</guid>
+
+					<description><![CDATA[[:fr]Le ministère de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche dévoile aujourd’hui scanR, le moteur de la recherche et de l’innovation. Il se présente comme une application web d’aide à la caractérisation des structures de recherche publiques (unités de recherche, institutions publiques) et privées (entreprises), quels que soient leur discipline ou leur secteur. &#8230;<p class="read-more"> <a class="" href="/scanr-le-moteur-et-les-donnees-de-la-recherche"> <span class="screen-reader-text">[:fr]scanR : le moteur et les données de la recherche[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]Le ministère de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche dévoile aujourd’hui <strong><a href="https://scanr.enseignementsup-recherche.gouv.fr/">scanR, le moteur de la recherche et de l’innovation</a>. </strong>Il se présente comme une application web d’aide à la caractérisation des structures de recherche publiques (unités de recherche, institutions publiques) et privées (entreprises), quels que soient leur discipline ou leur secteur.</p>
+<p><strong>scanR</strong> combine des informations extraites des sites web des structures de recherche et des données ouvertes enrichies, concernant <strong>près de 17 000 acteurs de la recherche implantés en France</strong> : publications et thèses, implication dans des projets de recherche collaborative, essaimage d’entreprises, brevets…</p>
+<p>Grâce à son moteur de recherche qui indexe l’ensemble des sources de données, scanR permet aux utilisateurs <strong>d’identifier des acteurs français travaillant sur une problématique de recherche spécifique</strong>. Cette application constitue donc un point d’entrée privilégié et unifié vers un ensemble de ressources, qui permettent de caractériser l’implication dans la recherche et l’innovation des différents acteurs français et les relations qui les unissent.</p>
+<p><a href="https://scanr.enseignementsup-recherche.gouv.fr/"><img loading="lazy" decoding="async" class="wp-image-5157 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/07/scanR2.png" alt="scanR2" width="485" height="265" srcset="/wp-content/uploads/2016/07/scanR2.png 608w, /wp-content/uploads/2016/07/scanR2-300x164.png 300w" sizes="(max-width: 485px) 100vw, 485px" /></a></p>
+<p>Le mode d’alimentation en données de scanR ne permet pas de garantir l’exhaustivité du référencement des publications, brevets, thèses et financements, et <strong>s’accompagne donc d’un mécanisme de contribution collaborative (crowdsourcing)</strong>. L’application permet en effet à chaque utilisateur de faire remonter de façon simple des remarques et des erreurs ou de proposer des enrichissements directement sur les pages des structures de recherche.</p>
+<p>Le ministère de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche rend <strong>également disponibles les données associées à l’application scanR</strong>. Ces données sont publiées sur le <a href="http://data.enseignementsup-recherche.gouv.fr/explore/?sort=modified">portail open data de l’enseignement supérieur et à la recherche</a> et sur le portail <a href="https://www.data.gouv.fr/fr/apidoc/">data.gouv.fr</a>.</p>
+<p>Les jeux de données suivants sont disponibles :</p>
+<ul>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-recherche-publiques-actives/">Structures de recherche publiques actives </a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/repertoire-national-des-structures-de-recherche/">Répertoire national des structures de recherche</a></li>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-repertoire-national-structures-recherche-historique-annuel/">Répertoire national des structures de recherche &#8211; Historique annuel</a></li>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-etablissements-publics-prives-impliques-recherche-developpement/">Établissements publics et privés impliqués dans la recherche et le développement</a></li>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-scanr-publications-scientifiques/">Publications scientifiques recensées dans scanR</a></li>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-aap-anr-projets-retenus-participants-identifies/">Appels à projets ANR &#8211; Projets retenus et participants identifiés</a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/appels-a-projets-7eme-pcrdt-projets-retenus-et-participants-identifies/">Appels à projets du 7e PCRDT &#8211; Projets retenus et participants identifiés</a></li>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-laureats-concours-national-i-lab/">Lauréats I-LAB &#8211; Concours national d&rsquo;aide à la création d&rsquo;entreprises de technologies innovantes </a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/finalistes-et-laureats-du-concours-ma-these-en-180-secondes-france/">Finalistes et lauréats du concours « Ma thèse en 180 secondes » France</a></li>
+</ul>
+<p>L’application scanR, comme le portail open data de l’enseignement supérieur et de la recherche, sont deux exemples des avancées du ministère de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche en matière d’ouverture des données publiques et de gouvernement ouvert.</p>
+<p>Ces avancées s’inscrivent dans le cadre des engagements internationaux pris par la France : ouverture des données de la recherche (engagement pris lors de la signature de la <a href="http://www.etalab.gouv.fr/leschefsdetatdug8signentunechartepourlouverturedesdonneespubliques">Charte Open Data du G8</a>), renforcement de la politique d’ouverture et de circulation des données (engagement 15 du <a href="https://www.etalab.gouv.fr/plan-daction-national">Plan d’action national</a> de la France au sein du Partenariat pour un gouvernement ouvert).[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]18-25 ans : postulez à l&#8217;Open Data Youth Camp &#8211; Saison 2[:]</title>
+		<link>/18-25-ans-postulez-a-lopen-data-youth-camp-saison-2</link>
+		
+		<dc:creator><![CDATA[Claire-Marie Foulquier-Gazagnes]]></dc:creator>
+		<pubDate>Mon, 20 Jun 2016 09:31:30 +0000</pubDate>
+				<category><![CDATA[Autour du monde]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[Réutilisations]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data camp]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=5040</guid>
+
+					<description><![CDATA[[:fr] En 2015, 3 jeunes français, accompagnés d&#8217;une experte, avaient participé à l&#8217;Open Data Youth Camp en Croatie pour découvrir l&#8217;open data. Ils en étaient revenu avec une conviction « l’accès aux données est un droit, et l’open data en est l’outil«  et des « exemples concrets d’utilisation de l’open data au service des citoyens » testés dans &#8230;<p class="read-more"> <a class="" href="/18-25-ans-postulez-a-lopen-data-youth-camp-saison-2"> <span class="screen-reader-text">[:fr]18-25 ans : postulez à l&#8217;Open Data Youth Camp &#8211; Saison 2[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<p style="text-align: justify;">En 2015, 3<a href="https://www.etalab.gouv.fr/les-jeunes-et-lopen-data"> jeunes français, accompagnés d&rsquo;une experte</a>, avaient participé à l&rsquo;<em>Open Data Youth Camp</em> en Croatie pour découvrir l&rsquo;open data. Ils en étaient revenu avec une conviction « <a href="https://www.etalab.gouv.fr/la-nouvelle-generation-de-lopen-data-retours-dexperience-de-lopen-data-youth-camp">l’accès aux données est un droit, et l’open data en est l’outil</a><em>« </em> et des « <a href="https://www.etalab.gouv.fr/la-nouvelle-generation-de-lopen-data-retours-dexperience-de-lopen-data-youth-camp">exemples concrets d’utilisation de l’open data au service des citoyens</a> » testés dans le cadre de « <a href="https://www.etalab.gouv.fr/la-nouvelle-generation-de-lopen-data-retours-dexperience-de-lopen-data-youth-camp">projets collectifs</a>« . Cette année, avec le soutien renouvelé de l&rsquo;<a href="http://www.ambafrance-hr.org/">Ambassade de France en Croatie</a> et du <a href="https://vlada.gov.hr/en">gouvernement croate</a>, plusieurs jeunes français pourront participer à cette seconde édition.</p>
+<p style="text-align: justify;"><span id="more-5040"></span></p>
+<p style="text-align: justify;">Vous avez entre 18 et 25 ans, un intérêt pour les données ouvertes et vous parlez anglais ? Le <a href="https://vlada.gov.hr/en">gouvernement de Croatie</a>, l’<a href="http://www.ambafrance-hr.org/">ambassade de France en Croatie</a> et <a href="http://www.modernisation.gouv.fr/le-sgmap/organisation/etalab" class="broken_link">Etalab</a> vous invitent à postuler ci-dessous à l’<em>Open Data Youth Camp </em><span style="color: #000000;"><strong>avant le 29 juin 16h</strong>.</span></p>
+<p style="text-align: justify;">Du 28 août au 3 septembre, cet Open Data Youth Camp initiera aux données ouvertes une quarantaine de jeunes participants venus de Croatie, du Royaume-Uni, du Canada, de Serbie, de Bosnie-Herzégovine, du Montenegro, du Kosovo et de France. Formés puis répartis en équipes, ils développeront pendant une semaine un projet fondé sur les données ouvertes. Des experts venus de ces huit pays accompagneront les groupes. À la suite de cet <em>Open Data Youth Camp</em>, les participants français seront invités à partager leur expérience sur le <a href="https://www.etalab.gouv.fr/la-nouvelle-generation-de-lopen-data-retours-dexperience-de-lopen-data-youth-camp">blog d’Etalab</a>.</p>
+<p style="text-align: justify;">La semaine se déroulera à <strong><a href="https://fr.wikipedia.org/wiki/Rovinj">Rovinj</a> en Croatie du 28 août au 3 septembre</strong>. Le transport depuis une ville de France métropolitaine, le logement et les repas seront pris en charge par l’ambassade de France en Croatie et le gouvernement croate. L’anglais sera la langue de travail.</p>
+<p style="text-align: justify;">Les finalistes seront sélectionnés par l&rsquo;ambassade de France en Croatie et Etalab à partir du questionnaire ci-dessous et contactés le <span style="color: #000000;">30 juin</span>.</p>
+<p style="text-align: justify;">Cette coopération entre la France et la Croatie sur le sujet des données ouvertes est un exemple d’échanges entre pairs permis par le <a href="http://www.opengovpartnership.org/">Partenariat pour un gouvernement ouvert</a>, dont <a href="https://www.etalab.gouv.fr/la-france-presidera-le-partenariat-pour-un-gouvernement-ouvert">la France prendra la présidence en octobre 2016</a>. Ces échanges seront mis en avant lors du <a href="https://fr.ogpsummit.org/osem/conference/ogp-summit" class="broken_link">Sommet Mondial du Partenariat, organisé à Paris du 7 au 9 décembre 2016</a>.</p>
+<p>&gt;&gt;&gt; <strong>La date limite de candidature est dépassée. Réponse aux candidats le 30 juin en fin de journée. </strong>&lt;&lt;&lt;[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]OpenSolarMap : l&#8217;alliance du crowdsourcing et des data-sciences au service de la connaissance géographique[:]</title>
+		<link>/opensolarmap</link>
+		
+		<dc:creator><![CDATA[Michel Blancard]]></dc:creator>
+		<pubDate>Fri, 10 Jun 2016 05:45:40 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[Réutilisations]]></category>
+		<category><![CDATA[Un peu de technique]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4685</guid>
+
+					<description><![CDATA[[:fr] Quel est le potentiel d&#8217;installation de panneaux solaires du parc immobilier français ? Quel est le pourcentage de toitures qui présentent une surface plate susceptible d&#8217;être végétalisée ?&#8230; : de nombreuses questions, liées à des enjeux économiques majeurs, bénéficieraient d&#8217;une connaissance précise du territoire français qui n&#8217;existe pas toujours.  Le projet OpenSolarMap, visant notamment à &#8230;<p class="read-more"> <a class="" href="/opensolarmap"> <span class="screen-reader-text">[:fr]OpenSolarMap : l&#8217;alliance du crowdsourcing et des data-sciences au service de la connaissance géographique[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<p style="text-align: justify;"><em><strong>Quel est le potentiel d&rsquo;installation de panneaux solaires du parc immobilier français ? Quel est le pourcentage de toitures qui présentent une surface plate susceptible d&rsquo;être végétalisée ?&#8230; : de nombreuses questions, liées à des enjeux économiques majeurs, bénéficieraient d&rsquo;une connaissance précise du territoire français qui n&rsquo;existe pas toujours. </strong></em></p>
+<p style="text-align: justify;"><em><strong>Le <span style="color: #000000;">projet OpenSolarMap,</span> visant notamment à calculer le potentiel énergétique des bâtiments et développé de façon itérative, est la preuve que cette information peut être enrichie avec des moyens modestes, en combinant astucieusement les leviers du crowdsourcing et des data-sciences.</strong></em></p>
+<p style="text-align: justify;"><img loading="lazy" decoding="async" class="wp-image-5001 size-thumbnail alignright" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/opensolarmap-150x150.png" alt="opensolarmap" width="150" height="150" srcset="/wp-content/uploads/2016/05/opensolarmap-150x150.png 150w, /wp-content/uploads/2016/05/opensolarmap-300x300.png 300w, /wp-content/uploads/2016/05/opensolarmap-80x80.png 80w, /wp-content/uploads/2016/05/opensolarmap-118x118.png 118w, /wp-content/uploads/2016/05/opensolarmap-239x239.png 239w, /wp-content/uploads/2016/05/opensolarmap.png 401w" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<p style="text-align: justify;"><a href="https://www.openstreetmap.org/">OpenStreetMap</a> est un projet de cartographie collaborative amélioré chaque jour par des milliers de contributeurs bénévoles. La couverture du territoire français est déjà excellente pour les éléments géographiques et les infrastructures les plus importants, mais certaines informations sont encore très incomplètes. C&rsquo;est par exemple le cas de la forme et de l&rsquo;orientation des toitures des bâtiments.</p>
+<p style="text-align: justify;">Ces données, via l&rsquo;évaluation du potentiel en énergie solaire, sont susceptibles d&rsquo;intéresser toute la filière de l&rsquo;énergie solaire. OpenSolarMap présente le moyen, entièrement constitué de code libre, de produire cette information.</p>
+<h1>Classer les toitures en quatre catégories</h1>
+<p style="text-align: justify;">Afin d&rsquo;identifier le bâti propice à l&rsquo;installation de panneaux solaires, il s&rsquo;est agi de classer les toitures dans l&rsquo;une des quatre catégories suivantes:</p>
+<ul>
+<li style="text-align: justify;">toiture orientée au nord et au sud</li>
+<li style="text-align: justify;">toiture orientée à l&rsquo;est et à l&rsquo;ouest</li>
+<li style="text-align: justify;">toiture plate</li>
+<li style="text-align: justify;">toiture complexe ou difficile à classifier</li>
+</ul>
+<p>Le point de départ a été l&rsquo;analyse spatiale des emprises de bâtiments présents dans OpenStreetMap. Les toitures qui n&rsquo;ont pas une orientation alignée avec les points cardinaux sont éliminées par un premier filtre utilisant les données du cadastre. En effet, le cadastre donne la position des murs extérieurs mais pas la position du faîte. Puis c&rsquo;est l&rsquo;image satellite du territoire gracieusement fournie par <a href="https://www.mapbox.com/">Mapbox</a> qui permet d&rsquo;attribuer un bâtiment dans une des quatre classes.</p>
+<p><figure id="attachment_4939" aria-describedby="caption-attachment-4939" style="width: 438px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-4939 size-full" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/classes.png" width="438" height="236" srcset="/wp-content/uploads/2016/05/classes.png 438w, /wp-content/uploads/2016/05/classes-300x162.png 300w" sizes="(max-width: 438px) 100vw, 438px" /><figcaption id="caption-attachment-4939" class="wp-caption-text">Figure 1 : exemples pour chaque classe</figcaption></figure></p>
+<h1>Une interface de crowdsourcing addictive</h1>
+<p style="text-align: justify;">Une telle tâche se prête bien à la <a href="https://fr.wikipedia.org/wiki/Ludification">ludification</a>. Christian Quest, d&rsquo;OpenStreetMap France, imagine alors une interface de contribution simple d&rsquo;utilisation et ouverte à tout le monde.</p>
+<p style="text-align: justify;">L&rsquo;idée plaît au jury du concours Open PACA qui lui accorde le prix de la catégorie « Idée / Concept » en septembre 2015. Il concrétise l&rsquo;idée lors du Climate Change Challenge en novembre 2015, avec l&rsquo;aide d&rsquo;un développeur rencontré lors de l&rsquo;événement : <a href="http://opensolarmap.org/" class="broken_link">opensolarmap.org</a>.</p>
+<p style="text-align: justify;">Avec plus de 100.000 contributions recueillies en moins de 3 semaines, un système de vote permet de <strong>classer avec certitude plus de 10.000 bâtiments</strong>. Les contributions anonymisées sont librement accessibles <a href="https://www.data.gouv.fr/fr/organizations/opensolarmap/#datasets">sur la plateforme data.gouv.fr</a>.</p>
+<p><figure id="attachment_5000" aria-describedby="caption-attachment-5000" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-5000" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/example_OpenSolarMap.png" alt="example_OpenSolarMap" width="600" height="460" srcset="/wp-content/uploads/2016/05/example_OpenSolarMap.png 1019w, /wp-content/uploads/2016/05/example_OpenSolarMap-300x230.png 300w, /wp-content/uploads/2016/05/example_OpenSolarMap-768x589.png 768w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-5000" class="wp-caption-text">Figure 2 : plateforme opensolarmap.org</figcaption></figure></p>
+<h1>Un réseau de neurones pour les 99% restants</h1>
+<p style="text-align: justify;"><strong>Cet échantillon recueilli à partir des contributions crowdsourcées a alors permis d&rsquo;entraîner un classifieur automatique : </strong>un programme informatique qui, une fois entraîné sur un nombre suffisant d&rsquo;exemples, est capable de rendre des avis corrects sur de nouveaux cas.</p>
+<p style="text-align: justify;">Parmi les nombreux types de classifieurs adaptés aux images, Michel Blancard, Datascientist chez Etalab, a alors choisi d&rsquo;utiliser un réseau de neurones. Les réseaux de neurones sont une méthode d&rsquo;apprentissage automatique qui donne d&rsquo;excellentes performances sur un large domaine de problèmes et plus particulièrement en traitement d&rsquo;images. Il en existe de nombreuses implémentations libres, rapides à prendre en main et efficaces. Pour ces raisons, les réseaux de neurones constituent souvent une solution idéale, tant pour obtenir rapidement des résultats satisfaisants que pour élaborer soigneusement une solution repoussant l&rsquo;état de l&rsquo;art.</p>
+<p style="text-align: justify;">Au prix d&rsquo;un modification mineure du réseau de neurones <a href="http://www.robots.ox.ac.uk/~vgg/research/very_deep/">VGG16 (Université d&rsquo;Oxford)</a>, les résultats obtenus sont corrects dans 80% des cas. Une estimation de la certitude des résultats permet d&rsquo;ignorer au besoin les résultats trop incertains. <strong>Le code du réseau de neurone adapté est lui aussi libre</strong>, <a href="https://github.com/opensolarmap/solml">accessible sur github</a>, ce qui permet à chacun de repartir de ce travail pour proposer une amélioration des résultats actuels.</p>
+<p><figure id="attachment_4763" aria-describedby="caption-attachment-4763" style="width: 806px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-4763 size-large" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/04/convnet-1024x490.jpeg" alt="convnet" width="806" height="386" srcset="/wp-content/uploads/2016/04/convnet-1024x490.jpeg 1024w, /wp-content/uploads/2016/04/convnet-300x144.jpeg 300w, /wp-content/uploads/2016/04/convnet-768x368.jpeg 768w, /wp-content/uploads/2016/04/convnet.jpeg 1255w" sizes="(max-width: 806px) 100vw, 806px" /><figcaption id="caption-attachment-4763" class="wp-caption-text">Figure 3 : un réseau de neurones applique des transformations successives à une image (voir <a href="http://cs231n.github.io/convolutional-networks/">http://cs231n.github.io/convolutional-networks/</a>)</figcaption></figure></p>
+<p style="text-align: justify;">Le temps de traitement pour une image de toit est d&rsquo;environ une seconde pour un processeur. Pour traiter les 48 millions de toitures référencées par le cadastre, le temps de calcul est donc de 4 mois sur un ordinateur personnel disposant de 4 cœurs ou de 2 semaines sur un ordinateur puissant disposant de 32 cœurs. Nul besoin de disposer de matériel spécialisé pour profiter des dernières avancées en data-sciences ! De plus, avec une carte graphique il serait possible de réduire de beaucoup ce temps de calcul.</p>
+<p style="text-align: justify;">Ces résultats seront reversés sur le projet <a href="http://openstreetmap.fr/">OpenStreetMap</a> afin d&rsquo;être librement accessibles à tous. Le code source de la plateforme de crowdsourcing et du classifieur automatique est hébergé sur la plateforme <a href="https://github.com/opensolarmap">GitHub</a>. Il est possible d&rsquo;en savoir plus sur la partie datasciences du projet <a href="https://agd.data.gouv.fr/2016/06/17/opensolarmap-cote-data-sciences-03/">sur le blog de l&rsquo;AGD</a>.</p>
+<p style="text-align: justify;">Ces méthodes sont susceptibles d&rsquo;être répliquées dans toute un variété de cas pour compléter la connaissance de l&rsquo;information géographique, et d&rsquo;améliorer ainsi certaines politiques publiques : classification à partir d&rsquo;images des toitures pour des emplacements pour panneaux de solaires, pour jardins urbains, optimisation dans le domaine des transports en ville (zebra de bus&#8230;)</p>
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dataconnexions#2 : le deuxième concours est lancé</title>
+		<link>/dataconnexions2ledeuxiemeconcoursestlance</link>
+		
+		<dc:creator><![CDATA[Etalab]]></dc:creator>
+		<pubDate>Mon, 17 Sep 2012 22:00:00 +0000</pubDate>
+				<category><![CDATA[Événements]]></category>
+		<category><![CDATA[Réutilisations]]></category>
+		<category><![CDATA[Dataconnexions]]></category>
+		<category><![CDATA[Evenement]]></category>
+		<guid isPermaLink="false">http://www.etalab.gouv.fr/article-dataconnexions-2-le-deuxieme-concours-est-lance-110237551-comments.html</guid>
+
+					<description><![CDATA[Etalab poursuit avec ses partenaires le programme d&#8217;encouragement à la réutilisation de données publiques et donne le coup d&#8217;envoi du deuxième concours Dataconnexions. Créée en février 2012, Dataconnexions est une communauté rassemblant de nombreux acteurs de l’innovation (grandes entreprises, pôles de compétitivité, écoles d’ingénieurs, start ups, développeurs…). Ouverte à tous, destinée à faciliter la mise &#8230;<p class="read-more"> <a class="" href="/dataconnexions2ledeuxiemeconcoursestlance"> <span class="screen-reader-text">Dataconnexions#2 : le deuxième concours est lancé</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>
+    <!--StartFragment-->
+  </p>
+<p><img loading="lazy" decoding="async" alt="http://www.etalab.cst.easter-eggs.com/wp-content/uploads/2012/09/Dataconnexions1.png" height="92" width="625" class="CtreTexte" src="http://www.etalab.cst.easter-eggs.com/wp-content/uploads/2012/09/Dataconnexions.png"/></p>
+<p>
+    Etalab poursuit avec ses <a href="http://www.etalab.gouv.fr/pages/Partenaires--6739563.html" class="broken_link">partenaires</a> le programme d&rsquo;encouragement à la réutilisation de données publiques et donne le coup<br />
+    d&rsquo;envoi du deuxième concours Dataconnexions.
+  </p>
+<p>
+    Créée en février 2012, <a href="http://www.etalab.gouv.fr/pages/presentation-6371441.html" class="broken_link">Dataconnexions</a> est une communauté rassemblant de nombreux acteurs de l’innovation (grandes<br />
+    entreprises, pôles de compétitivité, écoles d’ingénieurs, start ups, développeurs…). Ouverte à tous, destinée à faciliter la mise en réseau et la collaboration de ses membres, elle encourage la<br />
+    réutilisation de données publiques pour la création de projets d&rsquo;applications ou de services innovants grâce à plusieurs concours dans l’année, des <a href=    "http://www.etalab.gouv.fr/article-1er-rassemblement-dataconnexions-106082443.html">rassemblements dédiés à l’Open Data</a> et une communauté d’échange en ligne.
+  </p>
+<p>
+    &nbsp;Les porteurs de projet sont invités à concourir dans les catégories « Grand Public », « Professionnels et Utilité Publique » et notamment dans la thématique principale de ce second concours :<br />
+    « Mobilité et territoires »
+  </p>
+<p>
+    Consultez le <a href="http://www.etalab.gouv.fr/pages/reglement-du-concours-dataconnexions-6968207.html" class="broken_link">règlement du concours</a>. (modalités de participation et d&rsquo;inscription aux concours) .
+  </p>
+<p>
+    Participez dès maintenant au second concours Dataconnexions en vous inscrivant <a href="http://www.etalab.gouv.fr/pages/inscription-au-concours-8312011.html" class="broken_link">ici</a>.
+  </p>
+<p><!--EndFragment-->			</p>
+<div class="clear center"></div>
+</p></div>
+<div class="clear"></div>
+<div class="clear">
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dataconnexions : où en sont les projets lauréats de réutilisation des données publiques ?</title>
+		<link>/dataconnexionsouensontlesprojetslaureatsdereutilisationdesdonneespubliques</link>
+		
+		<dc:creator><![CDATA[Etalab]]></dc:creator>
+		<pubDate>Wed, 12 Sep 2012 22:00:00 +0000</pubDate>
+				<category><![CDATA[Réutilisations]]></category>
+		<guid isPermaLink="false">http://www.etalab.gouv.fr/article-dataconnexions-ou-en-sont-les-projets-laureats-de-reutilisation-des-donnees-publiques-110057829-comments.html</guid>
+
+					<description><![CDATA[Etalab, mission interministérielle chargée de coordonner l’ouverture des données publiques, placée sous l’autorité du Premier Ministre, a lancé en février 2012 « Dataconnexions : la communauté des acteurs de l’innovation » pour encourager au maximum la réutilisation des données publiques, et soutenir la création de services et d’applications, mobiles comme internet.&#160; Dataconnexions est une communauté &#8230;<p class="read-more"> <a class="" href="/dataconnexionsouensontlesprojetslaureatsdereutilisationdesdonneespubliques"> <span class="screen-reader-text">Dataconnexions : où en sont les projets lauréats de réutilisation des données publiques ?</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>
+    Etalab, mission interministérielle chargée de coordonner l’ouverture des données publiques, placée sous l’autorité du Premier Ministre, a lancé en février 2012 « Dataconnexions : la communauté<br />
+    des acteurs de l’innovation » pour encourager au maximum la réutilisation des données publiques, et soutenir la création de services et d’applications, mobiles comme internet.&nbsp;
+  </p>
+<p>
+    <img loading="lazy" decoding="async" src="http://www.etalab.cst.easter-eggs.com/wp-content/uploads/2012/09/event.jpg" class="CtreTexte" width="300" height="150" alt="event"/>
+  </p>
+<p>
+    Dataconnexions est une communauté qui permet à tout porteur de projets innovants, réutilisant des données publiques, d’engager le dialogue et des collaborations (opérationnelles, stratégiques,<br />
+    financières…) avec les grands acteurs de l’économie numérique en France (entreprises, pôles de compétitivité, écoles d’ingénieurs, médias…). Pour cela, la communauté Dataconnexions dispose d’une<br />
+    plateforme d’échange dédiée, sur laquelle porteurs de projets et acteurs de l’innovation dialoguent très directement : www. dataconnexions.fr.&nbsp;
+  </p>
+<p>
+    La communauté se rassemble plusieurs fois dans l’année pour récompenser des projets jugés innovants par le jury Dataconnexions de personnalités qualifiées. Le 29 dernier, &nbsp;Dataconnexions#1 a<br />
+    récompensé &nbsp;6 projets lauréats et désigné une mention spéciale du jury. Le palmarès est disponible ici : <a href=    "http://www.etalab.gouv.fr/article-1er-rassemblement-dataconnexions-106082443.html">http://www.etalab.gouv.fr/article-1er-rassemblement-dataconnexions-106082443.html</a>
+  </p>
+<p>
+    Quelques mois après cette remise de prix, Etalab a souhaité savoir comment les projets lauréats se développaient concrètement, et ce que les porteurs de projet étaient parvenus à engager comme<br />
+    collaborations avec les partenaires, acteurs de l’innovation.&nbsp;
+  </p>
+<p>
+    Panorama rapide des retombées de Dataconnexions#1 pour certains projets lauréats &nbsp;et des collaborations en cours :&nbsp;
+  </p>
+<p>
+    &nbsp;
+  </p>
+<p>
+    <strong>Citizens Up</strong>
+  </p>
+<p>
+    <img loading="lazy" decoding="async" src="http://www.etalab.cst.easter-eggs.com/wp-content/uploads/2012/09/CitizensUp.jpg" alt="CitizensUp" class=" DrteTexte" height="75" width="100"/>
+  </p>
+<p>
+    Le fondateur de Citizens Up, Mickaël Jordan a, depuis la remise de prix Dataconnexions, co-fondé la startup Augment (http://www.augmentedev.com/), qui permet de visualiser en 3D des meubles ou de<br />
+    la décoration grâce à la réalité augmentée.
+  </p>
+<p>
+    Augment a également rejoint l&rsquo;accélérateur Le Camping depuis juin 2012, et Mickaël Jordan dirige le développement commercial de la startup.
+  </p>
+<p>
+    En parallèle, le développement de la plateforme Citizens Up se poursuit, en vue de son ouverture au grand public à partir de la fin de l&rsquo;année 2012. Les inscriptions pour la version beta privée<br />
+    sont toujours ouvertes ici : http://citizensup.com&nbsp;/
+  </p>
+<p>
+    Grâce à l’appui de McKinsey &amp; Company, partenaire recherche exclusif de Dataconnexions, Citizens Up a pu rencontrer le McKinsey Institute for Government, échanger sur les meilleures pratiques<br />
+    en matière de visualisation de données pour la gouvernance du secteur public et disposer ainsi d’un retour sur expérience très intéressant et porteur pour leur développement
+  </p>
+<p>
+    &nbsp;
+  </p>
+<p>
+    <strong>Fourmi Santé<img loading="lazy" decoding="async" alt="Fourmisante" height="72" width="128" class="DrteTexte" src="http://www.etalab.cst.easter-eggs.com/wp-content/uploads/2012/09/Fourmisante.jpg"></strong>
+  </p>
+<p>
+    <strong>&nbsp;</strong>Dataconnexions a été l&rsquo;occasion pour Fourmi Santé de démontrer les bénéfices pour le grand public d&rsquo;un comparateur des tarifs de consultation des médecins. Le site a fait<br />
+    l&rsquo;objet de nombreuses réactions positives à la suite du premier concours.
+  </p>
+<p>
+    Le portail grand public, qui se positionne dans la comparaison des prix des soins de ville en France, reçoit un intérêt croissant de la part de fonds d&rsquo;investissement, dans le cadre de la<br />
+    préparation à une levée de fonds prévue en 2013. Basée à Lyon, Fourmi Santé a également reçu une aide financière de la région Rhône Alpes pour soutenir et encourager son développement.
+  </p>
+<p>
+    &nbsp;
+  </p>
+<p>
+    <strong>Home N&rsquo; Go</strong>
+  </p>
+<p>
+    <img loading="lazy" decoding="async" src="http://www.etalab.cst.easter-eggs.com/wp-content/uploads/2012/09/homengo.jpg" alt="homengo" class=" DrteTexte" height="30" width="120"/>Home N&rsquo;<br />
+    Go a vu récemment une belle croissance de son activité, avec 50,000 visiteurs uniques en août, et s&rsquo;apprête désormais à mettre en ligne une nouvelle version de homengo.com
+  </p>
+<p>
+    L&rsquo;équipe fondatrice a rejoint l&rsquo;accélérateur Le Camping en juin, pour six mois d&rsquo;accélération par l&rsquo;émulation d&rsquo;autre équipes, la présence de mentors, de partenaires, et l&rsquo;opportunité de<br />
+    présenter leur projet devant plusieurs centaines d&rsquo;investisseurs à Paris, Londres et Berlin lors des Démo Days.
+  </p>
+<p>
+    Un Partenariat a été scellé avec La Poste, partenaire Industrie de Dataconnexions pour lancer une expérimentation dans le cadre du « Lab Postal », qui présente aux internautes en recherche de<br />
+    logement le service de changement d&rsquo;adresse intégré de la Poste.
+  </p>
+<p>
+    Home N&rsquo; Go a été retenu par le magazine Challenges dans son édition 2012 des « 100 Startups Où Investir », et se positionne pour une levée de fonds début 2013.
+  </p>
+<p>
+    Organisation du 3ème Datapéro sur le thème de la mobilité avec notamment la présence de la SNCF, partenaire Dataconnexions : présentation du service à l&rsquo;occasion de la conférence Open Data<br />
+    organisée par le CG 92 ; déplacement à Londres et rencontres à l&rsquo;occasion de la conférence LeWeb.
+  </p>
+<p>
+    &nbsp;
+  </p>
+<p>
+    <strong>Open Data Soft</strong><strong><img loading="lazy" decoding="async" src="http://www.etalab.cst.easter-eggs.com/wp-content/uploads/2012/09/OpenDataWare_blue.jpg" alt="OpenDataWare blue" class=" DrteTexte" height="34" width="130"/></strong>
+  </p>
+<p>
+    Les retombées médiatiques et la visibilité dont a bénéficié OpenDataSoft à la suite du 1er concours Dataconnexions ont créé de l&rsquo;intérêt pour la plateforme technologique éditée par la société.
+  </p>
+<p>
+    La société poursuit le développement de cette plateforme en se concentrant sur les besoins internes de grands comptes, qui souhaitent croiser les données métiers et des informations publiques qui<br />
+    leur donnent un contexte, et développer des services à destination de leurs clients.Open Data Soft a signé un contrat avec le groupe Bull (filiale SIRUS), dans le cadre du développement de leur<br />
+    offre de Cloud pour les collectivités. Ce partenariat vise à faciliter la mise à disposition des données métier des opérateurs locaux et des collectivités.
+  </p>
+<p>
+    Open Data Soft engage une expérimentation dans le cadre du Lab Postal du groupe La Poste, et a été accepté au sein de l&rsquo;accélérateur « Véolia Generation Accelerator » du groupe Véolia, partenaires<br />
+    Dataconnexions.
+  </p>
+<p>
+    &nbsp;
+  </p>
+<p>
+    <strong>Place de l&rsquo;Immobilier<img loading="lazy" decoding="async" src="http://www.etalab.cst.easter-eggs.com/wp-content/uploads/2012/09/laplacedelimmobilier.jpg" alt="laplacedelimmobilier" class=" DrteTexte" height="38" width="160"/></strong>
+  </p>
+<p>
+    A la suite du 1er concours, Place de l&rsquo;Immobilier a reçu un intérêt marqué de la part de plusieurs capitaux risqueurs. La société poursuit sont développement en France et étudie aujourd&rsquo;hui<br />
+    l&rsquo;opportunité d&rsquo;engager son développement dans d&rsquo;autres marchés internationaux.
+  </p>
+<p>
+    La société a été sollicitée à de nombreuses reprises, à commencer par les médias comme FrecnchWeb ou Les Echos, partenaires médias de Dataconnexions, pour témoigner lors de conférences et de<br />
+    colloques, et pour présenter son modèle d&rsquo;affaire basé sur la réutilisation des données. Cette visibilité, qui a suivi l&rsquo;évènement Dataconnexions a permis de renforcer la crédibilité de<br />
+    l&rsquo;entreprise sur son marché et l&rsquo;intérêt de prospects commerciaux vis-à-vis du monde du Web
+  </p>
+<p>
+    Place de l&rsquo;Immobilier a par ailleurs été sollicité par le COEPIA, organe de conseil du Premier ministre sur l&rsquo;édition publique et l&rsquo;information administrative, pour présenter au Conseil son<br />
+    produit et son modèle d&rsquo;enrichissement de données publiques.
+  </p>
+<p>
+    &nbsp;
+  </p>
+<p>
+    <strong>Voxe.org</strong><img loading="lazy" decoding="async" src="http://www.etalab.cst.easter-eggs.com/wp-content/uploads/2012/09/voxe.jpg" class="DrteTexte" width="100" height="41" alt="voxe"/>
+  </p>
+<p>
+    Voxe.org continue le développement de sa plateforme en vue des élections européennes de 2014. Les rencontres et la visibilité offertes par l&rsquo;évènement Dataconnexions vont aider le projet à se<br />
+    développer en ce sens.
+  </p>
+<p>
+    Voxe sera par ailleurs candidat à un concours organisé par le Ministère des Affaires Etrangères qui pourrait ainsi aider le développement international du projet, et pour lequel le statut de<br />
+    lauréat Dataconnexions est un gage de solidité.
+  </p>
+<p>
+    &nbsp;
+  </p>
+<p>
+    <strong>Webshell</strong><strong><img loading="lazy" decoding="async" src="http://www.etalab.cst.easter-eggs.com/wp-content/uploads/2012/09/Webshell.jpg" class="DrteTexte" width="119" height="31" alt="Webshell"/></strong>
+  </p>
+<p>
+    Webshell, grâce aux conseils de mentor expérimentés, a recentré la proposition de valeur de son produit sur l&rsquo;intégration en ligne, en langage Javascript natif, des API et Services Web. La<br />
+    société vise à devenir la plateforme de référence de distribution d&rsquo;APIs.
+  </p>
+<p>
+    Depuis le 1er évènement Dataconnexions, Webshell a aussi été nommé lauréat du concours de création d&rsquo;entreprise du Ministère de l&rsquo;Enseignement supérieur et de la Recherche.
+  </p>
+<p>
+    L&rsquo;équipe fondatrice a rejoint l&rsquo;accélérateur Le Camping en juin, pour six mois d&rsquo;accélération par l&rsquo;émulation d&rsquo;autre équipes, la présence de mentors, de partenaires, et l&rsquo;opportunité de<br />
+    présenter leur projet devant plusieurs centaines d&rsquo;investisseurs à Paris, Londres et Berlin lors des Démo Days.
+  </p>
+<p>
+    Dans le cadre du Camping, Webshell a reçu le prix Google du concours de pitch (le lot : un ChromeBook flamblant neuf !)
+  </p>
+<p>
+    Webshell a reçu cet été, à la suite de Dataconnexions et de son intégration au Camping, le témoignage du fort intérêt de plusieurs capitaux risqueurs, ce qui encourage la société à envisager à<br />
+    terme une levée de fonds.
+  </p>
+<p>
+    &nbsp;
+  </p>
+<p>
+    &nbsp;
+  </p>
+<p>
+    Toutes ces collaborations engagées entre porteurs de projet lauréat et acteurs de l’innovation démontrent l’importance comme l’utilité de la communauté Dataconnexions, et le besoin<br />
+    d’intermédiation de l’écosystème Open data en France.
+  </p>
+<p>
+    Soucieux de poursuivre sa mission d’encouragement de réutilisation des données publiques, Etalab et les acteurs de l’innovation s’apprêtent à lancer dans les prochains jours, le second concours<br />
+    Dataconnexions#2.
+  </p>
+<p>
+    Dans quelques jours le nouveau règlement sera mis en ligne :&nbsp;Etudiants, Start Up, entreprises, journalistes….Alors à vos projets ! Et rendez vous sur www.etalab.gouv.fr &nbsp;pour la<br />
+    publication du règlement.&nbsp;
+  </p>
+<div class="clear center"></div>
+</p></div>
+<div class="clear"></div>
+<div class="clear">
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

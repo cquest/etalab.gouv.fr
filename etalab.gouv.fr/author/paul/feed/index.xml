@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Paul Schmite &#8211; Etalab</title>
+	<atom:link href="/author/paul/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 15 Oct 2019 08:45:06 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Paul Schmite &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Retour sur le hackathon #HackRisques</title>
+		<link>/retour-sur-le-hackathon-hackrisques</link>
+		
+		<dc:creator><![CDATA[Paul Schmite]]></dc:creator>
+		<pubDate>Wed, 18 Jan 2017 13:05:51 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=6208</guid>
+
+					<description><![CDATA[[:fr]Le 18, 19 et 20 novembre, le Ministère de l’Environnement, de l’Energie et de la Mer et Etalab ont conjointement organisé le Hackathon #HackRisques sur les risques naturels au Tank à Paris. Onze équipes, dix défis et une centaine de participants venus de tous horizons – développeurs, géomaticiens, data scientists, étudiants et spécialistes des risques &#8230;<p class="read-more"> <a class="" href="/retour-sur-le-hackathon-hackrisques"> <span class="screen-reader-text">Retour sur le hackathon #HackRisques</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]Le 18, 19 et 20 novembre, le Ministère de l’Environnement, de l’Energie et de la Mer et Etalab ont conjointement organisé le Hackathon <a href="http://www.developpement-durable.gouv.fr/HackRisques-comment-mieux-prevenir.html" class="broken_link">#HackRisques</a> sur les risques naturels au Tank à Paris.</p>
+<p>Onze équipes, dix défis et une centaine de participants venus de tous horizons – développeurs, géomaticiens, data scientists, étudiants et spécialistes des risques naturels – tous étaient mobilisés pour un intense week-end. L’objectif central de cet évènement ? Permettre de mieux prévenir les conséquences des risques naturels (inondations, submersions marines, tempêtes, orages, feux de forêt, éruptions volcaniques&#8230;) et accroitre le rôle des citoyens dans les dispositifs de prévention. <a href="https://www.etalab.gouv.fr/event/barcamp-hackrisques-sur-la-prevention-des-risques-naturels" class="broken_link">Trois data sessions et un bar camp</a> avaient préfiguré le hackathon.</p>
+<p>A cette occasion, 123 bases de données étaient à disposition des participants. Elles concernent des sujets aussi divers que l’occupation des sols, l’historique des inondations, des mouvements de terrain, des séismes, des incendies de forêts, des risques en montagne… et même le référencement des tsunamis observés en France depuis 1564 ! La liste exhaustive est disponible <a href="https://forum.etalab.gouv.fr/t/donnees-pour-le-hackathon-risques-naturels-entre-loffre-et-la-demande/2919">ici</a>.</p>
+<p>En outre, ce hackathon fut l’occasion d’ouvrir des bases de données inédites : les <a href="https://meem-mlhd.github.io/hackrisques-data/index.html" class="broken_link">données des vigicrues</a> (hauteurs et débits mesurés en temps réels sur 1650 stations), <a href="https://meem-mlhd.github.io/hackrisques-data/index.html" class="broken_link">données sur les permis de construire</a>, <a href="https://meem-mlhd.github.io/hackrisques-data/index.html" class="broken_link">données sur le répertoire des entreprises</a>, <a href="https://meem-mlhd.github.io/hackrisques-data/index.html" class="broken_link">données de cartographie du réseau public de distribution d’électricité</a>&#8230;</p>
+<p>Le hackathon s’est conclu sur la remise des prix à trois équipes :</p>
+<ul>
+<li><a href="http://www.developpement-durable.gouv.fr/Le-palmares-du-hackathon.html" class="broken_link"><strong>Wintdo</strong></a> (« What I Need to do ? ») est un service permettant de prévenir la population de risques imminents. Il s’intègre facilement à des applications déjà installées et communique, via SMS, notifications et réseaux sociaux, sur les comportements à suivre en cas de risques majeurs.</li>
+<li><a href="http://www.developpement-durable.gouv.fr/Le-palmares-du-hackathon.html" class="broken_link"><strong>Greenrisk </strong></a>est un outil d’évaluation de la résilience des entreprises et collectivités en cas de risques naturels majeurs. L’application permet de documenter, d’évaluer et de certifier leur niveau de résistance aux risques naturels.</li>
+<li><a href="http://www.developpement-durable.gouv.fr/Le-palmares-du-hackathon.html" class="broken_link"><strong>Be Waste </strong></a> permet de donner aux décideurs une vision synthétique des coûts financiers et temporels liés à la gestion des déchets après une catastrophe naturelle.</li>
+</ul>
+<p>Mention spéciale du jury pour <a href="http://www.developpement-durable.gouv.fr/Le-palmares-du-hackathon.html" class="broken_link"><strong>Safer</strong></a>, une plateforme d’alerte synthétique, centralisant les informations en temps réel, permettant aux décideurs politiques de prendre les bonnes décisions pendant une crise.</p>
+<p>Ségolène Royal, Ministre de l’Environnement, de l’Energie et de la Mer, a tenu à féliciter les participants. La ministre a remercié les partenaires et a consacré les contributions des participants à la mise en œuvre des politiques environnementales dans le cadre de la <a href="http://www.developpement-durable.gouv.fr/Greentech-verte" class="broken_link">GreenTech Verte</a>.</p>
+<p><strong><u> </u></strong>[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

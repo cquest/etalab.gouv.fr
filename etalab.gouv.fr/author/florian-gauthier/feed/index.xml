@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Florian Gauthier &#8211; Etalab</title>
+	<atom:link href="/author/florian-gauthier/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 15 Oct 2019 08:41:38 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Florian Gauthier &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Un appui scientifique aux administrations</title>
+		<link>/un-appui-scientifique-aux-administrations</link>
+		
+		<dc:creator><![CDATA[Florian Gauthier]]></dc:creator>
+		<pubDate>Fri, 19 Jan 2018 15:21:45 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10667</guid>
+
+					<description><![CDATA[Régulièrement sollicitée par des entreprises privées qui lui proposent des solutions de data-sciences, l’administration n’a pas toujours le recul ou les connaissances scientifiques nécessaires pour évaluer la pertinence des outils qu’on lui propose. Un office de la police judiciaire (DCPJ) du Ministère de l’Intérieur a sollicité, début 2017, l’expertise de l’Administrateur général des données afin &#8230;<p class="read-more"> <a class="" href="/un-appui-scientifique-aux-administrations"> <span class="screen-reader-text">Un appui scientifique aux administrations</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<p>Régulièrement sollicitée par des entreprises privées qui lui 
+proposent des solutions de data-sciences, l’administration n’a pas 
+toujours le recul ou les connaissances scientifiques nécessaires pour 
+évaluer la pertinence des outils qu’on lui propose.</p>
+
+
+
+<p>Un office de la police judiciaire (DCPJ) du Ministère de l’Intérieur a
+ sollicité, début 2017, l’expertise de l’Administrateur général des 
+données afin d’obtenir un soutien scientifique pour évaluer la 
+pertinence d’un produit, s’appuyant sur des algorithmes, destiné à aider
+ les enquèteurs dans les recherches judiciaires.</p>
+
+
+
+<p>A cette occasion, l’AGD a fait appel à trois chercheurs de renom dans
+ le domaine des data sciences afin d’organiser un collège scientifique 
+devant lequel les représentants de l’entreprise en question ont été 
+invités à venir présenter en détail les aspects techniques (hypothèses, 
+méthodologie, algorithmes, base d’apprentissage, etc.) de l’outil qu’ils
+ proposent.</p>
+
+
+
+<p>Le collège scientifique s’est déroulé – dans une stricte 
+confidentialité – le 22 décembre dernier dans les locaux de la DINSIC à 
+Paris. Les ingénieurs de la société en question ont présenté leur outil 
+dans ses moindres détails, ce qui a donné lieu à de nombreuses 
+discussions notamment autour des algorithmes utilisés.</p>
+
+
+
+<p>Cette rencontre a finalement permis d’apporter un éclairage précieux à
+ cet office quant à la pertinence scientifique des résultats obtenus par
+ la solution proposée, et ainsi de d’accompagner le ministère dans son 
+processus d’achat.</p>
+
+
+
+<p>De manière plus générale, l’AGD a pour ambition de développer ce 
+réseau d’experts à la pointe dans le domaine des data sciences, voire 
+dans d’autres disciplines, afin de doter les administrationsd’un appui 
+scientifique qu’elles peuvent mobiliser en fonction de leurs besoins.</p>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="425" height="320" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-agd3.jpg" alt="" class="wp-image-10668" srcset="/wp-content/uploads/2019/06/image-agd3.jpg 425w, /wp-content/uploads/2019/06/image-agd3-300x226.jpg 300w" sizes="(max-width: 425px) 100vw, 425px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Besoin d’aide ?</h2>
+
+
+
+<p>Vous êtes une administration et vous souhaiteriez réunir ce collège  scientifique pour ouvrir le capot d’un outil qui vous est proposé ?  Contactez-nous : <a href="mailto:team-agd@data.gouv.fr">team-agd@data.gouv.fr</a></p>
+
+
+
+<h2 class="wp-block-heading">Envie de partager votre expertise ?</h2>
+
+
+
+<p>Vous êtes chercheur ou universitaire spécialiste dans un domaine de la  data science et volontaire pour faire partie de ce réseau de chercheurs ?  Contactez-nous avec votre CV et votre spécialité : <a href="mailto:team-agd@data.gouv.fr">team-agd@data.gouv.fr</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Prédire les vols de voitures ?</title>
+		<link>/predire-les-vols-de-voitures</link>
+		
+		<dc:creator><![CDATA[Florian Gauthier]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2018 15:27:02 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[Predvol]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10670</guid>
+
+					<description><![CDATA[Résumé : En 2015, l’équipe de l’Administrateur général des données au sein de la DINSIC a développé en collaboration avec le Service des technologies et des systèmes d’information de la Sécurité intérieure (ST(SI)è), un modèle de prédiction des vols liés aux véhicules. Cette collaboration a permis de développer Predvol, un outil d’aide à la décision &#8230;<p class="read-more"> <a class="" href="/predire-les-vols-de-voitures"> <span class="screen-reader-text">Prédire les vols de voitures ?</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Résumé :</strong></p>
+
+
+
+<p>En 2015, l’équipe de l’Administrateur général des données au sein de 
+la DINSIC a développé en collaboration avec le Service des technologies 
+et des systèmes d’information de la Sécurité intérieure (ST(SI)è), un 
+modèle de prédiction des vols liés aux véhicules. Cette collaboration a 
+permis de développer <strong>Predvol</strong>, un outil d’aide à la 
+décision pour les policiers et les gendarmes, comprenant une prédiction 
+quotidienne du risque de vols, une carte de l’historique des vols et une
+ typologie des quartiers en fonction de la nature des infractions qui y 
+sont commises.</p>
+
+
+
+<p>Ce projet, qui fut l’un des premiers de l’AGD, vit le jour lors d’une
+ rencontre entre Etalab et le ST(SI)è. Les responsables du ST(SI)è, 
+soucieux de tirer parti des avancées en matière de data-sciences, 
+cherchaient un appui scientifique pour expérimenter des techniques 
+d’apprentissage automatique (<em>machine learning</em>) sur un territoire.
+ Le département de l’Oise, particulièrement exposé aux vols de voitures,
+ réunissait les conditions pour lancer un projet.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="768" height="554" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-agd4.jpeg" alt="" class="wp-image-10671" srcset="/wp-content/uploads/2019/06/image-agd4.jpeg 768w, /wp-content/uploads/2019/06/image-agd4-300x216.jpeg 300w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>   <em>Vols de véhicules dans l&rsquo;Oise en 2015 (Source : Datafrance)</em> </figcaption></figure>
+
+
+
+<p>Définir une problématique claire est indispensable au 
+démarrage d&rsquo;un projet de data-sciences. S&rsquo;agissant des vols de voitures,
+ nous sommes partis du constat suivant :</p>
+
+
+
+<figure class="wp-block-image is-resized"><img decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-agd5-1024x552.jpeg" alt="" class="wp-image-10672" width="666" height="358" srcset="/wp-content/uploads/2019/06/image-agd5-1024x552.jpeg 1024w, /wp-content/uploads/2019/06/image-agd5-300x162.jpeg 300w, /wp-content/uploads/2019/06/image-agd5-768x414.jpeg 768w" sizes="(max-width: 666px) 100vw, 666px" /><figcaption>   <em>Patrouilles vs Répartition des vols (2014)</em> </figcaption></figure>
+
+
+
+<p>
+  Un simple coup d&rsquo;œil permet de s&rsquo;apercevoir que 
+certaines zones très surveillées par les forces de l&rsquo;ordre, observent 
+aussi de nombreux vols de véhicules (zones A), tandis que d&rsquo;autres, bien
+ que très touchées par les vols de véhicules, sont très peu empruntées 
+par les patrouilles (zones B).
+</p>
+
+
+
+<p>
+  <em>Dans quelle mesure serait-il possible d&rsquo;anticiper 
+les vols de voitures afin d&rsquo;aboutir à une meilleure orientation des 
+patrouilles de police et de gendarme ?</em>
+</p>
+
+
+
+<p>
+  Afin de répondre à cette problématique, le ST(SI)è 
+nous a transmis des données provenant directement des bases de dépèts de
+ plaintes auprès de la police et de la gendarmerie : LRPPN et LRPGN. En 
+tout, 3 ans d&rsquo;historique de vols liés aux véhicules en ont été extraits.
+ Chaque ligne correspondait à une infraction définie par un lieu 
+(coordonnées XY), une date ainsi que quelques informations – souvent 
+manquantes – sur le véhicule volé.
+</p>
+
+
+
+<p>
+  Par ailleurs, <strong>un contact régulier avec les utilisateurs finaux</strong>
+ s&rsquo;est très vite imposé afin d&rsquo;identifier précisément les problématiques
+ des acteurs de terrain et leurs façons de travailler. Deux besoins très
+ distincts ont tout de suite fait surface :
+</p>
+
+
+
+<p>
+  1) Cibler les zones les plus à risques en amont de la patrouille
+</p>
+
+
+
+<p>
+  2) Un outil d&rsquo;aide à la décision pendant la patrouille
+</p>
+
+
+
+<p>
+  Sur ce premier point, il convenait tout d&rsquo;abord de définir un découpage géographique optimal afin d&rsquo;<em>entraîner</em>
+ nos algorithmes. Le découpage IRIS proposé par l&rsquo;INSEE, apportant le 
+meilleur arbitrage taille/quantité de données disponibles, s&rsquo;imposa 
+comme le meilleur candidat. Ce dernier permit en effet d&rsquo;enrichir notre 
+base de données d&rsquo;apprentissage avec <strong>plus de 600 variables socio-démographiques sur ces zones </strong>(taux
+ de chèmage, scolarisation des jeunes, nombre de commerces à proximité, 
+èges moyens, &lsquo;). Ajouté à cela, nous avons calculé d&rsquo;autres indicateurs 
+sur les circonstances temporelles des vols : Y-avait-il eu un vol la 
+veille ? L&rsquo;avant-veille ? Dans les quartier voisins ? Quelle était la 
+météo du jour ? &lsquo;
+</p>
+
+
+
+<p>
+  Le principe est en effet d&rsquo;amener, <strong>sans a priori</strong>,
+ le maximum de variables dans notre base de données (ici plus de 650 
+variables) puis de laisser les algorithmes de machine learning 
+sélectionner les meilleures prédicteurs pour anticiper les vols de 
+voitures.
+</p>
+
+
+
+<p>
+  Nous avons alors testé 3 grandes familles 
+d&rsquo;algorithmes afin d&rsquo;anticiper au mieux, chaque jour, les vols liés au 
+véhicules dans les 799 quartiers l&rsquo;Oise :
+</p>
+
+
+
+<p>
+  A) Des algorithmes basés sur une grande quantité de variables
+</p>
+
+
+
+<p>
+  Ces algorithmes figurent parmi les plus classiques de
+ la littérature en matière de machine learning : régression logistique, 
+forèts aléatoires, boosting, forèts aléatoires extrèmement randomisées, 
+XGBoost&rsquo; Ces algorithmes utilisent une très grande quantité de 
+variables, sélectionnent les meilleurs prédicteurs en leur associant des
+ pondérations et les utilisent pour tenter anticiper la variable 
+d&rsquo;intérèt.
+</p>
+
+
+
+<p>
+  B) Les algorithmes de PredPol, une entreprise américaine connue dans ce domaine 
+</p>
+
+
+
+<p>
+  Revendiquant la place numéro 1 en matière de <em>predictive policing</em>,
+ la société PredPol utilise des algorithmes initialement développés par 
+un sismologue français, David Marsan, afin de prédire les répliques des 
+séismes. PredPol a fait l&rsquo;hypothèse que <strong>les crimes se comportent comme les séismes</strong> :
+</p>
+
+
+
+<p>
+  – <strong>il existe un risque-terrain </strong>: des zones plus sujettes au crime (calculé en fonction du passé)
+</p>
+
+
+
+<p>
+  – <strong>les crimes entraînent des répliques (on parle d&rsquo;effet de « contagion »)</strong>
+ c&rsquo;est-é-dire que lorsqu&rsquo;il y a un crime dans une zone, la probabilité 
+qu&rsquo;il en survienne un autre dans une zone géographique proche est plus 
+grande et décroét avec le temps.
+</p>
+
+
+
+<p>
+  Nous avons implémenté leurs algorithmes et les avons testé sur les vols liés aux véhicules. Voici les résultats :
+</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="558" height="379" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-agd6.png" alt="" class="wp-image-10673" srcset="/wp-content/uploads/2019/06/image-agd6.png 558w, /wp-content/uploads/2019/06/image-agd6-300x204.png 300w" sizes="(max-width: 558px) 100vw, 558px" /><figcaption>   <em>Nombre de répliques</em> </figcaption></figure>
+
+
+
+<p>
+  Deux constats :
+</p>
+
+
+
+<ul><li>
+    Les vols de véhicules dans l&rsquo;Oise n&rsquo;ont pas de mémoire (Tetha&rsquo;0).
+  </li><li>
+    Seuls le « risque terrain »du quartier est important.
+  </li></ul>
+
+
+
+<p>
+  Ce deuxième constat nous a alors conduit à tester notre troisième algorithme.
+</p>
+
+
+
+<p>
+  C) Les cartes de chaleurs évolutives
+</p>
+
+
+
+<p>
+  Une carte de chaleur est finalement exactement comme 
+le modèle de PredPol sauf qu&rsquo;on enlève la complexité du facteur de 
+contagion. On prédira comme zone la plus risquée demain, la zone dans 
+laquelle ont été observés le plus de vols dans le passé. Il convient 
+désormais de définir ce fameux « passé ». En effet, la technique des 
+« punaises sur la carte » (infractions du dernier mois) est toujours 
+couramment utilisée par la police et la gendarmerie. Notre idée ici 
+était de <strong>trouver l&rsquo;historique optimal </strong><strong>qu&rsquo;il faut utiliser afin d&rsquo;obtenir la carte de chaleur prédictive la plus pertinente.</strong>
+</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="892" height="491" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-agd7.png" alt="" class="wp-image-10674" srcset="/wp-content/uploads/2019/06/image-agd7.png 892w, /wp-content/uploads/2019/06/image-agd7-300x165.png 300w, /wp-content/uploads/2019/06/image-agd7-768x423.png 768w" sizes="(max-width: 892px) 100vw, 892px" /><figcaption><em>Capacité prédictive et précision du HotSpot en fonction de l&rsquo;historique utilisé (train_size)</em></figcaption></figure>
+
+
+
+<p>
+  Nous avons comparé les différents historiques 
+utilisés selon les deux facteurs clés d&rsquo;un modèle prédictif : la 
+capacité prédictive et la précision du modèle. Un historique trop petit 
+(les fameuses punaises) pénalisent grandement la capacité prédictive du 
+modèle, tandis qu&rsquo;un historique trop grand pénalise sa précision. Afin 
+d&rsquo;obtenir le meilleur ratio capacité prédictive / précision, <strong>construire notre carte de chaleur sur neuf mois semblait le seuil optimal.</strong>
+</p>
+
+
+
+<p>
+  Une fois nos modèles construits, il s&rsquo;agissait 
+ensuite de les comparer. La méthodologie est très classique : les 
+algorithmes ont été entraénés sur une partie de la base de données (la 
+première année d&rsquo;infractions) puis testés sur une seconde partie que les
+ algorithmes n&rsquo;avaient jamais vu (les deux dernières années). Les 
+résultats furent sans appel :
+</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="768" height="468" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-agd8.png" alt="" class="wp-image-10675" srcset="/wp-content/uploads/2019/06/image-agd8.png 768w, /wp-content/uploads/2019/06/image-agd8-300x183.png 300w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>   <em>Pourcentage de vols couverts (moyenne sur les 6 mois du test) en fonction du nombre d&rsquo;IRIS couverts chaque jour</em> </figcaption></figure>
+
+
+
+<p>
+  Les modèles prédictifs donnaient tous d&rsquo;excellents résultats : <strong>cibler en moyenne 10 % des quartiers prédits les plus risqués par le modèle permettait de couvrir 50% des vols.</strong>
+</p>
+
+
+
+<p>
+  De plus, <strong>le modèle le plus simple </strong>(carte de chaleur prédictive)<strong> permettait d&rsquo;obtenir des résultats quasiment identiques aux modèles les plus complexes </strong>(celui de PredPol, notamment)
+</p>
+
+
+
+<p>
+  <em>Simple is Beautiful. </em>Cet adage bien connu prit alors tout son sens. Pourquoi ajouter un coût en complexité important lorsqu&rsquo;on peut faire <em>presque </em>aussi
+ bien avec un modèle simplissime ? Cela est d&rsquo;autant plus vrai dès lors 
+qu&rsquo;on envisage d&rsquo;intégrer nos travaux lors de la mise en production dans
+ les systèmes d&rsquo;information de l&rsquo;état dont les environnements ne sont 
+pas toujours prèts é recevoir des calculs complexes.
+</p>
+
+
+
+<p>
+  Le modèle choisi, nous avons construit un outil 
+baptisé « PredVol », optimisé pour un usage en mobilité (sur tablette) 
+afin de rendre disponibles les résultats des prédictions journalières 
+aux opérationnels de terrain. Nous avons doté PredVol de 3 onglets, l&rsquo;un
+ permettant de visualiser les quartiers prédits les plus risqués par le 
+modèle, le second affichant une typologie des quartiers en fonctions des
+ types de vols les plus présents dans chaque quartier, et un troisième 
+permettant de visualiser les faits passés sur une carte.
+</p>
+
+
+
+<p>
+  Côté Gendarmerie, l&rsquo;outil a été intégré aux outils 
+décisionnels et testé au sein de la compagnie de Compiègne à partir de 
+mai 2016. Côté Police nationale, l&rsquo;outil a été testé par les agents de 
+la Direction départementale de la sécurité publique (DDSP) de Beauvais 
+et notamment en patrouille par la brigade anti-criminalité (BAC).
+</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="562" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-agd9-1024x562.png" alt="" class="wp-image-10676" srcset="/wp-content/uploads/2019/06/image-agd9-1024x562.png 1024w, /wp-content/uploads/2019/06/image-agd9-300x165.png 300w, /wp-content/uploads/2019/06/image-agd9-768x421.png 768w, /wp-content/uploads/2019/06/image-agd9.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>   <em>PredVol – Prédictions quotidiennes</em> </figcaption></figure>
+
+
+
+<p>
+  Pendant 6 mois d&rsquo;expérimentation, nous avons eu 
+l&rsquo;occasion d&rsquo;améliorer l&rsquo;outil PredVol afin qu&rsquo;il réponde au mieux aux 
+usages opérationnels. Cette étape cruciale nous a par exemple permis, en
+ patrouillant avec la BAC de Beauvais, de réaliser que les boutons de 
+sélection étaient trop petits pour ètre utilisés dans les virages.éAprès
+ 6 mois d&rsquo;expérimentation, nous avons réalisé que l&rsquo;essentiel de 
+l&rsquo;attention des patrouilles se dirigeait non pas sur les prédictions 
+quotidiennes, mais sur la simple visualisation des faits passés. En 
+effet,si<strong> les prédictions – bien que toujours très 
+performantes – ne permettaient que de confirmer les zones é risques 
+connues par les opérationnels</strong>, la simple visualisation des faits (onglet 3) représentait un très net progrès dans leur usage quotidien.
+</p>
+
+
+
+<p>Fort de ce constat, nous avons développé un nouvel outil sur-mesure 
+pour les brigades et cette fois entièrement porté sur la visualisation 
+des infractions :</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="510" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-adm-10-1024x510.jpg" alt="" class="wp-image-10678" srcset="/wp-content/uploads/2019/06/image-adm-10-1024x510.jpg 1024w, /wp-content/uploads/2019/06/image-adm-10-300x150.jpg 300w, /wp-content/uploads/2019/06/image-adm-10-768x383.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>   <em>MapVHL – Visualisation des infractions</em> </figcaption></figure>
+
+
+
+<p>
+  Ainsi qu&rsquo;un autre permettant de visualiser <strong>les découvertes de véhicules volés</strong>,
+ permettant ainsi aux brigades d&rsquo;orienter leurs recherches lorsqu&rsquo;un 
+véhicule est volé, en fonction de sa marque et de son modèle.
+</p>
+
+
+
+<p>
+  Enfin, permettre aux agents du terrain de visualiser les faits qu&rsquo;ils renseignent au moment des plaintes<strong> amorce un cercle vertueux</strong>
+ : cela les encourage à recueillir des données de qualité, condition 
+nécessaire – datascience ou pas – à l&rsquo;obtention de résultats pertinents.
+</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A vos souhaits ! : Eternue-t-on plus à cause de la pollution ?</title>
+		<link>/a-vos-souhaits</link>
+		
+		<dc:creator><![CDATA[Florian Gauthier]]></dc:creator>
+		<pubDate>Thu, 13 Jul 2017 15:27:59 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Airparif]]></category>
+		<category><![CDATA[allergies]]></category>
+		<category><![CDATA[IAS]]></category>
+		<category><![CDATA[particules fines]]></category>
+		<category><![CDATA[pollen]]></category>
+		<category><![CDATA[pollution]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=7170</guid>
+
+					<description><![CDATA[[:fr] Face au non respect des réglementations appliquées aux particules fines et à l&#8217;émission de dioxyde d&#8217;azote, le Conseil d&#8217;Etat enjoignait hier le gouvernement à prendre des mesures urgentes contre la pollution (source). De notre côté, nous avons observé une multiplication soudaine des éternuements dans l&#8217;open space depuis le mois de mars. L&#8217;apparition des premières &#8230;<p class="read-more"> <a class="" href="/a-vos-souhaits"> <span class="screen-reader-text">A vos souhaits ! : Eternue-t-on plus à cause de la pollution ?</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<p style="text-align: justify;">Face au non respect des réglementations appliquées aux particules fines et à l&rsquo;émission de dioxyde d&rsquo;azote, le Conseil d&rsquo;Etat enjoignait hier le gouvernement à prendre des mesures urgentes contre la pollution (<a href="http://www.conseil-etat.fr/Actualites/Communiques/Pollution-de-l-air" class="broken_link">source</a>). De notre côté, nous avons observé une multiplication soudaine des éternuements dans l&rsquo;open space depuis le mois de mars. L&rsquo;apparition des premières Ventolines a été le déclencheur d&rsquo;une réelle discussion de fond entre nous : <strong>la pollution pourrait-elle en être la cause principale ?</strong> <strong>Nos datascientists, claviers et mouchoirs en main, ont tenté d&rsquo;éclaircir cette interrogation en utilisant les données ouvertes*.</strong></p>
+<p class="p3"><span class="s1">Pour ce qui est de l&rsquo;impact sur les pollens, <a href="https://www.airparif.asso.fr/pollution/effets-de-la-pollution-pollens" class="broken_link">Airparif est formel </a><strong> :</strong><br />
+</span></p>
+<blockquote>
+<p class="p4"><span class="s1">« La pollution atmosphérique accroît les effets des pollens :</span></p>
+<p>&#8211; Elle rend les pollens plus allergènes.</p>
+<p>&#8211; La sensibilité des individus aux pollens est accrue lors des épisodes de pollution.</p>
+<p>&#8211; Elle peut contribuer à l&rsquo;accroissement de la période de pollinisation. »</p></blockquote>
+<p>Et qu&rsquo;en est-il des autres allergènes ? La pollution accentue-t-elle aussi leurs effets ?</p>
+<p><span class="s1">Une façon de le vérifier par la donnée serait de calculer les corrélations entre l&rsquo;évolution des pathologies allergiques et celles des polluants atmosphériques. </span></p>
+<h3><span style="text-decoration: underline;"><em><span class="s1"><b>1 &#8211; Trouver des données sur les pathologies allergiques et leur évolution<br />
+</b></span></em></span></h3>
+<p class="p3" style="text-align: justify;"><span class="s2"><strong>Chaque jour, l’IAS Allergies </strong>(l’indicateur avancé sanitaire proposé par Open Health)<strong> publie sur <a href="http://www.data.gouv.fr/fr/organizations/celtipharm/">data.gouv.fr</a> le niveau des pathologies allergiques en France</strong>. </span><span class="s2">Cet indicateur se positionne comme un indicateur complémentaire de la surveillance des pollens, et permet de suivre l’évolution spatio-temporelle des allergies saisonnières. </span><span class="s2">Le modèle utilisé pour l’IAS Allergies est basé sur le suivi d’un ensemble de médicaments indiqués dans le traitement symptomatiques des allergies en France. </span><span class="s2">Les données publiées sont disponibles par région (selon l’ancien découpage) et par saison sur 10 mois glissants :</span></p>
+<p class="p3"><img loading="lazy" decoding="async" class=" wp-image-7180 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/06/1_all_graph.png" alt="" width="822" height="521" srcset="/wp-content/uploads/2017/06/1_all_graph.png 996w, /wp-content/uploads/2017/06/1_all_graph-300x190.png 300w, /wp-content/uploads/2017/06/1_all_graph-768x487.png 768w" sizes="(max-width: 822px) 100vw, 822px" /></p>
+<p style="text-align: justify;"><strong>Si vous aussi vous ne sortez plus de chez vous sans un paquet de mouchoirs dans la poche, rassurez-vous, vous n’êtes pas seul :</strong> le niveau de pathologies allergiques a explosé dans toute la France entre mars et mai 2017, atteignant son paroxysme mi-avril. Seules exceptions : la région PACA, la Corse et l&rsquo;Alsace ont observé des pics de pathologies allergiques dès le début du mois de février. De manière générale, la présence de pathologies allergiques évolue de façon quasi-identique entre les régions françaises.</p>
+<h3><span style="text-decoration: underline;"><em><span class="s1"><b>2 &#8211; Trouver des données s</b></span><span class="s1"><b>ur l</b></span><span class="s1"><b>a pollution atmosp</b></span></em></span><span class="s1"><b><span style="text-decoration: underline;"><em>hérique </em></span><br />
+</b></span></h3>
+<p class="p3" style="text-align: justify;"><span class="s3"><a href="https://www.airparif.asso.fr/">Airparif</a></span> <span class="s1">étant l’organisme chargé de surveiller la qualité de l’air pour la seule région Île-de-France, nous sommes successivement entrés en contact avec la fédération des ASQAA (<a href="http://www.atmo-france.org/fr/"><span class="s5">Atmo-France</span></a>) puis le LCSQA (Laboratoire de Surveillance de la Qualité de l’Air) afin d’obtenir <strong>des données consolidées au niveau national.</strong> </span><span class="s1">C’est finalement sur le site du <a href="http://www.lcsqa.org/"><span class="s5">LCSQA</span></a> que nous avons pu mettre la main sur des mesures de la qualité de l’air par région. </span></p>
+<p class="p3" style="text-align: justify;"><span class="s1">Malheureusement, <strong>seules des données de « dépassement de seuil de pollution » sont aujourd’hui accessibles en open data </strong>(il faudra attendre 2018 pour avoir des données plus fines). Notons que ces seuils ne donnent une vue que très partielle du niveau des polluants : des polluants peuvent très bien avoir des niveaux de concentrations atmosphériques très élevés (et avoir un impact sur les allergies ?) sans pour autant que leurs seuils soient dépassés. </span></p>
+<p class="p3" style="text-align: justify;"><span class="s1">Les dépassements de seuils concernent <strong>en très grande majorité (88%) les particules en suspension PM10</strong> &lt; 10<i> µ</i><span class="s2"><i>/m</i></span><span class="s3"><i><sup>3 </sup></i></span> sur la période d&rsquo;octobre 2016 à juin 2017. En voici un extrait</span><span class="s1"> :</span></p>
+<p class="p1"><img loading="lazy" decoding="async" class="wp-image-7184 size-large aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/06/1_bis_table-1024x268.png" width="806" height="211" srcset="/wp-content/uploads/2017/06/1_bis_table-1024x268.png 1024w, /wp-content/uploads/2017/06/1_bis_table-300x78.png 300w, /wp-content/uploads/2017/06/1_bis_table-768x201.png 768w, /wp-content/uploads/2017/06/1_bis_table-150x38.png 150w, /wp-content/uploads/2017/06/1_bis_table.png 1170w" sizes="(max-width: 806px) 100vw, 806px" /></p>
+<p style="text-align: justify;">Nous avions remarqué sur le précédent graphique que la <span style="color: #3366ff;"><strong>région PACA</strong></span> avait observé une hausse anticipée des pathologies allergiques par rapport aux autres régions. Peut-être que celle-ci a été la conséquence d&rsquo;une hausse soudaine des particules fines dans l&rsquo;air ? Regardons !</p>
+<p class="p1"><img loading="lazy" decoding="async" class="size-full wp-image-7337 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/06/PACA.png" alt="" width="665" height="211" srcset="/wp-content/uploads/2017/06/PACA.png 665w, /wp-content/uploads/2017/06/PACA-300x95.png 300w" sizes="(max-width: 665px) 100vw, 665px" /></p>
+<p class="p1" style="text-align: justify;"><span class="s1">Les <strong>triangles</strong> représentent des dépassements de seuils dont la valeur est indiquée sur l&rsquo;axe de droite (violet). Ainsi, plus le triangle est haut, plus le seuil de pollution dépassé est important.</span></p>
+<p class="p1"><span class="s1">En région PACA, un pic de pollution &gt; 50<i> µ</i></span><span class="s2"><i>/m</i></span><span class="s3"><i><sup>3 </sup></i></span><span class="s1">a été constaté fin-janvier 2017. Un bref coup d&rsquo;oeil au graphique nous permet de faire 2 constats :</span></p>
+<ol>
+<li class="p3"><span class="s1">Le pic de pollution de fin-janvier survient au même moment qu’une légère augmentation des pathologies allergiques sur le mois de janvier. </span></li>
+<li class="p1"><span class="s1">Aucun pic de pollution n’a été constaté à partir de mi-février, pourtant les pathologies allergiques ont explosé.</span></li>
+</ol>
+<p style="text-align: justify;">Ceci n&rsquo;est pas très concluant. L&rsquo;évolution atypique des pathologies allergiques dans la région PACA ne semble pas provenir de dépassements de seuils de polluants atmosphériques (en tous cas pas des particules fines PM10).</p>
+<p class="p1"><span style="color: #3366ff;"><strong><span class="s1">Regardons ce qu’il se passe dans les autres régions :</span></strong></span></p>
+<p class="p1"><img loading="lazy" decoding="async" class="size-full wp-image-7202 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/06/2_all_region_triangles-1.png" alt="" width="1182" height="863" srcset="/wp-content/uploads/2017/06/2_all_region_triangles-1.png 1182w, /wp-content/uploads/2017/06/2_all_region_triangles-1-300x219.png 300w, /wp-content/uploads/2017/06/2_all_region_triangles-1-768x561.png 768w, /wp-content/uploads/2017/06/2_all_region_triangles-1-1024x748.png 1024w" sizes="(max-width: 1182px) 100vw, 1182px" /></p>
+<p style="text-align: justify;">On observe tout d&rsquo;abord qu&rsquo;il y a eu <strong>de très nombreux dépassement de seuils</strong> depuis octobre 2016, et d&rsquo;autant plus dans les régions Rhône-Alpes, Midi-Pyrénées, Bretagne et Ile-de-France.</p>
+<p style="text-align: justify;">Il est difficile d&rsquo;affirmer quoi que ce soit quant à la corrélation entre la survenue de ces dépassements et la hausse des pathologies allergiques. Certes, <strong>on remarque qu&rsquo;un dépassement de seuil de pollution est parfois accompagné d&rsquo;une hausse soudaine des pathologies allergiques</strong> : par exemple en Languedoc-Roussillon (fin-janvier 2017) ou en Franche-Comte (décembre 2016), mais le manque de données granulaires est pénalisant pour l&rsquo;étude. Nous restons sur notre faim : d&rsquo;une part cette « corrélation graphique » est loin d&rsquo;être évidente, et d&rsquo;autre part il existe de nombreux polluants atmosphériques autres que les PM10, principalement présentes dans la base de données, qui pourraient impacter nos narines.</p>
+<p style="text-align: justify;">Faute d&rsquo;avoir des données granulaires sur toutes les régions françaises, nous nous replions sur les <strong>seules données <span class="s1"><a href="https://www.airparif.asso.fr/telechargement/telechargement-polluant" class="broken_link"><span class="s2">mises à disposition par Airparif</span></a></span>, </strong>qui ne concernent que l&rsquo;Île-de-France. <span class="s1">Elles nous donnent en effet, le niveau de c<strong>oncentration horaire par station des principaux polluants atmosphériques en Île-de-France</strong> : Oxydes de carbone (CO), Dioxyde d’Azote (NO2), Particules fines en suspension (PM10 et PM25), Ozone (O3), Dioxyde de Souffre (SO2) et Oxyde d’Azote (NOX).</span></p>
+<h3><span style="text-decoration: underline;"><em><span class="s1"><b>3 &#8211; Apprécier les corrélations </b></span></em><b></b></span></h3>
+<p><span class="s1" style="color: #333333;">Commençons par tracer les courbes afin de pressentir d’éventuelles corrélations entres <strong>les pathologies allergiques</strong> (vert, pointillés) et <strong>les polluants</strong> (rose) :</span></p>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-7416 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/06/3_all_polluants-1.png" alt="" width="1223" height="875" srcset="/wp-content/uploads/2017/06/3_all_polluants-1.png 1223w, /wp-content/uploads/2017/06/3_all_polluants-1-300x215.png 300w, /wp-content/uploads/2017/06/3_all_polluants-1-768x549.png 768w, /wp-content/uploads/2017/06/3_all_polluants-1-1024x733.png 1024w" sizes="(max-width: 1223px) 100vw, 1223px" /></p>
+<p class="p1" style="text-align: justify;"><span class="s1">Un rapide coup d’œil permet de constater que <strong>le polluant Ozone</strong> <strong>&#8211; lié aux émanations automobiles (<a href="https://fr.wikipedia.org/wiki/Ozone_troposph%C3%A9rique">Source</a>) &#8211; et le niveau de pathologies allergiques semblent évoluer de façons similaires</strong>. </span><span class="s1">Vérifions-le en calculant les corrélations globales avec les pathologies allergiques :</span></p>
+<table style="margin-left: auto; margin-right: auto; border-spacing: 0px; border-collapse: collapse; border: 1px solid #dddddd;">
+<tbody>
+<tr>
+<th style="border-style: solid; border-width: 1px; text-align: center;">Polluant</th>
+<th style="border-style: solid; border-width: 1px; text-align: center;">Corrélation avec les pathologies allergiques</th>
+</tr>
+<tr style="text-align: center;">
+<td style="border-style: solid; border-width: 1px;">CO</td>
+<td style="border-style: solid; border-width: 1px;">-0.258490</td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-style: solid; border-width: 1px;">NO2</td>
+<td style="border-style: solid; border-width: 1px;">-0.217785</td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-style: solid; border-width: 1px;">PM25</td>
+<td style="border-style: solid; border-width: 1px;">-0.205211</td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-style: solid; border-width: 1px;">PM10</td>
+<td style="border-style: solid; border-width: 1px;">-0.146558</td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-style: solid; border-width: 1px;"><strong>O3</strong></td>
+<td style="border-style: solid; border-width: 1px;"><strong>0.558341</strong></td>
+</tr>
+<tr style="text-align: center;">
+<td style="border-style: solid; border-width: 1px;">SO2</td>
+<td style="border-style: solid; border-width: 1px;">-0.158846</td>
+</tr>
+</tbody>
+</table>
+<p class="p1" style="text-align: justify;">Pour rappel, une corrélation proche de 1 en valeur absolue (ie 1 ou -1) traduit une relation forte entre deux indicateurs, tandis qu’une corrélation proche de 0 traduit l’absence de relation.<span class="s1">Ainsi, le calcul des corrélations entre les polluants et les pathologies allergiques confirme notre observation :<strong> il existe une corrélation positive forte (0.55) entre l’évolution de ces deux indicateurs </strong><strong>le même jour</strong>. Cela signifie qu’une augmentation (respectivement diminution) du niveau de l’un, s’accompagne souvent par une augmentation (respectivement diminution) du niveau de l’autre. On remarque aussi que le polluant PM10, dont était composé à 88% notre précédent jeu de données, a une corrélation proche de zéro (-0.14) avec les pathologies allergiques :<em> </em>il n&rsquo;y a donc quasiment aucune relation entre ces deux indicateurs en Île-de-France.</span></p>
+<p class="p1" style="text-align: justify;"><span class="s1"><em><strong>Il existe peut-être un délai entre le moment où les gens commencent à ressentir les symptômes d&rsquo;une pathologie allergique et le moment où ils décident d&rsquo;aller chez le médecin pour se faire prescrire un traitement.</strong></em> Le calcul des corrélations dîtes « croisées » va nous permettre de vérifier cette hypothèse en testant les relations entre ces deux courbes dont l&rsquo;une &#8211; la courbe d&rsquo;Ozone &#8211; a été décalée dans le temps (retardée) :</span></p>
+<p class="p1"><img loading="lazy" decoding="async" class="size-full wp-image-7174 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/06/4_cross_correlations.png" alt="" width="884" height="334" srcset="/wp-content/uploads/2017/06/4_cross_correlations.png 884w, /wp-content/uploads/2017/06/4_cross_correlations-300x113.png 300w, /wp-content/uploads/2017/06/4_cross_correlations-768x290.png 768w" sizes="(max-width: 884px) 100vw, 884px" /></p>
+<p class="p1" style="text-align: justify;"><span class="s1">La corrélation est donc maximale (autour de 0.67) entre le niveau de pathologies allergiques et la concentration en Ozone constatée entre 35 et 40 jours auparavant. Notre hypothèse est vérifiée : un hausse du niveau de pollution a tendance à être accompagnée d&rsquo;une hausse du niveau de pathologie allergiques 1 mois plus tard.<br />
+</span></p>
+<p style="text-align: justify;">Testons une deuxième hypothèse:<em> <strong>Un niveau moyen élevé du polluant Ozone sur plusieurs jours consécutifs a d&rsquo;autant plus d&rsquo;impact sur la prescription de médicaments contre les pathologies allergiques</strong>.</em> Sans pouvoir vérifier rigoureusement cet « impact », le calcul des corrélations roulantes pourra mettre en exergue une éventuelle relation entre ces deux phénomènes :</p>
+<p class="p1"><img loading="lazy" decoding="async" class="size-full wp-image-7192 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/06/5_rolling_correlations-1.png" alt="" width="884" height="335" srcset="/wp-content/uploads/2017/06/5_rolling_correlations-1.png 884w, /wp-content/uploads/2017/06/5_rolling_correlations-1-300x114.png 300w, /wp-content/uploads/2017/06/5_rolling_correlations-1-768x291.png 768w" sizes="(max-width: 884px) 100vw, 884px" /></p>
+<p class="p1" style="text-align: justify;"><span class="s1">On remarque que plus la période considérée est grande, plus la corrélation entre les deux séries est grande.<strong> </strong>En effet,<strong> le niveau moyen d&rsquo;Ozone des 30 jours précédents évolue de façon très similaire aux prescriptions de médicaments contre les pathologies allergiques (corrélation = 0.71).</strong></span><span class="s1"> </span><span class="s1">Graphiquement, les similarités sont flagrantes :</span></p>
+<p class="p2"><img loading="lazy" decoding="async" class="size-full wp-image-7176 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/06/6_rolling_correlations_30j.png" alt="" width="885" height="356" srcset="/wp-content/uploads/2017/06/6_rolling_correlations_30j.png 885w, /wp-content/uploads/2017/06/6_rolling_correlations_30j-300x121.png 300w, /wp-content/uploads/2017/06/6_rolling_correlations_30j-768x309.png 768w" sizes="(max-width: 885px) 100vw, 885px" /></p>
+<p>&nbsp;</p>
+<p class="p1" style="text-align: justify;"><span class="s1"><strong>Pour conclure, les concentrations en polluant Ozone ont des variations très similaires avec l’évolution des pathologies allergiques</strong> <b>en Île-de-France</b> <b>et sur la période considérée</b>. Ainsi, lorsque de forts niveaux de concentration en Ozone sont observés, les habitants d&rsquo;Île-de-France se font prescrire beaucoup plus de médicaments pour combattre leurs allergies. </span><span class="s1">Nos observations vont dans le même sens que différents travaux menés sur le sujet, notamment : </span></p>
+<ul class="ul1">
+<li class="li1"><span class="s1"><a href="http://www.lemonde.fr/planete/article/2014/03/20/la-pollution-de-l-air-aggrave-les-allergies-au-pollen_4386125_3244.html#R15mS66rTh6841Ii.99">Un article paru dans Le Monde :</a> </span><i>«L’ozone, par exemple, altère les muqueuses respiratoires et augmente leur perméabilité. Ce qui engendre une réaction allergique à des concentrations de pollen plus faibles »</i></li>
+<li class="li1"><i></i><span class="s1">Un <a href="http://bvs.mag.anses.fr/sites/default/files/BVS-mg-010-TSICOPOULOS.pdf">papier publié par l’Inserm</a></span></li>
+<li class="li1"><i></i><span class="s1">Pour en savoir plus sur l’Ozone et ses conséquences sur la santé : </span><span class="s2"><a href="https://www.airparif.asso.fr/_pdf/dossier_ozone.pdf" class="broken_link">AirParif</a>, </span><a href="http://invs.santepubliquefrance.fr/publications/journees/1/quenel/index.html">INVS</a>, <a href="http://www.bdsp.ehesp.fr/Base/334100/" class="broken_link">EHESP</a></li>
+</ul>
+<p class="p1" style="text-align: justify;"><span class="s1">Bien que tout le monde connaisse cet adage, il est toujours bon de rappeler que <em>« la corrélation n’implique pas la causalité </em>» (pour s’en assurer, c’est par <a href="http://www.tylervigen.com/spurious-correlations">ici</a>). </span><span class="s1">Rappelons aussi que notre étude ne porte &#8211; fort malheureusement &#8211; que sur une période de 10 mois. <strong>Il est donc tout à fait possible que les résultats soient radicalement différents sur une période plus longue.</strong></span></p>
+<p class="p1">L’ensemble de notre analyse est disponible sur le <a href="https://github.com/etalab/Pathologies_allergiques">github d&rsquo;Etalab</a>.</p>
+<p class="p1" style="text-align: justify;"><span class="s1">Pour approfondir l&rsquo;analyse de la corrélation entre les variations d&rsquo;ozone et les épisodes allergènes, il faudra permettre l&rsquo;accès à tous les jeux de données plus granulaires et portant sur une couverture temporelle plus importante. <strong>C&rsquo;est le travail entamé par les acteurs de la qualité de l&rsquo;air</strong>, auxquels Etalab apportera au besoin, l&rsquo;ensemble de son expertise.</span></p>
+<p>&nbsp;</p>
+<hr />
+<p><em>Pour aller plus loin</em> : Pourquoi ne pas rechercher d&rsquo;autres corrélations avec des données ouvertes :</p>
+<ul style="text-align: left;">
+<li><a href="http://www.data.gouv.fr/fr/datasets/fichier-consolide-des-bornes-de-recharge-pour-vehicules-electriques-irve/" class="broken_link">Corrélation entre la présence de bornes de recharge électrique et la pollution</a></li>
+<li><a href="http://www.data.gouv.fr/fr/datasets/offre-transport-de-la-ratp-format-gtfs-ratp/">Corrélation entre la couverture du réseau de transport en commun et les relevés granulaires par station</a></li>
+<li class="li1" style="text-align: left;"><span class="s1"><a href="http://www.data.gouv.fr/fr/datasets/qualite-de-l-air-mesuree-dans-nos-stations-t1-2012-ratp/">Corrélation entre les épisodes allergènes et la qualité de l’air des stations de métro</a><br />
+</span></li>
+<li class="li1" style="text-align: left;"><span class="s1"><a href="http://www.data.gouv.fr/fr/datasets/autoroutes-et-voies-rapides-simplifiees-en-ile-de-france-idf/">Corrélation avec les autoroutes et voies rapides</a><br />
+</span></li>
+<li class="li1" style="text-align: left;"><span class="s1"><a href="http://www.data.gouv.fr/fr/datasets/donnees-d-observation-des-principales-stations-meteorologiques/">Corrélation avec des données météorologiques</a></span></li>
+</ul>
+<p>D&rsquo;autres idées ? Commentez !</p>
+<p><em><span class="s2"><b>* NB :</b> Cet article n&rsquo;a pas pour ambition d&rsquo;être une complète analyse scientifique, mais de montrer comment les données ouvertes peuvent permettre de vérifier des intuitions</span></em></p>
+<hr />
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Billet technique : Comment l&#8217;AGD a développé des algorithmes pour les demandeurs d&#8217;emploi</title>
+		<link>/comment-l-agd-a-developpe-des-algorithmes-pour-les-demandeurs-d-emploi</link>
+		
+		<dc:creator><![CDATA[Florian Gauthier]]></dc:creator>
+		<pubDate>Mon, 14 Nov 2016 16:00:06 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[algorithme]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10690</guid>
+
+					<description><![CDATA[L’une des missions importantes de l’Administrateur général des données est de soutenir la diffusion dans l’Etat des datasciences au service de l’action publique. Complétant l’ouverture des données publiques, des modèles et des codes source, certains des algorithmes développés par l’AGD sont ainsi des ressources mises à disposition de tous, permettant à des innovateurs d’inventer de &#8230;<p class="read-more"> <a class="" href="/comment-l-agd-a-developpe-des-algorithmes-pour-les-demandeurs-d-emploi"> <span class="screen-reader-text">Billet technique : Comment l&#8217;AGD a développé des algorithmes pour les demandeurs d&#8217;emploi</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>L’une des missions importantes de l’Administrateur général 
+des données est de soutenir la diffusion dans l’Etat des datasciences au
+ service de l’action publique. Complétant l’ouverture des <a href="http://www.data.gouv.fr/">données publiques</a>, des <a href="https://www.openfisca.fr/">modèles</a> et des <a href="https://www.etalab.gouv.fr/codeimpot-un-hackathon-autour-de-louverture-du-code-source-du-calculateur-impots">codes source</a>,
+ certains des algorithmes développés par l’AGD sont ainsi des ressources
+ mises à disposition de tous, permettant à des innovateurs d’inventer de
+ nouveaux services ou aux administrations de les réutiliser.</p>
+
+
+
+<p><strong>Engagé comme toute la DINSIC dans la transformation numérique
+ de l’action publique, l’AGD soutient le développement de solutions 
+concrètes (<a href="http://labonneboite.pole-emploi.fr/">La Bonne Boîte</a>, <a href="http://labonneformation.pole-emploi.fr/">La Bonne Formation</a>, projets de l’<a href="https://beta.gouv.fr/">incubateur de services numériques</a>), et les démarches d’<a href="https://www.etalab.gouv.fr/rejoignez-la-1e-promotion-dentrepreneurs-dinteret-general">open innovation.</a></strong></p>
+
+
+
+<p><strong>À ce titre, l’équipe collabore depuis plusieurs semaines avec Bayes Impact France, qui a lancé <a href="https://www.bob-emploi.fr/">Bob Emploi</a>,</strong>
+ un service permettant d’accompagner le demandeur d’emploi dans ses 
+recherches, en lui faisant des recommandations d’actions à engager.</p>
+
+
+
+<p>Grâce à la stratégie d’Etat-plateforme, <strong>Bob Emploi</strong> a
+ pu utiliser certaines API développées par la DINSIC, notamment pour la 
+Bonne Boîte, et des algorithmes ont été développés en collaboration avec
+ les équipes de Bayes Impact.<br>
+Trois actions ont ainsi été identifiées permettant d’élargir le périmètre de recherche d’un demandeur d’emploi :</p>
+
+
+
+<ul><li>Changer de métier</li><li>Modifier son salaire de recherche</li><li>Changer de département</li></ul>
+
+
+
+<p>Deux algorithmes ont été développés par l’AGD : un algorithme de 
+recommandation pour ajuster son salaire de recherche et un algorithme de
+ recommandation pour explorer d’autres métiers. Le premier est déjà en 
+production dans l’application Bob Emploi et le second y sera intégré 
+prochainement.</p>
+
+
+
+<h3 class="wp-block-heading" id="comment-fonctionne-lalgorithme-de-recommandation-salariale-">Comment fonctionne l’algorithme de recommandation salariale ?</h3>
+
+
+
+<p>Lorsque l’on recherche une offre d’emploi, le choix d’une 
+revendication salariale n’est pas toujours évident. Si ce salaire 
+recherché est trop élevé, il peut cacher une grande partie des offres. 
+L’algorithme confronte le salaire de recherche du demandeur d’emploi à 
+la distribution des salaires dans la base des offres d’emploi et permet 
+d’envoyer un signal à un demandeur d’emploi qui se couperait d’une 
+partie trop importante du marché.</p>
+
+
+
+<p>L’algorithme repose sur l’idée qu’il y a un arbitrage entre la baisse
+ de salaire que l’on est prèt à accepter et le nombre d’offres 
+auxquelles on a accès. L’objectif est de pouvoir envoyer un signal à 
+l’utilisateur du type : <em>En baissant de 4,5% votre salaire de recherche, vous aurez accès à 150% d’offres supplémentaires.</em></p>
+
+
+
+<p>Cette recommandation s’appuie sur la maximisation d’un score qui 
+dépend positivement du nombre d’offres d’emploi supplémentaires 
+auxquelles donne accès une baisse du salaire de recherche et 
+négativement de la baisse de salaire engendrée. Après plusieurs essais, 
+c’est la fonction suivante qui a été retenue [Voir <a href="https://github.com/SGMAP-AGD/recommandations_emploi/blob/master/recommandations_salariales/algo_reco_salaries_score.ipynb">notebook</a> sur les scores] :</p>
+
+
+
+<p>
+  <strong>[latex]\Large{\mathbf{score(\Delta O)=\frac{\sqrt(\Delta S)}{\Delta O}}}[/latex]</strong>
+</p>
+
+
+
+<p>avec [latex]\mathbf{\Delta O} = [/latex] Taux d’offres d’emploi accessibles supplémentaires.</p>
+
+
+
+<p>et [latex]\mathbf{\Delta S} = [/latex]Taux de baisse de salaire.</p>
+
+
+
+<p>L’algorithme est calculé à partir de l’ensemble des offres d’emploi 
+collectées par Pôle Emploi sur les six derniers mois. Il est calculé en 
+fonction du métier, en utilisant le référentiel ROME de Pèle Emploi, et 
+par niveau d’expérience.</p>
+
+
+
+<h4 class="wp-block-heading" id="exemple-sur-bob-emploi">Exemple sur Bob Emploi</h4>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/11/pasted_image_at_2016_11_14_05_58_pm.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/11/pasted_image_at_2016_11_14_05_58_pm.png" alt="pasted_image_at_2016_11_14_05_58_pm" class="wp-image-815"/></a></figure>
+
+
+
+<h3 class="wp-block-heading" id="comment-fonctionne-lalgorithme-de-recommandation-des-métiers-">Comment fonctionne l’algorithme de recommandation des métiers ?</h3>
+
+
+
+<p>Pour définir un algorithme de recommandation de métiers, il faut trois éléments :</p>
+
+
+
+<ul><li>une métrique qui permette de mesurer ce que l’on veut maximiser ou minimiser.</li><li>un graphe qui indique les transitions potentielles entre les métiers</li><li>un modèle qui permette d’indiquer l’espérance de la métrique en fonction des différents scénarios envisagés.</li></ul>
+
+
+
+<p>À partir d’un échantillon du Fichier historique des demandeurs 
+d’emploi de Pèle Emploi recensant l’ensemble des épisodes d’inscription à
+ Pôle Emploi, une métrique mesure le pourcentage de temps moyen passé en
+ catégorie A par demandeur d’emploi sur une période donnée.</p>
+
+
+
+<p>Pour le graphe des métiers, les métiers connexes définis dans le 
+référentiel ROME de Pèle Emploi sont utilisés. Ce référentiel permet de 
+connaître les transitions possibles entre les métiers répertoriés dans 
+le référentiel.</p>
+
+
+
+<p>À partir de lé, on peut calculer pour chaque métier dans chaque 
+région et pour chaque catégorie d’ège, le pourcentage de temps passé en 
+catégorie A au cours de cette période.</p>
+
+
+
+<h4 class="wp-block-heading" id="exemple-de-recommandations-métiers-pour-une-région-française-tous-èges-confondus">Exemple de recommandations-métiers pour une région française, tous èges confondus.</h4>
+
+
+
+<p>Prenons l’exemple d’un demandeur d’emploi pour un poste en <em>Stratégie commerciale</em>. Sans prendre en compte l’ège de l’individu, voici le tableau renvoyé par l’algorithme :</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/11/image01.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/11/image01.png" alt="reco_marketing" class="wp-image-762"/></a></figure></div>
+
+
+
+<p>Chaque ligne correspond à une option potentielle générée à partir du 
+graphe des ROME. Ainsi, un demandeur d’emploi capable d’occuper un poste
+ en «&nbsp;<em>Stratégie commerciale</em>&nbsp;» devrait supposément ètre capable de postuler pour des postes en <em>Marketing</em>, <em>Promotion des ventes</em> ou en <em>Management relation clientèle</em>. éEn comparant le temps passé au chèmage au cours des 6 derniers mois, l’algorithme a détecté que les demandeurs d’emploi en <em>Marketing</em> ont passé 20.6% de temps en moins au chèmage que ceux cherchant un poste en <em>Stratégie commerciale</em>. Si le demandeur d’emploi est prèt à considérer d’autres métiers, c’est donc vers un poste en <em>Marketing</em> que l’algorithme l’oriente.</p>
+
+
+
+<h4 class="wp-block-heading" id="exemple-de-recommandations-métiers-pour-une-région-franéaise-et-par-tranche-dâge">Exemple de recommandations-métiers pour une région franéaise et par tranche d’âge.</h4>
+
+
+
+<p>Lorsque suffisamment de données sont disponibles, l’algorithme affine
+ la recommandation par tranche d’âge. C’est le cas ici pour un demandeur
+ d’emploi en <em>Pâtisserie, confiserie, chocolaterie et glacerie</em> de 26 ans dans une région franéaise. L’algorithme explore quatre options potentielles données par le graphe des ROME : <em>Vente en gros de produits frais</em>, <em>Boulangerie-viennoiserie</em>, <em>Personnel de cuisine</em> et <em>Conduite d’équipement de production alimentaire</em>.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/11/boulangerie.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/11/boulangerie.png" alt="boulangerie" class="wp-image-763"/></a></figure></div>
+
+
+
+<p>Au regard du tableau, les demandeurs d’emploi ayant entre 25 et 35 ans en <em>Ventes en gros de produits frais</em> ainsi qu’en <em>oulangerie-viennoiserie</em> ont passé 44.62% (resp. 10.28%) de temps en moins au chômage que ceux en <em>Pâtisserie, confiserie, chocolaterie et glacerie</em>.
+ Ces deux métiers seront donc recommandés par notre algorithme pour les 
+demandeurs d’emploi de cette tranche d’âge, dans cette région 
+spécifique.</p>
+
+
+
+<p>Les algorithmes ainsi que les notebooks sont disponibles sur <a href="https://github.com/SGMAP-AGD/recommandations_emploi">GitHub</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

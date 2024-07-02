@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Commentaires sur : Les bases LEGI, KALI et Circulaires sont disponibles en Open Data sur data.gouv.fr sous Licence Ouverte	</title>
+	<atom:link href="/les-bases-legi-kali-et-circulaires-sont-disponibles-en-open-data-sur-data-gouv-fr-sous-licence-ouverte/feed" rel="self" type="application/rss+xml" />
+	<link>/les-bases-legi-kali-et-circulaires-sont-disponibles-en-open-data-sur-data-gouv-fr-sous-licence-ouverte</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Sat, 12 Nov 2016 05:46:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>
+		Par : Open Data juridique : l&#8217;utilisation de la base LEGI &#171; Florent Gallaire&#039;s Blog		</title>
+		<link>/les-bases-legi-kali-et-circulaires-sont-disponibles-en-open-data-sur-data-gouv-fr-sous-licence-ouverte#comment-271</link>
+
+		<dc:creator><![CDATA[Open Data juridique : l&#8217;utilisation de la base LEGI &#171; Florent Gallaire&#039;s Blog]]></dc:creator>
+		<pubDate>Sat, 12 Nov 2016 05:46:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.etalab.cst.easter-eggs.com/?p=1495#comment-271</guid>
+
+					<description><![CDATA[[&#8230;] depuis juin 2014, la base LEGI, composée de l&#8217;ensemble des codes, lois et règlements français, est mise à [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] depuis juin 2014, la base LEGI, composée de l&rsquo;ensemble des codes, lois et règlements français, est mise à [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

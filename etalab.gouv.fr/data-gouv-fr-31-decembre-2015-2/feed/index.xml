@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Commentaires sur : data.gouv.fr, 31 décembre 2015data.gouv.fr, on the 31th of december 2015	</title>
+	<atom:link href="/data-gouv-fr-31-decembre-2015-2/feed" rel="self" type="application/rss+xml" />
+	<link>/data-gouv-fr-31-decembre-2015-2</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Thu, 23 Jul 2015 11:43:57 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>
+		Par : Fournaise		</title>
+		<link>/data-gouv-fr-31-decembre-2015-2#comment-1179</link>
+
+		<dc:creator><![CDATA[Fournaise]]></dc:creator>
+		<pubDate>Thu, 23 Jul 2015 11:43:57 +0000</pubDate>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3394#comment-1179</guid>
+
+					<description><![CDATA[Bonjour,
+Superbes nouvelles mais du boulot en perspective.
+Plusieurs demandes :
+* est il possible d&#039;intégrer un forum ou un lieu de discussions et d&#039;échanges qui permettent d&#039;échanger sur les événements, les outils, les autres sites, etc. ? et de demander de l&#039;aide sur des points précis (projection, normes, etc.)
+* est il possible d&#039;avoir le guide pour que nos données soient descendues automatiquement sur territoire.data.gouv.fr ?
+* prévoyez vous des ateliers en province pour accompagner. Par exemple pour Inspire. Les personnes (surtout moi) gérant l&#039;opendata ne sont pas nécessairement au fait de toutes les normes, référentiels, etc.
+Merci d&#039;avance
+Thomas]]></description>
+			<content:encoded><![CDATA[<p>Bonjour,<br />
+Superbes nouvelles mais du boulot en perspective.<br />
+Plusieurs demandes :<br />
+* est il possible d&rsquo;intégrer un forum ou un lieu de discussions et d&rsquo;échanges qui permettent d&rsquo;échanger sur les événements, les outils, les autres sites, etc. ? et de demander de l&rsquo;aide sur des points précis (projection, normes, etc.)<br />
+* est il possible d&rsquo;avoir le guide pour que nos données soient descendues automatiquement sur territoire.data.gouv.fr ?<br />
+* prévoyez vous des ateliers en province pour accompagner. Par exemple pour Inspire. Les personnes (surtout moi) gérant l&rsquo;opendata ne sont pas nécessairement au fait de toutes les normes, référentiels, etc.<br />
+Merci d&rsquo;avance<br />
+Thomas</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

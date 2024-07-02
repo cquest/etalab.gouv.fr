@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Antonin Garrone &#8211; Etalab</title>
+	<atom:link href="/author/antonin/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Wed, 26 Jan 2022 09:43:19 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Antonin Garrone &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Retour sur l’Open Data Maturity Index 2021 : Qualité des données ouvertes (4/4)</title>
+		<link>/retour-sur-lopen-data-maturity-index-2021-qualite-des-donnees-ouvertes-4-4</link>
+		
+		<dc:creator><![CDATA[Antonin Garrone]]></dc:creator>
+		<pubDate>Wed, 26 Jan 2022 09:43:18 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=16473</guid>
+
+					<description><![CDATA[En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&#160;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne. L’Open Data Maturity Report&#160;2021 évalue les progrès réalisés par les pays européens selon quatre &#8230;<p class="read-more"> <a class="" href="/retour-sur-lopen-data-maturity-index-2021-qualite-des-donnees-ouvertes-4-4"> <span class="screen-reader-text">Retour sur l’Open Data Maturity Index 2021 : Qualité des données ouvertes (4/4)</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&nbsp;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne.</p>
+
+
+
+<p>L’Open Data Maturity Report&nbsp;2021 évalue les progrès réalisés par les pays européens selon quatre critères&nbsp;:</p>
+
+
+
+<ul><li>maturité des politiques publiques relatives à l’ouverture (<em>Policy</em>) ;</li><li>qualité de la mesure de l’impact de l’open data (<em>Impact</em>) ;</li><li>maturité du portail national d’open data (<em>Portal</em>) ;</li><li>qualité des données ouvertes (<em>Quality</em>).</li></ul>
+
+
+
+<p>Ce rapport constate les résultats du travail accompli par Etalab et l’ensemble de la communauté open data et de mesurer le chemin qu’il reste à parcourir. Pour comprendre quels sont nos points forts et nos points faibles et identifier nos axes d’amélioration, nous proposons une série d’articles portant chacun sur une des dimensions évaluées par le rapport.</p>
+
+
+
+<p>Il ne s’agit pas d’être exhaustif, mais de partager certains des aspects souvent salués en France et les axes d’améliorations les plus souvent évoqués.</p>
+
+
+
+<p>Pour finir cette série d’articles, nous nous concentrons aujourd’hui sur la dimension <em>Quality</em> du rapport.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Que cherche-t-on à mesurer ?</strong></h1>
+
+
+
+<p>Cette dimension se concentre sur la qualité des données ouvertes&nbsp;: utilisation de formats de données ouverts, lisibles par machine, de haute qualité et adaptés à une approche de données liées (linked-data). Elle vise également à évaluer les mesures adoptées par les gestionnaires de portails pour assurer la collecte systématique des métadonnées à partir des autres portails de données ouvertes et situées dans tout le pays, ainsi que la conformité avec la norme de métadonnées DCAT-AP.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Les bonnes pratiques françaises</strong></h1>
+
+
+
+<h3 class="wp-block-heading"><strong>Accompagner les producteurs dans la publication de données de qualité</strong></h3>
+
+
+
+<p>Etalab est présent sur l’ensemble des étapes du cycle de vie de la donnée de qualité pour accompagner les producteurs de données.</p>
+
+
+
+<p>D’un côté Etalab participe à l’accélération de la création et de l’usage de schémas de données et les valoriser à travers l’outil <a href="http://schema.data.gouv.fr/">schema.data.gouv.fr</a> car la création d’un jeu de données conforme à un schéma de données facilite l’interopérabilité, le croisement et l’agrégation des données.</p>
+
+
+
+<p>De la même manière, afin de <strong>favoriser l’émergence de nouvelles données obéissant à un schéma, nous avons mis a disposition un nouvel outil &nbsp;: <a href="https://publier.etalab.studio/">publier. etalab. studio</a> qui</strong> a pour ambition d’<strong>accompagner un producteur de données sur la saisie, la validation et la publication de ses données</strong>.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Une licence commune</strong></h3>
+
+
+
+<p>La France dispose d’une <a href="https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf">licence ouverte</a> élaborée pour permettre aux réutilisateurs de comprendre plus facilement leurs droits et obligations. Face à la profusion de licences, dont le contenu était parfois très hétérogène et pouvait nuire au croisement des jeux de données, la <a href="https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&amp;type=general&amp;legislature=14">loi pour une République numérique</a> limite le choix des <a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044403448/">licences auxquelles les administrations peuvent recourir</a>.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Les axes d’améliorations</strong></h1>
+
+
+
+<h3 class="wp-block-heading"><strong>L’amélioration de la qualité générale des données</strong></h3>
+
+
+
+<p>La qualité des données ouvertes que ce soit au niveau des formats, de la documentation, de la structure et du contenu des fichiers peut encore largement progresser. Le <strong>respect de standards,&nbsp;<a href="https://guides.etalab.gouv.fr/qualite/lier-les-donnees-a-un-referentiel/#exemples-de-referentiels">référentiels</a>&nbsp;et&nbsp;<a href="https://guides.etalab.gouv.fr/producteurs-schemas/">schémas</a></strong>&nbsp;déjà établis ainsi que la <strong>présence de données et&nbsp;<a href="https://guides.etalab.gouv.fr/qualite/lier-les-donnees-a-un-referentiel/#exemples-de-referentiels">colonnes pivots</a></strong>&nbsp;pour lier les données à un référentiel doit devenir la norme sur la plateforme.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Création d’un label jeux de données de qualité</strong></h3>
+
+
+
+<p>Les jeux de données de qualité entraînent naturellement une plus grande réutilisation et de nouveaux usages. Il est par conséquent nécessaire de valoriser ces données afin de favoriser leur réutilisation et inciter les autres acteurs à produire des jeux de données de qualité. Dans cette perspective, Etalab développera un « label qualité » sur la plateforme <a href="http://data.gouv.fr/">data.gouv.fr</a> qui valorisera les jeux de données et producteurs vertueux.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>La comptabilité avec DCAT peut être améliorée</strong></h3>
+
+
+
+<p><a href="https://www.w3.org/TR/vocab-dcat/">DCAT</a> est un vocabulaire <a href="https://fr.wikipedia.org/wiki/Resource_Description_Framework">RDF</a> conçu pour faciliter l’interopérabilité entre les catalogues de données publiées sur le Web. Il s’agit de la norme mise en avant par la Commission européenne et qui est relativement peu utilisée en France. Les efforts de conformité entre <a href="https://github.com/opendatateam/udata">Udata</a>, la technologie derrière <a href="http://data.gouv.fr/">data.gouv.fr</a>, et DCAT doivent être poursuivis pour faciliter interopérabilité des données à l’échelle européenne.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img fetchpriority="high" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2022/01/figure-39.png" alt="" class="wp-image-16475" width="839" height="551" srcset="/wp-content/uploads/2022/01/figure-39.png 775w, /wp-content/uploads/2022/01/figure-39-300x197.png 300w, /wp-content/uploads/2022/01/figure-39-768x504.png 768w" sizes="(max-width: 839px) 100vw, 839px" /></figure></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Retour sur l’Open Data Maturity Index 2021 : Qualité du portail de données (3/4)</title>
+		<link>/retour-sur-lopen-data-maturity-index-2021-qualite-du-portail-de-donnees-3-4</link>
+		
+		<dc:creator><![CDATA[Antonin Garrone]]></dc:creator>
+		<pubDate>Mon, 17 Jan 2022 08:40:11 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[qualité]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=16390</guid>
+
+					<description><![CDATA[En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&#160;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne. L’Open Data Maturity Report&#160;2021 évalue les progrès réalisés par les pays européens selon quatre &#8230;<p class="read-more"> <a class="" href="/retour-sur-lopen-data-maturity-index-2021-qualite-du-portail-de-donnees-3-4"> <span class="screen-reader-text">Retour sur l’Open Data Maturity Index 2021 : Qualité du portail de données (3/4)</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&nbsp;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne.</p>
+
+
+
+<p>L’Open Data Maturity Report&nbsp;2021 évalue les progrès réalisés par les pays européens selon quatre critères&nbsp;:</p>
+
+
+
+<ul><li>maturité des politiques publiques relatives à l’ouverture (<em>Policy</em>) ;</li><li>qualité de la mesure de l’impact de l’open data (<em>Impact</em>) ;</li><li>maturité du portail national d’open data (<em>Portal</em>) ;</li><li>qualité des données ouvertes (<em>Quality</em>).</li></ul>
+
+
+
+<p>Ce rapport constate les résultats du travail accompli par Etalab et l’ensemble de la communauté open data et de mesurer le chemin qu’il reste à parcourir. Pour comprendre quels sont nos points forts et nos points faibles et identifier nos axes d’amélioration, nous proposons une série d’articles portant chacun sur une des dimensions évaluées par le rapport.</p>
+
+
+
+<p>Il ne s’agit pas d’être exhaustif, mais de partager certains des aspects souvent salués en France et les axes d’améliorations les plus souvent évoqués.</p>
+
+
+
+<p>Aujourd’hui nous nous concentrons sur la dimension <em>Portal</em> du rapport qui vise à mesurer la qualité du portail de données national, en l’occurrence <a href="http://data.gouv.fr/">data.gouv.fr</a>.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Que cherche-t-on à mesurer ?</strong></h1>
+
+
+
+<p>Cette dimension se concentre sur les fonctionnalités du portail qui permettent aux utilisateurs, qu’ils soient avertis ou non, d’accéder aux données ouvertes via le portail national, ainsi que sur les fonctionnalités qui améliorent l’interaction entre producteurs et réutilisateurs de données. En outre, cette dimension évalue dans quelle mesure les gestionnaires de portails utilisent des outils d’analyse web pour mieux comprendre les besoins et le comportement de leurs utilisateurs et mettent à jour les fonctionnalités des portails en fonction des résultats de ces analyses.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Les bonnes pratiques françaises</strong></h1>
+
+
+
+<h3 class="wp-block-heading"><strong>Les réutilisations de données sur <a href="http://data.gouv.fr/">data.gouv.fr</a></strong></h3>
+
+
+
+<p>Contrairement à la plupart de ses homologues,&nbsp;<a href="http://data.gouv.fr/">data.gouv.fr</a> permet à quiconque de publier une réutilisation sans contrôle à priori. Le référencement des réutilisations est un enjeu important pour&nbsp;<a href="http://data.gouv.fr/">data.gouv.fr</a>&nbsp;pour plusieurs raisons. Tout d’abord, la connaissance des réutilisations est essentielle pour&nbsp;<strong>mesurer l’impact de l’ouverture des données</strong>. Les réutilisations sont également un&nbsp;<strong>vecteur d’information au public.</strong> Le référencement des réutilisations sur la plateforme nationale permet à un grand nombre d’utilisateurs de découvrir des réutilisations permettant de visualiser les données brutes sous des formes riches et diverses.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Une plateforme communautaire</strong></h3>
+
+
+
+<p>Une autre caractéristique de&nbsp;<a href="http://data.gouv.fr/">data.gouv.fr</a>&nbsp;est la possibilité de discuter l’ensemble des éléments du site. Cette fonctionnalité est essentielle pour échanger entre producteurs et réutilisateurs de données. Les commentaires servent notamment à&nbsp;<strong>favoriser la montée en&nbsp;<a href="https://www.data.gouv.fr/fr/posts/nos-reflexions-sur-la-qualite-des-donnees/">qualité des données</a>&nbsp;grâce aux retours des utilisateurs et faciliter la réutilisation des données</strong>.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Des statistiques d’usages accessibles</strong></h3>
+
+
+
+<p>Les <a href="https://stats.data.gouv.fr/">statistiques de fréquentations</a> de <a href="http://data.gouv.fr/">data.gouv.fr</a> sont accessibles à toutes et tous et permettent notamment de constater l’évolution des visites et les pages les plus consultées. A ceci s’ajoute aussi le <a href="https://www.data.gouv.fr/en/datasets/catalogue-des-donnees-de-data-gouv-fr/">catalogue des données de data.gouv.fr</a>. Ce jeu de données contient les informations relatives à l’ensemble du catalogue de données de&nbsp;<a href="http://data.gouv.fr/">data.gouv.fr</a>&nbsp;: notamment la liste des jeux de données, ressources, réutilisations et leurs informations associées (y compris certains indicateurs d’audience).</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Un portail très populaire</strong></h3>
+
+
+
+<p>La communauté open data Française est sûrement une des plus actives d’Europe et l’intérêt pour les données ouvertes est réel. La plateforme nationale surpasse de loin ses homologues en termes de visiteurs uniques y compris lorsque ce chiffre est rapporté à la population. Cet état de fait doit être nuancé par le positionnement un peu particulier de <a href="http://data.gouv.fr/">data.gouv.fr</a>&nbsp;: une part très importante du trafic est orienté vers les réutilisations de données présentes sur la plateforme (voir notre article sur la dimension <em>Impact).</em></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img decoding="async" width="814" height="568" src="https://www.etalab.gouv.fr/wp-content/uploads/2022/01/figure-20.png" alt="" class="wp-image-16391" srcset="/wp-content/uploads/2022/01/figure-20.png 814w, /wp-content/uploads/2022/01/figure-20-300x209.png 300w, /wp-content/uploads/2022/01/figure-20-768x536.png 768w" sizes="(max-width: 814px) 100vw, 814px" /></figure></div>
+
+
+
+<h2 class="wp-block-heading">Les axes d&rsquo;améliorations</h2>
+
+
+
+<h3 class="wp-block-heading"><strong>Fournir un suivi plus transparent et lisible de l’ouverture des données</strong></h3>
+
+
+
+<p>Il est aujourd’hui complexe pour les usagers de connaître l’avancement de l’ouverture de tel ou tel jeux de données. Si les <a href="https://cada.data.gouv.fr/">avis de la CADA</a> sont ouverts et qu’il est possible de <a href="https://ouverture.data.gouv.fr/">suivre l’ouverture</a> des nouveaux jeux de données, codes sources et API publics, pour l’ensemble des ministères, inscrite dans leurs feuilles de route (voir l’article 1/4 sur la dimension <em>Policy</em>) cette transparence doit être élargit à d’autres jeux de données.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Le module de discussions entre producteurs et réutilisateurs peut être amélioré</strong></h3>
+
+
+
+<p><strong>Le système de commentaires de&nbsp;<a href="http://data.gouv.fr/">data.gouv.fr</a>&nbsp;doit être amélioré pour favoriser les échanges entre producteurs et réutilisateurs</strong>. Il s’agit notamment de l’enrichir de fonctionnalités de votes, de mentions ou encore de modération pour améliorer l’expérience aussi bien des réutilisateurs que des producteurs de données.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Améliorer la prévisualisation des données</strong></h3>
+
+
+
+<p>La plateforme nationale est aujourd’hui en grande partie fréquentée par des usagers ne disposant pas de compétences en exploitation de données. L’expérience pour ces usagers peut-être complexe dans la mesure est avant tout un portail de données brutes. Pour la faciliter, il est notamment important de développer <a href="https://www.data.gouv.fr/fr/posts/qualite-des-donnees-repenser-la-previsualisation-des-donnees/">la prévisualisation des données sur data.gouv.fr</a>. La&nbsp;<strong>prévisualisation des données</strong>&nbsp;est également importante, car elle permet de les visualiser sans avoir à les télécharger et permet aux réutilisateurs de&nbsp;<strong>se faire une idée du contenu et de la qualité d’un jeu de données avant de l’exploiter</strong>. Une prévisualisation efficace des données permet également de pallier, dans une certaine mesure, le manque de documentation des données en permettant d’avoir accès à un aperçu des différents champs contenus dans le fichier.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img decoding="async" width="782" height="465" src="https://www.etalab.gouv.fr/wp-content/uploads/2022/01/Figure-28.png" alt="" class="wp-image-16392" srcset="/wp-content/uploads/2022/01/Figure-28.png 782w, /wp-content/uploads/2022/01/Figure-28-300x178.png 300w, /wp-content/uploads/2022/01/Figure-28-768x457.png 768w" sizes="(max-width: 782px) 100vw, 782px" /></figure></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Retour sur l’Open Data Maturity Index 2021 : mesure de l’impact de l’ouverture des données (2/4)</title>
+		<link>/retour-sur-lopen-data-maturity-index-2021-mesure-de-limpact-de-louverture-des-donnees-2-4</link>
+		
+		<dc:creator><![CDATA[Antonin Garrone]]></dc:creator>
+		<pubDate>Mon, 10 Jan 2022 17:00:00 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Open data]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data maturity index]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=16374</guid>
+
+					<description><![CDATA[En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&#160;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne. L’Open Data Maturity Report&#160;2021 évalue les progrès réalisés par les pays européens selon quatre &#8230;<p class="read-more"> <a class="" href="/retour-sur-lopen-data-maturity-index-2021-mesure-de-limpact-de-louverture-des-donnees-2-4"> <span class="screen-reader-text">Retour sur l’Open Data Maturity Index 2021 : mesure de l’impact de l’ouverture des données (2/4)</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&nbsp;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne.</p>
+
+
+
+<p>L’Open Data Maturity Report&nbsp;2021 évalue les progrès réalisés par les pays européens selon quatre critères&nbsp;:</p>
+
+
+
+<ul><li>maturité des politiques publiques relatives à l’ouverture (<em>Policy</em>) ;</li><li>qualité de la mesure de l’impact de l’open data (<em>Impact</em>) ;</li><li>maturité du portail national d’open data (<em>Portal</em>) ;</li><li>qualité des données ouvertes (<em>Quality</em>).</li></ul>
+
+
+
+<p>Ce rapport constate les résultats du travail accompli par Etalab et l’ensemble de la communauté open data et de mesurer le chemin qu’il reste à parcourir. Pour comprendre quels sont nos points forts et nos points faibles et identifier nos axes d’amélioration, nous proposons une série d’articles portant chacun sur une des dimensions évaluées par le rapport.</p>
+
+
+
+<p>Il ne s’agit pas d’être exhaustif, mais de partager certains des aspects souvent salués en France et les axes d’améliorations les plus souvent évoqués.</p>
+
+
+
+<p>Aujourd’hui nous nous concentrons sur la dimension <em>Impact</em> du classement.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Que cherche-t-on à mesurer ?</strong></h1>
+
+
+
+<p>Cette dimension porte sur les activités réalisées pour observer et mesurer la réutilisation des données ouvertes et l’impact dérivé de ces usages. La dimension de l’impact se concentre sur quatre domaines d’impact sectoriel&nbsp;: politique, social, environnemental et économique. Dans ces domaines, le rapport examine dans quelle mesure un suivi est en place pour documenter les réutilisations des données ouvertes publiées, et si des applications, des produits et des services ont été développés pour relever les défis dans ces domaines, que ce soit par la puissance publique ou la société civile.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Les bonnes pratiques françaises</strong></h1>
+
+
+
+<h3 class="wp-block-heading"><strong>L’open data comme outil de compréhension et de pilotage de la crise</strong></h3>
+
+
+
+<p>Pour répondre aux exigences de transparence et de pilotage informé de la crise sanitaire, de <a href="https://www.data.gouv.fr/fr/pages/donnees-sante/" class="broken_link">nombreuses données relatives à l’épidémie ont été publiées</a>. Afin de rendre ces données accessibles et compréhensibles pour le plus grand nombre, les informations sont valorisées dans le&nbsp;<a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees">tableau de bord Covid-19 publié sur gouvernement.fr</a>. Ces données ont également&nbsp;<a href="https://www.data.gouv.fr/fr/reuses/?tag=covid">inspiré de très nombreuses réutilisations</a> dont certaines sont devenues très <a href="https://www.data.gouv.fr/fr/reuses/covid-tracker-suivez-lepidemie-du-covid19-en-france-et-dans-le-monde/">célèbres</a>. La richesse des données publiées et des réutilisations qui en sont sorties ont permis d’attester de l’importance de l’open data en temps de crise.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Rendre les données ouvertes exploitables par toutes et tous</strong></h3>
+
+
+
+<p>Les données relatives à l’épidémie ne sont pas les seules à être rendues intelligibles. Pour exemple, en 2020 Etalab a développé avec la Direction générale des entreprises , le site&nbsp;<a href="https://annuaire-entreprises.data.gouv.fr/">annuaire-entreprises</a>, qui s’appuie sur des données ouvertes.</p>
+
+
+
+<p>L’ambition de ce portail est de devenir la référence officielle dans la consultation des données relatives aux personnes morales.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>L’accompagnement des réutilisateurs de données</strong></h3>
+
+
+
+<p>Les efforts poursuivis pour accompagner non seulement les producteurs, mais aussi les réutilisateurs de données méritent d’être salués. On peut notamment citer l’équipe <a href="http://transport.data.gouv.fr/">transport.data.gouv.fr</a> qui suit de près les l’<a href="https://transport.data.gouv.fr/stats">état de l’ouverture</a> et des <a href="https://doc.transport.data.gouv.fr/reutilisateurs/utilisation-par-les-reutilisateurs-de-donnees" class="broken_link">usages des données de transports</a>.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Une tendance croissante à la mesure de l’impact</strong></h3>
+
+
+
+<p>De manière générale, on peut constater une hausse de l’intérêt des producteurs de données de l’usage qui est fait de leurs données et de la mesure de l’impact de l’ouverture. C’est d’ailleurs une recommandation du <a href="https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources">rapport sur la politique publique de la donnée, des algorithmes et des codes sources</a> issus de la la mission Open Data conduite par le député Éric Bothorel. La mission met en avant quatre domaines d’impact de l’open data&nbsp;: scientifique comme vecteur de connaissance, économique comme moteur de l’innovation, démocratique pour améliorer le service public et politique pour restaurer la confiance des citoyens dans l’action publique.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Les axes d’améliorations</strong></h1>
+
+
+
+<h3 class="wp-block-heading"><strong>Un défi pour l’ensemble des acteurs</strong></h3>
+
+
+
+<p>Par essence, la mesure de l’impact de l’open data est un défi pour l’ensemble des acteurs. Il s’agit de ne pas préjuger ou de tracer sans objectif l’usage des données. Parmi les problématiques liées à la mesure des usages, nous pouvons citer un <strong>enjeu de volume,</strong> puisque les réutilisations connues sur <a href="http://data.gouv.fr/">data.gouv.fr</a> ne représentent que le sommet de l’iceberg de l’existant. Il existe également un enjeu <strong>de représentativité</strong>&nbsp;des publics parmi les réutilisateurs, puisque les réutilisateurs connus de <a href="http://data.gouv.fr/">data.gouv.fr</a> présentent souvent des profils homogènes. A ce titre, si les acteurs de la société civile sont assez prompts à référencer leurs travaux, d’autres, comme les administrations et le secteur privé par exemple, sont parfois moins proactifs. Ces derniers représentent pourtant des usages qu’il est essentiel de mesurer. Par ailleurs, la compréhension et le référencement des réutilisations sont complexifiés par la&nbsp;<strong>diversité des usages</strong>. Certains usages étant plus faciles à documenter (cartographie, moteur de recherche) que d’autres (simple observation des données par exemple).</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Se méfier des indicateurs de vanité</strong></h3>
+
+
+
+<p>Les indicateurs les plus souvent utilisés pour mesurer la performance d’une politique d’ouverture des données ou d’un portail de données peuvent parfois être assimilés à des <a href="https://en.wikipedia.org/wiki/Lean_startup#Actionable_metrics">indicateurs de vanité</a> en cela qu’ils permettent davantage de flatter la personne qui les mesure que réellement mesurer l’impact. Le nombre de visites sur un jeu de données ou encore le nombre de téléchargements, par exemple, ne nous permet pas réellement de savoir si l’ouverture de ce dernier a produit un impact concret même si ce sont des indicateurs dignes d’intérêt. Il s’agit d’aller plus loin en mesurant plus systématiquement des indicateurs qualitatifs : par exemple, les usagers trouvent-ils les données dont-ils besoins ? Sont-ils satisfaits de la qualité des données ?</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="768" height="441" src="https://www.etalab.gouv.fr/wp-content/uploads/2022/01/odm2021-impact.png" alt="" class="wp-image-16375" srcset="/wp-content/uploads/2022/01/odm2021-impact.png 768w, /wp-content/uploads/2022/01/odm2021-impact-300x172.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Retour sur la table ronde : la contribution de la donnée à la transformation numérique publique</title>
+		<link>/retour-sur-la-table-ronde-la-contribution-de-la-donnee-a-la-transformation-numerique-publique</link>
+		
+		<dc:creator><![CDATA[Antonin Garrone]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 14:38:15 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[#10ansEtalab]]></category>
+		<category><![CDATA[données]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=15374</guid>
+
+					<description><![CDATA[Le 4&#160;mars 2021, à l’occasion des 10&#160;ans d’Etalab, la DINUM organisait une table ronde sur la contribution de la donnée à la transformation numérique publique, en présence de la ministre de la Transformation et de la Fonction publiques Amélie de Montchalin. Après une introduction du directeur interministériel du numérique (DINUM) Nadi Bou Hanna, les échanges &#8230;<p class="read-more"> <a class="" href="/retour-sur-la-table-ronde-la-contribution-de-la-donnee-a-la-transformation-numerique-publique"> <span class="screen-reader-text">Retour sur la table ronde : la contribution de la donnée à la transformation numérique publique</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Le 4&nbsp;mars 2021, à l’occasion des 10&nbsp;ans d’Etalab, la DINUM organisait une table ronde sur la contribution de la donnée à la transformation numérique publique, en présence de la ministre de la Transformation et de la Fonction publiques <strong>Amélie de Montchalin</strong>.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-dailymotion wp-block-embed-dailymotion wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="#10ansEtalab La contribution de la donnée à la transformation  numérique publique" frameborder="0" width="1091" height="613" src="https://www.dailymotion.com/embed/video/x7zpv9n" allowfullscreen allow="autoplay"></iframe>
+</div></figure>
+
+
+
+<p>Après une introduction du directeur interministériel du numérique (DINUM) <strong>Nadi Bou Hanna</strong>, les échanges animés par <strong>Laure Lucchesi</strong>, directrice d’Etalab, ont eu lieu en deux temps : </p>
+
+
+
+<ul><li>le premier angle choisi était celui de <strong>la transformation des grands producteurs de données</strong>, à travers l’exemple de deux administrations&nbsp;: l’<a href="https://www.ign.fr/">Institut National Géographique</a> (IGN) représenté par son directeur général <strong>Sébastien Soriano</strong> et la <a href="https://www.dila.premier-ministre.gouv.fr/" class="broken_link">direction de l’information légale et administrative</a> (DILA) représentée par sa directrice <strong>Anne Duclos-Grisier</strong> ;</li><li>dans un deuxième temps, <strong>le potentiel de la donnée </strong>comme levier d’une action publique plus ouverte et plus transparente a été évoqué avec&nbsp;<strong>Éric Bothorel</strong>, député des Côtes-d’Armor, auteur du rapport « <a href="https://www.mission-open-data.fr/">Pour une politique publique de la donnée »</a> et <strong>Guillaume Rozier</strong>, datascientist et fondateur de <a href="https://covidtracker.fr/">CovidTracker</a>.</li></ul>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_9b0bd137780c0f0a3ada6779553a8d8c.png" alt="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_9b0bd137780c0f0a3ada6779553a8d8c.png"/></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>Etalab après 10 ans</strong></h2>
+
+
+
+<p>Historiquement, la mission première d’Etalab fut de coordonner la politique d’ouverture des données des administrations de l’État. En leur apportant son appui pour faciliter la diffusion et la réutilisation de leurs informations publiques à travers notamment la plateforme nationale d’open data <a href="http://data.gouv.fr/">data.gouv.fr</a>. <strong>Depuis, le champ d’action d’Etalab s’est considérablement étendu</strong>.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><em><span class="has-inline-color has-vivid-cyan-blue-color">« Etalab porte désormais tous les enjeux de la donnée&nbsp;: l’ouverture, la simplification pour les citoyens […], l’APIfication et l’exploitation des données, en particulier la datascience et l&rsquo;intelligence artificielle [et] Etalab soutient activement la politique open source de l’État. »</span></em></p><cite>Nadi Bou Hanna</cite></blockquote>
+
+
+
+<p>De son côté, la Ministre de la Transformation et de la Fonction publiques a réaffirmé l’importance de <strong>la politique publique de la donnée, au service notamment du pilotage de l’action publique</strong>. Elle a salué l’engagement d’Etalab&nbsp;et les efforts particuliers menés notamment sur le <strong>partage des données entre administrations</strong>, avec des améliorations concrètes pour les citoyens&nbsp;:</p>
+
+
+
+<blockquote class="wp-block-quote"><p><span class="has-inline-color has-vivid-cyan-blue-color"><em>« C’est grâce à ses équipes mobilisées depuis 10&nbsp;ans que la France fait figure d’exemple&nbsp;: nous sommes classés troisièmes dans l’UE en termes d’ouverture des données, deuxièmes au niveau de l’OCDE »</em> (&#8230;) <em>« Quand vous inscrivez vos enfants à la crèche&nbsp;: on ne vous demande plus votre avis d’imposition ou une attestation de la CAF. C’est grâce aux équipes d’Etalab. »</em></span></p><cite>Amélie de Montchalin </cite></blockquote>
+
+
+
+<h2 class="wp-block-heading"><strong>La transformation des grands producteurs de données</strong></h2>
+
+
+
+<p>La contribution à la <strong>transformation de l’action publique</strong> a été  salué par Sébastien Soriano, selon lequel Etalab a été <em>« un puissant stimulateur »</em> :</p>
+
+
+
+<blockquote class="wp-block-quote"><p><em><span class="has-inline-color has-vivid-cyan-blue-color">« Etalab nous a aidés à prendre conscience qu’un changement de modèle était en cours. […] Ce modèle de la gratuité [des données] permet de nous inscrire dans une dynamique de partage, de communs, et d’en être un des producteurs parmi d’autres. »</span></em></p><cite>Sebastien Soriano</cite></blockquote>
+
+
+
+<p><strong>L’ouverture des données de la DILA</strong>, notamment les données de <a href="https://www.legifrance.gouv.fr/">Légifrance</a> et de <a href="http://service-public.fr/">service-public.fr</a> <strong>s’est révélé être positive&nbsp;</strong>:</p>
+
+
+
+<blockquote class="wp-block-quote"><p><em><span class="has-inline-color has-vivid-cyan-blue-color">« On aurait pu craindre que cela rende notre site moins intéressant, mais cela a plutôt été un moyen de faire connaître plus largement toutes les données dont nous disposons et nous espérons que les API vont nous aider à accélérer tout cela. […] C’est dans nos missions de s’intéresser aux besoins des usagers donc finalement l’ouverture des données a été assez naturelle chez nous. »</span></em></p><cite>Anne Duclos-Grisier</cite></blockquote>
+
+
+
+<p><strong>La question des compétences à mobiliser </strong>a également été discutée notamment les apports du programme <a href="https://entrepreneur-interet-general.etalab.gouv.fr/">Entrepreneurs d’Intérêt Général</a>. La Ministre a rappelé l’importance de la réinternalisation des compétences et l’effet que l’ouverture de la donnée a sur le sens que les agents donnent à leur mission&nbsp;:</p>
+
+
+
+<blockquote class="wp-block-quote"><p><em><span class="has-inline-color has-vivid-cyan-blue-color">« Avoir accès à la donnée c’est pour améliorer au quotidien le sens même de la mission des agents. »</span></em></p><cite>Amélie de Montchalin </cite></blockquote>
+
+
+
+<h2 class="wp-block-heading"><strong>La donnée au service d’une action publique plus ouverte et plus transparente</strong></h2>
+
+
+
+<p>Eric Bothorel est revenu sur <strong>le rapport <a href="https://www.mission-open-data.fr/">pour une politique publique de la donnée</a></strong>, remis au Premier Ministre en décembre dernier, et sur le travail avec Etalab. </p>
+
+
+
+<blockquote class="wp-block-quote"><p><em><span class="has-inline-color has-vivid-cyan-blue-color">« Ce qui m’a marqué c’est la disponibilité d’esprit, et la volonté d’aller plus loin dans la politique de la donnée au sein des ministères. »</span></em></p><cite>Eric Bothorel</cite></blockquote>
+
+
+
+<p>Les échanges avec Guillaume Rozier ont permis de souligner l&rsquo;importance de la mise à disposition de données en open data,  dans tous les secteurs, et sur leur potentiel de création de valeur, au-delà de la seule transparence :</p>
+
+
+
+<blockquote class="wp-block-quote"><p><em><span class="has-inline-color has-vivid-cyan-blue-color">« C’est grâce à Etalab et <a href="http://data.gouv.fr/">data.gouv.fr</a> que je suis data scientist aujourd’hui […] C’est le fait que Santé publique France publie des données de bonnes qualités de manière fréquente et que l’on dispose d’une plateforme commune <a href="http://data.gouv.fr/">data.gouv.fr</a> permettant d’accéder à ces données de manière uniforme et homogène qui m’a donné envie d’innover. »</span></em></p><cite>Guillaume Rozier</cite></blockquote>
+
+
+
+<blockquote class="wp-block-quote"><p><em><span class="has-inline-color has-vivid-cyan-blue-color">« La transparence est un levier d’efficacité […] l’ouverture des données publiques contribue à ce que la parole politique se transcrive en effets concrets et tangibles sur le terrain. »</span></em></p><cite>Amélie de Montchalin</cite></blockquote>
+
+
+
+<p>Le <strong>besoin de décloisonnement des données et de pluridisciplinarité </strong>a également été mis en avant.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><em><span class="has-inline-color has-vivid-cyan-blue-color">« On va avoir à faire face à des défis environnementaux, sanitaires qui vont nécessiter de mobiliser des jeux de données d’où qu’ils viennent […]. La richesse se tire souvent du croisement d’un certain nombre de jeux de données […]. Mettons-nous dans ce mouvement qui consiste à ne pas penser pour soi, mais aussi à penser plus large et pour les autres. »</span></em></p><cite>Eric Bothorel </cite></blockquote>
+
+
+
+<h3 class="wp-block-heading">Des efforts à poursuivre</h3>
+
+
+
+<p>Enfin, les participants ont partagé le constat que <strong>l’ouverture par défaut des données publiques</strong> peut encore être améliorée et que les efforts sur <strong>l’acculturation et la montée en compétence des administrations</strong> sur le sujet doivent être poursuivis. De la même manière, une attention particulière doit être apportée à la <strong>coordination entre acteurs</strong>, avec notamment un besoin d’interministérialité et de davantage de coordination entre l’État et les collectivités pour que l’action soit plus cohérente et organisée. </p>
+
+
+
+<h2 class="wp-block-heading"><strong>Fêtons les 10&nbsp;ans d’Etalab ensemble</strong></h2>
+
+
+
+<p>Les verbatims recueillis ici ne représentent qu&rsquo;une infime partie des échanges : nous vous invitons à <a href="https://www.dailymotion.com/video/x7zpv9n">visionner la rediffusion de la table ronde</a>.</p>
+
+
+
+<p>A l&rsquo;occasion de la table-ronde, les participantes et participants ont répondu à une micro-interview. Un souvenir marquant avec Etalab ? Un défi pour les 10 ans à venir ? <a href="https://www.dailymotion.com/playlist/x73jef">Découvrez leurs réponses en cinq pastilles vidéos</a>. </p>
+
+
+
+<p>Pour fêter cette première décennie et imaginer ensemble les 10&nbsp;prochaines années, <a href="https://www.etalab.gouv.fr/2011-2021-rdv-tout-au-long-de-lannee-pour-feter-les-10-ans-detalab">nous organisons tout au long de l’année une série d’évènements ainsi que quelques surprises</a>. Restez connectés et partagez vous aussi un souvenir marquant, une rencontre avec Etalab, ou un défi pour l’avenir sur les réseaux sociaux autour du <a href="https://twitter.com/search?q=%22%2310ansEtalab&amp;src=typed_query&amp;f=live" data-type="URL" data-id="https://twitter.com/search?q=%22%2310ansEtalab&amp;src=typed_query&amp;f=live">mot-dièse <strong>#10ansEtalab</strong></a> ou en <a href="https://www.etalab.gouv.fr/contact">écrivant</a> à Etalab.</p>
+
+
+
+<p>On vous écoute !</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Rétrospective 2020 #3/6 : Les données publiques au service de la gestion de crise et du pilotage des politiques publiques</title>
+		<link>/les-donnees-publiques-au-service-de-la-gestion-de-crise-et-du-pilotage-des-politiques-publiques</link>
+		
+		<dc:creator><![CDATA[Antonin Garrone]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2021 17:00:34 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[Open data]]></category>
+		<category><![CDATA[Réutilisations]]></category>
+		<category><![CDATA[covid-19]]></category>
+		<category><![CDATA[open data]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14953</guid>
+
+					<description><![CDATA[Ce blogpost fait partie d&#8217;une série de rétrospectives de l’année 2020 autour d’axes de travail d’Etalab : utiliser la science des données et l’intelligence artificielle pour l’administration, accompagner l’administration dans l’utilisation de logiciels libres et la publication de codes sources, ouvrir et faire circuler les données publiques, accompagner les administrations à travers le programme EIG, &#8230;<p class="read-more"> <a class="" href="/les-donnees-publiques-au-service-de-la-gestion-de-crise-et-du-pilotage-des-politiques-publiques"> <span class="screen-reader-text">Rétrospective 2020 #3/6 : Les données publiques au service de la gestion de crise et du pilotage des politiques publiques</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p><em>Ce blogpost fait partie d&rsquo;une série de rétrospectives de l’année 2020 autour d’axes de travail d’Etalab : <a href="https://www.etalab.gouv.fr/retrospective-2020-1-6-lab-ia-datascience-et-intelligence-artificielle-pour-ladministration">utiliser la science des données et l’intelligence artificielle pour l’administration</a>, <a href="https://www.etalab.gouv.fr/retrospective-2020-2-6-laccompagnement-a-louverture-des-codes-sources-et-lutilisation-de-logiciels-libres">accompagner l’administration dans l’utilisation de logiciels libres et la publication de codes sources</a>, ouvrir et faire circuler les données publiques, accompagner les administrations à travers le programme EIG, accompagner les administrations sur l’explicabilité et la redevabilité des algorithmes.</em></p></blockquote>
+
+
+
+<h3 class="wp-block-heading">L&rsquo;open data au coeur de la gestion de crise</h3>
+
+
+
+<p>L&rsquo;année 2020 a été une année très particulière pour l&rsquo;open data. La fréquentation de data.gouv.fr a atteint un record absolu avec un pic au <strong>mois de novembre 2020 lors duquel la plateforme a accueilli 2 305 255 visiteurs uniques</strong>.</p>
+
+
+
+<p>Ces chiffres s&rsquo;expliquent en grande partie par l&rsquo;intérêt du public pour les données et les réutilisations relatives au COVID-19.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="2500" height="900" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/newplot-28.png" alt="" class="wp-image-14959"/></figure>
+
+
+
+<p>Les usages de la plateforme ont également connu une hausse importante. De nombreux jeux de données et réutilisations ont été publiés en 2020.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="2500" height="900" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/newplot-29.png" alt="Jeux de données et réutilisations publiés sur data.gouv.fr en 2020" class="wp-image-14958"/></figure>
+
+
+
+<p>Si l&rsquo;attention a été porté sur les <a href="https://www.data.gouv.fr/fr/pages/donnees-coronavirus" class="broken_link">données relatives à l&rsquo;épidémie de COVID-19</a> afin de répondre aux exigences de transparence et de pilotage informé de la crise sanitaire, l&rsquo;année 2020 représente également un tournant pour l&rsquo;open data des données environnementales en particulier grâce au travail de l&rsquo;<a href="https://www.data.gouv.fr/fr/organizations/ademe/">ADEME</a>.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Pour en savoir plus sur l&rsquo;activité de la plateforme nationale de données en 2020, rendez-vous sur le <a href="https://www.data.gouv.fr/fr/posts/retour-sur-les-activites-de-data-gouv-fr-en-2020/">bilan 2020 de data.gouv.fr</a>.</p></blockquote>
+
+
+
+<h3 class="wp-block-heading">L&rsquo;open data au service de l&rsquo;information et du pilotage des politiques publiques</h3>
+
+
+
+<p>Nous avons également assisté en 2020 à une accélération des services numériques fondés sur les données ouvertes.</p>
+
+
+
+<h4 class="wp-block-heading">Un tableau de bord pour suivre l&rsquo;épidémie de COVID-19</h4>
+
+
+
+<p>Afin de rendre les données relatives à la COVID-19 accessibles et compréhensibles pour le plus grand nombre, un <a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees">tableau de bord développé par Etalab a été publié sur gouvernement.fr</a>. Celui-ci permet de visualiser l’ensemble des indicateurs de suivi de l’épidémie.</p>
+
+
+
+<p>La mise à disposition et la visualisation de ces données permettent d&rsquo;assurer la juste information du public et de faire acte de transparence sur les informations fondant les prises de décisions du gouvernement.</p>
+
+
+
+<figure class="wp-block-image alignfull"><img decoding="async" src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_9773f67bf6296fc43478899c2840bbd1.png" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees">Consulter le tableau de bord</a></p></blockquote>
+
+
+
+<h4 class="wp-block-heading">Le tableau de bord des aides aux entreprises</h4>
+
+
+
+<p>De la même manière, un tableau de bord permettant de mettre à la disposition les données sur les aides versées à destination des entreprises affectées par la crise sanitaire a été développé par Etalab.</p>
+
+
+
+<p>Ces données, détaillées par secteur d’activité et par zone géographique, permettent non seulement aux citoyens de suivre de façon transparente l&rsquo;action de l&rsquo;État, mais apporte également aux décideurs une visibilité claire, en temps réel, de la mise en oeuvre des mesures. Ceci permet notamment d&rsquo;identifier plus rapidement les adaptations nécessaires et les futures actions à mettre en oeuvre.</p>
+
+
+
+<figure class="wp-block-image alignfull"><img decoding="async" src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_7744763c2bb81ecd13b1d0fdc330aaca.png" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://aides-entreprises.data.gouv.fr/" class="broken_link">Consulter le tableau de bord</a></p></blockquote>
+
+
+
+<h4 class="wp-block-heading">Le baromètre des résultats de l&rsquo;action publique</h4>
+
+
+
+<p>L&rsquo;année 2020 est aussi l&rsquo;année de la publication du baromètre des résultats de l’action publique. <a href="https://www.gouvernement.fr/les-actions-du-gouvernement">Accessible en ligne sur le site gouvernement.fr</a>, le baromètre permet à chaque citoyen et décideur de suivre l’action du Gouvernement, politique par politique, territoire par territoire.</p>
+
+
+
+<p>Ce tableau de bord participe à l&rsquo;amélioration du pilotage des politiques publiques en les inscrivant dans une perspective de résultats et de transparence du service rendu à l&rsquo;usager.</p>
+
+
+
+<figure class="wp-block-image alignfull"><img decoding="async" src="https://static.data.gouv.fr/images/9c/07f40f654c470ab563d274ff883780.jpg" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://aides-entreprises.data.gouv.fr/" class="broken_link">Consulter le tableau de bord</a></p></blockquote>
+
+
+
+<h4 class="wp-block-heading">L&rsquo;annuaire des entreprises</h4>
+
+
+
+<p>En 2020, Etalab a également développé avec la DGE, le site <a href="https://annuaire-entreprises.data.gouv.fr/">annuaire-entreprises</a>. L&rsquo;ambition de ce portail est de devenir la référence dans la consultation des données relatives aux personnes morales.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_02da9878bff0b94f8460d16c61fa62ff.png" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://annuaire-entreprises.data.gouv.fr/" rel="sponsored nofollow">Voir l&rsquo;Annuaire des Entreprises</a></p></blockquote>
+
+
+
+<h3 class="wp-block-heading">La publication du rapport sur la politique publique de la donnée, des algorithmes et des codes sources</h3>
+
+
+
+<p>L&rsquo;année 2020 est aussi celle de la <a href="https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources">remise au Premier ministre du rapport sur la politique publique de la donnée, des algorithmes et des codes sources</a>. </p>
+
+
+
+<p>En six mois, la mission conduite par le député Eric Bothorel a réalisé plus de 250 auditions et a conduit une <a href="https://www.mission-open-data.fr/">consultation en ligne</a>, à laquelle ont contribué plus de 500 personnes et organisations.</p>
+
+
+
+<p>Le rapport propose notamment une dizaine d’études de cas comme les données de la délinquance, les modèles épidémiologiques de l’Institut Pasteur, l’ouverture de la base Sirene ou encore des exemples étrangers.</p>
+
+
+
+<p>A l&rsquo;issue de ces travaux, le gouvernement a annoncé des dispositions en matière de données à l&rsquo;occasion du <a href="https://www.modernisation.gouv.fr/transformation-publique/comites-interministeriels-de-la-transformation-publique/article-citp" class="broken_link">5e Comité Interministériel pour la Transformation Publique</a>.</p>
+
+
+
+<p>Le gouvernement a notamment pris l&rsquo;engagement suivant :</p>
+
+
+
+<blockquote class="wp-block-quote"><p>« Une politique publique de la donnée ambitieuse sera mise en œuvre par tous les ministères pour mieux exploiter, ouvrir, partager et valoriser les données publiques, au bénéfice de la transparence et de l’efficacité de l’action publique. »</p></blockquote>
+
+
+
+<p>Chaque ministère sera ainsi chargé de décliner une feuille de route ambitieuse en matière de valorisation des données de son périmètre, en s’appuyant sur une gouvernance renouvelée et plus efficace. L&rsquo;État prendra également une charte d’engagement sur le traitement des demandes de données des chercheurs, et renforcera sa politique de ressources humaines dans le domaine de la donnée.</p>
+
+
+
+<p>Dans ce cadre, de nouvelles bases de données, API et codes sources publics seront ouverts d&rsquo;ici la fin 2021, parmi lesquels :</p>
+
+
+
+<ul><li>les données de la carte scolaire des collèges ;</li><li>les données librement accessibles du répertoire opérationnel de ressources qui recense l&rsquo;ensemble de l&rsquo;offre sanitaire et du médico-social ;</li><li>les données sur les auto-écoles ayant reçu un agrément préfectoral ;</li><li>les données sur l&rsquo;agriculture biologique à la maille communale ;</li><li>les données de mise en oeuvre du plan de relance ;</li><li>les données des permis de construire des personnes physiques.</li></ul>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://www.mission-open-data.fr/uploads/decidim/attachment/file/36/Mission_Bothorel_Rapport.pdf">Lire le rapport sur la politique publique de la donnée, des algorithmes et des codes sources</a>.</p><p><a href="https://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/dp_citp_vdef_1.pdf" class="broken_link">En savoir plus sur les annonces du 5e Comité Interministériel pour la Transformation Publique</a>.</p></blockquote>
+
+
+
+<h3 class="wp-block-heading">La France reste leader en matière d&rsquo;open data en Europe</h3>
+
+
+
+<p>La France conserve sa place sur le podium des pays leader en matière d&rsquo;open data en Europe selon l&rsquo;<a href="https://www.europeandataportal.eu/en/dashboard/2020">Open Data Maturity Index</a> de la Commission Européenne.</p>
+
+
+
+<p>La Commission accorde la première place à la France pour son cadre politico-légal et pour son portail national data.gouv.fr. En revanche, en ce qui concerne la qualité des données et l&rsquo;impact, la France se situe, respectivement, à la cinquième et sixième place.</p>
+
+
+
+<figure class="wp-block-image alignfull"><img decoding="async" src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_31d140ae53955dd995c52667ff8768c5.png" alt=""/></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>La France de nouveau sur le podium de l&#8217;open data en 2019</title>
+		<link>/la-france-de-nouveau-sur-le-podium-de-lopen-data-en-2019</link>
+		
+		<dc:creator><![CDATA[Antonin Garrone]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2020 10:42:59 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[open data]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=13703</guid>
+
+					<description><![CDATA[En 2019, la France a consolidé sa position de leader mondial en matière d’open data. C'est ce que confirment deux classements internationaux : l'OURdata Index de l'OCDE et l'Open Data Maturity Report de la Commission européenne. L'occasion de constater les résultats du travail accompli par Etalab.]]></description>
+										<content:encoded><![CDATA[
+<p>En 2019, la France a consolidé sa position de leader mondial en matière d’open data. C&rsquo;est ce que confirment deux classements internationaux : l&rsquo;OURdata Index de l&rsquo;OCDE (Organisation de coopération et de développement économiques) et l&rsquo;Open Data Maturity Report de la Commission européenne.</p>
+
+
+
+<p>Ces rapports permettent de constater les résultats du travail accompli par Etalab. C&rsquo;est aussi une manière de comprendre où en sont les autres pays et de mesurer le chemin qui reste à parcourir. Quels sont nos points forts et nos points faibles ? Et comment améliorer notre action en 2020 ?</p>
+
+
+
+<h2 class="wp-block-heading">La France, 2ème au classement OURdata Index 2019 de l&rsquo;OCDE</h2>
+
+
+
+<p>L&rsquo;OURdata Index est un indice qui évalue l’efficacité des politiques d’ouverture des données gouvernementales. Il s&rsquo;agit de mesurer les efforts que font les gouvernements pour faciliter l&rsquo;utilisation des données ouvertes. Il repose sur trois indicateurs :</p>
+
+
+
+<ul><li>la disponibilité des données (notamment le nombre de jeux de données disponibles) ;</li><li>l’accessibilité des données (notamment la qualité et la complétude des données) ;</li><li>le soutien gouvernemental à la réutilisation des données (la promotion de l&rsquo;open data, la mise en place de formations ou encore la mesure de l&rsquo;impact de l&rsquo;ouverture). </li></ul>
+
+
+
+<p><strong>Selon ces critères, la France est en deuxième position derrière la Corée du Sud.</strong> Ce sont notamment les progrès en termes de formation et d&rsquo;accompagnement des administrations qui améliorent son indice, qui passe de 0,85 en 2018 à 0,90 en 2019.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="859" height="1024" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/03/classement-ocde-859x1024.png" alt="" class="wp-image-13831" srcset="/wp-content/uploads/2020/03/classement-ocde-859x1024.png 859w, /wp-content/uploads/2020/03/classement-ocde-252x300.png 252w, /wp-content/uploads/2020/03/classement-ocde-768x915.png 768w, /wp-content/uploads/2020/03/classement-ocde.png 1000w" sizes="(max-width: 859px) 100vw, 859px" /><figcaption> Évolution de l&rsquo;indice pour les pays de l&rsquo;OCDE, entre 2017 et 2019<br> Source : OCDE (2016, 2018), Open Government Data Survey  </figcaption></figure></div>
+
+
+
+<p> → <a href="https://www.oecd-ilibrary.org/governance/government-at-a-glance-2019_8ccf5c38-en">Consulter les résultats de l’OURdata index 2019 dans le rapport Government at a Glance 2019</a> (chapitre 9).   <br> → <a href="https://doi.org/10.1787/888934031180">Télécharger les données</a>  </p>
+
+
+
+<h2 class="wp-block-heading">La France, « trendsetter » de l&rsquo;open data en Europe selon la Commission européenne</h2>
+
+
+
+<p>L&rsquo;Open Data Maturity Report évalue les progrès réalisés par les pays européens selon quatre critères : </p>
+
+
+
+<ul><li>maturité du cadre politique ;</li><li>maturité du portail national d&rsquo;open data ;</li><li>qualité de la mesure de l&rsquo;impact de l’open data ;</li><li>qualité des données ouvertes.</li></ul>
+
+
+
+<p><strong>Avec un niveau de maturité évalué à 89% (+6 points depuis 2018) la France s&rsquo;est vu attribuer en 2019 la troisième place derrière l&rsquo;Irlande (91%) et l&rsquo;Espagne (90%).</strong> <br> Ces trois pays sont considérés par la Commission européenne comme des « trendsetters », à l&rsquo;avant-garde et sources d&rsquo;inspiration pour les autres pays européens. </p>
+
+
+
+<p> → <a href="https://www.europeandataportal.eu/sites/default/files/open_data_maturity_report_2019.pdf">Consulter le rapport </a> </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="691" height="294" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/03/classement-commission-europeenne.png" alt="" class="wp-image-13830" srcset="/wp-content/uploads/2020/03/classement-commission-europeenne.png 691w, /wp-content/uploads/2020/03/classement-commission-europeenne-300x128.png 300w" sizes="(max-width: 691px) 100vw, 691px" /><figcaption>  Niveau de maturité de la France sur les quatre critères<br>Source : <a href="https://www.europeandataportal.eu/sites/default/files/open_data_maturity_report_2019.pdf">Open Data Maturity Report 2019</a>  </figcaption></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="450" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/03/classement-commission-europenne-2-1024x450.png" alt="" class="wp-image-13829" srcset="/wp-content/uploads/2020/03/classement-commission-europenne-2-1024x450.png 1024w, /wp-content/uploads/2020/03/classement-commission-europenne-2-300x132.png 300w, /wp-content/uploads/2020/03/classement-commission-europenne-2-768x337.png 768w, /wp-content/uploads/2020/03/classement-commission-europenne-2.png 1382w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption> Niveau de maturité de la France dans chacun des sous-indicateurs <br> Source : <a href="https://www.europeandataportal.eu/sites/default/files/open_data_maturity_report_2019.pdf">Open Data Maturity Report 2019</a>  </figcaption></figure></div>
+
+
+
+<p> → <a href="https://www.europeandataportal.eu/en/dashboard#2019">Voir le tableau de bord comparatif des pays européens</a><br> → <a href="https://www.europeandataportal.eu/sites/default/files/country-factsheet_france_2019.pdf">Voir l&rsquo;infographie sur les résultats français</a></p>
+
+
+
+<h2 class="wp-block-heading">Les bonnes pratiques françaises</h2>
+
+
+
+<h3 class="wp-block-heading">Un portail national de qualité</h3>
+
+
+
+<p>Les deux classements plébiscitent la France pour la qualité de son portail centralisé : data.gouv.fr. Ils le considèrent comme l&rsquo;un des plus développés et saluent notamment son caractère collaboratif. </p>
+
+
+
+<p>Selon l&rsquo;OCDE, <a href="https://www.data.gouv.fr/fr/reuses/?sort=-created">mettre en avant des réutilisations comme des articles de blog ou des articles de presse</a>, en plus des API ou des visualisations, est une bonne pratique qui distingue la France. En effet, il est important de montrer que la réutilisation des données ouvertes ne se limite pas aux personnes ayant des compétences avancées en programmation ou en analyse de données. </p>
+
+
+
+<h3 class="wp-block-heading">Un cadre politique et législatif favorable à l&rsquo;open data</h3>
+
+
+
+<p>La France se démarque particulièrement par son cadre politique et juridique très favorable à l&rsquo;open data. En effet, il existe au niveau national des politiques spécifiques sur les données ouvertes ainsi que des mécanismes de coordination efficaces pour favoriser l&rsquo;open data. Ils permettent de fournir des lignes directrices et un accompagnement aux administrations nationales comme locales dans l&rsquo;ouverture et le partage de leurs données. Par exemple, <a href="https://www.economie.gouv.fr/republique-numerique" class="broken_link">la loi pour une République numérique</a> est mentionnée à plusieurs reprises comme étant un exemple à suivre. </p>
+
+
+
+<p>D&rsquo;un point de vue organisationnel, les deux classements saluent le rôle d&rsquo;Etalab dans l&rsquo;identification et l&rsquo;effort de mise à disposition des données qui ont le plus d’impact économique et social. La qualité de ces données est critique pour les utilisateurs et s&rsquo;inscrit dans ce qu&rsquo;on appelle <a href="https://www.data.gouv.fr/fr/reference">le service public de la donnée</a> de référence. Ils soulignent également la pertinence de la création et de <a href="https://www.etalab.gouv.fr/la-communaute-des-administrateurs-ministeriels-des-donnees-se-mobilise-pour-accelerer-la-mise-en-oeuvre-de-la-politique-des-donnees">l&rsquo;animation d&rsquo;un réseau d&rsquo;administrateurs ministériels des données</a>. </p>
+
+
+
+<h3 class="wp-block-heading">L&rsquo;échange de données entre administrations</h3>
+
+
+
+<p>La Commission européenne a constaté que les gouvernements européens fournissaient des efforts croissants pour partager efficacement les données, notamment entre administrations. Sur ce sujet, la France met en œuvre le principe « Dites-le-nous une fois » (DLNUF), qui consiste à éviter aux citoyens de fournir, lors de leurs démarches administratives, des informations ou pièces justificatives déjà détenues par l&rsquo;administration. Pour cela, il s’appuie sur l&rsquo;échange de données par traitement automatisé notamment par API.</p>
+
+
+
+<p>Pour en accélérer l’application, Etalab et, plus généralement, la direction interministérielle du numérique (<a href="https://www.numerique.gouv.fr/">DINUM</a>) proposent une offre d’accompagnement des administrations. </p>
+
+
+
+<p>Cet accompagnement se matérialise par trois volets: </p>
+
+
+
+<ul><li>conseil juridique ;</li><li>accompagnement pour la circulation de la donnée ;</li><li>mise à disposition d&rsquo;outils au service de la circulation et de l’exploitation des données.</li></ul>
+
+
+
+<p> → <a href="https://www.numerique.gouv.fr/produits-services/guichet-dites-le-nous-une-fois/">Voir l&rsquo;offre de service</a></p>
+
+
+
+<h2 class="wp-block-heading">Les axes d&rsquo;améliorations</h2>
+
+
+
+<h3 class="wp-block-heading">L&rsquo;accompagnement à la publication : guides et schémas de données</h3>
+
+
+
+<p>D&rsquo;après les deux institutions, la France doit poursuivre sur la lancée engagée pour améliorer la qualité des données ouvertes. </p>
+
+
+
+<p>Pour cela, Etalab accompagne les producteurs de données dans leurs démarches de publication, notamment par la publication de guides pédagogiques portant sur les conditions d&rsquo;ouverture, les licences, les algorithmes&#8230;</p>
+
+
+
+<p> → <a href="https://guides.etalab.gouv.fr/">Consulter les guides</a></p>
+
+
+
+<p>Etalab a porté une autre initiative pour améliorer la qualité des données : schema.data.gouv.fr. Cet outil référence des schémas de données publiques utilisés en France qui peuvent être repris par les producteurs de données. Les schémas de données permettent de décrire des modèles de données : quels sont les différents champs, comment sont représentées les données, quelles sont les valeurs possibles, etc.</p>
+
+
+
+<p> → <a href="https://schema.data.gouv.fr/">Consulter schema.data.gouv.fr</a></p>
+
+
+
+<h3 class="wp-block-heading">La mesure de l&rsquo;impact de l&rsquo;open data</h3>
+
+
+
+<p>La mesure d&rsquo;impact reste l&rsquo;axe d&rsquo;amélioration principal. C&rsquo;est une tâche complexe par nature, car l’open data suppose que l’on ne présage pas de l’usage qui sera fait des données. Ainsi, les réutilisations publiées sur data.gouv.fr le sont de façon volontaire. De plus, il est difficile de quantifier l’impact de l’open data sur certains aspects comme, par exemple, la transparence administrative. </p>
+
+
+
+<p>Pour autant, et malgré ces difficultés, un travail est mené pour améliorer l&rsquo;éditorialisation des données, faciliter leur decouvrabilité, et permettre la remonté des usages. Etalab continue également d&rsquo;organiser des événements pour mettre en avant certains jeux de données, par exemple les données financières des collectivités locales lors du hackathon DataFin. Enfin, Etalab suit de près l’étude en cours menée par la <a href="https://fing.org/">FING</a> sur l’<a href="https://fing.org/actions/open-data-impact.html">impact de l’open data</a>. </p>
+
+
+
+<h2 class="wp-block-heading">En savoir plus</h2>
+
+
+
+<p>N&rsquo;hésitez pas à vous plonger dans ces deux classements, intégralement disponibles en ligne : </p>
+
+
+
+<ul><li><a href="https://www.oecd-ilibrary.org/governance/government-at-a-glance-2019_8ccf5c38-en">classement OCDE</a></li><li><a href="https://www.europeandataportal.eu/sites/default/files/open_data_maturity_report_2019.pdf">classement Commission européenne</a></li></ul>
+
+
+
+<p>Pour en savoir plus sur le travail qu&rsquo;a effectué Etalab en 2019 et sur les perspectives futures, nous vous invitons à consulter le <a href="https://www.etalab.gouv.fr/lannee-2019-pour-etalab-une-retrospective">bilan 2019 d&rsquo;Etalab</a> ainsi que le <a href="https://www.data.gouv.fr/fr/posts/retour-sur-les-activites-de-data-gouv-fr-en-2019/">bilan 2019 du portail data.gouv.fr</a>. </p>
+
+
+
+<p>Vos contributions à nos différentes initiatives sont toujours les bienvenues.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

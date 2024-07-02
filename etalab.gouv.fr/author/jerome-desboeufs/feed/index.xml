@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jérôme Desboeufs &#8211; Etalab</title>
+	<atom:link href="/author/jerome-desboeufs/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 07 Apr 2015 07:54:13 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Jérôme Desboeufs &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Data.gouv.fr invite le standard Inspire dans l&#8217;open data</title>
+		<link>/data-gouv-fr-invite-le-standard-inspire-dans-lopen-data</link>
+		
+		<dc:creator><![CDATA[Jérôme Desboeufs]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2015 07:52:55 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[données]]></category>
+		<category><![CDATA[géographique]]></category>
+		<category><![CDATA[IDG]]></category>
+		<category><![CDATA[inspire]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[SIG]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3084</guid>
+
+					<description><![CDATA[Depuis une semaine, www.data.gouv.fr reçoit de nouvelles données géographiques qui enrichissent considérablement la nature, la portée et la profondeur des informations partagées en open data. Après le Grand Poitiers, qui a partagé de nombreuses données ce 31 mars dernier, le Système d&#8217;Information pour l&#8217;Eau, l&#8217;IFREMER puis le SDIS du Tarn ont partagé à leur tour de plusieurs jeux &#8230;<p class="read-more"> <a class="" href="/data-gouv-fr-invite-le-standard-inspire-dans-lopen-data"> <span class="screen-reader-text"><!--:fr-->Data.gouv.fr invite le standard Inspire dans l&#8217;open data<!--:--></span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->Depuis une semaine, <a href="http://www.data.gouv.fr/" target="_blank">www.data.gouv.fr</a> reçoit de nouvelles données géographiques qui enrichissent considérablement la nature, la portée et la profondeur des informations partagées en <em>open data</em>.</p>
+<p>Après le <a href="https://www.data.gouv.fr/fr/organizations/grand-poitiers-open-data/" target="_blank">Grand Poitiers</a>, qui a partagé de <a href="http://www.7apoitiers.fr/enquete/1487/open-data-grand-poitiers-libere-ses-donnees" target="_blank" class="broken_link">nombreuses données</a> ce 31 mars dernier, le <a href="https://www.data.gouv.fr/fr/organizations/systeme-d-information-sur-l-eau/" target="_blank">Système d&rsquo;Information pour l&rsquo;Eau</a>, <a href="https://www.data.gouv.fr/fr/organizations/institut-francais-de-recherche-pour-lexploitation-de-la-mer/" target="_blank">l&rsquo;IFREMER</a> puis le <a href="https://www.data.gouv.fr/fr/organizations/service-departemental-dincendie-et-de-secours-du-tarn/" target="_blank">SDIS du Tarn</a> ont partagé à leur tour de plusieurs jeux de données géographiques issus de leurs infrastructures « Inspire ».</p>
+<p>Ces projets reposent sur un outil technique qui vient d&rsquo;enrichir <a href="http://data.gouv.fr/" target="_blank">data.gouv.fr</a> : la « passerelle Inspire », développée par l&rsquo;équipe d&rsquo;Etalab.</p>
+<p>Inspire, c&rsquo;est une <a href="http://fr.wikipedia.org/wiki/Infrastructure_d%27information_g%C3%A9ographique_dans_la_Communaut%C3%A9_europ%C3%A9enne" target="_blank">directive européenne</a> actée en 2007 et transposée en France en 2010, qui pousse les très nombreux systèmes d&rsquo;information géographique d&rsquo;Europe à converger vers les mêmes standards pour faciliter la circulation et l&rsquo;interopérabilité des données. Son large périmètre porte sur <a href="http://www.developpement-durable.gouv.fr/IMG/pdf/Themes_Inspire.pdf" target="_blank" class="broken_link">34 thématiques</a>.</p>
+<p>En France, comme dans les autres pays, l&rsquo;application de cette directive a été faite avec sérieux, mobilisant des énergies considérables, faisant naître un véritable standard partagé, mais peine encore à renouveler les usages et les publics de l&rsquo;information géographique.</p>
+<p>En avril 2014, le groupe de travail « OGC Open Data » de <a href="http://www.afigeo.asso.fr/" target="_blank">l&rsquo;Afigéo</a> (Association Française pour l&rsquo;Information Géographique) et Etalab faisaient le constant suivant : « La grande majorité des données géographiques soumises à la directive Inspire sont ouvertes ou devraient l&rsquo;être, et elle sont de plus en plus nombreuses à être documentées, référencées et téléchargeables à l&rsquo;aide de protocoles communs. Il manque donc une passerelle technique entre ces outils et l&rsquo;open data. »</p>
+<p>Un prototype a donc été développé par Etalab et présenté lors des<a href="http://www.afigeo.asso.fr/voir-toutes-les-news/977-diffusion-du-programme-des-8%C3%A8mes-rencontres-des-dynamiques-r%C3%A9gionales-5.html" target="_blank" class="broken_link"> Rencontres Dynamiques Régionales 2014</a>, à Ajaccio, puis enrichi, et même fait l&rsquo;objet d&rsquo;un<a href="http://www.afigeo.asso.fr/13-alertes/1078-7-janv-2015-atelier-de-travail-afigeo-%E2%80%93-etalab.html" target="_blank" class="broken_link"> Code Sprint</a> début janvier 2015.</p>
+<p>Cet outil est désormais stabilisé et utilisable par tout ceux qui contribuent à Inspire via le site <a href="https://inspire.data.gouv.fr/" target="_blank" class="broken_link">inspire.data.gouv.fr</a>.</p>
+<p>Publier leurs données ouvertes sur <a href="http://data.gouv.fr/" target="_blank">data.gouv.fr</a> permet à ces acteurs de mettre en avant leurs travaux et leur métier, de donner un usage concret à la directive, et de trouver de nouveaux utilisateurs et de nouveaux partenaires pour leurs données.</p>
+<p>D&rsquo;un point de vue technique cette passerelle utilise <a href="https://www.etalab.gouv.fr/presentation-du-nouveau-back-office-de-la-plateforme-de-data-gouv-fr" target="_blank">la nouvelle API de data.gouv.fr</a>  et est une bonne illustration de la manière dont un écosystème qui s&rsquo;est structuré et outillé autour de la donnée peut s&rsquo;intégrer efficacement à <a href="http://data.gouv.fr/" target="_blank">data.gouv.fr</a> et enrichir ainsi le mouvement open data.</p>
+<p>Tout producteur de données au « format Inspire » peut donc, en quelques clics, partager ses données sur <a href="http://data.gouv.fr/" target="_blank">data.gouv.fr</a> et y référencer son portail. Il suffit de <a href="https://inspire.data.gouv.fr/" target="_blank" class="broken_link">se connecter sur la passerelle</a>, ou, au pire, de <a href="mailto:inspire@data.gouv.fr">nous contacter</a>.</p>
+<p>Ces nouveaux outils, qui précèdent l&rsquo;inauguration imminente d&rsquo;une première version de la Base nationale des adresses, conformément aux engagements pris en <a href="https://www.etalab.gouv.fr/acteurs-publics-et-societe-civile-sassocient-pour-la-constitution-dune-base-adresse-nationale-ban-collaborative" target="_blank">novembre dernier</a>, renforcent la stratégie de mise en synergie de l&rsquo;open data et de l&rsquo;information géographique, afin de faire naître<strong> les grandes infrastructures informationnelles ouvertes qu&rsquo;appelle l&rsquo;économie moderne</strong>.<!--:--></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Data.gouv.fr invite le standard Inspire dans l&#8217;open data</title>
+		<link>/data-gouv-fr-invite-le-standard-inspire-dans-lopen-data-2</link>
+		
+		<dc:creator><![CDATA[Jérôme Desboeufs]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2015 07:52:55 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[données]]></category>
+		<category><![CDATA[géographique]]></category>
+		<category><![CDATA[IDG]]></category>
+		<category><![CDATA[inspire]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[SIG]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3084</guid>
+
+					<description><![CDATA[Depuis une semaine, www.data.gouv.fr reçoit de nouvelles données géographiques qui enrichissent considérablement la nature, la portée et la profondeur des informations partagées en open data. Après le Grand Poitiers, qui a partagé de nombreuses données ce 31 mars dernier, le Système d&#8217;Information pour l&#8217;Eau, l&#8217;IFREMER puis le SDIS du Tarn ont partagé à leur tour de plusieurs jeux &#8230;<p class="read-more"> <a class="" href="/data-gouv-fr-invite-le-standard-inspire-dans-lopen-data-2"> <span class="screen-reader-text">Data.gouv.fr invite le standard Inspire dans l&#8217;open data</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->Depuis une semaine, <a href="http://www.data.gouv.fr/" target="_blank" rel="noopener">www.data.gouv.fr</a> reçoit de nouvelles données géographiques qui enrichissent considérablement la nature, la portée et la profondeur des informations partagées en <em>open data</em>.<br />
+Après le <a href="https://www.data.gouv.fr/fr/organizations/grand-poitiers-open-data/" target="_blank" rel="noopener">Grand Poitiers</a>, qui a partagé de <a href="http://www.7apoitiers.fr/enquete/1487/open-data-grand-poitiers-libere-ses-donnees" target="_blank" rel="noopener" class="broken_link">nombreuses données</a> ce 31 mars dernier, le <a href="https://www.data.gouv.fr/fr/organizations/systeme-d-information-sur-l-eau/" target="_blank" rel="noopener">Système d&rsquo;Information pour l&rsquo;Eau</a>, <a href="https://www.data.gouv.fr/fr/organizations/institut-francais-de-recherche-pour-lexploitation-de-la-mer/" target="_blank" rel="noopener">l&rsquo;IFREMER</a> puis le <a href="https://www.data.gouv.fr/fr/organizations/service-departemental-dincendie-et-de-secours-du-tarn/" target="_blank" rel="noopener">SDIS du Tarn</a> ont partagé à leur tour de plusieurs jeux de données géographiques issus de leurs infrastructures « Inspire ».<br />
+Ces projets reposent sur un outil technique qui vient d&rsquo;enrichir <a href="http://data.gouv.fr/" target="_blank" rel="noopener">data.gouv.fr</a> : la « passerelle Inspire », développée par l&rsquo;équipe d&rsquo;Etalab.<br />
+Inspire, c&rsquo;est une <a href="http://fr.wikipedia.org/wiki/Infrastructure_d%27information_g%C3%A9ographique_dans_la_Communaut%C3%A9_europ%C3%A9enne" target="_blank" rel="noopener">directive européenne</a> actée en 2007 et transposée en France en 2010, qui pousse les très nombreux systèmes d&rsquo;information géographique d&rsquo;Europe à converger vers les mêmes standards pour faciliter la circulation et l&rsquo;interopérabilité des données. Son large périmètre porte sur <a href="http://www.developpement-durable.gouv.fr/IMG/pdf/Themes_Inspire.pdf" target="_blank" rel="noopener" class="broken_link">34 thématiques</a>.<br />
+En France, comme dans les autres pays, l&rsquo;application de cette directive a été faite avec sérieux, mobilisant des énergies considérables, faisant naître un véritable standard partagé, mais peine encore à renouveler les usages et les publics de l&rsquo;information géographique.<br />
+En avril 2014, le groupe de travail « OGC Open Data » de <a href="http://www.afigeo.asso.fr/" target="_blank" rel="noopener">l&rsquo;Afigéo</a> (Association Française pour l&rsquo;Information Géographique) et Etalab faisaient le constant suivant : « La grande majorité des données géographiques soumises à la directive Inspire sont ouvertes ou devraient l&rsquo;être, et elle sont de plus en plus nombreuses à être documentées, référencées et téléchargeables à l&rsquo;aide de protocoles communs. Il manque donc une passerelle technique entre ces outils et l&rsquo;open data. »<br />
+Un prototype a donc été développé par Etalab et présenté lors des<a href="http://www.afigeo.asso.fr/voir-toutes-les-news/977-diffusion-du-programme-des-8%C3%A8mes-rencontres-des-dynamiques-r%C3%A9gionales-5.html" target="_blank" rel="noopener" class="broken_link"> Rencontres Dynamiques Régionales 2014</a>, à Ajaccio, puis enrichi, et même fait l&rsquo;objet d&rsquo;un<a href="http://www.afigeo.asso.fr/13-alertes/1078-7-janv-2015-atelier-de-travail-afigeo-%E2%80%93-etalab.html" target="_blank" rel="noopener" class="broken_link"> Code Sprint</a> début janvier 2015.<br />
+Cet outil est désormais stabilisé et utilisable par tout ceux qui contribuent à Inspire via le site <a href="https://inspire.data.gouv.fr/" target="_blank" rel="noopener" class="broken_link">inspire.data.gouv.fr</a>.<br />
+Publier leurs données ouvertes sur <a href="http://data.gouv.fr/" target="_blank" rel="noopener">data.gouv.fr</a> permet à ces acteurs de mettre en avant leurs travaux et leur métier, de donner un usage concret à la directive, et de trouver de nouveaux utilisateurs et de nouveaux partenaires pour leurs données.<br />
+D&rsquo;un point de vue technique cette passerelle utilise <a href="https://www.etalab.gouv.fr/presentation-du-nouveau-back-office-de-la-plateforme-de-data-gouv-fr" target="_blank" rel="noopener">la nouvelle API de data.gouv.fr</a>  et est une bonne illustration de la manière dont un écosystème qui s&rsquo;est structuré et outillé autour de la donnée peut s&rsquo;intégrer efficacement à <a href="http://data.gouv.fr/" target="_blank" rel="noopener">data.gouv.fr</a> et enrichir ainsi le mouvement open data.<br />
+Tout producteur de données au « format Inspire » peut donc, en quelques clics, partager ses données sur <a href="http://data.gouv.fr/" target="_blank" rel="noopener">data.gouv.fr</a> et y référencer son portail. Il suffit de <a href="https://inspire.data.gouv.fr/" target="_blank" rel="noopener" class="broken_link">se connecter sur la passerelle</a>, ou, au pire, de <a href="mailto:inspire@data.gouv.fr">nous contacter</a>.<br />
+Ces nouveaux outils, qui précèdent l&rsquo;inauguration imminente d&rsquo;une première version de la Base nationale des adresses, conformément aux engagements pris en <a href="https://www.etalab.gouv.fr/acteurs-publics-et-societe-civile-sassocient-pour-la-constitution-dune-base-adresse-nationale-ban-collaborative" target="_blank" rel="noopener">novembre dernier</a>, renforcent la stratégie de mise en synergie de l&rsquo;open data et de l&rsquo;information géographique, afin de faire naître<strong> les grandes infrastructures informationnelles ouvertes qu&rsquo;appelle l&rsquo;économie moderne</strong>.<!--:--></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

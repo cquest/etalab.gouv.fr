@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Commentaires sur : OpenGov &#8211; Gouvernement Ouvert	</title>
+	<atom:link href="/gouvernement-ouvert/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Mon, 22 Jul 2019 10:29:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>
+		Par : Etalab et la Licence Ouverte / Open Licence – Aurelien Rodier		</title>
+		<link>/gouvernement-ouvert#comment-903</link>
+
+		<dc:creator><![CDATA[Etalab et la Licence Ouverte / Open Licence – Aurelien Rodier]]></dc:creator>
+		<pubDate>Mon, 27 Mar 2017 22:30:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.etalab.gouv.fr/?page_id=2244#comment-903</guid>
+
+					<description><![CDATA[[&#8230;] de service public.La mission contribue également à la mise en oeuvre des principes de « gouvernement ouvert » : transparence de l’action publique, consultation et concertation avec la société civile, [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] de service public.La mission contribue également à la mise en oeuvre des principes de « gouvernement ouvert » : transparence de l’action publique, consultation et concertation avec la société civile, [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>intelligence artificielle &#8211; Etalab</title>
+	<atom:link href="/category/intelligence-artificielle/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Fri, 29 Sep 2023 15:32:20 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>intelligence artificielle &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Newsletter du programme 10% &#8211; Septembre 2023</title>
+		<link>/newsletter-du-programme-10-septembre-2023</link>
+		
+		<dc:creator><![CDATA[Sabrina Hedroug]]></dc:creator>
+		<pubDate>Fri, 29 Sep 2023 15:21:13 +0000</pubDate>
+				<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[Programme 10%]]></category>
+		<guid isPermaLink="false">/?p=17907</guid>
+
+					<description><![CDATA[La communauté interministérielle des talents de la data et de l&#8217;IA Rejoindre le programme 10% Lancé en 2022, le programme 10%, co-porté par la Dinum et l&#8217;Insee, est une collaboration inédite entre experts publics de la donnée et de l&#8217;IA sur des projets d&#8217;intérêt commun. Intégrer la communauté 10%, c&#8217;est aussi monter en compétence, échanger &#8230;<p class="read-more"> <a class="" href="/newsletter-du-programme-10-septembre-2023"> <span class="screen-reader-text">Newsletter du programme 10% &#8211; Septembre 2023</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-uagb-advanced-heading uagb-block-6f06addd"><h2 class="uagb-heading-text"><strong>La communauté interministérielle des talents de la data et de l&rsquo;IA </strong></h2></div>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Rejoindre le programme 10%</strong><strong></strong></td></tr><tr><td>Lancé en 2022, le programme 10%, co-porté par la <strong>Dinum</strong> et l&rsquo;<strong>Insee</strong>, est une collaboration inédite entre experts publics de la donnée et de l&rsquo;IA sur <strong>des projets d&rsquo;intérêt commun</strong>. Intégrer la communauté 10%, c&rsquo;est aussi monter en compétence, échanger entre pairs et partager des moments informels autour de valeurs communes.<br><br>En 2023, 7 projets font l&rsquo;objet d&rsquo;une collaboration :<br><strong>Transformers :</strong> une IA open-source pour l&rsquo;analyse de texte par les administrations.<br><strong>ChartsGouv :</strong> l&rsquo;outil de datavisualisation des données de l&rsquo;État.<br><strong>FormIAble :</strong> l&rsquo;outil pour aider les administrations à extraire des informations de documents difficilement exploitables.<br><strong>Cartiflette :</strong> un outil facilitant la réalisation de cartes géographiques grâce à la récupération de fonds de cartes produits par des acteurs publics.<br><strong>Impact environnemental :</strong> former à l&rsquo;impact environnemental et mesurer celui des projets 10%.<br><strong>PoufDoc :</strong> l&rsquo;outil pour aider les administrations dans leur production récurrente de rapports.<br><strong>Trouver mon expert data (TED) :</strong> le moteur de recherche les experts de la data de l&rsquo;État par organisations, missions et compétences.<br><br><strong>Vous êtes un expert de la data/IA en poste au sein de l&rsquo;Etat ? </strong>Vous avez envie de rejoindre un de ces projets ? Contactez-nous : <strong><a href="mailto:10pourcent.dinum@modernisation.gouv.fr">10pourcent.dinum@modernisation.gouv.fr</a></strong><br><strong>Rejoignez-nous sur le tchap du programme 10% :</strong> <a href="https://www.tchap.gouv.fr/#/room/#Programme10o8dLNp7HWV:agent.dinum.tchap.gouv.fr">https://www.tchap.gouv.fr/#/room</a><br><a href="https://www.tchap.gouv.fr/#/room/#Programme10o8dLNp7HWV:agent.dinum.tchap.gouv.fr">/#Programme10o8dLNp7HWV:agent.dinum.tchap.gouv.fr</a>&nbsp;<strong> (demande d&rsquo;invitation à <a href="mailto:sabrina.hedroug@modernisation.gouv.fr">sabrina.hedroug@modernisation.gouv.fr</a>)</strong></td></tr></tbody></table></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>Zoom sur un projet 10% : Chartsgouv</strong></h2>
+
+
+
+<div class="wp-block-uagb-image uagb-block-19825df6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="/wp-content/uploads/2023/09/Quentin-Leroy.jpg " sizes="(max-width: 480px) 150px" src="/wp-content/uploads/2023/09/Quentin-Leroy.jpg" alt="" class="uag-image-17909" width="198" height="198" title="" loading="lazy"/></figure></div>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><em><strong>Rédaction :</strong></em><strong> Quentin Leroy, datascientist au ministère de l&rsquo;Intérieur</strong></td></tr><tr><td><br>Le projet <strong>ChartsGouv</strong> est né de l&rsquo;envie de <strong>proposer un cadre cohérent à la valorisation et la visualisation de données pour les agents de l&rsquo;Etat</strong>, en se basant sur un outil existant <strong>open source</strong> de référence que l&rsquo;on peut personnaliser et faire évoluer pour les besoins de l&rsquo;administration.<br><strong>Superset, </strong>créé par le français Maxime Beauchemin (également à l&rsquo;origine d&rsquo;Airflow !), est passé sous la gouvernance de la fondation Apache en 2017, et est développé et maintenu par des ingénieurs d&rsquo;Airbnb, Lyft, Apple&#8230; et utilisé par tant d&rsquo;autres (<a href="https://github.com/apache/superset/blob/master/RESOURCES/INTHEWILD.md">https://github.com/apache/superset/blob/master/RESOURCES/INTHEWILD.md</a>).<br><br>Superset présente l&rsquo;avantage de<strong> se connecter à tout type de sources de données et rend faisable la conception de graphiques, de filtres et de tableaux de bord pour des utilisateurs non techniques.</strong><br>Nous avons réuni <strong>une communauté d&rsquo;entraide et de partage autour de Superset</strong>, <strong>ses fonctionnalités cachées et ses possibilités de personnalisation et d&rsquo;évolution.</strong><br>Grâce à DuckDB, nous avons montré que Superset pouvait directement ingérer les fichiers CSV ou Parquet hébergés sur data.gouv.fr, sans avoir besoin de les télécharger ou d&rsquo;utiliser une chaîne de traitement de données, ce qui facilite la valorisation directe des données.<br>Nous avons pu travailler collaborativement sur ce sujet grâce à <strong>notre plateforme Superset sur le SSPCloud de l&rsquo;Insee</strong> (<a href="https://chartsgouv.lab.sspcloud.fr/superset/dashboard/dgafp">https://chartsgouv.lab.sspcloud.fr/superset/dashboard/dgafp</a>), qui comprend un début du theming de l&rsquo;interface aux couleurs de l&rsquo;Etat avec le DSFR.<br>Nous avons mis en place <strong>une plateforme de documentation</strong> (<a href="https://etalab-ia.github.io/chartsgouv/" class="broken_link">https://etalab-ia.github.io/chartsgouv/</a>) pour détailler dans des articles des solutions à des problemes récurrents comme l&#8217;embedding de charts dans un site externe, le templating de requêtes SQL avec Jinja, l&rsquo;installation et la configuration initiale&#8230; Les contributions sont les bienvenues ! Et nous sommes encore à la recherche de cas d&rsquo;usage ! (contact : <a href="mailto:quentin.leroy@interieur.gouv.fr">quentin.leroy@interieur.gouv.fr</a>)<br><br><strong>Liens utiles :<br><br></strong> <strong>Instance ChartsGouv sur le SSPCloud : <a href="https://chartsgouv.lab.sspcloud.fr/superset/dashboard/dgafp">https://chartsgouv.lab.sspcloud.fr/superset/dashboard/dgafp</a></strong> <strong>Repo github : <a href="https://github.com/etalab-ia/chartsgouv">https://github.com/etalab-ia/chartsgouv</a></strong> <strong>Site de documentation : <a href="https://etalab-ia.github.io/chartsgouv/" class="broken_link">https://etalab-ia.github.io/chartsgouv/</a></strong> <strong>Replay du passage à Datarama : <a href="https://www.youtube.com/watch?v=xvrr5X70puo&amp;t=22648s">https://www.youtube.com/watch?v=xvrr5X70puo&amp;t=22648s</a></strong></td></tr></tbody></table></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>Appel à contributions !</strong></h2>
+
+
+
+<div class="wp-block-uagb-image uagb-block-8f7b4136 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="/wp-content/uploads/2023/09/Clement-1.jpg " sizes="(max-width: 480px) 150px" src="/wp-content/uploads/2023/09/Clement-1.jpg" alt="" class="uag-image-17910" width="195" height="195" title="" loading="lazy"/></figure></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-table"><table><tbody><tr><td><em><strong>Rédaction :</strong></em><strong>Clement Guenais, data urbanist au ministère de l&rsquo;Intérieur</strong></td></tr><tr><td>Le projet Trouver mon Expert data (TED)&nbsp; est un des 7 projets 10% de la saison 2<strong>. Son objectif : mettre en place un outil de mise en relation entre services par les experts de la donnée.</strong><br>Vous souhaitez découvrir un service, trouver un pair dans une administration, savoir qui s&rsquo;occupe d&rsquo;accessibilité ou organiser une communauté data dans votre organisation<strong> ? Venez aider le projet&nbsp; en nous indiquant simplement votre fiche de poste et votre service depuis lannuaire.service-public.fr.</strong><br><br><strong>Vous êtes un expert de la data au sein d&rsquo;une administration ? Aidez-vous en répondant à ce questionnaire : <a href="https://framaforms.org/participer-a-trouver-mon-expertise-data-un-projet-du-programme-10-pour-cent-1686903329" class="broken_link">https://framaforms.org/participer-a-trouver-mon-expertise-data-un-projet-du-programme-10-pour-cent-1686903329</a></strong></td></tr></tbody></table></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>Portrait de participant 10%</strong></h2>
+
+
+
+<div class="wp-block-uagb-image uagb-block-7756f45b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="/wp-content/uploads/2023/09/Thomas-Grandjean.jpg " sizes="(max-width: 480px) 150px" src="/wp-content/uploads/2023/09/Thomas-Grandjean.jpg" alt="" class="uag-image-17911" width="200" height="253" title="" loading="lazy"/></figure></div>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Thomas Grandjean : ingénieur de l&rsquo;Agriculture et de l&rsquo;Environnement, Dreal Hauts-de-France. <br><br>Quel est ton parcours ?<br></strong>Je suis ingénieur en eau et environnement. J&rsquo;ai débuté ma carrière dans l&rsquo;ingénierie publique, puis je suis parti en service régalien (en police de l&rsquo;eau). Au cours de cette période, j&rsquo;ai rapidement pris conscience de l&rsquo;importance cruciale de l&rsquo;accès à l&rsquo;information environnementale. Il y avait de nombreux problèmes liés aux systèmes d&rsquo;information géographique et au partage des données, ce qui a suscité mon intérêt pour divers sujets à cette époque.<br>Rapidement, nous avons constaté la nécessité d&rsquo;utiliser Python pour effectuer des traitements larges de données spatiales. Par la suite, j&rsquo;ai changé de poste et j&rsquo;ai rejoint la DREAL nord Pas-de-Calais (Direction Régionale de l&rsquo;Environnement, de l&rsquo;Aménagement et du Logement) où j&rsquo;ai occupé un poste de vulgarisation scientifique axé sur l&rsquo;environnement. Nous avons été confrontés à d&rsquo;importants défis liés aux données et à la fusion de bases de données existantes, tant du côté de la Picardie que du Nord-Pas-de-Calais.<br>Sur certains sujets, nous nous sommes retrouvés avec d&rsquo;énormes volumes de données qui étaient devenues difficilement exploitables avec nos outils d&rsquo;alors. C&rsquo;est ainsi que je me suis totalement acculturé à python (que je pratique presque quotidiennement depuis).<br>Progressivement, avec python on a appuyé des services métiers sur tous les sujets, en dérivant très clairement du poste tel qu&rsquo;il a été fléché au départ. Cela m&rsquo;a amené à traiter beaucoup de jeux de données différents sur des champs de compétences très variés (web, statistique, datavisualisation, bases de données, cartographie&#8230;).<strong>Pourquoi avoir choisi le domaine de l&rsquo;environnement? <br></strong>Mon engagement dans le domaine environnemental découle d&rsquo;une conviction personnelle. À l&rsquo;origine, j&rsquo;ai été formé au ministère de l&rsquo;Agriculture mais sur des thématiques portées par le ministère de l&rsquo;Environnement, et j&rsquo;ai choisi de continuer à évoluer dans ce domaine. Puis, comme je l&rsquo;ai dit précédemment, la gestion des données a commencé à devenir un aspect important de mon travail. Typiquement, lorsque vous recevez un dossier détaillant les impacts d&rsquo;un projet, il est essentiel de pouvoir croiser les informations pour déterminer si vous vous trouvez dans des zones naturelles présentant des intérêts spécifiques, identifier les cours d&rsquo;eau à proximité, etc.. Ainsi, la gestion de bases de données géographiques est devenue un enjeu majeur, et cela constituait une nouveauté au sein des services à l&rsquo;époque.<br>Historiquement, les équipes SIG (Systèmes d&rsquo;Informations Géographiques) utilisaient des outils sous licence tels que MapInfo, mais une transition vers des solutions open source a complètement chamboulé le système avec l&rsquo;arrivée de QGIS, en permettant le traitement des données au sein des services métiers. Tout cela nous a incité à développer nos compétences dans ce domaine.<br>Et puis, les réorganisations de l&rsquo;Etat étant ce qu&rsquo;elles sont, je me suis vite rendu compte que booster le numérique permettait de pallier une partie des réductions d&rsquo;effectifs. Nous avons donc entrepris d&rsquo;automatiser autant que possible nos processus, afin de maximiser notre efficacité avec les ressources qui nous restaient.<br><strong>Sur quel projet travailles-tu actuellement ?<br></strong>J&rsquo;occupe mon poste actuel depuis environ 8 ans. Aujourd&rsquo;hui, je travaille principalement sur un projet appelé « Mission Connaissance » qui s&rsquo;inspire du fonctionnement de l&rsquo;Insee avec ses pôles thématiques dans chaque direction. Il a été lancé par la direction centrale, plus précisément par la partie CGDD (Commissariat Général au Développement Durable) du ministère.<br>Le constat de départ était que les services connaissance des DREAL avaient beaucoup de sujets à couvrir mais que ces projets étaient dispersés et que chaque service développait ses propres outils. Lorsqu&rsquo;il s&rsquo;agissait de mettre en place des solutions à plus grande échelle, cela devenait problématique en raison de cette fragmentation. En réponse, le ministère a proposé aux services déconcentrés de se recentrer sur des thématiques spécifiques lors d&rsquo;un appel à manifestation d&rsquo;intérêt. Nous avons répondu à cet appel en nous positionnant sur le domaine de l&rsquo;eau et des rejets polluants. D&rsquo;autres services ont choisi les énergies renouvelables, la rénovation de l&rsquo;habitat, la gestion du foncier, les mobilités durables et l&rsquo;appui aux productions reproductibles. Des réflexions sont aussi en cours sur la gestion quantitative de l&rsquo;eau, l&rsquo;usage des drones ou de la donnée satellitaire.<br>Cette mission nous a aussi amené à échanger avec d&rsquo;autres acteurs (habituels pour les DREAL, mais moins connu des services « connaissance ») : des établissements publics tels que les agences de l&rsquo;eau, des collectivités.<br>Nous travaillons sur ce projet depuis environ 2 ans, dont une année a été consacrée principalement au prototypage, et depuis environ une année, le projet a été validé.<br><br><strong>Est-ce que tu penses qu&rsquo;être un expert sur un territoire dans ton domaine est plus complexe qu&rsquo;être un expert en administration centrale ?</strong><br>Traditionnellement au sein des DREAL, il y a deux branches distinctes de la donnée : la partie statistique (plutôt outillée en langage R et appuyée par des agents issus de l&rsquo;INSEE) et la partie systèmes d&rsquo;information géographique (parfois outillée en python, parfois en R, parfois uniquement avec des outils métier spécialisés). Sorti de ces deux métiers, il n&rsquo;y a qu&rsquo;assez peu de spécialisation dans nos services et les compétences pointues sont rares. Cela nous amène à être des « data couteaux suisses ». Nous nous retrouvons à travailler sur des domaines très variés, sans doute plus que des experts très spécialisés en administration centrale.<br>La Mission Connaissance est une opportunité intéressante, car elle nous a accordé des ressources supplémentaires et nous a permis de collaborer avec des prestataires externes DevOps qui nous ont réellement apporté des connaissances. Pour autant, notre approche restera encore longtemps différente de l&rsquo;administration centrale, dans le sens où nous ne sommes pas près d&rsquo;avoir ces spécialistes (DevOps, DataScientist, DataEngineer) dans nos services. En administration centrale, ces postes commencent à être présents, ce qui permet d&rsquo;atteindre une expertise collective. A notre niveau, notre rôle demande une plus grande polyvalence.<br>Un autre sujet qui nous occupe beaucoup (et qui nous différencie aussi de la centrale) c&rsquo;est la manière de récupérer des données. Nous sommes confrontés quotidiennement à des services métiers qui enregistrent leurs données dans des applications centralisées (qui n&rsquo;ont parfois même pas de système d&rsquo;export des données). Là où une administration centrale négociera plus ou moins facilement l&rsquo;accès à une base intégrale (à plus ou moins long terme), nous sommes contraints d&rsquo;effectuer de nombreuses opérations de scraping. Ce n&rsquo;est bien sûr pas idéal, mais ces opérations restent malheureusement incontournables pour récupérer certaines données.<br><strong>Au sein du programme 10%, tu travailles sur le projet Cartiflette ? En quoi consiste ce projet et pourquoi l&rsquo;as-tu choisi ? <br></strong>Cartiflette est un outil facilitant la réalisation de cartes grâce à la récupération de fonds de plans produits par des acteurs publics. Il y avait de nombreux sujets qui m&rsquo;intéressaient dans les projets, comme la datavisualisation, par exemple. Mais il a fallu que je me focalise, et je pense que la cartographie était peut-être le domaine où je pouvais apporter le plus directement ma contribution. Les problèmes qui avaient été exposés, tels que la récupération des fonds de plan, leur agrégation, la gestion du snapping et des géométries qui ne se superposent pas bien, sont des défis que j&rsquo;ai rencontrés et que je continue à rencontrer.<strong><br><br>Comment as-tu connu le programme 10% et pourquoi l&rsquo;as-tu rejoint ? <br></strong>J&rsquo;ai découvert les principes de ce qui n&rsquo;était pas (encore) le programme 10 % dans le rapport DINUM sur l&rsquo;évaluation des besoins de l&rsquo;État en compétences et expertises en matière de donnée. Un peu plus tard, j&rsquo;ai donné quelques formations sur la donnée publique à l&rsquo;IRA de Lille ; cela a été l&rsquo;occasion de rechercher des sources pour documenter mon cours. En parcourant le site d&rsquo;ETALAB, j&rsquo;ai découvert que la recommandation du rapport avait été concrétisée (et que j&rsquo;avais d&rsquo;ailleurs raté la première saison). Le programme m&rsquo;a semblé très attrayant, d&rsquo;autant plus que, comme je l&rsquo;ai mentionné, nous nous posions de nombreuses questions sur les compétences qui nous faisaient défaut au sein des services déconcentrés.<br>J&rsquo;en ai aussi entendu parler en parallèle par des collègues de la DREAL Pays-de-la-Loire qui avaient rejoint la première saison.<br>Pour ma part, j&rsquo;y suis venu initialement pour découvrir ce qui se passait, car je ne suis pas un data scientist et le programme était clairement axé sur l&rsquo;intelligence artificielle. Cependant, j&rsquo;ai rapidement trouvé ma place dans le programme.<br>Ce programme est très intéressant pour nous, car il nous permet de collaborer avec des profils très différents de ceux que l&rsquo;on trouve généralement au sein des services déconcentrés. De plus, il offre l&rsquo;accès à des masterclass et à d&rsquo;autres initiatives que nous avons du mal à trouver ailleurs. Par exemple, les sujets liés à la formation en intelligence artificielle sont rares, voire inexistants, au sein des services déconcentrés (même si cela commence à changer). Étant relativement isolés dans notre bulle au sein des services déconcentrés, il est vraiment intéressant de pouvoir échanger avec d&rsquo;autres ministères. Cela nous permet de rencontrer d&rsquo;autres personnes, de découvrir d&rsquo;autres services, d&rsquo;observer différentes organisations et compétences, et de développer notre réseau. En fin de compte, je suis très satisfait du programme.<br></td></tr></tbody></table></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>Regard sur un projet ministériel</strong> : <strong>predNatinf</strong></h2>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><img decoding="async" src="https://info.etalab.gouv.fr/i/6627/700147095/24778/51306/1182/7c8bafc0" width="200"> <strong>Daphné Pertsekos, datscientist à la Gendarmerie nationale</strong><strong><br><br>Que cherche-t-on à résoudre avec la solution predNatinf&nbsp;?<br></strong>Lorsqu&rsquo;un gendarme traite un dossier de police judiciaire, il doit décrire les événements marquants de l&rsquo;affaire et qualifier les infractions (natinf) relatées, parmi près de 20000 items. Il est difficile de tout garder à l&rsquo;esprit, surtout qu&rsquo;elle se distinguent parfois par de subtiles nuances. Le recours à un moteur de recherche intelligent se révèle dès lors indispensable.<strong><br><br>Qu&rsquo;apporte la solution du datalab&nbsp;?<br></strong>Le moteur de recherche développé au datalab repose sur un LLM (Large Language Model), c&rsquo;est à dire un modèle d&rsquo;intelligence artificielle pré-entraîné sur des textes en français. En l&rsquo;affinant sur notre corpus de données, le datalab a été capable de fournir un moteur de recherche qui prend en compte la proximité sémantique des mots, de sorte que les gendarmes peuvent désormais fournir une brève description des faits pour retrouver l&rsquo;intitulé de l&rsquo;infraction.<strong><br><br>Concrètement, ça donne quoi&nbsp;?<br></strong>La requête du gendarme pourrait ressemble à ceci&nbsp;:<br>«L&rsquo;agresseur a donné de nombreux coups de pied dans les jambes de la victime. Celle-ci a une fracture du tibia à la jambe droite. Le médecin légiste prévoit une ITT de 5 jours.»<br><br>Dans cet exemple, le 1er résultat retourné est «violence ayant entrainé une incapacité de travail n&rsquo;excédant pas 8 jours», mais si on change simplement le nombre de jours d&rsquo;ITT de 5 à 25 par exemple, le 1er résultat devient «violence suivie d incapacité supérieure a 8 jours», comme si le modèle maîtrisait les bases de l&rsquo;arithmétique&nbsp;!<strong><br><br>Cette nouveauté aura-t-elle un gros impact ?<br></strong>La gendarmerie rédige près de 1,5 millions de compte-rendus de PJ chaque année. Une classification juste dès le début de la procédure permet d&rsquo;orienter les auditions dans la bonne direction, et éventuellement de profiter des aides méthodologiques fournies pour certaines infractions. Cela facilite également le travail de la justice, et améliore la qualité des données dans nos bases.</td></tr></tbody></table></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>Focus sur des initiatives data dans les territoires</strong></h2>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong>DATAcculturation porté par le SGAR Auvergne Rhône-Alpes</strong><br><strong>Lancé en 2021 par le SGAR Auvergne Rhône-Alpes, DATAcculturation est un dispositif pédagogique et convivial permettant de sensibiliser les agents publics à la donnée et l&rsquo;open data.</strong> Aujourd&rsquo;hui, DATAacculturation, c&rsquo;est un kit composé de supports (vidéos et guide) disponibles en libre accès pour permettre à chaque agent de les consulter et de se les approprier.<br><br><strong>Le kit DATAcculturation :</strong><br>&#8211; 5 vidéos courtes et explicatives : <a href="https://www.youtube.com/playlist?list=PLXxI21OaojJyAwX-Tg1m-z4NYKx11cJ3l" class="broken_link">https://www.youtube.com/playlist?list=PLXxI21OaojJyAwX-Tg1m-z4NYKx11cJ3l</a><br>&#8211; un guide de sensibilisation<br>&#8211; un format innovant et interactif : les cafés de la data : <strong>e</strong>n 15, 30 ou 60 minutes, acculturez-vous et vos collègues à la donnée et à l&rsquo;open data ! Grâce à des déroulés d&rsquo;animation clés en main, vous pouvez organiser un café de la data dans toutes les administrations. Rejoignez les plus de 200 agents publics déjà sensibilisé.e.s : <a href="https://macarte.ign.fr/carte/hN4KIx/Cafes-de-la-data-organises-et-a-venir-">https://macarte.ign.fr/carte/hN4KIx/Cafes-de-la-data-organises-et-a-venir-</a><br>Nouveauté : les cafés de la data se déclinent en visio, pour faciliter leur organisation et la participation des agents partout sur le territoire!<br><br><strong>Pour en savoir plus : écrire à <a href="mailto:justine.sperandio-martinez@ara.gouv.fr">justine.sperandio-martinez@ara.gouv.fr</a></strong><br><strong>Rejoindre le fil Tchap DATAcculturation :</strong> <a href="https://tchap.gouv.fr/#/room/#DATAcculturationfildactualitduprojethcj8dHyW0N8:agent.interieur.tchap.gouv.fr">https://tchap.gouv.fr/#/room/#DATAcculturationfildactualitduprojethcj8dHyW0N8:agent.interieur.tchap.gouv.fr</a><br><strong>Recensez-vous prochainement sur le site du laboratoire d&rsquo;innovation publique Archipel</strong> : <a href="https://lab-archipel.fr/projet/datacculturation/">https://lab-archipel.fr/projet/datacculturation/</a><br><br><strong>DATA ETAT Bretagne lance un nouveau service cartographique : VisuTerritoires</strong><br><strong>Dans le cadre de sa feuille de route de la donnée de l&rsquo;État en Bretagne et de ses usages, le projet «&nbsp;DATA ETAT&nbsp;»&nbsp;</strong> a été lauréat du plan de Relance fin 2022 pour <strong>expérimenter une nouvelle infrastructure de partage et de réutilisation de la donnée de l&rsquo;État</strong>. Le SGAR Bretagne avec la DREAL (démarche GéoBretagne) et le GIP SIB (dont le Préfet est membre) ont mis en production la solution en 2022 pour servir tous les profils des agents de l&rsquo;administration territoriale de l&rsquo;État&nbsp;:<br>&#8211;<strong> tous les agents décisionnels, métiers, instructeurs</strong>&#8230; avec des solutions clefs en main pour leur faciliter l&rsquo;accès et la manipulation des données importantes locales et nationales qui ne leur sont normalement pas accessibles directement&nbsp;;<br>&#8211; <strong>les experts de la donnée</strong> (statisticiens, géomaticiens, chargés d&rsquo;études&#8230;) qui accèdent à des outils avancés et préconfigurés pour faciliter et réduire leur temps d&rsquo;accès aux données, leurs analyses et valorisation&nbsp;;<br>&#8211; <strong>les développeurs et Tech</strong> pour leur donner un environnement de travail simplifié, ouvert et souverain de l&rsquo;État pour (co)développer des solutions liées à la donnée&nbsp;;<br>La première application «&nbsp;Budget.DATAETAT&nbsp;» (<a href="https://budget.databretagne.fr/">https://budget.databretagne.fr/</a>) est opérationnelle avec des données CHORUS de 2019 à 2023 et de l&rsquo;ADEME (depuis 2020) qui sont actualisées tous les mois en lien avec la DRFIP/ CBR. <strong>La solution permet pour un département et jusqu&rsquo;à la commune de voir les financements par BOP ou multi BOPs sur une période choisie et de générer un tableau de suivi dynamique</strong> qui peut être enregistré dans son profil pour suivre ses évolutions (Il est possible de partager ces tableaux avec d&rsquo;autres utilisateurs disposant d&rsquo;un compte sur DATA.ETAT). Elle permet aussi de rechercher un bénéficiaire (achat public, subvention&#8230;) et de voir sur la période choisie et les BOPs sélectionnés l&rsquo;ensemble des financements État obtenus.<br>Grâce à l&rsquo;interconnexion de ces données avec DATA-Subvention ou Démarches Simplifiées, il est aussi possible d&rsquo;avoir le détail qualitatif de nombreuses opérations (subventions associatives, dotations aux collectivités&#8230;). &nbsp;En effet, DATA Subvention&nbsp;» est pleinement intégré dans la solution Budget.DATAETAT, la diffusion dans les services de Budget.DATAETAT permet directement l&rsquo;extension de l&rsquo;utilisation des données produites et valorisées par DATA.Subvention.<br><br>Le projet est suivi par le national (DINUM / DTNUM MIOM) et peut être étendu dans de nouvelles régions. DATA-ETAT vise aussi à <strong>libérer des données en OPEN-DATA</strong> et les valoriser via la cartographie interactive et les DATAVIZ. En septembre, <strong>un premier service cartographique qui répond à ces usages pour croiser des données de territoires avec les données budgétaires de l&rsquo;État et ses opérateurs est lancé</strong> : <strong>«&nbsp;VisuTerritoires&nbsp;»&nbsp;:</strong> <a href="https://geobretagne.fr/app/visuterritoire">https://geobretagne.fr/app/visuterritoire</a><br>VisuTerritoire fait partie de la gamme de services databretagne.fr qui offre aux agents de l&rsquo;État en Bretagne un accès simple et direct aux données de pilotage des politiques publiques. Il donne un accès cartographique aux données financières de l&rsquo;État en Bretagne : montants engagés, montants payés, par programme budgétaire et par territoire. <strong>Ce service permettra aux agents et aux services de facilement valoriser des données budgétaires de l&rsquo;État par une visualisation géographique</strong></td></tr></tbody></table></figure>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong>L&rsquo;administration recrute des experts de la donnée !</strong></td></tr><tr><td><br>﻿<strong>La brigade d&rsquo;intervention numérique de la Dinum recherche un architecte data : </strong><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/architecte-data-hf-reference-2023-1284387/">https://choisirleservicepublic.gouv.fr/offre-emploi/architecte-data-hf-reference-2023-1284387/</a><strong><br><br>La DGDDI recherche un data analyst : </strong><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/dgddi---dnred----data-analyst-cat-a-hf-reference-MEF_2023-9750/">https://choisirleservicepublic.gouv.fr/offre-emploi/dgddi&#8212;dnred&#8212;-data-analyst-cat-a-hf-reference-MEF_2023-9750/</a> et un datascientist : <a href="https://choisirleservicepublic.gouv.fr/offre-emploi/dgddi---dnred----data-scientist-cat-a-hf-reference-MEF_2023-9749/">https://choisirleservicepublic.gouv.fr/offre-emploi/dgddi&#8212;dnred&#8212;-data-scientist-cat-a-hf-reference-MEF_2023-9749/</a><strong><br><br>La cellule numérique de la DGCCRF recherche un datascientist : </strong><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/data-scientist-au-sein-de-la-cellule-numerique-du-service-national-des-enquetes-hf-reference-MEF_2023-10118/">https://choisirleservicepublic.gouv.fr/offre-emploi/data-scientist-au-sein-de-la-cellule-numerique-du-service-national-des-enquetes-hf-reference-MEF_2023-10118/</a><strong><br><br>La DGFIP recherche un datascientist expert : </strong><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/si2---data-scientist-expert-hf-reference-MEF_2023-12815/">https://choisirleservicepublic.gouv.fr/offre-emploi/si2&#8212;data-scientist-expert-hf-reference-MEF_2023-12815/</a></td></tr></tbody></table></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Programme 10% : bilan de la saison 1 !</title>
+		<link>/programme-10-bilan-de-la-saison-1</link>
+		
+		<dc:creator><![CDATA[Sabrina Hedroug]]></dc:creator>
+		<pubDate>Mon, 12 Dec 2022 15:50:37 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[Programme 10%]]></category>
+		<guid isPermaLink="false">/?p=17205</guid>
+
+					<description><![CDATA[Une collaboration inédite entre la DINUM et l&#8217;INSEE Suite à une mission conjointe conduite entre février et juin 2021 entre la DINUM et l’INSEE, le rapport sur l’évaluation des besoins de l’État en compétences et expertises en matière de donnée publié le 27 septembre 2021 préconisait d’expérimenter en 2022 la possibilité pour les experts de &#8230;<p class="read-more"> <a class="" href="/programme-10-bilan-de-la-saison-1"> <span class="screen-reader-text">Programme 10% : bilan de la saison 1 !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-uagb-image uagb-block-33de5a0b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img fetchpriority="high" decoding="async" srcset="/wp-content/uploads/2022/12/Bilan-de-la-saison-1-1024x486.png 1024w" src="/wp-content/uploads/2022/12/Bilan-de-la-saison-1-1024x486.png" alt="" class="uag-image-17206" width="1091" height="517" title=""/></figure></div>
+
+
+
+<p></p>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Une collaboration inédite entre la DINUM et l&rsquo;INSEE</strong></h2>
+
+
+
+<p>Suite à une mission conjointe conduite entre février et juin 2021 entre la DINUM et l’INSEE, le <a href="https://www.numerique.gouv.fr/uploads/RAPPORT-besoins-competences-donnee.pdf"><strong>rapport</strong> <strong>sur l’évaluation des besoins de l’État en compétences et expertises en matière de donnée</strong> </a>publié le 27 septembre 2021 préconisait d’expérimenter en <strong>2022</strong> la possibilité pour les experts de la donnée de <strong>consacrer au moins 10 % de leur temps de travail à des projets d’intérêt partagé à une échelle interministérielle.</strong></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<div class="wp-block-uagb-image uagb-block-85ba4755 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="/wp-content/uploads/2022/12/Screenshot-2022-12-12-at-14-35-49-RAPPORT-besoins-competences-donnee.pdf.png 1024w" src="/wp-content/uploads/2022/12/Screenshot-2022-12-12-at-14-35-49-RAPPORT-besoins-competences-donnee.pdf.png" alt="" class="uag-image-17215" width="341" height="472" title=""/></figure></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<blockquote class="wp-block-quote has-text-align-left has-ast-global-color-1-color has-ast-global-color-4-background-color has-text-color has-background" style="font-size:16px"><p><strong>Recommandation 9 </strong> :</p><p> » La mission recommande d’<strong>encourager le travail interministériel </strong>et <strong>les échanges entre pairs</strong>, en dégageant une partie du temps de travail des experts de la donnée ». <br>Cette communauté pourrait ainsi « s’entraider et contribuer à <strong>l’échange de pratiques entre pairs</strong>, à la <strong>réalisation d’outils communs </strong>ou à <strong>construire des ressources pour aider les administrations à définir, piloter et évaluer des projets de data science </strong>(&#8230;). Cette action serait par ailleurs de nature à <strong>renforcer l’attractivité de l’État-employeur </strong>et à <strong>faciliter la mobilité entre ministères </strong>« . </p><cite><a href="https://www.numerique.gouv.fr/uploads/RAPPORT-besoins-competences-donnee.pdf"><strong>Rapport sur l’évaluation des besoins de l’État en compétences et expertises en matière de donnée</strong> </a></cite></blockquote>
+</div>
+</div>
+
+
+
+<p></p>
+
+
+
+<p>Lancée en juin 2022, l&rsquo;expérimentation 10% poursuit un double objectif : </p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ul><li><strong>Encourager le travail interministériel</strong> <strong>entre pairs</strong> sur des projets d&rsquo;intérêt commun&nbsp;;</li><li><strong>Renforcer l’attractivité de l’État-employeur</strong> et <strong>faciliter la mobilité entre ministères</strong>.</li></ul>
+</div>
+</div>
+
+
+
+<p>L&rsquo;expérimentation co-portée par la DINUM et l&rsquo;INSEE a permis de lancer une collaboration inédite encourageant le mélange de cultures différentes  tant sur des projets que sur une communauté de pratiques entre experts publics de la donnée.  </p>
+
+
+
+<p></p>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Retour sur six mois d&rsquo;expérimentation</strong></h2>
+
+
+
+<p>Le programme 10% a fait l&rsquo;objet d&rsquo;une importante phase d&rsquo;investigation auprès des ministères. Une fois les facteurs de risques et de succès bien identifiés, l&rsquo;expérimentation 10% a pu être lancée. </p>
+
+
+
+<div class="wp-block-uagb-content-timeline uagb-timeline__outer-wrap uagb-block-dfb4458b-3061-4eb8-b601-2523c3e5c906 uagb-timeline__content-wrap uagb-timeline__center-block  uagb-timeline__arrow-center uagb-timeline">
+<article class="wp-block-uagb-content-timeline-child uagb-timeline__field uagb-timeline-child-810c3875-7cd7-44b6-bd26-6a7e446d5231 uagb-timeline__right"><div class="uagb-timeline__marker out-view-uagb-timeline__icon"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M160 32V64H288V32C288 14.33 302.3 0 320 0C337.7 0 352 14.33 352 32V64H400C426.5 64 448 85.49 448 112V160H0V112C0 85.49 21.49 64 48 64H96V32C96 14.33 110.3 0 128 0C145.7 0 160 14.33 160 32zM0 192H448V464C448 490.5 426.5 512 400 512H48C21.49 512 0 490.5 0 464V192zM64 304C64 312.8 71.16 320 80 320H112C120.8 320 128 312.8 128 304V272C128 263.2 120.8 256 112 256H80C71.16 256 64 263.2 64 272V304zM192 304C192 312.8 199.2 320 208 320H240C248.8 320 256 312.8 256 304V272C256 263.2 248.8 256 240 256H208C199.2 256 192 263.2 192 272V304zM336 256C327.2 256 320 263.2 320 272V304C320 312.8 327.2 320 336 320H368C376.8 320 384 312.8 384 304V272C384 263.2 376.8 256 368 256H336zM64 432C64 440.8 71.16 448 80 448H112C120.8 448 128 440.8 128 432V400C128 391.2 120.8 384 112 384H80C71.16 384 64 391.2 64 400V432zM208 384C199.2 384 192 391.2 192 400V432C192 440.8 199.2 448 208 448H240C248.8 448 256 440.8 256 432V400C256 391.2 248.8 384 240 384H208zM320 432C320 440.8 327.2 448 336 448H368C376.8 448 384 440.8 384 432V400C384 391.2 376.8 384 368 384H336C327.2 384 320 391.2 320 400V432z"></path></svg></div><div class="uagb-timeline__day-new uagb-timeline__day-right uagb-timeline__events-inner-new"><div class="uagb-timeline__events-inner--content"><div class="uagb-timeline__date-hide uagb-timeline__inner-date-new">mai 16, 2022</div><h4 class="uagb-timeline__heading"><strong>Atelier d&rsquo;idéation</strong></h4><p class="uagb-timeline-desc-content">Une trentaine d&rsquo;experts publics de la donnée issus de l&rsquo;ensemble des ministères ont proposé des projets d&rsquo;intérêt commun. 4 projets 10% ont été sélectionnés.  </p><div class="uagb-timeline__arrow"></div></div></div><div class="uagb-timeline__date-new">mai 16, 2022</div></article>
+
+
+
+<article class="wp-block-uagb-content-timeline-child uagb-timeline__field uagb-timeline-child-6a94c8d6-cdc8-4943-9c2e-5c3a1fbc9773 uagb-timeline__left"><div class="uagb-timeline__marker out-view-uagb-timeline__icon"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M160 32V64H288V32C288 14.33 302.3 0 320 0C337.7 0 352 14.33 352 32V64H400C426.5 64 448 85.49 448 112V160H0V112C0 85.49 21.49 64 48 64H96V32C96 14.33 110.3 0 128 0C145.7 0 160 14.33 160 32zM0 192H448V464C448 490.5 426.5 512 400 512H48C21.49 512 0 490.5 0 464V192zM64 304C64 312.8 71.16 320 80 320H112C120.8 320 128 312.8 128 304V272C128 263.2 120.8 256 112 256H80C71.16 256 64 263.2 64 272V304zM192 304C192 312.8 199.2 320 208 320H240C248.8 320 256 312.8 256 304V272C256 263.2 248.8 256 240 256H208C199.2 256 192 263.2 192 272V304zM336 256C327.2 256 320 263.2 320 272V304C320 312.8 327.2 320 336 320H368C376.8 320 384 312.8 384 304V272C384 263.2 376.8 256 368 256H336zM64 432C64 440.8 71.16 448 80 448H112C120.8 448 128 440.8 128 432V400C128 391.2 120.8 384 112 384H80C71.16 384 64 391.2 64 400V432zM208 384C199.2 384 192 391.2 192 400V432C192 440.8 199.2 448 208 448H240C248.8 448 256 440.8 256 432V400C256 391.2 248.8 384 240 384H208zM320 432C320 440.8 327.2 448 336 448H368C376.8 448 384 440.8 384 432V400C384 391.2 376.8 384 368 384H336C327.2 384 320 391.2 320 400V432z"></path></svg></div><div class="uagb-timeline__day-new uagb-timeline__day-left uagb-timeline__events-inner-new"><div class="uagb-timeline__events-inner--content"><div class="uagb-timeline__date-hide uagb-timeline__inner-date-new">juin 13, 2022</div><h4 class="uagb-timeline__heading"><strong>Bootcamp de lancement</strong></h4><p class="uagb-timeline-desc-content">Pendant deux jours, les 13 et 14 juin 2022, les experts publics de la donnée se sont retrouvés à Bercy pour travailler sur les valeurs communes à la communauté (« partage, ouverture, curiosité ») et identifier le cadre des projets 10%. </p><div class="uagb-timeline__arrow"></div></div></div><div class="uagb-timeline__date-new">juin 13, 2022</div></article>
+
+
+
+<article class="wp-block-uagb-content-timeline-child uagb-timeline__field uagb-timeline-child-06639082-bfdf-49dc-a998-1ef8ac52d873 uagb-timeline__right"><div class="uagb-timeline__marker out-view-uagb-timeline__icon"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M160 32V64H288V32C288 14.33 302.3 0 320 0C337.7 0 352 14.33 352 32V64H400C426.5 64 448 85.49 448 112V160H0V112C0 85.49 21.49 64 48 64H96V32C96 14.33 110.3 0 128 0C145.7 0 160 14.33 160 32zM0 192H448V464C448 490.5 426.5 512 400 512H48C21.49 512 0 490.5 0 464V192zM64 304C64 312.8 71.16 320 80 320H112C120.8 320 128 312.8 128 304V272C128 263.2 120.8 256 112 256H80C71.16 256 64 263.2 64 272V304zM192 304C192 312.8 199.2 320 208 320H240C248.8 320 256 312.8 256 304V272C256 263.2 248.8 256 240 256H208C199.2 256 192 263.2 192 272V304zM336 256C327.2 256 320 263.2 320 272V304C320 312.8 327.2 320 336 320H368C376.8 320 384 312.8 384 304V272C384 263.2 376.8 256 368 256H336zM64 432C64 440.8 71.16 448 80 448H112C120.8 448 128 440.8 128 432V400C128 391.2 120.8 384 112 384H80C71.16 384 64 391.2 64 400V432zM208 384C199.2 384 192 391.2 192 400V432C192 440.8 199.2 448 208 448H240C248.8 448 256 440.8 256 432V400C256 391.2 248.8 384 240 384H208zM320 432C320 440.8 327.2 448 336 448H368C376.8 448 384 440.8 384 432V400C384 391.2 376.8 384 368 384H336C327.2 384 320 391.2 320 400V432z"></path></svg></div><div class="uagb-timeline__day-new uagb-timeline__day-right uagb-timeline__events-inner-new"><div class="uagb-timeline__events-inner--content"><h4 class="uagb-timeline__heading"><strong>Ateliers 10%</strong></h4><p class="uagb-timeline-desc-content">Tous les 15 jours de juin à novembre 2022, la communauté 10% s&rsquo;est retrouvée au Lieu de la transformation publique pour travailler sur les projets 10%. Entre ces ateliers en présentiel, se sont ajoutés des points réguliers au sein de chaque équipe. </p><div class="uagb-timeline__arrow"></div></div></div><div class="uagb-timeline__date-new"></div></article>
+
+
+
+<article class="wp-block-uagb-content-timeline-child uagb-timeline__field uagb-timeline-child-e90ec913-847f-492b-9f07-f505d7a007d5 uagb-timeline__left"><div class="uagb-timeline__marker out-view-uagb-timeline__icon"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M160 32V64H288V32C288 14.33 302.3 0 320 0C337.7 0 352 14.33 352 32V64H400C426.5 64 448 85.49 448 112V160H0V112C0 85.49 21.49 64 48 64H96V32C96 14.33 110.3 0 128 0C145.7 0 160 14.33 160 32zM0 192H448V464C448 490.5 426.5 512 400 512H48C21.49 512 0 490.5 0 464V192zM64 304C64 312.8 71.16 320 80 320H112C120.8 320 128 312.8 128 304V272C128 263.2 120.8 256 112 256H80C71.16 256 64 263.2 64 272V304zM192 304C192 312.8 199.2 320 208 320H240C248.8 320 256 312.8 256 304V272C256 263.2 248.8 256 240 256H208C199.2 256 192 263.2 192 272V304zM336 256C327.2 256 320 263.2 320 272V304C320 312.8 327.2 320 336 320H368C376.8 320 384 312.8 384 304V272C384 263.2 376.8 256 368 256H336zM64 432C64 440.8 71.16 448 80 448H112C120.8 448 128 440.8 128 432V400C128 391.2 120.8 384 112 384H80C71.16 384 64 391.2 64 400V432zM208 384C199.2 384 192 391.2 192 400V432C192 440.8 199.2 448 208 448H240C248.8 448 256 440.8 256 432V400C256 391.2 248.8 384 240 384H208zM320 432C320 440.8 327.2 448 336 448H368C376.8 448 384 440.8 384 432V400C384 391.2 376.8 384 368 384H336C327.2 384 320 391.2 320 400V432z"></path></svg></div><div class="uagb-timeline__day-new uagb-timeline__day-left uagb-timeline__events-inner-new"><div class="uagb-timeline__events-inner--content"><div class="uagb-timeline__date-hide uagb-timeline__inner-date-new">décembre 15, 2022</div><h4 class="uagb-timeline__heading"><strong>Clôture de la saison 1</strong></h4><p class="uagb-timeline-desc-content">A l&rsquo;occasion de l&rsquo;événement de clôture de la saison 1, les équipes ont pu pitcher leurs projets. Ce fut également l&rsquo;occasion d&rsquo;échanger sur le thème au cœur du programme 10% : « Comment attirer et fidéliser les talents de la data au sein de l’État ». <br>Le support <strong><a href="https://speakerdeck.com/etalabia/2022">ici </a></strong></p><div class="uagb-timeline__arrow"></div></div></div><div class="uagb-timeline__date-new">décembre 15, 2022</div></article>
+<div class="uagb-timeline__line"><div class="uagb-timeline__line__inner"></div></div></div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Le programme 10% en chiffres</strong></h2>
+
+
+
+<div class="wp-block-uagb-icon-list uagb-block-79a39c0b"><div class="uagb-icon-list__wrap">
+<div class="wp-block-uagb-icon-list-child uagb-block-ad5bb8f6"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">En moyenne, entre <strong>15 à 20 participants</strong> présents aux ateliers</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-a490c662"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Une <strong>cinquantaine d’experts </strong>sur l’outil collaboratif</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-3a1f6381"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Une <strong>dizaine</strong> de ministères participants</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-439ae813"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label"><strong>10</strong> ateliers en présentiel</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-45e21b72"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label"><strong>6</strong> mois de travail</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-392da1c7"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label"><strong>4</strong> projets d&rsquo;intérêt commun</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-3b6e7793"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label"><strong>4</strong> formations spécialisées</span></div>
+</div></div>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Zoom sur les 4 projets 10% </strong></h2>
+
+
+
+<p class="has-ast-global-color-2-color has-ast-global-color-4-background-color has-text-color has-background">Les projets 10% proposés lors de la phase d&rsquo;idéation devaient répondre à 4 critères:<br>&#8211; Des projets <strong>interministériels</strong> et <strong>réplicables</strong><br>&#8211; Nécessitant un <strong>passage à l’échelle</strong><br>&#8211; Répondant à un besoin <strong>immédiat</strong> et <strong>concret</strong><br>&#8211; Permettant de travailler à partir de données <strong>non confidentielles, pouvant être mises à disposition</strong></p>
+
+
+
+<p>L&rsquo;expérimentation 10% a permis d&rsquo;aboutir à 4 solutions concrètes :</p>
+
+
+
+<p class="has-ast-global-color-5-color has-light-green-cyan-background-color has-text-color has-background"><strong>SOCRATEXT :</strong> Une solution pour extraire des informations contenues dans des documents non directement exploitables (PDF, images, photos …) afin d’accélérer certaines tâches très chronophages lorsqu’elles sont réalisées à la main par les agents publics (par exemples, extraire les informations des tickets de caisse pour l’enquête budget des familles de l’INSEE ou bien cibler des informations précises dans des rapports médicaux de plusieurs pages). <br>Ministères participants&nbsp;: <strong>Direction interministérielle du numérique, ministère des Armées, ministère de l’Intérieur, Haute Autorité de Santé</strong></p>
+
+
+
+<p class="has-ast-global-color-5-color has-vivid-purple-background-color has-text-color has-background"><strong>GOUVDOWN et SHINYGOUV :</strong> une solution pour créer facilement des applications et des documents conformes à la charte graphique de l’État et faire gagner du temps aux agents. <br>Ministères participants&nbsp;: <strong>INSEE, direction interministérielle de la transformation publique et réseau des DREAL</strong></p>
+
+
+
+<p class="has-ast-global-color-5-color has-pale-pink-background-color has-text-color has-background"><strong>MatchSIRET :</strong> une solution pour faciliter et fiabiliser le quotidien des agents en leur donnant le moyen de remonter à l&rsquo;identifiant exact d&rsquo;une entreprise à partir d’informations issues du terrain (le nom commercial, la localisation ou le secteur d&rsquo;activité). <br>Ministères participants&nbsp;: <strong>direction interministérielle du numérique, ministère du Travail, de l&rsquo;Emploi et de l&rsquo;Insertion</strong></p>
+
+
+
+<p class="has-white-color has-ast-global-color-0-background-color has-text-color has-background"><strong>CARTIFLETTE :</strong> une solution pour harmoniser et associer des données géographiques issues de différents acteurs publics (INSEE, IGN, collectivités locales) à des contours géographiques normalisés via une API flexible. Ce projet sera associé à un site web, permettant ainsi de faciliter le travail des chercheurs, enseignants, administrations et médias souhaitant réaliser une carte à partir de données géographiques. <br>Ministères participants : <strong>INSEE, ministère de la Santé, ministère de l’Intérieur et ministère de la Transition écologique, enseignants-chercheurs</strong></p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-5 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<div class="wp-block-uagb-buttons uagb-buttons__outer-wrap uagb-btn__default-btn uagb-btn-tablet__default-btn uagb-btn-mobile__default-btn uagb-block-419e3d1c"><div class="uagb-buttons__wrap uagb-buttons-layout-wrap">
+<div class="wp-block-uagb-buttons-child uagb-buttons__outer-wrap uagb-block-47fb5962 wp-block-button is-style-outline"><div class="uagb-button__wrapper"><a class="uagb-buttons-repeater wp-block-button__link has-background has-text-color broken_link" href="//10pourcent.etalab.studio/projets/" rel="follow noopener" target="_blank"><div class="uagb-button__link">Le détail des projets sur le site 10%</div><span class="uagb-button__icon uagb-button__icon-position-after"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M438.6 278.6l-160 160C272.4 444.9 264.2 448 256 448s-16.38-3.125-22.62-9.375c-12.5-12.5-12.5-32.75 0-45.25L338.8 288H32C14.33 288 .0016 273.7 .0016 256S14.33 224 32 224h306.8l-105.4-105.4c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l160 160C451.1 245.9 451.1 266.1 438.6 278.6z"></path></svg></span></a></div></div>
+</div></div>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Les grands principes du programme 10%</strong> : confiance et montée en compétence </h2>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-4 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<p>La méthode 10% est simple : accorder autant d&rsquo;importance aux projets qu&rsquo;à la communauté. </p>
+
+
+
+<p>Les grands principes : </p>
+
+
+
+<ul><li><strong>Motivation : </strong>pas de sélection à l’entrée, le seul critère pour participer au programme c&rsquo;est l&rsquo;envie. 10% de temps de travail, 100% de motivation !</li><li><strong>Autonomie : </strong>les experts viennent quand ils peuvent.</li><li><strong>Liberté :</strong> les experts proposent ou choisissent eux-mêmes le projet auxquels ils souhaitent participer. </li><li><strong>L’informel :</strong> les relations interpersonnelles au sein de la communauté 10% sont aussi importantes que le travail sur les projets. Elles font l&rsquo;objet de moments dédiés.</li><li><strong>La montée en compétence :</strong> les participants bénéficient d&rsquo;une montée en compétence en continu grâce à des formations tech et hors tech à leur demande. (toutes les formations 10% sont disponibles <strong><a href="https://10pourcent.etalab.studio/formations/" class="broken_link">ici</a></strong>). </li><li><strong>Le mélange des cultures :</strong> la collaboration entre la DINUM et l&rsquo;INSEE permet de mixer des cultures et des pratiques différentes tant sur les projets que sur les pratiques. </li><li><strong>Le sens des projets : </strong>ce qui unit la communauté 10%, c&rsquo;est le sens des projets et l&rsquo;intérêt général</li></ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2022/12/20220613_124036-pdf.jpg" alt="" class="wp-image-17236" width="335" height="251" srcset="/wp-content/uploads/2022/12/20220613_124036-pdf.jpg 516w, /wp-content/uploads/2022/12/20220613_124036-pdf-300x225.jpg 300w" sizes="(max-width: 335px) 100vw, 335px" /><figcaption><em>Bootcamp de lancement du programme 10%</em></figcaption></figure>
+</div>
+</div>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Lancement de la saison 2 en janvier </strong>2023 !</h2>
+
+
+
+<p><strong>La saison 2 du programme 10% sera lancée en janvier 2023 !</strong><br>Vous êtes un(e) expert(e) de la donnée dans la sphère publique, souhaitant participer à des projets d&rsquo;intérêt commun, intégrer une communauté de pratiques et monter en compétence, contactez l&rsquo;équipe du Lab IA : <strong>lab-ia@data.gouv.fr</strong></p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Evaluer les impacts des algorithmes: publication d&#8217;une étude internationale réalisée à la demande d&#8217;Etalab</title>
+		<link>/evaluer-les-impacts-des-algorithmes-publication-dune-etude-internationale-realisee-a-la-demande-detalab</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Tue, 13 Jul 2021 06:27:05 +0000</pubDate>
+				<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[algorithme]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=15504</guid>
+
+					<description><![CDATA[Les algorithmes jouent un rôle croissant dans la sphère publique, qu&#8217;il s&#8217;agisse de calculer le montant d&#8217;une aide sociale, d&#8217;attribuer une place en crèche ou d&#8217;évaluer les risques de défaillance des entreprises. La France s&#8217;est doté d&#8217;un cadre juridique en faveur d&#8217;une plus grande transparence de ces systèmes et d&#8217;un droit à l&#8217;explication pour les &#8230;<p class="read-more"> <a class="" href="/evaluer-les-impacts-des-algorithmes-publication-dune-etude-internationale-realisee-a-la-demande-detalab"> <span class="screen-reader-text">Evaluer les impacts des algorithmes: publication d&#8217;une étude internationale réalisée à la demande d&#8217;Etalab</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Les algorithmes jouent un rôle croissant dans la sphère publique, qu&rsquo;il s&rsquo;agisse de calculer le montant d&rsquo;une aide sociale, d&rsquo;attribuer une place en crèche ou d&rsquo;évaluer les risques de défaillance des entreprises. La France s&rsquo;est doté d&rsquo;un cadre juridique en faveur d&rsquo;une plus grande transparence de ces systèmes et d&rsquo;un droit à l&rsquo;explication pour les individus. Etalab, au sein de la direction interministérielle du numérique, porte plusieurs actions en ce sens. C&rsquo;est dans ce cadre qu&rsquo;<strong>Elisabeth Lehagre</strong>, chercheuse indépendante a été mandatée pour réaliser une étude internationale sur les <strong>outils d&rsquo;évaluation d&rsquo;impact algorithmique</strong>.</em></p>
+
+
+
+<p><strong>Une étude internationale</strong> des outils d&rsquo;évaluation d&rsquo;impact algorithmique</p>
+
+
+
+<p>Nul ne doute aujourd&rsquo;hui du fait que les algorithmes ont des impacts, positifs mais aussi parfois négatifs, sur les individus et la société. C&rsquo;est pourquoi des gouvernements et des acteurs de la société civile ont développé des outils d&rsquo;évaluation d&rsquo;impact algorithmique (EIA). L&rsquo;étude publiée ce jour présente un regard critique sur 7 outils développés dans le Monde (Royaume-Uni, Canada, Nouvelle Zélande, Etats-Unis et Union européenne). </p>
+
+
+
+<p><em>A quoi correspondent ces évaluations, que contiennent-elles, comment sont-elles mises en oeuvre ?</em> Voici quelques unes des questions traitées par Elisabeth Lehagre, en menant un travail de recherche documentaire complété par des entretiens avec les acteurs qui conçoivent, déploient ou observent ces outils. <em>In fine</em>, c&rsquo;est la question de l&rsquo;utilité de ces outils qui est posée.</p>
+
+
+
+<p><strong>Evaluer: quoi ? comment ? pourquoi ?</strong></p>
+
+
+
+<p>Le premier constat est celui de la diversité des outils examinés: il n&rsquo;existe pas de modèle-type. Les évaluations d&rsquo;impact algorithmique se présentent sous des formes et des contenus variés. Quelques exemples: </p>
+
+
+
+<ul><li>L&rsquo;<strong>AI Now Institute</strong> propose un <strong>cadre de bonnes pratiques</strong> incluant 5 recommandations d&rsquo;ordre général (dont la mise en place de procédures pour la vérification et le suivi externe des impacts),</li><li>Le <strong>Groupe d&rsquo;experts de haut-niveau</strong> pour une IA de confiance, rassemblé par la Commission européenne, propose une <strong>liste de questions</strong> qui servent de base à l&rsquo;auto-évaluation des systèmes,</li><li>Le <strong>Gouvernement de la Nouvelle Zélande</strong> intègre dans sa charte des algorithmes une <strong>matrice de risques</strong>, qui permet de quantifier la probabilité d&rsquo;effets négatifs sur les personnes (effet improbable, occasionnel, probable) par rapport au nombre de personnes potentiellement impactées (faible, modéré, élevé).</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="562" height="510" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/image-4.png" alt="" class="wp-image-15512" srcset="/wp-content/uploads/2021/07/image-4.png 562w, /wp-content/uploads/2021/07/image-4-300x272.png 300w" sizes="(max-width: 562px) 100vw, 562px" /><figcaption>La matrice de risques proposée par le Gouvernement de la Nouvelle-Zélande</figcaption></figure></div>
+
+
+
+<p>L&rsquo;outil proposé par le <strong>Gouvernement du Canada</strong> (conseil du Trésor) se distingue car il permet de <strong>calculer automatiquement le niveau de risques</strong> d&rsquo;un systèmes en répondant à quelques questions. Selon le niveau d&rsquo;incidence ainsi calculé, des recommandations particulières sont formulées.</p>
+
+
+
+<p>La plupart des outils étudiés cherchent à évaluer les impacts individuels et sociaux, voire sociétaux, des systèmes algorithmiques mis en place. Mais, là encore, c&rsquo;est la diversité qui prévaut. Certains outils mettent l&rsquo;accent sur les droits fondamentaux (droits et libertés des personnes, droit à la vie privée, non-discrimination). D&rsquo;autres privilégient une approche par domaine d&rsquo;impact: bien-être, santé, environnement par exemple.</p>
+
+
+
+<p><strong>Des outils d&rsquo;auto-évaluation qui doivent encore faire leurs preuve</strong>s</p>
+
+
+
+<p>Elisabeth Lehagre s&rsquo;est aussi attachée à comprendre comment ces outils sont mis en oeuvre, en pratique. Deux questions émergent: la <strong>compréhension</strong> de ces outils par les acteurs qui sont censé les utiliser, et les limites de l&rsquo;auto-évaluation. « <em>L&rsquo;évaluation d&rsquo;impact est-elle suffisamment compréhensible pour être utilisable ?</em> » s&rsquo;interroge ainsi l&rsquo;auteure de l&rsquo;étude. Les difficultés de compréhension peuvent être multiples: difficulté à cerner de manière précise le périmètre et l&rsquo;objet de l&rsquo;évaluation (« systèmes d&rsquo;intelligence artificielle », « algorithmes », « systèmes de décision automatisée » ?) mais aussi les domaines d&rsquo;impact (« bien-être », « droits et libertés des personnes » ?). Les gouvernements canadiens et néo-zelandais ont ainsi dû mener des actions complémentaires: tenue d&rsquo;ateliers pluridisciplinaires, proposition de définition précise des systèmes concernés, etc. </p>
+
+
+
+<p>La seconde interrogation concerne l&rsquo;<strong>auto-arbitrage</strong>. En effet, la très grande majorité de ces outils ont été pensés comme des outils d&rsquo;auto-évaluation interne, où les personnes réalisant l&rsquo;exercice d&rsquo;évaluation sont aussi celles en charge de la conception et du déploiement de ces outils. Afin d&rsquo;éviter les risques liés à l&rsquo;auto-arbitrage (où les mêmes acteurs sont potentiellement juge et partie), plusieurs recommandations ont été développées, dont l&rsquo;importance de rendre publique et transparente les évaluations d&rsquo;impact algorithmique. La possibilité de faire participer des tiers (pairs en interne ou experts externes) à l&rsquo;évaluation ou au contrôle des systèmes est une autre piste étudiée.</p>
+
+
+
+<p><strong>Une étude pour ouvrir le débat </strong>et faire connaître les outils</p>
+
+
+
+<p>Par la publication de cette étude inédite en France,<strong> Etalab</strong> souhaite contribuer au débat, au niveau national et international, sur l&rsquo;évaluation des impacts des algorithmes. Cette question est au coeur de la future régulation sur l&rsquo;Intelligence artificielle dont une première version vient d&rsquo;être rendue publique par la Commission européenne. Il s&rsquo;agit aussi de donner accès à une large communauté de concepteurs de ces systèmes (au sein des administrations et au-delà) aux derniers outils existants au niveau international.</p>
+
+
+
+<div class="wp-block-file"><a href="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/Rapport_EIA_ETALAB-.pdf">« <strong>L&rsquo;évaluation d&rsquo;impact algorithmique: un outil qui doit encore faire ses preuves</strong> » (Elisabeth Lehagre, juillet 2021):<br></a><a href="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/Rapport_EIA_ETALAB-.pdf" class="wp-block-file__button" download>Télécharger l&rsquo;étude complète (28 pages)</a></div>
+
+
+
+<div class="wp-block-file"><a href="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/Resume-Rapport-EIA-ETALAB.pdf"> </a><a href="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/Resume-Rapport-EIA-ETALAB.pdf" class="wp-block-file__button" download>Télécharger le résumé (2 pages)</a></div>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-dailymotion wp-block-embed-dailymotion wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="L&#039;évaluation des impacts algorithmiques : quels outils ? Pour quels résultats ?" frameborder="0" width="1091" height="613" src="https://www.dailymotion.com/embed/video/x82n2og" allowfullscreen allow="autoplay"></iframe>
+</div><figcaption>Webinaire de présentation de l&rsquo;étude avec Elisabeth Lehagre, Elodie Quezel (Signaux Faibles) et Hubert Guillaud (InternetActu)</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mois de l&#8217;innovation publique 2020 : retour sur les événements d&#8217;Etalab</title>
+		<link>/mois-de-linnovation-publique-2020-retour-sur-les-evenements-detalab</link>
+		
+		<dc:creator><![CDATA[Soizic Pénicaud]]></dc:creator>
+		<pubDate>Wed, 06 Jan 2021 11:37:27 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[Innovation ouverte / open innovation]]></category>
+		<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[Open data]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14650</guid>
+
+					<description><![CDATA[En novembre 2020, à l&#8217;occasion du Mois de l&#8217;innovation publique, Etalab a organisé douze événements sur les thèmes de l’ouverture, du partage et de la valorisation des données publiques. Près de 1000 personnes ont été au rendez-vous. Découvrez ci-dessous quelques temps forts de ces webinaires et ateliers et accédez aux enregistrements des sessions.  Ouverture et &#8230;<p class="read-more"> <a class="" href="/mois-de-linnovation-publique-2020-retour-sur-les-evenements-detalab"> <span class="screen-reader-text">Mois de l&#8217;innovation publique 2020 : retour sur les événements d&#8217;Etalab</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+<p>En novembre 2020, à l&rsquo;occasion du <a href="https://www.modernisation.gouv.fr/mois-innovation-publique/" class="broken_link">Mois de l&rsquo;innovation publique</a>, Etalab a organisé <a href="https://www.etalab.gouv.fr/rdv-etalab-mip-2020" target="_blank" rel="noopener noreferrer">douze événements</a> sur les thèmes de l’ouverture, du partage et de la valorisation des données publiques. Près de 1000 personnes ont été au rendez-vous. Découvrez ci-dessous quelques temps forts de ces webinaires et ateliers et accédez aux enregistrements des sessions. </p>
+
+
+<h3 class="wp-block-heading">Ouverture et circulation des données</h3>
+
+
+
+<h5 class="wp-block-heading"><strong>Faire circuler les données entre administrations grâce aux API</strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p>Voir <em><a rel="noreferrer noopener" href="https://www.dailymotion.com/video/x7xsjgz" target="_blank">l&rsquo;enregistrement</a> du webinaire « Simplifier les démarches des citoyens grâce aux API »</em>.</p></blockquote>
+
+
+
+<p>Combien de fois avez-vous dû transmettre une pièce justificative que l’administration détenait déjà ? « <em>80&nbsp;% des documents sont déjà détenus ou produits par une autre administration&nbsp;: la simplification passe par la circulation des données entre administrations</em> », rappelle Victor Gross (équipe API, Etalab). Le 26&nbsp;novembre, l’équipe API a mis en avant<strong> trois récits de collaboration pour mettre les API au service de la simplification des démarches</strong> : l&rsquo;utilisation des API au service des démarches usager (Mairie de Clamart), l&rsquo;utilisation d&rsquo;API Particulier au profit des centres communaux d&rsquo;action sociale (Up Cityzen) et l&rsquo;ouverture et la maîtrise de la circulation des données fiscales (Direction générale des finances publiques).</p>
+
+
+<p style="text-align: center;"><em>« Avant 2017, 3800 familles venaient au guichet de la mairie et attendaient jusqu’à deux heures, au risque de ne pas avoir les bons justificatifs pour leurs démarches. Grâce aux API, on observe un grand gain de temps, un calcul fiable et sécurisé, une très bonne appropriation côté agents et une envie de se connecter à plus d’API. » &#8211; </em>Aurélie Coutant, Mairie de Clamart.</p>
+
+
+<p>Pour continuer à simplifier la circulation des données entre administrations, l’équipe API a également mené un<strong> appel à idées</strong> tout au long du mois de novembre. L&rsquo;objectif : recueillir les demandes d’accès aux données publiques et les idées de services à construire grâce à elles.  L&rsquo;appel a recueilli 58&nbsp;contributions, dont la synthèse sera disponible prochainement. </p>
+
+
+
+<h5 class="wp-block-heading"><strong>Accélérer l&rsquo;ouverture des données dans les territoires</strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p>Voir et lire :</p><cite><em>• <a rel="noreferrer noopener" href="https://www.data.gouv.fr/fr/posts/retour-sur-levenement-open-data-des-territoires/" target="_blank">L&rsquo;article de synthèse du webinaire</a> « L’open data et les territoires : Quelle collaboration entre l’État et les collectivités territoriales ? » ; </em><br>• <em><a rel="noreferrer noopener" href="https://github.com/etalab/etalab/tree/master/diaporamas/Open%20Data%20des%20territoires%2026_11_2020" target="_blank">L’ensemble des présentations du webinaire</a></em>.<br><br><a rel="noreferrer noopener" href="https://infolettres.etalab.gouv.fr/subscribe/rn7y93le1" target="_blank" class="broken_link">S&rsquo;inscrire</a> à l&rsquo;infolettre data.gouv.fr.</cite></blockquote>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="605" height="372" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-15.32.52.png" alt="Histogramme ayant pour titre &quot;Historique des Collectivités ayant ouvert leurs données&quot;. L'axe des abscisses court d'octobre 2016 à octobre 2020. L'axe des ordonnées présente le nombre de collectivités, classées en quatre catégories : régions, départements, EPCI, communes. Le graphique montre une augmentation du nombre de collectivités ayant ouvert leurs données, de 101 en octobre 2016 à 589 en octobre 2020." class="wp-image-14667"/><figcaption>Jean-Marie Bourgogne, délégué général d&rsquo;OpenDataFrance, a présenté les résultats 2020 de l&rsquo;observatoire open data des territoires.</figcaption></figure></div>
+
+
+
+<p><strong>Quels sont les besoins des collectivités locales en termes d&rsquo;open data ?</strong> Quels sont les outils à leur disposition ? L&rsquo;équipe open data d&rsquo;Etalab et l’association<a rel="noreferrer noopener" href="https://www.opendatafrance.net/" target="_blank">&nbsp;OpenDataFrance</a> ont organisé un webinaire pour répondre à ces questions. </p>
+
+
+
+<p>Afin de proposer un bilan actualisé de l&rsquo;open data dans les territoires, Jean-Marie Bourgogne, délégué général d’OpenDataFrance, a introduit le webinaire en présentant les <strong>principaux résultats 2020 de<a rel="noreferrer noopener" href="https://www.opendatafrance.net/2020/10/15/observatoire-open-data-des-territoires-edition-oct-2020/" target="_blank">&nbsp;l’observatoire open data des territoires</a></strong>. </p>
+
+
+
+<p class="has-text-align-right"><em>« En octobre 2020, 589 collectivités territoriales publient des données en open data. Or, sans que cela soit une surprise, plus la taille diminue, moins la collectivité s’engage dans l’open data.<em> »</em> </em>Jean-Marie Bourgogne, OpenDataFrance.</p>
+
+
+
+<p>Deux témoignages ont ensuite illustré les <strong>besoins des collectivités locales</strong> en matière d&rsquo;ouverture des données. Marie Aboulker (Banque des territoires) a présenté un dispositif d&rsquo;accompagnement de onze villes pour mettre leurs données au service de la redynamisation des cœurs de ville. Pascal Chevallot (Agence d&rsquo;Urbanisme d&rsquo;Agglomérations de Moselle) a lui apporté son témoignage sur la mise en place d’un outil de pilotage de l&rsquo;immobilier commercial et sur les besoins des petites et moyennes collectivités en matière de visualisation de données.</p>
+
+
+
+<p>Puisque l&rsquo;administration centrale a également pour mission d&rsquo;apporter des outils au service des acteurs locaux, les deux dernières intervenantes ont présenté deux dispositifs qui facilitent la publication de données locales.  Mathilde Hoang (équipe open data, Etalab) a présenté les outils disponibles pour <strong>standardiser les données et accélérer leur ouverture</strong> et exploitation, notamment les schémas de données. Enfin, Sophie Clairet (Agence nationale de la cohésion des territoires) a présenté le<strong><a rel="noreferrer noopener" href="https://adresse.data.gouv.fr/gerer-mes-adresses" target="_blank">&nbsp;programme Bases Adresses Locales</a></strong> qui facilite et accélère la mise à jour de la Base Adresse Nationale à travers des outils d&rsquo;édition simples et ergonomiques. </p>
+
+
+
+<h3 class="wp-block-heading">Intelligence artificielle</h3>
+
+
+
+<h5 class="wp-block-heading"><strong>Innover avec l&rsquo;intelligence artificielle dans l&rsquo;administration : présentation de cinq outils développés en 2020</strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p><em>Voir et lire :</em></p><cite>•<a rel="noreferrer noopener" href="https://etalab.github.io/infolettre-lab-ia/numero-8/" target="_blank"><em> Les </em>supports de présentation et enregistrements</a><em> des webinaires « Cinq projets pour innover avec l&rsquo;intelligence artificielle dans l&rsquo;administratio<em>n »</em>, dans l&rsquo;infolettre du Lab IA </em>;<br>• <em>Les </em><a rel="noreferrer noopener" href="https://etalab.github.io/infolettre-lab-ia/" target="_blank">infolettres du Lab IA</a><em> et <a rel="noreferrer noopener" href="https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio" target="_blank" class="broken_link">s&rsquo;y inscrire</a>.</em></cite></blockquote>
+
+
+
+<p>En 2020, le Lab IA d’Etalab et la <a rel="noreferrer noopener" href="https://www.modernisation.gouv.fr/" target="_blank">direction interministérielle de la transformation publique (DITP)</a> ont accompagné 15&nbsp;projets pour la&nbsp;<strong>2<sup>ème&nbsp;</sup>promotion de l’appel à manifestation d&rsquo;intérêt-intelligence artificielle (AMI-IA&nbsp;2)</strong>. Pour le mois de l&rsquo;innovation publique, cinq des équipes ont partagé en webinaires de 30&nbsp;minutes&nbsp;<strong>les résultats de dix&nbsp;mois d’expérimentations</strong> sur des sujets variés : accélérer les délais de jugement avec le Conseil d&rsquo;Etat, rechercher plus efficacement des informations dans les dossiers patients avec le CHU de Bordeaux, optimiser le traitement des signalements sanitaires avec le Ministère de la Santé, l&rsquo;ANSM et l&rsquo;ANS, identifier les molécules contaminant l&rsquo;environnement et profiler les sources de pollution avec l&rsquo;INERIS et guider l&rsquo;implantation des entreprises artisanales avec la Chambre Régionale des Métiers et de l&rsquo;Artisanat de Nouvelle-Aquitaine (CRMANA).</p>
+
+
+
+<p class="has-text-align-right"><em>« Nous avons développé deux algorithmes pour modéliser le niveau d’équipement artisanal du territoire et le taux de survie des entreprises en fonction de leur environnement. Les premiers résultats sont très encourageants. À plus long terme, nous espérons une utilisation de l’outil à l’échelle nationale, ou une ouverture vers d’autres métiers de proximité, hors artisanat. »</em>&nbsp;&#8211; Jérôme Luret et Gaël Kohn, porteurs du projet CRMANA.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="530" height="287" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/12/blog_mip_IA.jpg" alt="Capture d'écran d'un tableau de bord présentant une carte et différents indicateurs. " class="wp-image-14669"/><figcaption>Outil d&rsquo;IA développé avec la Chambre Régionale des Métiers et de l&rsquo;Artisanat de Nouvelle-Aquitaine pour guider l&rsquo;implantation des entreprises. </figcaption></figure></div>
+
+
+
+<h5 class="wp-block-heading"><strong>Rendre l&rsquo;intelligence artificielle accessible aux administrations avec des outils mutualisés</strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p><em>Voir </em> :</p><cite>• <a rel="noreferrer noopener" href="https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=48b2421b44161208a69733549d738fc6ce9e3f6b-1606377992311" target="_blank" class="broken_link">L&rsquo;enregistrement</a><em> de l&rsquo;Open Lab <em><em>«</em></em></em> <em>Pour une IA francophone <em><em>»</em></em></em> <em>(PIAF)</em> ;<br>• <a rel="noreferrer noopener" href="https://transformations-droit.com/webinaire-la-pseudonymisation-des-decisions-de-justice-travaux-du-lab-ia-avec" target="_blank">L&rsquo;enregistrement</a><em> du webinaire <em>«</em></em> <em>La pseudonymisation des décisions de justice. Travaux du Lab IA avec la Cour de cassation et le Conseil d’État<em><em> »</em></em> aux rendez-vous Transformation du droit</em> ;<br>• <a rel="noreferrer noopener" href="https://datascience.etalab.studio/pseudo/" target="_blank" class="broken_link">La démonstration</a> de l&rsquo;outil open source de pseudonymisation développé. </cite></blockquote>
+
+
+
+<p>Le Lab IA a aussi animé un <strong>Open Lab (atelier participatif) pour présenter la nouvelle phase du projet <a rel="noreferrer noopener" href="https://piaf.etalab.studio/" target="_blank">PIAF &#8211; Pour une IA francophone</a></strong>.</p>
+
+
+
+<p><em>« Grâce au premier jeu de données francophone obtenu de façon collaborative avec plus de 9500&nbsp;annotations et plus de 700&nbsp;contributeurs, l’équipe PIAF s’est lancée depuis juin 2020 dans une nouvelle phase&nbsp;: favoriser l’appropriation des IA de question-réponse par l’administration »</em>, y a&nbsp;annoncé Guillaume Lancrenon du Lab IA d&rsquo;Etalab. </p>
+
+
+
+<p>Pour ce faire, l&rsquo;équipe a mené un travail d&rsquo;enquête aux côtés de&nbsp;<a rel="noreferrer noopener" href="http://service-public.fr/" target="_blank">service-public.fr</a>&nbsp;et d’autres administrations et imaginé un produit mutualisé avec des cas d’usages variés&nbsp;: outils pour l’agent, agent conversationnel et recherche d’informations pour le citoyen.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1321" height="661" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/12/blog_mip_PIAF.png" alt="Capture d'écran dun tableau virtuel rempli de post-its. Les catégories : acteurs, projets/ressources, freins, besoins, idées/pistes, questions." class="wp-image-14670"/><figcaption>Cartographie des acteurs, des ressources, des freins et des leviers pour une IA francophone élaborée lors de l&rsquo;Open Lab.</figcaption></figure></div>
+
+
+
+<p>L’équipe a présenté les différentes applications qui pourront être réutilisées directement par les administrations et les participants ont pu contribuer à la réflexion sur les prochaines étapes du projet via trois ateliers&nbsp;: quels cas d’usage pour les algorithmes de question-réponse ? Quelles pistes d’améliorations techniques ? Comment mieux encourager l’intelligence artificielle francophone ouverte ? </p>
+
+
+
+<p>Le Lab IA a présenté un autre&nbsp;outil mutualisé&nbsp;le 19&nbsp;novembre aux côtés du Conseil d’État et de la Cour de Cassation, cette fois pour la <strong><a rel="noreferrer noopener" href="https://datascience.etalab.studio/pseudo/" target="_blank" class="broken_link">pseudonymisation de documents</a></strong>. « <em>Initialement développé en coopération avec le Conseil d’État&nbsp;pour&nbsp;<strong>pseudonymiser les décisions de justice</strong>, <em>cet outil est open source et peut-être réutilisé pour tous types de documents textuels</em></em> », a expliqué Pavel Soriano (Lab IA, Etalab) pendant la conférence virtuelle Transformation du droit organisée par l&rsquo;association <a rel="noreferrer noopener" href="http://openlaw.fr/" target="_blank">Open Law</a> et le <a rel="noreferrer noopener" href="https://www.village-justice.com/articles/" target="_blank">Village de la justice</a>.</p>
+
+
+
+<h3 class="wp-block-heading">Open source</h3>
+
+
+
+<blockquote class="wp-block-quote"><p><em><a rel="noreferrer noopener" href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" target="_blank" class="broken_link">S&rsquo;inscrire </a>à la gazette #BlueHats, la gazette du logiciel libre dans/pour l&rsquo;administration.</em></p></blockquote>
+
+
+
+<p>Bastien Guerry, référent logiciel libre à Etalab, a animé le 23 novembre une clinique d’ouverture des codes sources. Elle a permis d’engager deux discussions importantes&nbsp;: l’une avec le CEREMA, qui a dans la foulée rejoint le groupe de travail sur les politiques de publication de codes sources, et l’autre avec le Pass Culture, qui s’interroge sur les dépôts à ouvrir en priorité. Ces deux échanges se poursuivront en 2021.</p>
+
+
+
+<h3 class="wp-block-heading">Innovation ouverte &amp; programme Entrepreneurs d&rsquo;Intérêt Général</h3>
+
+
+
+<h5 class="wp-block-heading"><strong>Pérenniser la transformation numérique&nbsp;: témoignages de mentors du programme Entrepreneurs d&rsquo;Intérêt Général</strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p>Lire <a rel="noreferrer noopener" href="https://www.dailymotion.com/video/x7xtj58" target="_blank">l&rsquo;article de synthèse et voir l&rsquo;enregistrement </a>du webinaire « Pérenniser la transformation numérique : témoignages de mentors du programme EIG ».</p><cite><a rel="noreferrer noopener" href="https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio" target="_blank" class="broken_link">S&rsquo;inscrire</a><em> à la liste de diffusion du programme EIG</em>.</cite></blockquote>
+
+
+
+<p>Lors d’une première table ronde, l’équipe du programme de transformation numérique <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/" target="_blank">Entrepreneurs d’Intérêt Général</a> (EIG) a réuni d’anciennes et anciens agents publics porteurs de projets de la promotion 3 à la <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/openjustice.html" target="_blank" class="broken_link">Cour de cassation</a>, l&rsquo;<a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cartobio.html" target="_blank" class="broken_link">Agence Bio</a> et la <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/karfur.html" target="_blank" class="broken_link">délégation interministérielle à l&rsquo;accueil et l&rsquo;intégration des réfugiés</a> (DIAIR) pour une table ronde sur le thème de la pérennisation. </p>
+
+
+
+<p>Un an après leur participation au programme, ces mentors ont fait part des avancées des projets et ont apporté leur regard sur les changements à long terme dans leurs institutions. Ce fut l’occasion de discuter des enjeux de l’immersion de spécialistes du numérique dans l’administration, de réitérer l’importance des agents publics dans la transformation de leurs services et d’évoquer les difficultés liées à la pérennisation de démarches d&rsquo;innovation.</p>
+
+
+
+<p class="has-text-align-right">«&nbsp;<em>Ce qui est très intéressant dans le programme EIG, c’est la manière dont il transforme les entités administratives qui accueillent les EIG, au-delà des projets. </em>» &#8211; Nour Allazkani (DIAIR).</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1416" height="794" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/12/evenement-mip-2020-eig3-1.png" alt="Grille présentant six vignettes de personnes en visioconférence, qui rient et sourient. " class="wp-image-14714"/><figcaption>De gauche à droite et de haut en bas : Soizic Pénicaud (équipe accompagnement, Etalab), Dorian Fléchet (Agence Bio), Simon Karleskind (DIAIR), Estelle Jond-Necand (Cour de cassation), Nour Allazkani (DIAIR), Lucas Bchini (Agence Bio).</figcaption></figure></div>
+
+
+
+<h5 class="wp-block-heading"><strong>Choisir le bon programme d&rsquo;innovation : Entrepreneurs d&rsquo;Intérêt Général et intrapreneuriat de beta.gouv.fr, quel programme pour quel projet ? </strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p>Voir <em><a rel="noreferrer noopener" href="https://www.dailymotion.com/video/x7y0lbw" target="_blank">l&rsquo;enregistrement</a></em> du webinaire <em><em>« Entrepreneurs d&rsquo;Intérêt Général vs. intrapreneuriat de beta.gouv.fr : quel programme pour quel projet ? »</em></em>.</p></blockquote>
+
+
+
+<p>L’équipe du programme Entrepreneurs d’Intérêt Général d&rsquo;Etalab s’est associée à celle de l’incubateur <a rel="noreferrer noopener" href="http://beta.gouv.fr/" target="_blank">beta.gouv.fr</a> pour une discussion-débat autour des différences et des complémentarités entre deux accompagnements à l&rsquo;innovation : le programme EIG et le programme d’intrapreneuriat de beta.gouv.fr.</p>
+
+
+
+<p>Soizic Pénicaud (équipe accompagnement, Etalab) et Florian Delezenne (beta.gouv.fr) ont pu répondre aux questions des participantes et participants  sur les profils des agents publics recherchés, les administrations éligibles, les modalités de recrutement et le coût de chaque programme pour une administration participante.</p>
+
+
+
+<p class="has-text-align-right"><em> « Ce qui fait la force des deux approches, c&rsquo;est la complémentarité. Beta.gouv.fr essaye de faire évoluer un agent vers un autre type de poste. D&rsquo;autres projets bénéficient de l&rsquo;apport d&rsquo;EIG, où des profils techniques sont intégrés dans l&rsquo;administration, sont acculturés, bénéficient d&rsquo;une communauté et font un pas dans l&rsquo;administration pour probablement y rester. » </em>&#8211; Florian Delezenne, responsable de beta.gouv.fr à la DINUM.</p>
+
+
+
+<h5 class="wp-block-heading"><strong> Mettre le design au service de l&rsquo;environnement et la biodiversité : récits de designers d&rsquo;intérêt général </strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p>Voir <em><a rel="noreferrer noopener" href="https://www.dailymotion.com/video/x7y0lbw" target="_blank">l</a><em><a rel="noreferrer noopener" href="https://www.dailymotion.com/video/x7xtjdr" target="_blank">&lsquo;enregistrement</a></em> du meetup Design Public n°5, Environnement et biodiversité.</em></p></blockquote>
+
+
+
+<p>Enfin, quatre designers de la promotion Designers d’Intérêt Général ont présenté les résultats de leurs travaux lors d’un meetup Design Public sur le thème de l’environnement et de la biodiversité :<strong> </strong>informer les citoyens sur les espaces naturels autour de chez eux (<a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/inpn-espaces.html" target="_blank" class="broken_link">Muséum d’Histoire Naturelle</a>), faciliter l’accès à une information marine de qualité (<a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/maritux.html" target="_blank" class="broken_link">Shom</a>), améliorer l’information environnementale du citoyen (<a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/sequoia-cgdd.html" target="_blank" class="broken_link">Commissariat général au développement durable</a>) et produire des données collaboratives géolocalisées (<a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/sequoia-ign.html" target="_blank" class="broken_link">Institut national de l’information géographique et forestière</a>).</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="787" height="443" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-11-à-08.55.00.png" alt="Sur la majeure partie de l'écran : une capture d'écran de portail en ligne montrant la France et les mers et océans qui l'entoure. Cette capture d'écran est collée sur un fond blanc où sont inscrites des annotations qui donnent des explications sur les différents choix d'interface du portail. En bas de l'image, en beaucoup plus petit, les vignettes vidéo de 5 personnes dont une en train de parler." class="wp-image-14666"/><figcaption>Cécile Canel présente les maquettes qu&rsquo;elle a réalisées pour la refonte des portails cartographiques du Shom. La refonte est en train d&rsquo;être mise en oeuvre. </figcaption></figure></div>
+
+
+
+<p>Les designers y ont présenté leur travail de design (recherche utilisateur, maquettes, prototypes, etc.) et se sont ouverts sur leur expérience de designer dans l’administration. </p>
+
+
+
+<p class="has-text-align-right"><em>« Mon travail de recherche utilisateur a permis de montrer qu’il y avait un grand intérêt des usagers à participer aux politiques publiques, et qu’avec des moyens restreints (un simple téléphone, par exemple), on pouvait récolter des centaines de retours usagers rapidement. » &#8211; Marie Ramon-Daré</em>, <em>Commissariat général au développement durable.</em></p>
+
+
+
+<h3 class="wp-block-heading">Nouvelles initiatives d&rsquo;accompagnement et de financement</h3>
+
+
+
+<blockquote class="wp-block-quote"><p>Voir : </p><cite>• <a rel="noreferrer noopener" href="https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=1d691cd5e000f71b87a3526bf99593e650ec6af6-1606478406272" target="_blank" class="broken_link">L&rsquo;enregistrement</a> du lancement de l&rsquo;accompagnement « Éclairer les politiques publiques par la donnée » ;<br>• <a rel="noreferrer noopener" href="https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9073c2488737f404590af494b4ec50e0db7a0119-1605012688727" target="_blank" class="broken_link">L&rsquo;enregistrement</a> de l&rsquo;événement d&rsquo;information « Cycle de vie de la donnée ».</cite></blockquote>
+
+
+
+<h5 class="wp-block-heading"><strong>Lancement de l&rsquo;accompagnement <strong>«</strong></strong> <strong>Éclairer les politiques publiques par la donnée</strong> <strong>»</strong></h5>
+
+
+
+<p><em>Qu’est-ce qu’une politique publique pilotée par la donnée&nbsp;? Quelles réalisations aujourd’hui&nbsp;? Comment lancer un projet de pilotage par la donnée&nbsp;dans son administration ?</em></p>
+
+
+
+<p>Dans le cadre du lancement de <strong>l&rsquo;offre d’accompagnement «&nbsp;Éclairer les politiques publiques par la donnée&nbsp;»</strong>, l’équipe d’Etalab a présenté les enjeux du pilotage par la donnée, les réalisations de cette année 2020 et a ouvert la discussion sur les projets que pouvaient envisager les participants du webinaire.</p>
+
+
+
+<p>Deux cas d&rsquo;usage ont été présentés : le <a rel="noreferrer noopener" href="https://dashboard.covid19.data.gouv.fr/" target="_blank">tableau de bord covid-19</a> et le <a rel="noreferrer noopener" href="https://aides-entreprises.data.gouv.fr/" target="_blank" class="broken_link">tableau de bord des aides accordées aux entreprises</a> dans le cadre du fonds de solidarité. Les discussions en atelier ont notamment exploré le pilotage des données dans les domaines de l&rsquo;environnement, de la culture, de la lutte contre les noyades en mer et traité le cas particulier des collectivités territoriales. </p>
+
+
+
+<p>Cet accompagnement est destiné aux administrations souhaitant utiliser les données pour concevoir, mettre en œuvre et évaluer leurs politiques publiques grâce aux données. Pour obtenir davantage d’informations sur ce nouveau programme, contactez l’équipe projet&nbsp;: eclairer-par-la-donnee@data.gouv.fr.</p>
+
+
+
+<p></p>
+
+
+
+<h5 class="wp-block-heading"><strong>Lancement de l&rsquo;appel à projets «</strong> <strong>Cycle de vie de la donnée</strong> <strong>»</strong></h5>
+
+
+
+<p>Etalab a organisé une réunion d&rsquo;information pour les administrations intéressées par l&rsquo;appel à projets et guichet <strong>« Cycle de vie de la donnée »</strong> initié dans le cadre du <a href="https://france-relance.transformation.gouv.fr/" target="_blank" rel="noreferrer noopener" class="broken_link">plan de relance</a>. </p>
+
+
+
+<p>Cet appel à projets s’adresse aux directions métiers d’administration ou opérateurs en charge d’une politique publique qui souhaitent développer le recours à la donnée dans la décision et la performance publique (IA, échange de données, open data, archivage). </p>
+
+
+
+<p class="has-text-align-right"><em>« Etalab propose d’accompagner les administrations candidates avec des rituels de partage d’avancées des différents projets, les ressources et outils DINUM et une clinique de la data mensuelle, un format initié par le Lab IA d’Etalab pour prendre quelques heures afin d’aider une équipe projet à trouver des solutions sur un problème précis. »</em>  &#8211; Paul-Antoine Chevalier, responsable du pôle exploitation des données et du Lab IA à Etalab. </p>
+
+
+
+<p><em>Cet article a éveillé votre curiosité ? <a href="https://www.etalab.gouv.fr/contact" target="_blank" rel="noreferrer noopener">Contactez les équipes d&rsquo;Etalab</a> pour en savoir plus sur nos travaux.  </em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Intelligence artificielle : découvrez les 15 nouveaux projets sélectionnés.</title>
+		<link>/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes</link>
+		
+		<dc:creator><![CDATA[Paul-Antoine Chevalier]]></dc:creator>
+		<pubDate>Tue, 16 Jul 2019 09:58:52 +0000</pubDate>
+				<category><![CDATA[intelligence artificielle]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=11492</guid>
+
+					<description><![CDATA[Le 2 avril 2019, la DINSIC et la DITP ont lancé un deuxième appel à manifestation d’intérêt (AMI) pour expérimenter l’intelligence artificielle (IA) dans l’administration — d’où le nom du projet : AMI IA 2. Un jury d’experts s’est réuni le 4 juillet. Le jury a sélectionné 15 projets, qui seront accompagnés par la DITP &#8230;<p class="read-more"> <a class="" href="/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes"> <span class="screen-reader-text">Intelligence artificielle : découvrez les 15 nouveaux projets sélectionnés.</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Le 2 avril 2019, la DINSIC et la DITP ont lancé un deuxième appel à manifestation d’intérêt (AMI) pour expérimenter l’intelligence artificielle (IA) dans l’administration — d’où le nom du projet : AMI IA 2. Un jury d’experts s’est réuni le 4 juillet. Le jury a sélectionné 15 projets, qui seront accompagnés par la DITP et la DINSIC, pour développer un prototype fonctionnel et appréhender les enjeux de la transformation des métiers associés à l’IA, au cours de l’année à venir.</p>
+
+
+
+<h2 class="wp-block-heading">11 projets bénéficieront de l’accompagnement technique et métier</h2>
+
+
+
+<h3 class="wp-block-heading"><strong>Direction générale de la santé</strong>. — Optimiser le traitement des signalements des événements sanitaires indésirables</h3>
+
+
+
+<p>À partir des données issues de l’ensemble des signalements des événements sanitaires indésirables, l’IA permettra de classifier les signalements, d’extraire les concepts métiers pertinents et de détecter des anomalies dans les signalements.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Centre hospitalier universitaire de Bordeaux</strong>. — Faciliter l’accès aux informations sur le patient</h3>
+
+
+
+<p>L’IA permettra une recherche sémantique dans le dossier patient informatisé pour permettre au personnel soignant de retrouver et visualiser les informations sur le patient. Le prototype permettra de faciliter le travail du personnel soignant et de diminuer les pertes de temps liées à la recherche d’informations sur le patient.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Institut de radioprotection et de sûreté nucléaire</strong>. — Développer un système d’alerte automatique pour l’aide à la surveillance des travailleurs exposés aux rayonnements ionisants</h3>
+
+
+
+<p>À partir des données du système d’information de la surveillance de l’exposition aux rayonnements ionisants (SISERI), l’IA permettra un suivi personnalisé de l’exposition des travailleurs aux rayonnements ionisants  et une détection plus facile des anomalies.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Direction générale des collectivités locales</strong>. — Développer l’intelligence artificielle dans le contrôle de légalité dématérialisé</h3>
+
+
+
+<p>À partir des données de l’application @ctes (Actes), l’IA permettra de simplifier le travail des agents en préfecture, en triant automatiquement les actes transmissibles et non transmissibles et en détectant les informations à contrôler en priorité.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Direction générale de la gendarmerie nationale</strong>. — Améliorer le système de pré-plainte en ligne</h3>
+
+
+
+<p>En détectant automatiquement les infractions à partir des pré-plaintes en ligne et en identifiant les questions complémentaires à poser à l’usager, l’IA permettra de transformer les pré-plaintes en ligne en plaintes qualifiées, ce qui permettra un gain de temps à la fois pour les plaignants et les agents de la gendarmerie.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Direction générale des douanes et des droits indirects</strong>. — Identifier les fausses déclarations en douane grâce au text mining</h3>
+
+
+
+<p>À partir des descriptions des produits dans les documents administratifs uniques, l’IA permettra de détecter les produits importés qui sont déclarés à tort dans une nomenclature de produit fiscalement avantageuse et d’améliorer la lutte contre la fraude aux droits de douanes.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Institut national de la statistique et des études économiques</strong>. — Améliorer l’identification de l’établissement employeur dans le recensement de la population</h3>
+
+
+
+<p>À partir de la déclaration de l’établissement employeur dans les données du recensement de la population et de la base SIRENE des  entreprises et de leurs établissements, l’IA permettra de développer un moteur de recommandation pour les agents qui corrigent les données du recensement. Le projet permettra une plus grande précision des statistiques domicile-travail fournie par l’INSEE et un gain d’efficience dans la chaîne de production des données.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Chambres des métiers et de l’artisanat de Nouvelle Aquitaine</strong>. — Développer un outil d’aide à l’implantation des entreprises artisanales</h3>
+
+
+
+<p>À partir de données sur les entreprises artisanales et de données sur la population, l’IA permettra de déterminer les chances de succès d’un artisan sur un territoire et de mieux conseiller les artisans dans leur choix d’implantation.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Institut national de l’environnement industriel et des risques</strong>. — Identifier les molécules contaminant l’environnement et profiler les sources de pollutions</h3>
+
+
+
+<p>À partir des résultats d’analyses chimiques, l’IA permettra d’objectiver des ressemblances et des différences entre des spectres moléculaires pour mieux identifier les molécules contaminant l’environnement et mieux détecter des molécules polluantes.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Direction générale des entreprises — Service de l’information stratégique et de la sécurité économiques</strong>. — Développer une solution de veille et d’exploitation d’informations pour améliorer la sécurité économique</h3>
+
+
+
+<p>À partir des demandes d’investissements étrangers en France croisées avec des sources externes, l’IA permettra de de détecter et d&rsquo;identifier des entités présentant un risque pour les intérêts économiques de la France afin d&rsquo;améliorer l&rsquo;instruction des dossiers d&rsquo;intelligence économique et de mieux détecter les risques que peuvent présenter des investissements étrangers.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Conseil d’État</strong>. — Identifier automatiquement les séries de contentieux faisant appel à une décision commune</h3>
+
+
+
+<p>À partir de l’ensemble des requêtes auprès des tribunaux administratifs, l’IA permettra de regrouper les contentieux pour détecter automatiquement des séries et d’améliorer l’efficacité de la justice administrative.</p>
+
+
+
+<h2 class="wp-block-heading">4 projets bénéficieront de l’accompagnement scientifique</h2>
+
+
+
+<p>Les 4 projets suivants sont considérés comme plus complexes d’un point de vue technique et bénéficieront d’un accompagnement scientifique en collaboration avec un institut de recherche.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Direction générale de la concurrence, de la consommation et de la répression des fraudes</strong>. — Détecter les clauses et pratiques abusives dans les contrats, devis et factures</h3>
+
+
+
+<p>À partir des comptes rendus et pièces récupérées par les enquêteurs de la DGCCRF lors des contrôles et des décisions, avis et recommandations de la commission des clauses abusives, l’IA permettra de détecter la présence et le contenu des mentions obligatoires, d’identifier les thématiques des clauses des contrats et le cas échéant d’identifier les clauses abusives afin d’assurer une meilleure protection des consommateurs et une meilleure régulation concurrentielle des marchés.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Institut national de l’information géographique et forestière</strong>. — Faciliter le calcul du positionnement des points de référence terrestre à partir des données satellites</h3>
+
+
+
+<p>L’IA permettra d’identifier automatiquement les ruptures dans la mesure des positions des antennes permanentes (GNSS) pour pouvoir les prendre en compte afin d’améliorer la qualité du système international de référence terrestre.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Cour de cassation</strong>. — Identifier les divergences de jurisprudence</h3>
+
+
+
+<p>À partir des données de jurisprudence de la Cour de cassation (Jurinet) et de cours d’appel (JuriCA), l’IA permettra de rapprocher les décisions traitant du même thème et de détecter des interprétations divergentes de la loi afin de garantir une interprétation uniforme de la loi.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Service hydrographique et océanographique de la marine</strong>. — Améliorer la cartographie du littoral</h3>
+
+
+
+<p>À partir des mesures de télédétection par laser (lidar) prises sur le littoral, l’IA permettra d’améliorer la production du référentiel du littoral en automatisant le travail de correction des agents.</p>
+
+
+
+<h2 class="wp-block-heading">Un jury pluridisciplinaire pour sélectionner les projets</h2>
+
+
+
+<p>Comme l’an passé, l’AMI IA a suscité un grand intérêt auprès des administrations. 46 projets ont ainsi été soumis aussi bien par des administrations centrales que des administrations déconcentrées, des juridictions, des directions ministérielles et des opérateurs sous tutelle. </p>
+
+
+
+<p>Sur les 46 projets candidats, 27 ont été auditionnés devant un jury d’experts regroupant des personnalités qualifiées internes et externes à l’administration reconnues pour leur connaissance de l’action publique ou pour leur compétence en intelligence artificielle. La croisée de ces regards a permis de sélectionner les projets sur leur pertinence à la fois pour la transformation de l’action publique et technique.</p>
+
+
+
+<h3 class="wp-block-heading">Composition du jury</h3>
+
+
+
+<ul><li>Laure Lucchesi (DINSIC) ;</li><li>Aude Costa de Beauregard (DITP) ;</li><li>Bertrand Pailhès (DINSIC) ;</li><li>Laurent Michel (SGPI) ;</li><li>Sandra-Jeanne Lara-Golliot (DITP) ;</li><li>Ioana Manolescu (INRIA) ;</li><li>Bertrand Braunschweig (INRIA) ;</li><li>Philippe Lefort (MEAE) ;</li><li>Carole Maudet (DGFIP) ;</li><li>Michael Benesty (Groupe Lefèbvre Sarrut) ;</li><li>Elisabeth Grosdhomme Lulin (Paradigmes) ;</li><li>Romain Aeberhardt (Veltys) ;</li><li>Martin Daniel (AirBNB) ;</li><li>Tiphaine Phe-Neau (Renault Digital) ;</li><li>Sacha Alanoca (The Future Society) ;</li><li>Thomas Cottinet (Liberty Living Lab).</li></ul>
+
+
+
+<p>Les projets seront accompagnés à partir de septembre 2019 sur une année pour réaliser un prototype fonctionnel et évaluer les impacts métiers associés à l’utilisation de l’IA.</p>
+
+
+
+<p>Cet accompagnement s’inscrit dans le cadre du « Lab IA » porté par la DINSIC, en partenariat avec la DITP, pour aider les administrations à se saisir du potentiel de l’IA. Il bénéficie d’un financement du programme d’investissement d’avenir, piloté par le secrétariat général pour l’investissement, avec le soutien de la caisse des dépôts et consignations.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Etalab is working towards public sector algorithms accountability: a working paper for RightsCon 2019</title>
+		<link>/how-etalab-is-working-towards-public-sector-algorithms-accountability-a-working-paper-for-rightscon-2019</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Wed, 12 Jun 2019 22:52:54 +0000</pubDate>
+				<category><![CDATA[Événements]]></category>
+		<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Plan d'action national gouvernement ouvert]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10581</guid>
+
+					<description><![CDATA[RightsCon is the world&#8217;s leading event on human rights in the digital age. The 2019 edition, taking place this week in Tunis, brings together 2500 participants from 130 countries (NGOs, governments, companies). Etalab has been selected to lead a session about algorithmic accountability. « With great power comes great responsibility » On this occasion, Etalab is publishing &#8230;<p class="read-more"> <a class="" href="/how-etalab-is-working-towards-public-sector-algorithms-accountability-a-working-paper-for-rightscon-2019"> <span class="screen-reader-text">How Etalab is working towards public sector algorithms accountability: a working paper for RightsCon 2019</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">RightsCon is the world&rsquo;s leading event on human rights in the digital age. The <a href="https://www.rightscon.org/program/">2019 edition</a>, taking place this week in Tunis, brings together 2500 participants from 130 countries (NGOs, governments, companies). Etalab has been selected to <a href="https://rightscon2019.sched.com/event/Pvg5/with-great-power-comes-great-responsibility-keeping-public-sector-algorithms-accountable">lead a session</a> about algorithmic accountability. </p>
+
+
+
+<h4 class="wp-block-heading">« With great power comes great responsibility »</h4>
+
+
+
+<p>On this occasion, Etalab is publishing a working paper « <em><strong><a href="https://github.com/etalab/algorithmes-publics/blob/master/20190611_WorkingPaper_PSAAccountability_Etalab.pdf">With great power comes great responsibility: keeping public sector algorithms accountable</a></strong></em> » to present our work on algorithmic accountability and to engage the discussion with international actors (NGOs, governments and companies). Here is a short summary of our findings.</p>
+
+
+
+<p><strong>From automation of human tasks to machine learning: a short history of public sector algorithms</strong></p>
+
+
+
+<p>Algorithms are nothing new for the public service. In the 1970’s, the emergence of the computing industry allowed the French authorities to automate some of its administrative processes, starting with the large-scale processes, like tax and social benefits calculations. The second generation started with the use of matching algorithms, mainly for human resources management. The Ministry of Education developed a system to manage their workforce, that is, educators and teachers applying for a new position in a different school or region. Since the early 2000’s, matching algorithms have been used for student allocation such as Affelnet, Admission Post-Bac, and now Parcoursup. The third generation of public sector algorithms is linked to the emergence of machine learning (ML) algorithms which represent a major shift for public policy. In the first two periods, computers were used to apply a set of rules that were sometimes complex, but always predefined. Instead, ML algorithms derive rules from observations and learning from large datasets. These systems are used for tax fraud detection, prediction of companies likely to hire (<a href="http://labonneboite.poleemploi.fr/" class="broken_link">La Bonne Boite</a>) or that present a risk of going bankrupt (<a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/signauxfaibles.html" class="broken_link">Signaux Faibles</a>). </p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="432" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/threegeneration-1024x432.png" alt="" class="wp-image-10584" srcset="/wp-content/uploads/2019/06/threegeneration-1024x432.png 1024w, /wp-content/uploads/2019/06/threegeneration-300x127.png 300w, /wp-content/uploads/2019/06/threegeneration-768x324.png 768w, /wp-content/uploads/2019/06/threegeneration.png 1560w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>[Extract from the working paper]</figcaption></figure>
+
+
+
+<p><strong>Specific challenges for public sector algorithms</strong></p>
+
+
+
+<p>Private and public sectors share a series of challenges (opacity, loss of autonomy, low level of explainability, risk of bias, &#8230;) but the latter are distinguable in three ways worth noting. </p>
+
+
+
+<p>First, they must be used in the <strong>public interest</strong> and not a <em>particular or private</em> interest. One can question the impact of YouTube’s recommendation algorithm on the diffusion of harmful content. That said, it is generally accepted that, as a private company, YouTube is pursuing its own interest and not the public interest. Second, in many cases, public sector algorithms tend to <strong>implement legal rules</strong>. Tax calculations follow a list of rules defined by the general tax law and adopted by the Parliament. As such, some PSA are the last link from the political will to tangible effects on individuals. </p>
+
+
+
+<p>Finally, public sector algorithms tend to be unavoidable: citizens do not have the option to use a different algorithm and sometimes are not presented with the choice to opt out of using an algorithm at all. For example, a French patient in need of a heart transplant has no choice but to accept the rules and their algorithmic implementation by the Biomedicine agency. Similarly, the only way to get access to most of the higher education institutions is to go through Parcoursup, the allocation system for students, which relies on an algorithm. <br>In 1789, the Declaration of the Rights of Man and of the Citizen (article XV) stated that “<em>Society has the right to require of every public agent an account of their administration</em>”. This principle, enacted well before the invention of computers, still stands: if administrations use algorithms as tools of administration and government, then they – and their algorithms – should be held accountable. </p>
+
+
+
+<h4 class="wp-block-heading"><strong>How Etalab is working towards sector algorithms accountability</strong></h4>
+
+
+
+<p>With the introduction of a new legal framework for algorithmic accountability and transparency (introduced by the Digital Republic Bill), public agencies need to be accompanied on making existing and future algorithms compliant with the new obligations. This also gives citizens access to new rights, such as an extended right to information. </p>
+
+
+
+<p>Through the National Action Plan (2018-2020) for the Open Government Partnership, France has committed to reinforcing “the transparency of public sector algorithms and source codes”. Etalab, as the government’s task force for open data and data policy, oversees the work on this commitment<strong> </strong>which lies at the crossroads between open data, open source, and open government issues. <strong>&nbsp;</strong></p>
+
+
+
+<p>Our approach is multifaceted:</p>
+
+
+
+<ul><li><em>top-down</em>: from the general principles and legal obligations to their concrete implementations;</li><li><em>bottom-up</em>: deriving challenges and good practices from specific case studies;</li><li><em>inspired by inputs</em>: from external partners and from alternative methods;</li><li><em>next to</em>: supporting teams developing new algorithms.</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="549" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/multifaceted-approach-1024x549.png" alt="" class="wp-image-10609" srcset="/wp-content/uploads/2019/06/multifaceted-approach-1024x549.png 1024w, /wp-content/uploads/2019/06/multifaceted-approach-300x161.png 300w, /wp-content/uploads/2019/06/multifaceted-approach-768x412.png 768w, /wp-content/uploads/2019/06/multifaceted-approach.png 1462w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Extract from the working paper</figcaption></figure>
+
+
+
+<p>To answer to the agencies’ primary need we published a how-to guide on algorithms for public sector agencies. The guide, available <a href="https://etalab.github.io/algorithmes-publics/">online</a> (in French) – open to contributions on GitHub – gives a brief overview of issues surrounding PSA and puts the European and national legal obligations into layman’s terms to make them more accessible to public servants</p>
+
+
+
+<p><strong>An investigation method for algorithms</strong></p>
+
+
+
+<p>To identify challenges and good practices already in place, we adopted a case-based approach, working with voluntary public sector agencies on existing algorithms. Three different methodologies have been used, each one focusing on a particular object on different domains (namely social services, employment and health): </p>
+
+
+
+<ol><li>observing people at work, and their interactions with algorithmic systems (allocating daycare places at a municipal level);</li><li>observing code being published, and interviewing developers about their choices (helping the unemployed target potential employers);</li><li>observing legal and practical documentation about administrative procedures using algorithms (allocating heart transplants at a national level).</li></ol>
+
+
+
+<h4 class="wp-block-heading"><strong>Building accountability by design</strong></h4>
+
+
+
+<p>In addition to working with existing use cases, we explore accountability by design by working in close collaboration with different organizations and actors. As the department for data policy, Etalab encourages the development of datascience into government through different innovation programs developing rule-based and machine learning algorithms, such as digital transformation program <a href="https://entrepreneur-interet-general.etalab.gouv.fr/">Entrepreneurs d’Intérêt Général</a> and a call for projects around artificial intelligence. We make sure that PSA accountability issues are addressed from the beginning of these programs by organizing workshops and discussions with the development teams (public servants, data scientists, and developers). We work on different topics such as impact, explanation, data bias or symmetry of information.</p>
+
+
+
+<p><strong>A design workshop to involve citizens </strong></p>
+
+
+
+<p>To experiment with involving citizens in making PSA accountable we conducted two participatory workshops on the French housing tax, with the help of PhD candidate Loup Cellard (Warwick University). We used the analogy of an algorithm as a cooking recipe, with ingredients (data), step-by-step preparation methods (instructions) and a final result (amount to be paid). </p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="406" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/workshop2018-1024x406.png" alt="" class="wp-image-10611" srcset="/wp-content/uploads/2019/06/workshop2018-1024x406.png 1024w, /wp-content/uploads/2019/06/workshop2018-300x119.png 300w, /wp-content/uploads/2019/06/workshop2018-768x304.png 768w, /wp-content/uploads/2019/06/workshop2018.png 1428w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Getting the participants’ input on how to better explain the tax calculations was important but the workshop was particularly useful for raising awareness around citizens’ right to information with regards to public sector algorithms. </p>
+
+
+
+<h4 class="wp-block-heading"><strong>Perspective: public sector accountability and citizens</strong></h4>
+
+
+
+<p>So far, our department’s missions have been mainly focused on making sure public agencies meet their legal obligations. However, these obligations only make sense if they genuinely enable citizens to exert their rights, and if they result in a juster way to conduct public action. </p>
+
+
+
+<p>This raises crucial questions we want to keep exploring: who from outside the public sector should be involved in public sector algorithm accountability and at which step of the process? Secondly, where can and should citizens play a role? How can they help avoid the pitfall of “accountability-washing” and focus the discussion beyond the algorithm and on the public policies at stake? These questions call for broader reflection at two levels: first, nationally, by mobilizing civil society organizations, the media, human and digital rights NGOs, and research institutions while taking into consideration the local social, political and legal contexts. Secondly, through international collaborations with governments and organizations that have been working on these topics.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>« Signaux Faibles » : de l&#8217;open data camp à une politique publique fondée sur la donnée, récit d&#8217;un passage à l&#8217;échelle réussi</title>
+		<link>/signaux-faibles-de-lopen-data-camp-a-une-politique-publique-fondee-sur-la-donnee-recit-dun-passage-a-lechelle-reussi</link>
+		
+		<dc:creator><![CDATA[Sophie Miljkovic]]></dc:creator>
+		<pubDate>Thu, 04 Apr 2019 14:30:47 +0000</pubDate>
+				<category><![CDATA[intelligence artificielle]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10326</guid>
+
+					<description><![CDATA[Le projet « Signaux Faibles » permet, grâce à un outil de data science et d&#8217;intelligence artificielle, de détecter les entreprises fragilisées afin de mieux les accompagner. Initié en 2014 à une échelle très locale, son déploiement national a été entériné ce 3 avril 2019 grâce à la signature d&#8217;une convention par les partenaires historiques du projet. &#8230;<p class="read-more"> <a class="" href="/signaux-faibles-de-lopen-data-camp-a-une-politique-publique-fondee-sur-la-donnee-recit-dun-passage-a-lechelle-reussi"> <span class="screen-reader-text">« Signaux Faibles » : de l&#8217;open data camp à une politique publique fondée sur la donnée, récit d&#8217;un passage à l&#8217;échelle réussi</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p><strong>Le projet « Signaux Faibles »</strong> permet, grâce à un outil de <em>data science </em>et d&rsquo;intelligence artificielle, de détecter les entreprises fragilisées afin de mieux les accompagner.</p><p><strong>Initié en 2014 à une échelle très locale, son <a href="https://www.entreprises.gouv.fr/files/files/directions_services/politique-et-enjeux/competitivite/politique-industrielle/CRP/Dossier_Presse_-_Signaux_FaiblesVDEF.pdf" class="broken_link">déploiement national a été entériné ce 3 avril 2019</a></strong> grâce à la signature d&rsquo;une convention par les partenaires historiques du projet.</p><p><strong>Il devient ainsi la pierre angulaire d&rsquo;une politique publique nationale fondée sur les données.</strong></p></blockquote>
+
+
+
+<p><strong>50 à 60 000 entreprises sont chaque année en situation de défaillance</strong> : elles étaient 54 000 en 2018 <a href="https://www.banque-france.fr/statistiques/chiffres-cles-france-et-etranger/defaillances-dentreprises">selon la Banque de France</a>. Comment mieux anticiper ces fragilités pour intervenir plus en amont, éviter les liquidations autant que possible et mieux diriger l&rsquo;action de soutien de l&rsquo;Etat ?</p>
+
+
+
+<p>C&rsquo;est l&rsquo;objectif du projet « Signaux Faibles », initié localement et développé depuis 4 ans. Sa généralisation, officialisée le 3 avril, est le récit de <strong>:</strong></p>
+
+
+
+<ul><li>La<strong> possibilité de bâtir en 4 ans une politique publique fondée sur les données </strong>qui améliore l&rsquo;action de l&rsquo;État sur un sujet aussi majeur pour l&rsquo;économie ;</li><li>La complémentarité de <strong>l&rsquo;open data, de l&rsquo;échange de données entre administrations et de l&rsquo;exploitation des données à l&rsquo;aide de la data science ;</strong></li><li>La capacité de la direction interministérielle du numérique et du système d&rsquo;information de l&rsquo;État (DINSIC) à <strong>accompagner un projet tout au long de son développement</strong> &#8211; de l&rsquo;intuition d&rsquo;un expert métier au lancement d&rsquo;un service national &#8211; en articulant <strong>plusieurs dispositifs d&rsquo;innovation complémentaires </strong>(open data camp, EIG, start-ups d’État) et en alliant des compétences diverses (<em>datascientists</em>, développeurs, designers&#8230;) ;</li><li>L&rsquo;importance de partir<strong> d&rsquo;un besoin éprouvé sur le terrain </strong>et de<strong> miser sur les agents publics tout au long du processus</strong>.</li></ul>
+
+
+
+<h2 class="wp-block-heading">1. De l&rsquo;exploration des données ouvertes à la circulation des données entre administrations</h2>
+
+
+
+<p>Le projet Signaux Faibles naît en octobre 2014, à Mâcon, <a href="https://www.etalab.gouv.fr/retour-sur-le-1er-territoire-camp-en-bourgogne">lors d&rsquo;un « Territoire Camp » co-organisé par Etalab</a>. Cet « open data camp », inspiré des hackathons, a pour objectif de promouvoir l&rsquo;open data, en identifiant des projets issus du terrain et qui réutilisent des données ouvertes. A cette occasion, un agent statisticien de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l&#8217;emploi (DIRECCTE) de Bourgogne-Franche-Comté présente une idée : <strong>identifier les données utiles pour capter les « signaux faibles » envoyés par les entreprises fragilisées et développer un algorithme prédictif permettant d&rsquo;intervenir bien en amont pour mieux les accompagner.</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img loading="lazy" decoding="async" width="640" height="480" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/05/territoire-camp-macon.jpg" alt="" class="wp-image-10328" srcset="/wp-content/uploads/2019/05/territoire-camp-macon.jpg 640w, /wp-content/uploads/2019/05/territoire-camp-macon-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption><em>La naissance du projet Signaux Faibles lors du « Territoire Camp » à Mâcon</em></figcaption></figure></div>
+
+
+
+<p>Outre les données en open data et celles dont dispose la DIRECCTE, <strong>il apparaît rapidement que l&rsquo;information la plus utile réside dans des données détenues par plusieurs autres administrations </strong>: des données financières, qui apportent de la visibilité sur les tendances à long terme d&rsquo;une entreprise, des données sur l’emploi, qui permettent d&rsquo;identifier les baisses d&rsquo;activité ponctuelles, ou encore des données sur les cotisations sociales, qui alertent sur les tensions de trésorerie. <strong>Il faut également des compétences en </strong><em><strong>datascience</strong></em> pour comprendre les données et proposer un premier algorithme.</p>
+
+
+
+<h2 class="wp-block-heading">2. Prototyper et faire croître grâce aux dispositifs d&rsquo;innovation publique</h2>
+
+
+
+<p>Au sein de l’État, <strong>plusieurs dispositifs d&rsquo;innovation permettent de lancer et d&rsquo;accompagner des projets numériques à fort potentiel d&rsquo;impact</strong>. Le projet Signaux Faibles touche à la performance économique des entreprises françaises et présente un potentiel d&rsquo;impact fort. Il commence donc par devenir <a href="https://beta.gouv.fr/">une start-up d’État </a>: le projet a 6 mois pour développer une solution en mode agile et tester sa pertinence. Etalab, qui dispose d&rsquo;une petite équipe de <em>data scientists</em>, mobilise un de ses membres pour coder un premier algorithme en quelques mois. Ses résultats permettent de valider l&rsquo;hypothèse selon laquelle les méthodes de <em>machine learning</em> sont pertinentes.</p>
+
+
+
+<div class="wp-block-image"><figure class="alignleft is-resized"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/05/donnees-signaux-faibles.png" alt="" class="wp-image-10330" width="331" height="131" srcset="/wp-content/uploads/2019/05/donnees-signaux-faibles.png 731w, /wp-content/uploads/2019/05/donnees-signaux-faibles-300x119.png 300w" sizes="(max-width: 331px) 100vw, 331px" /></figure></div>
+
+
+
+<p>Le prototype ayant fait ses preuves, Signaux Faibles intègre le <a href="https://entrepreneur-interet-general.etalab.gouv.fr/">programme Entrepreneurs d&rsquo;Intérêt Général </a>en 2018, grâce auquel un <em>data scientist</em> et un développeur à temps plein sont recrutés pour une période de 10 mois. A ce stade, le projet s&rsquo;appuie sur une convention régionale de partage de données signée entre la DIRECCTE et l&rsquo;URSSAF. Pour aller plus loin, l&rsquo;équipe s&rsquo;adresse à la Banque de France pour obtenir des données financières précieuses. <strong>Cette phase essentielle permet de mettre autour de la table différents acteurs pour obtenir toutes les données nécessaires</strong>. Elles permettent ainsi d&rsquo;entraîner des algorithmes de <em>machine learning</em> et d&rsquo;aboutir à des résultats probants.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>L&rsquo;outil a été testé au cours de l&rsquo;année 2018. Bilan : 63 entreprises détectées, 48 entreprises contactées par les services de la DIRECCTE Bourgogne Franche Comté et 83% d&rsquo;entre elles accompagnées à ce jour.</p></blockquote>
+
+
+
+<h2 class="wp-block-heading">3. Généraliser un dispositif de politique publique</h2>
+
+
+
+<p>Le succès de l&rsquo;outil Signaux Faibles crée de l&rsquo;engouement. La demande est forte du côté des DIRECCTE d&rsquo;autres régions et encourage les acteurs engagés à étendre le dispositif à l&rsquo;échelle nationale. <strong>La signature d&rsquo;une convention de déploiement entre la Banque de France, la Direction générale des entreprises (DGE), le ministère du Travail, l&rsquo;Agence centrale des organismes de sécurité sociale (ACOSS) et la DINSIC rend ce passage à l&rsquo;échelle possible</strong>.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="768" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/05/signature-signaux-faibles-1024x768.jpg" alt="" class="wp-image-10329" srcset="/wp-content/uploads/2019/05/signature-signaux-faibles-1024x768.jpg 1024w, /wp-content/uploads/2019/05/signature-signaux-faibles-300x225.jpg 300w, /wp-content/uploads/2019/05/signature-signaux-faibles-768x576.jpg 768w, /wp-content/uploads/2019/05/signature-signaux-faibles.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>La signature de la convention de déploiement national de Signaux Faibles au BercyLab</em></figcaption></figure>
+
+
+
+<p>Par ailleurs, l&rsquo;équipe améliore l&rsquo;outil en général, et non plus seulement les algorithmes, en prévoyant l&rsquo;intégration de données sur les entreprises issues de <a href="https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret-fin-le-30-avril-2019/" class="broken_link">la base SIRENE </a>et de l&rsquo;<a href="https://api.gouv.fr/api/api-entreprise.html">API Entreprise</a>.</p>
+
+
+
+<p>Enfin, le projet a fait l&rsquo;objet d&rsquo;une semaine de « design intensif » avec les écoles Boulle et ENS-Cachan. <a href="https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/10/15/fing-algo.html" class="broken_link">Cette expérience, organisée par la Fondation Internet Nouvelle Génération (FING) </a>avait pour objectif d&rsquo;intégrer une réflexion design sur la relation entre l&rsquo;outil développé et ses utilisateurs (les DIRECCTE) et ses bénéficiaires finaux (les entreprises fragilisées). Le déploiement à l&rsquo;échelle nationale de l&rsquo;outil sera une occasion de mettre en œuvre certaines <a href="http://www.internetactu.net/2018/12/05/vers-des-algorithmes-exemplaires/">des idées proposées.</a></p>
+
+
+
+<blockquote class="wp-block-quote"><p>La généralisation de Signaux Faibles et l&rsquo;engagement de 5 administrations partenaires marque le succès de ce projet né il y a 4 ans.</p><p>Issu du terrain, il vise à améliorer l&rsquo;efficacité d&rsquo;une politique publique et a, dès sa conception, mobilisé l&rsquo;état de l&rsquo;art des méthodes (agilité, ouverture, utilisation des données), des compétences et des technos du numérique (datasciences, IA).</p><p>La complémentarité des dispositifs d&rsquo;innovation publique a permis de l&rsquo;accompagner du prototype au service public national.
+Bravo à tous ceux et celles qui y ont contribué !</p></blockquote>
+
+
+
+<p><strong>Pour en savoir plus sur le projet Signaux Faibles :</strong></p>
+
+
+
+<ul><li><a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/signauxfaibles.html" class="broken_link">voir le site du programme Entrepreneurs d&rsquo;Intérêt Général</a></li><li><a href="https://beta.gouv.fr/startups/signaux-faibles.html">voir le site des start-ups d&rsquo;État</a></li></ul>
+
+
+
+<p><strong>Pour en savoir plus sur le déploiement national de Signaux Faibles : </strong><a href="https://www.etalab.gouv.fr/wp-content/uploads/2019/04/Dossier_Presse_-_Signaux_FaiblesVDEF1.pdf" class="broken_link">télécharger le dossier de presse</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Intelligence artificielle : administrations, proposez vos projets d’expérimentation</title>
+		<link>/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentation%e2%80%89</link>
+		
+		<dc:creator><![CDATA[Paul-Antoine Chevalier]]></dc:creator>
+		<pubDate>Tue, 02 Apr 2019 14:35:21 +0000</pubDate>
+				<category><![CDATA[Annonces]]></category>
+		<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[AMI IA]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10333</guid>
+
+					<description><![CDATA[La DINSIC et la DITP lancent un second appel à manifestation d’intérêt pour expérimenter l&#8217;intelligence artificielle dans les administrations. Les administrations lauréates seront accompagnées par la DINSIC et la DITP pour développer un prototype fonctionnel et accompagner la transformation métier associée. Les administrations ont jusqu’au 31 mai 2019 pour déposer leur candidature.Administrations : téléchargez le &#8230;<p class="read-more"> <a class="" href="/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentation%e2%80%89"> <span class="screen-reader-text">Intelligence artificielle : administrations, proposez vos projets d’expérimentation</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p><em>La DINSIC et la DITP lancent un second appel à manifestation d’intérêt pour expérimenter l&rsquo;intelligence artificielle dans les administrations. Les administrations lauréates seront accompagnées par la DINSIC et la DITP pour développer un prototype fonctionnel et accompagner la transformation métier associée. Les administrations ont jusqu’au 31 mai 2019 pour déposer leur candidature.</em><a href="https://nextcloud.data.gouv.fr/s/BQJTqXaJQjPaaRa" class="broken_link">Administrations : téléchargez le cahier des charges</a> et <a href="https://www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle">candidatez en ligne</a>.</p></blockquote>
+
+
+
+<h3 class="wp-block-heading" id="Expérimenter-l’IA-pour-des-usages-concrets-d’amélioration-de-l’action-publique">Expérimenter l’IA pour des usages concrets d’amélioration de l’action publique</h3>
+
+
+
+<p>Mieux cibler les contrôles, faciliter le travail d&rsquo;inspection grâce à des algorithmes, extraire des informations structurées de textes en langage naturel pour détecter des tendances ou aider à la décision, détecter automatiquement des éléments identifiants dans un texte ou encore détecter automatiquement des éléments d&rsquo;intérêts dans des corpus d&rsquo;images : les usages de l&rsquo;intelligence artificielle dans l&rsquo;administration sont potentiellement nombreux. Suite au succès rencontré par le <a href="https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia">1er appel à manifestation d&rsquo;intérêt en 2018</a>, la DINSIC et la DITP lancent un second appel à manifestation d’intérêt auprès des administrations.</p>
+
+
+
+<p>Les lauréats bénéficieront d’un accompagnement technique piloté par la DINSIC pour développer un prototype fonctionnel et un accompagnement stratégique pour appréhender la transformation du métier associée aux technologies d’intelligence artificielle (diagnostic des impacts pour les agents dans leurs missions, puis accompagnement au changement) piloté par la DITP. Pour ce deuxième appel à manifestation d’intérêt, les projets techniquement plus exploratoires pourront bénéficier d’un accompagnement scientifique, via un partenariat avec un institut de recherche ou une entreprise innovante.</p>
+
+
+
+<h3 class="wp-block-heading" id="Sélection-des-projets--un-jury-et-des-critères-de-circulation-des-données-et-d’impact-peut-être-à-reformuler-mais-je-pense-qu’il-faut-éditorialiser">Sélection des projets : un jury et des critères d&rsquo;évaluation à la fois techniques et métier</h3>
+
+
+
+<p>Comme l’an passé, la DINSIC et la DITP mobiliseront un jury de personnalités pour auditionner et sélectionner les projets lauréats. Auparavant les équipes de la DINSIC et de la DITP procéderont à une présélection des projets. Le jury de personnalités qualifiées se réunira au début du mois de juillet et les lauréats seront annoncés à la mi- juillet.</p>
+
+
+
+<p><strong>Les projets seront évalués selon les sept critères suivants :</strong></p>
+
+
+
+<ul><li>Impact et bénéfices potentiels pour l’administration lauréate et ses usagers, liés à l’utilisation de l’IA sur le périmètre métier proposé ;</li><li>Pertinence de l’IA comme solution au problème identifié ;</li><li>Pertinence du défi technique ;</li><li>Composition de l’équipe d’agents publics impliqués dans le projet ;</li><li>Existence et accessibilité des données nécessaires ;</li><li>Intérêt de l’expérimentation pour tirer des enseignements qui dépassent le simple projet du candidat ;</li><li>Valeur ajoutée de l’accompagnement DINSIC DITP pour la réalisation du projet.</li></ul>
+
+
+
+<p><strong>La DINSIC et la DITP organisent une réunion d’information à destination des administrations le 16 avril 2019 à 14h00 au 20, avenue de Ségur.</strong></p>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://www.eventbrite.fr/e/billets-reunion-dinformation-ami-ia-experimenter-lia-dans-ladministration-59687455787" target="_blank" rel="noreferrer noopener">&gt;&gt; S&rsquo;inscrire à la réunion d’information du 16 avril &lt;&lt;</a></p></blockquote>
+
+
+
+<p>Pour toute question complémentaire, contactez l’équipe de l’AMI IA à l’adresse :</p>
+
+
+
+<p><a href="mailto:equipe-ami-ia@data.gouv.fr">equipe-ami-ia@data.gouv.fr</a></p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Un Lab IA positionné à la DINSIC</strong></p><p>Ce second appel à manifestation d&rsquo;intérêt constitue le première action du Lab IA annoncé lors du deuxième comité interministériel de la transformation publique (CITP) le 29 octobre 2018 pour accompagner les administrations dans le déploiement de leur projet d&rsquo;IA. Positionné au sein de la DINSIC, le Lab IA bénéficie d&rsquo;un financement du fonds transition numérique de l’Etat &#8211; modernisation de l’action publique (TNE-MAP) du programme d’investissement d’avenir (PIA) coordonné par le Secrétariat général pour l’investissement (SGPI) avec le concours financier de la Caisse des dépôts et consignations (CDC). Il sera présenté plus en détails dans les prochaines semaines.</p></blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Intelligence Artificielle : 6 projets lauréats de l&#8217;appel à manifestation d&#8217;intérêt IA !</title>
+		<link>/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia</link>
+		
+		<dc:creator><![CDATA[Paul-Antoine Chevalier]]></dc:creator>
+		<pubDate>Wed, 21 Nov 2018 18:22:05 +0000</pubDate>
+				<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[AMI IA]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[Intelligence Artificielle]]></category>
+		<category><![CDATA[Lab IA]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3006</guid>
+
+					<description><![CDATA[Mercredi 21 novembre 2018, le secrétaire d&#8217;Etat chargé du numérique, Mounir Mahjoubi, en présence du jury et des porteurs de projets, a dévoilé la liste des 6 lauréats du premier Appel à Manifestation d&#8217;Intérêt sur l&#8217;intelligence artificielle (IA). Les initiatives retenues couvrent une diversité de politiques publiques, de domaines d&#8217;applications de l&#8217;IA et concernent à &#8230;<p class="read-more"> <a class="" href="/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia"> <span class="screen-reader-text">Intelligence Artificielle : 6 projets lauréats de l&#8217;appel à manifestation d&#8217;intérêt IA !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Mercredi 21 novembre 2018, le secrétaire d&rsquo;Etat chargé du numérique, Mounir Mahjoubi, en présence du jury et des porteurs de projets, a dévoilé la liste des 6 lauréats du premier Appel à Manifestation d&rsquo;Intérêt sur l&rsquo;intelligence artificielle (IA). Les initiatives retenues couvrent une diversité de politiques publiques, de domaines d&rsquo;applications de l&rsquo;IA et concernent à la fois des administrations centrales et des services déconcentrés. Les administrations et projets sélectionnés sont les suivants :</p>
+<ul>
+<li style="text-align: left;"><strong>L&rsquo;ACOSS</strong> : développer un agent vocal conversationnel – voice-bot &#8211; pour répondre aux interrogations des utilisateurs du Chèque Emploi Associatif (CEA) ;</li>
+<li style="text-align: left;"><strong>L&rsquo;Office français de la biodiversité</strong> (OFB) : mieux orienter les contrôles de la police de l’environnement grâce à l&rsquo;IA ;</li>
+<li style="text-align: left;"><strong>L&rsquo;Autorité de sûreté nucléaire</strong> (ASN) : permettre une meilleure exploitation des données contenues dans les lettres de suite d’inspection ;</li>
+<li style="text-align: left;"><strong>Le CHU de Toulouse</strong> : optimiser la préparation des réunions de concertation pluridisciplinaire (RCP), application au cas d’usage des traitements post opératoires du cancer du poumon ;</li>
+<li style="text-align: left;"><strong>La Direction départementale des territoires et de la mer (DDTM) de l’Hérault</strong> : détecter automatiquement les irrégularités d’occupation des sols (constructions illégales, décharges sauvages, etc.) à partir d’images aériennes et satellites ;</li>
+<li style="text-align: left;"><strong>La Direction générale de l’alimentation (DGAL) du ministère de l’Agriculture et de l’Alimentation</strong> : affiner le ciblage des établissements à inspecter dans le secteur de la remise directe aux consommateurs (restaurants, métiers de bouche, distributeurs) grâce aux commentaires des consommateurs sur les sites d’avis en ligne.</li>
+</ul>
+<h2 lang="en-US" align="justify"><span style="color: #20163a;"><span style="font-size: x-large;"><b><span lang="fr-FR">Un appel à manifestation d’intérêt plébiscité</span></b></span></span></h2>
+<p style="text-align: justify;"><a href="https://www.etalab.gouv.fr/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentations">L&rsquo;AMI IA lancé le 14 juin dernier</a> s&rsquo;adressait aux administrations désireuses de développer le recours à l’intelligence artificielle (IA) pour l&rsquo;amélioration de leur action. Il s&rsquo;inscrit ainsi dans la <a href="http://www.elysee.fr/declarations/article/transcription-du-discours-du-president-de-la-republique-emmanuel-macron-sur-l-intelligence-artificielle/">stratégie nationale IA présentée par le Président de la République le 29 mars dernier au Collège de France</a>, stratégie dont l&rsquo;ouverture et l&rsquo;usage des données et la transformation publique constituent des axes majeurs.</p>
+<p style="text-align: justify;">Grâce à un financement du programme d&rsquo;investissement d&rsquo;avenir, Etalab à la DINSIC et la DITP accompagneront pendant 10 mois les lauréats de l&rsquo;AMI dans la réalisation d&rsquo;une preuve de concept (POC) et dans l&rsquo;étude de l&rsquo;impact métier potentiel de ce POC.</p>
+<p style="text-align: justify;"><a href="https://www.etalab.gouv.fr/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentations">L&rsquo;appel à manifestation d&rsquo;intérêt lancé le 14 juin 2018 </a>a rencontré un grand succès auprès des administrations, qui ont soumis 52 dossiers de candidatures. Ce succès témoigne à la fois de la volonté des administrations publiques de se saisir du potentiel de l&rsquo;intelligence artificielle et du besoin d&rsquo;accompagnement de ces mêmes administrations pour expérimenter ces méthodes. La variété des sujets proposés dans les dossiers de candidature donne à voir l’étendue du potentiel de l’IA dans l&rsquo;administration : amélioration de la relation usager, facilitation des processus métier, amélioration du ciblage des contrôles ou encore aide à la décision.</p>
+<h2 class="western" align="justify"><span style="color: #20163a;"><span style="font-size: x-large;"><b>Un jury pluridisciplinaire pour croiser les regards sur les dossiers</b></span></span></h2>
+<p style="text-align: justify;"><a href="https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia/photo1-1" rel="attachment wp-att-9301"><img loading="lazy" decoding="async" class=" wp-image-9301 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/Photo1-1-300x169.png" alt="Délibérations lors du jury de l'AMI IA du 17 octobre 2018" width="392" height="221" srcset="/wp-content/uploads/2018/11/Photo1-1-300x169.png 300w, /wp-content/uploads/2018/11/Photo1-1-768x432.png 768w, /wp-content/uploads/2018/11/Photo1-1.png 1000w" sizes="(max-width: 392px) 100vw, 392px" /></a></p>
+<p style="text-align: justify;">Suite à l’examen collégial des équipes DINSIC et DITP, les candidats présélectionnés ont été auditionnés devant un jury d’experts (entrepreneurs, chercheurs, acteurs publics) spécialisés en intelligence artificielle ou dans la transformation de l’action publique.</p>
+<p style="text-align: justify;">Les 12 membres du jury ont sélectionné les 6 projets lauréats en prenant en compte l’impact métier potentiel du projet, le défi technique proposé, la qualité de l&rsquo;équipe projet, la disponibilité et l&rsquo;accessibilité des données pertinentes et la prise en compte des risques éthiques liés au projet.</p>
+<p>Les six projets lauréats couvrent de <strong>n</strong><span style="color: #000000;"><strong>ombreux domaines de la sphère publique, dont deux des secteurs prioritaires identifiés par le Rapport Villani :</strong></span></p>
+<ul>
+<li>l&rsquo;environnement avec les projets de l&rsquo;Agence française pour la biodiversité et la direction départementale des territoires et de la mer ;</li>
+<li>la santé et le sanitaire avec les projets du CHU Toulouse et de la direction générale de l&rsquo;alimentation ;</li>
+<li>la sphère sociale avec le projet de l&rsquo;ACOSS ;</li>
+<li>la sûreté nucléaire avec le projet de l&rsquo;Autorité de sûreté nucléaire.</li>
+</ul>
+<p>Ils sont aussi représentatifs de <span style="color: #000000;"><strong>différents usages potentiels de l&rsquo;IA :</strong></span></p>
+<ul>
+<li>l&rsquo;aide au ciblage des contrôles ;</li>
+<li>l&rsquo;amélioration de la relation à l&rsquo;usager ;</li>
+<li>l’amélioration d’un processus métier.</li>
+</ul>
+<p>Enfin, ils font appel à un <strong><span style="color: #000000;">large ensemble de techniques d&rsquo;IA :</span></strong></p>
+<ul>
+<li>les méthodes de détection automatique d&rsquo;objets dans des images pour le projet de la direction départementale des territoires et de la mer ;</li>
+<li>les méthodes de compréhension naturelle et de synthèse vocale pour l&rsquo;agent conversationnel de l&rsquo;ACOSS ;</li>
+<li>les méthodes d&rsquo;extraction d&rsquo;informations de textes et de traitement automatique du langage pour les projets de l&rsquo;Autorité de sûreté nucléaire et du CHU de Toulouse.</li>
+</ul>
+<p style="text-align: justify;">Cet accompagnement permet de préfigurer l&rsquo;accompagnement proposé aux administrations par le <span style="color: #000000;"><strong>futur « Lab IA »</strong></span> annoncé lors du 2ème Comité interministériel de la transformation publique<a href="https://www.modernisation.gouv.fr/sites/default/files/dossier_de_presse_-_2eme_comite_interministeriel_de_la_transformation_publique_-_29_octobre_2018.pdf" class="broken_link">.</a> Installé au sein de la DINSIC et prenant appui sur les compétences d&rsquo;Etalab, <strong>ce Lab renforcera les capacités d’appui en datasciences et permettra aux administrations de bénéficier de l’état de l’art des technologies en matière d’IA, grâce à un réseau de chercheurs publics affiliés.</strong></p>
+<p style="text-align: justify;">Il constituera ainsi un point d’entrée privilégié pour le développement de collaborations entre recherche et secteur public. Le Lab IA fonctionnera en réseau avec les lieux d’innovation et d’expérimentation des ministères et opérateurs et animera la communauté des acteurs publics de l’IA.</p>
+<p style="text-align: justify;"><strong style="font-size: 1rem;"><a href="https://www.numerique.gouv.fr/uploads/ami-ia-laureats-dossier-presse.pdf">=&gt; Voir le dossier de presse détaillé et les fiches projets des lauréats</a></strong></p>
+<p><strong>=&gt; <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/Lab-IA-dossier_de_presse_-_2eme_comite_interministeriel_de_la_transformation_publique_-_29_octobre_2018.pdf" rel="attachment wp-att-9330">Voir la Fiche Lab IA dans le dossier de presse CITP d&rsquo;octobre 2018</a></strong></p>
+<p>=&gt; Voir la <a href="https://www.etalab.gouv.fr/datasciences-et-intelligence-artificielle">page du Lab IA</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

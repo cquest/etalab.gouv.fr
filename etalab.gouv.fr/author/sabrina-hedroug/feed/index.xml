@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sabrina Hedroug &#8211; Etalab</title>
+	<atom:link href="/author/sabrina-hedroug/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Fri, 29 Sep 2023 15:32:20 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Sabrina Hedroug &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Newsletter du programme 10% &#8211; Septembre 2023</title>
+		<link>/newsletter-du-programme-10-septembre-2023</link>
+		
+		<dc:creator><![CDATA[Sabrina Hedroug]]></dc:creator>
+		<pubDate>Fri, 29 Sep 2023 15:21:13 +0000</pubDate>
+				<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[Programme 10%]]></category>
+		<guid isPermaLink="false">/?p=17907</guid>
+
+					<description><![CDATA[La communauté interministérielle des talents de la data et de l&#8217;IA Rejoindre le programme 10% Lancé en 2022, le programme 10%, co-porté par la Dinum et l&#8217;Insee, est une collaboration inédite entre experts publics de la donnée et de l&#8217;IA sur des projets d&#8217;intérêt commun. Intégrer la communauté 10%, c&#8217;est aussi monter en compétence, échanger &#8230;<p class="read-more"> <a class="" href="/newsletter-du-programme-10-septembre-2023"> <span class="screen-reader-text">Newsletter du programme 10% &#8211; Septembre 2023</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-uagb-advanced-heading uagb-block-6f06addd"><h2 class="uagb-heading-text"><strong>La communauté interministérielle des talents de la data et de l&rsquo;IA </strong></h2></div>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Rejoindre le programme 10%</strong><strong></strong></td></tr><tr><td>Lancé en 2022, le programme 10%, co-porté par la <strong>Dinum</strong> et l&rsquo;<strong>Insee</strong>, est une collaboration inédite entre experts publics de la donnée et de l&rsquo;IA sur <strong>des projets d&rsquo;intérêt commun</strong>. Intégrer la communauté 10%, c&rsquo;est aussi monter en compétence, échanger entre pairs et partager des moments informels autour de valeurs communes.<br><br>En 2023, 7 projets font l&rsquo;objet d&rsquo;une collaboration :<br><strong>Transformers :</strong> une IA open-source pour l&rsquo;analyse de texte par les administrations.<br><strong>ChartsGouv :</strong> l&rsquo;outil de datavisualisation des données de l&rsquo;État.<br><strong>FormIAble :</strong> l&rsquo;outil pour aider les administrations à extraire des informations de documents difficilement exploitables.<br><strong>Cartiflette :</strong> un outil facilitant la réalisation de cartes géographiques grâce à la récupération de fonds de cartes produits par des acteurs publics.<br><strong>Impact environnemental :</strong> former à l&rsquo;impact environnemental et mesurer celui des projets 10%.<br><strong>PoufDoc :</strong> l&rsquo;outil pour aider les administrations dans leur production récurrente de rapports.<br><strong>Trouver mon expert data (TED) :</strong> le moteur de recherche les experts de la data de l&rsquo;État par organisations, missions et compétences.<br><br><strong>Vous êtes un expert de la data/IA en poste au sein de l&rsquo;Etat ? </strong>Vous avez envie de rejoindre un de ces projets ? Contactez-nous : <strong><a href="mailto:10pourcent.dinum@modernisation.gouv.fr">10pourcent.dinum@modernisation.gouv.fr</a></strong><br><strong>Rejoignez-nous sur le tchap du programme 10% :</strong> <a href="https://www.tchap.gouv.fr/#/room/#Programme10o8dLNp7HWV:agent.dinum.tchap.gouv.fr">https://www.tchap.gouv.fr/#/room</a><br><a href="https://www.tchap.gouv.fr/#/room/#Programme10o8dLNp7HWV:agent.dinum.tchap.gouv.fr">/#Programme10o8dLNp7HWV:agent.dinum.tchap.gouv.fr</a>&nbsp;<strong> (demande d&rsquo;invitation à <a href="mailto:sabrina.hedroug@modernisation.gouv.fr">sabrina.hedroug@modernisation.gouv.fr</a>)</strong></td></tr></tbody></table></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>Zoom sur un projet 10% : Chartsgouv</strong></h2>
+
+
+
+<div class="wp-block-uagb-image uagb-block-19825df6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="/wp-content/uploads/2023/09/Quentin-Leroy.jpg " sizes="(max-width: 480px) 150px" src="/wp-content/uploads/2023/09/Quentin-Leroy.jpg" alt="" class="uag-image-17909" width="198" height="198" title="" loading="lazy"/></figure></div>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><em><strong>Rédaction :</strong></em><strong> Quentin Leroy, datascientist au ministère de l&rsquo;Intérieur</strong></td></tr><tr><td><br>Le projet <strong>ChartsGouv</strong> est né de l&rsquo;envie de <strong>proposer un cadre cohérent à la valorisation et la visualisation de données pour les agents de l&rsquo;Etat</strong>, en se basant sur un outil existant <strong>open source</strong> de référence que l&rsquo;on peut personnaliser et faire évoluer pour les besoins de l&rsquo;administration.<br><strong>Superset, </strong>créé par le français Maxime Beauchemin (également à l&rsquo;origine d&rsquo;Airflow !), est passé sous la gouvernance de la fondation Apache en 2017, et est développé et maintenu par des ingénieurs d&rsquo;Airbnb, Lyft, Apple&#8230; et utilisé par tant d&rsquo;autres (<a href="https://github.com/apache/superset/blob/master/RESOURCES/INTHEWILD.md">https://github.com/apache/superset/blob/master/RESOURCES/INTHEWILD.md</a>).<br><br>Superset présente l&rsquo;avantage de<strong> se connecter à tout type de sources de données et rend faisable la conception de graphiques, de filtres et de tableaux de bord pour des utilisateurs non techniques.</strong><br>Nous avons réuni <strong>une communauté d&rsquo;entraide et de partage autour de Superset</strong>, <strong>ses fonctionnalités cachées et ses possibilités de personnalisation et d&rsquo;évolution.</strong><br>Grâce à DuckDB, nous avons montré que Superset pouvait directement ingérer les fichiers CSV ou Parquet hébergés sur data.gouv.fr, sans avoir besoin de les télécharger ou d&rsquo;utiliser une chaîne de traitement de données, ce qui facilite la valorisation directe des données.<br>Nous avons pu travailler collaborativement sur ce sujet grâce à <strong>notre plateforme Superset sur le SSPCloud de l&rsquo;Insee</strong> (<a href="https://chartsgouv.lab.sspcloud.fr/superset/dashboard/dgafp">https://chartsgouv.lab.sspcloud.fr/superset/dashboard/dgafp</a>), qui comprend un début du theming de l&rsquo;interface aux couleurs de l&rsquo;Etat avec le DSFR.<br>Nous avons mis en place <strong>une plateforme de documentation</strong> (<a href="https://etalab-ia.github.io/chartsgouv/" class="broken_link">https://etalab-ia.github.io/chartsgouv/</a>) pour détailler dans des articles des solutions à des problemes récurrents comme l&#8217;embedding de charts dans un site externe, le templating de requêtes SQL avec Jinja, l&rsquo;installation et la configuration initiale&#8230; Les contributions sont les bienvenues ! Et nous sommes encore à la recherche de cas d&rsquo;usage ! (contact : <a href="mailto:quentin.leroy@interieur.gouv.fr">quentin.leroy@interieur.gouv.fr</a>)<br><br><strong>Liens utiles :<br><br></strong> <strong>Instance ChartsGouv sur le SSPCloud : <a href="https://chartsgouv.lab.sspcloud.fr/superset/dashboard/dgafp">https://chartsgouv.lab.sspcloud.fr/superset/dashboard/dgafp</a></strong> <strong>Repo github : <a href="https://github.com/etalab-ia/chartsgouv">https://github.com/etalab-ia/chartsgouv</a></strong> <strong>Site de documentation : <a href="https://etalab-ia.github.io/chartsgouv/" class="broken_link">https://etalab-ia.github.io/chartsgouv/</a></strong> <strong>Replay du passage à Datarama : <a href="https://www.youtube.com/watch?v=xvrr5X70puo&amp;t=22648s">https://www.youtube.com/watch?v=xvrr5X70puo&amp;t=22648s</a></strong></td></tr></tbody></table></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>Appel à contributions !</strong></h2>
+
+
+
+<div class="wp-block-uagb-image uagb-block-8f7b4136 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="/wp-content/uploads/2023/09/Clement-1.jpg " sizes="(max-width: 480px) 150px" src="/wp-content/uploads/2023/09/Clement-1.jpg" alt="" class="uag-image-17910" width="195" height="195" title="" loading="lazy"/></figure></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-table"><table><tbody><tr><td><em><strong>Rédaction :</strong></em><strong>Clement Guenais, data urbanist au ministère de l&rsquo;Intérieur</strong></td></tr><tr><td>Le projet Trouver mon Expert data (TED)&nbsp; est un des 7 projets 10% de la saison 2<strong>. Son objectif : mettre en place un outil de mise en relation entre services par les experts de la donnée.</strong><br>Vous souhaitez découvrir un service, trouver un pair dans une administration, savoir qui s&rsquo;occupe d&rsquo;accessibilité ou organiser une communauté data dans votre organisation<strong> ? Venez aider le projet&nbsp; en nous indiquant simplement votre fiche de poste et votre service depuis lannuaire.service-public.fr.</strong><br><br><strong>Vous êtes un expert de la data au sein d&rsquo;une administration ? Aidez-vous en répondant à ce questionnaire : <a href="https://framaforms.org/participer-a-trouver-mon-expertise-data-un-projet-du-programme-10-pour-cent-1686903329" class="broken_link">https://framaforms.org/participer-a-trouver-mon-expertise-data-un-projet-du-programme-10-pour-cent-1686903329</a></strong></td></tr></tbody></table></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>Portrait de participant 10%</strong></h2>
+
+
+
+<div class="wp-block-uagb-image uagb-block-7756f45b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="/wp-content/uploads/2023/09/Thomas-Grandjean.jpg " sizes="(max-width: 480px) 150px" src="/wp-content/uploads/2023/09/Thomas-Grandjean.jpg" alt="" class="uag-image-17911" width="200" height="253" title="" loading="lazy"/></figure></div>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Thomas Grandjean : ingénieur de l&rsquo;Agriculture et de l&rsquo;Environnement, Dreal Hauts-de-France. <br><br>Quel est ton parcours ?<br></strong>Je suis ingénieur en eau et environnement. J&rsquo;ai débuté ma carrière dans l&rsquo;ingénierie publique, puis je suis parti en service régalien (en police de l&rsquo;eau). Au cours de cette période, j&rsquo;ai rapidement pris conscience de l&rsquo;importance cruciale de l&rsquo;accès à l&rsquo;information environnementale. Il y avait de nombreux problèmes liés aux systèmes d&rsquo;information géographique et au partage des données, ce qui a suscité mon intérêt pour divers sujets à cette époque.<br>Rapidement, nous avons constaté la nécessité d&rsquo;utiliser Python pour effectuer des traitements larges de données spatiales. Par la suite, j&rsquo;ai changé de poste et j&rsquo;ai rejoint la DREAL nord Pas-de-Calais (Direction Régionale de l&rsquo;Environnement, de l&rsquo;Aménagement et du Logement) où j&rsquo;ai occupé un poste de vulgarisation scientifique axé sur l&rsquo;environnement. Nous avons été confrontés à d&rsquo;importants défis liés aux données et à la fusion de bases de données existantes, tant du côté de la Picardie que du Nord-Pas-de-Calais.<br>Sur certains sujets, nous nous sommes retrouvés avec d&rsquo;énormes volumes de données qui étaient devenues difficilement exploitables avec nos outils d&rsquo;alors. C&rsquo;est ainsi que je me suis totalement acculturé à python (que je pratique presque quotidiennement depuis).<br>Progressivement, avec python on a appuyé des services métiers sur tous les sujets, en dérivant très clairement du poste tel qu&rsquo;il a été fléché au départ. Cela m&rsquo;a amené à traiter beaucoup de jeux de données différents sur des champs de compétences très variés (web, statistique, datavisualisation, bases de données, cartographie&#8230;).<strong>Pourquoi avoir choisi le domaine de l&rsquo;environnement? <br></strong>Mon engagement dans le domaine environnemental découle d&rsquo;une conviction personnelle. À l&rsquo;origine, j&rsquo;ai été formé au ministère de l&rsquo;Agriculture mais sur des thématiques portées par le ministère de l&rsquo;Environnement, et j&rsquo;ai choisi de continuer à évoluer dans ce domaine. Puis, comme je l&rsquo;ai dit précédemment, la gestion des données a commencé à devenir un aspect important de mon travail. Typiquement, lorsque vous recevez un dossier détaillant les impacts d&rsquo;un projet, il est essentiel de pouvoir croiser les informations pour déterminer si vous vous trouvez dans des zones naturelles présentant des intérêts spécifiques, identifier les cours d&rsquo;eau à proximité, etc.. Ainsi, la gestion de bases de données géographiques est devenue un enjeu majeur, et cela constituait une nouveauté au sein des services à l&rsquo;époque.<br>Historiquement, les équipes SIG (Systèmes d&rsquo;Informations Géographiques) utilisaient des outils sous licence tels que MapInfo, mais une transition vers des solutions open source a complètement chamboulé le système avec l&rsquo;arrivée de QGIS, en permettant le traitement des données au sein des services métiers. Tout cela nous a incité à développer nos compétences dans ce domaine.<br>Et puis, les réorganisations de l&rsquo;Etat étant ce qu&rsquo;elles sont, je me suis vite rendu compte que booster le numérique permettait de pallier une partie des réductions d&rsquo;effectifs. Nous avons donc entrepris d&rsquo;automatiser autant que possible nos processus, afin de maximiser notre efficacité avec les ressources qui nous restaient.<br><strong>Sur quel projet travailles-tu actuellement ?<br></strong>J&rsquo;occupe mon poste actuel depuis environ 8 ans. Aujourd&rsquo;hui, je travaille principalement sur un projet appelé « Mission Connaissance » qui s&rsquo;inspire du fonctionnement de l&rsquo;Insee avec ses pôles thématiques dans chaque direction. Il a été lancé par la direction centrale, plus précisément par la partie CGDD (Commissariat Général au Développement Durable) du ministère.<br>Le constat de départ était que les services connaissance des DREAL avaient beaucoup de sujets à couvrir mais que ces projets étaient dispersés et que chaque service développait ses propres outils. Lorsqu&rsquo;il s&rsquo;agissait de mettre en place des solutions à plus grande échelle, cela devenait problématique en raison de cette fragmentation. En réponse, le ministère a proposé aux services déconcentrés de se recentrer sur des thématiques spécifiques lors d&rsquo;un appel à manifestation d&rsquo;intérêt. Nous avons répondu à cet appel en nous positionnant sur le domaine de l&rsquo;eau et des rejets polluants. D&rsquo;autres services ont choisi les énergies renouvelables, la rénovation de l&rsquo;habitat, la gestion du foncier, les mobilités durables et l&rsquo;appui aux productions reproductibles. Des réflexions sont aussi en cours sur la gestion quantitative de l&rsquo;eau, l&rsquo;usage des drones ou de la donnée satellitaire.<br>Cette mission nous a aussi amené à échanger avec d&rsquo;autres acteurs (habituels pour les DREAL, mais moins connu des services « connaissance ») : des établissements publics tels que les agences de l&rsquo;eau, des collectivités.<br>Nous travaillons sur ce projet depuis environ 2 ans, dont une année a été consacrée principalement au prototypage, et depuis environ une année, le projet a été validé.<br><br><strong>Est-ce que tu penses qu&rsquo;être un expert sur un territoire dans ton domaine est plus complexe qu&rsquo;être un expert en administration centrale ?</strong><br>Traditionnellement au sein des DREAL, il y a deux branches distinctes de la donnée : la partie statistique (plutôt outillée en langage R et appuyée par des agents issus de l&rsquo;INSEE) et la partie systèmes d&rsquo;information géographique (parfois outillée en python, parfois en R, parfois uniquement avec des outils métier spécialisés). Sorti de ces deux métiers, il n&rsquo;y a qu&rsquo;assez peu de spécialisation dans nos services et les compétences pointues sont rares. Cela nous amène à être des « data couteaux suisses ». Nous nous retrouvons à travailler sur des domaines très variés, sans doute plus que des experts très spécialisés en administration centrale.<br>La Mission Connaissance est une opportunité intéressante, car elle nous a accordé des ressources supplémentaires et nous a permis de collaborer avec des prestataires externes DevOps qui nous ont réellement apporté des connaissances. Pour autant, notre approche restera encore longtemps différente de l&rsquo;administration centrale, dans le sens où nous ne sommes pas près d&rsquo;avoir ces spécialistes (DevOps, DataScientist, DataEngineer) dans nos services. En administration centrale, ces postes commencent à être présents, ce qui permet d&rsquo;atteindre une expertise collective. A notre niveau, notre rôle demande une plus grande polyvalence.<br>Un autre sujet qui nous occupe beaucoup (et qui nous différencie aussi de la centrale) c&rsquo;est la manière de récupérer des données. Nous sommes confrontés quotidiennement à des services métiers qui enregistrent leurs données dans des applications centralisées (qui n&rsquo;ont parfois même pas de système d&rsquo;export des données). Là où une administration centrale négociera plus ou moins facilement l&rsquo;accès à une base intégrale (à plus ou moins long terme), nous sommes contraints d&rsquo;effectuer de nombreuses opérations de scraping. Ce n&rsquo;est bien sûr pas idéal, mais ces opérations restent malheureusement incontournables pour récupérer certaines données.<br><strong>Au sein du programme 10%, tu travailles sur le projet Cartiflette ? En quoi consiste ce projet et pourquoi l&rsquo;as-tu choisi ? <br></strong>Cartiflette est un outil facilitant la réalisation de cartes grâce à la récupération de fonds de plans produits par des acteurs publics. Il y avait de nombreux sujets qui m&rsquo;intéressaient dans les projets, comme la datavisualisation, par exemple. Mais il a fallu que je me focalise, et je pense que la cartographie était peut-être le domaine où je pouvais apporter le plus directement ma contribution. Les problèmes qui avaient été exposés, tels que la récupération des fonds de plan, leur agrégation, la gestion du snapping et des géométries qui ne se superposent pas bien, sont des défis que j&rsquo;ai rencontrés et que je continue à rencontrer.<strong><br><br>Comment as-tu connu le programme 10% et pourquoi l&rsquo;as-tu rejoint ? <br></strong>J&rsquo;ai découvert les principes de ce qui n&rsquo;était pas (encore) le programme 10 % dans le rapport DINUM sur l&rsquo;évaluation des besoins de l&rsquo;État en compétences et expertises en matière de donnée. Un peu plus tard, j&rsquo;ai donné quelques formations sur la donnée publique à l&rsquo;IRA de Lille ; cela a été l&rsquo;occasion de rechercher des sources pour documenter mon cours. En parcourant le site d&rsquo;ETALAB, j&rsquo;ai découvert que la recommandation du rapport avait été concrétisée (et que j&rsquo;avais d&rsquo;ailleurs raté la première saison). Le programme m&rsquo;a semblé très attrayant, d&rsquo;autant plus que, comme je l&rsquo;ai mentionné, nous nous posions de nombreuses questions sur les compétences qui nous faisaient défaut au sein des services déconcentrés.<br>J&rsquo;en ai aussi entendu parler en parallèle par des collègues de la DREAL Pays-de-la-Loire qui avaient rejoint la première saison.<br>Pour ma part, j&rsquo;y suis venu initialement pour découvrir ce qui se passait, car je ne suis pas un data scientist et le programme était clairement axé sur l&rsquo;intelligence artificielle. Cependant, j&rsquo;ai rapidement trouvé ma place dans le programme.<br>Ce programme est très intéressant pour nous, car il nous permet de collaborer avec des profils très différents de ceux que l&rsquo;on trouve généralement au sein des services déconcentrés. De plus, il offre l&rsquo;accès à des masterclass et à d&rsquo;autres initiatives que nous avons du mal à trouver ailleurs. Par exemple, les sujets liés à la formation en intelligence artificielle sont rares, voire inexistants, au sein des services déconcentrés (même si cela commence à changer). Étant relativement isolés dans notre bulle au sein des services déconcentrés, il est vraiment intéressant de pouvoir échanger avec d&rsquo;autres ministères. Cela nous permet de rencontrer d&rsquo;autres personnes, de découvrir d&rsquo;autres services, d&rsquo;observer différentes organisations et compétences, et de développer notre réseau. En fin de compte, je suis très satisfait du programme.<br></td></tr></tbody></table></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>Regard sur un projet ministériel</strong> : <strong>predNatinf</strong></h2>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><img decoding="async" src="https://info.etalab.gouv.fr/i/6627/700147095/24778/51306/1182/7c8bafc0" width="200"> <strong>Daphné Pertsekos, datscientist à la Gendarmerie nationale</strong><strong><br><br>Que cherche-t-on à résoudre avec la solution predNatinf&nbsp;?<br></strong>Lorsqu&rsquo;un gendarme traite un dossier de police judiciaire, il doit décrire les événements marquants de l&rsquo;affaire et qualifier les infractions (natinf) relatées, parmi près de 20000 items. Il est difficile de tout garder à l&rsquo;esprit, surtout qu&rsquo;elle se distinguent parfois par de subtiles nuances. Le recours à un moteur de recherche intelligent se révèle dès lors indispensable.<strong><br><br>Qu&rsquo;apporte la solution du datalab&nbsp;?<br></strong>Le moteur de recherche développé au datalab repose sur un LLM (Large Language Model), c&rsquo;est à dire un modèle d&rsquo;intelligence artificielle pré-entraîné sur des textes en français. En l&rsquo;affinant sur notre corpus de données, le datalab a été capable de fournir un moteur de recherche qui prend en compte la proximité sémantique des mots, de sorte que les gendarmes peuvent désormais fournir une brève description des faits pour retrouver l&rsquo;intitulé de l&rsquo;infraction.<strong><br><br>Concrètement, ça donne quoi&nbsp;?<br></strong>La requête du gendarme pourrait ressemble à ceci&nbsp;:<br>«L&rsquo;agresseur a donné de nombreux coups de pied dans les jambes de la victime. Celle-ci a une fracture du tibia à la jambe droite. Le médecin légiste prévoit une ITT de 5 jours.»<br><br>Dans cet exemple, le 1er résultat retourné est «violence ayant entrainé une incapacité de travail n&rsquo;excédant pas 8 jours», mais si on change simplement le nombre de jours d&rsquo;ITT de 5 à 25 par exemple, le 1er résultat devient «violence suivie d incapacité supérieure a 8 jours», comme si le modèle maîtrisait les bases de l&rsquo;arithmétique&nbsp;!<strong><br><br>Cette nouveauté aura-t-elle un gros impact ?<br></strong>La gendarmerie rédige près de 1,5 millions de compte-rendus de PJ chaque année. Une classification juste dès le début de la procédure permet d&rsquo;orienter les auditions dans la bonne direction, et éventuellement de profiter des aides méthodologiques fournies pour certaines infractions. Cela facilite également le travail de la justice, et améliore la qualité des données dans nos bases.</td></tr></tbody></table></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>Focus sur des initiatives data dans les territoires</strong></h2>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong>DATAcculturation porté par le SGAR Auvergne Rhône-Alpes</strong><br><strong>Lancé en 2021 par le SGAR Auvergne Rhône-Alpes, DATAcculturation est un dispositif pédagogique et convivial permettant de sensibiliser les agents publics à la donnée et l&rsquo;open data.</strong> Aujourd&rsquo;hui, DATAacculturation, c&rsquo;est un kit composé de supports (vidéos et guide) disponibles en libre accès pour permettre à chaque agent de les consulter et de se les approprier.<br><br><strong>Le kit DATAcculturation :</strong><br>&#8211; 5 vidéos courtes et explicatives : <a href="https://www.youtube.com/playlist?list=PLXxI21OaojJyAwX-Tg1m-z4NYKx11cJ3l" class="broken_link">https://www.youtube.com/playlist?list=PLXxI21OaojJyAwX-Tg1m-z4NYKx11cJ3l</a><br>&#8211; un guide de sensibilisation<br>&#8211; un format innovant et interactif : les cafés de la data : <strong>e</strong>n 15, 30 ou 60 minutes, acculturez-vous et vos collègues à la donnée et à l&rsquo;open data ! Grâce à des déroulés d&rsquo;animation clés en main, vous pouvez organiser un café de la data dans toutes les administrations. Rejoignez les plus de 200 agents publics déjà sensibilisé.e.s : <a href="https://macarte.ign.fr/carte/hN4KIx/Cafes-de-la-data-organises-et-a-venir-">https://macarte.ign.fr/carte/hN4KIx/Cafes-de-la-data-organises-et-a-venir-</a><br>Nouveauté : les cafés de la data se déclinent en visio, pour faciliter leur organisation et la participation des agents partout sur le territoire!<br><br><strong>Pour en savoir plus : écrire à <a href="mailto:justine.sperandio-martinez@ara.gouv.fr">justine.sperandio-martinez@ara.gouv.fr</a></strong><br><strong>Rejoindre le fil Tchap DATAcculturation :</strong> <a href="https://tchap.gouv.fr/#/room/#DATAcculturationfildactualitduprojethcj8dHyW0N8:agent.interieur.tchap.gouv.fr">https://tchap.gouv.fr/#/room/#DATAcculturationfildactualitduprojethcj8dHyW0N8:agent.interieur.tchap.gouv.fr</a><br><strong>Recensez-vous prochainement sur le site du laboratoire d&rsquo;innovation publique Archipel</strong> : <a href="https://lab-archipel.fr/projet/datacculturation/">https://lab-archipel.fr/projet/datacculturation/</a><br><br><strong>DATA ETAT Bretagne lance un nouveau service cartographique : VisuTerritoires</strong><br><strong>Dans le cadre de sa feuille de route de la donnée de l&rsquo;État en Bretagne et de ses usages, le projet «&nbsp;DATA ETAT&nbsp;»&nbsp;</strong> a été lauréat du plan de Relance fin 2022 pour <strong>expérimenter une nouvelle infrastructure de partage et de réutilisation de la donnée de l&rsquo;État</strong>. Le SGAR Bretagne avec la DREAL (démarche GéoBretagne) et le GIP SIB (dont le Préfet est membre) ont mis en production la solution en 2022 pour servir tous les profils des agents de l&rsquo;administration territoriale de l&rsquo;État&nbsp;:<br>&#8211;<strong> tous les agents décisionnels, métiers, instructeurs</strong>&#8230; avec des solutions clefs en main pour leur faciliter l&rsquo;accès et la manipulation des données importantes locales et nationales qui ne leur sont normalement pas accessibles directement&nbsp;;<br>&#8211; <strong>les experts de la donnée</strong> (statisticiens, géomaticiens, chargés d&rsquo;études&#8230;) qui accèdent à des outils avancés et préconfigurés pour faciliter et réduire leur temps d&rsquo;accès aux données, leurs analyses et valorisation&nbsp;;<br>&#8211; <strong>les développeurs et Tech</strong> pour leur donner un environnement de travail simplifié, ouvert et souverain de l&rsquo;État pour (co)développer des solutions liées à la donnée&nbsp;;<br>La première application «&nbsp;Budget.DATAETAT&nbsp;» (<a href="https://budget.databretagne.fr/">https://budget.databretagne.fr/</a>) est opérationnelle avec des données CHORUS de 2019 à 2023 et de l&rsquo;ADEME (depuis 2020) qui sont actualisées tous les mois en lien avec la DRFIP/ CBR. <strong>La solution permet pour un département et jusqu&rsquo;à la commune de voir les financements par BOP ou multi BOPs sur une période choisie et de générer un tableau de suivi dynamique</strong> qui peut être enregistré dans son profil pour suivre ses évolutions (Il est possible de partager ces tableaux avec d&rsquo;autres utilisateurs disposant d&rsquo;un compte sur DATA.ETAT). Elle permet aussi de rechercher un bénéficiaire (achat public, subvention&#8230;) et de voir sur la période choisie et les BOPs sélectionnés l&rsquo;ensemble des financements État obtenus.<br>Grâce à l&rsquo;interconnexion de ces données avec DATA-Subvention ou Démarches Simplifiées, il est aussi possible d&rsquo;avoir le détail qualitatif de nombreuses opérations (subventions associatives, dotations aux collectivités&#8230;). &nbsp;En effet, DATA Subvention&nbsp;» est pleinement intégré dans la solution Budget.DATAETAT, la diffusion dans les services de Budget.DATAETAT permet directement l&rsquo;extension de l&rsquo;utilisation des données produites et valorisées par DATA.Subvention.<br><br>Le projet est suivi par le national (DINUM / DTNUM MIOM) et peut être étendu dans de nouvelles régions. DATA-ETAT vise aussi à <strong>libérer des données en OPEN-DATA</strong> et les valoriser via la cartographie interactive et les DATAVIZ. En septembre, <strong>un premier service cartographique qui répond à ces usages pour croiser des données de territoires avec les données budgétaires de l&rsquo;État et ses opérateurs est lancé</strong> : <strong>«&nbsp;VisuTerritoires&nbsp;»&nbsp;:</strong> <a href="https://geobretagne.fr/app/visuterritoire">https://geobretagne.fr/app/visuterritoire</a><br>VisuTerritoire fait partie de la gamme de services databretagne.fr qui offre aux agents de l&rsquo;État en Bretagne un accès simple et direct aux données de pilotage des politiques publiques. Il donne un accès cartographique aux données financières de l&rsquo;État en Bretagne : montants engagés, montants payés, par programme budgétaire et par territoire. <strong>Ce service permettra aux agents et aux services de facilement valoriser des données budgétaires de l&rsquo;État par une visualisation géographique</strong></td></tr></tbody></table></figure>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong>L&rsquo;administration recrute des experts de la donnée !</strong></td></tr><tr><td><br>﻿<strong>La brigade d&rsquo;intervention numérique de la Dinum recherche un architecte data : </strong><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/architecte-data-hf-reference-2023-1284387/">https://choisirleservicepublic.gouv.fr/offre-emploi/architecte-data-hf-reference-2023-1284387/</a><strong><br><br>La DGDDI recherche un data analyst : </strong><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/dgddi---dnred----data-analyst-cat-a-hf-reference-MEF_2023-9750/">https://choisirleservicepublic.gouv.fr/offre-emploi/dgddi&#8212;dnred&#8212;-data-analyst-cat-a-hf-reference-MEF_2023-9750/</a> et un datascientist : <a href="https://choisirleservicepublic.gouv.fr/offre-emploi/dgddi---dnred----data-scientist-cat-a-hf-reference-MEF_2023-9749/">https://choisirleservicepublic.gouv.fr/offre-emploi/dgddi&#8212;dnred&#8212;-data-scientist-cat-a-hf-reference-MEF_2023-9749/</a><strong><br><br>La cellule numérique de la DGCCRF recherche un datascientist : </strong><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/data-scientist-au-sein-de-la-cellule-numerique-du-service-national-des-enquetes-hf-reference-MEF_2023-10118/">https://choisirleservicepublic.gouv.fr/offre-emploi/data-scientist-au-sein-de-la-cellule-numerique-du-service-national-des-enquetes-hf-reference-MEF_2023-10118/</a><strong><br><br>La DGFIP recherche un datascientist expert : </strong><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/si2---data-scientist-expert-hf-reference-MEF_2023-12815/">https://choisirleservicepublic.gouv.fr/offre-emploi/si2&#8212;data-scientist-expert-hf-reference-MEF_2023-12815/</a></td></tr></tbody></table></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Programme 10% &#8211; Newsletter du mois de juillet 2023</title>
+		<link>/programme-10-newsletter-du-mois-de-juillet-2023</link>
+		
+		<dc:creator><![CDATA[Sabrina Hedroug]]></dc:creator>
+		<pubDate>Fri, 07 Jul 2023 07:50:43 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Programme 10%]]></category>
+		<guid isPermaLink="false">/?p=17577</guid>
+
+					<description><![CDATA[Rejoindre le programme 10% Lancé en 2022, le programme 10%, porté par la Dinum en lien avec l&#8217;Insee, est une collaboration inédite entre experts publics de la donnée et de l&#8217;IA sur des projets d&#8217;intérêt commun. Intégrer la communauté 10%, c&#8217;est aussi monter en compétence, échanger entre pairs et partager des moments informels autour de &#8230;<p class="read-more"> <a class="" href="/programme-10-newsletter-du-mois-de-juillet-2023"> <span class="screen-reader-text">Programme 10% &#8211; Newsletter du mois de juillet 2023</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading"><strong>Rejoindre le programme 10% </strong></h2>
+
+
+
+<p>Lancé en 2022, le programme 10%, porté par la <strong>Dinum</strong> en lien avec l&rsquo;<strong>Insee</strong>, est une collaboration inédite entre experts publics de la donnée et de l&rsquo;IA sur <strong>des projets d&rsquo;intérêt commun</strong>. Intégrer la communauté 10%, c&rsquo;est aussi monter en compétence, échanger entre pairs et partager des moments informels autour de valeurs communes.<br><br>En 2023, 8 projets font l&rsquo;objet d&rsquo;une collaboration :<br><strong>Transformers :</strong> une IA open-source pour l&rsquo;analyse de texte par les administrations.<br><strong>ChartsGouv :</strong> l&rsquo;outil de datavisualisation des données de l&rsquo;État.<br><strong>Datanonyme</strong> : l&rsquo;outil pour aider les administrations à anonymiser leurs données.<br><strong>FormIAble :</strong> l&rsquo;outil pour aider les administrations à extraire des informations de documents difficilement exploitables.<br><strong>Cartiflette :</strong> un outil facilitant la réalisation de cartes géographiques grâce à la récupération de fonds de cartes produits par des acteurs publics.<br><strong>Impact environnemental :</strong> former à l&rsquo;impact environnemental et mesurer celui des projets 10%.<br><strong>PoufDoc :</strong> l&rsquo;outil pour aider les administrations dans leur production récurrente de rapports.<br><strong>Trouver mon expert data (TED) :</strong> le moteur de recherche les experts de la data de l&rsquo;État par organisations, missions et compétences.<br><br><strong>Vous êtes un expert de la data/IA en poste au sein de l&rsquo;Etat ? </strong>Vous avez envie de rejoindre un de ces projets ? Vous avez une idée de projet d&rsquo;intérêt commun répliquable à d&rsquo;autres ministères ?<br>Contactez-nous : <strong>10pourcent.dinum@modernisation.gouv.fr</strong><br>Pour en savoir plus : https://www.10pourcent.etalab.gouv.fr/</p>
+
+
+
+<div class="wp-block-uagb-separator uagb-block-66b97f1b"><div class="wp-block-uagb-separator__inner" style="--my-background-image:"></div></div>
+
+
+
+<h2 class="wp-block-heading"><strong>Portraits 10%</strong></h2>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">					<div
+						class="wp-block-uagb-image-gallery uagb-block-29d50fbe     "
+						style=""
+					>
+											<div class="spectra-image-gallery spectra-image-gallery__layout--grid spectra-image-gallery__layout--grid-col-2 spectra-image-gallery__layout--grid-col-tab-2 spectra-image-gallery__layout--grid-col-mob-2">
+											<div class='spectra-image-gallery__media-wrapper' data-spectra-gallery-image-id='17579'>
+							<div class="spectra-image-gallery__media spectra-image-gallery__media--grid">
+				<picture>
+					<source media="(min-width: 1024px)" srcset="/wp-content/uploads/2023/07/Serena-5.jpg">
+					<source media="(min-width: 768px)" srcset="/wp-content/uploads/2023/07/Serena-5.jpg">
+					<img decoding="async" class="spectra-image-gallery__media-thumbnail spectra-image-gallery__media-thumbnail--grid" src="/wp-content/uploads/2023/07/Serena-5.jpg" alt="" />
+				</picture>
+				<div class="spectra-image-gallery__media-thumbnail-blurrer"></div>
+											<div class="spectra-image-gallery__media-thumbnail-caption-wrapper spectra-image-gallery__media-thumbnail-caption-wrapper--overlay">
+											<div class="spectra-image-gallery__media-thumbnail-caption spectra-image-gallery__media-thumbnail-caption--overlay">
+									</div>
+										</div>
+									</div>
+						</div>
+						<div class='spectra-image-gallery__media-wrapper' data-spectra-gallery-image-id='17580'>
+							<div class="spectra-image-gallery__media spectra-image-gallery__media--grid">
+				<picture>
+					<source media="(min-width: 1024px)" srcset="/wp-content/uploads/2023/07/Nathalie-Four.png">
+					<source media="(min-width: 768px)" srcset="/wp-content/uploads/2023/07/Nathalie-Four.png">
+					<img decoding="async" class="spectra-image-gallery__media-thumbnail spectra-image-gallery__media-thumbnail--grid" src="/wp-content/uploads/2023/07/Nathalie-Four.png" alt="" />
+				</picture>
+				<div class="spectra-image-gallery__media-thumbnail-blurrer"></div>
+											<div class="spectra-image-gallery__media-thumbnail-caption-wrapper spectra-image-gallery__media-thumbnail-caption-wrapper--overlay">
+											<div class="spectra-image-gallery__media-thumbnail-caption spectra-image-gallery__media-thumbnail-caption--overlay">
+									</div>
+										</div>
+									</div>
+						</div>
+										</div>
+																		</div>
+									</div>
+</div>
+
+
+
+<p>Chaque mois, la newsletter du programme 10% vous fait découvrir les parcours de participants. <strong>Serena Gruarin</strong> (photo à gauche) et <strong>Nathalie Four</strong> (photo à droite) sont data scientists au ministère de l&rsquo;Europe et des Affaires étrangères. Leur mission : acculturer les agents du ministère à la data. Leur point commun : mettre leur talent au service de l&rsquo;intérêt général.<br><br><strong>Quel est votre parcours ?</strong><br>Nathalie : J&rsquo;ai commencé par un master d&rsquo;économétrie et statistique puis un master 2 spécialisé en data science. La data science m&rsquo;a tout de suite passionnée. C&rsquo;était déjà un domaine en plein essor. Ce master n&rsquo;a fait que confirmer mon appétence pour la data science que j&rsquo;avais déjà découvert lors d&rsquo;un stage à l&rsquo;Institut National de la Santé et de la Recherche Médicale.<br><br>Serena : J&rsquo;ai commencé mes études supérieures par une double-licence économie et droit car mon coeur balançait entre les deux. J&rsquo;ai même pensé à faire l&rsquo;Ecole nationale de la magistrature. Mon choix s&rsquo;est fixé en L3 quand j&rsquo;ai découvert l&rsquo;économétrie. En me renseignant, j&rsquo;ai découvert que les débouchés étaient très variés, pour quelqu&rsquo;un qui ne savait pas vraiment dans quel domaine travailler, c&rsquo;était une opportunité! Je me suis donc tournée vers un master économétrie statistique et c&rsquo;est là que j&rsquo;ai entendu pour la 1ère fois le terme de data science.<br><br><strong>Comment êtes-vous arrivées dans le public ?</strong><br>Nathalie : Le public m&rsquo;a toujours attirée, j&rsquo;avais déjà fait un stage dans le public. Servir l&rsquo;intérêt général est ce qui a déterminé mon choix.<br><br>Serena : Mon choix s&rsquo;est fait un peu par hasard, après un stage dans le domaine de l&rsquo;énergie. Je suis tombée sur une offre d&rsquo;apprentissage au ministère de l&rsquo;Europe et des Affaires étrangères. Cette offre d&rsquo;apprentissage a attiré mon attention, la plupart des offres étaient proposées dans les secteurs de la banque ou des assurances. Pouvoir travailler sur des données publiques avec tous leurs enjeux, c&rsquo;était un vrai challenge. Nathalie avait besoin d&rsquo;un apprenti et m&rsquo;a recruté. Après une année, j&rsquo;ai intégré le ministère en tant que contractuel.<br><br><strong>C&rsquo;est quoi le quotidien d&rsquo;un data scientist au Ministère de l&rsquo;Europe et des Affaires étrangères ?</strong><br>Nathalie : L&rsquo;intégration des data scientists au MAE en est encore à ses prémices. Notre mission est essentielle : faire connaitre la data science aux agents du ministère, montrer l&rsquo;étendue des possibles, bien identifier les besoins. Nous sommes les deux seules data scientists.<br><br>Serena : Nous avons intégré le bureau en charge du SIRH à un moment où la DRH a eu la volonté d&rsquo;exploiter justement les nombreuses données qui s&rsquo;y trouvent. Un grand challenge au quotidien réside dans le fait d&rsquo;acculturer nos collègues aux données et de récolter leur besoin qui pourraient éventuellement être comblés par la data science. Nous sommes entourés et travaillons au quotidien auprès des agents dits du « métier ».<br><br><strong>Quel est le projet sur lequel vous travaillez actuellement en interne ?</strong><br>Serena : Depuis début janvier, je travaille sur un projet qui s&rsquo;éloigne de la data science « pure »mais qui me permet de découvrir un rôle qui se rapproche d&rsquo;un MOE et d&rsquo;un data engineer ce qui est très intéressant. Au sein du bureau du dialogue social, je travaille à la construction d&rsquo;une base de donnée sociale. L&rsquo;idée est de récupérer les données puis les mettre en forme pour pouvoir calculer des indicateurs RH.<br><br>Nathalie : De mon côté, je travaille à développer une filière donnée au sein du ministère avec l&rsquo;objectif de montrer aux agents l&rsquo;étendue des possibilités ouvertes en matière de donnée. Des projets de valorisation de données sont également en cours à travers des tableaux de bord RH à destination des directions.<br><br><strong>Qu&rsquo;est-ce vous aimez dans votre métier ?</strong><br>Nathalie : Faire parler les données, c&rsquo;est tout l&rsquo;intérêt de mon métier. Les données donnent un état des lieux qui est indispensable à toute réflexion. Par ailleurs, parler avec une multiplicité d&rsquo;interlocuteurs, directement travailler avec les métiers c&rsquo;est enrichissant.<br><br>Serena : Dans la data science en général, le fait que ce soit un métier pluridisciplinaire. Ayant toujours eu peur de la routine, le fait que ce métier puisse s&rsquo;exercer dans différents secteurs m&rsquo;a également beaucoup attiré.<br><br><strong>Pourquoi avez-vous rejoint le programme 10% ?</strong><br>Nathalie : Nous sommes seulement deux au MAE. Le programme 10%, c&rsquo;était pour nous l&rsquo;occasion de rencontrer d&rsquo;autres data scientists issus de différents ministères, maintenir nos compétences data et découvrir de nouveaux outils comme le SSP cloud qui nous est directement utile.<br><br>Serena : Quand on a entendu parlé de ce programme, on a tout de suite été très enthousiastes. Notre manager nous a également beaucoup encouragé à rejoindre cette communauté. Pour ma part, avec mon projet en interne qui s&rsquo;éloigne de la data science, le programme 10%, c&rsquo;est l&rsquo;opportunité pour moi de ne pas perdre en compétence.<br><br><strong>Quel est le projet auquel vous participez dans le programme 10 % ?</strong><br>Nathalie : Nous travaillons sur le projet « Génération de documents word ». L&rsquo;idée est de produire des rapports de manière automatique. Actuellement, la production de rapport word est très chronophage pour les administrations. Le but du projet est de leur permettre de mettre à jour leurs données par un simple clic.<br><br>Serena : Pour illustrer le projet par un cas concret, on peut prendre l&rsquo;exemple du rapport social unique que les ministères doivent élaborer chaque année. D&rsquo;une année à l&rsquo;autre, les données changent et donc les graphiques, mais le format reste identique. Grâce au projet, on pourra facilement actualiser le rapport et rendre le métier autonome.<br>Par ailleurs, l&rsquo;équipe 10% est intéressante car on a une pluralité de profils (dev, data analyst, data scientists) et de ministères (DITP, Ministère de la justice, MAE).<br><br><strong>Vous êtes deux femmes dans un univers de data scientists majoritairement masculin, quel est votre regard sur la place des femmes dans la data ?</strong><br>Serena : Ce n&rsquo;est pas pas forcément une difficulté. Les choses évoluent positivement et le monde de la data s&rsquo;ouvre de plus en plus. Quand j&rsquo;étais en L3 et que je regardais les promotions précédentes de mon master, il y avait 3 femmes sur 30 élèves. Aujourd&rsquo;hui, les femmes représentent 50% des effectifs.<br><br>Nathalie : Au MAE, on est les 2 seules femmes data scientists, autant dire un taux de 100% de représentation féminine !&nbsp;</p>
+
+
+
+<div class="wp-block-uagb-separator uagb-block-b0a74531"><div class="wp-block-uagb-separator__inner" style="--my-background-image:"></div></div>
+
+
+
+<h2 class="wp-block-heading"><strong>Zoom sur un projet 10% : Datanonyme</strong></h2>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p><strong><em>Rédaction :</em> Lucie Clemot, participante 10% au projet datanonyme</strong></p>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="200" height="200" src="/wp-content/uploads/2023/07/Lucie-Clemot-1.jpg" alt="" class="wp-image-17583" srcset="/wp-content/uploads/2023/07/Lucie-Clemot-1.jpg 200w, /wp-content/uploads/2023/07/Lucie-Clemot-1-150x150.jpg 150w, /wp-content/uploads/2023/07/Lucie-Clemot-1-45x45.jpg 45w" sizes="(max-width: 200px) 100vw, 200px" /></figure>
+
+
+
+<p>Dans le contexte actuel de ﻿<strong>multiplication de jeux de données</strong>﻿ contenant des éléments à caractère sensible, l&rsquo;Etat cherche à diffuser plus de données. Ceci semble paradoxal, mais ne l&rsquo;est pas en réalité&nbsp; : ces jeux de données représentent des leviers clés pour encourager l&rsquo;exploitation et la réutilisation par une pluralité d&rsquo;acteurs, ainsi que pour favoriser la transparence de l&rsquo;action publique. Cependant, la publication de ces bases de données ne peut être possible que si elles sont <strong>anonymes</strong>. On entend ici anonyme selon la définition de la <strong>CNIL</strong>, qui assure <strong>une protection complète des données sensibles aux individus.</strong></p>
+
+
+
+<p>Les trois critères d&rsquo;anonymisation selon la CNIL sont les suivants : la <strong>non-individualisation, la non-inférence, et la non-corrélation.</strong></p>
+
+
+
+<p>Le premier, <strong>la non-individualisation</strong>, est à l&rsquo;incapacité d&rsquo;un attaquant à identifier un individu parmi le jeu de données, ou à retrouver à quel individu une ligne du jeu de donnée correspond. Le deuxième, <strong>la non-inférence</strong>, représente l&rsquo;incapacité d&rsquo;un attaquant à prédire un attribut d&rsquo;un individu présent dans la base de données. Le troisième, la <strong>non-corrélation</strong>, représente un risque lié aux jeux de données disponibles en ligne ou en vente auprès de courtiers en donnée. Il s&rsquo;agit de l&rsquo;incapacité d&rsquo;un attaquant, en exploitant ces données externes, à réidentifier un individu du jeu initial, ou à inférer un attribut d&rsquo;un de ces individus.</p>
+
+
+
+<p>L&rsquo;enjeu d&rsquo;être capable de bien anonymiser les données est double. D&rsquo;abord, les usagers, à travers des plateformes telles que data.gouv.fr, pourront bénéficier d&rsquo;<strong>une plus grande diversité de jeux de données</strong> et sauront que <strong>leurs données personnelles sont mieux protégées.</strong></p>
+
+
+
+<p>Cet enjeu est aussi au cœur des préoccupations des administrations. En effet, certains acteurs du service public portent au sein de leurs engagements le partage de données en toute sécurité, tandis que d&rsquo;autres manipulent des données sensibles en interne et souhaiteraient pouvoir opter pour la version anonymisée de ces données.</p>
+
+
+
+<p>C&rsquo;est dans ce contexte et pour répondre à cet enjeu double que l&rsquo;idée est arrivée de consacrer un projet du programme 10 % à la question de l&rsquo;anonymisation. Ce projet, depuis appelé <strong>datanonyme</strong>, avait initialement pour vocation de créer un outil capable d&rsquo;anonymiser n&rsquo;importe quel jeu de données tabulaire. L&rsquo;ambition de ce projet a depuis évolué dans une direction plus ad-hoc : il s&rsquo;agit maintenant de<strong> co-construire un outil adapté aux besoins respectifs de tous les participants du projet et de leurs administrations respectives.</strong></p>
+
+
+
+<p>Il existe déjà des solutions techniques pour répondre au besoin décrit, cependant, elles sont parfois onéreuses, souvent des boîtes noires, et répondent à des cas d&rsquo;usages trop spécifiques. Cependant, il existe des outils qui quantifient la qualité d&rsquo;une anonymisation, avec entre autres deux outils libres qui ont été approuvés par la CNIL : <strong>anonymeter</strong> et <strong>querysnout</strong>.</p>
+
+
+
+<p>D&rsquo;un point de vue technique, l&rsquo;outil se constitue de deux volets. Le premier correspond à <strong>l&rsquo;anonymisation en tant que telle</strong>, et le deuxième en une approche adverse, qui en tentant de défaire l&rsquo;anonymisation (en utilisant les critères de la CNIL), vient <strong>quantifier la performance</strong><strong>(soit la qualité) de l&rsquo;anonymat</strong>. En réunissant ces deux volets, nous chercherons à optimiser la qualité de la donnée statistique tout en maintenant le secret statistique.</p>
+
+
+
+<p>Il existe un certain nombre de méthodes d&rsquo;anonymisation qui ont fait leurs preuves mathématiques. Dans l&rsquo;ensemble, la stratégie consiste à <strong>prendre du recul sur les données</strong> (il y a donc nécessairement une perte d&rsquo;information), <strong>tout en conservant une diversité suffisante des attributs des points de données</strong> (pour éviter que l&rsquo;inférence sur un nouvel individu soit trop simple). Lorsqu&rsquo;il s&rsquo;agit de données numériques, il existe de nombreuses stratégies pour bruiter les données. Enfin, des modèles plus sophistiqués basés sur les probabilités existent aussi pour protéger des données.</p>
+
+
+
+<p>Nous avons étudié différentes idées pour implémenter l&rsquo;approche adverse sur les trois critères de la CNIL. Entre autres, l&rsquo;étude des points trop particuliers (appelés outliers) permet d&rsquo;estimer le risque d&rsquo;identification. De plus, la performance de modèles de classification ou de régression de variable sensible entraînés sur la donnée brute d&rsquo;une part et anonymisée d&rsquo;autre part permet de révéler un axe de comparaison pour le critère d&rsquo;inférence. Le critère de corrélation, lui, est plus dur à étudier de manière systématique.</p>
+
+
+
+<p>Pour les membres du projet Datanonyme, l&rsquo;intérêt de ce projet est multiple. Tout d&rsquo;abord, nous avons tous et toutes à y <strong>gagner en terme d&rsquo;expertise sur le sujet</strong>. De plus, <strong>développer un outil libre</strong> représente une réelle occasion de rattraper le retard du service public sur les problématiques d&rsquo;anonymisation.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button broken_link" href="https://www.10pourcent.etalab.gouv.fr/projets/datanomyme/">En savoir plus</a></div>
+</div>
+
+
+
+<div class="wp-block-uagb-separator uagb-block-861b4b02"><div class="wp-block-uagb-separator__inner" style="--my-background-image:"></div></div>
+
+
+
+<h2 class="wp-block-heading"><strong>L&rsquo;administration recrute !</strong></h2>
+
+
+
+<p><strong>L&rsquo;ecolab recherche 3 profils data sciences :<br>&#8211; <a href="https://choisirleservicepublic.gouv.fr/offre-emploi/analyste-de-donnees-data-analyst-et-politiques-publiques-reference-2023-1272200/">Un(e) data analyst.</a><br>&#8211; <a href="https://choisirleservicepublic.gouv.fr/offre-emploi/lead-data-analyst---transition-ecologique--territoires-reference-2023-1272095/">Un(e) Lead Data analyst.</a><br>&#8211;<a href="https://choisirleservicepublic.gouv.fr/offre-emploi/data-ingenieure-confirmee-indicateurs-de-transition-ecologique-reference-2023-1272228/"> Un(e) Data ingénieur(e) confirmé(e).</a><br>La direction centrale de la police judiciaire</strong> recherche <strong><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/pn-dcpj-sdlco-92---data-scientist-au-sein-du-groupe-d-enquete-specialise-cyber-mineurs-ocreth-sic-reference-MINT_BS092PNA-61990/">un data scientist.</a><br>Le ministère de l&rsquo;Intérieur </strong>recherche<strong> <a href="https://choisirleservicepublic.gouv.fr/offre-emploi/pn-ssmsi-75---chef-de-projet-data-analyst-methodologie-protocole-et-exploitation-d-enquetes-sic-reference-MINT_BS075PNA-66586/https:/choisirleservicepublic.gouv.fr/offre-emploi/charge-d-etudes--data-scientist-sur-les-donnees-fiscales-hf-reference-MEF_2023-10645/">un chef de projet data analyst.</a><br>La DGFIP </strong>recherche<strong><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/pn-ssmsi-75---chef-de-projet-data-analyst-methodologie-protocole-et-exploitation-d-enquetes-sic-reference-MINT_BS075PNA-66586/https:/choisirleservicepublic.gouv.fr/offre-emploi/charge-d-etudes--data-scientist-sur-les-donnees-fiscales-hf-reference-MEF_2023-10645/"> un data scientist sur les données fiscales.</a><br>La DGCCRF </strong>recherche<strong> <a href="https://choisirleservicepublic.gouv.fr/offre-emploi/data-scientist-au-sein-de-la-cellule-numerique-du-service-national-des-enquetes-hf-reference-MEF_2023-10118/">un data scientist.</a><br>La direction numérique des ministères sociaux </strong>recherche<strong> <a href="https://choisirleservicepublic.gouv.fr/offre-emploi/data-manager-reference-2022-1070353/">un data manager.</a></strong></p>
+
+
+
+<div class="wp-block-uagb-separator uagb-block-08d46108"><div class="wp-block-uagb-separator__inner" style="--my-background-image:"></div></div>
+
+
+
+<h2 class="wp-block-heading"><strong>Le coin lecture</strong></h2>
+
+
+
+<p>Une série de <a href="https://guides.etalab.gouv.fr/accueil.html"><strong>guides</strong> </a>produits par Etalab pour tous ceux qui sont amenés à produire, collecter ou utiliser des données, codes sources de logiciel ou algorithmes.<br><strong>L&rsquo;Inspection générale des finances</strong>, conjointement avec <strong>le Conseil général de l&rsquo;économie</strong> a rendu public <a href="https://www.economie.gouv.fr/cge/filiere-numerique-Etat" class="broken_link"><strong>le rapport relatif aux RH de l&rsquo;Etat dans le numérique</strong></a> Il propose 5 actions :<br><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Un choc de simplification du recrutement, avec 3 500 postes à créer en 5 ans<br><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Un choc d&rsquo;attractivité pour les jeunes, y compris les apprentis et stagiaires<br><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Un choc de fidélisation pour faciliter les parcours de carrière au sein du numérique public<br><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Un choc de mutualisation avec la création de centres de compétences de haut niveau<br><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Un choc dans l&rsquo;organisation du travail pour offrir des conditions attractives correspondant aux attentes</p>
+
+
+
+<div class="wp-block-uagb-separator uagb-block-366e7334"><div class="wp-block-uagb-separator__inner" style="--my-background-image:"></div></div>
+
+
+
+<h2 class="wp-block-heading"><strong>Appel à idées ?</strong></h2>
+
+
+
+<p><br>Pour la prochaine newsletter du programme 10%, nous faisons appel à vous !<br>Vous avez un <strong>projet data et IA</strong> au sein de la sphère publique à valoriser, une <strong>formation utile</strong> à la communauté, <strong>un événement</strong>, des<strong> actus</strong>, des<strong> conseils de lecture</strong> &#8230; Faites-nous le savoir :<strong> 10pourcent.dinum@modernisation.gouv.fr</strong></p>
+
+
+
+<p>Pour recevoir les prochaines newsletter du programme 10%, inscrivez-vous<a href="https://f.info.etalab.gouv.fr/f/lp/newsletter-du-programme-10/o72g0xss"> <strong>ici</strong></a></p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Programme 10% : bilan de la saison 1 !</title>
+		<link>/programme-10-bilan-de-la-saison-1</link>
+		
+		<dc:creator><![CDATA[Sabrina Hedroug]]></dc:creator>
+		<pubDate>Mon, 12 Dec 2022 15:50:37 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[Programme 10%]]></category>
+		<guid isPermaLink="false">/?p=17205</guid>
+
+					<description><![CDATA[Une collaboration inédite entre la DINUM et l&#8217;INSEE Suite à une mission conjointe conduite entre février et juin 2021 entre la DINUM et l’INSEE, le rapport sur l’évaluation des besoins de l’État en compétences et expertises en matière de donnée publié le 27 septembre 2021 préconisait d’expérimenter en 2022 la possibilité pour les experts de &#8230;<p class="read-more"> <a class="" href="/programme-10-bilan-de-la-saison-1"> <span class="screen-reader-text">Programme 10% : bilan de la saison 1 !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-uagb-image uagb-block-33de5a0b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img fetchpriority="high" decoding="async" srcset="/wp-content/uploads/2022/12/Bilan-de-la-saison-1-1024x486.png 1024w" src="/wp-content/uploads/2022/12/Bilan-de-la-saison-1-1024x486.png" alt="" class="uag-image-17206" width="1091" height="517" title=""/></figure></div>
+
+
+
+<p></p>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Une collaboration inédite entre la DINUM et l&rsquo;INSEE</strong></h2>
+
+
+
+<p>Suite à une mission conjointe conduite entre février et juin 2021 entre la DINUM et l’INSEE, le <a href="https://www.numerique.gouv.fr/uploads/RAPPORT-besoins-competences-donnee.pdf"><strong>rapport</strong> <strong>sur l’évaluation des besoins de l’État en compétences et expertises en matière de donnée</strong> </a>publié le 27 septembre 2021 préconisait d’expérimenter en <strong>2022</strong> la possibilité pour les experts de la donnée de <strong>consacrer au moins 10 % de leur temps de travail à des projets d’intérêt partagé à une échelle interministérielle.</strong></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-4 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<div class="wp-block-uagb-image uagb-block-85ba4755 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="/wp-content/uploads/2022/12/Screenshot-2022-12-12-at-14-35-49-RAPPORT-besoins-competences-donnee.pdf.png 1024w" src="/wp-content/uploads/2022/12/Screenshot-2022-12-12-at-14-35-49-RAPPORT-besoins-competences-donnee.pdf.png" alt="" class="uag-image-17215" width="341" height="472" title=""/></figure></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<blockquote class="wp-block-quote has-text-align-left has-ast-global-color-1-color has-ast-global-color-4-background-color has-text-color has-background" style="font-size:16px"><p><strong>Recommandation 9 </strong> :</p><p> » La mission recommande d’<strong>encourager le travail interministériel </strong>et <strong>les échanges entre pairs</strong>, en dégageant une partie du temps de travail des experts de la donnée ». <br>Cette communauté pourrait ainsi « s’entraider et contribuer à <strong>l’échange de pratiques entre pairs</strong>, à la <strong>réalisation d’outils communs </strong>ou à <strong>construire des ressources pour aider les administrations à définir, piloter et évaluer des projets de data science </strong>(&#8230;). Cette action serait par ailleurs de nature à <strong>renforcer l’attractivité de l’État-employeur </strong>et à <strong>faciliter la mobilité entre ministères </strong>« . </p><cite><a href="https://www.numerique.gouv.fr/uploads/RAPPORT-besoins-competences-donnee.pdf"><strong>Rapport sur l’évaluation des besoins de l’État en compétences et expertises en matière de donnée</strong> </a></cite></blockquote>
+</div>
+</div>
+
+
+
+<p></p>
+
+
+
+<p>Lancée en juin 2022, l&rsquo;expérimentation 10% poursuit un double objectif : </p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-5 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ul><li><strong>Encourager le travail interministériel</strong> <strong>entre pairs</strong> sur des projets d&rsquo;intérêt commun&nbsp;;</li><li><strong>Renforcer l’attractivité de l’État-employeur</strong> et <strong>faciliter la mobilité entre ministères</strong>.</li></ul>
+</div>
+</div>
+
+
+
+<p>L&rsquo;expérimentation co-portée par la DINUM et l&rsquo;INSEE a permis de lancer une collaboration inédite encourageant le mélange de cultures différentes  tant sur des projets que sur une communauté de pratiques entre experts publics de la donnée.  </p>
+
+
+
+<p></p>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Retour sur six mois d&rsquo;expérimentation</strong></h2>
+
+
+
+<p>Le programme 10% a fait l&rsquo;objet d&rsquo;une importante phase d&rsquo;investigation auprès des ministères. Une fois les facteurs de risques et de succès bien identifiés, l&rsquo;expérimentation 10% a pu être lancée. </p>
+
+
+
+<div class="wp-block-uagb-content-timeline uagb-timeline__outer-wrap uagb-block-dfb4458b-3061-4eb8-b601-2523c3e5c906 uagb-timeline__content-wrap uagb-timeline__center-block  uagb-timeline__arrow-center uagb-timeline">
+<article class="wp-block-uagb-content-timeline-child uagb-timeline__field uagb-timeline-child-810c3875-7cd7-44b6-bd26-6a7e446d5231 uagb-timeline__right"><div class="uagb-timeline__marker out-view-uagb-timeline__icon"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M160 32V64H288V32C288 14.33 302.3 0 320 0C337.7 0 352 14.33 352 32V64H400C426.5 64 448 85.49 448 112V160H0V112C0 85.49 21.49 64 48 64H96V32C96 14.33 110.3 0 128 0C145.7 0 160 14.33 160 32zM0 192H448V464C448 490.5 426.5 512 400 512H48C21.49 512 0 490.5 0 464V192zM64 304C64 312.8 71.16 320 80 320H112C120.8 320 128 312.8 128 304V272C128 263.2 120.8 256 112 256H80C71.16 256 64 263.2 64 272V304zM192 304C192 312.8 199.2 320 208 320H240C248.8 320 256 312.8 256 304V272C256 263.2 248.8 256 240 256H208C199.2 256 192 263.2 192 272V304zM336 256C327.2 256 320 263.2 320 272V304C320 312.8 327.2 320 336 320H368C376.8 320 384 312.8 384 304V272C384 263.2 376.8 256 368 256H336zM64 432C64 440.8 71.16 448 80 448H112C120.8 448 128 440.8 128 432V400C128 391.2 120.8 384 112 384H80C71.16 384 64 391.2 64 400V432zM208 384C199.2 384 192 391.2 192 400V432C192 440.8 199.2 448 208 448H240C248.8 448 256 440.8 256 432V400C256 391.2 248.8 384 240 384H208zM320 432C320 440.8 327.2 448 336 448H368C376.8 448 384 440.8 384 432V400C384 391.2 376.8 384 368 384H336C327.2 384 320 391.2 320 400V432z"></path></svg></div><div class="uagb-timeline__day-new uagb-timeline__day-right uagb-timeline__events-inner-new"><div class="uagb-timeline__events-inner--content"><div class="uagb-timeline__date-hide uagb-timeline__inner-date-new">mai 16, 2022</div><h4 class="uagb-timeline__heading"><strong>Atelier d&rsquo;idéation</strong></h4><p class="uagb-timeline-desc-content">Une trentaine d&rsquo;experts publics de la donnée issus de l&rsquo;ensemble des ministères ont proposé des projets d&rsquo;intérêt commun. 4 projets 10% ont été sélectionnés.  </p><div class="uagb-timeline__arrow"></div></div></div><div class="uagb-timeline__date-new">mai 16, 2022</div></article>
+
+
+
+<article class="wp-block-uagb-content-timeline-child uagb-timeline__field uagb-timeline-child-6a94c8d6-cdc8-4943-9c2e-5c3a1fbc9773 uagb-timeline__left"><div class="uagb-timeline__marker out-view-uagb-timeline__icon"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M160 32V64H288V32C288 14.33 302.3 0 320 0C337.7 0 352 14.33 352 32V64H400C426.5 64 448 85.49 448 112V160H0V112C0 85.49 21.49 64 48 64H96V32C96 14.33 110.3 0 128 0C145.7 0 160 14.33 160 32zM0 192H448V464C448 490.5 426.5 512 400 512H48C21.49 512 0 490.5 0 464V192zM64 304C64 312.8 71.16 320 80 320H112C120.8 320 128 312.8 128 304V272C128 263.2 120.8 256 112 256H80C71.16 256 64 263.2 64 272V304zM192 304C192 312.8 199.2 320 208 320H240C248.8 320 256 312.8 256 304V272C256 263.2 248.8 256 240 256H208C199.2 256 192 263.2 192 272V304zM336 256C327.2 256 320 263.2 320 272V304C320 312.8 327.2 320 336 320H368C376.8 320 384 312.8 384 304V272C384 263.2 376.8 256 368 256H336zM64 432C64 440.8 71.16 448 80 448H112C120.8 448 128 440.8 128 432V400C128 391.2 120.8 384 112 384H80C71.16 384 64 391.2 64 400V432zM208 384C199.2 384 192 391.2 192 400V432C192 440.8 199.2 448 208 448H240C248.8 448 256 440.8 256 432V400C256 391.2 248.8 384 240 384H208zM320 432C320 440.8 327.2 448 336 448H368C376.8 448 384 440.8 384 432V400C384 391.2 376.8 384 368 384H336C327.2 384 320 391.2 320 400V432z"></path></svg></div><div class="uagb-timeline__day-new uagb-timeline__day-left uagb-timeline__events-inner-new"><div class="uagb-timeline__events-inner--content"><div class="uagb-timeline__date-hide uagb-timeline__inner-date-new">juin 13, 2022</div><h4 class="uagb-timeline__heading"><strong>Bootcamp de lancement</strong></h4><p class="uagb-timeline-desc-content">Pendant deux jours, les 13 et 14 juin 2022, les experts publics de la donnée se sont retrouvés à Bercy pour travailler sur les valeurs communes à la communauté (« partage, ouverture, curiosité ») et identifier le cadre des projets 10%. </p><div class="uagb-timeline__arrow"></div></div></div><div class="uagb-timeline__date-new">juin 13, 2022</div></article>
+
+
+
+<article class="wp-block-uagb-content-timeline-child uagb-timeline__field uagb-timeline-child-06639082-bfdf-49dc-a998-1ef8ac52d873 uagb-timeline__right"><div class="uagb-timeline__marker out-view-uagb-timeline__icon"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M160 32V64H288V32C288 14.33 302.3 0 320 0C337.7 0 352 14.33 352 32V64H400C426.5 64 448 85.49 448 112V160H0V112C0 85.49 21.49 64 48 64H96V32C96 14.33 110.3 0 128 0C145.7 0 160 14.33 160 32zM0 192H448V464C448 490.5 426.5 512 400 512H48C21.49 512 0 490.5 0 464V192zM64 304C64 312.8 71.16 320 80 320H112C120.8 320 128 312.8 128 304V272C128 263.2 120.8 256 112 256H80C71.16 256 64 263.2 64 272V304zM192 304C192 312.8 199.2 320 208 320H240C248.8 320 256 312.8 256 304V272C256 263.2 248.8 256 240 256H208C199.2 256 192 263.2 192 272V304zM336 256C327.2 256 320 263.2 320 272V304C320 312.8 327.2 320 336 320H368C376.8 320 384 312.8 384 304V272C384 263.2 376.8 256 368 256H336zM64 432C64 440.8 71.16 448 80 448H112C120.8 448 128 440.8 128 432V400C128 391.2 120.8 384 112 384H80C71.16 384 64 391.2 64 400V432zM208 384C199.2 384 192 391.2 192 400V432C192 440.8 199.2 448 208 448H240C248.8 448 256 440.8 256 432V400C256 391.2 248.8 384 240 384H208zM320 432C320 440.8 327.2 448 336 448H368C376.8 448 384 440.8 384 432V400C384 391.2 376.8 384 368 384H336C327.2 384 320 391.2 320 400V432z"></path></svg></div><div class="uagb-timeline__day-new uagb-timeline__day-right uagb-timeline__events-inner-new"><div class="uagb-timeline__events-inner--content"><h4 class="uagb-timeline__heading"><strong>Ateliers 10%</strong></h4><p class="uagb-timeline-desc-content">Tous les 15 jours de juin à novembre 2022, la communauté 10% s&rsquo;est retrouvée au Lieu de la transformation publique pour travailler sur les projets 10%. Entre ces ateliers en présentiel, se sont ajoutés des points réguliers au sein de chaque équipe. </p><div class="uagb-timeline__arrow"></div></div></div><div class="uagb-timeline__date-new"></div></article>
+
+
+
+<article class="wp-block-uagb-content-timeline-child uagb-timeline__field uagb-timeline-child-e90ec913-847f-492b-9f07-f505d7a007d5 uagb-timeline__left"><div class="uagb-timeline__marker out-view-uagb-timeline__icon"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M160 32V64H288V32C288 14.33 302.3 0 320 0C337.7 0 352 14.33 352 32V64H400C426.5 64 448 85.49 448 112V160H0V112C0 85.49 21.49 64 48 64H96V32C96 14.33 110.3 0 128 0C145.7 0 160 14.33 160 32zM0 192H448V464C448 490.5 426.5 512 400 512H48C21.49 512 0 490.5 0 464V192zM64 304C64 312.8 71.16 320 80 320H112C120.8 320 128 312.8 128 304V272C128 263.2 120.8 256 112 256H80C71.16 256 64 263.2 64 272V304zM192 304C192 312.8 199.2 320 208 320H240C248.8 320 256 312.8 256 304V272C256 263.2 248.8 256 240 256H208C199.2 256 192 263.2 192 272V304zM336 256C327.2 256 320 263.2 320 272V304C320 312.8 327.2 320 336 320H368C376.8 320 384 312.8 384 304V272C384 263.2 376.8 256 368 256H336zM64 432C64 440.8 71.16 448 80 448H112C120.8 448 128 440.8 128 432V400C128 391.2 120.8 384 112 384H80C71.16 384 64 391.2 64 400V432zM208 384C199.2 384 192 391.2 192 400V432C192 440.8 199.2 448 208 448H240C248.8 448 256 440.8 256 432V400C256 391.2 248.8 384 240 384H208zM320 432C320 440.8 327.2 448 336 448H368C376.8 448 384 440.8 384 432V400C384 391.2 376.8 384 368 384H336C327.2 384 320 391.2 320 400V432z"></path></svg></div><div class="uagb-timeline__day-new uagb-timeline__day-left uagb-timeline__events-inner-new"><div class="uagb-timeline__events-inner--content"><div class="uagb-timeline__date-hide uagb-timeline__inner-date-new">décembre 15, 2022</div><h4 class="uagb-timeline__heading"><strong>Clôture de la saison 1</strong></h4><p class="uagb-timeline-desc-content">A l&rsquo;occasion de l&rsquo;événement de clôture de la saison 1, les équipes ont pu pitcher leurs projets. Ce fut également l&rsquo;occasion d&rsquo;échanger sur le thème au cœur du programme 10% : « Comment attirer et fidéliser les talents de la data au sein de l’État ». <br>Le support <strong><a href="https://speakerdeck.com/etalabia/2022">ici </a></strong></p><div class="uagb-timeline__arrow"></div></div></div><div class="uagb-timeline__date-new">décembre 15, 2022</div></article>
+<div class="uagb-timeline__line"><div class="uagb-timeline__line__inner"></div></div></div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Le programme 10% en chiffres</strong></h2>
+
+
+
+<div class="wp-block-uagb-icon-list uagb-block-79a39c0b"><div class="uagb-icon-list__wrap">
+<div class="wp-block-uagb-icon-list-child uagb-block-ad5bb8f6"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">En moyenne, entre <strong>15 à 20 participants</strong> présents aux ateliers</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-a490c662"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Une <strong>cinquantaine d’experts </strong>sur l’outil collaboratif</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-3a1f6381"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Une <strong>dizaine</strong> de ministères participants</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-439ae813"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label"><strong>10</strong> ateliers en présentiel</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-45e21b72"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label"><strong>6</strong> mois de travail</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-392da1c7"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label"><strong>4</strong> projets d&rsquo;intérêt commun</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-3b6e7793"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label"><strong>4</strong> formations spécialisées</span></div>
+</div></div>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Zoom sur les 4 projets 10% </strong></h2>
+
+
+
+<p class="has-ast-global-color-2-color has-ast-global-color-4-background-color has-text-color has-background">Les projets 10% proposés lors de la phase d&rsquo;idéation devaient répondre à 4 critères:<br>&#8211; Des projets <strong>interministériels</strong> et <strong>réplicables</strong><br>&#8211; Nécessitant un <strong>passage à l’échelle</strong><br>&#8211; Répondant à un besoin <strong>immédiat</strong> et <strong>concret</strong><br>&#8211; Permettant de travailler à partir de données <strong>non confidentielles, pouvant être mises à disposition</strong></p>
+
+
+
+<p>L&rsquo;expérimentation 10% a permis d&rsquo;aboutir à 4 solutions concrètes :</p>
+
+
+
+<p class="has-ast-global-color-5-color has-light-green-cyan-background-color has-text-color has-background"><strong>SOCRATEXT :</strong> Une solution pour extraire des informations contenues dans des documents non directement exploitables (PDF, images, photos …) afin d’accélérer certaines tâches très chronophages lorsqu’elles sont réalisées à la main par les agents publics (par exemples, extraire les informations des tickets de caisse pour l’enquête budget des familles de l’INSEE ou bien cibler des informations précises dans des rapports médicaux de plusieurs pages). <br>Ministères participants&nbsp;: <strong>Direction interministérielle du numérique, ministère des Armées, ministère de l’Intérieur, Haute Autorité de Santé</strong></p>
+
+
+
+<p class="has-ast-global-color-5-color has-vivid-purple-background-color has-text-color has-background"><strong>GOUVDOWN et SHINYGOUV :</strong> une solution pour créer facilement des applications et des documents conformes à la charte graphique de l’État et faire gagner du temps aux agents. <br>Ministères participants&nbsp;: <strong>INSEE, direction interministérielle de la transformation publique et réseau des DREAL</strong></p>
+
+
+
+<p class="has-ast-global-color-5-color has-pale-pink-background-color has-text-color has-background"><strong>MatchSIRET :</strong> une solution pour faciliter et fiabiliser le quotidien des agents en leur donnant le moyen de remonter à l&rsquo;identifiant exact d&rsquo;une entreprise à partir d’informations issues du terrain (le nom commercial, la localisation ou le secteur d&rsquo;activité). <br>Ministères participants&nbsp;: <strong>direction interministérielle du numérique, ministère du Travail, de l&rsquo;Emploi et de l&rsquo;Insertion</strong></p>
+
+
+
+<p class="has-white-color has-ast-global-color-0-background-color has-text-color has-background"><strong>CARTIFLETTE :</strong> une solution pour harmoniser et associer des données géographiques issues de différents acteurs publics (INSEE, IGN, collectivités locales) à des contours géographiques normalisés via une API flexible. Ce projet sera associé à un site web, permettant ainsi de faciliter le travail des chercheurs, enseignants, administrations et médias souhaitant réaliser une carte à partir de données géographiques. <br>Ministères participants : <strong>INSEE, ministère de la Santé, ministère de l’Intérieur et ministère de la Transition écologique, enseignants-chercheurs</strong></p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-7 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<div class="wp-block-uagb-buttons uagb-buttons__outer-wrap uagb-btn__default-btn uagb-btn-tablet__default-btn uagb-btn-mobile__default-btn uagb-block-419e3d1c"><div class="uagb-buttons__wrap uagb-buttons-layout-wrap">
+<div class="wp-block-uagb-buttons-child uagb-buttons__outer-wrap uagb-block-47fb5962 wp-block-button is-style-outline"><div class="uagb-button__wrapper"><a class="uagb-buttons-repeater wp-block-button__link has-background has-text-color broken_link" href="//10pourcent.etalab.studio/projets/" rel="follow noopener" target="_blank"><div class="uagb-button__link">Le détail des projets sur le site 10%</div><span class="uagb-button__icon uagb-button__icon-position-after"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M438.6 278.6l-160 160C272.4 444.9 264.2 448 256 448s-16.38-3.125-22.62-9.375c-12.5-12.5-12.5-32.75 0-45.25L338.8 288H32C14.33 288 .0016 273.7 .0016 256S14.33 224 32 224h306.8l-105.4-105.4c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l160 160C451.1 245.9 451.1 266.1 438.6 278.6z"></path></svg></span></a></div></div>
+</div></div>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Les grands principes du programme 10%</strong> : confiance et montée en compétence </h2>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-6 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<p>La méthode 10% est simple : accorder autant d&rsquo;importance aux projets qu&rsquo;à la communauté. </p>
+
+
+
+<p>Les grands principes : </p>
+
+
+
+<ul><li><strong>Motivation : </strong>pas de sélection à l’entrée, le seul critère pour participer au programme c&rsquo;est l&rsquo;envie. 10% de temps de travail, 100% de motivation !</li><li><strong>Autonomie : </strong>les experts viennent quand ils peuvent.</li><li><strong>Liberté :</strong> les experts proposent ou choisissent eux-mêmes le projet auxquels ils souhaitent participer. </li><li><strong>L’informel :</strong> les relations interpersonnelles au sein de la communauté 10% sont aussi importantes que le travail sur les projets. Elles font l&rsquo;objet de moments dédiés.</li><li><strong>La montée en compétence :</strong> les participants bénéficient d&rsquo;une montée en compétence en continu grâce à des formations tech et hors tech à leur demande. (toutes les formations 10% sont disponibles <strong><a href="https://10pourcent.etalab.studio/formations/" class="broken_link">ici</a></strong>). </li><li><strong>Le mélange des cultures :</strong> la collaboration entre la DINUM et l&rsquo;INSEE permet de mixer des cultures et des pratiques différentes tant sur les projets que sur les pratiques. </li><li><strong>Le sens des projets : </strong>ce qui unit la communauté 10%, c&rsquo;est le sens des projets et l&rsquo;intérêt général</li></ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2022/12/20220613_124036-pdf.jpg" alt="" class="wp-image-17236" width="335" height="251" srcset="/wp-content/uploads/2022/12/20220613_124036-pdf.jpg 516w, /wp-content/uploads/2022/12/20220613_124036-pdf-300x225.jpg 300w" sizes="(max-width: 335px) 100vw, 335px" /><figcaption><em>Bootcamp de lancement du programme 10%</em></figcaption></figure>
+</div>
+</div>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Lancement de la saison 2 en janvier </strong>2023 !</h2>
+
+
+
+<p><strong>La saison 2 du programme 10% sera lancée en janvier 2023 !</strong><br>Vous êtes un(e) expert(e) de la donnée dans la sphère publique, souhaitant participer à des projets d&rsquo;intérêt commun, intégrer une communauté de pratiques et monter en compétence, contactez l&rsquo;équipe du Lab IA : <strong>lab-ia@data.gouv.fr</strong></p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Intelligence artificielle : 5 lauréats de l’appel à manifestation d’intérêt “Accompagnement recherche” !</title>
+		<link>/intelligence-artificielle-5-laureats-de-lappel-a-manifestation-dinteret-accompagnement-recherche</link>
+		
+		<dc:creator><![CDATA[Sabrina Hedroug]]></dc:creator>
+		<pubDate>Thu, 20 Jan 2022 14:07:28 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=16399</guid>
+
+					<description><![CDATA[19/01/2022 Après les deux premiers appels à manifestation d’intérêt pour expérimenter l’IA dans l’administration, le Lab IA a lancé, le 6 septembre 2021, un AMI «&#160;Accompagnement Recherche&#160;». Cet AMI répond à trois finalités&#160;: Faire bénéficier les lauréats de l’expertise des partenariats privilégiés du Lab IA issus du monde de la recherche, notamment avec l’Inria qui &#8230;<p class="read-more"> <a class="" href="/intelligence-artificielle-5-laureats-de-lappel-a-manifestation-dinteret-accompagnement-recherche"> <span class="screen-reader-text">Intelligence artificielle : 5 lauréats de l’appel à manifestation d’intérêt “Accompagnement recherche” !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading"></h2>
+
+
+
+<p>19/01/2022</p>
+
+
+
+<p>Après les deux premiers appels<strong> à manifestation d’intérêt pour expérimenter l’IA dans l’administration, le Lab IA a lancé, le 6 septembre 2021, un AMI «&nbsp;Accompagnement Recherche&nbsp;»</strong>. Cet AMI répond à trois finalités&nbsp;:</p>
+
+
+
+<ul><li>Faire bénéficier les lauréats de l’expertise des partenariats privilégiés du Lab IA issus du monde de la recherche, notamment avec l’Inria qui travaille en étroite collaboration avec la DINUM depuis avril 2020&nbsp;;</li><li>Lever les éventuels verrous technologiques rencontrées par les administrations lauréates dans l’implémentation d’une solution IA à leurs besoins existants&nbsp;;</li><li>Mettre la recherche en intelligence artificielle au service de la transformation publique.</li></ul>
+
+
+
+<h2 class="wp-block-heading" id="5-laureats-de-tous-horizons-sur-des-sujets-varies">5 lauréats de tous horizons sur des sujets variés </h2>
+
+
+
+<p><strong>Sur les huit candidatures exprimées, cinq ont été retenues</strong> pour bénéficier de l’accompagnement recherche du Lab IA.</p>
+
+
+
+<p class="has-text-align-left"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-3-color"></mark><strong>Commission nationale de l’informatique et des libertés : <em>Aide à l’analyse sur la lecture des différents documents soumis à la Commission.</em></strong> Les traitements informatiques utilisant des données à caractère personnel se trouvent à la croisée de nombreux textes juridiques. Bien que le RGPD ait supprimé une grande partie des formalités déclaratives auprès de la CNIL, certaines obligations demeurent qui peuvent nécessiter de transmettre des documents relatifs aux pratiques en matière de protection de la vie privée à la Commission, afin de justifier de la réalité des procédures mises en place par l’organisme. Ces documents engendrent  ainsi une instruction lourde tant pour la CNIL que pour les entreprises. L’objectif de ce projet est de faciliter l’instruction des dossiers reçus par la CNIL en permettant de repérer automatiquement, dans les documents soumis à l’approbation de la CNIL, les paragraphes d’intérêt pour les agents.</p>
+
+
+
+<p>M<strong>inistère de la transition écologique :</strong><em><strong> Aide à l’analyse grâce à la recherche intelligente dans les dossiers de projets soumis à évaluation environnementale. </strong></em>Les auditeurs des autorités environnementales régionales (MRAe) et nationale (Ae) instruisent chaque année de l’ordre de 1000 dossiers de projets soumis à évaluation environnementale (parcs éoliens, installations industrielles, aménagements urbains &#8230;). Le dossier d&rsquo;un projet est composé de nombreux documents pdf, dont notamment l’étude d’impact du projet, et comporte jusqu&rsquo;à plusieurs milliers de pages. L&rsquo;auditeur doit y identifier les aspects à améliorer pour éviter, réduire ou compenser les impacts environnementaux du projet. Les MRAe Ae sont tenues de rendre leur avis sur les dossiers qui leur sont soumis dans un délai contraint, qui n’est parfois pas respecté faute de ressources humaines.<span class="has-inline-color has-ast-global-color-0-color"> L&rsquo;Ecolab du MTE porte le développement d&rsquo;un outil pour aider les auditeurs de MRAe Ae à instruire efficacement les dossiers.</span></p>
+
+
+
+<p><strong>Ministère de l’Intérieur : <em>Cluster Vec. </em></strong>Chaque année, 20 000 000 clichés issus des radars sont envoyés à l’Agence Nationale du Traitement Automatisé des Infractions (ANTAI) et au Centre Automatisé de Contestation des Infractions Routières (CACIR) pour traitement. Parallèlement, près de 10 000 usagers reçoivent un avis de contravention alors qu’ils n’ont pas commis l’infraction routière correspondante. Dans de nombreux cas, c’est une usurpation de plaque qui est à l’origine de l’erreur. La contravention est alors envoyée au titulaire du certificat d’immatriculation renseigné dans le Système d’Immatriculation des Véhicules (SIV) et non à la personne ayant réellement commis l’infraction. Une technique existe pour repérer les plaques usurpées : comparer le numéro de la plaque au modèle du véhicule qui doit y être associé, également renseigné dans le SIV. Si les deux éléments ne correspondent pas, l’ANTAI peut effectuer un signalement et éviter de sanctionner un usager n’ayant commis aucune infraction. Grâce à l’algorithme IA flash cette détection est possible par l’identification automatique du modèle du véhicule sur le cliché de l’infraction. Cependant le réentrainement de ce modèle supervisé par l’ajout de nouvelles données annotées manuellement est couteux en temps. <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-0-color">L’objectif du projet est d’explorer les nouvelles possibilités d’entrainement non supervisé en computer vision afin de faciliter la maintenance du modèle.</mark></p>
+
+
+
+<p><strong>Bureau de Recherches Géologiques et Minières. <em>LoggingIA. </em></strong>Le BRGM est l’établissement public de référence pour le sous-sol. Au travers de la Banque du Sous-Sol (BSS), le BRGM collecte, héberge et diffuse les données géologiques et environnementales, qui constituent une matière première pour des applications au service des citoyens. Les données sont à ce jour non structurées donc peu valorisables. Seule la localisation des ouvrages y est présentée, quelques métadonnées sont incluses, et des documents scannés (en raster) y sont joints. Ces documents incluent des logs de forage, parfois des diagraphies, plus rarement des carottes scannées. Les informations de ces scans constituent un gisement de connaissance immense et non valorisé (pour la connaissance du public, des décideurs, des entreprises de génie civil). <span class="has-inline-color has-ast-global-color-0-color">L’objectif du projet est de mettre à disposition l’information géologique. Cela passe par la dataïfication des ‘logs’ de forages (diagrammes de représentation verticale de séries stratigraphiques) et des diagraphies (mesure avec des ondes des roches traversées), et à terme la déduction par apprentissage des natures de roches traversées et la reconnaissance des profondeurs et des vocabulaires adossés aux registres.</span></p>
+
+
+
+<p><strong>Secrétariat Général de le Défense et de la Sécurité Nationale. <em>Solution de veille de sources d’actualité ouvertes pour améliorer l’alerte et la prise de décision</em>.</strong> Le Secrétariat général de la défense et de la sécurité nationale compte parmi ses missions la veille des menaces et des risques qui pèsent sur la France. Il confie cette mission en particulier au Bureau de veille et d’alerte (BVA), au sein de la Direction de protection et de sécurité de l’Etat. Le BVA participe ainsi, et uniquement à partir de sources ouvertes d’Internet, à l’alerte et à la bonne information des décideurs gouvernement aux 24 heures sur 24. L’objectif est de développer un outil d’automatisation de la veille sur internet. <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-0-color">Cet outil permettra : 1) un passage à l’échelle sur la quantité de flux traitée (quantité d’informations évaluée), qui aujourd’hui est bloqué par le nombre d’agents du bureau, et qui sera débloqué par l’outil, par la capacité de stockage des données et la puissance de calcul ; 2) aux agents de consacrer plus de temps à des tâches à plus forte valeur ajoutée, en particulier d’accompagner la montée en puissance du BVA sur la synthèse et l’analyse.</mark></p>
+
+
+
+<h2 class="wp-block-heading" id="un-accompagnement-scientifique-sur-tous-les-domaines-de-l-ia">Un accompagnement scientifique sur tous les domaines de l&rsquo;IA</h2>
+
+
+
+<p>Les lauréats de l’accompagnement recherche bénéficient d’un <strong>accompagnement scientifique</strong> piloté par le Lab IA pour <strong>réaliser un prototype fonctionnel</strong>. Les aspects techniques seront confiés à des personnes rattachées à des équipes de recherche (ingénieurs de recherche, positions temporaires, post-doc, doctorants le cas échéant).</p>
+
+
+
+<p>Les projets portent sur tous les domaines de l’IA (le traitement automatique du langage naturel, la vision par ordinateur, l’apprentissage automatique sur des données structurées) et concernent aussi bien le développement qu’un algorithme que l’amélioration de l’explicabilité ou la correction d’un biais algorithmique. Les lauréats sont accompagnés sur <strong>une durée d’un an</strong>.</p>
+
+
+
+<p>A l’issue de l’accompagnement, le Lab IA et le lauréat auront un retour d’expérience suffisant pour être en mesure de décider si l’expérimentation est concluante ou non et le cas échéant de prendre une décision pour prolonger l’expérimentation, industrialiser le produit ou l’abandonner. </p>
+
+
+
+<h2 class="wp-block-heading" id="composition-du-jury">Composition du jury</h2>
+
+
+
+<p>Le jury de sélection était composé des membres suivants : </p>
+
+
+
+<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<ul><li><strong>Laure Lucchesi</strong>, Directrice de Etalab</li><li><strong>Bertrand Braunschweig</strong>, Ex-Directeur de la mission Inria de coordination du programme national de recherche en intelligence artificielle</li><li><strong>Ioana Manolescu</strong>, Directrice scientifique du Lab IA</li><li><strong>Paul-Antoine Chevalier</strong>, Responsable du Lab IA</li><li><strong>Oana Balalau</strong>, Chercheuse Inria</li><li><strong>Robin Reynaud</strong>, Chef de projet Lab IA</li></ul>
+</div></div>
+
+
+
+<h3 class="wp-block-heading">&nbsp;</h3>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

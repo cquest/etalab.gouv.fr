@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Soizic Pénicaud &#8211; Etalab</title>
+	<atom:link href="/author/soizic-penicaud/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 24 Aug 2021 09:22:02 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Soizic Pénicaud &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Penser les enjeux éthiques des algorithmes publics avec le studio Design Friction : des ressources ludiques et un webinaire pour présenter la démarche</title>
+		<link>/design-friction-etalab</link>
+		
+		<dc:creator><![CDATA[Soizic Pénicaud]]></dc:creator>
+		<pubDate>Fri, 23 Jul 2021 05:10:28 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=15566</guid>
+
+					<description><![CDATA[En juin 2021, le studio Design Friction a mis en ligne nosalgorithmes.fr. Ce site de ressources est le fruit d’un travail à l’initiative de l’équipe “algorithmes publics” d’Etalab, qui souhaitait explorer les enjeux sociaux et politiques des algorithmes publics à travers des méthodes de design spéculatif. Découvrir le site nosalgorithmes.fr Faire un pas de côté &#8230;<p class="read-more"> <a class="" href="/design-friction-etalab"> <span class="screen-reader-text">Penser les enjeux éthiques des algorithmes publics avec le studio Design Friction : des ressources ludiques et un webinaire pour présenter la démarche</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p>En juin 2021, <a rel="noreferrer noopener" href="https://design-friction.com/" data-type="URL" data-id="https://design-friction.com/" target="_blank">le studio Design Friction</a> a mis en ligne <a rel="noreferrer noopener" href="http://nosalgorithmes.fr/" data-type="URL" data-id="http://nosalgorithmes.fr/" target="_blank">nosalgorithmes.fr</a>. Ce site de ressources est le fruit d’un travail à l’initiative de l’équipe “algorithmes publics” d’Etalab, qui souhaitait explorer les enjeux sociaux et politiques des algorithmes publics à travers des méthodes de design spéculatif.</p></blockquote>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img fetchpriority="high" decoding="async" width="1024" height="523" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/E5rU087WYAQSkX_-1024x523.jpeg" alt="" class="wp-image-15567 size-full" srcset="/wp-content/uploads/2021/07/E5rU087WYAQSkX_-1024x523.jpeg 1024w, /wp-content/uploads/2021/07/E5rU087WYAQSkX_-300x153.jpeg 300w, /wp-content/uploads/2021/07/E5rU087WYAQSkX_-768x392.jpeg 768w, /wp-content/uploads/2021/07/E5rU087WYAQSkX_.jpeg 1364w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-large-font-size"><a rel="noreferrer noopener" href="http://nosalgorithmes.fr/" data-type="URL" data-id="http://nosalgorithmes.fr/" target="_blank">Découvri</a><a href="http://nosalgorithmes.fr/" data-type="URL" data-id="http://nosalgorithmes.fr/" target="_blank" rel="noreferrer noopener">r</a><a rel="noreferrer noopener" href="http://nosalgorithmes.fr/" data-type="URL" data-id="http://nosalgorithmes.fr/" target="_blank"> le site nosalgorithmes.fr</a></p>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Faire un pas de côté</h2>
+
+
+
+<p>Dans le cadre de ses travaux sur les algorithmes publics, Etalab <a href="https://guides.etalab.gouv.fr/algorithmes" data-type="URL" data-id="https://guides.etalab.gouv.fr/algorithmes" target="_blank" rel="noreferrer noopener">accompagne les administrations dans la mise en œuvre de leurs obligations au sujet de la transparence et de l’explicabilité des algorithmes publics</a>.</p>
+
+
+
+<p>A travers nos diverses actions (événements, accompagnement des administrations, etc.), nous avons pu constater un besoin persistant de médiation autour de ce qu’est un algorithme et de ses enjeux. En particulier, nous souhaitions faire un pas de côté par rapport au cadre légal et nous poser la question de l’opportunité : au-delà de la transparence des algorithmes déjà mis en place, <em>quid </em>de transformer voire de ne pas mettre en œuvre des algorithmes à venir ?&nbsp;</p>
+
+
+
+<p>C’est ainsi que nous avons décidé de faire appel au studio Design Friction. Sortant de notre zone de confort, nous avons utilisé différentes méthodes issues du design spéculatif pour explorer ces sujets. Le principe : utiliser les imaginaires, inventer des futurs possibles (et pas nécessairement souhaitables) pour provoquer la réflexion et le débat.&nbsp;</p>
+
+
+
+<figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="1024" height="683" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/NosAlgos-JetonsHumanite-situation-1024x683.jpeg" alt="" data-id="15568" data-full-url="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/NosAlgos-JetonsHumanite-situation.jpeg" data-link="https://www.etalab.gouv.fr/?attachment_id=15568" class="wp-image-15568" srcset="/wp-content/uploads/2021/07/NosAlgos-JetonsHumanite-situation-1024x683.jpeg 1024w, /wp-content/uploads/2021/07/NosAlgos-JetonsHumanite-situation-300x200.jpeg 300w, /wp-content/uploads/2021/07/NosAlgos-JetonsHumanite-situation-768x512.jpeg 768w, /wp-content/uploads/2021/07/NosAlgos-JetonsHumanite-situation-1536x1024.jpeg 1536w, /wp-content/uploads/2021/07/NosAlgos-JetonsHumanite-situation.jpeg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="1024" height="724" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/NosAlgos-MondeDegrade-Affichage-1024x724.jpeg" alt="" data-id="15569" data-full-url="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/NosAlgos-MondeDegrade-Affichage.jpeg" data-link="https://www.etalab.gouv.fr/?attachment_id=15569" class="wp-image-15569" srcset="/wp-content/uploads/2021/07/NosAlgos-MondeDegrade-Affichage-1024x724.jpeg 1024w, /wp-content/uploads/2021/07/NosAlgos-MondeDegrade-Affichage-300x212.jpeg 300w, /wp-content/uploads/2021/07/NosAlgos-MondeDegrade-Affichage-768x543.jpeg 768w, /wp-content/uploads/2021/07/NosAlgos-MondeDegrade-Affichage-1536x1086.jpeg 1536w, /wp-content/uploads/2021/07/NosAlgos-MondeDegrade-Affichage.jpeg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul><figcaption class="blocks-gallery-caption">Extraits de quelques scénarios spéculatifs présents sur le site : les jetons d&rsquo;humanité et les algorithmes en mo(n)de dégradé</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Le produit final : nosalgorithmes.fr&nbsp;</h2>
+
+
+
+<p>Cette démarche a mené à la création de ressources par Design Friction, rassemblées sur le site <a href="https://nosalgorithmes.fr/" target="_blank" rel="noreferrer noopener">nosalgorithmes.fr</a>.</p>
+
+
+
+<p>Ce site contient notamment :</p>
+
+
+
+<ul><li><strong>Des scénarios de design fiction qui peuvent être utilisés pour de la sensibilisation</strong>, avec un kit de mise en débat ;</li><li><strong>L’Algora, un jeu pour dialoguer autour d’algorithmes présents et à venir</strong>, à destination de l’administration mais aussi d’organisations de la société civile telles que des associations ;</li><li><strong>Les résultats d’un atelier et d’une enquête menés à l’automne 2020</strong> auprès d’agents publics sur leur perception des algorithmes.&nbsp;</li></ul>
+
+
+
+<figure class="wp-block-gallery aligncenter columns-2 is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="576" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/algora-1-1024x576.jpeg" alt="" data-id="15572" data-full-url="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/algora-1.jpeg" data-link="https://www.etalab.gouv.fr/?attachment_id=15572" class="wp-image-15572" srcset="/wp-content/uploads/2021/07/algora-1-1024x576.jpeg 1024w, /wp-content/uploads/2021/07/algora-1-300x169.jpeg 300w, /wp-content/uploads/2021/07/algora-1-768x432.jpeg 768w, /wp-content/uploads/2021/07/algora-1-1536x864.jpeg 1536w, /wp-content/uploads/2021/07/algora-1.jpeg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="576" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/algora-3-1024x576.jpeg" alt="" data-id="15571" class="wp-image-15571" srcset="/wp-content/uploads/2021/07/algora-3-1024x576.jpeg 1024w, /wp-content/uploads/2021/07/algora-3-300x169.jpeg 300w, /wp-content/uploads/2021/07/algora-3-768x432.jpeg 768w, /wp-content/uploads/2021/07/algora-3-1536x864.jpeg 1536w, /wp-content/uploads/2021/07/algora-3.jpeg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul><figcaption class="blocks-gallery-caption">Extraits de l&rsquo;Algora</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Revoir le webinaire interactif de présentation</h2>
+
+
+
+<p>Un webinaire de présentation de la démarche a été organisé à l’occasion de la sortie du site. </p>
+
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="1024" height="576" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/nosalgos-cover-rxsx-alt-1024x576.jpg" alt="" class="wp-image-15575 size-full" srcset="/wp-content/uploads/2021/07/nosalgos-cover-rxsx-alt-1024x576.jpg 1024w, /wp-content/uploads/2021/07/nosalgos-cover-rxsx-alt-300x169.jpg 300w, /wp-content/uploads/2021/07/nosalgos-cover-rxsx-alt-768x432.jpg 768w, /wp-content/uploads/2021/07/nosalgos-cover-rxsx-alt-1536x864.jpg 1536w, /wp-content/uploads/2021/07/nosalgos-cover-rxsx-alt.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-large-font-size"><a href="https://www.dailymotion.com/video/x82ilcs" data-type="URL" target="_blank" rel="noreferrer noopener">(Re)voir le webinaire</a></p>
+</div></div>
+
+
+
+<blockquote class="wp-block-quote"><p>Des remarques, des questions ? Utilisez <a href="http://nosalgorithmes.fr/#contact">le formulaire de contact</a> sur le site pour les partager !</p></blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Rétrospective d&#8217;Etalab #5/6 : Accompagner la transformation numérique des administrations &#8211; les défis du programme EIG en 2020</title>
+		<link>/eig-2020</link>
+		
+		<dc:creator><![CDATA[Soizic Pénicaud]]></dc:creator>
+		<pubDate>Thu, 18 Feb 2021 15:16:26 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Ecosystème]]></category>
+		<category><![CDATA[Entrepreneurs d'Intérêt Général]]></category>
+		<category><![CDATA[Innovation ouverte / open innovation]]></category>
+		<category><![CDATA[L'équipe]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14972</guid>
+
+					<description><![CDATA[Ce blogpost fait partie d’une série de rétrospectives de l’année 2020 autour d’axes de travail d’Etalab : utiliser la science des données et l’intelligence artificielle pour l’administration, ouvrir et faire circuler les données publiques, accompagner l’administration dans l’utilisation de logiciels libres et la publication de codes sources, organiser la production des données et accompagner les &#8230;<p class="read-more"> <a class="" href="/eig-2020"> <span class="screen-reader-text">Rétrospective d&#8217;Etalab #5/6 : Accompagner la transformation numérique des administrations &#8211; les défis du programme EIG en 2020</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Ce blogpost fait partie d’une série de rétrospectives de l’année 2020 autour d’axes de travail d’Etalab : utiliser la science des données et l’intelligence artificielle pour l’administration, ouvrir et faire circuler les données publiques, accompagner l’administration dans l’utilisation de logiciels libres et la publication de codes sources, organiser la production des données et accompagner les administrations sur l’explicabilité et la redevabilité des algorithmes.</em></p>
+
+
+
+<p>Le programme&nbsp;<a href="https://entrepreneur-interet-general.etalab.gouv.fr/" target="_blank" rel="noreferrer noopener">Entrepreneurs d’Intérêt Général</a>, piloté par le pôle Accompagnement d&rsquo;Etalab, accompagne depuis 2016 les administrations dans leur transformation numérique en leur permettant d’accueillir des profils du numérique (data, développement, design).</p>
+
+
+
+<h2 class="wp-block-heading">Construire une promotion 4 diverse et résiliente</h2>
+
+
+
+<p>En 2020, le programme a continué à grandir. <strong>Le premier semestre a été consacré à la constitution de la quatrième promotion, qui est la plus grosse de l&rsquo;histoire du programme </strong>: 41 EIG (contre onze lors de la première promotion) ont rejoint l&rsquo;une des 17 administrations lauréates en septembre.</p>
+
+
+
+<p><strong>L&rsquo;appel à candidatures s&rsquo;est révélé un succès : plus de 800 candidatures</strong> ont été reçues, soit quatre fois plus que les promotions précédentes.</p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/le-programme-entrepreneurs-dinteret-general-presente-sa-quatrieme-promotion" target="_blank">Cette promotion 4 est également la plus diverse</a>, à plusieurs niveaux : diversification des compétences d&rsquo;abord, avec une part beaucoup plus importante de designers que lors des promotions précédentes. <strong>Diversification des profils ensuite : cette promotion est la plus paritaire, avec 44% de femmes</strong> dans la promotion.  </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="https://github.com/entrepreneur-interet-general/site-eig/blob/master/img/blog/bootcamp/blogposteig4-promotion.jpg?raw=true" alt="Photo d'une quarantaine de jeunes personnes dans une cour. Elles sont masquées et se tiennent espacées les unes des autres. Elles sourient derrière leur masque."/><figcaption>La quatrième promotion EIG lors du séminaire d&#8217;embarquement en septembre 2020</figcaption></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/07/genres-EIG-4-7.png" alt="Graphique qui présente la répartition des genres pour la quatrième promotion EIG. Sur un total de 41 personnes, 18 sont des femmes et 23 des hommes. Sur 14 designers, 8 sont des femmes et 6 des hommes. Sur 17 développeurs et développeuses, 7 sont des femmes et 10 des hommes. Sur 10 data scientists, 3 sont des femmes et 7 des hommes. " width="748" height="560"/><figcaption>Chiffres issus des données déclaratives de civilité renseignées dans les dossiers de candidature</figcaption></figure></div>
+
+
+
+<h2 class="wp-block-heading">Adapter les méthodes à la situation sanitaire</h2>
+
+
+
+<p><strong>Le programme repose beaucoup sur l’animation d’un collectif d’entraide, la création de liens entre projets et l’immersion des profils du numérique dans l’administration. </strong>Ainsi, la situation sanitaire a beaucoup compliqué l’organisation du programme.</p>
+
+
+
+<p>Des adaptations ont dû être inventées dès la constitution de la promotion, notamment lors de l’organisation des jurys (<a href="https://entrepreneur-interet-general.etalab.gouv.fr/blog/2020/04/01/retour-experience-jury-en-ligne.html" target="_blank" rel="noreferrer noopener" class="broken_link">lire notre retour d’expérience sur l’organisation du jury en ligne</a>).</p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/blog/2020/11/10/bootcamp-comment-collaborer-efficacement-equipe-interdisciplinaire.html" target="_blank" class="broken_link">La traditionnelle “semaine d’embarquement” des EIG </a>fut également hybride. Le mois de septembre fut, pour beaucoup d&rsquo;EIG, l&rsquo;unique opportunité de se rencontrer « en vrai » et d&rsquo;être réellement en immersion dans leur administration. </p>
+
+
+
+<p><strong>Les rituels d’animation ont été adaptés à du distanciel. </strong>L’outil open source <a rel="noreferrer noopener" href="https://bulletins.eig-forever.org/#screenshots" target="_blank">Bulletins</a> s’est révélé très utile pour continuer à partager des informations. Le distanciel a également été l&rsquo;occasion d&rsquo;innover, avec notamment l’organisation d’un séminaire en visioconférence en décembre 2020. Plusieurs expertes et experts d’Etalab, de beta.gouv, de la DINUM et du SIG ont apporté leur regard sur les projets EIG en cours.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="https://pbs.twimg.com/media/EpXHFHBXIAAZq7D?format=jpg&amp;name=large" alt="Capture d'écran d'un webinaire. 14 personnes (en webcam) sourient devant leur caméra. Un écran est partagé, avec une diapositive qui indique : &quot;Accessibilité - Anne-Sophie Tranchet, beta.gouv&quot; ; &quot;Intégrer une démarche utilisateurs - Raphaël Yharrassarry, beta.gouv&quot; ; &quot;Préparer des tests utilisateurs - Kheira Belkacem et Julien Leclerc, commando UX&quot; ; &quot;Data engineering - Geoffrey Aldebert, Etalab&quot; ; &quot;Code Review - Yannick François, beta.gouv&quot; ; &quot;Ouverture et documentation - Bastien Guerry, Etalab&quot; ; &quot;Data Science - Paul-Antoine Chevalier et Pavel Soriano, Etalab&quot; et &quot;Open Data - Antonin Garrone, Etalab&quot;"/><figcaption>Capture d&rsquo;écran lors du séminaire EIG de décembre 2020 (outil utilisé : instance Big Blue Button mise en place par beta.gouv.fr). </figcaption></figure></div>
+
+
+
+<p><strong>Malgré ces obstacles, les EIG sont parvenus à obtenir des résultats en seulement quelques mois. </strong>En décembre 2020, presque tous les défis avaient déjà réalisé des premiers prototypes, et plus de la moitié avait mené des démarches d&rsquo;acculturation au numérique dans leurs administrations.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="813" height="466" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/Capture-décran-2021-02-16-à-22.36.18.png" alt="Infographie indiquant les premiers retours des EIG 4.
+
+Les équipes se sentent : émoji très content de taille moyenne, émoji content de grande taille, émoji pas content de très petite taille.
+
+Accès au matériel : 70% Ordinateurs adéquats, 80% Serveurs à disposition, 50% Logiciels nécessaires, 40% Hébergements accessibles
+
+14 Semaines 
+Accompagnement : 5 jours de bootcamp et 2 sessions
+Un collectif : entraide, pair à pair 
+
+Compréhension des usagers : 
+9 défis ont rencontrés les usagers et les ont bien compris
+3 disent les connaître par coeur 
+2 disent que leurs usagers sont en partie identifiés
+1 demande &quot;qui ?...&quot;
+
+Tests auprès des usagers
+11 ont intégrés des tests auprès des usagers à la démarche
+5 ont rencontré des difficultés pour organiser ou mobiliser des usagers
+
+15 défis ont réalisé des protoypes (8 : premières ébauches, 5 : architectures fonctionnelles, 2 : solutions déployées) dont 9 codes sources en partie développés, 3 pipelines de données, 7 interfaces et 3 basés sur le design system de l'Etat
+
+Autour des défis : 
+10 ont organisé des présentations auprès des décideurs, 9 ont fait des apports stratégiques, 9 des démarches d'acculturation, 4 ont contribué à d'autres projets, 2 ont organisé des formations internes et 1 a fait de la diffusion de documentation." class="wp-image-14975"/><figcaption>Résumé graphique des premiers résultats EIG, en décembre 2020</figcaption></figure></div>
+
+
+
+<p><strong>Rendez-vous en juin 2021 pour les résultats finaux !</strong></p>
+
+
+
+<h2 class="wp-block-heading">Rester en lien avec l&rsquo;extérieur</h2>
+
+
+
+<p>Fidèle à ses valeurs d&rsquo;ouverture et d&rsquo;apprentissage continu, le programme a continué à entretenir des liens avec des organisations hors de l&rsquo;administration. Parmi elles, <a href="https://www.latitudes.cc/" target="_blank" rel="noreferrer noopener">l&rsquo;association Latitudes</a>, avec laquelle le programme a établi un partenariat tout au long de l&rsquo;année 2020. Des membres de Latitudes ont participé aux jurys de sélection des projets et des EIG, et des bénévoles ont également prêté main forte pour la partie présélection. Des membres de l&rsquo;équipe Etalab ont par ailleurs été membre d&rsquo;un jury d&rsquo;aiguillage de projets, un des dispositifs de Latitudes. La Nuit du code citoyen, un hackathon qui s&rsquo;annonçait comme l&rsquo;un des temps forts de l&rsquo;année, a malheureusement été décalé du fait de la situation sanitaire.</p>
+
+
+
+<p>Le programme a également créé des liens forts avec l&rsquo;organisation allemande <a rel="noreferrer noopener" href="https://tech.4germany.org/" target="_blank" class="broken_link">DigitalService4German</a><a rel="noreferrer noopener" href="https://tech.4germany.org/" target="_blank" class="broken_link">y</a>, qui propose différents programmes de<em> fellowships </em>similaires  à EIG au sein du gouvernement allemand. L&rsquo;équipe du programme EIG est notamment intervenue (à distance !) lors du séminaire hors-les-murs des fellows en septembre 2020.</p>
+
+
+
+<p>Plusieurs événements ont été co-organisés avec d&rsquo;autres structures, notamment la communauté du <a href="https://www.lelaptop.com/" target="_blank" rel="noreferrer noopener">Laptop</a> qui a mobilisé des EIG designers lors d&rsquo;un <a href="https://www.lelaptop.com/evenement/webinar-le-design-dinteret-general-a-lepreuve-de-la-pandemie/" target="_blank" rel="noreferrer noopener">webinaire sur « Le Design d&rsquo;Intérêt Général à l&rsquo;épreuve de la pandémie »</a>. </p>
+
+
+
+<p>Enfin, si vous vous demandez toujours quelle est la différence entre <a rel="noreferrer noopener" href="https://www.dailymotion.com/video/x7y0lbw" target="_blank">beta.gouv.fr et EIG</a>, nos équipes y ont répondu dans le cadre du Mois de l&rsquo;innovation publique. </p>
+
+
+
+<h2 class="wp-block-heading">Suivre les promotions précédentes</h2>
+
+
+
+<p>L&rsquo;année 2020 a également été l&rsquo;occasion de se pencher sur les suites des défis EIG 3, suite à la fin de la promotion en novembre 2019. L&rsquo;équipe a organisé un <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/blog/2021/01/05/evenement-mip-eig3.html" target="_blank" class="broken_link">webinaire sur la pérennisation de la transformation numérique</a> qui a mobilisé trois ex-mentors de la promotion.</p>
+
+
+
+<p>Les derniers défis de la promotion Designers d&rsquo;Intérêt Général se sont également achevés. <a href="https://www.dailymotion.com/video/x7xtjdr" target="_blank" rel="noreferrer noopener">Un webinaire de restitution de quatre défis a notamment été organisé, sur le thème de l&rsquo;environnement et de la biodiversité</a>.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/12/Capture-de%CC%81cran-2020-12-11-a%CC%80-08.55.00.png" alt="Sur la majeure partie de l'écran : une capture d'écran de portail en ligne montrant la France et les mers et océans qui l'entoure. Cette capture d'écran est collée sur un fond blanc où sont inscrites des annotations qui donnent des explications sur les différents choix d'interface du portail. En bas de l'image, en beaucoup plus petit, les vignettes vidéo de 5 personnes dont une en train de parler."/><figcaption>Cécile Canel présente les maquettes qu’elle a réalisées pour la refonte des portails cartographiques du Shom. La refonte est en train d’être mise en oeuvre.</figcaption></figure></div>
+
+
+
+<p>Par ailleurs, une évaluation est actuellement en cours sur les défis EIG 3 : un an après la fin du programme, les outils produits sont-ils toujours maintenus et utilisés ? Où en sont les EIG ? Qu&rsquo;en est-il de la transformation des anciennes administrations d&rsquo;accueil ? </p>
+
+
+
+<h2 class="wp-block-heading">Pérenniser le programme</h2>
+
+
+
+<p>En 2020, une étape importante a été franchie pour le programme. Financé par le programme d&rsquo;investissement d&rsquo;avenir pendant trois ans, <strong>il dispose désormais d&rsquo;un financement en loi de finances.</strong></p>
+
+
+
+<p>Le programme occupe également une place de choix dans le rapport <a href="https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/12/rapport_-_pour_une_politique_publique_de_la_donnee_-_23.12.2020__0.pdf" target="_blank" rel="noreferrer noopener">« Pour une politique publique de la donnée, des algorithmes et des codes sources »</a> remis au Premier ministre par le député Eric Bothorel. La mission y reconnaît l&rsquo;intérêt du dispositif pour attirer des profils rares dans l&rsquo;administration.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Recommandation n°21 du rapport : Passer à l’échelle et inscrire dans la durée le programme d’entrepreneurs d’intérêt général.</p></blockquote>
+
+
+
+<h2 class="wp-block-heading">2021 : se projeter vers la promotion 5</h2>
+
+
+
+<p><strong>L&rsquo;année 2021 commence déjà sur les chapeaux de roues : </strong><a href="https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general" target="_blank" rel="noreferrer noopener">l&rsquo;appel à projets auprès des administrations</a> pour la cinquième promotion du programme est en cours jusqu&rsquo;au 7 avril. Parmi les nouveautés, la recherche de juristes du numérique parmi les profils EIG.<br>L&rsquo;appel à candidatures pour recruter les profils du numérique sera, lui, lancé dans les prochains jours.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Administrations, <a href="https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general" target="_blank" rel="noreferrer noopener">répondez à l&rsquo;appel à projets pour la promotion 5</a>.</p><cite>Pour être au courant de l&rsquo;actualité du programme, <a href="https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio" target="_blank" rel="noreferrer noopener" class="broken_link">inscrivez-vous à notre liste de diffusion</a> et <a href="https://twitter.com/eigforever" target="_blank" rel="noreferrer noopener">suivez-nous sur Twitter</a>.</cite></blockquote>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mois de l&#8217;innovation publique 2020 : retour sur les événements d&#8217;Etalab</title>
+		<link>/mois-de-linnovation-publique-2020-retour-sur-les-evenements-detalab</link>
+		
+		<dc:creator><![CDATA[Soizic Pénicaud]]></dc:creator>
+		<pubDate>Wed, 06 Jan 2021 11:37:27 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[Innovation ouverte / open innovation]]></category>
+		<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[Open data]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14650</guid>
+
+					<description><![CDATA[En novembre 2020, à l&#8217;occasion du Mois de l&#8217;innovation publique, Etalab a organisé douze événements sur les thèmes de l’ouverture, du partage et de la valorisation des données publiques. Près de 1000 personnes ont été au rendez-vous. Découvrez ci-dessous quelques temps forts de ces webinaires et ateliers et accédez aux enregistrements des sessions.  Ouverture et &#8230;<p class="read-more"> <a class="" href="/mois-de-linnovation-publique-2020-retour-sur-les-evenements-detalab"> <span class="screen-reader-text">Mois de l&#8217;innovation publique 2020 : retour sur les événements d&#8217;Etalab</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+<p>En novembre 2020, à l&rsquo;occasion du <a href="https://www.modernisation.gouv.fr/mois-innovation-publique/" class="broken_link">Mois de l&rsquo;innovation publique</a>, Etalab a organisé <a href="https://www.etalab.gouv.fr/rdv-etalab-mip-2020" target="_blank" rel="noopener noreferrer">douze événements</a> sur les thèmes de l’ouverture, du partage et de la valorisation des données publiques. Près de 1000 personnes ont été au rendez-vous. Découvrez ci-dessous quelques temps forts de ces webinaires et ateliers et accédez aux enregistrements des sessions. </p>
+
+
+<h3 class="wp-block-heading">Ouverture et circulation des données</h3>
+
+
+
+<h5 class="wp-block-heading"><strong>Faire circuler les données entre administrations grâce aux API</strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p>Voir <em><a rel="noreferrer noopener" href="https://www.dailymotion.com/video/x7xsjgz" target="_blank">l&rsquo;enregistrement</a> du webinaire « Simplifier les démarches des citoyens grâce aux API »</em>.</p></blockquote>
+
+
+
+<p>Combien de fois avez-vous dû transmettre une pièce justificative que l’administration détenait déjà ? « <em>80&nbsp;% des documents sont déjà détenus ou produits par une autre administration&nbsp;: la simplification passe par la circulation des données entre administrations</em> », rappelle Victor Gross (équipe API, Etalab). Le 26&nbsp;novembre, l’équipe API a mis en avant<strong> trois récits de collaboration pour mettre les API au service de la simplification des démarches</strong> : l&rsquo;utilisation des API au service des démarches usager (Mairie de Clamart), l&rsquo;utilisation d&rsquo;API Particulier au profit des centres communaux d&rsquo;action sociale (Up Cityzen) et l&rsquo;ouverture et la maîtrise de la circulation des données fiscales (Direction générale des finances publiques).</p>
+
+
+<p style="text-align: center;"><em>« Avant 2017, 3800 familles venaient au guichet de la mairie et attendaient jusqu’à deux heures, au risque de ne pas avoir les bons justificatifs pour leurs démarches. Grâce aux API, on observe un grand gain de temps, un calcul fiable et sécurisé, une très bonne appropriation côté agents et une envie de se connecter à plus d’API. » &#8211; </em>Aurélie Coutant, Mairie de Clamart.</p>
+
+
+<p>Pour continuer à simplifier la circulation des données entre administrations, l’équipe API a également mené un<strong> appel à idées</strong> tout au long du mois de novembre. L&rsquo;objectif : recueillir les demandes d’accès aux données publiques et les idées de services à construire grâce à elles.  L&rsquo;appel a recueilli 58&nbsp;contributions, dont la synthèse sera disponible prochainement. </p>
+
+
+
+<h5 class="wp-block-heading"><strong>Accélérer l&rsquo;ouverture des données dans les territoires</strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p>Voir et lire :</p><cite><em>• <a rel="noreferrer noopener" href="https://www.data.gouv.fr/fr/posts/retour-sur-levenement-open-data-des-territoires/" target="_blank">L&rsquo;article de synthèse du webinaire</a> « L’open data et les territoires : Quelle collaboration entre l’État et les collectivités territoriales ? » ; </em><br>• <em><a rel="noreferrer noopener" href="https://github.com/etalab/etalab/tree/master/diaporamas/Open%20Data%20des%20territoires%2026_11_2020" target="_blank">L’ensemble des présentations du webinaire</a></em>.<br><br><a rel="noreferrer noopener" href="https://infolettres.etalab.gouv.fr/subscribe/rn7y93le1" target="_blank" class="broken_link">S&rsquo;inscrire</a> à l&rsquo;infolettre data.gouv.fr.</cite></blockquote>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="605" height="372" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-15.32.52.png" alt="Histogramme ayant pour titre &quot;Historique des Collectivités ayant ouvert leurs données&quot;. L'axe des abscisses court d'octobre 2016 à octobre 2020. L'axe des ordonnées présente le nombre de collectivités, classées en quatre catégories : régions, départements, EPCI, communes. Le graphique montre une augmentation du nombre de collectivités ayant ouvert leurs données, de 101 en octobre 2016 à 589 en octobre 2020." class="wp-image-14667"/><figcaption>Jean-Marie Bourgogne, délégué général d&rsquo;OpenDataFrance, a présenté les résultats 2020 de l&rsquo;observatoire open data des territoires.</figcaption></figure></div>
+
+
+
+<p><strong>Quels sont les besoins des collectivités locales en termes d&rsquo;open data ?</strong> Quels sont les outils à leur disposition ? L&rsquo;équipe open data d&rsquo;Etalab et l’association<a rel="noreferrer noopener" href="https://www.opendatafrance.net/" target="_blank">&nbsp;OpenDataFrance</a> ont organisé un webinaire pour répondre à ces questions. </p>
+
+
+
+<p>Afin de proposer un bilan actualisé de l&rsquo;open data dans les territoires, Jean-Marie Bourgogne, délégué général d’OpenDataFrance, a introduit le webinaire en présentant les <strong>principaux résultats 2020 de<a rel="noreferrer noopener" href="https://www.opendatafrance.net/2020/10/15/observatoire-open-data-des-territoires-edition-oct-2020/" target="_blank">&nbsp;l’observatoire open data des territoires</a></strong>. </p>
+
+
+
+<p class="has-text-align-right"><em>« En octobre 2020, 589 collectivités territoriales publient des données en open data. Or, sans que cela soit une surprise, plus la taille diminue, moins la collectivité s’engage dans l’open data.<em> »</em> </em>Jean-Marie Bourgogne, OpenDataFrance.</p>
+
+
+
+<p>Deux témoignages ont ensuite illustré les <strong>besoins des collectivités locales</strong> en matière d&rsquo;ouverture des données. Marie Aboulker (Banque des territoires) a présenté un dispositif d&rsquo;accompagnement de onze villes pour mettre leurs données au service de la redynamisation des cœurs de ville. Pascal Chevallot (Agence d&rsquo;Urbanisme d&rsquo;Agglomérations de Moselle) a lui apporté son témoignage sur la mise en place d’un outil de pilotage de l&rsquo;immobilier commercial et sur les besoins des petites et moyennes collectivités en matière de visualisation de données.</p>
+
+
+
+<p>Puisque l&rsquo;administration centrale a également pour mission d&rsquo;apporter des outils au service des acteurs locaux, les deux dernières intervenantes ont présenté deux dispositifs qui facilitent la publication de données locales.  Mathilde Hoang (équipe open data, Etalab) a présenté les outils disponibles pour <strong>standardiser les données et accélérer leur ouverture</strong> et exploitation, notamment les schémas de données. Enfin, Sophie Clairet (Agence nationale de la cohésion des territoires) a présenté le<strong><a rel="noreferrer noopener" href="https://adresse.data.gouv.fr/gerer-mes-adresses" target="_blank">&nbsp;programme Bases Adresses Locales</a></strong> qui facilite et accélère la mise à jour de la Base Adresse Nationale à travers des outils d&rsquo;édition simples et ergonomiques. </p>
+
+
+
+<h3 class="wp-block-heading">Intelligence artificielle</h3>
+
+
+
+<h5 class="wp-block-heading"><strong>Innover avec l&rsquo;intelligence artificielle dans l&rsquo;administration : présentation de cinq outils développés en 2020</strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p><em>Voir et lire :</em></p><cite>•<a rel="noreferrer noopener" href="https://etalab.github.io/infolettre-lab-ia/numero-8/" target="_blank"><em> Les </em>supports de présentation et enregistrements</a><em> des webinaires « Cinq projets pour innover avec l&rsquo;intelligence artificielle dans l&rsquo;administratio<em>n »</em>, dans l&rsquo;infolettre du Lab IA </em>;<br>• <em>Les </em><a rel="noreferrer noopener" href="https://etalab.github.io/infolettre-lab-ia/" target="_blank">infolettres du Lab IA</a><em> et <a rel="noreferrer noopener" href="https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio" target="_blank" class="broken_link">s&rsquo;y inscrire</a>.</em></cite></blockquote>
+
+
+
+<p>En 2020, le Lab IA d’Etalab et la <a rel="noreferrer noopener" href="https://www.modernisation.gouv.fr/" target="_blank">direction interministérielle de la transformation publique (DITP)</a> ont accompagné 15&nbsp;projets pour la&nbsp;<strong>2<sup>ème&nbsp;</sup>promotion de l’appel à manifestation d&rsquo;intérêt-intelligence artificielle (AMI-IA&nbsp;2)</strong>. Pour le mois de l&rsquo;innovation publique, cinq des équipes ont partagé en webinaires de 30&nbsp;minutes&nbsp;<strong>les résultats de dix&nbsp;mois d’expérimentations</strong> sur des sujets variés : accélérer les délais de jugement avec le Conseil d&rsquo;Etat, rechercher plus efficacement des informations dans les dossiers patients avec le CHU de Bordeaux, optimiser le traitement des signalements sanitaires avec le Ministère de la Santé, l&rsquo;ANSM et l&rsquo;ANS, identifier les molécules contaminant l&rsquo;environnement et profiler les sources de pollution avec l&rsquo;INERIS et guider l&rsquo;implantation des entreprises artisanales avec la Chambre Régionale des Métiers et de l&rsquo;Artisanat de Nouvelle-Aquitaine (CRMANA).</p>
+
+
+
+<p class="has-text-align-right"><em>« Nous avons développé deux algorithmes pour modéliser le niveau d’équipement artisanal du territoire et le taux de survie des entreprises en fonction de leur environnement. Les premiers résultats sont très encourageants. À plus long terme, nous espérons une utilisation de l’outil à l’échelle nationale, ou une ouverture vers d’autres métiers de proximité, hors artisanat. »</em>&nbsp;&#8211; Jérôme Luret et Gaël Kohn, porteurs du projet CRMANA.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="530" height="287" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/12/blog_mip_IA.jpg" alt="Capture d'écran d'un tableau de bord présentant une carte et différents indicateurs. " class="wp-image-14669"/><figcaption>Outil d&rsquo;IA développé avec la Chambre Régionale des Métiers et de l&rsquo;Artisanat de Nouvelle-Aquitaine pour guider l&rsquo;implantation des entreprises. </figcaption></figure></div>
+
+
+
+<h5 class="wp-block-heading"><strong>Rendre l&rsquo;intelligence artificielle accessible aux administrations avec des outils mutualisés</strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p><em>Voir </em> :</p><cite>• <a rel="noreferrer noopener" href="https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=48b2421b44161208a69733549d738fc6ce9e3f6b-1606377992311" target="_blank" class="broken_link">L&rsquo;enregistrement</a><em> de l&rsquo;Open Lab <em><em>«</em></em></em> <em>Pour une IA francophone <em><em>»</em></em></em> <em>(PIAF)</em> ;<br>• <a rel="noreferrer noopener" href="https://transformations-droit.com/webinaire-la-pseudonymisation-des-decisions-de-justice-travaux-du-lab-ia-avec" target="_blank">L&rsquo;enregistrement</a><em> du webinaire <em>«</em></em> <em>La pseudonymisation des décisions de justice. Travaux du Lab IA avec la Cour de cassation et le Conseil d’État<em><em> »</em></em> aux rendez-vous Transformation du droit</em> ;<br>• <a rel="noreferrer noopener" href="https://datascience.etalab.studio/pseudo/" target="_blank" class="broken_link">La démonstration</a> de l&rsquo;outil open source de pseudonymisation développé. </cite></blockquote>
+
+
+
+<p>Le Lab IA a aussi animé un <strong>Open Lab (atelier participatif) pour présenter la nouvelle phase du projet <a rel="noreferrer noopener" href="https://piaf.etalab.studio/" target="_blank">PIAF &#8211; Pour une IA francophone</a></strong>.</p>
+
+
+
+<p><em>« Grâce au premier jeu de données francophone obtenu de façon collaborative avec plus de 9500&nbsp;annotations et plus de 700&nbsp;contributeurs, l’équipe PIAF s’est lancée depuis juin 2020 dans une nouvelle phase&nbsp;: favoriser l’appropriation des IA de question-réponse par l’administration »</em>, y a&nbsp;annoncé Guillaume Lancrenon du Lab IA d&rsquo;Etalab. </p>
+
+
+
+<p>Pour ce faire, l&rsquo;équipe a mené un travail d&rsquo;enquête aux côtés de&nbsp;<a rel="noreferrer noopener" href="http://service-public.fr/" target="_blank">service-public.fr</a>&nbsp;et d’autres administrations et imaginé un produit mutualisé avec des cas d’usages variés&nbsp;: outils pour l’agent, agent conversationnel et recherche d’informations pour le citoyen.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1321" height="661" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/12/blog_mip_PIAF.png" alt="Capture d'écran dun tableau virtuel rempli de post-its. Les catégories : acteurs, projets/ressources, freins, besoins, idées/pistes, questions." class="wp-image-14670"/><figcaption>Cartographie des acteurs, des ressources, des freins et des leviers pour une IA francophone élaborée lors de l&rsquo;Open Lab.</figcaption></figure></div>
+
+
+
+<p>L’équipe a présenté les différentes applications qui pourront être réutilisées directement par les administrations et les participants ont pu contribuer à la réflexion sur les prochaines étapes du projet via trois ateliers&nbsp;: quels cas d’usage pour les algorithmes de question-réponse ? Quelles pistes d’améliorations techniques ? Comment mieux encourager l’intelligence artificielle francophone ouverte ? </p>
+
+
+
+<p>Le Lab IA a présenté un autre&nbsp;outil mutualisé&nbsp;le 19&nbsp;novembre aux côtés du Conseil d’État et de la Cour de Cassation, cette fois pour la <strong><a rel="noreferrer noopener" href="https://datascience.etalab.studio/pseudo/" target="_blank" class="broken_link">pseudonymisation de documents</a></strong>. « <em>Initialement développé en coopération avec le Conseil d’État&nbsp;pour&nbsp;<strong>pseudonymiser les décisions de justice</strong>, <em>cet outil est open source et peut-être réutilisé pour tous types de documents textuels</em></em> », a expliqué Pavel Soriano (Lab IA, Etalab) pendant la conférence virtuelle Transformation du droit organisée par l&rsquo;association <a rel="noreferrer noopener" href="http://openlaw.fr/" target="_blank">Open Law</a> et le <a rel="noreferrer noopener" href="https://www.village-justice.com/articles/" target="_blank">Village de la justice</a>.</p>
+
+
+
+<h3 class="wp-block-heading">Open source</h3>
+
+
+
+<blockquote class="wp-block-quote"><p><em><a rel="noreferrer noopener" href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" target="_blank" class="broken_link">S&rsquo;inscrire </a>à la gazette #BlueHats, la gazette du logiciel libre dans/pour l&rsquo;administration.</em></p></blockquote>
+
+
+
+<p>Bastien Guerry, référent logiciel libre à Etalab, a animé le 23 novembre une clinique d’ouverture des codes sources. Elle a permis d’engager deux discussions importantes&nbsp;: l’une avec le CEREMA, qui a dans la foulée rejoint le groupe de travail sur les politiques de publication de codes sources, et l’autre avec le Pass Culture, qui s’interroge sur les dépôts à ouvrir en priorité. Ces deux échanges se poursuivront en 2021.</p>
+
+
+
+<h3 class="wp-block-heading">Innovation ouverte &amp; programme Entrepreneurs d&rsquo;Intérêt Général</h3>
+
+
+
+<h5 class="wp-block-heading"><strong>Pérenniser la transformation numérique&nbsp;: témoignages de mentors du programme Entrepreneurs d&rsquo;Intérêt Général</strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p>Lire <a rel="noreferrer noopener" href="https://www.dailymotion.com/video/x7xtj58" target="_blank">l&rsquo;article de synthèse et voir l&rsquo;enregistrement </a>du webinaire « Pérenniser la transformation numérique : témoignages de mentors du programme EIG ».</p><cite><a rel="noreferrer noopener" href="https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio" target="_blank" class="broken_link">S&rsquo;inscrire</a><em> à la liste de diffusion du programme EIG</em>.</cite></blockquote>
+
+
+
+<p>Lors d’une première table ronde, l’équipe du programme de transformation numérique <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/" target="_blank">Entrepreneurs d’Intérêt Général</a> (EIG) a réuni d’anciennes et anciens agents publics porteurs de projets de la promotion 3 à la <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/openjustice.html" target="_blank" class="broken_link">Cour de cassation</a>, l&rsquo;<a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cartobio.html" target="_blank" class="broken_link">Agence Bio</a> et la <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/karfur.html" target="_blank" class="broken_link">délégation interministérielle à l&rsquo;accueil et l&rsquo;intégration des réfugiés</a> (DIAIR) pour une table ronde sur le thème de la pérennisation. </p>
+
+
+
+<p>Un an après leur participation au programme, ces mentors ont fait part des avancées des projets et ont apporté leur regard sur les changements à long terme dans leurs institutions. Ce fut l’occasion de discuter des enjeux de l’immersion de spécialistes du numérique dans l’administration, de réitérer l’importance des agents publics dans la transformation de leurs services et d’évoquer les difficultés liées à la pérennisation de démarches d&rsquo;innovation.</p>
+
+
+
+<p class="has-text-align-right">«&nbsp;<em>Ce qui est très intéressant dans le programme EIG, c’est la manière dont il transforme les entités administratives qui accueillent les EIG, au-delà des projets. </em>» &#8211; Nour Allazkani (DIAIR).</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1416" height="794" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/12/evenement-mip-2020-eig3-1.png" alt="Grille présentant six vignettes de personnes en visioconférence, qui rient et sourient. " class="wp-image-14714"/><figcaption>De gauche à droite et de haut en bas : Soizic Pénicaud (équipe accompagnement, Etalab), Dorian Fléchet (Agence Bio), Simon Karleskind (DIAIR), Estelle Jond-Necand (Cour de cassation), Nour Allazkani (DIAIR), Lucas Bchini (Agence Bio).</figcaption></figure></div>
+
+
+
+<h5 class="wp-block-heading"><strong>Choisir le bon programme d&rsquo;innovation : Entrepreneurs d&rsquo;Intérêt Général et intrapreneuriat de beta.gouv.fr, quel programme pour quel projet ? </strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p>Voir <em><a rel="noreferrer noopener" href="https://www.dailymotion.com/video/x7y0lbw" target="_blank">l&rsquo;enregistrement</a></em> du webinaire <em><em>« Entrepreneurs d&rsquo;Intérêt Général vs. intrapreneuriat de beta.gouv.fr : quel programme pour quel projet ? »</em></em>.</p></blockquote>
+
+
+
+<p>L’équipe du programme Entrepreneurs d’Intérêt Général d&rsquo;Etalab s’est associée à celle de l’incubateur <a rel="noreferrer noopener" href="http://beta.gouv.fr/" target="_blank">beta.gouv.fr</a> pour une discussion-débat autour des différences et des complémentarités entre deux accompagnements à l&rsquo;innovation : le programme EIG et le programme d’intrapreneuriat de beta.gouv.fr.</p>
+
+
+
+<p>Soizic Pénicaud (équipe accompagnement, Etalab) et Florian Delezenne (beta.gouv.fr) ont pu répondre aux questions des participantes et participants  sur les profils des agents publics recherchés, les administrations éligibles, les modalités de recrutement et le coût de chaque programme pour une administration participante.</p>
+
+
+
+<p class="has-text-align-right"><em> « Ce qui fait la force des deux approches, c&rsquo;est la complémentarité. Beta.gouv.fr essaye de faire évoluer un agent vers un autre type de poste. D&rsquo;autres projets bénéficient de l&rsquo;apport d&rsquo;EIG, où des profils techniques sont intégrés dans l&rsquo;administration, sont acculturés, bénéficient d&rsquo;une communauté et font un pas dans l&rsquo;administration pour probablement y rester. » </em>&#8211; Florian Delezenne, responsable de beta.gouv.fr à la DINUM.</p>
+
+
+
+<h5 class="wp-block-heading"><strong> Mettre le design au service de l&rsquo;environnement et la biodiversité : récits de designers d&rsquo;intérêt général </strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p>Voir <em><a rel="noreferrer noopener" href="https://www.dailymotion.com/video/x7y0lbw" target="_blank">l</a><em><a rel="noreferrer noopener" href="https://www.dailymotion.com/video/x7xtjdr" target="_blank">&lsquo;enregistrement</a></em> du meetup Design Public n°5, Environnement et biodiversité.</em></p></blockquote>
+
+
+
+<p>Enfin, quatre designers de la promotion Designers d’Intérêt Général ont présenté les résultats de leurs travaux lors d’un meetup Design Public sur le thème de l’environnement et de la biodiversité :<strong> </strong>informer les citoyens sur les espaces naturels autour de chez eux (<a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/inpn-espaces.html" target="_blank" class="broken_link">Muséum d’Histoire Naturelle</a>), faciliter l’accès à une information marine de qualité (<a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/maritux.html" target="_blank" class="broken_link">Shom</a>), améliorer l’information environnementale du citoyen (<a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/sequoia-cgdd.html" target="_blank" class="broken_link">Commissariat général au développement durable</a>) et produire des données collaboratives géolocalisées (<a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/sequoia-ign.html" target="_blank" class="broken_link">Institut national de l’information géographique et forestière</a>).</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="787" height="443" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-11-à-08.55.00.png" alt="Sur la majeure partie de l'écran : une capture d'écran de portail en ligne montrant la France et les mers et océans qui l'entoure. Cette capture d'écran est collée sur un fond blanc où sont inscrites des annotations qui donnent des explications sur les différents choix d'interface du portail. En bas de l'image, en beaucoup plus petit, les vignettes vidéo de 5 personnes dont une en train de parler." class="wp-image-14666"/><figcaption>Cécile Canel présente les maquettes qu&rsquo;elle a réalisées pour la refonte des portails cartographiques du Shom. La refonte est en train d&rsquo;être mise en oeuvre. </figcaption></figure></div>
+
+
+
+<p>Les designers y ont présenté leur travail de design (recherche utilisateur, maquettes, prototypes, etc.) et se sont ouverts sur leur expérience de designer dans l’administration. </p>
+
+
+
+<p class="has-text-align-right"><em>« Mon travail de recherche utilisateur a permis de montrer qu’il y avait un grand intérêt des usagers à participer aux politiques publiques, et qu’avec des moyens restreints (un simple téléphone, par exemple), on pouvait récolter des centaines de retours usagers rapidement. » &#8211; Marie Ramon-Daré</em>, <em>Commissariat général au développement durable.</em></p>
+
+
+
+<h3 class="wp-block-heading">Nouvelles initiatives d&rsquo;accompagnement et de financement</h3>
+
+
+
+<blockquote class="wp-block-quote"><p>Voir : </p><cite>• <a rel="noreferrer noopener" href="https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=1d691cd5e000f71b87a3526bf99593e650ec6af6-1606478406272" target="_blank" class="broken_link">L&rsquo;enregistrement</a> du lancement de l&rsquo;accompagnement « Éclairer les politiques publiques par la donnée » ;<br>• <a rel="noreferrer noopener" href="https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9073c2488737f404590af494b4ec50e0db7a0119-1605012688727" target="_blank" class="broken_link">L&rsquo;enregistrement</a> de l&rsquo;événement d&rsquo;information « Cycle de vie de la donnée ».</cite></blockquote>
+
+
+
+<h5 class="wp-block-heading"><strong>Lancement de l&rsquo;accompagnement <strong>«</strong></strong> <strong>Éclairer les politiques publiques par la donnée</strong> <strong>»</strong></h5>
+
+
+
+<p><em>Qu’est-ce qu’une politique publique pilotée par la donnée&nbsp;? Quelles réalisations aujourd’hui&nbsp;? Comment lancer un projet de pilotage par la donnée&nbsp;dans son administration ?</em></p>
+
+
+
+<p>Dans le cadre du lancement de <strong>l&rsquo;offre d’accompagnement «&nbsp;Éclairer les politiques publiques par la donnée&nbsp;»</strong>, l’équipe d’Etalab a présenté les enjeux du pilotage par la donnée, les réalisations de cette année 2020 et a ouvert la discussion sur les projets que pouvaient envisager les participants du webinaire.</p>
+
+
+
+<p>Deux cas d&rsquo;usage ont été présentés : le <a rel="noreferrer noopener" href="https://dashboard.covid19.data.gouv.fr/" target="_blank">tableau de bord covid-19</a> et le <a rel="noreferrer noopener" href="https://aides-entreprises.data.gouv.fr/" target="_blank" class="broken_link">tableau de bord des aides accordées aux entreprises</a> dans le cadre du fonds de solidarité. Les discussions en atelier ont notamment exploré le pilotage des données dans les domaines de l&rsquo;environnement, de la culture, de la lutte contre les noyades en mer et traité le cas particulier des collectivités territoriales. </p>
+
+
+
+<p>Cet accompagnement est destiné aux administrations souhaitant utiliser les données pour concevoir, mettre en œuvre et évaluer leurs politiques publiques grâce aux données. Pour obtenir davantage d’informations sur ce nouveau programme, contactez l’équipe projet&nbsp;: eclairer-par-la-donnee@data.gouv.fr.</p>
+
+
+
+<p></p>
+
+
+
+<h5 class="wp-block-heading"><strong>Lancement de l&rsquo;appel à projets «</strong> <strong>Cycle de vie de la donnée</strong> <strong>»</strong></h5>
+
+
+
+<p>Etalab a organisé une réunion d&rsquo;information pour les administrations intéressées par l&rsquo;appel à projets et guichet <strong>« Cycle de vie de la donnée »</strong> initié dans le cadre du <a href="https://france-relance.transformation.gouv.fr/" target="_blank" rel="noreferrer noopener" class="broken_link">plan de relance</a>. </p>
+
+
+
+<p>Cet appel à projets s’adresse aux directions métiers d’administration ou opérateurs en charge d’une politique publique qui souhaitent développer le recours à la donnée dans la décision et la performance publique (IA, échange de données, open data, archivage). </p>
+
+
+
+<p class="has-text-align-right"><em>« Etalab propose d’accompagner les administrations candidates avec des rituels de partage d’avancées des différents projets, les ressources et outils DINUM et une clinique de la data mensuelle, un format initié par le Lab IA d’Etalab pour prendre quelques heures afin d’aider une équipe projet à trouver des solutions sur un problème précis. »</em>  &#8211; Paul-Antoine Chevalier, responsable du pôle exploitation des données et du Lab IA à Etalab. </p>
+
+
+
+<p><em>Cet article a éveillé votre curiosité ? <a href="https://www.etalab.gouv.fr/contact" target="_blank" rel="noreferrer noopener">Contactez les équipes d&rsquo;Etalab</a> pour en savoir plus sur nos travaux.  </em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Entrepreneur.e d&#8217;Intérêt Général : administrations, proposez vos défis à la future 3ème Promotion des EIG</title>
+		<link>/entrepreneur-e-dinteret-general-lappel-a-projets-pour-la-promotion-3-est-ouvert</link>
+		
+		<dc:creator><![CDATA[Soizic Pénicaud]]></dc:creator>
+		<pubDate>Fri, 04 May 2018 13:53:38 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[EIG]]></category>
+		<category><![CDATA[Entrepreneurs d'intérêt général]]></category>
+		<category><![CDATA[innovation ouverte]]></category>
+		<category><![CDATA[PIA]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8289</guid>
+
+					<description><![CDATA[[:fr] Administrations, vous avez un projet d’amélioration du service public grâce au numérique et aux données ? Vous souhaitez promouvoir l’esprit d’innovation ouverte ainsi que la culture de l’open source et de l’open data au sein de l’Etat ? &#160; Répondez à l&#8217;appel à projets de la 3ème promotion du programme Entrepreneur.e d&#8217;Intérêt Général. L’appel &#8230;<p class="read-more"> <a class="" href="/entrepreneur-e-dinteret-general-lappel-a-projets-pour-la-promotion-3-est-ouvert"> <span class="screen-reader-text">Entrepreneur.e d&#8217;Intérêt Général : administrations, proposez vos défis à la future 3ème Promotion des EIG</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<blockquote>
+<p style="text-align: justify;"><em><span style="font-weight: 400;">Administrations, vous avez un projet d’amélioration du service public grâce au numérique et aux données ? Vous souhaitez promouvoir l’esprit d’innovation ouverte ainsi que la culture de l’</span><span style="font-weight: 400;">open source </span><span style="font-weight: 400;">et de l’</span><span style="font-weight: 400;">open data </span><span style="font-weight: 400;">au sein de l’Etat ? </span></em></p>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><em><strong><a href="https://entrepreneur-interet-general.etalab.gouv.fr/assets/20180504-AAP-EIG3.pdf" target="_blank" rel="noopener noreferrer" class="broken_link">Répondez à l&rsquo;appel à projets de la 3ème promotion du programme Entrepreneur.e d&rsquo;Intérêt Général</a>.</strong></em></p>
+</blockquote>
+<p style="text-align: justify;"><span style="font-weight: 400;">L’appel à projets, intitulé « Défis de transition numérique des administrations pour la troisième promotion du programme Entrepreneur.e d&rsquo;Intérêt Général » vient d’être publié. Il est financé à hauteur de 1,5 millions d’euros par le fonds du Programme d’investissements d’avenir (PIA) « Transition numérique de l’Etat et modernisation de l’action publique »</span><span style="font-weight: 400;">, porté par le Secrétariat d’État chargé du Numérique, en lien avec le Secrétariat général pour l’investissement et la Caisse des dépôts et consignations.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Les administrations ont jusqu’au <strong>17 juin 2018 17h </strong>pour proposer des défis que la troisième promotion des EIG relèvera à partir de janvier 2019. </span><span style="font-weight: 400;">Les défis peuvent être présentés par une administration d’État, une autorité administrative indépendante, une collectivité territoriale, un établissement de santé*.</span></p>
+<blockquote><p>Accéder au cahier des charges de l&rsquo;appel à projets « Défis de transition numérique des administrations pour la troisième promotion du programme Entrepreneur.e d&rsquo;Intérêt Général » &gt;&gt; <strong><a href="https://entrepreneur-interet-general.etalab.gouv.fr/assets/20180504-AAP-EIG3.pdf" target="_blank" rel="noopener noreferrer" class="broken_link">Appel à projets défis EIG3</a><br />
+</strong></p></blockquote>
+<h2><strong><span style="color: #00b0f0;">Le programme Entrepreneur.e d’Intérêt Général</span></strong></h2>
+<p style="text-align: justify;"><span style="font-weight: 400;">Créé en 2016 par la Présidence de la République et piloté par <a href="https://twitter.com/Etalab" target="_blank" rel="noopener noreferrer">Etalab</a> au sein de la <a href="https://twitter.com/_DINSIC" target="_blank" rel="noopener noreferrer">DINSIC</a>, <strong>ce programme d’innovation ouverte </strong></span><span style="font-weight: 400;"><strong>consiste à créer une promotion de talents extérieurs à l’administration disposant de compétences numériques variées (data science, développement, design)</strong>. Recrutés en CDD pour une période 10 mois, ils sont chargés de résoudre, en équipe et avec leurs mentors (agents publics dans les administrations d’accueil) par leurs compétences numériques et leurs expériences entrepreneuriales et associatives, des défis d’intérêt général au sein des administrations. </span></p>
+<p style="text-align: justify;"><strong>L’objectif est double : </strong></p>
+<ul>
+<li style="font-weight: 400; text-align: justify;"><span style="font-weight: 400;"><strong>Permettre aux agents publics d’innover</strong> en développant leur culture numérique et en découvrant d’autres manières de travailler ;</span></li>
+<li style="font-weight: 400; text-align: justify;"><span style="font-weight: 400;"><strong>Favoriser l’engagement citoyen au sein de l’administration</strong> en ouvrant l’État à des profils numériques rares. </span></li>
+</ul>
+<p><img loading="lazy" decoding="async" class="size-large wp-image-8334 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/05/mentors-EIG2-2018-1024x503.jpg" alt="" width="806" height="396" srcset="/wp-content/uploads/2018/05/mentors-EIG2-2018-1024x503.jpg 1024w, /wp-content/uploads/2018/05/mentors-EIG2-2018-300x147.jpg 300w, /wp-content/uploads/2018/05/mentors-EIG2-2018-768x377.jpg 768w, /wp-content/uploads/2018/05/mentors-EIG2-2018-239x118.jpg 239w, /wp-content/uploads/2018/05/mentors-EIG2-2018.jpg 1386w" sizes="(max-width: 806px) 100vw, 806px" /></p>
+<p><b>Les EIG travaillent au quotidien dans leurs administrations d’accueil, où ils sont accompagnés  par une équipe projet et deux agents publics “mentors”</b> : un mentor “opérationnel” qui les accompagne au quotidien, et un mentor “stratégique” soutenant le projet à un haut niveau hiérarchique.</p>
+<p><b>Toutes les deux semaines, ils se retrouvent en “promotion” pour des sessions d’accompagnement pilotées par l’équipe d’Etalab. </b>Cela permet de mettre en commun les problématiques et les compétences tout en encourageant la collaboration inter-défis et inter-administrations.</p>
+<p>La deuxième promotion d’entrepreneurs, rassemble 28 EIG travaillant sur 13 défis différents. Elle a intégré les administrations en janvier 2018.  <a href="https://entrepreneur-interet-general.etalab.gouv.fr/" target="_blank" rel="noopener noreferrer">Retrouvez la description des défis de la promotion 2 sur la page web EIG</a></p>
+<h2><span style="font-weight: 400; color: #00b0f0;"><strong>Les nouveautés de la promotion 3 : co-financement et conditions d’engagement renforcées</strong> </span></h2>
+<p style="text-align: justify;"><b>Comme lors de la promotion 2, les défis sur lesquels les EIG seront amenés à travailler doivent être réalisés sur une période de dix mois et être dimensionnés pour accueillir deux ou trois entrepreneurs</b><span style="font-weight: 400;">, disposant d’expertises complémentaires dans les domaines suivants : développement, data science, design de service ou d’expérience utilisateur. </span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Les projets proposés par les administrations doivent <strong>avoir de l’impact pour les usagers et présenter un réel potentiel de transformation numérique de l’État,</strong> notamment dans le cadre de la transformation du service public portée par Action Publique 2022. Cette année, l’accent est mis sur la capacité des défis à accélérer l<strong>a mise en œuvre effective de l’open data par défaut et/ou à contribuer à une meilleure gouvernance des données</strong> au sein de l’administration. </span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Les administrations s’engagent également à mettre à disposition des EIG l’environnement technique et les données nécessaires à la réalisation des défis, ainsi qu’à participer au programme d’accompagnement de la promotion. </span></p>
+<p style="text-align: justify;"><b>Les administrations sélectionnées et éligibles au financement PIA* pourront bénéficier d’un co-financement des EIG à hauteur de 70% du coût total employeur. </b></p>
+<h2><strong><span style="color: #00b0f0;">Processus de sélection des administrations</span></strong></h2>
+<p style="text-align: justify;"><span style="font-weight: 400;">Les administrations peuvent déposer leur candidature sur le </span><b>site démarches-simplifiées.fr jusqu’au 17 juin 2018 17h &gt;&gt; <a href="https://www.demarches-simplifiees.fr/commencer/eig3" target="_blank" rel="noopener noreferrer">Formulaire de candidature &#8211; AAP EIG3 </a></b></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Le dossier doit comporter les éléments suivants :</span></p>
+<ul>
+<li style="font-weight: 400; text-align: justify;"><span style="font-weight: 400;"><a href="https://entrepreneur-interet-general.etalab.gouv.fr/assets/AAPEIG3_Fichedetaillee.docx" target="_blank" rel="noopener noreferrer" class="broken_link">Une fiche détaillée</a> (administration porteuse, nom du défi, objectifs, profils d’EIG recherchés, équipe projet), en annexe du cahier des charges et téléchargeable en ligne  ;</span></li>
+<li style="font-weight: 400; text-align: justify;"><span style="font-weight: 400;">Une présentation de synthèse sous forme de diapositives de 12 planches maximum (format pitch) ;</span></li>
+<li style="font-weight: 400; text-align: justify;"><span style="font-weight: 400;">Une simulation financière détaillant le coût prévisionnel d’un recrutement en CDD de 10 mois à 4000 euros nets par mois (indiquer le coût total employeur) afin de calculer la masse salariale et le montant du financement PIA.</span></li>
+</ul>
+<blockquote><p><strong>Un événement d’information aura lieu le mardi 15 mai 2018 de 17h à 19h au Liberté Living Lab &gt;&gt; <a href="https://eig3-reunion-dinformations-aap.eventbrite.fr/" target="_blank" rel="noopener noreferrer">Inscriptions en ligne</a></strong></p></blockquote>
+<p style="text-align: justify;"><b>Les administrations candidates pré-sélectionnées seront invitées à présenter leurs défis devant un jury mixte</b><span style="font-weight: 400;"> (entrepreneurs et agents publics) qui sera annoncé d’ici quelques semaines et se réunira début juillet.</span></p>
+<p style="text-align: justify;"><strong>Les candidatures seront évaluées selon 5 critères :</strong></p>
+<ol style="text-align: justify;">
+<li><span style="font-weight: 400;">Impact du défi proposé</span></li>
+<li><span style="font-weight: 400;">Qualité de l’équipe d’agents publics impliquée dans le projet</span></li>
+<li><span style="font-weight: 400;">Caractère innovant de la solution envisagée pour résoudre le défi </span></li>
+<li><span style="font-weight: 400;">Qualité et précision de la définition du défi et cohérence de l’équipe (agents, EIG) envisagée </span></li>
+<li><span style="font-weight: 400;">Adéquation avec les valeurs portées par le programme : qualité de l’accueil des EIG, travail en équipe, travail hors les murs, open source, participation au programme d’accompagnement de la promotion&#8230;</span></li>
+</ol>
+<p style="text-align: justify;"><span style="font-weight: 400;">Le processus de recrutement des EIG sera ensuite lancé en septembre 2018 via un appel à candidatures public.</span></p>
+<blockquote><p><span style="font-weight: 400;">Pour plus d’informations, contacter </span><a href="mailto:entrepreneur-interet-general@data.gouv.fr"><span style="font-weight: 400;">entrepreneur-interet-general@data.gouv.fr</span></a><span style="font-weight: 400;">.</span></p></blockquote>
+<p style="text-align: justify;"><span style="font-weight: 400;">*Note : bien que seuls les ministères soient éligibles au financement PIA, il est possible pour les autres administrations (collectivités territoriales, établissements de santé, etc.) de déposer leur candidature et de bénéficier du programme d’accompagnement de la promotion. Se référer au cahier des charges pour plus d’informations.   </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"></span></p>
+<p>&nbsp;[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Entrepreneur.e d&#8217;Intérêt Général : Administrations, préparez vos défis pour l&#8217;appel à projets de la promotion 3</title>
+		<link>/entrepreneur-e-dinteret-general-administrations-preparez-vos-defis-pour-lappel-a-projets-de-la-promotion-3</link>
+		
+		<dc:creator><![CDATA[Soizic Pénicaud]]></dc:creator>
+		<pubDate>Wed, 25 Apr 2018 16:18:06 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8206</guid>
+
+					<description><![CDATA[[:fr] C&#8217;est officiel : le programme Entrepreneur.e d&#8217;Intérêt Général est reconduit pour une 3e promotion. Administrations, préparez-vous à l&#8217;ouverture de l&#8217;appel à projets début mai. Alors que la promotion 2 des entrepreneurs d&#8217;intérêt général bat son plein, les préparatifs commencent pour la constitution de la 3e promotion, qui débutera en janvier 2019. L&#8217;objectif du programme &#8230;<p class="read-more"> <a class="" href="/entrepreneur-e-dinteret-general-administrations-preparez-vos-defis-pour-lappel-a-projets-de-la-promotion-3"> <span class="screen-reader-text">Entrepreneur.e d&#8217;Intérêt Général : Administrations, préparez vos défis pour l&#8217;appel à projets de la promotion 3</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<blockquote><p>C&rsquo;est officiel : le programme Entrepreneur.e d&rsquo;Intérêt Général est reconduit pour une 3e promotion. Administrations, préparez-vous à l&rsquo;ouverture de l&rsquo;appel à projets début mai.</p></blockquote>
+<p>Alors que la <a href="https://github.com/entrepreneur-interet-general" target="_blank" rel="noopener noreferrer">promotion 2 des entrepreneurs d&rsquo;intérêt général</a> bat son plein, les préparatifs commencent pour la constitution de la 3e promotion, qui débutera en <strong>janvier 2019</strong>.</p>
+<p>L&rsquo;objectif du programme <a href="https://www.etalab.gouv.fr/entrepreneurs-dinteret-general" target="_blank" rel="noopener noreferrer" class="broken_link">Entrepreneur.e d&rsquo;Intérêt Général</a> : créer une promotion de talents du numérique extérieurs à l’administration (data scientists, développeurs, designers), recrutés en CDD pour une période 10 mois, afin de résoudre, par leurs compétences numériques et leurs expériences entrepreneuriales et associatives, des défis d’intérêt général.</p>
+<p><img loading="lazy" decoding="async" class="alignright wp-image-8209 size-medium" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/04/bootcamp7-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2018/04/bootcamp7-300x225.jpg 300w, /wp-content/uploads/2018/04/bootcamp7-768x576.jpg 768w, /wp-content/uploads/2018/04/bootcamp7.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><strong>L&rsquo;appel à projets auprès des administrations devrait être lancé début mai, et se terminer mi-juin</strong>. Comme l&rsquo;année dernière, les projets présélectionnés seront évalués devant un jury début juillet.</p>
+<p>Plus d&rsquo;informations seront données lors de l&rsquo;ouverture de l&rsquo;appel à projets. <strong>Sachez d&rsquo;ores et déjà que vous pourrez déposer votre candidature si</strong> :</p>
+<ul>
+<li>Vous faites partie d&rsquo;une administration centrale, d&rsquo;une collectivité territoriale*, d&rsquo;un établissement de santé* ou d&rsquo;une autorité administrative indépendante ;</li>
+<li>Vous avez un projet d&rsquo;amélioration du service public grâce aux données et au numérique, réalisable en 10 mois, pour lequel vous avez besoin de compétences techniques d&rsquo;exception. Les projets de datascience et ceux en lien avec Action Publique 2022 seront particulièrement appréciés.</li>
+</ul>
+<p><strong>Nouveautés de cette promotion 3 :</strong></p>
+<ul>
+<li><strong>l&rsquo;introduction d&rsquo;un cofinancement des recrutements des EIG </strong>(<strong>PIA/administration)</strong></li>
+<li><strong>le renforcement des conditions d&rsquo;engagements des administrations d&rsquo;accueil </strong>(accès aux données, facilités techniques, portage de haut niveau)</li>
+</ul>
+<p>Rendez-vous début mai pour l&rsquo;ouverture de l&rsquo;appel à projets ! Une réunion d&rsquo;information sera organisée mi-mai.</p>
+<blockquote><p><em>&gt; Découvrez les défis de la promotion 2 sur le site <a href="https://entrepreneur-interet-general.etalab.gouv.fr/" target="_blank" rel="noopener noreferrer">Entrepreneur.e d&rsquo;Intérêt Général</a>. Pour plus d&rsquo;informations, contactez <a href="mailto:entrepreneur-interet-general@data.gouv.fr" target="_blank" rel="noopener noreferrer"><strong>entrepreneur-interet-general@data.gouv.fr</strong>.</a></em></p>
+<p>&nbsp;</p></blockquote>
+<p><em>*Les collectivités territoriales et les établissements de santé ne peuvent pas bénéficier du co-financement par le PIA, mais les administrations sélectionnées bénéficieront du même dispositif d&rsquo;accompagnement que les administrations co-financées.</em>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[Vidéo] Entrepreneur.e d&#8217;Intérêt Général : à la rencontre de 28 innovateurs publics</title>
+		<link>/video-entrepreneur-e-dinteret-general-a-la-rencontre-de-28-innovateurs-publics</link>
+		
+		<dc:creator><![CDATA[Soizic Pénicaud]]></dc:creator>
+		<pubDate>Wed, 07 Mar 2018 09:41:13 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[EIG]]></category>
+		<category><![CDATA[Entrepreneurs d'intérêt général]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8109</guid>
+
+					<description><![CDATA[[:fr] « C&#8217;est quoi, être EIG ? » Découvrez, en vidéo, le programme Entrepreneur.e d&#8217;Intérêt Général et les lauréats de la promotion 2, interviewés à l&#8217;occasion de leur séminaire d&#8217;intégration au sein de l&#8217;administration. &#160; Voilà un peu plus d&#8217;un mois que les 28 entrepreneurs d&#8217;intérêt général de la promotion 2 ou EIG, réunissant spécialistes en data &#8230;<p class="read-more"> <a class="" href="/video-entrepreneur-e-dinteret-general-a-la-rencontre-de-28-innovateurs-publics"> <span class="screen-reader-text">[Vidéo] Entrepreneur.e d&#8217;Intérêt Général : à la rencontre de 28 innovateurs publics</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<blockquote>
+<p style="text-align: justify;">« C&rsquo;est quoi, être EIG ? »</p>
+<p style="text-align: justify;">Découvrez, en vidéo, le programme Entrepreneur.e d&rsquo;Intérêt Général et les lauréats de la promotion 2, interviewés à l&rsquo;occasion de leur <a href="https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/02/27/bootcamp-comment-souder-un-collectif-de-talents/" target="_blank" rel="noopener noreferrer" class="broken_link">séminaire d&rsquo;intégration</a> au sein de l&rsquo;administration.</p>
+</blockquote>
+<p>&nbsp;</p>
+<p style="text-align: justify;">Voilà un peu plus d&rsquo;un mois que les <a href="https://www.etalab.gouv.fr/entrepreneurs-dinteret-general" target="_blank" rel="noopener noreferrer" class="broken_link">28 entrepreneurs d&rsquo;intérêt général de la promotion 2</a> ou EIG, réunissant spécialistes en data science, design et développement web, ont intégré leurs administrations d&rsquo;accueil. Découvrez-les en vidéo lors d&rsquo;une semaine particulière : celle de leur <a href="https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/02/27/bootcamp-comment-souder-un-collectif-de-talents/" target="_blank" rel="noopener noreferrer" class="broken_link">bootcamp d&rsquo;intégration</a>, organisé par l&rsquo;équipe Etalab. Les EIG se sont retrouvés en collectif pendant une semaine, pendant laquelle ils ont pu découvrir l&rsquo;écosystème du numérique et de l&rsquo;intérêt général et bénéficier des conseils et encouragements de Mounir Mahjoubi, Secrétaire d&rsquo;État chargé du Numérique.</p>
+<p><strong>Découvrez leur parcours, leurs motivations et les nouveautés de cette promotion :</strong></p>
+<p><iframe loading="lazy" frameborder="0" width="1091" height="613" src="https://www.dailymotion.com/embed/video/x6fp47d" allowfullscreen allow="autoplay"></iframe></p>
+<p style="text-align: justify;">Le bootcamp d&rsquo;intégration, organisé du 5 au 9 février derniers, est l&rsquo;une des nouveautés de cette promotion. Le but : une semaine d&#8217;embarquement accéléré en collectif, afin de permettre aux EIG de s&rsquo;intégrer au mieux à leur administration et de construire un collectif permettant le partage d&rsquo;expériences et l&rsquo;échange de compétences.</p>
+<blockquote>
+<p style="text-align: justify;"><strong>Pour découvrir comment la semaine a été conçue et ce qui en est ressorti, rendez-vous sur <a href="https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/02/27/bootcamp-comment-souder-un-collectif-de-talents/" target="_blank" rel="noopener noreferrer" class="broken_link">le blog Entrepreneur.e d&rsquo;Intérêt Général</a>.</strong></p>
+</blockquote>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Entrepreneur.e d’Intérêt Général : découvrez la Promotion 2</title>
+		<link>/entrepreneur-e-dinteret-general-decouvrez-la-promotion-2</link>
+		
+		<dc:creator><![CDATA[Soizic Pénicaud]]></dc:creator>
+		<pubDate>Wed, 29 Nov 2017 09:10:44 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[EIG]]></category>
+		<category><![CDATA[Entrepreneurs d'intérêt général]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=7822</guid>
+
+					<description><![CDATA[[:fr] Etalab est fier de vous dévoiler la Promotion 2 des Entrepreneurs d&#8217;intérêt général ! Le programme Entrepreneur.e d&#8217;Intérêt Général s&#8217;agrandit ! Après un jury d&#8217;exception, la deuxième promotion a été constituée. En janvier 2018,  27 entrepreneurs d&#8217;intérêt général, ou EIG (data scientists, développeur.se.s, designers UX) rejoindront leurs mentors, des agents publics pionniers, et auront &#8230;<p class="read-more"> <a class="" href="/entrepreneur-e-dinteret-general-decouvrez-la-promotion-2"> <span class="screen-reader-text">Entrepreneur.e d’Intérêt Général : découvrez la Promotion 2</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<blockquote>
+<p style="text-align: justify;"><strong>Etalab est fier de vous dévoiler la Promotion 2 des Entrepreneurs d&rsquo;intérêt général !</strong></p>
+<p style="text-align: justify;">Le programme <a href="https://entrepreneur-interet-general.etalab.gouv.fr/" target="_blank" rel="noopener noreferrer">Entrepreneur.e d&rsquo;Intérêt Général</a> s&rsquo;agrandit ! Après un jury d&rsquo;exception, la deuxième promotion a été constituée. En janvier 2018,  27 entrepreneurs d&rsquo;intérêt général, ou EIG (data scientists, développeur.se.s, designers UX) rejoindront leurs mentors, des agents publics pionniers, et auront 10 mois pour relever des <a href="https://entrepreneur-interet-general.etalab.gouv.fr/">défis</a> ambitieux de transformation du service public.</p>
+</blockquote>
+<h2><em><span style="color: #00b0f0;">Un programme attractif : plus de 200 candidatures en 1 mois<br />
+</span></em></h2>
+<p style="text-align: justify;">Le 27 septembre 2017, <a href="https://www.etalab.gouv.fr/en-2018-devenez-entrepreneur%E2%80%A2e-dinteret-general-rejoignez-la-promotion-2" target="_blank" rel="noopener noreferrer">un appel à candidature</a> a été ouvert, proposant à des profils extérieurs à l&rsquo;administration d&rsquo;intégrer l&rsquo;Etat. L&rsquo;objectif : contribuer à l&rsquo;amélioration du service public en relevant un défi de transformation numérique. Les candidats ont pu découvrir la nature des 13 défis proposés, les mentors et l&rsquo;esprit du programme EIG, via un <a href="https://entrepreneur-interet-general.etalab.gouv.fr/" target="_blank" rel="noopener noreferrer">site</a> et lors d&rsquo;événements de promotion (événement d&rsquo;information accueilli par le Secrétaire d&rsquo;Etat chargé du numérique, restitution des défis de la Promotion 1, meetups, etc.).</p>
+<p style="text-align: justify;">En un mois, 205 candidatures ont été reçues. Quelques chiffres :</p>
+<p style="text-align: justify;">[table id=1 /]</p>
+<ul style="text-align: justify;">
+<li>Les défis qui ont reçu le plus de candidatures sont <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/hopkins/" class="broken_link">Hopkins</a> (Ministère de l’Action et des Comptes Publics) et <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/socialconnect/" class="broken_link">SocialConnect</a> (Carrefour des Innovations Sociales, Commissariat Général à l’Égalité des Territoires).</li>
+<li>Une avancée notable : 30% de candidates, contre 12% l’année dernière, notamment grâce à un travail de communication auprès de meetups et collectifs de femmes dans la <em>tech</em> pendant l’appel à candidature.</li>
+</ul>
+<p style="text-align: justify;">A l&rsquo;issue de l&rsquo;appel à candidature, une présélection a été effectuée par les équipes d&rsquo;Etalab, de l&rsquo;incubateur de services numériques betagouv, et par les administrations d’accueil. 80 candidats ont été pré-sélectionnés pour être auditionnés par un jury.</p>
+<h2><span style="color: #00b0f0;"><em>80 can<span style="color: #00b0f0;">didats a</span>uditionnés en deux jours par un jury d’exception</em></span></h2>
+<p><figure id="attachment_7823" aria-describedby="caption-attachment-7823" style="width: 409px" class="wp-caption alignleft"><img loading="lazy" decoding="async" class="wp-image-7823" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/11/eig2jury1-1024x768.jpg" alt="Les membres du jury réunis avant le début des entretiens" width="409" height="307" srcset="/wp-content/uploads/2017/11/eig2jury1-1024x768.jpg 1024w, /wp-content/uploads/2017/11/eig2jury1-300x225.jpg 300w, /wp-content/uploads/2017/11/eig2jury1-768x576.jpg 768w, /wp-content/uploads/2017/11/eig2jury1.jpg 1600w" sizes="(max-width: 409px) 100vw, 409px" /><figcaption id="caption-attachment-7823" class="wp-caption-text"><em>Les membres du jury réunis avant le début des entretiens &#8211; Commissariat général à l&rsquo;investissement<br /></em></figcaption></figure></p>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><strong>Les 14 et 15 novembre derniers, les 80 candidats finalistes ont été auditionnés.</strong> Le jury était composé des mentors des défis, de personnalités extérieures (experts et écosystème numérique, issues du monde de la recherche, de l&rsquo;entrepreneuriat) et de membres d&rsquo;Etalab, de betagouv et de l&rsquo;administration.</p>
+<p style="text-align: justify;"><strong>Le défi du jury : auditionner 80 candidats et sélectionner des lauréats en moins de 48 heures.</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><strong>Composition du jury</strong></p>
+<ul style="text-align: justify;">
+<li><strong>John Paul Farme</strong>r, Microsoft Technology &amp; Civic Innovation et créateur du programme <a href="https://presidentialinnovationfellows.gov/"><em>Presidential Innovation Fellows </em>d&rsquo;Obama aux États-Unis</a></li>
+<li><strong>Martin Tisné</strong>, Omidyar Networks</li>
+<li><strong>Cyrille Bertin</strong>, Wikimédia France</li>
+<li><strong>Virginia Cruz</strong>, Interaction Design Sight &amp; Lab</li>
+<li><strong>Xavier Dupré</strong>, ENSAE</li>
+<li><strong>Claire-Marie Foulquier-Gazagnes</strong>, Google Arts &amp; Culture</li>
+<li><strong>Stéphane Gaiffas</strong>, École Polytechnique</li>
+<li><strong>Paul Duan</strong>, Bayes Impact</li>
+<li><strong>Sophie Pène</strong>, Centre de Recherches Interdisciplinaires</li>
+<li><strong>Laurent Michel,</strong> Commissariat général à l&rsquo;investissement</li>
+<li><strong>Somalina Pa</strong>, Ministère de l’Éducation Nationale</li>
+<li><strong>Laurence Monnoyer-Smith</strong>, Commissariat Général au Développement Durable</li>
+<li><strong>Pierre Le Clainche,</strong> Ministère de la Culture</li>
+<li><strong>Laure Lucchesi</strong>, Etalab, DINSIC</li>
+<li><strong>Mathilde Bras,</strong> Etalab, DINSIC</li>
+<li><strong>Vincent Bataille</strong>, Etalab, DINSIC</li>
+<li><strong>Christian Quest</strong>, Etalab, DINSIC</li>
+<li><strong>Mauko Quiroga</strong>, Etalab, DINSIC</li>
+<li><strong>Christine Balian</strong>, DINSIC</li>
+<li><strong>Hela Ghariani</strong>, betagouv, DINSIC</li>
+<li><strong>Jihane Herizi</strong>, betagouv, DINSIC</li>
+</ul>
+<blockquote><p>« Un très bon moment. J’ai été surprise de voir une telle diversité de profils de candidats, d’âges et d’expériences différentes, notamment parmi les designers. Le programme EIG leur donne l’opportunité, en binôme avec d’autres métiers, de montrer l’apport du design dans l’action publique. 10 mois qui s’annoncent passionnants ! » Virginia Cruz, membre du jury.</p></blockquote>
+<p><figure id="attachment_7842" aria-describedby="caption-attachment-7842" style="width: 1090px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-7842" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/11/JURY-EIG3.png" alt="" width="1090" height="422" srcset="/wp-content/uploads/2017/11/JURY-EIG3.png 1481w, /wp-content/uploads/2017/11/JURY-EIG3-300x116.png 300w, /wp-content/uploads/2017/11/JURY-EIG3-768x298.png 768w, /wp-content/uploads/2017/11/JURY-EIG3-1024x397.png 1024w" sizes="(max-width: 1090px) 100vw, 1090px" /><figcaption id="caption-attachment-7842" class="wp-caption-text"><em>Clôture du jury accueillie par Louis Schweitzer, Commissaire général à l&rsquo;investissement. A droite, John Paul Farmer, initiateur du programme <a href="https://presidentialinnovationfellows.gov/">Presidential Innovation Fellowship</a> partage ses idées avec Louis Schweitzer et Laure Lucchesi.</em></figcaption></figure></p>
+<h2><span style="color: #00b0f0;"><em>Découvrez les lauréats &#8211; EIG Promotion 2</em> </span></h2>
+<p>Après deux jours d’entretiens intensifs, le jury a ainsi sélectionné les lauréats de cette deuxième promotion. Ceux-ci se sont démarqués par leurs compétences techniques, leurs expériences entrepreneuriales et associatives et leur motivation à servir l’intérêt général.</p>
+<p style="text-align: justify;"><strong>Cette promotion de 28 EIG est composée de 14 data scientists, 9 développeur.ses, 4 designers UX et 1 profil gestion de projet/animation technique. Elle compte 6 femmes, et la moyenne d’âge est de trente ans environ.</strong></p>
+<p><strong>Les parcours et profils des lauréats vont seront présentés prochainement, en attendant, voici la liste des EIG &#8211; Promotion 2 :</strong></p>
+<ul>
+<li style="text-align: justify;"><strong>Elsa Lunéville</strong> et <strong>Antoine Augusti</strong> rejoignent la Direction des Affaires Maritimes du Ministère de la Transition Écologique et Solidaire pour collaborer sur le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/donneesauvetagemaritime/" target="_blank" rel="noopener noreferrer" class="broken_link">Prédisauvetage</a>.</li>
+<li style="text-align: justify;"><strong>Philéas Condemine, Samah Ghalloussi, et Julien Naour </strong>rejoignent la Direction de la recherche, des études, de l’évaluation et des statistiques (DREES) pour collaborer sur le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/labsante/" target="_blank" rel="noopener noreferrer" class="broken_link">Lab Santé</a>.</li>
+<li style="text-align: justify;"><strong>Auguste Baldessin </strong>et <strong>Laurie Chapotte</strong> rejoignent le Ministère de la Culture pour collaborer sur le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/gobelins/" target="_blank" rel="noopener noreferrer" class="broken_link">Gobelins</a>.</li>
+<li style="text-align: justify;"><strong>Guillaume Lancrenon </strong>et <strong>Tiphaine Phe-Neau</strong> rejoignent le Ministère de l’Intérieur pour collaborer sur le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/previsecours/" target="_blank" rel="noopener noreferrer" class="broken_link">Prévisecours</a>.</li>
+<li style="text-align: justify;"><strong>Arnaud Ménard </strong>et <strong>Adrien Signorino</strong> rejoignent le Service hydrographique et océanographique de la Marine (Shom) pour collaborer sur le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/balisenav/" target="_blank" rel="noopener noreferrer" class="broken_link">baliseNAV</a>.</li>
+<li style="text-align: justify;"><strong>Pierre Camilleri</strong> et <strong>Christophe Ninucci</strong> rejoignent la DIRECCTE Bourgogne-Franche-Comté pour collaborer sur le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/signauxfaibles/" target="_blank" rel="noopener noreferrer" class="broken_link">Signaux Faibles</a>.</li>
+<li style="text-align: justify;"><strong>Paul Boosz, Benoît Guigal et Victor Schmidt</strong> rejoignent le Ministère de l’Action et des Comptes Publics pour collaborer sur le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/hopkins/" target="_blank" rel="noopener noreferrer" class="broken_link">Hopkins</a>.</li>
+<li style="text-align: justify;"><strong>Elise Lalique</strong> et <strong>Julien Paris</strong> rejoignent le Commissariat Général à l’Égalité des Territoires pour collaborer sur le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/socialconnect/" target="_blank" rel="noopener noreferrer" class="broken_link">SocialConnect</a> (Carrefour des innovations sociales).</li>
+<li style="text-align: justify;"><strong>Jean-Baptiste Assouad</strong> et <strong>Emmanuel Gautier</strong> rejoignent le Secrétariat général des ministères chargés des affaires sociales pour collaborer sur le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/archemse/" target="_blank" rel="noopener noreferrer" class="broken_link">ArchiFiltre.</a></li>
+<li style="text-align: justify;"><strong>Alina Dora Crisan</strong> et <strong>Jean-Baptiste Le Dévéhat </strong>rejoignent la Mission numérique de la gendarmerie nationale pour collaborer sur le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/brigadenumerique/" target="_blank" rel="noopener noreferrer" class="broken_link">Brigade Numérique</a>.</li>
+<li style="text-align: justify;"><strong>Bastien Guerry</strong> rejoint Etalab en tant qu&rsquo;EIG Link.</li>
+<li style="text-align: justify;"><strong>David Panou </strong>et <strong>Arnaud Rachez</strong> rejoignent le Ministère de l’Éducation Nationale pour collaborer sur le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/coacheleves/" target="_blank" rel="noopener noreferrer" class="broken_link">CoachÉlèves/AssistProf</a>.</li>
+<li>Pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/dataesr/" target="_blank" rel="noopener noreferrer" class="broken_link">dataESR</a>, <strong>Sami Moustachir</strong> ainsi que 2 autres lauréats (en cours de confirmation) rejoindront le Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation.</li>
+</ul>
+<p>Le Secrétaire d&rsquo;État chargé du Numérique Mounir Mahjoubi a souhaité la bienvenue à la deuxième promotion à travers une vidéo, dans laquelle il félicite les nouveaux EIG de leur sélection.</p>
+<p style="text-align: center;"><iframe loading="lazy" src="//www.dailymotion.com/embed/video/k75WdKaPtx8CAApLRBY" width="480" height="270" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h2><em><span style="color: #00b0f0;">Lancement de la promotion mi-janvier 2018</span></em></h2>
+<blockquote>
+<p style="text-align: justify;">« J&rsquo;ai été vraiment impressionnée par la qualité des EIG sélectionnés pour le jury. La force du programme EIG c&rsquo;est la rencontre d&rsquo;un besoin métier d&rsquo;utiliser des données ou les outils numériques et de talents voulant mettre leurs compétences au service de nos concitoyens. Le mois de décembre sera consacré à présenter les EIG à tout notre écosystème professionnel, qui nous a ouvert ou va nous ouvrir ses données, et à organiser leur accueil matériel dans les meilleures conditions. Le début d&rsquo;année sera consacré à une présentation auprès de notre directeur et de tout le comité de direction des EIG pour que l&rsquo;intégration se passe au mieux et que les EIG puissent être des acteurs de l&rsquo;apprentissage pair à pair et du travail en réseau ». Laurence Matringe, mentor du défi Prédisauvetage</p>
+</blockquote>
+<p style="text-align: justify;">Les mentors des administrations d’accueil préparent déjà l’arrivée des EIG, afin qu’elles et ils aient à disposition le matériel informatique et les jeux de données nécessaires pour relever leurs défis. La promotion démarrera mi-janvier. Un accompagnement régulier des EIG et des mentors sera assuré par l’équipe d’Etalab et par l’EIG Link, afin de promouvoir la collaboration, l’entraide et le partage de compétences, l&rsquo;ouverture de ressources numériques, entre ces entrepreneur.es hors du commun.</p>
+<p><strong>En savoir plus :</strong></p>
+<ul>
+<li><a href="https://entrepreneur-interet-general.etalab.gouv.fr/" target="_blank" rel="noopener noreferrer">https://entrepreneur-interet-general.etalab.gouv.fr/</a></li>
+<li><a href="mailto:entrepreneur-interet-general@data.gouv.fr" target="_blank" rel="noopener noreferrer">entrepreneur-interet-general@data.gouv.fr</a></li>
+</ul>
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mathilde Hoang &#8211; Etalab</title>
+	<atom:link href="/author/mathilde-h/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Thu, 09 Jul 2020 15:10:55 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Mathilde Hoang &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Participez à l’élaboration de la nouvelle feuille de route open data d’Etalab !</title>
+		<link>/participez-a-lelaboration-de-la-nouvelle-feuille-de-route-open-data-detalab</link>
+		
+		<dc:creator><![CDATA[Mathilde Hoang]]></dc:creator>
+		<pubDate>Fri, 26 Jun 2020 13:17:19 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14365</guid>
+
+					<description><![CDATA[Vers une nouvelle feuille de route open data. Depuis la création d’Etalab en 2011, le paysage de l’open data français a largement évolué au bénéfice d’une plus grande transparence de l’action publique et de la mise à disposition de données emblématiques au public.]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading"><strong>Vers une nouvelle feuille de route open data</strong></h3>
+
+
+
+<p>Depuis la création d’<a href="https://www.etalab.gouv.fr/qui-sommes-nous">Etalab</a> en 2011, <a href="https://guides.etalab.gouv.fr/juridique/chronologie/" target="_blank" rel="noreferrer noopener">le paysage de l’open data français a largement évolué</a> au bénéfice d’une plus grande transparence de l’action publique et de la mise à disposition de données emblématiques au public.</p>
+
+
+
+<p>Avec la mise en œuvre de la <a href="https://guides.etalab.gouv.fr/juridique/ouverture/#la-diffusion-de-vos-documents-administratifs">diffusion spontanée des données publiques</a> et la montée en compétence des administrations sur le sujet, la plateforme <a href="http://data.gouv.fr/" target="_blank" rel="noreferrer noopener">data.gouv.fr</a> bénéficie d’une hausse croissante du nombre de ses utilisateurs et des contributions.</p>
+
+
+
+<p>Pour autant, de nombreux objectifs restent encore à atteindre, tandis que de nouveaux enjeux sont apparus au cours des dernières années : l’amélioration de la qualité et l’interopérabilité des données, l’identification des données à fort impact, la «&nbsp;découvrabilité&nbsp;» des jeux de données, l’accompagnement des producteurs et des réutilisateurs de données…</p>
+
+
+
+<p>Durant les prochains mois, Etalab souhaite mener une réflexion pour comprendre les usages des différents acteurs et identifier les nouvelles grandes priorités pour l’open data français.</p>
+
+
+
+<p>Cette réflexion, coordonnée par <a rel="noreferrer noopener" href="https://datactivist.coop/fr/" target="_blank">l’équipe de Datactivist</a>, s’appuiera sur différents travaux :</p>
+
+
+
+<ul><li>État des lieux de l’existant fondé sur une analyse des métriques de la plateforme <a href="http://data.gouv.fr/" target="_blank" rel="noreferrer noopener">data.gouv.fr</a> et sur l’organisation d’entretiens utilisateurs ;</li><li>Benchmark de solutions data et open data ;</li><li>Organisation de webinaires thématiques avec la participation de notre équipe et des acteurs de l’open data.</li></ul>
+
+
+
+<h3 class="wp-block-heading"><strong>Co-construire la feuille de route à partir de vos besoins</strong></h3>
+
+
+
+<p>Nous sommes persuadés que cette future feuille de route doit s’appuyer sur les attentes exprimées par l’ensemble des acteurs de l’open data.</p>
+
+
+
+<p>Que vous soyez producteurs de données, réutilisateurs de données ou simples curieux, nous vous invitons à donner votre avis et nous faire part de vos suggestions afin d’imaginer l’open data de demain !</p>
+
+
+
+<p>À partir du vendredi 26 juin, nous vous invitons à participer aux enquêtes utilisateurs qui nous permettront de comprendre vos usages et besoins :</p>
+
+
+
+<ul><li><a href="https://framaforms.org/enquete-datagouvfr-usagers-1590438305" target="_blank" rel="noreferrer noopener" class="broken_link">Enquête auprès des usagers de la plateforme data.gouv.fr</a></li><li><a rel="noreferrer noopener" href="https://framaforms.org/enquete-datagouvfr-producteurs-de-donnees-1589315908" target="_blank" class="broken_link">Enquête auprès des producteurs de données qui publient sur la plateforme data.gouv.fr</a></li></ul>
+
+
+
+<p>Bien entendu, l’ensemble des réponses anonymisées sera publié sur <a rel="noreferrer noopener" href="http://data.gouv.fr/" target="_blank">data.gouv.fr</a> et nous proposerons un compte-rendu des enseignements retenus durant cette phase de réflexion. L’<a href="https://www.etalab.gouv.fr/contact">équipe d’Etalab reste disponible</a> pour toute question relative au projet de feuille de route open data. Merci pour votre participation !</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>2e Hackathon #DataFin : participez à l&#8217;exploitation des données financières des collectivités locales</title>
+		<link>/hackathon-datafin-participez-a-lexploitation-des-donnees-financieres-des-collectivites-locales</link>
+		
+		<dc:creator><![CDATA[Mathilde Hoang]]></dc:creator>
+		<pubDate>Wed, 18 Dec 2019 17:15:22 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=12453</guid>
+
+					<description><![CDATA[Les finances locales, en particulier la gestion financière des collectivités, suscitent un vif intérêt de la part de la société civile. Ces données, qu’elles soient budgétaires, fiscales ou comptables, ou qu&#8217;elles concernent les grands équilibres des finances publiques locales, restent méconnues du grand public. Partant du principe qu’une meilleure appropriation des données financières par les &#8230;<p class="read-more"> <a class="" href="/hackathon-datafin-participez-a-lexploitation-des-donnees-financieres-des-collectivites-locales"> <span class="screen-reader-text">2e Hackathon #DataFin : participez à l&#8217;exploitation des données financières des collectivités locales</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Les finances locales, en particulier la gestion financière des collectivités, suscitent un vif intérêt de la part de la société civile. Ces données, qu’elles soient budgétaires, fiscales ou comptables, ou qu&rsquo;elles concernent les grands équilibres des finances publiques locales, restent méconnues du grand public.</p>
+
+
+
+<p>Partant du principe <strong>qu’une meilleure appropriation des données financières par les citoyens contribue à objectiver les débats sur les politiques publiques locales et sur leur financement</strong>, le Sénat, l’Assemblée nationale, le ministère de l’Action et des Comptes publics, le ministère de la Cohésion des territoires et des Relations avec les collectivités territoriales, la Cour des comptes et l’Observatoire des finances et de la gestion publique locales (OFGL), avec le concours de la direction interministérielle du numérique (DINUM), vous proposent de participer au <strong>2e hackathon « DataFin », consacré cette fois-ci aux finances locales.</strong></p>
+
+
+
+<h2 class="wp-block-heading">Quand et où ?</h2>
+
+
+
+<p><strong>Du vendredi 24 janvier 2020 au samedi 25 janvier 2020</strong>, au <strong>Sénat</strong>.<br>Attention, tous les participants devront se munir d&rsquo;une carte d&rsquo;identité pour accéder aux locaux.  </p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Pour qui ?</h2>
+
+
+
+<p>Que vous ayez des compétences en développement, data-science, design, recherche, journalisme ou que vous soyez un(e) citoyen(ne) curieux(se), vous avez tous votre place au hackathon !</p>
+
+
+
+<h2 class="wp-block-heading">Pour relever quels défis ?</h2>
+
+
+
+<p>Vous pouvez dès à présent soumettre les défis que vous souhaitez relever en équipe ! Vous pouvez également rejoindre des défis déjà proposés. Rendez-vous sur le <a href="https://datafin.fr/">site du hackathon</a>. </p>
+
+
+
+<p>Afin de vous inspirez, <a href="https://www.impots.gouv.fr/portail/actualite/retour-sur-le-succes-du-hackathon-datafin-les-15-et-16-juin-dernier" class="broken_link">retrouvez ici</a> les défis proposés par les participants du premier hackathon DataFin, organisé en juin 2018.</p>
+
+
+
+<h2 class="wp-block-heading">Avec quelles données disponibles ?</h2>
+
+
+
+<p>À l&rsquo;occasion du hackathon, de nombreuses acteurs, nationaux ou locaux, proposent des jeux de données en open data. Vous pouvez les retrouver dès à présent sur <a href="https://datafin.fr/donnees">le site du hackathon.</a> </p>
+
+
+
+<p>À noter que <strong>de nouveaux jeux de données seront publiés pour la première fois en open data dans les prochaines semaines.</strong> La direction générale des Collectivités locales, l&rsquo;observatoire des finances et de la gestion publique locales, la Cour des comptes ou encore des collectivités territoriales travaillent à la préparation de ces jeux de données. </p>
+
+
+
+<h2 class="wp-block-heading">Où s&rsquo;inscrire ?</h2>
+
+
+
+<p>Vous pouvez d’ores et déjà vous inscrire et soumettre vos défis sur <a href="https://datafin.fr/">le site du hackathon DataFin</a>.</p>
+
+
+
+<p class="has-text-align-center"><a href="https://datafin.fr/">INSCRIVEZ-VOUS !</a></p>
+
+
+
+<p>Une confirmation d’inscription par mail vous sera adressée, validant votre participation (En conséquence merci d’indiquer votre adresse mail dans le formulaire d’inscription, champ « Contact »).</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hackathon « À l’asso des données » : participez à la valorisation des données des associations !</title>
+		<link>/hackathon-a-lasso-des-donnees</link>
+		
+		<dc:creator><![CDATA[Mathilde Hoang]]></dc:creator>
+		<pubDate>Thu, 31 Oct 2019 15:02:57 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=12336</guid>
+
+					<description><![CDATA[Le monde associatif joue en France un rôle essentiel aussi bien au niveau démocratique, économique que social. Il existe aujourd&#8217;hui 1,5 million d&#8217;associations françaises, qui disposent d&#8217;un budget annuel global de 113 milliards d&#8217;euros, plus de 20 millions de bénévoles et 1,8 million de salariés¹. L&#8217;open data et l&#8217;exploitation des données sont une opportunité pour &#8230;<p class="read-more"> <a class="" href="/hackathon-a-lasso-des-donnees"> <span class="screen-reader-text">Hackathon « À l’asso des données » : participez à la valorisation des données des associations !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Le monde associatif joue en France un rôle essentiel aussi bien au niveau démocratique, économique que social. Il existe aujourd&rsquo;hui<strong> 1,5 million d&rsquo;associations françaises, </strong>qui disposent d&rsquo;un budget annuel global de 113 milliards d&rsquo;euros, plus de 20 millions de bénévoles et 1,8 million de salariés¹. </p>
+
+
+
+<p><strong>L&rsquo;open data et l&rsquo;exploitation des données sont une opportunité pour valoriser le dynamisme du monde associatif, pour faciliter son action, et soutenir et améliorer des politiques publiques qui s&rsquo;y rapportent. </strong></p>
+
+
+
+<p>En coordination avec <a href="https://lemouvementassociatif.org/">le Mouvement associatif</a>, <a href="https://www.latitudes.cc/">Latitudes</a>, le <a href="https://www.regiedequartier.org/">Comite National de Liaison des Régies de Quartier</a> et avec le soutien du <a href="https://www.education.gouv.fr/">Ministère de l&rsquo;Éducation nationale et de la Jeunesse</a>, Etalab organisera le <strong>samedi 30 novembre 2019 le hackathon « À l&rsquo;Asso des données ! ».</strong></p>
+
+
+
+<h2 class="wp-block-heading">Quand ?</h2>
+
+
+
+<p>Le samedi 30 novembre de 10h à 20h.</p>
+
+
+
+<h2 class="wp-block-heading">Où ?</h2>
+
+
+
+<p><a href="http://lescanaux.com/">Les Canaux</a>, 6 Quai de la Seine, 75019 Paris.</p>
+
+
+
+<h2 class="wp-block-heading">Pour qui ?</h2>
+
+
+
+<p>Que vous ayez des compétences en développement, data-science, design, recherche, data-journalisme ou que vous soyez un(e) citoyen(ne) curieux(se), vous avez tous votre place au hackathon !</p>
+
+
+
+<h2 class="wp-block-heading">Avec quelles données disponibles ?</h2>
+
+
+
+<p>Vous aurez à disposition l&rsquo;ensemble des données publiées en open data sur data.gouv.fr et sur différents portails de données. </p>
+
+
+
+<p>À l&rsquo;occasion du hackathon, de nouvelles données relatives à la vie associative seront publiées ! Afin de vous faciliter la recherche de données, <a href="https://www.data.gouv.fr/fr/posts/les-jeux-de-donnees-des-associations/">Etalab vous propose de découvrir une sélection de jeux de données relative à la vie associative.</a> </p>
+
+
+
+<h2 class="wp-block-heading">Où s&rsquo;inscrire ?</h2>
+
+
+
+<p>Vous pouvez dès à présent vous inscrire au hackathon et  choisir ou proposer un défi !</p>
+
+
+
+<p class="has-text-align-center"><a href="https://airtable.com/shrioxDikGmUzz7Tq">INSCRIVEZ-VOUS ET DECOUVREZ LES DEFIS </a></p>
+
+
+
+<p></p>
+
+
+
+<p>¹ TCHERNONOG, Viviane et TABARIÉS, Muriel. Le paysage associatif français. 2016, <a href="https://www.editions-dalloz.fr/le-paysage-associatif-francais.html" class="broken_link">https://www.editions-dalloz.fr/le-paysage-associatif-francais.html</a> </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bercy libère 15 millions de transactions immobilières en ouvrant la base des demandes de valeurs foncières</title>
+		<link>/bercy-libere-15-millions-de-transactions-immobilieres-en-ouvrant-la-base-des-demandes-de-valeurs-foncieres</link>
+		
+		<dc:creator><![CDATA[Mathilde Hoang]]></dc:creator>
+		<pubDate>Fri, 03 May 2019 13:36:50 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10294</guid>
+
+					<description><![CDATA[Mercredi 24 avril 2019, la direction générale des finances publiques (DGFiP) a rendu publique l’intégralité des données foncières sur les cinq dernières années, regroupées dans une base de donnée appelée « demandes de valeurs foncières », ou DVF pour les initiés. Ce que contient la base demandes de valeurs foncières Comme son nom l’indique, la &#8230;<p class="read-more"> <a class="" href="/bercy-libere-15-millions-de-transactions-immobilieres-en-ouvrant-la-base-des-demandes-de-valeurs-foncieres"> <span class="screen-reader-text">Bercy libère 15 millions de transactions immobilières en ouvrant la base des demandes de valeurs foncières</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Mercredi 24 avril 2019, la direction générale des finances publiques (DGFiP) a rendu publique l’intégralité des <a href="https://cadastre.data.gouv.fr/dvf">données foncières sur les cinq dernières années</a>, regroupées dans une base de donnée appelée « demandes de valeurs foncières », ou DVF pour les initiés.</p>
+
+
+
+<h2 class="wp-block-heading">Ce que contient la base demandes de valeurs foncières</h2>
+
+
+
+<p>Comme son nom l’indique, la base de demandes des valeurs foncières contient des données… foncières, c’est-à-dire des données sur les <em>fonds</em> de terre, les terrains qui peuvent servir de support aux constructions immobilières — des parcelles, pour le dire en français courant.</p>
+
+
+
+<p>Pour simplifier, à chaque fois qu’un <em>fonds</em> de terre ou un bien change de main, une entrée est créée dans la base DVF — on parle alors de mutations à titre onéreux. Dit autrement, à chaque passage devant le notaire, une ligne est ajoutée dans la base DVF. Les passages devant le notaire peuvent être déclenchés par les actes suivants :</p>
+
+
+
+<ul><li>une vente de bien (achat d’une parcelle, d’une appartement ou d’une maison) ;</li><li>une vente en l’état futur d’achèvement (aussi appelée vente sur plan) ;</li><li>une vente de terrain à bâtir ;</li><li>un échange de parcelles ;</li><li>une adjudication (ventes aux enchères) ;</li><li>une expropriation.</li></ul>
+
+
+
+<p>Et pour chaque mutation à titre onéreux (transaction) ayant eu lieu au cours des cinq dernières années, la base DVF indique :</p>
+
+
+
+<ul><li>l’adresse du bien cédé ;</li><li>le prix du bien cédé (sans frais d&rsquo;agence ni de notaire) ;</li><li>la date de la transaction ;</li><li>le type de la transaction (vente, échange, adjudication ou expropriation) ;</li><li>une description du bien (surface, nombre de pièces et ainsi de suite) ;</li><li>les références cadastrales (identifiants de la parcelle).</li></ul>
+
+
+
+<p>Comme la base DVF ne contient que des données sur les transactions qui passent par le marché, elles ne contient pas d’informations sur les actes suivants :</p>
+
+
+
+<ul><li>donations ;</li><li>successions ;</li><li>legs.</li></ul>
+
+
+
+<h2 class="wp-block-heading">Où trouver la base demandes de valeurs foncières ?</h2>
+
+
+
+<h3 class="wp-block-heading">Télécharger les données brutes</h3>
+
+
+
+<p>La base DVF peut-être téléchargée depuis <a href="https://www.data.gouv.fr/">https://www.data.gouv.fr/</a>. Une version géolocalisée de la base est également mise à disposition par Etalab.</p>
+
+
+
+<ul><li><a href="https://www.data.gouv.fr/fr/datasets/5c4ae55a634f4117716d5656/">Télécharger la base DVF</a></li><li><a href="https://www.data.gouv.fr/fr/datasets/5cc1b94a634f4165e96436c1/">Télécharger la base DVF géolocalisée</a></li></ul>
+
+
+
+<h3 class="wp-block-heading">Explorer les données sur une carte</h3>
+
+
+
+<p>Pour visualiser les transactions foncières sur une carte, Etalab a mis sur pied une application web qui permet d’explorer les données de la base DVF, sans qu’il soit nécessaire de les télécharger et de les manipuler.</p>
+
+
+
+<ul><li><a href="https://app.dvf.etalab.gouv.fr/">Explorer les données sur une carte</a></li></ul>
+
+
+
+<h2 class="wp-block-heading">Pourquoi rendre publique la base demandes de valeurs foncières ?</h2>
+
+
+
+<p>Les données sur les valeurs foncières étaient jusque là consultables sur impots.gouv.fr, mais elles nécessitaient un numéro fiscal pour pouvoir être consultées. Bercy a souhaité aller plus loin dans l’ouverture de la base DVF, en la rendant publique sur <a href="https://www.data.gouv.fr/">data.gouv.fr</a>. Cette publication est motivée par les raisons suivantes :</p>
+
+
+
+<ul><li><strong>Donner plus d’informations aux acheteurs</strong>. — L’accès aux données DVF apporte une transparence accrue sur le fonctionnement du marché de l’immobilier et réduit les asymétries d’information entre les acteurs. Chaque acheteur est désormais capable de connaître précisément les montants des transactions dans un quartier donné. Il n’est plus obligé de passer par un acteur tiers (agence immobilière, notaire etc.) pour obtenir ces informations.</li><li><strong>Limiter les transferts de données entre administrations et collectivités</strong>. — Comme les données DVF sont désormais publiques, en ligne, visibles et consultables par tous, la direction générale des finances publiques n’a plus à consacrer de temps à l’envoi de la base DVF aux autres administrations ou aux collectivités.</li><li><strong>Permettre la création de services autour des données</strong>. — La mise à disposition des données foncières devrait permettre à des entreprises de réutiliser les données pour créer des services innovants, qui permettront notamment de visualiser sur une carte les dernières transactions ayant eu lieu dans un quartier donné.</li></ul>
+
+
+
+<h2 class="wp-block-heading">Ce à quoi servaient déjà la base demandes de valeurs foncières</h2>
+
+
+
+<h3 class="wp-block-heading">Le cas du CEREMA avec AppDVF</h3>
+
+
+
+<p>Depuis quelques années, le centre d&rsquo;études et d&rsquo;expertise sur les risques, l&rsquo;environnement, la mobilité et l&rsquo;aménagement (CEREMA) collabore avec la DGFiP afin de valoriser les bases de données fiscales. Le CEREMA propose des outils d’aide à l’observation des marchés et d’aide à la décision politique.</p>
+
+
+
+<p>À titre d’exemple, <a href="https://www.cerema.fr/fr/actualites/cerema-concu-appdvf-application-gratuite-collectivites-afin-0">l’application AppDVF</a> est un outil gratuit de visualisation et d’exploitation simple des données foncières, qui utilise la base DVF. À partir de l’application, il est possible de rechercher des informations ou encore de générer rapidement des indicateurs agrégés à différentes échelles cartographiques.</p>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="1024" height="767" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/05/CEREMA-1-1024x767.jpg" alt="" class="wp-image-10305" srcset="/wp-content/uploads/2019/05/CEREMA-1-1024x767.jpg 1024w, /wp-content/uploads/2019/05/CEREMA-1-300x225.jpg 300w, /wp-content/uploads/2019/05/CEREMA-1-768x575.jpg 768w, /wp-content/uploads/2019/05/CEREMA-1.jpg 1512w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Inventer les usages de demain pour la base demandes de valeurs foncières</h2>
+
+
+
+<h3 class="wp-block-heading">Retour sur le hackathon DVF à Bercy</h3>
+
+
+
+<p>Afin de valoriser l’ouverture des données foncières et de travailler collectivement à leur réutilisation, une journée de hackathon a été organisée au ministère de l’économie et des finances le 24 avril 2019.</p>
+
+
+
+<p>L’événement a réuni des acteurs issus du secteur public comme privé ainsi que des membres de la société civile : des professionnels de l’immobilier, des bailleurs sociaux, des établissements publics fonciers, des chercheurs, des membres d’associations et des représentants des collectivités territoriales et de l’administration.</p>
+
+
+
+<p>Après une introduction de la journée par Gérald Darmanin, ministre de l’action et des comptes publics, la DGFiP a présenté le fichier DVF et certains de ses réutilisateurs historiques sont revenus sur les exploitations possibles des données foncières.</p>
+
+
+
+<p>Le reste de la journée s’est structurée autour du « Hackathon valeurs foncières ». Afin de travailler sur des cas d’usages directement pensés par la communauté de réutilisateurs, les participants du hackathon ont eux-mêmes formalisé les défis sur lesquels ils souhaitaient travailler.</p>
+
+
+
+<p>Neuf défis ont ainsi été identifiés :</p>
+
+
+
+<p>Les supports de présentation des défis sont consultables dans le diaporama ci-dessous.</p>
+
+
+
+<script async class="speakerdeck-embed" data-id="1551cf33ce0d407d80e401814f5f2fb2" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+
+
+<ol><li><strong>De la sensibilisation à la formation autour des données DVF</strong>. — Comment mieux accompagner les réutilisateurs des données DVF dans la compréhension et l’exploitation des données ?</li><li><strong>Restructurons DVF</strong>. — Comment structurer les données dans un modèle de données qui permette l’identification du nombre de mutations sur un territoire ? Comment proposer un script d’import générique ?</li><li><strong>data.economie.gouv.fr</strong>. — Comment naviguer dans les données à des mailles agrégées et découvrir les données relatives aux transactions immobilières ?</li><li><strong>API DVF</strong>. — Comment faciliter l’accès à la base DVF ? Comment proposer un exemple de visualisation cartographique basée sur l’API ?</li><li><strong>Icity</strong>. — Comment proposer un référentiel national des logements ? Comment permettre aux particuliers de trouver facilement le logement idéal ?</li><li><strong>Décortiquons une opération immobilière</strong>. — Comment croiser les données DVF avec les données de permis de construire pour suivre l’histoire d’une opération immobilière ?</li><li><strong>Carte des bien vendus</strong>. — Comment proposer une carte des biens vendus aux particuliers ?</li><li><strong>DVF augmenté</strong>. — Comment monter en qualité des données DVF pour une réutilisation facilité ?</li><li><strong>Explorateur de données DVF</strong>. — Comment rendre intelligible de manière pédagogique le contenu de la base DVF ?</li></ol>
+
+
+
+<p>La journée a été clôturée par les restitutions de chaque défi en présence de Cédric O, secrétaire d’État au numérique. Certains participants du hackathon ont présenté des premières solutions de visualisation des données, qui permettent une compréhension facilitée de la base.</p>
+
+
+
+<h3 class="wp-block-heading">La contribution d’Etalab à l’ouverture de la base demandes de valeurs foncières</h3>
+
+
+
+<p>L&rsquo;équipe d&rsquo;Etalab a développé une<a href="https://app.dvf.etalab.gouv.fr/"> application de visualisation cartographique des données</a>, qui donne la possibilité d’appliquer des filtres allant du département à la parcelle cadastrale. Cette application donne dès à présent la capacité à tout citoyen d’obtenir une information fiable et à jour des prix de l’immobilier.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="1024" height="582" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/05/APPDVF-1024x582-1024x582.jpg" alt="" class="wp-image-10309" srcset="/wp-content/uploads/2019/05/APPDVF-1024x582.jpg 1024w, /wp-content/uploads/2019/05/APPDVF-1024x582-300x171.jpg 300w, /wp-content/uploads/2019/05/APPDVF-1024x582-768x437.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3 class="wp-block-heading">Les premières réutilisations faites par des entreprises</h3>
+
+
+
+<p>Des réutilisations des données foncières réalisées par des acteurs du secteur privé ont également été proposées au terme du hackathon. A titre d’exemple, l’entreprise Meilleurs Agents, qui propose notamment un outil en ligne d’estimation des prix des biens, a perçu l’opportunité que représentait l’ouverture de la base DVF. À partir de l’exploitation des données ouvertes, l&rsquo;entreprise propose désormais une<a href="https://www.meilleursagents.com/prix-immobilier/dvf/" class="broken_link"> carte interactive</a> représentant l’ensemble des transactions passées en fonction du lieu et du type de bien.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="1024" height="559" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/05/MA-1024x559-1024x559.jpg" alt="" class="wp-image-10310" srcset="/wp-content/uploads/2019/05/MA-1024x559.jpg 1024w, /wp-content/uploads/2019/05/MA-1024x559-300x164.jpg 300w, /wp-content/uploads/2019/05/MA-1024x559-768x419.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>L’exploitation de la base DVF permet également à Meilleurs Agents d’affiner son modèle d’estimation des biens au bénéfice de l’utilisateur final. L’ouverture des valeurs foncières est ici vecteur d’efficacité économique et de réduction de l’asymétrie d’information entre les acteurs.</p>
+
+
+
+<p>Après l’ouverture des données du cadastre ou encore des balances comptables des collectivités, la publication en open data de la base DVF est une nouvelle étape de l’open data pour la Direction Générale des Finances publiques.</p>
+
+
+
+<h2 class="wp-block-heading">Le cadre juridique appliqué à la base demandes de valeurs foncières</h2>
+
+
+
+<h3 class="wp-block-heading">Les articles de référence</h3>
+
+
+
+<p>La diffusion en open data des données foncières se fait en application de l’article L. 112 A du <a href="https://https//www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069583&amp;idArticle=LEGIARTI000037309458" class="broken_link">Livre des procédures fiscales (LPF)</a> , créé par l’article 13 de la loi pour un Etat au service d’une société de confiance . Il prévoit que « l’administration fiscale rend librement accessibles au public, sous forme électronique, les éléments d’information qu’elle détient au sujet des valeurs foncières déclarées à l’occasion des mutations intervenues au cours des cinq dernières années »<em>, </em>cela afin « de concourir à la transparence des marchés fonciers et immobiliers ».</p>
+
+
+
+<p>Les conditions de réutilisation de ces données sont encadrées par le <a href="https://www.legifrance.gouv.fr/eli/decret/2018/12/28/CPAE1830580D/jo/texte">décret du 28 décembre 2018 pris après avis de la CNIL, et</a> inscrites dans l’article R. * 112 A-3. du LPF qui prévoit que « Les conditions générales d’utilisation des informations prévoient, d’une part, que les traitements portant sur la réutilisation des informations mentionnées à l’article R. * 112 A-1 ne peuvent avoir ni pour objet ni pour effet de permettre la réidentification des personnes concernées et, d’autre part, que ces informations ne peuvent faire l’objet d’une indexation sur les moteurs de recherche en ligne.»</p>
+
+
+
+<h3 class="wp-block-heading">La chronologie du cadre juridique depuis 2006</h3>
+
+
+
+<p>La publication de la base DVF est le résultat d’un long processus engagé il y a plus de 10 ans.</p>
+
+
+
+<ul><li><strong>16 juillet 2006</strong>. — Loi ENL (Engagement national pour le logement) qui donne la possibilité aux collectivités qui en font la demande, de disposer de l’ensemble des informations foncières détenues par l’administration fiscale au cours des 5 dernières années ;</li><li><strong>Depuis 2011</strong>. — Le service DVF offre une fonctionnalité de restitution de valeurs foncières aux institutionnels éligibles aux dispositions de l’article L 135B du livre des procédures fiscales (LPF) qui présentent une demande (collectivité locales, services de l’Etat, etc.) ;</li><li><strong>2013</strong>. — Ouverture de service Patrim Usagers (impots.gouv) ;</li><li><strong>26 mars 2014</strong>. — Loi ALUR (Accès au logement et un urbanisme rénové) qui étend la diffusion des données foncières à de nouveaux bénéficiaires (Établissements public foncier, agence d’urbanisme, etc.) ;</li><li><strong>8 octobre 2016</strong>. — Loi pour une République numérique qui étend la diffusion des données foncières à de nouveaux bénéficiaires (Chercheurs, CEREMA, agence d’information sur le logement, professionnels de l’immobilier) sous condition d’anonymisation ;</li><li><strong>10 août 2018</strong>. — Loi Etat au service d’une société de confiance qui institue le principe de diffusion des données foncières en <em>open data</em>.</li></ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

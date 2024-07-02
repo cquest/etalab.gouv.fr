@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Paul Bouchequet &#8211; Etalab</title>
+	<atom:link href="/author/paul-bouchequet/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 18 Jun 2019 08:31:10 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Paul Bouchequet &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Analyser les consommations énergétiques des bâtiments publics</title>
+		<link>/analyser-les-consommations-energetiques-des-batiments-publics</link>
+		
+		<dc:creator><![CDATA[Paul Bouchequet]]></dc:creator>
+		<pubDate>Sun, 17 May 2015 16:06:21 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[énergie]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10739</guid>
+
+					<description><![CDATA[L’équipe de l’administrateur général des données a réalisé une analyse des consommations d’électricité des bâtiments publics, dans le cadre d’une première collaboration avec le service des achats de l’État (SAE). La libéralisation du marché de l’électricité prévoit la fin des tarifs réglementés de vente pour les “gros” consommateurs. C’est pour l’État l’occasion de lancer une &#8230;<p class="read-more"> <a class="" href="/analyser-les-consommations-energetiques-des-batiments-publics"> <span class="screen-reader-text">Analyser les consommations énergétiques des bâtiments publics</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>L’équipe de l’administrateur général des données a 
+réalisé une analyse des consommations d’électricité des bâtiments 
+publics, dans le cadre d’une première collaboration avec le service des 
+achats de l’État (SAE).</em></p>
+
+
+
+<p>La libéralisation du marché de l’électricité prévoit la fin des 
+tarifs réglementés de vente pour les “gros” consommateurs. C’est pour 
+l’État l’occasion de lancer une procédure d’appel d’offres pour ses 
+contrats d’approvisionnement. L’ensemble du parc immobilier des 
+administrations ainsi que 185 établissements publics de l’État sont 
+concernés par l’accord-cadre interministériel. L’enjeu en termes 
+financiers de cette procédure est estimé é 300 millions d’euros par an 
+pour une durée maximale de quatre ans.</p>
+
+
+
+<p>L’électricité étant par nature une ressource non stockable, chaque 
+fournisseur est tenu d’équilibrer en permanence achats, production et 
+ventes. Sur la base des données de consommation passées communiquées par
+ son client, le fournisseur doit établir des prévisions de consommation 
+pour construire sa stratégie de couverture et proposer un prix dans sa 
+réponse à l’appel d’offre.</p>
+
+
+
+<p>C’est dans ce cadre qu’une première étude de caractérisation des 
+besoins a été réalisée par une équipe associant l’acheteur leader sur le
+ segment d’achats d’énergie du SAE, un expert du ministère de la justice
+ et l’AGD. Cette analyse a pour but de regrouper les différents 
+bâtiments en fonction du comportement de leur courbe de consommation. 
+Les données traitées concernent un échantillon de 90 bâtiments&nbsp;”gros” 
+consommateurs du ministère des finances dont la consommation est 
+télérelevée toutes les 10 minutes. Ces données précises sont adaptées 
+aux analyses, mème si un échantillon plus volumineux en nombre de 
+bâtiments auraient permis une analyse encore plus fine.</p>
+
+
+
+<p>Les bâtiments ont été regroupés grâce à la méthode du spectral 
+clustering. Les consommations avaient été auparavant normalisées pour 
+s’intéresser aux variations des consommations électriques et non à leur 
+niveau. Parmi les 7 groupes de consommation ainsi obtenus, on distingue 
+le groupe de bâtiments thermosensibles, celui des grosses consommations 
+l’hiver et celui des bâtiments consommant en moyenne plus d’électricité 
+l’été que les autres bâtiments.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2015/05/cite_administratives_minfi.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2015/05/cite_administratives_minfi-1024x533.png" alt="Courbe de charge des cités administratives" class="wp-image-166"/></a></figure>
+
+
+
+<p>
+    Courbes de consommation d&rsquo;électricité d&rsquo;un groupe, ne comportant que des cités administratives.
+  </p>
+
+
+
+<p>Ces éléments ont complété l’appel d’offres publié le 16 mars 2015, 
+avec les informations nécessaires au fournisseur pour présenter une 
+offre de qualité. Sur cette base, le SAE pourra également affiner, à 
+terme, la méthode de contractualisation. Par ailleurs, les restitutions 
+graphiques comme les cartes de chaleur et l’essai de classification des 
+consommateurs d’électricité réalisée par l’AGD ont déjà permis 
+d’identifier certaines singularités de consommations qui méritent une 
+analyse plus approfondie.</p>
+
+
+
+<figure class="wp-block-image"><a href="http://agd.data.gouv.fr/wp-content/uploads/2015/02/Notice-analyse-courbe-de-charges-1.png"><img decoding="async" src="http://agd.data.gouv.fr/wp-content/uploads/2015/02/Notice-analyse-courbe-de-charges-1-1024x315.png" alt="Carte de chaleur de la consommation électrique d'un bâtiment" class="wp-image-108"/></a></figure>
+
+
+
+<p>
+    Carte de chaleur de la consommation électrique d&rsquo;un des bâtiments du jeu de données<br>
+  </p>
+
+
+
+<p>La collaboration entre le SAE et l’AGD va se poursuivre pour 
+l’exploitation des données de consommation électrique de l’ensemble du 
+parc immobilier de l’État concerné par l’accord-cadre interministériel. À
+ terme, la réalisation de travaux conjoints, à intervalles réguliers, 
+permettrait à l’État une mise sous contrôle de ses propres données de 
+consommation et par conséquent de ses dépenses en énergie.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

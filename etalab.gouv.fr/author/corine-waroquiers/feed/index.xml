@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Corine Waroquiers &#8211; Etalab</title>
+	<atom:link href="/author/corine-waroquiers/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 12 Apr 2022 07:47:51 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Corine Waroquiers &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>L’État recherche des profils du numérique : rejoignez les Entrepreneurs d’intérêt général</title>
+		<link>/letat-recherche-des-profils-du-numerique-rejoignez-les-entrepreneurs-dinteret-general</link>
+		
+		<dc:creator><![CDATA[Corine Waroquiers]]></dc:creator>
+		<pubDate>Mon, 07 Mar 2022 12:47:31 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">/?p=16523</guid>
+
+					<description><![CDATA[Entrepreneurs d’intérêt général, programme d’Etalab à la direction interministérielle du numérique, ouvre son&#160;6ème&#160;appel à candidatures du 7&#160;mars au 19 avril 2022. Le programme recherche jusqu’à cinquante profils en data science, data engineering, développement, design et droit du numérique pour relever des défis d’intérêt général. Regroupé(e)s en équipes de 2 ou 3, vous concevrez des produits &#8230;<p class="read-more"> <a class="" href="/letat-recherche-des-profils-du-numerique-rejoignez-les-entrepreneurs-dinteret-general"> <span class="screen-reader-text">L’État recherche des profils du numérique : rejoignez les Entrepreneurs d’intérêt général</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Entrepreneurs d’intérêt général, programme d’Etalab à la direction interministérielle du numérique, ouvre son&nbsp;<strong>6</strong><strong><sup>ème</sup></strong><strong>&nbsp;appel à candidatures du 7</strong><strong>&nbsp;mars au 19 avril </strong><strong>2022</strong>.</p>
+
+
+
+<p><strong>Le programme recherche jusqu’à cinquante profils en data science, data engineering, développement, design et droit du numérique pour relever des défis d’intérêt général.</strong> Regroupé(e)s en équipes de 2 ou 3, vous concevrez des produits numériques pendant 10 mois en immersion dans une administration, à partir du 12 septembre 2022.</p>
+
+
+
+<p>Si vous croyez dans le service public, que vous voulez relever des défis en première ligne avec les équipes métier de l’État, tout en diffusant des approches plus entrepreneuriales et innovantes, cet appel à candidatures est pour vous&nbsp;!</p>
+
+
+
+<p><strong><em>Accéder à l’appel à candidatures <a href="https://eig.etalab.gouv.fr/participer/candidats/postuler/" target="_blank" rel="noreferrer noopener">sur le site Entrepreneurs d’intérêt général</a></em></strong></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Devenir Entrepreneur d’intérêt général, ça veut dire quoi&nbsp;?</strong></h2>
+
+
+
+<p>Devenir Entrepreneur d’intérêt général – ou EIG – c’est vivre une expérience dans des&nbsp;<strong>communautés aux cultures diverses</strong>, toutes reliées par leur engagement pour l’action publique. Vous allez :</p>
+
+
+
+<ol type="1"><li>Intégrer une&nbsp;<strong>administration</strong>&nbsp;pour 10 mois et bénéficier du soutien d’agents publics porteurs du projet</li><li>Faire&nbsp;<strong>équipe</strong>&nbsp;avec un ou deux autres profils du numérique</li><li>Rejoindre une&nbsp;<strong>promotion</strong>&nbsp;d’une cinquantaine d’EIG et 172&nbsp;<em>alumni</em>&nbsp;</li><li>Participer à un&nbsp;<strong>programme</strong>&nbsp;d’appui à l’innovation : les EIG de la promotion se retrouvent pour des sessions régulières de partage entre pairs et bénéficient de l’appui d’une équipe d’accompagnement à Etalab (mentorat, séminaires, ateliers-conférences, expéditions apprenantes, etc.)</li></ol>
+
+
+
+<p><strong>Les EIG deviennent contractuel(le)s de l’administration, et sont rémunéré(e)s 3.500 euros ou 4.000 euros net par mois </strong>pour les profils ayant respectivement jusqu’à 5 années ou plus de 5 années&nbsp;d’expérience.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Quels sont les profils recherchés&nbsp;?</strong></h2>
+
+
+
+<p>Nous recherchons des personnes qui veulent transmettre une culture entrepreneuriale à l’administration tout en s’engageant dans une démarche d’innovation ouverte, de partage des communs (ouverture des données et des codes-sources, mutualisation et réplication des productions) et de numérique éco-responsable et accessible.</p>
+
+
+
+<p>Les métiers recherchés sont&nbsp;:</p>
+
+
+
+<ul><li>Ingénieur(e)s de la donnée (data engineers)</li><li>Ingénieur(e)s des sciences de la donnée (data scientists)</li><li>Développeurs et développeuses</li><li>Designers</li><li>Juristes du numérique</li></ul>
+
+
+
+<p>Fort du succès de l’année passée, <strong>le programme renouvelle l’ouverture de son appel à candidatures aux profils juridiques</strong>. De la même manière que les profils techniques font bouger les lignes des directions du numérique, les profils juridiques apportent une expertise déterminante sur des sujets d’open source, d’open data, de circulation des données et de protection des données personnelles.</p>
+
+
+
+<p><strong>Pour cette sixième promotion, le programme EIG poursuit ses efforts pour un recrutement toujours plus divers et inclusif.</strong> Une attention particulière est portée aux personnes issues de formations et/ou de trajectoires professionnelles variées, incitant par exemple des talents autodidactes ou issus d’une reconversion à candidater. Avec l’appui de l’agence spécialisée MozaïkRH, nous avons redéfini les critères de sélection pour qu’ils reflètent mieux les qualités attendues et simplifié le parcours de candidature.</p>
+
+
+
+<p><strong>L’ensemble des candidates et candidats au programme seront sélectionnés sur des critères autant techniques qu’humains</strong> : nous recherchons des personnes compétentes dans leur domaine mais aussi capables de mener un projet de bout en bout, empathiques, aimant le travail en équipe pluridisciplinaire et avec une appétence pour l’intérêt général.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Pour mener quel type de projet ?</strong></h2>
+
+
+
+<p><strong>Les projets à mener dans les administrations seront dévoilés à partir du 9 mai</strong>. Si votre candidature est présélectionnée pour le programme, vous pourrez alors indiquer les projets sur lesquels vous souhaitez vous positionner, dans la limite de cinq. Si votre préférence ne peut pas être satisfaite, il vous sera proposé une audition pour un autre projet.</p>
+
+
+
+<p><strong>Les projets, en cours de sélection, seront à mener dans une diversité d’administrations, sur l’ensemble du territoire français</strong>. Les années passées, les EIG sont intervenus aussi bien dans les ministères de la Justice, de la Culture et de l’Intérieur, qu’à la Haute Autorité de Santé, le Museum d’Histoire Naturelle, le Commissariat général au développement durable, etc.&nbsp;</p>
+
+
+
+<p>Un dénominateur commun à tous ces projets&nbsp;: ils sont formulés à partir d’un besoin clair, présentant un fort impact pour une politique ou un service public. À partir de ce besoin, et pendant 10 mois, les EIG créent et testent de nouveaux possibles au sein de leur administration d’accueil.</p>
+
+
+
+<p>Au terme d’une démarche empirique et incrémentale, les réalisations peuvent être très diverses, par exemple&nbsp;:</p>
+
+
+
+<ul><li><strong>À la DIRECCTE (</strong>Directions Régionales des Entreprises, de la Concurrence, de la Consommation, du Travail et de l’Emploi)<strong>&nbsp;de Bourgogne-Franche-Comté</strong>, un data scientist et un développeur avaient pour mission en 2018 de détecter les entreprises fragilisées pour mieux les accompagner.&nbsp;<strong>Leur réalisation&nbsp;: un logiciel de détection des entreprises à risque de défaillance</strong>, s’appuyant sur un module de chargement de données (cotisations sociales, données d’emploi, données financières), un algorithme de machine learning et une interface graphique. Ce logiciel est utilisé par les commissaires aux restructurations et à la prévention des difficultés dans les entreprises pour accompagner les entreprises détectées avant qu’il ne soit trop tard.&nbsp;Depuis,&nbsp;<a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/signaux-faibles-de-lopen-data-camp-a-une-politique-publique-fondee-sur-la-donnee-recit-dun-passage-a-lechelle-reussi" target="_blank">le projet Signaux Faibles&nbsp;est déployé à l’échelle nationale</a>. Le data scientist, Pierre Camilleri, et le développeur, Christophe Ninucci, font toujours partie de l’équipe.</li><li><strong>Au Mobilier National</strong>, une designer et un développeur avaient pour mission en 2018 de créer un outil pour révéler les objets et savoir-faire du Mobilier National, qui contient tout le patrimoine mobilier de l’Etat.&nbsp;<strong>Leur réalisation&nbsp;:&nbsp;</strong><a href="https://collection.mobiliernational.culture.gouv.fr/recherche" target="_blank" rel="noreferrer noopener"><strong>un site</strong></a><strong>&nbsp;et un outil de recherche dans les collections.</strong>&nbsp;A l’issue des 10 mois, 70 000 objets étaient en ligne, dont 36 000 photos d’objets et 15000 photos téléchargeables et réutilisables. Le code de l’outil est accessible et peut être réutilisé par d’autres institutions culturelles afin de diffuser plus facilement leurs collections. L’équipe EIG a également organisé&nbsp;des ateliers en partenariat avec Wikimédia France&nbsp;pour publier des photos des ateliers du Mobilier sous licence libre et enrichir les articles de Wikipédia. La designer, Laurie Chapotte, et le développeur Ned Baldessin poursuivent ce projet dans l’Atelier du Numérique du ministère de la Culture.</li></ul>
+
+
+
+<p><strong><em>En attendant de découvrir les projets dévoilés en avril, explorez les projets des années passées et les parcours des anciennes et anciens EIG&nbsp;</em></strong><a href="https://eig.etalab.gouv.fr/defis/" target="_blank" rel="noreferrer noopener"><strong><em>sur le site Entrepreneurs d’intérêt général</em></strong></a></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Comment rejoindre notre 6</strong><strong>ème</strong><strong>&nbsp;promotion ?</strong></h2>
+
+
+
+<p>Le processus de sélection se fait en trois étapes&nbsp;:</p>
+
+
+
+<ul><li><strong>7&nbsp;mars au 19 avril </strong>: soumettez votre candidature</li><li><strong>9 mai</strong>&nbsp;<strong>au 15 mai</strong> : les projets à mener dans l’administration sont révélés le 9 mai <a rel="noreferrer noopener" href="https://eig.etalab.gouv.fr/defis/" target="_blank">sur le site Entrepreneurs d’intérêt général</a>. Si votre candidature est présélectionnée, vous indiquez jusqu’au 15 mai les projets sur lesquels vous souhaitez vous positionner, dans la limite de cinq. Si votre préférence ne peut pas être satisfaite, il vous sera proposé une audition pour un autre projet.</li><li><strong>7 juin au 13 juin</strong>&nbsp;: vous passez un entretien de sélection en présence d’un jury composé d’agents publics, de membres de la DINUM et de personnalités extérieures issues des mondes associatif, de la recherche et de l’entrepreneuriat.</li></ul>
+
+
+
+<p>Les lauréates et lauréats rejoignent la 6ème promotion du programme Entrepreneurs d’intérêt général et démarrent leurs projets dans les administrations le 12 septembre 2022, et ce jusqu’au 11 juillet 2023.</p>
+
+
+
+<p><strong>Vous voulez candidater ? <a href="https://eig.etalab.gouv.fr/participer/candidats/postuler/">Postulez jusqu’au 19 avril</a> !</strong></p>
+
+
+
+<p><strong>Pour en savoir plus,&nbsp; participez à nos webinaires de présentation de l’appel à candidatures :</strong></p>
+
+
+
+<p>–&nbsp;<a href="https://webinaire.numerique.gouv.fr/meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e" target="_blank" rel="noreferrer noopener">jeudi 17 mars, de 13h45 à 14h45</a>, sur les métiers du développement et de la donnée</p>
+
+
+
+<p>–&nbsp;<a href="https://webinaire.numerique.gouv.fr/meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e" target="_blank" rel="noreferrer noopener">jeudi 24 mars, de 13h45 à 14h45</a>, sur les métiers du design et du droit du numérique</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Agents publics : soumettez vos projets numériques aux Entrepreneurs d’intérêt général !</title>
+		<link>/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2</link>
+		
+		<dc:creator><![CDATA[Corine Waroquiers]]></dc:creator>
+		<pubDate>Mon, 24 Jan 2022 09:23:22 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=16449</guid>
+
+					<description><![CDATA[Entrepreneurs d’intérêt général (EIG), programme d’Etalab à la DINUM depuis 2016, lance son sixième appel à projets. Il est ouvert à toutes les administrations jusqu’au 18 mars 2022.&#160;Visitez le site du programme EIG pour postuler. &#160;«&#160;Il y a assurément un autre monde, mais il est dans celui-ci et, pour atteindre à sa pleine perfection, il &#8230;<p class="read-more"> <a class="" href="/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2"> <span class="screen-reader-text">Agents publics : soumettez vos projets numériques aux Entrepreneurs d’intérêt général !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Entrepreneurs d’intérêt général (EIG), programme d’Etalab à la DINUM depuis 2016, lance son sixième appel à projets. Il est ouvert à toutes les administrations jusqu’au 18 mars 2022.&nbsp;<a rel="noreferrer noopener" href="https://eig.etalab.gouv.fr/participer/" target="_blank">Visitez le site du programme EIG pour postuler</a></strong>.</p>
+
+
+
+<pre class="wp-block-verse has-text-align-right has-ast-global-color-1-color has-ast-global-color-4-background-color has-text-color has-background has-normal-font-size">&nbsp;«&nbsp;Il y a assurément un autre monde, mais il est dans celui-ci et, pour atteindre à sa pleine perfection, il faut qu’il soit bien reconnu et qu’on en fasse profession. L’homme doit chercher son état à venir dans le présent, et le ciel, non point au-dessus de la terre, mais en soi.&nbsp;»</pre>
+
+
+
+<p><strong>Cette citation, extraite d’un poème de Paul Eluard, nous invite à penser tout le potentiel de changement dans ce <em>monde autre</em> qui est là, en nous.</strong> «&nbsp;Changer le monde&nbsp;» ce n’est donc pas seulement <em>disrupter. </em>Ce n’est pas uniquement rompre avec la tradition, un ancrage culturel et un héritage par le développement de start-ups à forte croissance. Dans la santé, l’éducation ou encore la sécurité, des agents publics découvrent de nouvelles façons de faire et contribuent de ce fait à l’intérêt général. Ils façonnent cet <em>autre monde</em> au sein de l’administration avec de nouvelles pratiques et de nouvelles solutions techniques. C’est sans doute moins spectaculaire que la Silicon Valley mais c’est essentiel. C’est même déterminant pour la continuité des services publics dans des périodes aussi perturbées que celle que nous vivons actuellement avec la pandémie.</p>
+
+
+
+<p><strong>Le programme Entrepreneur d’Intérêt Général contribue, par sa méthodologie et ses ressources, à la possibilité de trouver cet&nbsp;<em>autre monde</em> au sein de votre administration.</strong> Pour y parvenir, nous sélections des projets numériques portés par des administrations pour améliorer l’action publique. Nous organisons aussi une rencontre entre ces administrations et d’autres profils, car comme vous le savez sans doute, Paul Eluard s’est allié avec de nombreux autres pour faire grandir sa création&nbsp;: des peintres comme Fernand Léger, des photographes comme Man Ray ou encore des écrivains comme André Breton.</p>
+
+
+
+<p>De la même manière,<strong> EIG permet aux administrations qui le souhaitent de s’allier avec des talents du numérique qui viennent offrir d’autres façons de voir, de penser, de travailler.</strong> Des développeurs.es, des expert.e.s de la donnée, des designers et des juristes du numérique sont recrutés pour rejoindre votre service durant 10 mois. Ils renforcent ainsi vos équipes et partagent leur culture numérique. C’est par ces collaborations, parfois improbables, qu’il devient possible de découvrir cet <em>autre monde</em>.</p>
+
+
+
+<h2 class="wp-block-heading" id="comment-fonctionne-le-programme"><strong>Comment fonctionne le programme&nbsp;?</strong></h2>
+
+
+
+<p>Le programme Entrepreneur d’intérêt général fonctionne par appels à projets, en 3 étapes : </p>
+
+
+
+<ul><li><strong>Vous candidatez&nbsp;:</strong>&nbsp;nous sélectionnons une vingtaine de projets numériques proposés par les administrations publiques (du 24 janvier&nbsp;au 18 mars) ;</li><li><strong>Nous réunissons une équipe&nbsp;:</strong>&nbsp;ensemble, nous sélectionnons 2 ou 3 profils tech, design et en droit du numérique pour votre projet (d’avril à juin) ;</li><li><strong>Vous expérimentez&nbsp;:</strong>&nbsp;créez et testez de nouveaux possibles avec vos profils du numérique et le soutien du programme (à partir du 12 septembre, pour 10 mois).</li></ul>
+
+
+
+<h2 class="wp-block-heading" id="quel-soutien-recoivent-les-administrations"><strong>Quel soutien reçoivent les administrations ?</strong></h2>
+
+
+
+<p>Rejoindre le programme Entrepreneur d’intérêt général, c’est recevoir un soutien pluriel&nbsp;:</p>
+
+
+
+<ul><li><strong>Pour votre recrutement&nbsp;:</strong>&nbsp;nous pilotons une procédure de recrutement accélérée, avec la sélection de profils aux compétences rares&nbsp;: développeurs et développeuses, expert et expertes de la donnée, designers et juristes du numérique.</li><li><strong>Pour votre financement</strong>&nbsp;: vos profils sont rémunérés 3.500 ou 4.000 euros net par mois, avec une possibilité de co-financement de 20.000 euros par profil recruté (le programme est ouvert à toute administration, mais des conditions spécifiques s’appliquent pour le cofinancement).</li><li><strong>Pour conduire l’innovation</strong>&nbsp;: vous recevez un appui technique et méthodologique du programme tout au long des dix mois (ateliers-conférences, expéditions apprenantes, mentorat individuel et collectif), avec la participation des experts d’Etalab et de la DINUM.</li></ul>
+
+
+
+<p>Au-delà de ce soutien,&nbsp;<strong>vous entrez dans une communauté de pratiques</strong>&nbsp;qui compte aujourd’hui 172 profils du numérique ayant mis en œuvre 87 projets. Cette communauté s’insère dans l’écosystème de la transformation publique et du numérique de la DINUM (Etalab : data.gouv, le Lab IA, open data, logiciels libres ; design.gouv ; beta.gouv.fr), de la Direction interministérielle de la transformation publique ainsi que nos partenaires hors de l’administration.</p>
+
+
+
+<p>Pour découvrir la richesse des projets menés depuis 2017, explorez&nbsp;<a href="https://eig.etalab.gouv.fr/img/quelques-chiffres-cl%C3%A9s-des-d%C3%A9fis-eig.pdf">la cartographie du programme.</a> Celle-ci retrace l’évolution des thématiques des projets et de la maturité numérique des administrations qui les portent. Vous y trouverez également la nature des bénéficiaires d’EIG, celle des impacts qui leurs sont associés et la composition par métier de nos promotions.</p>
+
+
+
+<h2 class="wp-block-heading" id="quels-sont-les-projets-recherches-cette-annee">Quels sont les projets recherchés cette année ?</h2>
+
+
+
+<p>Le programme vise à produire des outils numériques mais aussi à encourager une transformation numérique plus profonde dans les administrations. Ainsi, nos critères de sélection portent autant sur<strong>&nbsp;le projet à réaliser en 10 mois&nbsp;</strong>que sur<strong>&nbsp;l’équipe qui le porte&nbsp;:</strong></p>
+
+
+
+<ul><li><strong>Pertinence du besoin&nbsp;</strong>: un besoin clair, à fort impact, porté à un haut niveau hiérarchique par l’administration d’accueil ;</li><li><strong>Approche</strong>&nbsp;: caractère entrepreneurial du projet ; il ouvre un champ d&rsquo;exploration des usages et de la technologie tout en ayant une problématique circonscrite et des profils du numérique cohérents ;</li><li><strong>Engagement</strong>&nbsp;: motivation pour participer au programme, ouvrir le terrain d’expérimentation aux profils du numérique, et leur offrir de l’autonomie ;</li><li><strong>Transformation</strong>&nbsp;: une forte volonté de transformation numérique de la part de l’administration ;</li><li><strong>Ouverture</strong>&nbsp;: une démarche d&rsquo;innovation ouverte (collaboration, co-construction, gouvernance) et de partage de communs numériques (ouverture des données et des codes-sources, mutualisation et réplication des productions).</li></ul>
+
+
+
+<h2 class="wp-block-heading" id="comment-fonctionne-l-appel-a-projets">Comment fonctionne l’appel à projets ?</h2>
+
+
+
+<p>Trouvez toutes les informations sur l&rsquo;appel à projets <a href="https://eig.etalab.gouv.fr/participer/administrations/" data-type="URL" data-id="https://eig.etalab.gouv.fr/participer/administrations/" target="_blank" rel="noreferrer noopener">sur le site du programme EIG</a> et postulez jusqu’au 18 mars. </p>
+
+
+
+<p><strong>Participez à nos webinaires de présentation de l’appel à projets :</strong></p>
+
+
+
+<ul><li><a rel="noreferrer noopener" href="https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb" data-type="URL" data-id="https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb" target="_blank">Jeudi 3 février, de 13 h 45 à 14 h 45</a></li><li><a rel="noreferrer noopener" href="https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb" data-type="URL" data-id="https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb" target="_blank">Jeudi 17 février, de 13 h 45 à 14 h 45</a></li></ul>
+
+
+
+<p>Pendant toute la durée de l&rsquo;appel à projet, vous pouvez également bénéficier d&rsquo;un entretien de pré-incubation avec un coach produit. L&rsquo;objectif de ce nouveau dispositif est de vous accompagner dans l&rsquo;élaboration de votre stratégie entrepreneuriale. Pour ce faire, <a rel="noreferrer noopener" href="https://calendly.com/thomas-parisot/entretien-de-pre-incubation" data-type="URL" data-id="https://calendly.com/thomas-parisot/entretien-de-pre-incubation" target="_blank">réservez un créneau parmi ceux proposés</a>.</p>
+
+
+
+<p><strong>Contactez-nous pour toute question&nbsp;:&nbsp;</strong><a href="mailto:eig@data.gouv.fr"><strong>ei</strong></a><strong><a href="mailto:eig@data.gouv.fr">g@data.gouv.fr</a></strong></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Entrepreneurs d’intérêt général : lauréats et défis de la 5ème promotion</title>
+		<link>/entrepreneurs-dinteret-general-laureats-et-defis-de-la-5eme-promotion</link>
+		
+		<dc:creator><![CDATA[Corine Waroquiers]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2021 11:42:21 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[entrepreneuriat]]></category>
+		<category><![CDATA[numérique d'intérêt général]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=15531</guid>
+
+					<description><![CDATA[Ils et elles seront 39 à rejoindre les rangs de l’administration française à la rentrée. 39 talents du numérique ou «&#160;EIG&#160;», issus des secteurs public ou privé, jeunes et moins jeunes, aux expertises diverses dans la tech, le design, le droit. Derrière ces expériences plurielles, un dénominateur commun&#160;: l’engagement de chacune et de chacun pour &#8230;<p class="read-more"> <a class="" href="/entrepreneurs-dinteret-general-laureats-et-defis-de-la-5eme-promotion"> <span class="screen-reader-text">Entrepreneurs d’intérêt général : lauréats et défis de la 5ème promotion</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Ils et elles seront 39 à rejoindre les rangs de l’administration française à la rentrée</strong>. 39 talents du numérique ou «&nbsp;EIG&nbsp;», issus des secteurs public ou privé, jeunes et moins jeunes, aux expertises diverses dans la tech, le design, le droit. Derrière ces expériences plurielles, <strong>un dénominateur commun&nbsp;: l’engagement de chacune et de chacun pour l’intérêt général et une motivation forte pour relever des défis concrets du service public</strong>.</p>
+
+
+
+<p><strong>Pendant 10 mois,</strong> les EIG vont <strong>concevoir et déployer des outils numériques en réponse à des besoins </strong>identifiés par des agents publics. Les enjeux&nbsp;: &nbsp;mieux répondre aux nouvelles attentes des usagers, toucher plus de bénéficiaires, accroître les impacts, mieux diffuser certaines solutions&#8230;</p>
+
+
+
+<p>C’est <strong>aux côtés de ces agents publics, au cœur de leurs administrations </strong>respectives, que les 39 EIG relèveront<strong> 16 défis</strong>. Nous avons le plaisir de les révéler ici&nbsp;:</p>
+
+
+
+<p><strong><u><a href="https://eig.etalab.gouv.fr/defis/basegun/" target="_blank" rel="noreferrer noopener">Basegun</a> &#8211; Ministère de l’intérieur&nbsp;</u></strong></p>
+
+
+
+<p><em>Proposer aux forces de l’ordre un outil simple pour classer et identifier toute arme</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Beryl Armand, développeuse</li><li>Sarah Gross, data scientist</li></ul>
+
+
+
+<p><strong><u><a href="https://eig.etalab.gouv.fr/defis/batid/" target="_blank" rel="noreferrer noopener">BatID</a> &#8211; Agence de la Transition écologique et Centre Scientifique et Technique du Bâtiment</u></strong></p>
+
+
+
+<p><em>Créer un identifiant unique bâtiment afin de faciliter le suivi des politiques de rénovation énergétique</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Elisabeth Talbourdet, juriste du numérique</li><li>Félix Veith, data engineer</li></ul>
+
+
+
+<p><strong><u><a href="https://eig.etalab.gouv.fr/defis/cyberimp-ct/" target="_blank" rel="noreferrer noopener">Cyberimpact</a> &#8211; Direction générale de la Gendarmerie nationale</u></strong></p>
+
+
+
+<p><em>Développer un outil permettant de visualiser les indicateurs clés du domaine cyber</em><em></em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Antoine Mazieres, data scientist</li><li>Alexandre Thomas, data engineer</li></ul>
+
+
+
+<p><strong><u><a href="https://eig.etalab.gouv.fr/defis/dases/" target="_blank" rel="noreferrer noopener" class="broken_link">DaSES</a> &#8211; Ministère de l’Education nationale et de la Jeunesse</u></strong></p>
+
+
+
+<p><em>Mobiliser les données d’éducation pour mieux accompagner les élèves dans leurs apprentissages et leur orientation</em><em></em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Laurine Bois, juriste du numérique</li><li>Perrin Grandne, data engineer</li><li>Mathieu Strabach, designer</li></ul>
+
+
+
+<p><strong><u><a href="https://eig.etalab.gouv.fr/defis/datarh/" target="_blank" rel="noreferrer noopener">DataRH</a> &#8211; Agence régionale de santé d’Auvergne- Rhône-Alpes</u></strong></p>
+
+
+
+<p><em>Favoriser un travail transparent et collaboratif autour des politiques RH et de santé</em><em></em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Vedran Beric, designer</li><li>Abdoulaye Diallo, data engineer</li></ul>
+
+
+
+<p><strong><u><a href="https://eig.etalab.gouv.fr/defis/decos/" target="_blank" rel="noreferrer noopener">Décos</a> &#8211; Ministère de l’Intérieur</u></strong></p>
+
+
+
+<p><em>Développer un outil qui permettra de gérer simplement l’ensemble des procédures liées aux distinctions honorifiques</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Alexis Lavie, développeur</li><li>Emily Betham, designer</li></ul>
+
+
+
+<p><strong><u><a href="https://eig.etalab.gouv.fr/defis/e-pshad/" target="_blank" rel="noreferrer noopener">e-PSHAD</a> &#8211; Etablissement Public National Antoine Koenigswarter et Caisse nationale d’assurance maladie</u></strong></p>
+
+
+
+<p><em>Accompagner les personnes en situation de handicap dans leur parcours de réadaptation professionnelle</em><em></em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Javier Cuadrado, développeur</li><li>Simon Denier, développeur</li><li>Béatrice Le Thuc, designer</li></ul>
+
+
+
+<p><strong><u><a href="https://eig.etalab.gouv.fr/defis/eig-link/" target="_blank" rel="noreferrer noopener">EIG Link</a> – Direction interministérielle du numérique</u></strong></p>
+
+
+
+<p><em>Assurer la réussite de la promotion EIG 5</em><em></em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Frédérique Doman, designeuse</li><li>Elisabeth Fainstein, développeuse</li><li>Thomas Parisot, product manager</li></ul>
+
+
+
+<p><strong><u><a href="https://eig.etalab.gouv.fr/defis/fabrique-numerique/" target="_blank" rel="noreferrer noopener">Fabrique numérique</a> &#8211; Direction générale des finances publiques</u></strong></p>
+
+
+
+<p><em>Aider à la mise en place de l’incubateur numérique de la DGFiP</em><em></em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Laurent Barbat, designer</li><li>Mathieu Perez, développeur</li></ul>
+
+
+
+<p><strong><u><a href="https://eig.etalab.gouv.fr/defis/gdr-sante/" target="_blank" rel="noreferrer noopener">GDR Santé</a> &#8211; Agence nationale de sécurité́ du médicament et des produits de santé</u></strong></p>
+
+
+
+<p><em>Sécuriser les processus d’autorisation-surveillance des médicaments et produits de santé</em><em></em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Thaïs Coutinho, designer</li><li>Jordan Munoz, développeur</li><li>Arnaud Valladier, data scientist</li></ul>
+
+
+
+<p><strong><u><a href="https://eig.etalab.gouv.fr/defis/green-data-for-health/" target="_blank" rel="noreferrer noopener">Green Data for Health</a> &#8211; Ministère de la Transition Ecologique, CGDD</u></strong></p>
+
+
+
+<p><em>Identifier les effets des facteurs environnementaux sur la santé par la donnée</em><em></em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Charly Dottin, designer</li><li>Sabrina Hammoudi, juriste du numérique</li><li>Constance de Quatrebarbes, data engineer</li></ul>
+
+
+
+<p><strong><u><a href="https://eig.etalab.gouv.fr/defis/mes-services-greentech/" target="_blank" rel="noreferrer noopener">Mes services Greentech</a> – Ministère de la Transition Ecologique, CGDD</u></strong></p>
+
+
+
+<p><em>Développer un portail de services et de données ouvertes à destination de l’écosystème Greentech</em><em></em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Coralie Coton, designer</li><li>Alexis Brissard, développeur</li><li>Charlotte Samson, data scientist</li></ul>
+
+
+
+<p><strong><u><a href="https://eig.etalab.gouv.fr/defis/prev-ac-tion/" target="_blank" rel="noreferrer noopener">Prev-AC-Tion</a> &#8211; Ministère de la Mer</u></strong></p>
+
+
+
+<p><em>Prévenir les risques et les maladies professionnelles dans le secteur maritime</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Anne-Lise Coudry, développeuse</li><li>Philippe Galvan, data engineer</li></ul>
+
+
+
+<p><strong><u><a href="https://eig.etalab.gouv.fr/defis/smash/" target="_blank" rel="noreferrer noopener">SMASH</a> &#8211; Ministère des Solidarités et de la Santé – DREES</u></strong></p>
+
+
+
+<p><em>Anticiper les dépenses en personnel des hôpitaux et l’impact des réformes sur leur viabilité</em><em></em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Maud Galametz, data scientist</li><li>Gilles Gonon, data scientist</li></ul>
+
+
+
+<p><strong><u><a href="https://eig.etalab.gouv.fr/defis/tristan/" target="_blank" rel="noreferrer noopener">TRISTAN</a> &#8211; Ministère de la Justice</u></strong></p>
+
+
+
+<p><em>Proposer un outil d’aide à la préparation des audiences permettant aux magistrats d’appréhender rapidement les éléments clés d’une affaire</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Perrine Cribier-Delande, data engineer</li><li>Ryan Lahfa, développeur</li><li>Chloé Rotrou, designer</li></ul>
+
+
+
+<p><strong><u><a href="https://eig.etalab.gouv.fr/defis/urssafassur/" target="_blank" rel="noreferrer noopener">UrssafassuR</a> &#8211; Urssaf Caisse nationale</u></strong></p>
+
+
+
+<p><em>Développer un service en ligne permettant aux particuliers de sécuriser la relation avec leurs prestataires de travaux</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Célia Deyzac, designer</li><li>Sonia Prévost Mercier, développeuse</li></ul>
+
+
+
+<blockquote class="wp-block-quote"><p><strong><u>SELECTION DE LA PROMOTION EN QUELQUES CHIFFRES</u></strong></p><p>_________________</p><p>PROJETS</p><p>_________________</p><p><strong>18 projets déposés</strong> dans le cadre de l’appel à projets du 1<sup>er</sup> février au 7 avril 2021</p><p><strong>16 projets sélectionnés</strong> à l’issue des jurys organisés les 4 et 5 mai 2021</p><p><strong>22 expertes et experts</strong> réunis pour le jury des projets</p><p><strong>4 nouvelles administrations</strong>&nbsp;entrent dans le programme&nbsp;: Agence de la transition écologique (ADEME), Caisse nationale d’assurance maladie (CNAM), Etablissement Public National Antoine Koenigswarter (EPNAK), Agence régionale de santé Auvergne Rhône-Alpes</p><p>_________________</p><p>CANDIDATURES</p><p>_________________</p><p><strong>471 dossiers déposés</strong> dans le cadre de l’appel à candidatures du 1<sup>er</sup> mars au 2 mai 2021</p><p><strong>96 personnes auditionnées</strong> lors des jurys organisés les 7-8-9 et 14-15 juin 2021&nbsp;</p><p><strong style="font-size: inherit;">39 EIG </strong><span style="font-size: inherit;"><strong>sélectionnés</strong> à l’issue des jurys</span></p><p><strong>36 expertes et experts</strong> réunis pour le jury des candidats</p><p>__________________</p><p><em>PROFILS DES EIG</em></p><p>__________________</p><p><strong>19 femmes et 20 hommes</strong></p><p><strong>11 développeurs et développeuses, 11 designers, 7 data engineers, 6 data scientists, 3 juristes du numérique, 1 product manager</strong></p></blockquote>
+
+
+
+<p>L’équipe du programme souhaite remercier les nombreux membres de la DINUM (<a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/" target="_blank">Etalab</a>, <a rel="noreferrer noopener" href="https://beta.gouv.fr/" target="_blank">beta.gouv.fr</a>, <a rel="noreferrer noopener" href="https://design.numerique.gouv.fr/" target="_blank">DesignGouv</a>), les anciennes et anciens EIG, ainsi que les personnalités des mondes associatif et de l’entrepreneuriat pour leur participation à la sélection de cette promotion <em>:</em></p>
+
+
+
+<p><em>Adélie Lacombe (</em><a rel="noreferrer noopener" href="https://www.modernisation.gouv.fr/" target="_blank"><em>Direction interministérielle de la transformation publique</em></a><em>), Agathe Schvartz (</em><a rel="noreferrer noopener" href="https://www.banquedesterritoires.fr/" target="_blank"><em>Banque des territoires</em></a><em>), Alexandre Talon (</em><a rel="noreferrer noopener" href="https://nocode-france.fr/" target="_blank"><em>No Code France</em></a><em>), Alice Schoenauer Sebag (anciennement à l’</em><a rel="noreferrer noopener" href="https://www.igf.finances.gouv.fr/sites/igf/accueil.html" target="_blank"><em>Inspection générale des finances</em></a><em>), Amélie Medem (</em><a rel="noreferrer noopener" href="https://www.ccomptes.fr/fr" target="_blank"><em>Cour des comptes</em></a><em>), Anne Sophie Tranchet (</em><a rel="noreferrer noopener" href="https://beta.gouv.fr/" target="_blank"><em>beta.gouv.fr</em></a><em>), Antonin Garrone (</em><a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/" target="_blank"><em>Etalab</em></a><em>), Augustin Courtier (</em><a rel="noreferrer noopener" href="https://www.latitudes.cc/" target="_blank"><em>Latitudes</em></a><em>), Bastien Guerry (</em><a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/" target="_blank"><em>Etalab</em></a><em>), Christophe Ninucci (</em><a rel="noreferrer noopener" href="https://www.entreprises.gouv.fr/fr" target="_blank"><em>Direction générale des entreprises</em></a><em>), Cindy Kus (</em><a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/" target="_blank"><em>Etalab</em></a><em>), Dorine Lambinet, Fautine Demiselle (</em><a rel="noreferrer noopener" href="https://design.numerique.gouv.fr/" target="_blank"><em>DesignGouv</em></a><em>), Geoffrey Aldebert (</em><a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/" target="_blank"><em>Etalab</em></a><em>), Geoffrey Delcroix (</em><a rel="noreferrer noopener" href="https://www.ubisoft.com/fr-fr/" target="_blank"><em>Ubisoft</em></a><em>), Giulia Reboa (</em><a rel="noreferrer noopener" href="https://agence-cohesion-territoires.gouv.fr/" target="_blank"><em>Agence nationale de la cohésion des territoires</em></a><em>), Jules Leclerc, Kheira Belkacem (</em><a rel="noreferrer noopener" href="https://beta.gouv.fr/" target="_blank"><em>beta.gouv.fr</em></a><em>), Kim Montalibet (</em><a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/" target="_blank"><em>Etalab</em></a><em>), Léa Douhard (</em><a rel="noreferrer noopener" href="http://www.sciencespo.fr/" target="_blank"><em>Sciences Po</em></a><em>), Lou Welgryn (</em><a rel="noreferrer noopener" href="https://dataforgood.fr/" target="_blank"><em>Data for Good</em></a><em>), Louis Fleuret (</em><a rel="noreferrer noopener" href="https://lafrenchtech.com/fr/" target="_blank"><em>French Tech</em></a><em>), Marie Bellocq (</em><a rel="noreferrer noopener" href="https://share-it.io/" target="_blank"><em>Share It</em></a><em>), Mathilde Hoang (</em><a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/" target="_blank"><em>Etalab</em></a><em>), Manon Léger (</em><a rel="noreferrer noopener" href="https://www.latitudes.cc/" target="_blank"><em>Latitudes</em></a><em>), Mario Restuccia (</em><a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/" target="_blank"><em>Etalab</em></a><em>), Nicolas Grandjean (</em><a rel="noreferrer noopener" href="https://www.gendarmerie.interieur.gouv.fr/notre-institution/nos-composantes/au-niveau-central/direction-generale" target="_blank"><em>Direction générale de la gendarmerie nationale</em></a><em>), Paul Duan (</em><a rel="noreferrer noopener" href="https://www.bayesimpact.org/fr/" target="_blank"><em>Bayes Impact</em></a><em>), Perica Sucevic (</em><a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/" target="_blank"><em>Etalab</em></a><em>), Rudy Cambier (</em><a rel="noreferrer noopener" href="https://www.liberte.paris/" target="_blank"><em>Liberté Living Lab</em></a><em>), Sandra Chakroun, Sébastien Touzé (</em><a rel="noreferrer noopener" href="https://mer.gouv.fr/" target="_blank"><em>Ministère de la mer</em></a><em>), Sigrid Berger (</em><a rel="noreferrer noopener" href="https://profilpublic.fr/" target="_blank"><em>Profil Public</em></a><em>), Théo Alves Da Costa (</em><a rel="noreferrer noopener" href="https://dataforgood.fr/" target="_blank"><em>Data for Good</em></a><em>), Ugo Dessertine (</em><a rel="noreferrer noopener" href="https://design.numerique.gouv.fr/" target="_blank"><em>DesignGouv</em></a><em>), Victor Gross (</em><a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/" target="_blank"><em>Etalab</em></a><em>), Victor Journé (</em><a rel="noreferrer noopener" href="https://www.interieur.gouv.fr/" target="_blank"><em>Ministère de l’intérieur</em></a><em>), Vincent Bataille (</em><a rel="noreferrer noopener" href="https://fr.openfoodfacts.org/" target="_blank"><em>Open Food Facts</em></a><em>), Xavier Dupré (Microsoft), Xavier Jouppe (</em><a rel="noreferrer noopener" href="https://www.numerique.gouv.fr/" target="_blank"><em>DINUM</em></a><em>) et Yannick François (</em><a rel="noreferrer noopener" href="https://beta.gouv.fr/" target="_blank"><em>beta.gouv.fr</em></a><em>)</em></p>
+
+
+
+<p class="has-text-align-center"><strong>De nouveaux appels à projets et à candidatures pour la sixième promotion EIG seront lancés dans les prochains mois. Le programme EIG vous intéresse&nbsp;? Vous souhaitez faire partie de la prochaine promotion, en tant qu’administration ou en tant qu’EIG ?</strong></p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<p class="has-text-align-center"><strong>Inscrivez-vous à <a href="https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio" target="_blank" rel="noreferrer noopener" class="broken_link">la liste de diffusion</a></strong></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<p class="has-text-align-center"><strong>Suivez-nous sur <a rel="noreferrer noopener" href="https://twitter.com/eigforever" target="_blank">Twitter</a> et <a href="https://fr.linkedin.com/company/etalab" target="_blank" rel="noreferrer noopener">Linkedin</a> pour être tenu au courant de toutes nos actualités</strong></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<p class="has-text-align-center"><strong>Contactez-nous à l’adresse <a href="mailto:eig@data.gouv.fr" target="_blank" rel="noreferrer noopener">eig@data.gouv.fr</a> pour toute question</strong></p>
+</div>
+</div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>L’État recherche des profils du numérique : rejoignez les Entrepreneurs d’intérêt général</title>
+		<link>/acc-eig5</link>
+		
+		<dc:creator><![CDATA[Corine Waroquiers]]></dc:creator>
+		<pubDate>Mon, 01 Mar 2021 08:12:33 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=15018</guid>
+
+					<description><![CDATA[Entrepreneurs d’intérêt général, programme d’Etalab à la direction interministérielle du numérique, ouvre son 5ème appel à candidatures du 1er mars au 2 mai 2021. Le programme recherche jusqu’à cinquante profils data, dev, design et en droit du numérique, extérieurs à l’administration. Regroupés en équipes de 2 ou 3 profils, ils viendront contribuer pendant 10 mois &#8230;<p class="read-more"> <a class="" href="/acc-eig5"> <span class="screen-reader-text">L’État recherche des profils du numérique : rejoignez les Entrepreneurs d’intérêt général</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Entrepreneurs d’intérêt général, programme d’Etalab à la direction interministérielle du numérique, ouvre son <strong>5<sup>ème</sup> appel à candidatures du 1<sup>er</sup> mars au 2 mai 2021</strong>.</p>
+
+
+
+<p><strong>Le programme recherche jusqu’à cinquante profils data, dev, design et en droit du numérique, extérieurs à l’administration</strong>. Regroupés en équipes de 2 ou 3 profils, ils viendront contribuer pendant 10 mois à l&rsquo;amélioration du service public en immersion dans une administration, à partir de septembre 2021. </p>
+
+
+
+<p>Si vous croyez dans le service public, que vous voulez relever des défis en première ligne avec les équipes métier de l’État, et rejoindre un collectif engagé dans l’intérêt général, cet appel à candidatures est pour vous&nbsp;!</p>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html" class="broken_link"><strong>Accéder à l&rsquo;appel à candidatures sur le site Entrepreneurs d&rsquo;intérêt général</strong></a></p></blockquote>
+
+
+
+<h2 class="wp-block-heading"><strong>Devenir Entrepreneur d’intérêt général ou EIG, ça veut dire quoi&nbsp;?</strong></h2>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>EIG </strong>[əiʒ]&nbsp;n. m. et n. f., épicène dérivé d’<em>entreprendeur</em>, XIIIème, au sens de mettre en œuvre</p><p><strong>[définition]</strong></p><p>1. Art d<em>e&nbsp; conju</em>guer le potentiel du numérique aux enjeux de l’intérêt général.</p><p>2. Membre d’un collectif mêlant compétences numériques, humour geek et appétence pour les valeurs d&rsquo;ouverture.</p><p>3. Démarche alliant l’agilité et un goût prononcé pour les défis propres à l’administration, afin de créer de nouvelles solutions pour les usagers et les agents publics.</p><p>4. Néologisme employé par l’administration du XXIème siècle&nbsp;: «&nbsp;Il faut qu’on s’EIGise&nbsp;» ayant remplacé le « moderniser le service public par le numérique&nbsp;» du XXème siècle.</p></blockquote>
+
+
+
+<p>Au-delà du titre, devenir EIG c’est vivre une expérience dans des&nbsp;<strong>communautés aux cultures diverses</strong>, toutes reliées par leur engagement pour l’action publique. Vous allez :</p>
+
+
+
+<ol><li>Intégrer une <strong>administration</strong> pour 10 mois et bénéficier du soutien d’agents publics porteurs et porteuses du projet</li><li>Faire <strong>équipe</strong> avec un ou deux autres profils du numérique comme vous</li><li>Rejoindre une <strong>promotion</strong> d’une cinquantaine d’EIG et 133 <em>alumni</em>&nbsp;</li><li>Participer à un <strong>programme</strong> d’appui à l’innovation : tous les EIG de la promotion se retrouvent pour des sessions régulières d’entraide et de partage d’expérience, et bénéficient de l’appui d’une équipe d’accompagnement à Etalab</li></ol>
+
+
+
+<p><strong>Les EIG deviennent contractuels de l’administration, et sont rémunérés 3500 euros ou 4000 euros nets par mois pour les profils ayant respectivement jusqu’à 5 années ou plus de 5 années</strong> d’expérience.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Quels sont les profils recherchés&nbsp;?</strong></h2>
+
+
+
+<p>Nous recherchons des personnes qui veulent transmettre une culture du numérique à l’administration, s’engager dans l’open data et l’open source, et participer à la mutualisation et la réutilisation des produits et des données.</p>
+
+
+
+<p>Les métiers recherchés sont&nbsp;:</p>
+
+
+
+<ul><li>Métiers de la donnée (data scientists, data engineers, géomaticiens/géomaticiennes)</li><li>Développeurs/développeuses</li><li>Designers</li><li>Juristes du numérique</li></ul>
+
+
+
+<p>Cette année, une nouveauté : car la transformation numérique ne passe pas que par des métiers techniques, nous ouvrons les candidatures aux juristes du numérique. De la même manière que les profils tech font bouger les lignes des directions du numérique, les profils juridiques viendront apporter leur expertise spécifique aux directions juridiques, notamment sur les sujets d’open source, d’open data, de circulation des données, de protection des données personnelles, etc.&nbsp;</p>
+
+
+
+<p>Les candidates et candidats seront sélectionnés sur des critères autant techniques qu’humains : nous recherchons des personnes bonnes dans leur domaine de compétences mais aussi capables de mener un projet de bout en bout, empathiques, aimant le travail en équipe pluridisciplinaire et avec une appétence pour l’intérêt général.</p>
+
+
+
+<p>Nous avons à coeur de composer une promotion diverse : cette année, 44% des EIG sont des femmes, et près de la moitié des développeurs sont en fait des développeuses.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Pour mener quel type de projet ?</strong></h2>
+
+
+
+<p><strong>Nouveauté de cette année : l’appel à candidatures a lieu en même temps que l’appel à projets.</strong></p>
+
+
+
+<p><strong>Les projets à mener dans les administrations seront dévoilés à partir du 24 mai</strong>. Si votre candidature est présélectionnée pour le programme, vous pourrez alors indiquer les projets sur lesquels vous souhaitez vous positionner, dans la limite de trois. Si votre préférence ne peut pas être satisfaite, il vous sera proposé une audition pour un autre projet.</p>
+
+
+
+<p><strong>Les projets, en cours de sélection, seront à mener dans une diversité d’administrations, sur l’ensemble du territoire français</strong>. Les années passées, les EIG sont intervenus aussi bien dans les ministères de la Justice, de la Culture et de l’Intérieur, qu’à la Haute Autorité de Santé, le Museum d’Histoire Naturelle, le Commissariat général au développement durable, etc.&nbsp;</p>
+
+
+
+<p>Un dénominateur commun à tous ces projets&nbsp;: ils sont formulés à partir d’un besoin clair, présentant un fort impact pour une politique ou un service public. À partir de ce besoin, et pendant 10 mois, les EIG créent et testent de nouveaux possibles au sein de leur administration d&rsquo;accueil. Leur rôle : concevoir des outils, mais également acculturer l’administration au numérique et aux valeurs de l’ouverture.</p>
+
+
+
+<p>Au terme de cette démarche exploratoire, les réalisations peuvent être très diverses, par exemple&nbsp;:</p>
+
+
+
+<ul><li><strong>À la DIRECCTE (</strong>Directions Régionales des Entreprises, de la Concurrence, de la Consommation, du Travail et de l&rsquo;Emploi)<strong> de Bourgogne-Franche-Comté</strong>, un data scientist et un développeur avaient pour mission en 2018 de détecter les entreprises fragilisées pour mieux les accompagner. <strong>Leur réalisation&nbsp;: un logiciel de détection et des entreprises à risque de défaillance</strong>, s’appuyant sur un module de chargement de données (cotisations sociales, données d’emploi, données financières), un algorithme de machine learning et une interface graphique. Ce logiciel est utilisé par les commissaires aux restructurations et à la prévention des difficultés dans les entreprises pour accompagner les entreprises détectées avant qu’il ne soit trop tard.&nbsp;Depuis, <a href="https://www.etalab.gouv.fr/signaux-faibles-de-lopen-data-camp-a-une-politique-publique-fondee-sur-la-donnee-recit-dun-passage-a-lechelle-reussi" target="_blank" rel="noreferrer noopener">le projet Signaux Faibles&nbsp;est déployé à l’échelle nationale</a>. Le data scientist, Pierre Camilleri, et le développeur, Christophe Ninucci, font toujours partie de l’équipe.</li></ul>
+
+
+
+<ul><li><strong>Au Mobilier National</strong>, une designer et un développeur avaient pour mission en 2018 de créer un outil pour révéler les objets et savoir-faire du Mobilier National, qui contient tout le patrimoine mobilier de l’Etat. <strong>Leur réalisation&nbsp;: </strong><a href="https://collection.mobiliernational.culture.gouv.fr/recherche"><u><strong>un site</strong></u></a><strong> et un outil de recherche dans les collections.</strong> A l’issue des 10 mois, 70 000 objets étaient en ligne, dont 36 000 photos d’objets et 15000 photos téléchargeables et réutilisables. Le code de l’outil est accessible et peut être réutilisé par d’autres institutions culturelles afin de diffuser plus facilement leurs collections. L’équipe EIG a également organisé <a href="https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/10/12/retour-sur-atelier-wikipedia-au-mobilier-national.html" class="broken_link"><u>des ateliers en partenariat avec Wikimédia France</u></a> pour publier des photos des ateliers du Mobilier sous licence libre et enrichir les articles de Wikipédia. La designer, Laurie Chapotte, et le développeur Ned Baldessin poursuivent ce projet dans l’Atelier du Numérique du ministère de la Culture.</li></ul>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>En attendant de découvrir les projets dévoilés en mai, explorez les projets des années passées et les parcours des anciennes et anciens EIG&nbsp;</strong><a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis.html" class="broken_link"><u><strong>sur le site Entrepreneurs d’intérêt général</strong></u></a><strong>.</strong></p></blockquote>
+
+
+
+<h2 class="wp-block-heading"><strong>Comment rejoindre notre 5</strong><sup><strong>ème</strong></sup><strong> promotion ?</strong></h2>
+
+
+
+<p>Le processus de candidature se fait en trois étapes&nbsp;:</p>
+
+
+
+<ul><li><strong>1</strong><sup><strong>er</strong></sup><strong> mars au 2 mai</strong>&nbsp;: vous envoyez votre candidature</li><li><strong>24 mai</strong> : les projets à mener dans l’administration sont révélés. Si votre candidature est présélectionnée, vous indiquez avant le 31 mai les projets sur lesquels vous souhaitez vous positionner, dans la limite de trois. Si votre préférence ne peut pas être satisfaite, il vous sera proposé une audition pour un autre projet.</li><li><strong>7 juin au 15 juin</strong>&nbsp;: vous passez un entretien de sélection en présence d’un jury composé d’agents publics, de membres de la DINUM et de personnalités extérieures issues des mondes associatif, de la recherche et de l’entrepreneuriat.</li></ul>
+
+
+
+<p>Les lauréates et lauréats rejoignent la promotion 5 du programme Entrepreneurs d’intérêt général et démarrent leurs projets dans les administrations le 13 septembre 2021, et ce jusqu’au 12 juillet 2022.</p>
+
+
+
+<p>Toutes les informations sur le fonctionnement de l’appel à candidature sont disponibles sur <a href="https://entrepreneur-interet-general.etalab.gouv.fr/candidature-defi.html" class="broken_link"><u>le site du programme EIG</u></a>.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Vous voulez candidater ? </strong><a href="https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html" class="broken_link"><u><strong>Visitez le site du programme EIG et postulez jusqu’au 2 mai</strong></u></a></p><p><strong>Participez à nos webinaires de présentation de l’appel à candidatures :</strong></p><p>&#8211; <u><a href="https://app.livestorm.co/dinum-12/aac-eig5-webinaire-info-1" class="broken_link">lundi 15 mars, de 11h à 12h</a></u></p><p>&#8211; <u><a href="https://app.livestorm.co/dinum-12/aac-eig5-webinaire-info-2" class="broken_link">mardi 30 mars, de 14h à 15h</a></u></p><p><strong>Téléchargez la <a href="https://entrepreneur-interet-general.etalab.gouv.fr/docs/Plaquette-AAC-EIG2021.pdf" class="broken_link">plaquette de l’appel à candidatures 2021</a></strong></p></blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Agents publics : soumettez vos projets numériques aux Entrepreneurs d&#8217;intérêt général !</title>
+		<link>/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general</link>
+		
+		<dc:creator><![CDATA[Corine Waroquiers]]></dc:creator>
+		<pubDate>Tue, 02 Feb 2021 08:34:01 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[appel à projets]]></category>
+		<category><![CDATA[innovation]]></category>
+		<category><![CDATA[numérique d'intérêt général]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14804</guid>
+
+					<description><![CDATA[Entrepreneurs d’intérêt général (EIG), programme d’Etalab à la DINUM depuis 2016, lance son cinquième appel à projets. Il est ouvert à toutes les administrations jusqu’au 7 avril 2021. Nouveauté cette année : les administrations peuvent proposer de recruter des profils de juristes du numérique. Visitez le site du programme EIG pour postuler à la cinquième &#8230;<p class="read-more"> <a class="" href="/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general"> <span class="screen-reader-text">Agents publics : soumettez vos projets numériques aux Entrepreneurs d&#8217;intérêt général !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Entrepreneurs d’intérêt général (EIG), programme d’Etalab à la DINUM depuis 2016, lance son cinquième appel à projets. Il est ouvert à toutes les administrations jusqu’au 7 avril 2021. </strong>Nouveauté cette année : les administrations peuvent proposer de recruter des profils de <strong>juristes</strong> du numérique.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong><strong><a href="https://entrepreneur-interet-general.etalab.gouv.fr/candidature-defi.html" target="_blank" rel="noreferrer noopener" class="broken_link">Visitez le site du programme EIG pour postuler à la cinquième promotion.</a></strong></strong></p></blockquote>
+
+
+
+<p>Si la pyramide du Louvre, conçue grâce à l’architecte Ieoh Ming Pei, a modernisé l’image du musée, ce sont les <strong>talents internes</strong> qui ont contribué à sa transformation durable. De la même façon, <strong>l’objectif du programme Entrepreneurs d’intérêt général est que vos <em>pyramides numériques</em> s’intègrent et transforment durablement le service public grâce au recrutement de nouveaux talents internes. <br><br></strong>Le programme sélectionne des projets numériques portés par des administrations pour moderniser l’action publique. Pour les déployer et les pérenniser, nous vous proposons des talents du numérique : développeurs et développeuses, data scientists, data engineers, géomaticiens et géomaticiennes, designers et, nouveauté de cette année, juristes du numérique.  Recrutés pour 10 mois, ces profils rejoignent votre service et renforcent vos équipes tout en diffusant une culture numérique dans votre administration. </p>
+
+
+
+<h2 class="wp-block-heading">Comment fonctionne le programme&nbsp;?</h2>
+
+
+
+<p>Le programme Entrepreneur d’intérêt général fonctionne par appels à projets, en 3 étapes.</p>
+
+
+
+<ol><li><strong>Vous candidatez&nbsp;:</strong> nous sélectionnons une vingtaine de projets numériques proposés par les administrations publiques (du 1<sup>er</sup> février au 7 avril) ;</li><li><strong>Nous réunissons une équipe&nbsp;:</strong> ensemble, nous sélectionnons 2 ou 3 profils tech, design et en droit du numérique pour votre projet (en mai et juin) ;</li><li><strong>Vous expérimentez&nbsp;:</strong> créez et testez de nouveaux possibles avec vos profils du numérique et le soutien du programme (à partir du 13 septembre, pour 10 mois).</li></ol>
+
+
+
+<h2 class="wp-block-heading">Quel soutien reçoivent les administrations ?</h2>
+
+
+
+<p>Rejoindre le programme Entrepreneur d’intérêt général, c’est recevoir un soutien pluriel&nbsp;:</p>
+
+
+
+<ul><li><strong>Pour votre recrutement&nbsp;:</strong> nous pilotons une procédure de recrutement accélérée, avec la sélection de profils aux compétences rares&nbsp;: développeurs et développeuses, data scientists, data engineers, géomaticiens et géomaticiennes, designers et des juristes du numérique.</li><li><strong>Pour votre financement</strong>&nbsp;: vos profils sont rémunérés 3500 ou 4000 euros nets par mois, avec une possibilité de co-financement à hauteur de 30% par le programme (le programme est ouvert à toute administration, mais des conditions spécifiques s’appliquent pour le cofinancement).</li><li><strong>Pour conduire l’innovation</strong>&nbsp;: vous recevez un appui technique et méthodologique du programme tout au long des dix mois, avec la participation des experts d’Etalab et de la DINUM.</li></ul>
+
+
+
+<p>Au-delà de ce soutien, <strong>vous entrez dans une communauté de pratiques</strong> qui compte aujourd’hui 95 agents publics et 133 profils du numérique, qui ont mis en œuvre 71 projets. Cette communauté s’insère dans l’écosystème du numérique public d’Etalab&nbsp;(data.gouv, le Lab IA, open data, open source), de la DINUM (design.gouv, beta.gouv.fr), de la Direction interministérielle de la transformation publique ainsi que nos partenaires hors de l’administration.</p>
+
+
+
+<p><strong>Pour découvrir les projets passés par le programme&nbsp;: <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis.html" target="_blank" class="broken_link">visitez notre site</a></strong>.</p>
+
+
+
+<h2 class="wp-block-heading">Quels sont les projets recherchés cette année ?</h2>
+
+
+
+<p>Le programme vise à produire des outils numériques mais aussi à encourager une transformation numérique plus profonde dans les administrations. Ainsi, nos critères de sélection portent autant sur<strong> le projet à réaliser en 10 mois </strong>que sur<strong> l’équipe qui le porte&nbsp;:</strong></p>
+
+
+
+<ul><li><strong>Pertinence du besoin </strong>: un besoin clair, à fort impact, porté à un haut niveau hiérarchique par l’administration d’accueil ; </li></ul>
+
+
+
+<ul><li><strong>Définition</strong>&nbsp;: une problématique bien circonscrite, des profils du numérique cohérents ; </li></ul>
+
+
+
+<ul><li><strong>Engagement</strong>&nbsp;: motivation pour participer au programme, ouvrir le terrain d’expérimentation aux profils du numérique, et leur offrir de l’autonomie ; </li></ul>
+
+
+
+<ul><li><strong>Transformation</strong>&nbsp;: une forte volonté de transformation numérique de la part de l’administration ; </li></ul>
+
+
+
+<ul><li><strong>Ouverture</strong>&nbsp;: des opportunités d’ouverture, de mutualisation et de réutilisation des outils produits et des données.</li></ul>
+
+
+
+<h2 class="wp-block-heading">Comment fonctionne l&rsquo;appel à projets ?</h2>
+
+
+
+<p>Toutes les informations sur le fonctionnement de l&rsquo;appel à projets sont disponibles sur <a href="https://entrepreneur-interet-general.etalab.gouv.fr/candidature-defi.html" target="_blank" rel="noreferrer noopener" class="broken_link">le site du programme EIG</a>.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Vous voulez soumettre votre projet&nbsp;? <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/candidature-defi.html" target="_blank" class="broken_link">Visitez le site du programme EIG et postulez jusqu’au 7 avril</a></strong>.</p><p><strong>Vous avez besoin de conseils ? <a href="https://calendly.com/entrepreneur-dinteret-general/parlons-ensemble-de-votre-projet">Réservez un créneau de 20 minutes avec l&rsquo;équipe et parlons ensemble de votre projet</a>. </strong></p><p><strong>Participez à nos webinaires de présentation de l&rsquo;appel à projets </strong><br>&#8211; <a href="https://app.livestorm.co/dinum-12/appel-a-projets-eig-5-webinaire-info-1" class="broken_link">Vendredi 12 février, de 11h à 12h</a><br>&#8211; <a href="https://app.livestorm.co/dinum-12/appel-a-projets-eig-5-webinaire-info-2" class="broken_link">Mardi 2 mars, de 14h à 15h</a></p><p><strong><a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/docs/Plaquette-EIG2021.pdf" target="_blank" class="broken_link">Téléchargez la plaquette de l’appel à projets 2021</a></strong>.</p><p><strong>Contactez-nous pour toute question&nbsp;: </strong><a href="mailto:eig@data.gouv.fr"><strong>ei</strong></a><strong><a rel="nofollow" href="mailto:eig@data.gouv.fr">g@data.gouv.fr</a></strong></p></blockquote>
+
+
+
+<p>Crédit photo&nbsp;: Dennis Jarvis / modifiée</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

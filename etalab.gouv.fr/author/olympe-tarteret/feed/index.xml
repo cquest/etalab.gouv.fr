@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Olympe Tarteret &#8211; Etalab</title>
+	<atom:link href="/author/olympe-tarteret/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 18 Jun 2019 08:33:10 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Olympe Tarteret &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Remise du rapport Fouilleron : vers la fin de la tarification des données au sein de l&#8217;administration</title>
+		<link>/remise-du-rapport-fouilleron-vers-la-fin-de-la-tarification-des-donnees-au-sein-de-ladministration</link>
+		
+		<dc:creator><![CDATA[Olympe Tarteret]]></dc:creator>
+		<pubDate>Fri, 11 Dec 2015 16:51:42 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[données]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10724</guid>
+
+					<description><![CDATA[La remise du rapport sur Les échanges de données réalisés à titre onéreux entre les administrations, réalisé par M. Antoine Fouilleron, auditeur à la Cour des comptes, au cabinet du Premier Ministre le 8 décembre 2015, marque un pas en avant vers une meilleure gouvernance des données au sein de l’administration. En 2014, le montant &#8230;<p class="read-more"> <a class="" href="/remise-du-rapport-fouilleron-vers-la-fin-de-la-tarification-des-donnees-au-sein-de-ladministration"> <span class="screen-reader-text">Remise du rapport Fouilleron : vers la fin de la tarification des données au sein de l&#8217;administration</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>La remise du rapport sur <strong><em>Les échanges de données réalisés à titre onéreux entre les administrations,</em></strong>
+ réalisé par M. Antoine Fouilleron, auditeur à la Cour des comptes, au 
+cabinet du Premier Ministre le 8 décembre 2015, marque un pas en avant 
+vers une meilleure gouvernance des données au sein de l’administration.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://agd.data.gouv.fr/wp-content/uploads/2015/12/remise-rapport-fouilleron-2mb.jpg"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2015/12/remise-rapport-fouilleron-2mb.jpg" alt="remise rapport fouilleron" class="wp-image-367"/></a></figure></div>
+
+
+
+<p>En 2014, le montant total des flux budgétaires liés aux échanges 
+onéreux de données entre administrations s’élevait à près de 20 M€, en 
+croissance de 18% par rapport à 2010. Ces flux sont concentrés entre un 
+petit nombre d’acteurs, puisque la CNAV, l’IGN, l’INSEE, la DGFiP et 
+l’ACOSS réalisent à elles seules 91% des ventes de données à d’autres 
+administrations.</p>
+
+
+
+<p>Derrière ce montant relativement modeste se cache pourtant un manque à
+ gagner pour l’administration, en termes d’efficacité et de qualité de 
+l’action publique. La tarification engendre en effet des coûts de 
+transaction et des effets pervers comme le renoncement à la donnée pour 
+des raisons budgétaires ou des stratégies de contournement du frein 
+budgétaire de la part des administrations acheteuses. Or, la gratuité 
+des échanges de données au sein du secteur public est de nature à 
+favoriser leur circulation et leur utilisation, vectrices <strong>d’externalités et d’effets de réseaux</strong>, et à favoriser la <strong>progression de la culture de la donnée</strong> au sein de l’administration, pour une plus grande efficacité et qualité de l’action publique.</p>
+
+
+
+<p>Rappelant le potentiel de création de valeur économique et sociale 
+sous-jacent à la circulation des données, la mission préconise 
+d’instaurer dans la loi, de manière à couvrir le périmètre le plus large
+ des administrations, un <strong>principe de gratuité de ces 
+transmissions entre administrations réalisées dans le cadre de 
+l’exercice des missions de service public</strong>. Afin de rendre 
+effectif ce principe tout en préservant les équilibres financiers des 
+administrations vendeuses et acheteuses de données, le rapport propose 
+d’introduire parallèlement une <strong>mesure de neutralisation en base budgétaire</strong>.</p>
+
+
+
+<p>Les freins à la circulation des données au sein du secteur public ne 
+sont pourtant pas que budgétaires, la gratuité des échanges n’est qu’une
+ partie de la solution. En effet, les <strong>contraintes techniques, les restrictions juridiques, les freins culturels ou le manque d’informations</strong>
+ limitent également l’exploitation du potentiel que représentent les 
+données. La mise en oeuvre du principe de gratuité doit ainsi 
+s’accompagner <strong>d’évolutions des systèmes d’information de l’état et des processus de mise à disposition des données</strong>, en cohérence avec la stratégie de modernisation de l’action publique par le numérique.</p>
+
+
+
+<p>Des démarches concrètes seront engagées pour <strong>faciliter et normaliser les échanges de données</strong>
+ et accroître la communication entre administrations, appuyées par le 
+Secrétariat général à la modernisation de l’action publique (SGMAP) et 
+l’Administrateur général des données.</p>
+
+
+
+<p>Le rapport se trouve en ligne sur le <a href="http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/rapport-fouilleron-vers-une-meilleure-gouvernance-des-donnees-administration" class="broken_link">site du Secrétariat général à la modernisation de l’action publique</a> .</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

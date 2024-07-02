@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Paula Forteza &#8211; Etalab</title>
+	<atom:link href="/author/paula-forteza/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Thu, 03 Oct 2019 13:39:47 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Paula Forteza &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[:fr]Une démarche ouverte visant à déployer une plateforme de consultation libre pour les acteurs publics[:]</title>
+		<link>/une-demarche-ouverte-visant-a-deployer-une-plateforme-de-consultation-libre-pour-les-acteurs-publics</link>
+		
+		<dc:creator><![CDATA[Paula Forteza]]></dc:creator>
+		<pubDate>Fri, 16 Sep 2016 15:02:42 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=5452</guid>
+
+					<description><![CDATA[[:fr]Le Gouvernement, les administrations, les parlementaires et les collectivités territoriales ont de plus en plus recours aux consultations numériques, sous différent formats. C&#8217;est le cas par exemple de la consultation autour du projet de Loi pour une République numérique portée par le secrétariat d&#8217;État au numérique, de la consultation autour de la proposition de loi &#8230;<p class="read-more"> <a class="" href="/une-demarche-ouverte-visant-a-deployer-une-plateforme-de-consultation-libre-pour-les-acteurs-publics"> <span class="screen-reader-text">[:fr]Une démarche ouverte visant à déployer une plateforme de consultation libre pour les acteurs publics[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]Le Gouvernement, les administrations, les parlementaires et les collectivités territoriales ont de plus en plus recours aux consultations numériques, sous différent formats. C&rsquo;est le cas par exemple de la consultation autour du <a href="https://www.republique-numerique.fr/">projet de Loi pour une République numérique</a> portée par le secrétariat d&rsquo;État au numérique, de la consultation autour de la <a href="http://www2.assemblee-nationale.fr/consultations-citoyennes/droits-des-malades-et-fin-de-vie#article-1">proposition de loi créant de nouveaux droits en faveur des malades et des personnes en fin de vie</a> présentée par MM. Alain Clayes et Jean Leonetti, de la consultation sur <a href="http://www.consultations-publiques.developpement-durable.gouv.fr/projet-de-programmation-pluriannuelle-de-l-energie-a1526.html">le projet de programmation pluriannuelle de l&rsquo;énergie,</a> portée par le Ministère de l&rsquo;Environnement, de l’Énergie et de la Mer, ou encore, de la consultation sur <a href="http://consultation-numerique.afd.fr/projects/strategie-numerique-de-l-afd/consultation/consultation/opinions/etendre-la-connectivite/extension-d-infrastructures-a-tous-les-niveaux-de-la-chaine-de-valeur">la stratégie numérique pour l&rsquo;AFD</a>.</p>
+<p>Suite au succès de ces expérience et sous l&rsquo;impulsion des <a href="https://www.etalab.gouv.fr/ogp">politiques de gouvernement ouvert de la France</a>, des associations, des administrations et le <a href="http://cnnumerique.fr/">Conseil National du Numérique</a>, ont identifié <strong>le besoin de mettre à disposition des acteurs publics un outil libre pour mener des consultations en ligne sur des textes. </strong>En effet, l&rsquo;ouverture du code d&rsquo;un logiciel de consultation favorise la transparence de la démarche et la confiance dans une procédure de délibération qui doit être le plus neutre possible. De plus, cela permet aux utilisateurs et à la communauté de se saisir de l&rsquo;outil pour l’améliorer, y apporter des modifications ou l&rsquo;adapter à différents cas d&rsquo;usages.<strong><br />
+</strong></p>
+<p>Ce besoin se pose dans un contexte dans lequel :</p>
+<ul>
+<li>Etalab travaille à développer <strong>une « <a href="https://fr.ogpsummit.org/the-open-government-toolbox/" class="broken_link">boîte à outils</a> » du gouvernement ouvert</strong>, un des principaux livrables du <a href="https://fr.ogpsummit.org/osem/conference/ogp-summit" class="broken_link">Sommet Mondial du Partenariat pour un Gouvernement Ouvert</a>, qui vise à partager des outils et des ressources entre les gouvernements et la société civile du monde entier ;</li>
+<li>les administrations et la société civile collaborent autour de<strong> l&rsquo;ouverture des codes sources de certains outils ou modèles</strong>, des ressources mises à disposition de tous les citoyens (par exemple, <a href="https://www.etalab.gouv.fr/codeimpot-un-hackathon-autour-de-louverture-du-code-source-du-calculateur-impots">#CodeImpot</a>, l&rsquo;ouverture du code de <a href="http://www.faire-simple.gouv.fr/" class="broken_link">Faire Simple</a> et #<a href="https://www.etalab.gouv.fr/codegouv-le-13-octobre-ouvrir-les-codes-sources-des-simulateurs-de-letat">CodeGouv</a>) ;</li>
+<li>le mouvement dit des <strong>« technologies civiques »</strong> (« civic tech ») est en plein essor, et de <a href="http://www.economie.gouv.fr/files/files/PDF/Mardigital_24052016.pdf" class="broken_link">nombreux outils</a> voient le jour, qui proposent certains de leurs services aux administrations et aux collectivités locales ;</li>
+<li>l&rsquo;initiative <a href="http://opendemocracynow.net/">Open Democracy Now</a> rassemble une série d&rsquo;acteurs publics et citoyens pour « développer des solutions open source pour la démocratie ».</li>
+</ul>
+<p>Le Conseil National du Numérique et Etalab proposent donc de <strong>travailler avec l&rsquo;écosystème</strong> engagé dans ces mouvements pour répondre de façon collaborative au besoin identifié. Il s&rsquo;agit de préfigurer, auprès de toutes les parties-prenantes impliquées, <strong>une démarche ouverte</strong> qui aboutisse au <strong>déploiement d&rsquo;une plateforme de consultation libre pour les acteurs publics. </strong>Une première discussion se tiendra  durant la matinée du<strong> samedi 17 septembre, </strong>au hackathon <a href="http://opendemocracynow.net/">Open Democracy Now</a>. Nous encourageons tous les porteurs de projets à participer !</p>
+<p><span style="line-height: 1.5;">Par ailleurs, d&rsquo;ici la fin de l&rsquo;année, une série d&rsquo;ateliers ouverts réguliers sera organisée permettant de proposer un </span><strong style="line-height: 1.5;">support technique</strong><span style="line-height: 1.5;"> (en termes, par exemple, de développement de nouvelles fonctionnalités, de débogage, de tests usagers, de design et d&rsquo;ergonomie, d&rsquo;ouverture du code source) pour accompagner les projets dans la démarche. </span> Les avancées du projet seront partagées à l’occasion du Sommet mondial du Partenariat pour un gouvernement ouvert en décembre 2016 et les participants seront mis en valeur dans la « boîte à outils » du gouvernement ouvert.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Un hackathon « OGP Toolbox » à New York le 21 Septembre avec le Civic Hall [:en]Etalab and Civic Hall co-organize an OGP Toolbox hackathon in New York on September 21[:]</title>
+		<link>/un-hackathon-ogp-toolbox-a-new-york-le-20-septembre-avec-le-civic-hall</link>
+		
+		<dc:creator><![CDATA[Paula Forteza]]></dc:creator>
+		<pubDate>Fri, 26 Aug 2016 09:21:55 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[civic tech]]></category>
+		<category><![CDATA[OGP]]></category>
+		<category><![CDATA[ONU]]></category>
+		<category><![CDATA[PGO]]></category>
+		<category><![CDATA[Sommet mondial PGO]]></category>
+		<category><![CDATA[Toolbox]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=5268</guid>
+
+					<description><![CDATA[[:fr]Le 21 septembre prochain, Etalab et le Civic Hall co-organisent un hackathon à New York pour travailler sur la « boîte à outils » du gouvernement ouvert. Le 20 Septembre, l&#8217;Afrique du Sud passera le relais à la France pour la présidence du Partenariat pour un Gouvernement Ouvert à l&#8217;occasion d&#8217;une cérémonie rassemblant Chefs d&#8217;Etat &#8230;<p class="read-more"> <a class="" href="/un-hackathon-ogp-toolbox-a-new-york-le-20-septembre-avec-le-civic-hall"> <span class="screen-reader-text">[:fr]Un hackathon « OGP Toolbox » à New York le 21 Septembre avec le Civic Hall [:en]Etalab and Civic Hall co-organize an OGP Toolbox hackathon in New York on September 21[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]Le 21 septembre prochain, Etalab et le <a href="http://civichall.org/">Civic Hall</a> co-organisent <strong><a href="https://rdv.etalab.gouv.fr/e/5/hackathon-ogp-toolbox-civic-tech-for-open-government" class="broken_link">un hackathon à New York</a> pour travailler sur la <a href="https://fr.ogpsummit.org/the-open-government-toolbox/" class="broken_link">« boîte à outils » du gouvernement ouvert</a></strong>.</p>
+<p>Le 20 Septembre, l&rsquo;Afrique du Sud passera le relais à la France pour la présidence du <a href="http://www.opengovpartnership.org/">Partenariat pour un Gouvernement Ouvert</a> à l&rsquo;occasion d&rsquo;une <a href="http://www.opengovpartnership.org/events/ogps-five-year-anniversary">cérémonie rassemblant Chefs d&rsquo;Etat et société civile en marge de <strong>l&rsquo;Assemblée Générale des Nations-Unies</strong></a><strong>,</strong> qui célèbrera également les cinq ans du Partenariat.</p>
+<p>Le lendemain, agents de l’administration française et américaine, représentants de la société civile, entreprises, start-ups et membres de la communauté <em>civic tech</em> seront mobilisés pour contribuer à la mise en œuvre concrète des principes et engagements du gouvernement ouvert. Cette boîte à outils vise à faciliter la mise en œuvre des engagements pris dans le cadre du PGO, en référençant les solutions disponibles et en documentant leurs usages.</p>
+<p style="text-align: justify;"><strong>L&rsquo;événement new-yorkais, organisé de 9h à 20h30 </strong><a href="https://rdv.etalab.gouv.fr/e/5/hackathon-ogp-toolbox-civic-tech-for-open-government" class="broken_link">(voir le programme),</a><strong> sera l&rsquo;occasion de présenter la boîte à outils et de recueillir les contributions de l&rsquo;administration américaine et de l&rsquo;écosystème local.</strong> Crée en 2015, le Civic Hall new-yorkais est un espace ouvert et contributif dédié aux innovations citoyennes, où innovateurs, entrepreneurs sociaux, agents publics, journalistes et universitaires échangent et développent conjointement des projets d&rsquo;intérêt général.</p>
+<p style="text-align: justify;"><img fetchpriority="high" decoding="async" class="aligncenter wp-image-5290" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/08/Code-Across-NYC-143-e1433882118644.jpg" alt="Code-Across-NYC-143-e1433882118644" width="456" height="305" srcset="/wp-content/uploads/2016/08/Code-Across-NYC-143-e1433882118644.jpg 900w, /wp-content/uploads/2016/08/Code-Across-NYC-143-e1433882118644-300x200.jpg 300w, /wp-content/uploads/2016/08/Code-Across-NYC-143-e1433882118644-768x513.jpg 768w" sizes="(max-width: 456px) 100vw, 456px" /></p>
+<ul>
+<li style="text-align: justify;"><span style="text-decoration: underline;"><span style="color: #3272ba; text-decoration: underline;"><strong><em>La démarche et les sprints Toolbox</em></strong></span></span></li>
+</ul>
+<p style="text-align: justify;"><strong><img decoding="async" class="wp-image-5285 alignright" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/08/Picto-toolbox-1.png" alt="Picto-toolbox" width="241" height="241" /></strong></p>
+<p style="text-align: justify;">Cet événement fait partie d’<strong>une série de sprints et d&rsquo;événements contributif</strong>s qui mèneront au lancement de la boîte à outils lors du <a href="https://fr.ogpsummit.org/osem/conference/ogp-summit" class="broken_link">Sommet Mondial du PGO</a> qui aura lieu à Paris les 7, 8 et 9 décembre 2016.</p>
+<p style="text-align: justify;">Cette plateforme fournira un catalogue agrémenté de cas d&rsquo;usage de solutions d&rsquo; « <em>open government</em> » : portails d’open data, plateformes de consultation citoyenne, outils de suivi et d’élaboration collaborative de la loi, forums, plateformes d’évaluation des plans d’action nationaux…</p>
+<p style="text-align: justify;">Lors de ces sprints, <strong>les participants renseignent leurs outils via une interface de saisie, documentent et actualisent les solutions recensées, et améliorent de façon collaborative les logiciels et services numériques</strong>. Les précédents événements ont déjà permis de moissonner des catalogues existants, d’imaginer des réutilisations de la base de données comme <a href="http://civictech.lol/" class="broken_link">civictech.lol</a>, de travailler sur le packaging des logiciels pour en faciliter l’installation automatique et de faire un <a href="https://hackpad.com/Bote-outils-opengov-6mzJYjn3zfr">benchmark des UI/UX</a> les plus adaptées à la plateforme.</p>
+<p style="text-align: justify;">Ces réunions sont aussi <strong>l’occasion de collaborer et de mutualiser des efforts avec des initiatives internationales similaires</strong> telles que le <a href="https://wiki.nuitdebout.fr/wiki/Outils/Numerique/Liste" class="broken_link">wiki </a>de Nuit Debout, la plateforme <a href="http://www.civicstack.org/" class="broken_link">Civic Stack</a> de Democracia en Red et Asuntos del Sur, la plateforme <a href="http://www.participatedb.com/" class="broken_link">ParticipateDB</a> d’Intellectics, le <a href="http://civicgraph.io/">Civic Graph</a> de Microsoft, la plateforme <a href="https://dem.tools/" class="broken_link">Dem.tools</a> du NDI ou encore la <a href="http://www.economie.gouv.fr/files/files/PDF/Mardigital_24052016.pdf" class="broken_link">cartographie de la technologie civique en France</a> proposée par le Secretariat d’Etat chargé du numérique, à travers le partage de données ou la réflexion commune sur la taxonomie des initiatives et des acteurs de la civic tech.</p>
+<ul>
+<li><span style="text-decoration: underline;"><span style="color: #3272ba; text-decoration: underline;"><em><strong>Inscriptions aux prochains sprints de contribution</strong></em></span></span></li>
+</ul>
+<p>• FRANCE / <strong><a href="http://opendemocracynow.net/">Hackathon Open Democracy Now!</a> </strong>– Vendredi 16 septembre au dimanche 18 septembre à la Mairie du 18ème (1 Place Jules Joffrin, Paris 18e) – Inscriptions <a href="https://www.eventbrite.fr/e/billets-hackathon-open-democracy-now-4-26372793736">ici</a><br />
+• ETATS-UNIS / <strong>Hackathon OGP Toolbox: Civic Tech for Open Government</strong> – Mercredi 21 septembre – Civic Hall (156 5th Ave, New York) – <span style="color: #3272ba;"><strong><span style="text-decoration: underline;">Inscriptions <a style="color: #3272ba; text-decoration: underline;" href="https://rdv.etalab.gouv.fr/e/5/hackathon-ogp-toolbox-civic-tech-for-open-government" class="broken_link">ici</a></span></strong></span></p>
+<p><img decoding="async" class="size-full wp-image-5272 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/08/images.png" alt="images" width="225" height="225" srcset="/wp-content/uploads/2016/08/images.png 225w, /wp-content/uploads/2016/08/images-150x150.png 150w, /wp-content/uploads/2016/08/images-80x80.png 80w, /wp-content/uploads/2016/08/images-118x118.png 118w" sizes="(max-width: 225px) 100vw, 225px" /></p>
+<p><em>De </em><em>nouveaux rendez-vous seront bientôt communiqués, en France et dans le monde</em>.</p>
+<p><strong>Participez au projet</strong></p>
+<p>Nous vous invitons à :<br />
+• suivre l’<strong>avancement</strong> du projet <a href="https://annuel.framapad.org/p/ogptoolbox">ici</a>;<br />
+• contribuer au <strong>code</strong> <a href="https://framagit.org/etalab/ogptoolbox">ici</a>.</p>
+<p><em>(images : Civic Hall, Etalab)</em>[:en]On September 21, Etalab and Civic Hall are <strong>co-organizing <a href="https://rdv.etalab.gouv.fr/e/5/hackathon-ogp-toolbox-civic-tech-for-open-government" class="broken_link">a hackathon in New York</a> to contribute to the <a href="https://en.ogpsummit.org/the-open-government-toolbox/" class="broken_link">open government toolbox</a>.</strong></p>
+<p>On September 20, South Africa will hand over the Open Government Partnership (OGP) Presidency to France during a ceremony gathering Heads of State and civil society representatives that will be held during the <strong>General Assembly of the United Nations</strong>.</p>
+<p>The next day, public officials from the French and American governments, civil society representatives, private companies, start-ups, and members of the civic tech community will gather to contribute to the concrete implementation of open government principles and commitments. The OGP Toolbox is intended to facilitate the implementation of national commitments made by governments in their action plans. It will be based on a catalogue referencing software and online services, including examples of use cases.</p>
+<p><strong>The hackathon will take place from 9 am to 8:30 pm</strong> (<a href="https://rdv.etalab.gouv.fr/e/5/hackathon-ogp-toolbox-civic-tech-for-open-government" class="broken_link">see program</a>) <strong>and will provide the opportunity to present the OGP Toolbox and to collect contributions from the American government and the local ecosystem</strong>. Created in 2015, Civic Hall is a new co-working space for civic tech where innovators, social entrepreneurs, government employees, journalists and academics exchange views and build tools to solve problems together.</p>
+<p><img loading="lazy" decoding="async" class="wp-image-5290 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/08/Code-Across-NYC-143-e1433882118644.jpg" sizes="(max-width: 456px) 100vw, 456px" srcset="https://www.etalab.gouv.fr/wp-content/uploads/2016/08/Code-Across-NYC-143-e1433882118644.jpg 900w, https://www.etalab.gouv.fr/wp-content/uploads/2016/08/Code-Across-NYC-143-e1433882118644-300x200.jpg 300w, https://www.etalab.gouv.fr/wp-content/uploads/2016/08/Code-Across-NYC-143-e1433882118644-768x513.jpg 768w" alt="Code-Across-NYC-143-e1433882118644" width="401" height="268" /></p>
+<ul>
+<li><strong>OGP Toolbox events<br />
+</strong></li>
+</ul>
+<p><img loading="lazy" decoding="async" class="wp-image-5285 alignright" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/08/Picto-toolbox-1.png" sizes="(max-width: 241px) 100vw, 241px" srcset="https://www.etalab.gouv.fr/wp-content/uploads/2016/08/Picto-toolbox-1.png 400w, https://www.etalab.gouv.fr/wp-content/uploads/2016/08/Picto-toolbox-1-150x150.png 150w, https://www.etalab.gouv.fr/wp-content/uploads/2016/08/Picto-toolbox-1-300x300.png 300w, https://www.etalab.gouv.fr/wp-content/uploads/2016/08/Picto-toolbox-1-80x80.png 80w, https://www.etalab.gouv.fr/wp-content/uploads/2016/08/Picto-toolbox-1-118x118.png 118w, https://www.etalab.gouv.fr/wp-content/uploads/2016/08/Picto-toolbox-1-239x239.png 239w" alt="Picto-toolbox" width="241" height="241" />This hackathon is part of a series of sprints and workshops organized in preparation of the launch of the OGP Toolbox that will take place during the <a href="https://en.ogpsummit.org/osem/conference/ogp-summit" class="broken_link">OGP 2016 Global Summit</a> in Paris (7, 8 and 9 December).</p>
+<p>This toolbox will be based on a catalogue including examples of use cases and technical criteria: open data portals, public consultation platforms, tools for monitoring and co-creating the law, discussion forums, online platforms to monitor the implementation of national action plans…</p>
+<p>During these sprints, <strong>participants are able to add their tools to the catalogue via a crowdsourcing interface, document and update indexed solutions, and work collaboratively to improve software and online services</strong>. At previous events, participants harvested existing catalogues, imagined reuses for the database such as <a href="http://civictech.lol/" class="broken_link">civictech.lol</a>, packaged software to facilitate automatic installation, and set a <a href="https://hackpad.com/Bote-outils-opengov-6mzJYjn3zfr">benchmark of UI/UX</a> applicable to the catalogue.</p>
+<p>These events also constitute an opportunity to collaborate and coordinate efforts with similar international initiatives, such as Nuit Debout’s <a href="https://wiki.nuitdebout.fr/wiki/Outils/Numerique/Liste" class="broken_link">wiki</a>, Democracia en Red and Asuntos del Sur’s <a href="http://www.civicstack.org/" class="broken_link">Civic Stack</a> platform, Microsoft’s <a href="http://civicgraph.io/">Civic Graph</a>, NDI’s <a href="https://dem.tools/" class="broken_link">Dem.tools</a> or the French <a href="http://www.economie.gouv.fr/files/files/PDF/Mardigital_24052016.pdf" class="broken_link">civic technology cartography</a> made by the Minister of State for Digital Affairs, through data sharing or common reflection on civic tech taxonomy.</p>
+<ul>
+<li><strong>Sign up for upcoming events<br />
+</strong></li>
+</ul>
+<p>FRANCE | <strong><a href="http://opendemocracynow.net/">Hackathon Open Democracy Now!</a></strong> – From Friday, September 16 to Sunday, September 18 at the city hall of Paris 18st district (1 Place Jules Joffrin, Paris 18e) – Sign up <a href="https://www.eventbrite.fr/e/billets-hackathon-open-democracy-now-4-26372793736">here</a></p>
+<p>UNITED STATES | <strong>Hackathon OGP Toolbox: Civic Tech for Open Government</strong> – Wednesday, September 21 at Civic Hall (156 5th Ave, New York) – Sign up <a href="https://rdv.etalab.gouv.fr/e/5/hackathon-ogp-toolbox-civic-tech-for-open-government" class="broken_link">here</a></p>
+<p><img loading="lazy" decoding="async" class=" wp-image-5272 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/08/images.png" sizes="(max-width: 225px) 100vw, 225px" srcset="https://www.etalab.gouv.fr/wp-content/uploads/2016/08/images.png 225w, https://www.etalab.gouv.fr/wp-content/uploads/2016/08/images-150x150.png 150w, https://www.etalab.gouv.fr/wp-content/uploads/2016/08/images-80x80.png 80w, https://www.etalab.gouv.fr/wp-content/uploads/2016/08/images-118x118.png 118w" alt="images" width="146" height="146" /></p>
+<p><em>New events will soon be announced, in France and abroad.</em></p>
+<ul>
+<li><strong>Contribute to the project<br />
+</strong></li>
+</ul>
+<p>We encourage you to follow up the <strong>progress</strong> of the project <a href="https://annuel.framapad.org/p/ogptoolbox">here</a> and to contribute to the <strong>code</strong> <a href="https://framagit.org/etalab/ogptoolbox">here</a>.</p>
+<p><em>(images: Civic Hall, Etalab)</em>[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Fin de l’appel à propositions pour le Sommet PGO : un aperçu du tableau de bord d&#8217;ogpsummit.org [:en]Now that the OGP World Summit call for proposals has wrapped up: an overview of the ogpsummit.org dashboard[:]</title>
+		<link>/fin-de-lappel-a-propositions-pour-le-sommet-pgo-apercu-du-tableau-de-bord-ogpsummit-org</link>
+		
+		<dc:creator><![CDATA[Paula Forteza]]></dc:creator>
+		<pubDate>Fri, 22 Jul 2016 14:28:56 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[OGP]]></category>
+		<category><![CDATA[PGO]]></category>
+		<category><![CDATA[Sommet mondial PGO]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=5193</guid>
+
+					<description><![CDATA[[:fr]3 mois d’appel à propositions, 1542 utilisateurs, 660 propositions effectives: administrations et organisations de la société civile françaises et internationales ont encore une fois démontré leur intérêt et leurs soutien envers les démarches d’ouverture et de collaboration impulsées par le Partenariat pour un Gouvernement Ouvert. Merci à tous pour votre participation ! La démarche de &#8230;<p class="read-more"> <a class="" href="/fin-de-lappel-a-propositions-pour-le-sommet-pgo-apercu-du-tableau-de-bord-ogpsummit-org"> <span class="screen-reader-text">[:fr]Fin de l’appel à propositions pour le Sommet PGO : un aperçu du tableau de bord d&#8217;ogpsummit.org [:en]Now that the OGP World Summit call for proposals has wrapped up: an overview of the ogpsummit.org dashboard[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]<strong>3 mois </strong>d’appel à propositions, <strong>1542 utilisateurs</strong>, <strong>660 propositions</strong> effectives: administrations et organisations de la société civile françaises et internationales ont encore une fois démontré leur intérêt et leurs soutien envers les démarches d’ouverture et de collaboration impulsées par le <a href="http://www.opengovpartnership.org/">Partenariat pour un Gouvernement Ouvert</a>. Merci à tous pour votre participation !</p>
+<p>La <strong>démarche de co-création</strong> du <a href="https://www.etalab.gouv.fr/le-sommet-mondial-du-pgo-a-paris-souvre-le-20-avril">Sommet PGO</a> a eu lieu sur <a href="https://fr.ogpsummit.org/osem/conference/ogp-summit" class="broken_link">ogpsummit.org</a>, une plateforme dont les fonctionnalités ont été conçues pour permettre le <strong><em>crowdsourcing</em> de l’agenda</strong>. L’édition en temps réel, des propositions rendues publiques, la possibilité de voter et d’engager des discussions avec le reste des participants ont permis aux différents acteurs de contribuer de façon itérative et collaborative à l’élaboration du programme.</p>
+<p>Des événements en France (<a href="https://www.etalab.gouv.fr/retour-sur-le-lancement-du-sommet-pgo">atelier de lancement du 20 avril </a>et atelier à <a href="http://www.futur-en-seine.paris/programme/open-government-partnership/">Futur en Seine</a>) et à l’international (atelier lors du <a href="http://www.opengovpartnership.org/events/ogp-americas-regional-meeting-2016">Sommet régional du PGO en Afrique du Sud</a> et ateliers au siège du PGO à Washington) ont rythmé cette dynamique. En format <em>barcamp</em>, les participants à ces <strong><em>s</em>prints de contribution</strong> ont travaillé sur des propositions d’événements, de conférences, d’ateliers ou de pitches, en écho aux principales thématiques du gouvernement ouvert.</p>
+<p>Les propositions (accessibles <a href="https://fr.ogpsummit.org/osem/conference/ogp-summit/new_proposals" class="broken_link">ici</a>) ont été soumises par une <strong>grande variété d’acteurs</strong>, tant en termes d’appartenance institutionnelle que de provenance géographique. Elles couvrent tous les <strong>enjeux essentiels</strong> du gouvernement ouvert sous des formats <strong>innovant et créatifs</strong>.</p>
+<p>Parce qu’une image vaut mille mots, nous avons décidé de partager en un clin d’œil les coulisses de l’appel à propositions, avec cette vue du <strong>tableau de bord d’<a href="https://fr.ogpsummit.org/osem/conference/ogp-summit" class="broken_link">ogpsummit.org</a></strong>, accessible aux administrateurs du site et aux membres du <a href="https://fr.ogpsummit.org/2016/07/04/learn-about-the-composition-of-the-programming-committe/" class="broken_link">Comité de Programme</a> :</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-large wp-image-5203" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/07/Capture-1-1024x546.png" alt="Capture" width="806" height="430" srcset="/wp-content/uploads/2016/07/Capture-1-1024x546.png 1024w, /wp-content/uploads/2016/07/Capture-1-300x160.png 300w, /wp-content/uploads/2016/07/Capture-1-768x410.png 768w, /wp-content/uploads/2016/07/Capture-1.png 1309w" sizes="(max-width: 806px) 100vw, 806px" /></p>
+<p>&nbsp;</p>
+<p><strong>Les thématiques phares</strong> qui émergent de l’appel à propositions sont : « Mise en œuvre du gouvernement ouvert », « Transparence, redevabilité et lutte contre la corruption », « Civic tech et outils participatifs » et « Open data et ressources ouvertes ». Parmi <strong>les principaux contributeurs</strong> nous retrouvons, par exemple, l’<a href="http://www.opendata.institute/" class="broken_link">Open Data Institute</a>, Maurice Thantan de l’<a href="https://www.facebook.com/abbenin/">Association des blogueurs du Benin</a>, <a href="https://www.regardscitoyens.org/#&amp;panel1-1">Regards Citoyens</a> et <a href="https://www.opendatasoft.fr/">Open Data Soft</a>.</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-large wp-image-5204" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/07/Capture1-1-1024x434.png" alt="Capture1" width="806" height="342" srcset="/wp-content/uploads/2016/07/Capture1-1-1024x434.png 1024w, /wp-content/uploads/2016/07/Capture1-1-300x127.png 300w, /wp-content/uploads/2016/07/Capture1-1-768x326.png 768w, /wp-content/uploads/2016/07/Capture1-1.png 1309w" sizes="(max-width: 806px) 100vw, 806px" /></p>
+<p>Pendant les prochaines semaines, le <a href="https://fr.ogpsummit.org/2016/07/04/learn-about-the-composition-of-the-programming-committe/" class="broken_link">Comité de programme</a> étudiera les <a href="https://fr.ogpsummit.org/osem/conference/ogp-summit/new_proposals" class="broken_link">événements proposés </a>pour établir les grandes lignes du programme définitif du Sommet, qui seront dévoilées courant septembre. Ces décisions s’appuieront sur les critères de sélection détaillés dans l’<a href="https://fr.ogpsummit.org/app/uploads/2016/06/criteres-appel-a-propositions.pdf" class="broken_link">appel à propositions</a>.</p>
+<p>Vous pouvez encore peser sur le résultat final <strong>en votant et laissant vos commentaires pour les différentes propositions jusqu’à fin août</strong>. Rendez-vous sur <a href="https://fr.ogpsummit.org/osem/conference/ogp-summit" class="broken_link">ogpsummit.org</a> ![:en]<span style="font-weight: 400;">A</span><b> 3 months</b><span style="font-weight: 400;"> long call for proposals, attracting </span><b>1542 users, </b><span style="font-weight: 400;">resulting in </span><b>660 effective proposals</b><span style="font-weight: 400;">: French and international administrations and civil society organizations have once again shown great interest and support for the openness and collaboration initiatives driven by the Open Government Partnership. Many thanks to all for your input!</span></p>
+<p><span style="font-weight: 400;">The OGP Summit </span><b>co-creation efforts</b><span style="font-weight: 400;"> were held online at </span><a href="https://fr.ogpsummit.org/osem/conference/ogp-summit" class="broken_link"><span style="font-weight: 400;">ogpsummit.org</span></a><span style="font-weight: 400;">, a platform designed to </span><b>crowdsource the agenda</b><span style="font-weight: 400;">. Real time editing, proposals open to the public, voting capabilities as well as the ability to start and get involved in discussions with all other participants have allowed the various actors to contribute iteratively and collaboratively to the agenda framework.</span></p>
+<p><span style="font-weight: 400;">Events in France (</span><a href="https://www.etalab.gouv.fr/retour-sur-le-lancement-du-sommet-pgo"><span style="font-weight: 400;">launch workshop</span></a><span style="font-weight: 400;"> on April 20th et </span><a href="http://www.futur-en-seine.paris/programme/open-government-partnership/"><span style="font-weight: 400;">Futur en Seine workshop</span></a><span style="font-weight: 400;">) and internationally (workshop held during the OGP Regional Summit in South Africa and other workshops at the OGP headquarters in Washington D.C)  have highlighted the momentum. Thanks to the creation of </span><i><span style="font-weight: 400;">barcamp</span></i><span style="font-weight: 400;">, participants in the </span><b>contribution efforts</b><span style="font-weight: 400;"> have worked on event proposals, conferences, workshops and pitch sessions which echoed OGP’s main topics. </span></p>
+<p><span style="font-weight: 400;">The proposals (available <a href="https://fr.ogpsummit.org/osem/conference/ogp-summit/new_proposals" class="broken_link">here</a>) have been submitted by <strong>diverse actors</strong>, be it from their institutional origin or their geographic location. They cover all the<strong> essential challenges</strong> of open government in creative and innovative formats. </span></p>
+<p><span style="font-weight: 400;">Because a picture is worth a thousand words, we are sharing below a glimpse of the backstage workings of the call for proposals with this snapshot of the ogpsummit.org dashboard, which is available to the web administrators and to the Programme Committee:</span></p>
+<p><img loading="lazy" decoding="async" class="alignnone size-large wp-image-5203" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/07/Capture-1-1024x546.png" alt="Capture" width="806" height="430" srcset="/wp-content/uploads/2016/07/Capture-1-1024x546.png 1024w, /wp-content/uploads/2016/07/Capture-1-300x160.png 300w, /wp-content/uploads/2016/07/Capture-1-768x410.png 768w, /wp-content/uploads/2016/07/Capture-1.png 1309w" sizes="(max-width: 806px) 100vw, 806px" /></p>
+<p><span style="font-weight: 400;">The flagship topics that have surfaced from the call for proposals are: </span><span style="font-weight: 400;">“Open Government Implementation”, “Transparency, accountability and the fight against corruption”, “Civic tech and participatory tools”, and “Open data and resources”. Some of the main contributors are the <a href="http://www.opendata.institute/" class="broken_link">Open Data Institute</a>, Maurice Thantan of the </span><a href="https://www.facebook.com/abbenin/"><span style="font-weight: 400;">Benin Bloggers Association</span></a><span style="font-weight: 400;">, </span><a href="https://www.regardscitoyens.org/#&amp;panel1-1"><span style="font-weight: 400;">Regards Citoyens</span></a><span style="font-weight: 400;"> and </span><a href="https://www.opendatasoft.fr/"><span style="font-weight: 400;">Open Data Soft</span></a><span style="font-weight: 400;">.</span></p>
+<p><img loading="lazy" decoding="async" class="alignnone size-large wp-image-5204" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/07/Capture1-1-1024x434.png" alt="Capture1" width="806" height="342" srcset="/wp-content/uploads/2016/07/Capture1-1-1024x434.png 1024w, /wp-content/uploads/2016/07/Capture1-1-300x127.png 300w, /wp-content/uploads/2016/07/Capture1-1-768x326.png 768w, /wp-content/uploads/2016/07/Capture1-1.png 1309w" sizes="(max-width: 806px) 100vw, 806px" /></p>
+<p><span style="font-weight: 400;">In the next few weeks, the Programme Committee will review the proposed events in order to determine the broad topics of the final summit programme, to be announced in September. The decisions will be based on the selection criteria detailed in the</span><a href="https://en.ogpsummit.org/app/uploads/2016/06/call-for-proposals-criteria.pdf" class="broken_link"><span style="font-weight: 400;"> call for proposals.</span></a></p>
+<p><span style="font-weight: 400;">It is not too late to influence the final selection. Voting and comments regarding the various proposals will be open <strong>until the end of August</strong> at </span><a href="https://en.ogpsummit.org/osem/conference/ogp-summit" class="broken_link"><span style="font-weight: 400;">ogpsummit.org</span></a><span style="font-weight: 400;">.</span>[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Nouvelles coopérations franco-britanniques sur la donnée[:en]New data collaborations between France and the UK[:]</title>
+		<link>/nouvelles-cooperations-franco-britanniques-sur-la-donnee</link>
+		
+		<dc:creator><![CDATA[Paula Forteza]]></dc:creator>
+		<pubDate>Wed, 13 Jul 2016 15:37:14 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=5172</guid>
+
+					<description><![CDATA[[:fr]Henri Verdier, administrateur général des données et Sir Nigel Shabolt, co-chair de l’Open Data Institute, co-présidents de la taskforce franco-britannique sur l’économie de la donnée, ont remis aujourd’hui le rapport « La révolution de la donnée au service de la croissance : innovation, infrastructures, compétences et pouvoir d’agir à l’ère numérique », à l’Open Data Institute (Londres), en &#8230;<p class="read-more"> <a class="" href="/nouvelles-cooperations-franco-britanniques-sur-la-donnee"> <span class="screen-reader-text">[:fr]Nouvelles coopérations franco-britanniques sur la donnée[:en]New data collaborations between France and the UK[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]<a href="https://fr.wikipedia.org/wiki/Henri_Verdier"><strong>Henri Verdier</strong></a>, <a href="https://agd.data.gouv.fr/">administrateur général des données</a> et <a href="https://en.wikipedia.org/wiki/Nigel_Shadbolt"><strong>Sir Nigel Shabolt</strong></a>, co-chair de <a href="http://opendata.institute/">l’Open Data Institute</a>, <strong>co-présidents de la <a href="http://modernisation.gouv.fr/laction-publique-se-transforme/en-ouvrant-les-donnees-publiques/economie-de-la-donnee-taskforce-france-royaume-uni" class="broken_link">taskforce franco-britannique sur l’économie de la donnée</a></strong>, ont remis aujourd’hui le rapport « <a href="http://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/rapport_revolution-donnee_juillet2016_vf.pdf" class="broken_link"><em>La révolution de la donnée au service de la croissance : innovation, infrastructures, compétences et pouvoir d’agir à l’ère numérique</em></a> », à l’<a href="http://www.opendata.institute/" class="broken_link">Open Data Institute</a> (Londres), en présence d’<strong>Axelle Lemaire</strong>, Secrétaire d&rsquo;État auprès du ministre de l&rsquo;Économie, de l&rsquo;Industrie et du Numérique, chargée du Numérique du gouvernement français et de <strong>Ed Vaizey</strong>, Ministre de la Culture et de l’Économie Numérique du gouvernement britannique.</p>
+<p>Commandité par Emmanuel Marcon, Axelle Lemaire et George Osborne, chancellier de l&rsquo;Echiquier, ce rapport vise notamment les objectifs suivant :</p>
+<ul>
+<li>renforcer les collaborations entre entités publiques françaises et britanniques sur l’ouverture des données publiques et sur l’amélioration des services publics grâce aux données ;</li>
+<li>mieux accompagner les entreprises (notamment les PME) dans l’exploitation des données publiques et privés, afin de renforcer leur compétitivité ;</li>
+<li>promouvoir la culture des données et des compétences en sciences des données ; dans le secteur public comme dans le secteur privé ;</li>
+<li>créer des conditions favorables au développement d’un écosystème de l’économie de la donnée, en renforçant notamment la confiance des utilisateurs et des entreprises.</li>
+</ul>
+<p>Composé d’<a href="https://www.etalab.gouv.fr/lavancement-de-la-taskforce-franco-britannique-sur-leconomie-de-la-donnee">experts français et britanniques</a> issus du secteur privé et du milieu universitaire, le groupe de travail a identifié plus de 70 coopérations concrètes possibles, qui ont été triées, filtrées et agrégées pour proposer une stratégie cohérente, reposant sur quatre axes :</p>
+<ul>
+<li><strong>Stimuler l’innovation par les donnée, </strong> notamment grâce à de grands défis (« Moonshot ») et à la densification des rencontres et des programmes d’échange entre les écosystèmes d’innovation français et britannique, pour partager les bonnes pratiques et étendre les réseaux des startups entre les deux pays.</li>
+<li><strong>Etablir de nouvelles infrastructures de données</strong>: les données deviennent de plus en plus les infrastructures indispensables à l’économie. Leur qualité, leur accessibilité, notamment via de nouvelles interfaces de programmation (API) deviennent critiques. Il sera indispensable d&rsquo;investir dans la création de registres de données de référence et de poursuivre les investissements dans des programmes d’identification électronique.</li>
+<li><strong>Diffuser les compétences et les connaissances en matière de données</strong>: outre le manque préoccupant de datascientists à l&rsquo;échelle de toute l&rsquo;Europe, la culture de la donnée est devenue essentielle aux décideurs privés et publics et à de nombreux métiers.  La massification de l&rsquo;éducation à la donnée, au-delà des seuls ingénieurs en datasciences, est un enjeu prioritaire.</li>
+<li><strong>Confiance et accroissement du « pouvoir agir »</strong>: la puissance d&rsquo;action libérée par les données numériques et les nouvelles capacités de traitement doit être mise au service de l&rsquo;innovation et d&rsquo;une plus grande autonomie des citoyens. La taskforce propose plusieurs axes de recherche et d&rsquo;expérimentation, par exemple, autour de la portabilité des données et de la transparence des algorithmes.</li>
+</ul>
+<p>La révolution de la donnée ouvre une phase de recomposition économique majeure face à laquelle les politiques publiques doivent évoluer. Nos deux communautés sont capables, en unissant leurs efforts, de créer l&rsquo;un des principaux hotspots mondiaux en matière d&rsquo;économie de la donnée, quelle que soit l&rsquo;actualité de la politique européenne.</p>
+<p>En savoir plus :</p>
+<ul>
+<li><a href="http://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/rapport_revolution-donnee_juillet2016_vf.pdf" class="broken_link">Télécharger le rapport</a></li>
+<li><a href="http://www.dailymotion.com/video/x4k2kz4">Entretien d’Henri Verdier</a></li>
+<li><a href="http://proxy-pubminefi.diffusion.finances.gouv.fr/pub/document/18/21250.pdf">Communiqué de presse</a></li>
+</ul>
+[:en]<a href="https://en.wikipedia.org/wiki/Henri_Verdier">Henri Verdier</a>, <a href="https://agd.data.gouv.fr/">French State Chief Data Officer</a>, and <a href="https://en.wikipedia.org/wiki/Nigel_Shadbolt">Sir Nigel Shabolt</a>, co-chair of the Open Data institute, co-presidents of the France UK Taskforce on the data economy, presented today the report “<a href="http://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/report_data-driven-growth_july2016.pdf" class="broken_link">Data Driven Growth: Innovation, Infrastructure, Skills and Empowerment in the Digital Age</a>” at the <a href="http://opendata.institute/">Open Data Institute</a> in the presence of <strong>Axelle Lemaire</strong>, French Secretary of State on Digital Affairs and <strong>Ed Vaizey</strong>, UK Minister of Culture and Digital Economy.</p>
+<p>Commissioned by Emmanuel Macron, Axelle Lemaire and George Osborne, Chancellor of the Exchequer, this report aims to:</p>
+<ul>
+<li>Strengthen collaboration between UK and French public bodies on open data, and improving the delivery, quality and nature of public services through data;</li>
+<li>Encourage businesses (especially SMEs) to exploit public and private data in order to strengthen their  competitiveness;</li>
+<li>Promote data and data science skills in the public and private sector;</li>
+<li>Create the conditions for a thriving data economy ecosystem, in particular building trust in citizens and  businesses around data exploitation;</li>
+</ul>
+<p>The taskforce, composed by France and UK experts from both the private sector and academia, identified no less than 70 possible areas of joint work, that were aggregated and filtered to achieve a coherent strategic framework around four axes:</p>
+<ul>
+<li><strong>Stimulate data innovation</strong>, through grand challenges (“Moonshot”) and the promotion of collaboration and exchange programs between the French and the British innovation ecosystems in order to share best practices and extend start up networks between the two countries.</li>
+</ul>
+<ul>
+<li><strong>Establish new data infrastructures</strong>: data is becoming increasingly crucial for the economy. Data quality, data accessibility &#8211; through API’s, for instance – is becoming critical. Both countries have to invest in the creation of core data registers and continue to invest in e-identification schemes.</li>
+</ul>
+<ul>
+<li><strong>Diffuse data literacy and skills</strong>, apart from the very problematic general shortage of data scientists in Europe, data culture has become especially important for private and public decision-makers and for many different professions. The vulgarisation of data education, beyond data science engineers, has become a priority.</li>
+</ul>
+<ul>
+<li><strong>Trust and empowerment</strong>: the power released by data and new processing capacities has to feed into innovation and greater citizen autonomy. The taskforce proposes various research and experimentation actions, for instance around data portability and algorithm transparency.</li>
+</ul>
+<p>The data revolution opens up a major phase of economic disruption that asks for an evolution of public policies. Our two countries, working together, can create one of the world’s foremost data driven environments, whatever the context of European politics.</p>
+<p>More information:</p>
+<ul>
+<li><a href="http://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/report_data-driven-growth_july2016.pdf" class="broken_link">Download the report</a></li>
+<li><a href="http://www.dailymotion.com/video/x4k2kz4">Henri Verdier interview</a></li>
+<li><a href="http://proxy-pubminefi.diffusion.finances.gouv.fr/pub/document/18/21250.pdf">Press release</a></li>
+</ul>
+<p>&nbsp;[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>International : Nouvelles coopérations franco-britanniques sur la donnée</title>
+		<link>/nouvelles-cooperations-franco-britanniques-sur-la-donnee-2</link>
+		
+		<dc:creator><![CDATA[Paula Forteza]]></dc:creator>
+		<pubDate>Mon, 13 Jun 2016 15:10:43 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[données]]></category>
+		<category><![CDATA[International]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10699</guid>
+
+					<description><![CDATA[Henri Verdier, administrateur général des données et Sir Nigel Shabolt, co-chair de l’Open Data Institute, co-présidents de la taskforce franco-britannique sur l’économie de la donnée, ont remis aujourd’hui le rapport La révolution de la donnée au service de la croissance : innovation, infrastructures, compétences et pouvoir d’agir à l’ère numérique, à l’Open Data Institute (Londres), &#8230;<p class="read-more"> <a class="" href="/nouvelles-cooperations-franco-britanniques-sur-la-donnee-2"> <span class="screen-reader-text">International : Nouvelles coopérations franco-britanniques sur la donnée</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://fr.wikipedia.org/wiki/Henri_Verdier"><strong>Henri Verdier</strong></a>, <a href="https://agd.data.gouv.fr/">administrateur général des données</a> et <a href="https://en.wikipedia.org/wiki/Nigel_Shadbolt"><strong>Sir Nigel Shabolt</strong></a>, co-chair de <a href="http://opendata.institute/">l’Open Data Institute</a>, <strong>co-présidents de la <a href="http://modernisation.gouv.fr/laction-publique-se-transforme/en-ouvrant-les-donnees-publiques/economie-de-la-donnee-taskforce-france-royaume-uni" class="broken_link">taskforce franco-britannique sur l’économie de la donnée</a></strong>, ont remis aujourd’hui le rapport <a href="http://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/rapport_revolution-donnee_juillet2016_vf.pdf" class="broken_link"><em>La
+ révolution de la donnée au service de la croissance : innovation, 
+infrastructures, compétences et pouvoir d’agir à l’ère numérique</em></a>, à l’<a href="http://www.opendata.institute/" class="broken_link">Open Data Institute</a> (Londres), en présence d’<strong>Axelle Lemaire</strong>,
+ Secrétaire d’état auprès du ministre de l’économie, de l’Industrie et 
+du Numérique, chargée du Numérique du gouvernement français et de <strong>Ed Vaizey</strong>, Ministre de la Culture et de l’économie Numérique du gouvernement britannique.</p>
+
+
+
+<p>Commandité par Emmanuel Marcon, Axelle Lemaire et George Osborne, 
+chancellier de l’Echiquier, ce rapport vise notamment les objectifs 
+suivant :</p>
+
+
+
+<ul><li>renforcer les collaborations entre entités publiques françaises et
+ britanniques sur l’ouverture des données publiques et sur 
+l’amélioration des services publics grâce aux données ;</li><li>mieux accompagner les entreprises (notamment les PME) dans 
+l’exploitation des données publiques et privés, afin de renforcer leur 
+compétitivité ;</li><li>promouvoir la culture des données et des compétences en sciences 
+des données ; dans le secteur public comme dans le secteur privé ;</li><li>créer des conditions favorables au développement d’un écosystème 
+de l’économie de la donnée, en renforéant notamment la confiance des 
+utilisateurs et des entreprises.</li></ul>
+
+
+
+<p>Composé d’<a href="https://www.etalab.gouv.fr/lavancement-de-la-taskforce-franco-britannique-sur-leconomie-de-la-donnee">experts français et britanniques</a>
+ issus du secteur privé et du milieu universitaire, le groupe de travail
+ a identifié plus de 70 coopérations concrètes possibles, qui ont été 
+triées, filtrées et agrégées pour proposer une stratégie cohérente, 
+reposant sur quatre axes :</p>
+
+
+
+<ul><li><strong>Stimuler l’innovation par les données</strong> notamment 
+grâce à de grands défis («&nbsp;Moonshot&nbsp;») et à la densification des 
+rencontres et des programmes d’échange entre les écosystèmes 
+d’innovation français et britannique, pour partager les bonnes pratiques
+ et étendre les réseaux des startups entre les deux pays.</li><li><strong>Etablir de nouvelles infrastructures de données</strong>: 
+les données deviennent de plus en plus les infrastructures 
+indispensables à l’économie. Leur qualité, leur accessibilité, notamment
+ via de nouvelles interfaces de programmation (API) deviennent 
+critiques. Il sera indispensable d’investir dans la création de 
+registres de données de référence et de poursuivre les investissements 
+dans des programmes d’identification électronique.</li><li><strong>Diffuser les compétences et les connaissances en matière de données</strong>:
+ outre le manque préoccupant de datascientists à l’échelle de toute 
+l’Europe, la culture de la donnée est devenue essentielle aux décideurs 
+privés et publics et à de nombreux métiers. La massification de 
+l’éducation à la donnée, au-delà des seuls ingénieurs en datasciences, 
+est un enjeu prioritaire.</li><li><strong>Confiance et accroissement du “pouvoir agir”</strong>: la 
+puissance d’action libérée par les données numériques et les nouvelles 
+capacités de traitement doit être mise au service de l’innovation et 
+d’une plus grande autonomie des citoyens. La taskforce propose plusieurs
+ axes de recherche et d’expérimentation, par exemple, autour de la 
+portabilité des données et de la transparence des algorithmes.</li></ul>
+
+
+
+<p>La révolution de la donnée ouvre une phase de recomposition 
+économique majeure face à laquelle les politiques publiques doivent 
+évoluer. Nos deux communautés sont capables, en unissant leurs efforts, 
+de créer l’un des principaux hotspots mondiaux en matière d’économie de 
+la donnée, quelle que soit l’actualité de la politique européenne.</p>
+
+
+
+<p>En savoir plus :</p>
+
+
+
+<ul><li><a href="http://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/rapport_revolution-donnee_juillet2016_vf.pdf" class="broken_link">Télécharger le rapport</a></li><li><a href="http://www.dailymotion.com/video/x4k2kz4">Entretien d’Henri Verdier</a></li><li>Communiqué de presse</li></ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Contribuez à la “boîte à outils” pour un gouvernement ouvert![:]</title>
+		<link>/contribuez-a-la-boite-a-outils-pour-un-gouvernement-ouvert</link>
+		
+		<dc:creator><![CDATA[Paula Forteza]]></dc:creator>
+		<pubDate>Thu, 26 May 2016 12:31:57 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[civic tech]]></category>
+		<category><![CDATA[OGP]]></category>
+		<category><![CDATA[PGO]]></category>
+		<category><![CDATA[Sommet mondial PGO]]></category>
+		<category><![CDATA[Toolbox]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4772</guid>
+
+					<description><![CDATA[[:fr]La France accueillera le Sommet Mondial du Partenariat pour un Gouvernement Ouvert à Paris les 7, 8 et 9 décembre 2016. Comme annoncé lors de l&#8217;événement collaboratif du 20 avril dernier, le programme prévisionnel inclura un hackathon sur le thème des civic techs et de la mise en œuvre concrète des principes et engagements du &#8230;<p class="read-more"> <a class="" href="/contribuez-a-la-boite-a-outils-pour-un-gouvernement-ouvert"> <span class="screen-reader-text">[:fr]Contribuez à la “boîte à outils” pour un gouvernement ouvert![:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]La France accueillera le <a href="https://ogpsummit.org/" class="broken_link">Sommet Mondial du Partenariat pour un Gouvernement Ouvert</a> à Paris les <strong>7, 8 et 9 décembre 2016</strong>.</p>
+<p>Comme annoncé lors de <a href="https://www.etalab.gouv.fr/retour-sur-le-lancement-du-sommet-pgo">l&rsquo;événement collaboratif du 20 avril dernier,</a> le programme prévisionnel inclura un <em>hackathon</em> sur le thème des<em> civic techs</em> et de la mise en œuvre concrète des principes et engagements du gouvernement ouvert. L&rsquo;objectif est de présenter et de mettre à disposition de tous les membres du Partenariat une première version d&rsquo;une<strong> “boîte à outils” de l&rsquo;open gov. </strong></p>
+<p><strong>Portails d’open data, plateformes de consultation citoyenne, outils de suivi et d&rsquo;élaboration collaborative de la loi, forums, <em>civic-techs, </em>plateformes en ligne d&rsquo;évaluation des plans d&rsquo;action nationaux<em>&#8230; </em></strong>: il existe en effet de nombreux logiciels et services numériques à travers le monde, développés et utilisés par les administrations ou par la société civile, qui pourraient être référencés, partagés et réutilisés.</p>
+<p>Cette « boîte à outils », qui sera agrémentée de cas d&rsquo;usages et de critères permettant de se repérer dans les solutions disponibles, visera ainsi à la fois à faciliter la mise en œuvre des engagements pris par les gouvernements dans le cadre de leurs plans d&rsquo;action nationaux, et à favoriser le partage de ressources et d&rsquo;expériences, et les coopérations entre membres du partenariat.</p>
+<p>Jusqu’à Décembre, des <strong>sprints de contribution</strong> verront des agents de l’administration, des représentants de la société civile, des entreprises, des start-ups et des membres de la communauté <em>civic-tech</em> co-construire cette « boîte à outils ». Le lancement de la plateforme aura lieu lors de la clôture du <em>hackathon</em> du Sommet Mondial du Partenariat pour un Gouvernement Ouvert, le <strong>8 et 9 Décembre 2016</strong>.</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-4658 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/04/hackathon-civictech-240x300.jpg" alt="hackathon-civictech" width="240" height="300" srcset="/wp-content/uploads/2016/04/hackathon-civictech-240x300.jpg 240w, /wp-content/uploads/2016/04/hackathon-civictech-768x960.jpg 768w, /wp-content/uploads/2016/04/hackathon-civictech-819x1024.jpg 819w" sizes="(max-width: 240px) 100vw, 240px" /></p>
+<p><strong>Les prochains rendez-vous de contribution à la toolbox </strong>:</p>
+<p>De premiers événements sont d&rsquo;ores et déjà identifiés à Paris pour contribuer à ces travaux. Ils permettront de travailler sur les cas d&rsquo;usages et les critères du catalogue, de tester les logiciels, de travailler sur l’interopérabilité des solutions techniques, sur leur traduction, d&rsquo;identifier des besoins non adressés, de développer des installeurs simples et accessibles&#8230;</p>
+<p><em>Événements passés:</em></p>
+<ul>
+<li><strong>Atelier ouvert</strong> pour définir la structure des fiches des logiciels, services et cas d’usage : <strong>vendredi 3 juin de</strong> <strong>14 :30 à 19 :00</strong> dans les locaux d&rsquo;Etalab (<span class="st">39-43, quai André Citroën</span>) – Inscriptions <a href="https://rdv.etalab.gouv.fr/e/1" class="broken_link">ici</a></li>
+<li><strong>Hackathon</strong> <a href="http://www.futur-en-seine.paris/programme/hackathon-open-democracy-now-vendredi">« Open Democracy Now » à Futur en Seine</a>: <strong>vendredi</strong> <strong>10 et samedi 11 juin à la Fondation Mozilla</strong> (16 boulevard Montmartre) – Inscriptions <a href="https://www.eventbrite.fr/e/billets-hackathon-open-democracy-now-3-25056482614">ici</a></li>
+<li><strong>Hackathon « E-démocratie debout »</strong>: samedi 25 et dimanche 26 juin aux Grands Voisins (72 Avenue Denfert-Rochereau) &#8211; Inscriptions <a href="https://www.eventbrite.fr/e/billets-e-democratie-debout-25775043850">ici</a></li>
+<li><span style="line-height: 1.5;"><strong><em>1st GLobal Legislative Hackathon 2016</em> : </strong>du mardi 28 au jeudi 30 juin lors du <a href="http://www.wepc2016.org/en/programme">World e-Parliament Conference</a> à la Chambre des Députés du Chili &#8211; Inscriptions <a href="https://docs.google.com/forms/d/1hgDgHI1RZjV2B5joQQU13pKHTfmwKhu3POQNxdWmxrk/viewform">ici</a> (la participation à distance est encouragée)<br />
+</span></li>
+<li><strong>Mapping digital engagement tools</strong> : lundi 4 juillet de 19h à 21h chez Easter Eggs (46 rue de l&rsquo;Ouest, Paris 14e) &#8211; Inscriptions <a href="https://rdv.etalab.gouv.fr/e/4/mapping-digital-engagement-tools" class="broken_link">ici</a></li>
+</ul>
+<p><em>Événements à venir:</em></p>
+<ul>
+<li><span style="line-height: 1.5;">De nouveaux rendez-vous seront bientôt communiqués, en France et dans le monde.</span></li>
+</ul>
+<p>Vous pouvez suivre l&rsquo;avancement du projet <a href="https://annuel.framapad.org/p/ogptoolbox">ici</a>.</p>
+<p><img loading="lazy" decoding="async" class=" wp-image-4779 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/Sommet-blanc-300x143.png" alt="Sommet blanc" width="321" height="153" srcset="/wp-content/uploads/2016/05/Sommet-blanc-300x143.png 300w, /wp-content/uploads/2016/05/Sommet-blanc-768x366.png 768w, /wp-content/uploads/2016/05/Sommet-blanc-1024x488.png 1024w, /wp-content/uploads/2016/05/Sommet-blanc.png 1329w" sizes="(max-width: 321px) 100vw, 321px" />[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Retour sur le lancement du Sommet PGO [:]</title>
+		<link>/retour-sur-le-lancement-du-sommet-pgo</link>
+		
+		<dc:creator><![CDATA[Paula Forteza]]></dc:creator>
+		<pubDate>Fri, 22 Apr 2016 13:19:41 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[Sommet mondial PGO]]></category>
+		<category><![CDATA[Toolbox]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4646</guid>
+
+					<description><![CDATA[[:fr] Le 20 avril, la France a initié le processus de co-création du Sommet mondial du Partenariat pour un Gouvernement Ouvert, lors d&#8217;un événement de lancement inauguré par Jean-Vincent PLACE, Secrétaire d’Etat en charge de la Réforme de l’Etat et de la Simplification. Étaient présent plusieurs membres du Gouvernement : Annick GIRARDIN, Thierry MANDON, Clotilde &#8230;<p class="read-more"> <a class="" href="/retour-sur-le-lancement-du-sommet-pgo"> <span class="screen-reader-text">[:fr]Retour sur le lancement du Sommet PGO [:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<p style="text-align: justify;">Le 20 avril, la France a initié le processus de co-création du <a href="http://www.opengovpartnership.org/">Sommet mondial du Partenariat pour un Gouvernement Ouvert</a>, lors d&rsquo;un événement de lancement inauguré par Jean-Vincent PLACE, Secrétaire d’Etat en charge de la Réforme de l’Etat et de la Simplification.</p>
+<p style="text-align: justify;">Étaient présent plusieurs membres du Gouvernement : Annick GIRARDIN, Thierry MANDON, Clotilde VALTER, Estelle GRELIER, Axelle LEMAIRE, ainsi que Virgilio ANDRADE MARTINEZ, Ministre de la fonction publique mexicaine.</p>
+<p style="text-align: justify;"><strong>200 participants</strong>, parmi lesquels des agents des administrations, des représentants nationaux et internationaux de la société civile et des membres du secrétariat permanent du PGO, ont contribué activement aux ateliers proposés en vue de l&rsquo;élaboration du programme du Sommet.</p>
+<p style="text-align: justify;">Cette soirée fut l&rsquo;occasion d&rsquo;annoncer formellement les dates du Sommet, qui aura lieu le <strong>7, 8 et 9 décembre 2016 à Paris. </strong> L&rsquo;appel à propositions pour les conférences, ateliers et pitches a également été lancé, les contributions seront recueillies sur la plateforme <a href="https://ogpsummit.org/osem/conference/ogp-summit" class="broken_link">ogpsummit.org</a> <strong>du 20 avril au 20 juillet 2016</strong>.</p>
+<p><img loading="lazy" decoding="async" class="size-medium wp-image-4667 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/04/Cgf-A9VW4AAnLWa-300x225.jpg" alt="Cgf-A9VW4AAnLWa" width="300" height="225" srcset="/wp-content/uploads/2016/04/Cgf-A9VW4AAnLWa-300x225.jpg 300w, /wp-content/uploads/2016/04/Cgf-A9VW4AAnLWa.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Trois ateliers animés par les équipes d&rsquo;Etalab, du PGO et des membres de la société civile ont permis d&rsquo;établir de premiers échanges:</p>
+<ul>
+<li><strong>Atelier sur le programme du Sommet</strong></li>
+</ul>
+<p style="text-align: justify;">L&rsquo;<a href="http://www.slideshare.net/Etalab/lancement-pgo-atelier-quotprogrammequot">atelier</a> a permis de présenter les principales fonctionnalités de la plateforme  <a href="https://ogpsummit.org/osem/conference/ogp-summit" class="broken_link">ogpsummit.org</a> (édition, expression d&rsquo;intérêt et discussion) permettant de <strong>contribuer de façon itérative et collaborative à l&rsquo;élaboration du programme du Sommet</strong>. Des groupes de travail se sont ensuite constitués autour de propositions concrètes susceptibles d&rsquo;enrichir le programme.</p>
+<p style="text-align: justify;">De nouvelles approches ont émergé autour de thématiques comme l&rsquo;open banking, l&rsquo;open justice, la transparence de la commande publique, le budget participatif, les communs numériques, le gouvernement ouvert au niveau local, le suivi des engagements liés au climat. Les contributions ont aussi cherché à innover dans la méthode de co-création, dans la façon d&rsquo;investir les espaces et dans la médiatisation du Sommet.</p>
+<p><img loading="lazy" decoding="async" class="size-medium wp-image-4666 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/04/CggA0gPWIAAvtT9-300x300.jpg" alt="CggA0gPWIAAvtT9" width="300" height="300" srcset="/wp-content/uploads/2016/04/CggA0gPWIAAvtT9-300x300.jpg 300w, /wp-content/uploads/2016/04/CggA0gPWIAAvtT9-150x150.jpg 150w, /wp-content/uploads/2016/04/CggA0gPWIAAvtT9-80x80.jpg 80w, /wp-content/uploads/2016/04/CggA0gPWIAAvtT9-118x118.jpg 118w, /wp-content/uploads/2016/04/CggA0gPWIAAvtT9-239x239.jpg 239w, /wp-content/uploads/2016/04/CggA0gPWIAAvtT9.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<ul>
+<li><strong>Atelier sur le hackathon prévu en vue du Sommet<br />
+</strong></li>
+</ul>
+<p style="text-align: justify;">Le <a href="http://www.slideshare.net/Etalab/prparation-du-hackathon-mondial-pgo">hackathon</a> vise à construire d&rsquo;ici au Sommet de décembre une <strong>boîte à outils du gouvernement ouvert</strong>, à travers un catalogue recensant les logiciels et solutions techniques pouvant outiller le PGO ainsi que les administrations et la société civile du monde entier dans la mise en œuvre de leurs engagements.</p>
+<p style="text-align: justify;">L&rsquo;atelier s&rsquo;est organisé autour de deux groupes de travail. Le premier, qui a réfléchi au développement technique du catalogue, s&rsquo;est concentré sur l&rsquo;automatisation du moissonnage des catalogues existants et sur l&rsquo;identification de critères permettant de qualifier les solutions référencées. Le deuxième, qui a travaillé autour des usages du catalogue, a orienté ces discussions autour de trois enjeux: les objectifs, les usagers et les services proposés.</p>
+<p><a href="http://jocjoc.fr/tagged/home" class="broken_link"><img loading="lazy" decoding="async" class="size-medium wp-image-4658 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/04/hackathon-civictech-240x300.jpg" alt="hackathon-civictech" width="240" height="300" srcset="/wp-content/uploads/2016/04/hackathon-civictech-240x300.jpg 240w, /wp-content/uploads/2016/04/hackathon-civictech-768x960.jpg 768w, /wp-content/uploads/2016/04/hackathon-civictech-819x1024.jpg 819w" sizes="(max-width: 240px) 100vw, 240px" /></a></p>
+<ul>
+<li><strong>Atelier sur la journée société civile (« CSO Day »)<br />
+</strong></li>
+</ul>
+<p style="text-align: justify;">Dans cet <a href="http://www.slideshare.net/Etalab/atelier-journe-de-la-socit-civile-pgo">atelier,</a> <strong>les objectifs de la journée de la société civile</strong>, qui aura lieu le 7 décembre au matin, ont été rappelés : elle doit être un moment où les représentants de la société civile se réunissent  et se rencontrent sans les gouvernements, afin de discuter collectivement des priorités à mettre à l’agenda et des stratégies à déployer pour ouvrir le gouvernement.</p>
+<p style="text-align: justify;">La société civile en France est très diverse, de nombreuses initiatives ont été identifiées lors de cette session : autour de l’engagement avec <a href="http://lafrancesengage.fr/">La France s’engage</a>, de l’internet social et solidaire avec la <a href="http://www.socialgoodweek.com/">Social Good Week</a>, des nouvelles formes de participation citoyenne avec <a href="http://www.nuitdebout.fr/">Nuit Debout</a>, ou encore des collectivités locales avec les <a href="http://www.atelierdelagouvernance.fr/" class="broken_link">ateliers de la gouvernance</a> à Nantes. Pour les participants, l’enjeu est d’ouvrir au maximum le CSO Day à la participation du public.</p>
+<p style="text-align: justify;">Enfin, l&rsquo;événement fut clôturé par <strong>Laurence Monnoyer-Smith</strong>, Commissaire générale au développement durable et <strong>Benjamin Jean</strong>, Président d&rsquo;Open Law, qui ont appelé les administrations et la société civile à saisir cette opportunité qui s&rsquo;ouvre dans les mois à venir.</p>
+<p>Revivez l&rsquo;événement:</p>
+<ul>
+<li><a href="https://www.flickr.com/photos/sg_map/albums/72157667326092996">Flickr</a></li>
+<li><a href="https://twitter.com/search?q=%23OGP16&amp;src=typd">Twitter</a></li>
+<li><a href="http://www.slideshare.net/Etalab">Slideshare</a></li>
+<li><a href="http://www.dailymotion.com/video/x48osup_atelier-de-lancement-du-sommet-mondial-du-partenariat-pour-un-gouvernement-ouvert_tech">Vidéo</a></li>
+</ul>
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Expérimentation du forum.etalab.gouv.fr : une plateforme pour les contributeurs du logiciel libre dans l’administration</title>
+		<link>/experimentation-du-forum-etalab-gouv-fr-une-plateforme-pour-les-contributeurs-du-logiciel-libre-dans-ladministration</link>
+		
+		<dc:creator><![CDATA[Paula Forteza]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2016 10:39:34 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Ecosystème]]></category>
+		<category><![CDATA[logiciel libre]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4341</guid>
+
+					<description><![CDATA[En septembre 2012, la circulaire Ayrault sur l’usage du logiciel libre dans l’administration posait les bases d&#8217;une stratégie fondée sur la “simplicité de gestion, réduction des coûts et commodité de réutilisation” du libre. A l&#8217;automne 2015, le sujet du logiciel libre a rassemblé un grand nombre de contributions lors de la consultation sur le projet &#8230;<p class="read-more"> <a class="" href="/experimentation-du-forum-etalab-gouv-fr-une-plateforme-pour-les-contributeurs-du-logiciel-libre-dans-ladministration"> <span class="screen-reader-text">Expérimentation du forum.etalab.gouv.fr : une plateforme pour les contributeurs du logiciel libre dans l’administration</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">En septembre 2012, la <a href="https://forum.etalab.gouv.fr/t/circulaire-ayrault-septembre-2012-usage-du-logiciel-libre-dans-l-administration/80">circulaire Ayrault sur l’usage du logiciel libre dans l’administration</a> posait les bases d&rsquo;une stratégie fondée sur la “simplicité de gestion, réduction des coûts et commodité de réutilisation” du libre.</p>
+<p style="text-align: justify;">A l&rsquo;automne 2015, le sujet du logiciel libre a rassemblé un grand nombre de contributions lors de la <a href="https://www.etalab.gouv.fr/ce-que-le-projet-de-loi-pour-une-republique-numerique-change-pour-la-donnee">consultation sur le projet de loi République Numérique</a>. Etalab propose de donner une suite concrète à ces échanges et de nourrir la démarche de l’administration, en testant <strong>la mise à disposition d’un espace de discussion et de collaboration à destination de la communauté des contributeurs</strong>.</p>
+<p style="text-align: justify;">Espace de dialogue, de partage d’expérience et d’initiation de collaborations concrètes, cet outil permettra de fédérer les utilisateurs et contributeurs du libre dans l’administration, nombreux au sein des ministères, des services déconcentrés de l’Etat, des collectivités territoriales et de la fonction publique hospitalière.</p>
+<p style="text-align: justify;"><strong><a href="https://forum.etalab.gouv.fr/">Forum.etalab.gouv.fr</a></strong> permettra de partager points de vue et retours d’expérience sur des thématiques comme l’intégration, le déploiement, le support, le choix d’outils, ou encore le transfert de compétences. En voici quelques illustrations :</p>
+<p>&#8211; <a href="https://forum.etalab.gouv.fr/t/a-quoi-sert-un-contrat-de-support-generaliste-sur-les-logiciels-libres/294">À quoi sert un contrat de support généraliste sur les logiciels libres</a> ?<br />
+&#8211; <a href="https://forum.etalab.gouv.fr/t/quels-bilans-pour-les-efforts-de-mutualisation-sur-le-logiciel-libre/298">Quel bilan pour les efforts de mutualisation sur le logiciel libre</a> ?<br />
+&#8211; <a href="https://forum.etalab.gouv.fr/t/faut-il-une-forge-dediee-aux-logiciels-du-secteur-public/290">Faut-il une forge dédiée aux logiciels du secteur public</a> ?<br />
+&#8211; <a href="https://forum.etalab.gouv.fr/t/quelles-licences-pour-les-logiciels-libres-du-secteur-public/292">Quelles licences pour les logiciels libres du secteur public</a> ?<br />
+&#8211; <a href="https://forum.etalab.gouv.fr/t/comment-valoriser-les-contributions-aux-logiciels-libres/295">Comment valoriser les contributions aux logiciels libres</a> ?</p>
+<p style="text-align: justify;">Le lancement de ce forum est la première étape d’une <strong>démarche visant à développer le pouvoir d’agir des acteurs du logiciel libre au sein de l’administration</strong>.</p>
+<p style="text-align: justify;">En complément, des <strong>ateliers ouverts</strong> seront organisés. Ils permettront de contribuer au recensement et à l&rsquo;évaluation des logiciels libres, à la promotion de l’interopérabilité des solutions techniques et au test d&rsquo;outils collaboratifs, indispensables à la mise en pratique du « <a href="https://www.etalab.gouv.fr/gouvernement-ouvert">gouvernement ouvert</a> ».</p>
+<p style="text-align: justify;">Nous vous donnons rendez-vous pour le premier, le <strong>vendredi 26 février</strong> à l&rsquo;<a href="http://www.mutinerie.org/">espace de coworking « Mutinerie »</a> (inscriptions <a href="https://www.eventbrite.fr/e/billets-atelier-ouvert-forumetalabgouvfr-21492230841">ici</a>), afin d&rsquo;échanger sur ce forum et de nourrir la réflexion commune autour de ces sujets.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Dataconnexions 6: Le palmarès [:]</title>
+		<link>/dataconnexions-6-decouvrez-les-laureats</link>
+		
+		<dc:creator><![CDATA[Paula Forteza]]></dc:creator>
+		<pubDate>Wed, 03 Feb 2016 17:31:07 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Dataconnexions]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[opendata]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4289</guid>
+
+					<description><![CDATA[[:fr]La Cérémonie de clôture de Dataconnexions 6, organisée mardi 2 février à l&#8217;Hôtel de la Métropole de Toulouse, a permis aux finalistes , de présenter leurs projets de réutilisation des données publiques (supports visuels disponibles ici) devant les membres du jury.  A l&#8217;issue de cette matinée, le Jury s&#8217;est réuni pour délibérer et a sélectionné &#8230;<p class="read-more"> <a class="" href="/dataconnexions-6-decouvrez-les-laureats"> <span class="screen-reader-text">[:fr]Dataconnexions 6: Le palmarès [:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]La Cérémonie de clôture de Dataconnexions 6, organisée mardi 2 février à l&rsquo;Hôtel de la Métropole de Toulouse, a permis aux <a href="https://www.etalab.gouv.fr/decouvrez-les-finalistes-du-concours-dataconnexions-6">finalistes</a> , <strong>de présenter leurs projets de réutilisation des données publiques </strong>(supports visuels disponibles<strong> <a href="http://fr.slideshare.net/Etalab/crmonie-dataconnexions-6-mardi-2-fvrier-2016-57839016">ici</a>) </strong>devant <a href="https://www.etalab.gouv.fr/decouvrez-le-jury-dataconnexions-6">les membres du jury. </a> A l&rsquo;issue de cette matinée, le Jury s&rsquo;est réuni pour délibérer et a sélectionné un palmarès de 4 lauréats pour cette 6ème édition:</p>
+<p>&nbsp;</p>
+<p><strong>Impact démocratique</strong></p>
+<p><em> Projets destinés à renforcer la transparence et la participation dans une logique de co-production pour un gouvernement ouvert.</em></p>
+<ul>
+<li>« <strong><a href="https://www.data.gouv.fr/fr/reuses/juriscommente/">Juris’commenté</a> </strong>», par Elsa Fabre et Grégory Combes</li>
+</ul>
+<p>Juris’commenté est une plateforme collaborative qui rend une partie du droit accessible à tous, la jurisprudence, en enrichissant collectivement l&rsquo;analyse des décisions de justice. La participation d&rsquo;une large communauté́ de professionnels du droit permet de générer de l&rsquo;intelligence collective. La synergie et la richesse des différents points de vue ont pour effet de créer un contenu réutilisable et en amélioration constante. La lecture est accessible à tous mais, pour plus d&rsquo;efficacité́, la majeure partie de la participation est réservée aux professionnels du droit.</p>
+<p><strong>Impact social et environnemental</strong></p>
+<p><em>Projets qui contribuent à la résolution de problématiques sociales (éducation, santé, emploi, pauvreté, exclusion) – ou environnementales.</em></p>
+<ul>
+<li>« <strong><a href="https://www.data.gouv.fr/fr/reuses/benevole-at-home-org/">BenevoleAtHome.org</a></strong> », par Gregory Molter</li>
+</ul>
+<p>1 enfant sur 5 est considéré comme pauvre selon l’Unicef, et près de 8 millions de Français sont considérés comme pauvres selon l’Insee. « Benevole at Home » propose un service de cartographie anonyme, mettant en relation directement les citoyens solidaires aux personnes les plus démunies. Avec pour priorité le bien-être et la protection des enfants. Cette carte a également pour vocation de servir aux Associations humanitaires ayant besoin de bénévoles sur certaines missions locales.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-4297" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/02/IMG_0758-1-300x200.jpg" alt="IMG_0758" width="300" height="200" srcset="/wp-content/uploads/2016/02/IMG_0758-1-300x200.jpg 300w, /wp-content/uploads/2016/02/IMG_0758-1-768x512.jpg 768w, /wp-content/uploads/2016/02/IMG_0758-1.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />                  <img loading="lazy" decoding="async" class="alignnone size-medium wp-image-4293" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/02/IMG_0816-300x200.jpg" alt="IMG_0816" width="300" height="200" srcset="/wp-content/uploads/2016/02/IMG_0816-300x200.jpg 300w, /wp-content/uploads/2016/02/IMG_0816-768x512.jpg 768w, /wp-content/uploads/2016/02/IMG_0816.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><strong>Impact économique et scientifique</strong></p>
+<p><em>Projets créateurs de valeur économique ou scientifique à travers des nouveaux produits ou services qui visent le grand publique, le monde professionnel ou la recherche.</em></p>
+<ul>
+<li>«<strong> <a href="https://www.data.gouv.fr/fr/reuses/pakku-io-lopen-data-geolocalise-pour-tous/">Pakku.io</a> </strong>», par Pakku</li>
+</ul>
+<p>Basé sur un algorithme, Pakku génère des jeux de données géographiques dans divers formats, basés sur les bases de données OpenStreetMap et sous licence ODbL 1.0. Ainsi, il est possible de créer des sets comme « Bars en Ain », « Aéroports en Loire-Atlantique » en quelques secondes, dans les formats les plus utilisés (xml, json, geojson, bientôt shp &#8230;). Ces sets sont ensuite classés et distribués sur Pakku.io, via une interface simple d’utilisation. Chaque set dispose d’un aperçu et est bien documenté, pour que l’utilisateur sache immédiatement si les données sont intéressantes pour lui ou non. En un mot, Pakku est là pour encourager l’utilisation de l’open-data en vous simplifiant la vie.</p>
+<p><strong>Impact administratif et territorial</strong></p>
+<p><em> Projets qui renforcent l’efficacité, la visibilité et la mise en réseau des administrations, des collectivités et des communautés territoriales.</em></p>
+<ul>
+<li>« <strong><a href="https://www.data.gouv.fr/fr/reuses/cityzen-map/">CityZenMap</a></strong> », par Frédéric Oliveau</li>
+</ul>
+<p>CiTyZeN Map, est une application gratuite web/mobile d’animation territoriale qui permet aux collectivités locales de communiquer et d’échanger facilement avec les citoyens autour des projets d’aménagement (Immobilier, infrastructures, aménagement, etc.). CiTyZeN Map recense et géolocalise les projets d’aménagement et d’équipements, issus des appels d&rsquo;offres publics, et créé automatiquement et gratuitement une page dédiée pour chaque projet. La collectivité locale peut aussi créer des projets ou évènements de son choix.</p>
+<p>Des entreprises et organisations ont décidé d&rsquo;accompagner les lauréats en leurs apportant des soutiens concrets pour l&rsquo;année 2016. Il s&rsquo;agit de Makina Corpus, La Mêlée, Orange, Ambition Toulouse Métropole, Digital Place, Le groupe La Poste et SFR.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-4294" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/02/IMG_0875-300x200.jpg" alt="IMG_0875" width="300" height="200" srcset="/wp-content/uploads/2016/02/IMG_0875-300x200.jpg 300w, /wp-content/uploads/2016/02/IMG_0875-768x512.jpg 768w, /wp-content/uploads/2016/02/IMG_0875.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />           <img loading="lazy" decoding="async" class="alignnone size-medium wp-image-4299" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/02/IMG_0831-300x159.jpg" alt="IMG_0831" width="300" height="159" srcset="/wp-content/uploads/2016/02/IMG_0831-300x159.jpg 300w, /wp-content/uploads/2016/02/IMG_0831-768x406.jpg 768w, /wp-content/uploads/2016/02/IMG_0831.jpg 880w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Au-delà des catégories du concours, le jury a eu un <strong>coup de coeur</strong> pour un projet menée par une « intrapreneuse » de l&rsquo;administration:</p>
+<ul>
+<li>« <strong><a href="https://www.data.gouv.fr/fr/reuses/rdvpasseport-fr/" class="broken_link">Rdv.Passeport.fr</a></strong> », par Laetitia Henry</li>
+</ul>
+<p>Rdvpasseport.fr est le premier moteur de recherche de rendez-vous en ligne pour les demandes de passeport. La demande de passeport biométrique peut se faire dans n’importe quelle mairie dotée d’un dispositif de recueil d’empreintes. Rdvpasseport.fr recense tous les rendez-vous des communes d&rsquo;Ile de France et de Rhône-Alpes proposant des rendez-vous par internet. Afin de voir quels sont les créneaux disponibles le plus proche de chez soi, il suffit de lancer une recherche en délimitant la zone géographique souhaitée. Attention, le moteur de recherche ne recense que les villes rendant la prise de rendez-vous en ligne accessible, pour les autres il faudra les contacter directement.</p>
+<ul>
+<li>Par ailleurs, Toulouse Métropole a décerné son propre prix au projet <a href="https://www.data.gouv.fr/fr/reuses/openbikes/" class="broken_link">OpenBikes </a>développé par de jeunes étudiants toulousains.</li>
+</ul>
+<p>Ponctuée de ces remises de prix, l&rsquo;après-midi a également été l&rsquo;occasion de partager, autour de table-rondes et de <a href="https://www.etalab.gouv.fr/ceremonie-de-remise-des-prix-dataconnexions-6-reservez-votre-place">panels</a>, des points de vue sur l&rsquo;open data territorial, l&rsquo;open data youth camp, la donnée dans le sport, et l&rsquo;impact de l&rsquo;open data. La cérémonie a aussi été l&rsquo;occasion de rendre hommage aux  lauréats des dernières éditions du concours à travers une <a href="http://www.dailymotion.com/video/x3q8ity_dataconnexions-une-retrospective_tech">vidéo rétrospective</a>.</p>
+<p>Mme Clotilde Valter, Secrétaire d&rsquo;Etat en charge de la Réforme de l&rsquo;Etat et de la Simplification auprès du Premier ministre, était présente pour prendre la parole en clôture de cet événement et rencontrer les candidats et lauréats.</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-4304" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/02/CaOX4XHXEAEIBXq.jpg-large.jpg" alt="CaOX4XHXEAEIBXq.jpg large" width="1024" height="768" srcset="/wp-content/uploads/2016/02/CaOX4XHXEAEIBXq.jpg-large.jpg 1024w, /wp-content/uploads/2016/02/CaOX4XHXEAEIBXq.jpg-large-300x225.jpg 300w, /wp-content/uploads/2016/02/CaOX4XHXEAEIBXq.jpg-large-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Découvrez les finalistes du concours Dataconnexions #6[:]</title>
+		<link>/decouvrez-les-finalistes-du-concours-dataconnexions-6</link>
+		
+		<dc:creator><![CDATA[Paula Forteza]]></dc:creator>
+		<pubDate>Wed, 06 Jan 2016 17:46:50 +0000</pubDate>
+				<category><![CDATA[Dataconnexions]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4185</guid>
+
+					<description><![CDATA[[:fr]Au terme de trois mois de compétition (le 5 janvier à 12h), 49 projets se sont portés candidats à Dataconnexions, dont cette 6e édition est placée sous le thème de l’open data en action. Comme l’an dernier, le public a contribué à départager les candidatures, à travers les 1680 votes sur la plateforme data.gouv. Merci &#8230;<p class="read-more"> <a class="" href="/decouvrez-les-finalistes-du-concours-dataconnexions-6"> <span class="screen-reader-text">[:fr]Découvrez les finalistes du concours Dataconnexions #6[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]Au terme de trois mois de compétition (le 5 janvier à 12h), <strong>49 projets se sont portés candidats à Dataconnexions, </strong>dont cette 6e édition est placée sous le thème de<strong><strong> <a href="https://www.etalab.gouv.fr/dataconnexions-6-lopen-data-en-action">l’open data en action</a></strong>. </strong></p>
+<p>Comme l’an dernier, le public a contribué à départager les candidatures, à travers les <strong>1680</strong> <strong>votes</strong> sur la plateforme <a href="http://www.data.gouv.fr/">data.gouv</a>. Merci aux votants, et <strong>félicitations à tous les candidats pour la qualité et la diversité des projets présentés, qui témoignent du dynamisme de l&rsquo;écosystème de l&rsquo;open data français.</strong></p>
+<p>Le 20% des projets ayant recueilli le plus grand nombre de votes par catégorie ont été sélectionnés comme finalistes du concours, quatre projets ont été repêchés. <strong>Voici donc la liste des 14 projets finalistes :</strong></p>
+<p><strong>Dans la catégorie impact démocratique</strong> :<br />
+<em>Projets destinés à renforcer la transparence et la participation dans une logique de co-production pour un gouvernement ouvert.</em><br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/evaluation-et-visualisation-dun-projet-de-decret-sur-laffichage-publicitaire/">Évaluation et visualisation d&rsquo;un projet de décret sur l&rsquo;affichage publicitaire</a> », par Paul Desgranges<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/juriscommente/">Juris’commenté </a>», par Elsa Fabre et Grégory Combes</p>
+<p><strong>Dans la catégorie impact social et environnemental</strong> :<br />
+<em>Projets qui contribuent à la résolution de problématiques sociales (éducation, santé, emploi, pauvreté, exclusion) – ou environnementales.</em><br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/frimake/" class="broken_link">Frimake</a> », par Alae Elhayyate<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/open-climat/" class="broken_link">Open Climat</a> », par Christophe Pacheco<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/openbikes/" class="broken_link">OpenBikes</a> », par OpenBikes<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/qui-dit-miam/">Qui dit miam!</a> », par Absolom Design<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/benevole-at-home-org/">BenevoleAtHome.org</a> », par Gregory Molter</p>
+<p><strong>Dans la catégorie impact économique et scientifique</strong> :<br />
+<em>Projets créateurs de valeur économique ou scientifique à travers des nouveaux produits ou services qui visent le grand public, le monde professionnel ou la recherche.</em><br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/nextalert-transport-public/">Next-Alert</a> », par Edith Nuss<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/pakku-io-lopen-data-geolocalise-pour-tous/">Pakku.io</a> », par Pakku<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/observatoire-des-prix-des-carburants/">Observatoire des prix des carburants</a> », par Emmanuel Frot<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/openlevelup/">Open Level Up</a> », par Adrien Pavie</p>
+<p><strong>Dans la catégorie impact administratif et territoria</strong>l :<br />
+<em>Projets qui renforceront l’efficacité, la visibilité et la mise en réseau des administrations, des collectivités et des communautés territoriales.</em><br />
+&#8211; « r<a href="https://www.data.gouv.fr/fr/reuses/rdvpasseport-fr/" class="broken_link">dvpasseport.fr</a> », par Laetitia Henry<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/cityzen-map/">CityZenMap</a> », par Frédéric oliveau<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/cartopedago/">CartoPedago</a> », par Sopra Steria Secteur Public</p>
+<p><strong>Suite à cette pré-sélection, les finalistes seront invités à présenter leurs projets devant le <a href="https://www.etalab.gouv.fr/decouvrez-le-jury-dataconnexions-6">jury</a> lors de la cérémonie finale de Dataconnexions,</strong> qui aura lieu<strong> <a href="https://www.eventbrite.fr/e/billets-concours-dataconnexions-6-finale-ceremonie-19573273187">2 février 2016 à l’Hôtel de la Métropole de Toulouse.</a></strong> Le programme préliminaire de la journée, ainsi que le lien permettant de <a href="https://www.eventbrite.fr/e/billets-concours-dataconnexions-6-finale-ceremonie-19573273187">s’inscrire pour participer à la Cérémonie, sont déjà disponibles ici. Réservez votre place dès à présent.</a>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

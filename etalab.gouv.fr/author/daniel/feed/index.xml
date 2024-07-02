@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Daniel Ratier &#8211; Etalab</title>
+	<atom:link href="/author/daniel/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Fri, 03 Jul 2015 09:53:18 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Daniel Ratier &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>22 projets pour généraliser l’ouverture et l&#8217;utilisation des données dans l’administration</title>
+		<link>/22-projets-pour-generaliser-louverture-et-lutilisation-des-donnees-dans-ladministration</link>
+		
+		<dc:creator><![CDATA[Daniel Ratier]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2015 09:53:18 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3245</guid>
+
+					<description><![CDATA[Clotilde Valter, Secrétaire d&#8217;Etat chargée de la réforme de l&#8217;Etat et de la simplification, Louis Schweitzer, Commissaire général à l&#8217;investissement, et Laure de la Breteche, Secrétaire générale pour la modernisation de l&#8217;action publique ont dévoilé ce 2 juillet les premiers lauréats du fonds « Transition numérique de l’État et modernisation de l’action publique », instauré par le Premier &#8230;<p class="read-more"> <a class="" href="/22-projets-pour-generaliser-louverture-et-lutilisation-des-donnees-dans-ladministration"> <span class="screen-reader-text"><!--:fr-->22 projets pour généraliser l’ouverture et l&#8217;utilisation des données dans l’administration<!--:--></span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->Clotilde Valter, Secrétaire d&rsquo;Etat chargée de la réforme de l&rsquo;Etat et de la simplification, Louis Schweitzer, Commissaire général à l&rsquo;investissement, et Laure de la Breteche, Secrétaire générale pour la modernisation de l&rsquo;action publique ont dévoilé ce 2 juillet les premiers lauréats du fonds « Transition numérique de l’État et modernisation de l’action publique », instauré par le Premier ministre pour soutenir l&rsquo;innovation dans le service public.</p>
+<p>Parmi eux figurent 22 porteurs de projet issus de différents services de l’Etat, administrations centrales, services déconcentrés et opérateurs qui avaient répondu à l’appel à projets sur le thème ‘’<a href="http://www.gouvernement.fr/appel-a-projets-industrialisation-de-la-mise-a-disposition-de-donnees-ouvertes">Industrialisation de la mise à disposition des données ouvertes</a>’’. Pas moins de 29 projets avaient été déposés par différents services de l’Etat, administrations centrales, services déconcentrés et opérateurs. La qualité et la diversité ont également été au rendez-vous. La plupart de ces projets proposent des solutions inédites à l’intention du public ou de l’administration elle-même.</p>
+<p>L’ouverture des données est une réalité dans l’administration depuis plusieurs années. Mais elle se limitait bien souvent à partager des données après la mise en œuvre des missions de service public. Pourtant, l’ouverture, la coproduction et la collaboration peuvent permettre de développer des services nouveaux à usage interne ou externe. Le succès de cet appel à projet confirme une véritable appropriation de l’open data dans de nombreux domaines. Les données ouvertes participent à la création d’outils opérationnels et ne sont plus seulement un sous-produit de cette activité.</p>
+<p>C’est le cas du projet <strong>PING</strong> du Service hydrographique et océanographique de la Marine (SHOM) qui va aboutir à une transformation radicale de l’information destinée aux navigateurs grâce à la mise en place d’une plateforme numérique ouverte qui remplacera les messages papiers ou radiodiffusés que les marins connaissent bien. Au Ministère de l’éducation nationale, de l’enseignement supérieur et de la recherche, deux projets basés sur l’open data, DataESR et OpenScol, sont entièrement orientés sur la mise en place de méthodes et d’outils de travail nouveaux destinés à l’administration du Ministère. Développé par l’IGN, le projet ‘<strong>’J’accueille du public’’</strong> permettra la création d’une base de données mutualisées et ouvertes qui améliorera notamment la gestion des bâtiments accueillant du public (ERP) par les nombreux acteurs qui en ont la charge et pourra déboucher sur la création de nouveaux services au profit de ces ERP qui sont près d’un million en France.</p>
+<p>D’autres projets comme celui de HUB’O, porté par l’ONEMA et la BRGM et qui est destiné à rendre plus accessibles les données sur l’eau et à en permettre l’exploitation par des outils de type Big Data, ou ceux de l’Agence national des fréquences qui rendront notamment possible la mesure l’exposition aux ondes radioélectriques au niveau local, combinent l’ouverture de données et des outils destinés à en faciliter l’accès et la réutilisation.</p>
+<p>Beaucoup d’autres projets témoignent de cette évolution vers les stratégies fondées sur la donnée. Citons notamment celui qui rassemble le laboratoire LabSTICC du CNRS, la DREES et la CNAM pour industrialiser des processus d’anonymisation des données de santé et qui contribuera à créer un pôle d’expertise unique en son genre, l’initiative de l’Institut de la recherche et de l’innovation (IRI) du Ministère de la culture qui propose un développer un outil collaboratif, orienté 3.0, pour l’indexation de fonds d’images, et enfin le projet d’open data porté par le SGAR de Midi-Pyrénées, la première plateforme de données ouvertes développée par des services déconcentrés de l’Etat.</p>
+<p>Face au succès de cet appel à projet, un autre devrait être lancé sur le même thème avant la fin 2015.</p>
+<p><a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/07/Image-public-evenement-format-blog.jpg"><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-3324" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/07/Image-public-evenement-format-blog-300x200.jpg" alt="Image public evenement format blog" width="300" height="200" srcset="/wp-content/uploads/2015/07/Image-public-evenement-format-blog-300x200.jpg 300w, /wp-content/uploads/2015/07/Image-public-evenement-format-blog.jpg 850w" sizes="(max-width: 300px) 100vw, 300px" /></a><!--:--></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>22 projets pour généraliser l’ouverture et l&#8217;utilisation des données dans l’administration</title>
+		<link>/22-projets-pour-generaliser-louverture-et-lutilisation-des-donnees-dans-ladministration-2</link>
+		
+		<dc:creator><![CDATA[Daniel Ratier]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2015 09:53:18 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3245</guid>
+
+					<description><![CDATA[Clotilde Valter, Secrétaire d&#8217;Etat chargée de la réforme de l&#8217;Etat et de la simplification, Louis Schweitzer, Commissaire général à l&#8217;investissement, et Laure de la Breteche, Secrétaire générale pour la modernisation de l&#8217;action publique ont dévoilé ce 2 juillet les premiers lauréats du fonds « Transition numérique de l’État et modernisation de l’action publique », instauré par le Premier &#8230;<p class="read-more"> <a class="" href="/22-projets-pour-generaliser-louverture-et-lutilisation-des-donnees-dans-ladministration-2"> <span class="screen-reader-text">22 projets pour généraliser l’ouverture et l&#8217;utilisation des données dans l’administration</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->Clotilde Valter, Secrétaire d&rsquo;Etat chargée de la réforme de l&rsquo;Etat et de la simplification, Louis Schweitzer, Commissaire général à l&rsquo;investissement, et Laure de la Breteche, Secrétaire générale pour la modernisation de l&rsquo;action publique ont dévoilé ce 2 juillet les premiers lauréats du fonds « Transition numérique de l’État et modernisation de l’action publique », instauré par le Premier ministre pour soutenir l&rsquo;innovation dans le service public.<br />
+Parmi eux figurent 22 porteurs de projet issus de différents services de l’Etat, administrations centrales, services déconcentrés et opérateurs qui avaient répondu à l’appel à projets sur le thème ‘’<a href="http://www.gouvernement.fr/appel-a-projets-industrialisation-de-la-mise-a-disposition-de-donnees-ouvertes">Industrialisation de la mise à disposition des données ouvertes</a>’’. Pas moins de 29 projets avaient été déposés par différents services de l’Etat, administrations centrales, services déconcentrés et opérateurs. La qualité et la diversité ont également été au rendez-vous. La plupart de ces projets proposent des solutions inédites à l’intention du public ou de l’administration elle-même.<br />
+L’ouverture des données est une réalité dans l’administration depuis plusieurs années. Mais elle se limitait bien souvent à partager des données après la mise en œuvre des missions de service public. Pourtant, l’ouverture, la coproduction et la collaboration peuvent permettre de développer des services nouveaux à usage interne ou externe. Le succès de cet appel à projet confirme une véritable appropriation de l’open data dans de nombreux domaines. Les données ouvertes participent à la création d’outils opérationnels et ne sont plus seulement un sous-produit de cette activité.<br />
+C’est le cas du projet <strong>PING</strong> du Service hydrographique et océanographique de la Marine (SHOM) qui va aboutir à une transformation radicale de l’information destinée aux navigateurs grâce à la mise en place d’une plateforme numérique ouverte qui remplacera les messages papiers ou radiodiffusés que les marins connaissent bien. Au Ministère de l’éducation nationale, de l’enseignement supérieur et de la recherche, deux projets basés sur l’open data, DataESR et OpenScol, sont entièrement orientés sur la mise en place de méthodes et d’outils de travail nouveaux destinés à l’administration du Ministère. Développé par l’IGN, le projet ‘<strong>’J’accueille du public’’</strong> permettra la création d’une base de données mutualisées et ouvertes qui améliorera notamment la gestion des bâtiments accueillant du public (ERP) par les nombreux acteurs qui en ont la charge et pourra déboucher sur la création de nouveaux services au profit de ces ERP qui sont près d’un million en France.<br />
+D’autres projets comme celui de HUB’O, porté par l’ONEMA et la BRGM et qui est destiné à rendre plus accessibles les données sur l’eau et à en permettre l’exploitation par des outils de type Big Data, ou ceux de l’Agence national des fréquences qui rendront notamment possible la mesure l’exposition aux ondes radioélectriques au niveau local, combinent l’ouverture de données et des outils destinés à en faciliter l’accès et la réutilisation.<br />
+Beaucoup d’autres projets témoignent de cette évolution vers les stratégies fondées sur la donnée. Citons notamment celui qui rassemble le laboratoire LabSTICC du CNRS, la DREES et la CNAM pour industrialiser des processus d’anonymisation des données de santé et qui contribuera à créer un pôle d’expertise unique en son genre, l’initiative de l’Institut de la recherche et de l’innovation (IRI) du Ministère de la culture qui propose un développer un outil collaboratif, orienté 3.0, pour l’indexation de fonds d’images, et enfin le projet d’open data porté par le SGAR de Midi-Pyrénées, la première plateforme de données ouvertes développée par des services déconcentrés de l’Etat.<br />
+Face au succès de cet appel à projet, un autre devrait être lancé sur le même thème avant la fin 2015.<br />
+<a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/07/Image-public-evenement-format-blog.jpg"><img decoding="async" class="alignnone size-medium wp-image-3324" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/07/Image-public-evenement-format-blog-300x200.jpg" alt="Image public evenement format blog" width="300" height="200" srcset="/wp-content/uploads/2015/07/Image-public-evenement-format-blog-300x200.jpg 300w, /wp-content/uploads/2015/07/Image-public-evenement-format-blog.jpg 850w" sizes="(max-width: 300px) 100vw, 300px" /></a><!--:--></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

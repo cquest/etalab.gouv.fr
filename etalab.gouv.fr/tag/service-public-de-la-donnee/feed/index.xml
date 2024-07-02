@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>service public de la donnée &#8211; Etalab</title>
+	<atom:link href="/tag/service-public-de-la-donnee/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Mon, 02 Oct 2017 09:26:07 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>service public de la donnée &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[:fr]Service public de la donnée: les données du cadastre sont maintenant disponibles sur data.gouv.fr[:]</title>
+		<link>/service-public-de-la-donnee-les-donnees-du-cadastre-sont-maintenant-disponibles-sur-data-gouv-fr</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Mon, 02 Oct 2017 09:26:07 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[cadastre]]></category>
+		<category><![CDATA[service public de la donnée]]></category>
+		<category><![CDATA[spd]]></category>
+		<guid isPermaLink="false">/?p=7680</guid>
+
+					<description><![CDATA[[:fr] La Direction Générale des Finances Publiques (DGFiP) et la mission Etalab mettent en ligne ce lundi 2 octobre, les données du plan cadastral informatisé (PCI). Le cadastre est l’une des neuf bases de données de référence du « service public de la donnée ».   La base comprend les données* sur les parcelles et les emprises &#8230;<p class="read-more"> <a class="" href="/service-public-de-la-donnee-les-donnees-du-cadastre-sont-maintenant-disponibles-sur-data-gouv-fr"> <span class="screen-reader-text">[:fr]Service public de la donnée: les données du cadastre sont maintenant disponibles sur data.gouv.fr[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]
+<div></div>
+<blockquote>
+<h3 id="magicdomid86" class="ace-line"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu" style="color: #333333;">La Direction Générale des Finances Publiques (DGFiP) et la mission Etalab mettent en ligne ce lundi 2 octobre, les<strong> données du plan cadastral informatisé</strong> (PCI). Le cadastre est l’une des neuf bases de données de référence du « service public de la donnée ».</span></h3>
+</blockquote>
+<div id="magicdomid9" class=""><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> </span></div>
+<div id="magicdomid75" class="ace-line" style="text-align: justify;"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">La base comprend les données* sur les <strong>parcelles et les emprises des bâtiments</strong> dans plus de 32800 communes françaises. La version « PCI vecteur » aujourd’hui mise en ligne correspond à </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">plus de </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">556 000 feuilles cadastrales. <strong>La DGFiP met à disposition le cadastre (PCI vecteur) <a href="http://www.data.gouv.fr/fr/datasets/pci-vecteur-plan-cadastral-informatise/">au format EDIGEO</a></strong>. </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">Trois</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> millésimes sont proposés </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">dès maintenant </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">: </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">février, mai et juillet 2017</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">. Ces données seront mises à jour par leur administration productrice </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">trimestriellement</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">.</span></div>
+<div></div>
+<div class="ace-line" style="text-align: justify;"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">L’objectif premier du service public de la mise à disposition des données de référence est d’en faciliter la réutilisation. Dans cette optique et conformément aux textes organisant ce nouveau service public, Etalab propose aussi aux réutilisateurs une <strong>version </strong></span><strong><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">des principaux éléments du plan cadastral </span><a href="http://www.data.gouv.fr/fr/datasets/cadastre/"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">au format </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">Geo</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">JSON </span></a></strong><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">dans</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> un système de coordonnées géographiques WGS84. Ces fichiers ne contiennent aucune donnée sur les propriétaires et plus généralement aucune donnée à caractère personnel.</span></div>
+<div></div>
+<h2><b><strong><span style="color: #0000ff;">Une mise à disposition très attendue</span> </strong></b></h2>
+<div id="magicdomid174" class="ace-line" style="text-align: justify;"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">La mise en ligne </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">des données </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">du plan cadastral informatisé représente une <strong>nouvelle étape dans la constitution d’une infrastructure </strong></span><strong><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">informationnelle</span></strong><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">. Le cadastre est une donnée de référence. Au-delà de son utilisation première par les services fiscaux, </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">il</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> intéresse l’ensemble des acteurs qui ont besoin de connaître la localisation des bâtiments et leurs emprises. Sa mise en ligne </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">avec les millésimes les plus récents </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">était très attendue par les collectivités, mais </span></div>
+<p><img loading="lazy" class="wp-image-7692 alignright" src="/wp-content/uploads/2017/09/cadastre.png" alt="" width="230" height="158" srcset="/wp-content/uploads/2017/09/cadastre.png 1207w, /wp-content/uploads/2017/09/cadastre-300x206.png 300w, /wp-content/uploads/2017/09/cadastre-768x527.png 768w, /wp-content/uploads/2017/09/cadastre-1024x703.png 1024w" sizes="(max-width: 230px) 100vw, 230px" /></p>
+<div id="magicdomid174" class="ace-line" style="text-align: justify;"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">aussi par nombre d’entreprises et d&rsquo;institutions dans le domaine de l’aménagement du ter</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">ritoire, de l&rsquo;urbanisme ou de l&rsquo;environnement. Un cadastre performant est considéré par nombre d’observateurs comme l’un des facteurs clés de développement d’un pays. En facilitant sa circulation et sa réutilisation par le plus grand nombre, la France poursuit son engagement en faveur d’une plus grande ouverture des données, engagement pris notamment dans le cadre du Partenariat pour le gouvernement ouvert. </span></div>
+<div>
+<h2 style="text-align: justify;"><span style="color: #0000ff;"><b><strong>A propos du service public de la donnée</strong></b><em> </em></span></h2>
+<div id="magicdomid174" class="ace-line" style="text-align: justify;">
+<p><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">Le service public de mise à disposition des données de référence (« service public de la donnée ») a été crée par <a href="https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&amp;type=general&amp;legislature=14">la loi pour une République numérique</a>. Il est à ce jour composé de neuf bases de données de référence. Depuis son entrée en vigueur en avril 2017, les bases de données déjà disponibles sur l’espace dédié </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu url"><a href="http://www.data.gouv.fr/reference">www.data.gouv.fr/reference</a></span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> ont fait l’objet de plus de 48 000 téléchargements.</span></p>
+<div id="magicdomid19" class=""><em><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"><strong>*</strong> la consultation et la délivrance d’extraits des plans cadastraux au format PDF restent possibles sur le site cadastre.gouv.fr mis en place par la DGFiP.</span></em></div>
+</div>
+</div>
+[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Ce que le projet de loi pour une République numérique change pour la donnée[:]</title>
+		<link>/ce-que-le-projet-de-loi-pour-une-republique-numerique-change-pour-la-donnee</link>
+		
+		<dc:creator><![CDATA[Laure Lucchesi]]></dc:creator>
+		<pubDate>Thu, 10 Dec 2015 06:47:16 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Axelle Lemaire]]></category>
+		<category><![CDATA[juridique]]></category>
+		<category><![CDATA[loinumerique]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[PJL]]></category>
+		<category><![CDATA[service public de la donnée]]></category>
+		<guid isPermaLink="false">/?p=4017</guid>
+
+					<description><![CDATA[[:fr] Le projet de loi pour une République numérique a été présenté le 9 décembre 2015 en Conseil des ministres par Mme Axelle Lemaire, Secrétaire d&#8217;Etat chargée du numérique. Ce texte, qui a été enrichi grâce aux contributions citoyennes recueillies à l’occasion de la concertation en ligne, marque dans son Chapitre 1er « Economie de la donnée » &#8230;<p class="read-more"> <a class="" href="/ce-que-le-projet-de-loi-pour-une-republique-numerique-change-pour-la-donnee"> <span class="screen-reader-text">[:fr]Ce que le projet de loi pour une République numérique change pour la donnée[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]
+<p style="text-align: justify;"><span style="color: #333333;">Le <span style="color: #1c95eb;"><a style="color: #1c95eb;" href="http://www.republique-numerique.fr/project/projet-de-loi-numerique/step/projet-de-loi-adopte-par-le-conseil-des-ministres"><strong>projet de loi pour une République numérique</strong> a été présenté le 9 décembre 2015 en Conseil des ministres </a></span>par <strong>Mme Axelle Lemaire</strong>, Secrétaire d&rsquo;Etat chargée du numérique. Ce texte, qui a été enrichi grâce aux contributions citoyennes recueillies à l’occasion de la <span style="color: #1c95eb;"><a style="color: #1c95eb;" href="https://www.republique-numerique.fr/">concertation en ligne</a></span>, marque dans son Chapitre 1er « Economie de la donnée » plusieurs avancées en matière d&rsquo;ouverture des données (<em>open data</em>) et de gouvernement ouvert (<em>open gov</em>).</span></p>
+<p>&nbsp;</p>
+<p><span style="color: #0000ff;"><em><strong>Construire l&rsquo;ouverture par défaut</strong></em></span></p>
+<p style="text-align: justify;"><span style="color: #333333;">L&rsquo;ouverture des données publiques s&rsquo;est jusqu&rsquo;à présent construite sur le fondement du droit d&rsquo;accès à l&rsquo;information, inscrit dans la loi du 17 juillet 1978, dite <span style="color: #1c95eb;">« <a style="color: #1c95eb;" href="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068643&amp;dateTexte=20151208">loi CADA »</a>.</span> En vertu des nouvelles dispositions proposées par le Gouvernement, le projet de loi pour une République numérique pose les bases d&rsquo;une <strong>ouverture par défaut, dans un <strong>standard ouvert aisément réutilisable</strong>, qui s&rsquo;articule autour du dispositif suivant </strong>:</span></p>
+<ul>
+<li><span style="color: #333333;">l&rsquo;open data se développera sur la demande des citoyens : ainsi, les administrations seront tenues de diffuser en ligne les documents communicables à tous qui auront fait l&rsquo;objet d&rsquo;une demande de communication, ainsi que les mises à jour de ces documents;</span></li>
+<li><span style="color: #333333;">par ailleurs, les administrations seront tenues de publier spontanément en ligne les documents qui figurent dans leurs répertoires d&rsquo;informations publiques, ainsi que leurs bases de données. Elles diffuseront en outre les données présentant un intérêt économique, social ou environnemental.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="color: #333333;">Cette obligation sera restreinte au flux des nouveaux documents disponibles en format électronique, et ne concernera pas les collectivités locales, dont l&rsquo;obligation d&rsquo;ouverture des données est déjà actée dans la loi du 7 août 2015 portant nouvelle organisation du territoire de la République (<span style="color: #1c95eb;">« <a style="color: #1c95eb;" href="http://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=B9B09FD8C6D89D4738137667639B98A6.tpdila19v_1?idArticle=JORFARTI000030987047&amp;cidTexte=JORFTEXT000030985460&amp;dateTexte=29990101&amp;categorieLien=id">loi NOTRe »</a></span>).</span></p>
+<p style="text-align: justify;"><span style="color: #333333;">Le principe d&rsquo;ouverture par défaut ne remet pas en cause la <strong>protection de la vie privée</strong> telle que prévue par la <span style="text-decoration: underline;"><span style="color: #1c95eb; text-decoration: underline;">loi <a style="color: #1c95eb; text-decoration: underline;" href="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000886460">Informatique et Libertés</a> </span></span>: la publication des documents comportant des données à caractère personnel ne sera obligatoire que ceux-ci ont pu faire l’objet d’un traitement rendant impossible l&rsquo;identification des personnes concernées.</span></p>
+<p style="text-align: justify;"><span style="color: #333333;">Par ailleurs, le texte présenté prévoit une série de dispositions qui visent à <strong>faciliter et harmoniser</strong> l&rsquo;ouverture des données publiques :</span></p>
+<ul>
+<li style="text-align: justify;"><span style="color: #333333;">le <strong>droit <em>sui generis</em> des bases de données</strong> ne pourra plus être invoqué pour faire obstacle à la réutilisation des données,</span></li>
+<li style="text-align: justify;"><span style="color: #333333;">l&rsquo;Etat publiera <strong>une liste de licences utilisables</strong> pour les réutilisations à titre gratuit, et tout producteur qui souhaiterait utiliser une licence qui ne figure pas sur cette liste devra auparavant la faire homologuer par l&rsquo;Etat,</span></li>
+<li style="text-align: justify;"><span style="color: #333333;">les organismes assurant une mission de <strong>service public industriel et commercial</strong> (« SPIC ») rejoigdront le régime général du droit à la réutilisation des données.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="color: #333333;">Afin de favoriser <strong>la circulation</strong> des données entre administrations, ces dernières disposeront désormais, dans le cadre de l&rsquo;exercice de leur mission de service public, du droit d&rsquo;accès aux documents administratifs défini par la loi CADA au même titre que les personnes privées.</span></p>
+<p><span style="color: #0000ff;"><em><strong>Etendre l&rsquo;ouverture aux données d&rsquo;intérêt général</strong></em></span></p>
+<p style="text-align: justify;"><span style="color: #333333;">Le projet de loi sur la République numérique introduit la notion de <strong>données d&rsquo;intérêt général</strong>. Il crée une obligation pour un délégataire de missions de service public (par exemple dans le domaine des transports, de l&rsquo;énergie ou du traitement des déchets) de permettre à l’autorité délégante de publier en « open data » les données produites dans le cadre de cette <strong>délégation</strong>. Il ne sera possible à l’autorité délégante de déroger à cette obligation qu&rsquo;à condition de motiver cette décision et de la rendre publique.</span></p>
+<p><span style="color: #0000ff;"><em><strong>Créer le service public de la donnée</strong></em></span></p>
+<p style="text-align: justify;"><span style="color: #333333;">Le <strong>service public de la donnée</strong> a pour mission d&rsquo;assurer la mise à disposition et la publication des données de référence afin d&rsquo;en faciliter la réutilisation. Sont qualifiées de données de référence celles qui font l&rsquo;objet ou sont susceptibles de faire l’objet d&rsquo;une <strong>utilisation fréquente</strong> par un grand nombre d’acteurs tant publics que privés et dont <strong>la qualité</strong>, en termes notamment de précision, de fréquence de mise à jour ou d’accessibilité, est essentielle pour ces utilisations.</span></p>
+<p style="text-align: justify;"><span style="color: #333333;">Il ne s&rsquo;agit pas ici de créer de nouvelles données, mais bien de s&rsquo;assurer de la qualité et de la diffusion de données essentielles comme le répertoire des entreprises et de leurs établissements, le cadastre ou encore la base adresse nationale. La France se dote ainsi d&rsquo;un cadre pour construire une <strong>infrastructure informationnelle</strong> nationale autour de quelques grandes bases de données de référence.</span></p>
+<p><span style="color: #0000ff;"><em><b>Introduire la transparence sur les traitements algorithmiques</b></em></span></p>
+<p style="text-align: justify;"><span style="color: #333333;">Lorsqu&rsquo;une décision est prise à l&rsquo;égard d&rsquo;un citoyen sur le fondement de traitements algorithmiques, le projet de loi permet à ce citoyen de connaître les règles et les principales caractéristiques de ces traitements. Un étudiant qui utilise le système Admission Post Bac (APB) pourra par exemple faire valoir ce droit de communication.</span></p>
+<hr />
+<p style="text-align: justify;"><span style="text-decoration: underline; color: #333333;"><strong>L&rsquo;élaboration du projet de loi République numérique, un exemple de gouvernement ouvert</strong></span></p>
+<p style="text-align: justify;"><span style="color: #333333;">Le texte présenté par Mme Axelle Lemaire a été élaboré à l’issue d’un <strong>processus de co-construction inédit :</strong></span></p>
+<p style="text-align: justify;"><span style="color: #333333;">Dès octobre 2014, une <strong>concertation nationale a été </strong>lancée par le Premier ministre et animée par le Conseil national du numérique, qui a permis de recueillir plus de 4000 contributions d&rsquo;entreprises, d&rsquo;administrations et de citoyens.</span></p>
+<p style="text-align: justify;"><span style="color: #333333;">Un projet de texte a ensuite été élaboré par le Gouvernement et soumis à <strong>consultation publique</strong> sur la plateforme <span style="color: #1c95eb;"><a style="color: #1c95eb;" href="http://www.republique-numerique.com/">www.republique-numerique.com,</a></span> du 26 septembre au 18 octobre 2015. Cette plateforme a recueilli plus de 8 500 contributions et près de 150 000 votes, et le <span style="color: #1c95eb;"><a style="color: #1c95eb;" href="http://www.republique-numerique.fr/project/projet-de-loi-numerique/step/reponses">Gouvernement a apporté des réponses </a></span>aux propositions les plus soutenues. Plusieurs dispositions de l&rsquo;actuel projet de loi sont directement issues de cette consultation: la transparence sur les traitements algorithmiques, la dérogation au droit <em>sui generis</em> des bases des données ou encore l&rsquo;encadrement des licences de réutilisation.</span></p>
+<p style="text-align: justify;"><span style="color: #333333;">Cette démarche s&rsquo;inscrit dans le cadre des engagements de la France au sein du <span style="color: #1c95eb;"><a style="color: #1c95eb;" href="http://www.opengovpartnership.org/country/france">Partenariat pour le gouvernement ouvert</a> </span>(PGO/OGP). <strong>L&rsquo;engagement n°12</strong> du <span style="color: #1c95eb;"><a style="color: #1c95eb;" href="http://www.modernisation.gouv.fr/laction-publique-se-transforme/en-ouvrant-les-donnees-publiques/gouvernement-ouvert-la-france-publie-son-plan-daction-national-ogp">plan d&rsquo;action national 2015-2017</a> </span>prévoit ainsi de « <em>poursuivre la collaboration avec la société civile autour de l&rsquo;élaboration de la loi</em>« .</span></p>
+<p style="text-align: justify;">Voir :</p>
+<ul>
+<li>le <a href="http://www.republique-numerique.fr/project/projet-de-loi-numerique/ranking/reponses-du-gouvernement">classement des contributions,</a> la <a href="http://www.republique-numerique.fr/project/projet-de-loi-numerique/synthesis/synthese-1">synthèse de la consultation</a> et les <a href="http://www.republique-numerique.fr/project/projet-de-loi-numerique/step/reponses">réponses du gouvernement </a></li>
+<li>les <a href="https://www.data.gouv.fr/fr/datasets/consultation-sur-le-projet-de-loi-republique-numerique/">données de la consultation</a> en open data sur data.gouv.fr</li>
+<li>l<a href="http://www.republique-numerique.fr/media/default/0001/02/ce21a30ba6d31b99c71311438a172e3c547c9dca.pdf">e projet de loi adopté en Conseil des ministres et l&rsquo;exposé des motifs</a></li>
+</ul>
+[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

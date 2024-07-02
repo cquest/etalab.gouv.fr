@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Divers &#8211; Etalab</title>
+	<atom:link href="/category/non-classe/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 04 Jul 2023 15:45:20 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Divers &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Programme 10% : bilan de la saison 1 !</title>
+		<link>/programme-10-bilan-de-la-saison-1</link>
+		
+		<dc:creator><![CDATA[Sabrina Hedroug]]></dc:creator>
+		<pubDate>Mon, 12 Dec 2022 15:50:37 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[Programme 10%]]></category>
+		<guid isPermaLink="false">/?p=17205</guid>
+
+					<description><![CDATA[Une collaboration inédite entre la DINUM et l&#8217;INSEE Suite à une mission conjointe conduite entre février et juin 2021 entre la DINUM et l’INSEE, le rapport sur l’évaluation des besoins de l’État en compétences et expertises en matière de donnée publié le 27 septembre 2021 préconisait d’expérimenter en 2022 la possibilité pour les experts de &#8230;<p class="read-more"> <a class="" href="/programme-10-bilan-de-la-saison-1"> <span class="screen-reader-text">Programme 10% : bilan de la saison 1 !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-uagb-image uagb-block-33de5a0b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img fetchpriority="high" decoding="async" srcset="/wp-content/uploads/2022/12/Bilan-de-la-saison-1-1024x486.png 1024w" src="/wp-content/uploads/2022/12/Bilan-de-la-saison-1-1024x486.png" alt="" class="uag-image-17206" width="1091" height="517" title=""/></figure></div>
+
+
+
+<p></p>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Une collaboration inédite entre la DINUM et l&rsquo;INSEE</strong></h2>
+
+
+
+<p>Suite à une mission conjointe conduite entre février et juin 2021 entre la DINUM et l’INSEE, le <a href="https://www.numerique.gouv.fr/uploads/RAPPORT-besoins-competences-donnee.pdf"><strong>rapport</strong> <strong>sur l’évaluation des besoins de l’État en compétences et expertises en matière de donnée</strong> </a>publié le 27 septembre 2021 préconisait d’expérimenter en <strong>2022</strong> la possibilité pour les experts de la donnée de <strong>consacrer au moins 10 % de leur temps de travail à des projets d’intérêt partagé à une échelle interministérielle.</strong></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<div class="wp-block-uagb-image uagb-block-85ba4755 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="/wp-content/uploads/2022/12/Screenshot-2022-12-12-at-14-35-49-RAPPORT-besoins-competences-donnee.pdf.png 1024w" src="/wp-content/uploads/2022/12/Screenshot-2022-12-12-at-14-35-49-RAPPORT-besoins-competences-donnee.pdf.png" alt="" class="uag-image-17215" width="341" height="472" title=""/></figure></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<blockquote class="wp-block-quote has-text-align-left has-ast-global-color-1-color has-ast-global-color-4-background-color has-text-color has-background" style="font-size:16px"><p><strong>Recommandation 9 </strong> :</p><p> » La mission recommande d’<strong>encourager le travail interministériel </strong>et <strong>les échanges entre pairs</strong>, en dégageant une partie du temps de travail des experts de la donnée ». <br>Cette communauté pourrait ainsi « s’entraider et contribuer à <strong>l’échange de pratiques entre pairs</strong>, à la <strong>réalisation d’outils communs </strong>ou à <strong>construire des ressources pour aider les administrations à définir, piloter et évaluer des projets de data science </strong>(&#8230;). Cette action serait par ailleurs de nature à <strong>renforcer l’attractivité de l’État-employeur </strong>et à <strong>faciliter la mobilité entre ministères </strong>« . </p><cite><a href="https://www.numerique.gouv.fr/uploads/RAPPORT-besoins-competences-donnee.pdf"><strong>Rapport sur l’évaluation des besoins de l’État en compétences et expertises en matière de donnée</strong> </a></cite></blockquote>
+</div>
+</div>
+
+
+
+<p></p>
+
+
+
+<p>Lancée en juin 2022, l&rsquo;expérimentation 10% poursuit un double objectif : </p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ul><li><strong>Encourager le travail interministériel</strong> <strong>entre pairs</strong> sur des projets d&rsquo;intérêt commun&nbsp;;</li><li><strong>Renforcer l’attractivité de l’État-employeur</strong> et <strong>faciliter la mobilité entre ministères</strong>.</li></ul>
+</div>
+</div>
+
+
+
+<p>L&rsquo;expérimentation co-portée par la DINUM et l&rsquo;INSEE a permis de lancer une collaboration inédite encourageant le mélange de cultures différentes  tant sur des projets que sur une communauté de pratiques entre experts publics de la donnée.  </p>
+
+
+
+<p></p>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Retour sur six mois d&rsquo;expérimentation</strong></h2>
+
+
+
+<p>Le programme 10% a fait l&rsquo;objet d&rsquo;une importante phase d&rsquo;investigation auprès des ministères. Une fois les facteurs de risques et de succès bien identifiés, l&rsquo;expérimentation 10% a pu être lancée. </p>
+
+
+
+<div class="wp-block-uagb-content-timeline uagb-timeline__outer-wrap uagb-block-dfb4458b-3061-4eb8-b601-2523c3e5c906 uagb-timeline__content-wrap uagb-timeline__center-block  uagb-timeline__arrow-center uagb-timeline">
+<article class="wp-block-uagb-content-timeline-child uagb-timeline__field uagb-timeline-child-810c3875-7cd7-44b6-bd26-6a7e446d5231 uagb-timeline__right"><div class="uagb-timeline__marker out-view-uagb-timeline__icon"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M160 32V64H288V32C288 14.33 302.3 0 320 0C337.7 0 352 14.33 352 32V64H400C426.5 64 448 85.49 448 112V160H0V112C0 85.49 21.49 64 48 64H96V32C96 14.33 110.3 0 128 0C145.7 0 160 14.33 160 32zM0 192H448V464C448 490.5 426.5 512 400 512H48C21.49 512 0 490.5 0 464V192zM64 304C64 312.8 71.16 320 80 320H112C120.8 320 128 312.8 128 304V272C128 263.2 120.8 256 112 256H80C71.16 256 64 263.2 64 272V304zM192 304C192 312.8 199.2 320 208 320H240C248.8 320 256 312.8 256 304V272C256 263.2 248.8 256 240 256H208C199.2 256 192 263.2 192 272V304zM336 256C327.2 256 320 263.2 320 272V304C320 312.8 327.2 320 336 320H368C376.8 320 384 312.8 384 304V272C384 263.2 376.8 256 368 256H336zM64 432C64 440.8 71.16 448 80 448H112C120.8 448 128 440.8 128 432V400C128 391.2 120.8 384 112 384H80C71.16 384 64 391.2 64 400V432zM208 384C199.2 384 192 391.2 192 400V432C192 440.8 199.2 448 208 448H240C248.8 448 256 440.8 256 432V400C256 391.2 248.8 384 240 384H208zM320 432C320 440.8 327.2 448 336 448H368C376.8 448 384 440.8 384 432V400C384 391.2 376.8 384 368 384H336C327.2 384 320 391.2 320 400V432z"></path></svg></div><div class="uagb-timeline__day-new uagb-timeline__day-right uagb-timeline__events-inner-new"><div class="uagb-timeline__events-inner--content"><div class="uagb-timeline__date-hide uagb-timeline__inner-date-new">mai 16, 2022</div><h4 class="uagb-timeline__heading"><strong>Atelier d&rsquo;idéation</strong></h4><p class="uagb-timeline-desc-content">Une trentaine d&rsquo;experts publics de la donnée issus de l&rsquo;ensemble des ministères ont proposé des projets d&rsquo;intérêt commun. 4 projets 10% ont été sélectionnés.  </p><div class="uagb-timeline__arrow"></div></div></div><div class="uagb-timeline__date-new">mai 16, 2022</div></article>
+
+
+
+<article class="wp-block-uagb-content-timeline-child uagb-timeline__field uagb-timeline-child-6a94c8d6-cdc8-4943-9c2e-5c3a1fbc9773 uagb-timeline__left"><div class="uagb-timeline__marker out-view-uagb-timeline__icon"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M160 32V64H288V32C288 14.33 302.3 0 320 0C337.7 0 352 14.33 352 32V64H400C426.5 64 448 85.49 448 112V160H0V112C0 85.49 21.49 64 48 64H96V32C96 14.33 110.3 0 128 0C145.7 0 160 14.33 160 32zM0 192H448V464C448 490.5 426.5 512 400 512H48C21.49 512 0 490.5 0 464V192zM64 304C64 312.8 71.16 320 80 320H112C120.8 320 128 312.8 128 304V272C128 263.2 120.8 256 112 256H80C71.16 256 64 263.2 64 272V304zM192 304C192 312.8 199.2 320 208 320H240C248.8 320 256 312.8 256 304V272C256 263.2 248.8 256 240 256H208C199.2 256 192 263.2 192 272V304zM336 256C327.2 256 320 263.2 320 272V304C320 312.8 327.2 320 336 320H368C376.8 320 384 312.8 384 304V272C384 263.2 376.8 256 368 256H336zM64 432C64 440.8 71.16 448 80 448H112C120.8 448 128 440.8 128 432V400C128 391.2 120.8 384 112 384H80C71.16 384 64 391.2 64 400V432zM208 384C199.2 384 192 391.2 192 400V432C192 440.8 199.2 448 208 448H240C248.8 448 256 440.8 256 432V400C256 391.2 248.8 384 240 384H208zM320 432C320 440.8 327.2 448 336 448H368C376.8 448 384 440.8 384 432V400C384 391.2 376.8 384 368 384H336C327.2 384 320 391.2 320 400V432z"></path></svg></div><div class="uagb-timeline__day-new uagb-timeline__day-left uagb-timeline__events-inner-new"><div class="uagb-timeline__events-inner--content"><div class="uagb-timeline__date-hide uagb-timeline__inner-date-new">juin 13, 2022</div><h4 class="uagb-timeline__heading"><strong>Bootcamp de lancement</strong></h4><p class="uagb-timeline-desc-content">Pendant deux jours, les 13 et 14 juin 2022, les experts publics de la donnée se sont retrouvés à Bercy pour travailler sur les valeurs communes à la communauté (« partage, ouverture, curiosité ») et identifier le cadre des projets 10%. </p><div class="uagb-timeline__arrow"></div></div></div><div class="uagb-timeline__date-new">juin 13, 2022</div></article>
+
+
+
+<article class="wp-block-uagb-content-timeline-child uagb-timeline__field uagb-timeline-child-06639082-bfdf-49dc-a998-1ef8ac52d873 uagb-timeline__right"><div class="uagb-timeline__marker out-view-uagb-timeline__icon"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M160 32V64H288V32C288 14.33 302.3 0 320 0C337.7 0 352 14.33 352 32V64H400C426.5 64 448 85.49 448 112V160H0V112C0 85.49 21.49 64 48 64H96V32C96 14.33 110.3 0 128 0C145.7 0 160 14.33 160 32zM0 192H448V464C448 490.5 426.5 512 400 512H48C21.49 512 0 490.5 0 464V192zM64 304C64 312.8 71.16 320 80 320H112C120.8 320 128 312.8 128 304V272C128 263.2 120.8 256 112 256H80C71.16 256 64 263.2 64 272V304zM192 304C192 312.8 199.2 320 208 320H240C248.8 320 256 312.8 256 304V272C256 263.2 248.8 256 240 256H208C199.2 256 192 263.2 192 272V304zM336 256C327.2 256 320 263.2 320 272V304C320 312.8 327.2 320 336 320H368C376.8 320 384 312.8 384 304V272C384 263.2 376.8 256 368 256H336zM64 432C64 440.8 71.16 448 80 448H112C120.8 448 128 440.8 128 432V400C128 391.2 120.8 384 112 384H80C71.16 384 64 391.2 64 400V432zM208 384C199.2 384 192 391.2 192 400V432C192 440.8 199.2 448 208 448H240C248.8 448 256 440.8 256 432V400C256 391.2 248.8 384 240 384H208zM320 432C320 440.8 327.2 448 336 448H368C376.8 448 384 440.8 384 432V400C384 391.2 376.8 384 368 384H336C327.2 384 320 391.2 320 400V432z"></path></svg></div><div class="uagb-timeline__day-new uagb-timeline__day-right uagb-timeline__events-inner-new"><div class="uagb-timeline__events-inner--content"><h4 class="uagb-timeline__heading"><strong>Ateliers 10%</strong></h4><p class="uagb-timeline-desc-content">Tous les 15 jours de juin à novembre 2022, la communauté 10% s&rsquo;est retrouvée au Lieu de la transformation publique pour travailler sur les projets 10%. Entre ces ateliers en présentiel, se sont ajoutés des points réguliers au sein de chaque équipe. </p><div class="uagb-timeline__arrow"></div></div></div><div class="uagb-timeline__date-new"></div></article>
+
+
+
+<article class="wp-block-uagb-content-timeline-child uagb-timeline__field uagb-timeline-child-e90ec913-847f-492b-9f07-f505d7a007d5 uagb-timeline__left"><div class="uagb-timeline__marker out-view-uagb-timeline__icon"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M160 32V64H288V32C288 14.33 302.3 0 320 0C337.7 0 352 14.33 352 32V64H400C426.5 64 448 85.49 448 112V160H0V112C0 85.49 21.49 64 48 64H96V32C96 14.33 110.3 0 128 0C145.7 0 160 14.33 160 32zM0 192H448V464C448 490.5 426.5 512 400 512H48C21.49 512 0 490.5 0 464V192zM64 304C64 312.8 71.16 320 80 320H112C120.8 320 128 312.8 128 304V272C128 263.2 120.8 256 112 256H80C71.16 256 64 263.2 64 272V304zM192 304C192 312.8 199.2 320 208 320H240C248.8 320 256 312.8 256 304V272C256 263.2 248.8 256 240 256H208C199.2 256 192 263.2 192 272V304zM336 256C327.2 256 320 263.2 320 272V304C320 312.8 327.2 320 336 320H368C376.8 320 384 312.8 384 304V272C384 263.2 376.8 256 368 256H336zM64 432C64 440.8 71.16 448 80 448H112C120.8 448 128 440.8 128 432V400C128 391.2 120.8 384 112 384H80C71.16 384 64 391.2 64 400V432zM208 384C199.2 384 192 391.2 192 400V432C192 440.8 199.2 448 208 448H240C248.8 448 256 440.8 256 432V400C256 391.2 248.8 384 240 384H208zM320 432C320 440.8 327.2 448 336 448H368C376.8 448 384 440.8 384 432V400C384 391.2 376.8 384 368 384H336C327.2 384 320 391.2 320 400V432z"></path></svg></div><div class="uagb-timeline__day-new uagb-timeline__day-left uagb-timeline__events-inner-new"><div class="uagb-timeline__events-inner--content"><div class="uagb-timeline__date-hide uagb-timeline__inner-date-new">décembre 15, 2022</div><h4 class="uagb-timeline__heading"><strong>Clôture de la saison 1</strong></h4><p class="uagb-timeline-desc-content">A l&rsquo;occasion de l&rsquo;événement de clôture de la saison 1, les équipes ont pu pitcher leurs projets. Ce fut également l&rsquo;occasion d&rsquo;échanger sur le thème au cœur du programme 10% : « Comment attirer et fidéliser les talents de la data au sein de l’État ». <br>Le support <strong><a href="https://speakerdeck.com/etalabia/2022">ici </a></strong></p><div class="uagb-timeline__arrow"></div></div></div><div class="uagb-timeline__date-new">décembre 15, 2022</div></article>
+<div class="uagb-timeline__line"><div class="uagb-timeline__line__inner"></div></div></div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Le programme 10% en chiffres</strong></h2>
+
+
+
+<div class="wp-block-uagb-icon-list uagb-block-79a39c0b"><div class="uagb-icon-list__wrap">
+<div class="wp-block-uagb-icon-list-child uagb-block-ad5bb8f6"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">En moyenne, entre <strong>15 à 20 participants</strong> présents aux ateliers</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-a490c662"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Une <strong>cinquantaine d’experts </strong>sur l’outil collaboratif</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-3a1f6381"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Une <strong>dizaine</strong> de ministères participants</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-439ae813"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label"><strong>10</strong> ateliers en présentiel</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-45e21b72"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label"><strong>6</strong> mois de travail</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-392da1c7"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label"><strong>4</strong> projets d&rsquo;intérêt commun</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-3b6e7793"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label"><strong>4</strong> formations spécialisées</span></div>
+</div></div>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Zoom sur les 4 projets 10% </strong></h2>
+
+
+
+<p class="has-ast-global-color-2-color has-ast-global-color-4-background-color has-text-color has-background">Les projets 10% proposés lors de la phase d&rsquo;idéation devaient répondre à 4 critères:<br>&#8211; Des projets <strong>interministériels</strong> et <strong>réplicables</strong><br>&#8211; Nécessitant un <strong>passage à l’échelle</strong><br>&#8211; Répondant à un besoin <strong>immédiat</strong> et <strong>concret</strong><br>&#8211; Permettant de travailler à partir de données <strong>non confidentielles, pouvant être mises à disposition</strong></p>
+
+
+
+<p>L&rsquo;expérimentation 10% a permis d&rsquo;aboutir à 4 solutions concrètes :</p>
+
+
+
+<p class="has-ast-global-color-5-color has-light-green-cyan-background-color has-text-color has-background"><strong>SOCRATEXT :</strong> Une solution pour extraire des informations contenues dans des documents non directement exploitables (PDF, images, photos …) afin d’accélérer certaines tâches très chronophages lorsqu’elles sont réalisées à la main par les agents publics (par exemples, extraire les informations des tickets de caisse pour l’enquête budget des familles de l’INSEE ou bien cibler des informations précises dans des rapports médicaux de plusieurs pages). <br>Ministères participants&nbsp;: <strong>Direction interministérielle du numérique, ministère des Armées, ministère de l’Intérieur, Haute Autorité de Santé</strong></p>
+
+
+
+<p class="has-ast-global-color-5-color has-vivid-purple-background-color has-text-color has-background"><strong>GOUVDOWN et SHINYGOUV :</strong> une solution pour créer facilement des applications et des documents conformes à la charte graphique de l’État et faire gagner du temps aux agents. <br>Ministères participants&nbsp;: <strong>INSEE, direction interministérielle de la transformation publique et réseau des DREAL</strong></p>
+
+
+
+<p class="has-ast-global-color-5-color has-pale-pink-background-color has-text-color has-background"><strong>MatchSIRET :</strong> une solution pour faciliter et fiabiliser le quotidien des agents en leur donnant le moyen de remonter à l&rsquo;identifiant exact d&rsquo;une entreprise à partir d’informations issues du terrain (le nom commercial, la localisation ou le secteur d&rsquo;activité). <br>Ministères participants&nbsp;: <strong>direction interministérielle du numérique, ministère du Travail, de l&rsquo;Emploi et de l&rsquo;Insertion</strong></p>
+
+
+
+<p class="has-white-color has-ast-global-color-0-background-color has-text-color has-background"><strong>CARTIFLETTE :</strong> une solution pour harmoniser et associer des données géographiques issues de différents acteurs publics (INSEE, IGN, collectivités locales) à des contours géographiques normalisés via une API flexible. Ce projet sera associé à un site web, permettant ainsi de faciliter le travail des chercheurs, enseignants, administrations et médias souhaitant réaliser une carte à partir de données géographiques. <br>Ministères participants : <strong>INSEE, ministère de la Santé, ministère de l’Intérieur et ministère de la Transition écologique, enseignants-chercheurs</strong></p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-4 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<div class="wp-block-uagb-buttons uagb-buttons__outer-wrap uagb-btn__default-btn uagb-btn-tablet__default-btn uagb-btn-mobile__default-btn uagb-block-419e3d1c"><div class="uagb-buttons__wrap uagb-buttons-layout-wrap">
+<div class="wp-block-uagb-buttons-child uagb-buttons__outer-wrap uagb-block-47fb5962 wp-block-button is-style-outline"><div class="uagb-button__wrapper"><a class="uagb-buttons-repeater wp-block-button__link has-background has-text-color broken_link" href="//10pourcent.etalab.studio/projets/" rel="follow noopener" target="_blank"><div class="uagb-button__link">Le détail des projets sur le site 10%</div><span class="uagb-button__icon uagb-button__icon-position-after"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M438.6 278.6l-160 160C272.4 444.9 264.2 448 256 448s-16.38-3.125-22.62-9.375c-12.5-12.5-12.5-32.75 0-45.25L338.8 288H32C14.33 288 .0016 273.7 .0016 256S14.33 224 32 224h306.8l-105.4-105.4c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l160 160C451.1 245.9 451.1 266.1 438.6 278.6z"></path></svg></span></a></div></div>
+</div></div>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Les grands principes du programme 10%</strong> : confiance et montée en compétence </h2>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<p>La méthode 10% est simple : accorder autant d&rsquo;importance aux projets qu&rsquo;à la communauté. </p>
+
+
+
+<p>Les grands principes : </p>
+
+
+
+<ul><li><strong>Motivation : </strong>pas de sélection à l’entrée, le seul critère pour participer au programme c&rsquo;est l&rsquo;envie. 10% de temps de travail, 100% de motivation !</li><li><strong>Autonomie : </strong>les experts viennent quand ils peuvent.</li><li><strong>Liberté :</strong> les experts proposent ou choisissent eux-mêmes le projet auxquels ils souhaitent participer. </li><li><strong>L’informel :</strong> les relations interpersonnelles au sein de la communauté 10% sont aussi importantes que le travail sur les projets. Elles font l&rsquo;objet de moments dédiés.</li><li><strong>La montée en compétence :</strong> les participants bénéficient d&rsquo;une montée en compétence en continu grâce à des formations tech et hors tech à leur demande. (toutes les formations 10% sont disponibles <strong><a href="https://10pourcent.etalab.studio/formations/" class="broken_link">ici</a></strong>). </li><li><strong>Le mélange des cultures :</strong> la collaboration entre la DINUM et l&rsquo;INSEE permet de mixer des cultures et des pratiques différentes tant sur les projets que sur les pratiques. </li><li><strong>Le sens des projets : </strong>ce qui unit la communauté 10%, c&rsquo;est le sens des projets et l&rsquo;intérêt général</li></ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2022/12/20220613_124036-pdf.jpg" alt="" class="wp-image-17236" width="335" height="251" srcset="/wp-content/uploads/2022/12/20220613_124036-pdf.jpg 516w, /wp-content/uploads/2022/12/20220613_124036-pdf-300x225.jpg 300w" sizes="(max-width: 335px) 100vw, 335px" /><figcaption><em>Bootcamp de lancement du programme 10%</em></figcaption></figure>
+</div>
+</div>
+
+
+
+<h2 class="has-ast-global-color-0-color has-text-color has-large-font-size wp-block-heading"><strong>Lancement de la saison 2 en janvier </strong>2023 !</h2>
+
+
+
+<p><strong>La saison 2 du programme 10% sera lancée en janvier 2023 !</strong><br>Vous êtes un(e) expert(e) de la donnée dans la sphère publique, souhaitant participer à des projets d&rsquo;intérêt commun, intégrer une communauté de pratiques et monter en compétence, contactez l&rsquo;équipe du Lab IA : <strong>lab-ia@data.gouv.fr</strong></p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Entrepreneurs d’intérêt général : découvrez la 6ème promotion du programme !</title>
+		<link>/entrepreneurs-dinteret-general-decouvrez-la-6eme-promotion-du-programme</link>
+		
+		<dc:creator><![CDATA[Coraline Gillard]]></dc:creator>
+		<pubDate>Mon, 01 Aug 2022 16:06:38 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">/?p=16785</guid>
+
+					<description><![CDATA[Cinq mois après le lancement de son appel à candidatures, 300 dossiers reçus et une centaine d’entretiens plus tard, le programme Entrepreneurs d’intérêt général est fier de vous présenter la composition de sa sixième promotion. Développeuses, développeurs, data scientists, data engineers et designers… ils et elles seront 34 à rejoindre les rangs de l’administration française &#8230;<p class="read-more"> <a class="" href="/entrepreneurs-dinteret-general-decouvrez-la-6eme-promotion-du-programme"> <span class="screen-reader-text">Entrepreneurs d’intérêt général : découvrez la 6ème promotion du programme !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h4 class="wp-block-heading"><em>Cinq mois après le lancement de son appel à candidatures, 300 dossiers reçus et une centaine d’entretiens plus tard, le programme Entrepreneurs d’intérêt général est fier de vous présenter la composition de sa sixième promotion.</em></h4>
+
+
+
+<p><em></em><strong>Développeuses, développeurs, data scientists, data engineers et designers… ils et elles seront 34 à rejoindre les rangs de l’administration française en septembre prochain</strong>. 34 «&nbsp;Entrepreneurs d’intérêt général », issus des secteurs public ou privé, jeunes et moins jeunes, aux expertises diverses dans la tech et le design. Derrière ces horizons pluriels, <strong>un désir commun de s’engager pour l’intérêt général et d’œuvrer pour la transformation numérique des administrations.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://eig.etalab.gouv.fr/"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2022/08/Annonce-Promo6-1024x576.jpg" alt="Découvrez la sixième promotion du programme EIG ! 34 talents, 14 défis à relever et 10 mois pour le faire" class="wp-image-16788" srcset="/wp-content/uploads/2022/08/Annonce-Promo6-1024x576.jpg 1024w, /wp-content/uploads/2022/08/Annonce-Promo6-300x169.jpg 300w, /wp-content/uploads/2022/08/Annonce-Promo6-768x432.jpg 768w, /wp-content/uploads/2022/08/Annonce-Promo6-1536x864.jpg 1536w, /wp-content/uploads/2022/08/Annonce-Promo6-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p><strong>Pendant 10 mois,</strong> les EIG vont <strong>concevoir et déployer des outils numériques en réponse à des défis </strong>identifiés par des agents publics, sur des thèmes aussi variés que la santé, l’environnement ou les affaires sociales. Les enjeux&nbsp;: rendre l’administration plus entrepreneuriale, mieux répondre aux nouvelles attentes des usagers, optimiser des services et tâches existants mais aussi améliorer le pilotage, la transparence et l’évaluation de l’action publique.</p>
+
+
+
+<p>C’est donc <strong>aux côtés d’une trentaine d’agents publics, au cœur de leurs administrations </strong>respectives, que les 34 EIG de la promotion 6 relèveront<strong> 14 défis</strong>. Nous avons le plaisir de vous les révéler ci-dessous :</p>
+
+
+
+<p><strong><a rel="noreferrer noopener" href="https://eig.etalab.gouv.fr/defis/artificia/" target="_blank">ArtificIA</a><em> </em>–<em> </em>Institut national de l’information géographique et forestière (IGN)</strong></p>
+
+
+
+<p><em>Mettre l’intelligence artificielle au service de l’objectif « zéro artificialisation nette » des sols</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Marie-Lorraine CHIRIACOPOL, Designer</li><li>Eva BOOKJANS, Ingénieure des sciences de la donnée (ou « data scientist »)</li></ul>
+
+
+
+<p><strong><a rel="noreferrer noopener" href="https://eig.etalab.gouv.fr/defis/champollion/" target="_blank">Champollion</a> – Secrétariat général des ministères chargés des affaires sociales</strong></p>
+
+
+
+<p><em>Rendre intelligibles et valoriser dans la pratique les données de la déclaration sociale nominative</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Sara BOURDON, Développeuse</li><li>Léo GUILLAUME, Ingénieur de la donnée (ou « data engineer »)</li><li>Margot COSSON, Ingénieure des sciences de la donnée (ou « data scientist »)</li></ul>
+
+
+
+<p><strong><a rel="noreferrer noopener" href="https://eig.etalab.gouv.fr/defis/ecospheres/" target="_blank">Ecosphère(s)</a> – Commissariat général au développement durable (CGDD)</strong></p>
+
+
+
+<p><em>Développer l’écosystème de la transition écologique et de la cohésion des territoires</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Martin CAHEN, Designer</li><li>Gabriel RIPOCHE, Développeur</li><li>Vincent AIT-AMMAR, Ingénieur des sciences de la donnée (ou « data scientist »)</li></ul>
+
+
+
+<p><strong><a rel="noreferrer noopener" href="https://eig.etalab.gouv.fr/defis/estim-action/" target="_blank">Estim’Action</a> – Cerema</strong></p>
+
+
+
+<p><em>Aider les collectivités à réduire les nuisances routières, sources de pollution atmosphérique et sonore&nbsp; </em><em></em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Marion CARON, Designer</li><li>Jéremie LETONNELIER, Ingénieur de la donnée (ou « data engineer »)</li></ul>
+
+
+
+<p><strong><a rel="noreferrer noopener" href="https://eig.etalab.gouv.fr/defis/etat-bas-carbone/" target="_blank">Etat bas carbone</a> – Commissariat général au développement durable (CGDD)</strong></p>
+
+
+
+<p><em>Soutenir les services de l’Etat dans la réduction de leur empreinte carbone</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Abdelkader KERSANI, Développeur</li><li>Charlotte SUAUD, Ingénieure des sciences de la donnée (ou « data scientist »)</li></ul>
+
+
+
+<p><strong><a rel="noreferrer noopener" href="https://eig.etalab.gouv.fr/defis/geocommuns/" target="_blank">Géocommuns</a> – Institut national de l’information géographique et forestière (IGN)</strong></p>
+
+
+
+<p><em>Représenter et valoriser les géocommuns numériques</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Line GALLEN, Designer</li><li>Quentin BOUILLAGUET, Développeur</li><li>Maxime ALLAIN, Développeur</li></ul>
+
+
+
+<p><strong><a rel="noreferrer noopener" href="https://eig.etalab.gouv.fr/defis/magellan/" target="_blank">Magellan</a> – Direction interministérielle du numérique (DINUM)</strong></p>
+
+
+
+<p><em>Accompagner la collaboration et l’innovation au sein du programme EIG et de son écosystème</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Jakub VOZNICA, Coach en ingénierie de la donnée</li><li>Lucie LE ROLLAND, Coach en ingénierie de la donnée</li><li>Antoine SAN SEGUNDO, Coach en design de service</li></ul>
+
+
+
+<p><strong><a rel="noreferrer noopener" href="https://eig.etalab.gouv.fr/defis/nubonyxia/" target="_blank">Nubonyxia</a> – Secrétariat général des ministères économiques et financiers</strong></p>
+
+
+
+<p><em>Sécuriser et faciliter l’intelligence des données économiques et financières sensibles</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Quentin CHICHERY, Ingénieur des sciences de la donnée (ou « data scientist »)</li><li>Daouda DIALLO, Ingénieur de la donnée (ou « data engineer »)</li><li>Paul MOYSAN, Ingénieur de la donnée (ou « data engineer »)</li></ul>
+
+
+
+<p><strong><a rel="noreferrer noopener" href="https://eig.etalab.gouv.fr/defis/optiflex/" target="_blank">OptiFlex</a> – Commissariat des armées</strong></p>
+
+
+
+<p><em>Repenser les modes de travail au service de la qualité de vie et de la maîtrise de l’empreinte environnementale</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Clara CARNEIRO ALVES, Designer</li><li>Sophie TOPART, Développeuse</li><li>Anthony TAING, Ingénieur de la donnée (ou « data engineer »)</li></ul>
+
+
+
+<p><strong><a href="https://eig.etalab.gouv.fr/defis/pilote-intelligence/" target="_blank" rel="noreferrer noopener">Pilote Intelligence </a>– Direction interministérielle de la Transformation Publique (DITP)</strong></p>
+
+
+
+<p><em>Faciliter et animer le pilotage des politiques publiques à toutes les mailles territoriales</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Adrien LAVILLE, Designer</li><li>Gregoria RUBIO, Développeuse</li></ul>
+
+
+
+<p><strong><a rel="noreferrer noopener" href="https://eig.etalab.gouv.fr/defis/recens-smart/" target="_blank">Recens’smart</a> – Institut national de la statistique et des études économiques (INSEE)</strong></p>
+
+
+
+<p><em>Améliorer le processus et rehausser la qualité du recensement au service d’une meilleure connaissance de la population</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Julia DIRAND, Designer</li><li>William THIERY, Développeur</li></ul>
+
+
+
+<p><strong><a rel="noreferrer noopener" href="https://eig.etalab.gouv.fr/defis/sirano/" target="_blank">SIRANo</a> – Direction Générale de l’Offre de Soins (DGOS)</strong></p>
+
+
+
+<p><em>Améliorer la transparence et le suivi des projets financés de recherche appliquée en santé</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Abdelali BOULAJINE, Développeur</li><li>Zhanna SANTYBAYEVA, Data engineer</li></ul>
+
+
+
+<p><strong><a rel="noreferrer noopener" href="https://eig.etalab.gouv.fr/defis/sos-ponts/" target="_blank">SOS Ponts</a> – Cerema</strong></p>
+
+
+
+<p><em>Guider les maires pas à pas dans les actions à mener pour préserver les ponts de leur commune</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Lise FAINSILBER, Designer</li><li>Vladimir NAFISSI, Développeur</li></ul>
+
+
+
+<p><strong><a rel="noreferrer noopener" href="https://eig.etalab.gouv.fr/defis/twincity/" target="_blank">TwinCity </a>– Ministère de l’Intérieur</strong></p>
+
+
+
+<p><em>Explorer le potentiel de l’intelligence artificielle appliquée à des jumelages numériques de villes</em></p>
+
+
+
+<p>EIG lauréats&nbsp;:</p>
+
+
+
+<ul><li>Jehanne DUSSERT, Développeuse</li><li>Raphaël COURONNÉ, Ingénieur des sciences de la donnée (ou « data scientist »)</li></ul>
+
+
+
+<p><strong><u>LA PROMOTION EIG 6 EN QUELQUES CHIFFRES</u></strong></p>
+
+
+
+<p><strong>Appel à projets</strong></p>
+
+
+
+<ul><li><strong>29 projets</strong> ont été reçus dans le cadre de l’appel à projets du 24 janvier au 18 mars 2022 ;</li><li><strong>14 projets</strong> ont été sélectionnés à l’issue des jurys organisés les 31 mars et 1er avril 2022 ;</li><li><strong>21 expertes et experts</strong> réunis pour le jury des projets.</li></ul>
+
+
+
+<p><strong>2 nouvelles administrations</strong>&nbsp;entrent dans le programme&nbsp;: le Centre d&rsquo;études et d&rsquo;expertise sur les risques, l&rsquo;environnement, la mobilité et l&rsquo;aménagement (Cerema) et la Direction interministérielle de la Transformation Publique (DITP)</p>
+
+
+
+<p><strong>Appel à candidatures</strong></p>
+
+
+
+<ul><li><strong>300 candidatures </strong>ont été reçues dans le cadre de l’appel à candidatures du 7 mars au 19 avril 2022 ;</li><li><strong>103 candidates et candidats ont été présélectionné(e)s et 88 ont été auditionné(e)s </strong>lors des jurys qui se sont tenus les 7, 8, 9, 10 et 13 juin 2022 puis du 22 juin au 7 juillet 2022 ;</li><li><strong>34 Entrepreneurs d’intérêt général, dont 3 coaches EIG </strong>qui épauleront l’équipe d’animation du programme, ont été sélectionné(e)s à l’issue des jurys</li><li><strong>30 expertes et experts</strong> réuni(e)s pour le jury des candidats</li></ul>
+
+
+
+<p><strong>Profils des EIG</strong></p>
+
+
+
+<p><strong>16 femmes et&nbsp;18 hommes</strong></p>
+
+
+
+<p><strong>11 développeurs et développeuses,&nbsp;9 designers,&nbsp;6 data engineers,&nbsp;8 data scientists</strong></p>
+
+
+
+<p>L’équipe du programme souhaite remercier les nombreux membres de la DINUM (<a href="https://www.etalab.gouv.fr/" target="_blank" rel="noreferrer noopener">Etalab</a>, <a href="https://beta.gouv.fr/" target="_blank" rel="noreferrer noopener">beta.gouv.fr</a>, <a href="https://design.numerique.gouv.fr/" target="_blank" rel="noreferrer noopener">DesignGouv</a>), les anciennes et anciens EIG, ainsi que les personnalités des mondes associatifs et de l’entrepreneuriat pour leur participation à la sélection de cette promotion <em>:</em></p>
+
+
+
+<p><em>Alexandre BULTE </em><em>(<u><a href="https://www.etalab.gouv.fr/" target="_blank" rel="noreferrer noopener">Etalab</a></u>)</em><em>, Aliaume LOPEZ (École Normale Supérieure Paris-Saclay), Amandine DUGRAIN (<a href="No-code%20France">No-code France</a>) , Benoit SERRANO (<a href="Beta.gouv">Beta.gouv</a>) , Claire HEUDE (<a href="ElectronicTales">ElectronicTales</a>), Chloé ROTROU 5ministère de la Justice), Estelle MAUDET </em><em>(<u><a href="https://www.etalab.gouv.fr/" target="_blank" rel="noreferrer noopener">Etalab</a></u>)</em><em>, Fatim BELLMANE (<a href="https://www.frog.co/">Frogdesign</a>) , Frédéric BARDOLLE (Cosmian), Geoffrey ALDEBERT </em><em>(<u><a href="https://www.etalab.gouv.fr/" target="_blank" rel="noreferrer noopener">Etalab</a></u>)</em><em>, Hélène JONIN, Joëlle CHONG (ANSM), Kim MONTALIBET </em><em>(<u><a href="https://www.etalab.gouv.fr/" target="_blank" rel="noreferrer noopener">Etalab</a></u>)</em><em>, Laurie CHAPOTTE (Ministère de la Culture), Laure LETER (<a href="https://adatechschool.fr/">Ada Tech School</a>) , Maxime BEAUGRAND (<a href="https://franceconnect.gouv.fr/">France Connect</a>), Nadim BELLALLAHOM (Fondation européenne pour le climat), Nicolas DECOSTER (<a href="ElectronicTales">ElectronicTales</a>), Paola DUCOLIN (Datadog), Perrine CRIBIER DELANDE (Ministère de la Justice), Pierre-Etienne DEVINEAU</em><em> (<u><a href="https://www.etalab.gouv.fr/" target="_blank" rel="noreferrer noopener">Etalab</a></u>)</em><em>,</em><em> </em><em>Romain GLE, Romy ALULA (<a href="https://www.codeworks.fr/?gclid=Cj0KCQjw5ZSWBhCVARIsALERCvxfNN9TEwQ_D1uciJrIywhugi_4gmn6T8kX2phIG2ESB_nZAReJrxoaAu7_EALw_wcB">CodeWorks</a>) , Ryan LAHFA (Ministère de la Justice), Simon DENIER (EPNAK, CNAM), Thais COUTINHO (ANSM), Ugo DESSERTINE </em><em>(</em><em><a href="https://design.numerique.gouv.fr/" target="_blank" rel="noreferrer noopener">DesignGouv</a>)</em><em>, Vincent BATAILLE </em><em>(<u><a href="https://fr.openfoodfacts.org/" target="_blank" rel="noreferrer noopener">Open Food Facts</a></u>)</em><em>, Xavier DUPRE </em><em>(Microsoft)</em><em>, Xuan-Vi TRAN (<a href="https://adatechschool.fr/">Ada Tech School</a>). </em><em></em></p>
+
+
+
+<p><strong>De nouveaux appels à projets et à candidatures pour la septième promotion EIG seront lancés dans les prochains mois. Le programme EIG vous intéresse&nbsp;? Vous souhaitez faire partie de la prochaine promotion, en tant qu’administration ou en tant qu’EIG ?</strong></p>
+
+
+
+<p><strong>Inscrivez-vous à <u><a href="https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio" target="_blank" rel="noreferrer noopener" class="broken_link">la liste de diffusion</a></u></strong></p>
+
+
+
+<p><strong>Suivez-nous sur <u><a href="https://twitter.com/eigforever" target="_blank" rel="noreferrer noopener">Twitter</a></u> et <u><a href="https://fr.linkedin.com/company/etalab" target="_blank" rel="noreferrer noopener">Linkedin</a></u> pour être tenu au courant de toutes nos actualités</strong></p>
+
+
+
+<p><strong>Contactez-nous à l’adresse <u><a href="mailto:eig@data.gouv.fr" target="_blank" rel="noreferrer noopener">eig@data.gouv.fr</a></u> pour toute question</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>What role for Public Technology Fellowships?</title>
+		<link>/what-role-for-public-technology-fellowships</link>
+		
+		<dc:creator><![CDATA[Sophie Miljkovic]]></dc:creator>
+		<pubDate>Mon, 25 Jul 2022 09:25:32 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">/?p=16745</guid>
+
+					<description><![CDATA[On July 30, 2022 the fifth cohort of Public Interest Entrepreneurs hosted an event to present ten months worth of work within the French administration. Their goal in a nutshell? Digital transformation that helps public servants to bring better public service to citizens. Every year, our public tech fellowship recruits a cohort to work on &#8230;<p class="read-more"> <a class="" href="/what-role-for-public-technology-fellowships"> <span class="screen-reader-text">What role for Public Technology Fellowships?</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>On July 30, 2022 the fifth cohort of Public Interest Entrepreneurs hosted an event to present ten months worth of work within the French administration. Their goal in a nutshell? Digital transformation that helps public servants to bring better public service to citizens. Every year, our public tech fellowship recruits a cohort to work on specific problems encountered by civil servants and build tools that change their daily routine for the better. While this year’s event focused on the products that were built and the change induced, this article reflects the importance of recruiting the right people for the job. It is based on an international panel that took place during last year’s event.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="680" height="355" src="/wp-content/uploads/2022/07/panel-international-image-article.jpg" alt="" class="wp-image-16746" srcset="/wp-content/uploads/2022/07/panel-international-image-article.jpg 680w, /wp-content/uploads/2022/07/panel-international-image-article-300x157.jpg 300w" sizes="(max-width: 680px) 100vw, 680px" /><figcaption><em>Cover picture announcing the panel and presenting the panelists <a href="https://twitter.com/eigforever/status/1404352639995949056?s=20&amp;t=sVTBkfTE-ajHvyLuv-w0Wg">on Etalab&rsquo;s Twitter account</a></em></figcaption></figure>
+
+
+
+<p>Since 2012 and the creation of Presidential Innovation Fellows in the US, many other public tech fellowships have been launched. On June the 17th, 2021, Public Interest Entrepreneurs brought together an international panel representing four of them to sit down and reflect (online):</p>
+
+
+
+<ul><li>John Paul Farmer, co-founder of <a href="https://presidentialinnovationfellows.gov/">Presidential Innovation Fellows</a>, at the time of the panel Chief Technology Officer, New York City, USA</li><li>Jen Gold, for <a href="https://no10innovationfellows.campaign.gov.uk/">N°10 Innovation Fellowship</a>, at the time of the panel Head of Evidence and Evaluation, Cabinet Office, UK</li><li>Anna Hupperth, for <a href="https://tech.4germany.org/" class="broken_link">Tech4Germany </a>&amp; <a href="https://work.4germany.org/ueber-uns/" class="broken_link">Work4Germany</a>, Head of Communications, Germany</li><li>Laure Lucchesi, for <a href="https://eig.etalab.gouv.fr/">Public Interest Entrepreneurs</a>, Director, Etalab, France</li><li>Soizic Pénicaud, at the time of the panel Head of Community and Capacity Building and Head of the Public Interest Entrepreneurs fellowship, Etalab (moderator)</li></ul>
+
+
+
+<p>How do these fellowships contribute to digital transformation in their respective governments? What are the benefits and the limitations of such programs? Dive in with us!</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-dailymotion wp-block-embed-dailymotion wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="DemoDay EIG4 : Panel international" frameborder="0" width="1091" height="613" src="https://www.dailymotion.com/embed/video/k3DGxBSkUZ8I3Cx9ThN?pubtool=oembed" allowfullscreen allow="autoplay"></iframe>
+</div><figcaption><em>You can watch the webinar on Dailymotion (in English with English subtitles that you can switch on)</em></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>Why the fellowships?&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong></h2>
+
+
+
+<p>Fellowships are a way of bringing tech talent into government in order to build projects and capacity.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">Governmental needs meet civic enthusiasm</h3>
+
+
+
+<p>Public tech fellowships are a meeting point for governments that want to innovate and citizens that want to contribute to the greater good.</p>
+
+
+
+<p>The Presidential Innovation Fellows (PIF) started with an observation by the Obama administration: “the best solutions came when you had a diverse team. And a diverse team meant you had people with twenty first century skills: [&#8230;] Web developers who understood data and how to use it in addition to lawyers and people with deep policy expertise,” remembers John Paul Farmer. In 2012, to recreate this framework, the White House launched a trial fellowship to bring in tech talents who would work on 5 specific projects. It was overwhelmingly successful: in just 3 weeks, it received over 700 applications for 18 spots.</p>
+
+
+
+<p>On the other side of the Atlantic, Tech4Germany (T4G) was launched in 2018 by a group of young professionals outside of government: they noticed that students were interested in working for the government and applying their skills to government projects, but couldn’t find a suitable framework for it. One of the problems being that jobs in government often didn’t cover the skills that were needed for modern software development.</p>
+
+
+
+<h3 class="wp-block-heading">Building projects… and building capacity</h3>
+
+
+
+<p>The first benefit of such fellowships is to build projects faster and better. Calls for applications within administrations help to select projects that are impactful and feasible in a short amount of time. Since 2016, Public Interest Entrepreneurs (EIG) has jump-started 87 projects. For instance, <a href="https://www.refugies.info/">Réfugiés.info</a>, the Wikipedia of information for refugees in France, was launched after only 10 months of work. Another example in the USA: the PIF played an essential role in quickly fixing the healthcare.gov platform when it crashed on the day of its opening.&nbsp;</p>
+
+
+
+<p>But, as Laure Lucchesi underlines, fellowships are after “not only a change of working methods, but also a change of culture.” Whilst in government, fellows implement new ways of working, question traditional behaviours, exemplify what tech skills can bring to projects, and even upskill civil servants. Embedded into government, fellows work hand in hand with them, transforming government from within.</p>
+
+
+
+<p>Lastly, fellowships aim at bringing people into government for the long term. Jen Gold from the UK explained that, because “it was so important to have people stay on in government and have that leadership pipeline, we wanted them employed as civil servants”. That’s why they launched the N°10 Innovation Fellowships (N°10) in 2020, motivated by the 50% of fellows retained by PIF, the Impact Canada Fellowships and EIG.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Who do we bring in?</strong></h2>
+
+
+
+<p>Panelists shared similar challenges when it came to recruitment.</p>
+
+
+
+<h3 class="wp-block-heading">Diversity: still a major issue</h3>
+
+
+
+<p>The four fellowships attract different types of people. PIF mobilizes people from big tech companies and receives many applicants from the private sector. T4G was initially a student initiative and is still aimed at younger people to give them an experience of working in government and the wish to stay on. N°10 and EIG are in the middle ground.&nbsp;</p>
+
+
+
+<p>However, the four fellowships have made diversity a priority: they consider it their duty to carefully choose the people who bring about digital transformation. “I think it&rsquo;s one of the things that fellowship programs [&#8230;] should also really stand out for, because that&rsquo;s another mindset change that we can drive, next to bringing tech, design, et cetera, into government,” says Anna Hupperth.&nbsp;</p>
+
+
+
+<p>Therefore, they seek to bake diversity into the programs. For example, N°10 has included assessing for a commitment to diversity and inclusion within the recruitment process for the fellows. It has also undertaken proactive outreach in tech networks to bring underrepresented groups into government via the program.</p>
+
+
+
+<h3 class="wp-block-heading">Wanted: tech talent with soft skills&nbsp;</h3>
+
+
+
+<p>One of the major challenges the fellows come across is understanding the working of complex structures to get things done. They might also encounter some resistance to change. That’s why recruiting for the fellowships can be hard: one must find people who combine technology expertise and soft skills such as empathy, understanding, adaptability, curiosity, creativity…&nbsp; All of this in order for them to be able to learn from the civil servants they’ll be working with and move the projects forward. And with the help of the programs that offer tailored inductions for Fellows to bridge gaps between work cultures.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>How do we make the transformation sustainable?&nbsp;</strong></h2>
+
+
+
+<p>Fellowships help jump-start projects and initiate change. The real challenge is to make that change sustainable.</p>
+
+
+
+<h3 class="wp-block-heading">Fellowships and national digital services</h3>
+
+
+
+<p>Fellowships and digital services go hand in hand and both need to exist in order to keep building tech capacity within governments.</p>
+
+
+
+<p>Interestingly enough, PIF and T4G led to the creation of national digital services, while the French and UK digital services felt the need to launch fellowship programs to attract diverse talent. “In addition [to the Presidential Innovation Fellowship], 18 F and the US Digital Service were created so that we would have permanent institutional capability in addition to the fellows,” says John Paul Farmer. Anna Hupperth elaborated on the recent creation of the German digital service DigitalService4Germany: “by being inside the government, but also still a little bit outside, we are on the sweet spot where we can actually talk across all hierarchies and move things forward.”</p>
+
+
+
+<p>Furthermore, programs often evolve in order to better meet their goals. Laure Lucchesi explains: “We learn by iterations. From the first cohort until the one that we are about to launch today, we improved the program year after year by integrating various skills. Not only data scientists and developers, but also designers and lawyers.”</p>
+
+
+
+<h3 class="wp-block-heading">Citizens and co</h3>
+
+
+
+<p>Digital transformation isn’t led only by public tech fellowships. Civic tech initiatives and private fellowships can also contribute to a better public service.</p>
+
+
+
+<p>Laure Lucchesi insisted that EIG was also inspired by civic tech initiatives, be it citizens with personal projects or actual civic tech programs. The international “<a href="https://codeforall.org/">Code For</a>” network or the <a href="https://wirvsvirus.org/">WirVSvirus </a>hackathon are great examples of civic initiatives that spark many projects and vocations around the world. Apart from being an inspiration, such initiatives could be integrated more into the fellowships, although it has yet to be figured out how.</p>
+
+
+
+<p>As for companies playing their part, John Paul Farmer explained that New York City greatly relied on them during the Covid crisis. Because the situation was critical, the city set up <a href="https://www.ny.gov/programs/new-york-state-covid-19-technology-swat-team">a volunteer fellowship</a> to enable people to put their skills to use. 7300 people have volunteered to this day.&nbsp;&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Conclusion</strong></h2>
+
+
+
+<p>The main benefits of public tech fellowships are helping to build a pipeline of tech talents into governments, building capacity within governments and bringing about a change of culture. All of these contribute to the digital transformation of administrations to improve public services.&nbsp;</p>
+
+
+
+<p>However, for all they’re worth, digital fellowships are not a one-size-fits-all solution. As they grow and multiply, they raise questions: how do we ensure that the recruitment process is both efficient and inclusive? How do we prevent fellowships from being temporary “tours of duty” and make them into real levers for capacity building? How do we make sure that public servants also gain from this experience? And how do we guarantee that fellowships actually contribute to improving public services?</p>
+
+
+
+<p><em>We whole-heartedly thank all the panelists for taking part in this discussion.&nbsp;</em></p>
+
+
+
+<p><em>This international panel was a way to start the conversation, and we would very much like to keep it going. Do get in touch: <a href="mailto:eig@data.gouv.fr">eig@data.gouv.fr</a></em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Accélérateur d&#8217;initiatives citoyennes : découvrez la première promotion de projets accompagnés</title>
+		<link>/accelerateur-dinitiatives-citoyennes-decouvrez-la-premiere-promotion-de-projets-accompagnes</link>
+		
+		<dc:creator><![CDATA[Laure Lucchesi]]></dc:creator>
+		<pubDate>Thu, 14 Apr 2022 16:15:48 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">/?p=16574</guid>
+
+					<description><![CDATA[Annoncé par le Président de la République&#160;et lancé par la Ministre de la Transformation et de la Fonction publiques le 17 décembre 2021,&#160;l&#8217;Accélérateur d&#8217;initiatives citoyennes vise à&#160;promouvoir les initiatives d&#8217;intérêt général portées par la société civile, à en accélérer le déploiement et à faciliter l&#8217;accès aux ressources et expertises que l&#8217;administration est susceptible de leur &#8230;<p class="read-more"> <a class="" href="/accelerateur-dinitiatives-citoyennes-decouvrez-la-premiere-promotion-de-projets-accompagnes"> <span class="screen-reader-text">Accélérateur d&#8217;initiatives citoyennes : découvrez la première promotion de projets accompagnés</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="240" src="/wp-content/uploads/2022/03/Capture-décran-2022-03-28-à-22.09.10-1024x240.png" alt="" class="wp-image-16576" srcset="/wp-content/uploads/2022/03/Capture-décran-2022-03-28-à-22.09.10-1024x240.png 1024w, /wp-content/uploads/2022/03/Capture-décran-2022-03-28-à-22.09.10-300x70.png 300w, /wp-content/uploads/2022/03/Capture-décran-2022-03-28-à-22.09.10-768x180.png 768w, /wp-content/uploads/2022/03/Capture-décran-2022-03-28-à-22.09.10.png 1201w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><a href="https://www.elysee.fr/emmanuel-macron/2021/12/15/un-incubateur-pour-soutenir-les-initiatives-citoyennes-dinteret-general">Annoncé par le Président de la République</a>&nbsp;et lancé par la Ministre de la Transformation et de la Fonction publiques le 17 décembre 2021,&nbsp;l&rsquo;<a href="http://citoyens.transformation.gouv.fr/">Accélérateur d&rsquo;initiatives citoyennes</a> vise à&nbsp;<strong>promouvoir les initiatives d&rsquo;intérêt général portées par la société civile, à en accélérer le déploiement et à faciliter l&rsquo;accès aux ressources et expertises que l&rsquo;administration est susceptible de leur fournir</strong>. La première promotion de projets accompagnés a été dévoilée par Amélie de Montchalin le 14 mars dernier. </p>
+
+
+
+<h2 class="wp-block-heading"><strong>Près de 200 candidatures déposées : la société civile veut contribuer à l’intérêt général</strong></h2>
+
+
+
+<p>L&rsquo;accélérateur d&rsquo;initiatives citoyennes a lancé un premier appel à candidatures du 17 décembre 2021 au 26 janvier 2022. Il s’adressait à tous les citoyens et citoyennes, associations, entreprises et collectifs portant un projet d’utilité publique. </p>
+
+
+
+<p>En un peu plus d&rsquo;un mois, 187 projets ont été déposés. 44% ont été déposés par des associations, 30% par des entreprises, 26% par des individus. Ils couvraient une grande diversité de thématiques et la majorité comportait une dimension numérique.  Néanmoins, trois grands champs de politiques publiques sont ressortis : Écologie Environnement, Social, Éducation Jeunesse. </p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-5 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2022/03/stats.png" alt="" class="wp-image-16587" width="522" height="365" srcset="/wp-content/uploads/2022/03/stats.png 968w, /wp-content/uploads/2022/03/stats-300x209.png 300w, /wp-content/uploads/2022/03/stats-768x536.png 768w" sizes="(max-width: 522px) 100vw, 522px" /><figcaption><em><strong>Thématiques couvertes</strong> par le premier appel à candidatures</em></figcaption></figure>
+
+
+
+<p><em>NB: Ne sont identifiés ici comme «numériques» que les initiatives ayant vraiment une forte dimension numérique – Source: dossiers de candidature</em></p>
+</div>
+</div>
+
+
+
+<h2 class="wp-block-heading"><strong>Un processus de sélection inédit, croisant le regard d&rsquo;un panel citoyen et l&rsquo;expertise de l&rsquo;administration </strong></h2>
+
+
+
+<p>La sélection des initiatives a été réalisée selon une méthodologie inédite, adaptée des techniques du « design thinking » pour répondre aux besoins spécifiques de l&rsquo;Accélérateur, et évaluant les propositions selon <a href="https://citoyens.transformation.gouv.fr/charte.html" class="broken_link">différents critères</a> :</p>
+
+
+
+<ul><li><strong>désirabilité</strong> des initiatives, évaluée par un panel de 15 citoyens d’Île-de-France, de sexes, âges et catégories socio-professionnelles variés. Durant deux jours, il a examiné les 187 dossiers et s’est exprimé sur l’enjeu potentiel au regard de l’intérêt général ; </li><li><strong>faisabilité et viabilité</strong> des projets, estimées par l’expertise de l’administration. Une trentaine d’évaluateurs et évaluatrices de la DINUM et de la DITP a évalué la recevabilité des dossiers, croisant une analyse de faisabilité (solidité du projet et de l’équipe, crédibilité de la solution proposée) et de viabilité (capacité de l’administration et/ou de l’Accélérateur à aider le projet, à lui faire franchir une étape supplémentaire).</li></ul>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2022/03/Panel-AIC-1024x479.png" alt="" class="wp-image-16590" width="720" height="337" srcset="/wp-content/uploads/2022/03/Panel-AIC-1024x479.png 1024w, /wp-content/uploads/2022/03/Panel-AIC-300x140.png 300w, /wp-content/uploads/2022/03/Panel-AIC-768x359.png 768w, /wp-content/uploads/2022/03/Panel-AIC.png 1041w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption><em>Le panel citoyen réuni pour évaluer les dossiers de candidature</em></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>9 projets lauréats pour la première promotion de l’Accélérateur d’Initiatives Citoyennes</strong></h2>
+
+
+
+<p>A l&rsquo;issue de cette phase de sélection, 9 projets ont été retenus. Tous intègrent une forte dimension numérique et représentent la diversité de thématiques abordées dans les candidatures&nbsp;: Culture Information, Éducation Jeunesse, Démocratie, Services publics et accès aux droits, Écologie Environnement, Citoyenneté, Handicap, Inclusion, Social, Santé.</p>
+
+
+
+<ul><li><strong>InfoClimat, porté par l’association éponyme</strong>&nbsp;: mobiliser les données météorologiques et climatiques ouvertes pour renforcer la prise de conscience du changement climatique et former les citoyens aux enjeux météorologiques.</li><li><strong>MaDada, porté par l’association OpenKnowledge</strong>&nbsp;: renforcer la transparence de l’action publique en favorisant l’ouverture des données et documents administratifs.</li><li><strong>Open Data University, porté par l’association Latitudes</strong>&nbsp;: initier à l’open data les élèves inscrits dans une formation de l’enseignement supérieur dans le domaine du numérique, pour faire émerger les « CovidTracker » de demain.</li><li><strong>Parlons démocratie, porté par l’association éponyme</strong>&nbsp;: former les Français, et notamment les plus jeunes, à la connaissance des institutions, au fonctionnement de la démocratie et à la délibération démocratique.</li><li><strong>Permis de Construire, porté par l’association éponyme</strong>&nbsp;: accompagner dans leur réinsertion dans la société les personnes sous contrôle judiciaire, en travaux d’intérêt général, en attente de jugement, en sursis ou sortant de détention, afin de lutter contre la récidive.</li><li><strong>Service national universel augmenté, porté par l’association makesense</strong>&nbsp;: accompagner et former les jeunes qui souhaitent s’engager pour l’intérêt général dans cinq thématiques prioritaires, dont le climat avec « Chauffe-toi pour le climat ! » et l’aide aux personnes âgées isolées avec « Rapproche-toi des seniors isolés ! ».</li><li><strong>Sports inclusif, porté par l’association Les enfants de la balle</strong>&nbsp;: permettre aux enfants en situation de handicap de pratiquer une activité sportive dans le club ou l’association de leur quartier.</li><li><strong>Vikidia, porté par l’association éponyme&nbsp;</strong>: développer une encyclopédie collaborative et libre pour les 9-13 ans afin de développer l’esprit critique des jeunes, en particulier sur les informations disponibles en ligne.</li><li><strong>Vivons en forme, porté par l’association Fédérons les villes pour la santé&nbsp;</strong>: lutter contre les maladies chroniques et renforcer les actions de prévention en santé en mobilisant les leviers à la disposition des communes, comme la restauration scolaire, la politique sportive, ou encore la pédagogie auprès des parents et des enfants.</li></ul>
+
+
+
+<p>En savoir plus sur les projets lauréats&nbsp;: <a href="https://citoyens.transformation.gouv.fr/laureats.html" class="broken_link">https://citoyens.transformation.gouv.fr/laureats.html</a></p>
+
+
+
+<p>Ces initiatives s&rsquo;inscrivent dans les priorités énoncées dans le 3e Plan d&rsquo;action national du Partenariat pour un gouvernement ouvert (PGO) présenté en décembre 2021. Celui-ci comporte notamment trois priorités transversales &#8211; la participation citoyenne, le numérique inclusif et la transparence de l&rsquo;action publique &#8211; ainsi que des priorités thématiques sur l’environnement et la santé auxquelles répondent les projets.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Un accompagnement pendant trois mois pour accélérer les initiatives</strong></h2>
+
+
+
+<p>Les projets lauréats bénéficieront <strong>pendant trois mois</strong> d’un <strong>appui de l’administration</strong>. Ils pourront solliciter un vivier de mentors, obtenir des contacts, accéder à des données, recevoir de l’aide juridique&#8230; </p>
+
+
+
+<p><strong>A la sortie de l’Accélérateur, les porteurs et porteuses de projets passeront devant un comité d&rsquo;engagement</strong> constitué de sponsors publics et privés. Ces-derniers pourront apporter des contributions supplémentaires pour soutenir le développement des projets&nbsp;: terrain d&rsquo;expérimentation, financement, mécénat de compétence etc.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="450" src="/wp-content/uploads/2022/03/Capture-décran-2022-03-28-à-22.57.00-1024x450.png" alt="" class="wp-image-16595" srcset="/wp-content/uploads/2022/03/Capture-décran-2022-03-28-à-22.57.00-1024x450.png 1024w, /wp-content/uploads/2022/03/Capture-décran-2022-03-28-à-22.57.00-300x132.png 300w, /wp-content/uploads/2022/03/Capture-décran-2022-03-28-à-22.57.00-768x337.png 768w, /wp-content/uploads/2022/03/Capture-décran-2022-03-28-à-22.57.00.png 1214w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Contenu de l&rsquo;accompagnement proposé aux initiatives soutenues par le programme</em></figcaption></figure>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-7 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-6 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+</div>
+</div>
+</div>
+
+
+
+<h2 class="wp-block-heading"><strong>Un soutien aux autres projets</strong></h2>
+
+
+
+<p>L&rsquo;Accélérateur a prévu un accompagnement pour les autres projets ayant répondu à l&rsquo;appel à candidatures :</p>
+
+
+
+<ul><li>une quinzaine de projets se verra proposer un coup de pouce ou une investigation supplémentaire. L’objectif est de leur apporter une mise en relation, un conseil rapide ou une consolidation de leur projet de développement.</li><li>tous les candidats et candidates pourront participer à une série d’événements ouverts, thématisés par champ de politique publique et associant les acteurs publics concernés. Ces événements prendront la forme de speed-dating avec des acheteurs ou décideurs ministériels potentiels, de hackathons, d’ateliers et sessions de formation sur l’accessibilité, la sécurité, les ressources publiques disponibles…</li></ul>
+
+
+
+<p>Trois événements sont déjà prévus dans les mois à venir sur les principaux champs de politiques publiques couverts par les dossiers candidats : Santé &amp; Solidarités, Éducation Jeunesse &amp; Sports, Écologie Environnement.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Rejoignez la 2e promotion en fin d&rsquo;année</strong></h2>
+
+
+
+<p>Une deuxième promotion est prévue pour la fin de l&rsquo;année 2022. Si vous portez une initiative d’intérêt général et souhaitez bénéficier de l’accompagnement de l’administration, suivez-nous <a href="https://twitter.com/etalab">sur Twitter</a> et <a href="https://app.evalandgo.com/s/index.php?id=JTk5ayU5N28lOUElQUM%3D&amp;a=JTk3cCU5M2glOTklQUU%3D">inscrivez-vous pour être informés de l&rsquo;actualité</a> de l&rsquo;Accélérateur !</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Ressources</strong></h2>
+
+
+
+<ul><li>Les données en open data de l&rsquo;appel à candidatures sur data.gouv.fr : <a href="https://www.data.gouv.fr/fr/datasets/dossiers-de-candidature-a-laccelerateur-dinitiatives-citoyennes-promotion-1-1/">https://www.data.gouv.fr/fr/datasets/dossiers-de-candidature-a-laccelerateur-dinitiatives-citoyennes-promotion-1-1/</a></li></ul>
+
+
+
+<ul><li>La vidéo de la cérémonie d&rsquo;annonce des lauréats  :</li></ul>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="fr" dir="ltr">Pour un service public augmenté : présentation de la première promotion de l&#39;accélérateur d&#39;initiatives citoyennes  <a href="https://t.co/C7nDoGJfwv">https://t.co/C7nDoGJfwv</a></p>&mdash; Amélie de Montchalin (@AdeMontchalin) <a href="https://twitter.com/AdeMontchalin/status/1503395083802095622?ref_src=twsrc%5Etfw">March 14, 2022</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>L’engagement  des ministères sur l’ouverture des codes sources et l’utilisation de  logiciels libres : retour sur les feuilles de route publiées en  septembre 2021</title>
+		<link>/lengagement-des-ministeres-sur-louverture-des-codes-sources-et-lutilisation-de-logiciels-libres-retour-sur-les-feuilles-de-route-publiees-en-septembre-2021</link>
+		
+		<dc:creator><![CDATA[Agathe Bouché]]></dc:creator>
+		<pubDate>Thu, 31 Mar 2022 09:41:42 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">/?p=16564</guid>
+
+					<description><![CDATA[Le 27 septembre dernier, 14 ministères ont publié leurs feuilles de route sur la politique de la donnée, des algorithmes et des codes sources. Depuis le lancement du plan d’action logiciels libres et communs numériques par la ministre de la Transformation et de la Fonction publiques en novembre 2021, plusieurs ministères ont réaffirmé, lors du &#8230;<p class="read-more"> <a class="" href="/lengagement-des-ministeres-sur-louverture-des-codes-sources-et-lutilisation-de-logiciels-libres-retour-sur-les-feuilles-de-route-publiees-en-septembre-2021"> <span class="screen-reader-text">L’engagement  des ministères sur l’ouverture des codes sources et l’utilisation de  logiciels libres : retour sur les feuilles de route publiées en  septembre 2021</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Le 27 septembre dernier, 14 ministères ont <a href="https://www.data.gouv.fr/fr/datasets/feuilles-de-route-ministerielles-sur-la-politique-de-la-donnee-des-algorithmes-et-des-codes-sources/" target="_blank" rel="noreferrer noopener">publié</a> leurs feuilles de route sur la politique de la donnée, des algorithmes et des codes sources.</p>
+
+
+
+<p>Depuis le lancement du <a href="https://communs.numerique.gouv.fr/plan-action-logiciels-libres-et-communs-numeriques/" target="_blank" rel="noreferrer noopener" class="broken_link">plan d’action logiciels libres et communs numériques</a> par la ministre de la Transformation et de la Fonction publiques en novembre 2021, plusieurs ministères ont réaffirmé, lors du Conseil Interministériel des Administrateurs de Données du 7 décembre, leur volonté d’agir pour l’ouverture des codes sources et l’utilisation de logiciels libres.</p>
+
+
+
+<p><em>Voici un retour sur quelques engagements importants portés par ces feuilles de route ministérielles.</em></p>
+
+
+
+<h2 class="wp-block-heading">Des politiques d’ouverture des codes sources renforcées</h2>
+
+
+
+<p>Le ministère de la Cohésion des Territoires et des Relations avec les Collectivités Territoriales (cf. <a href="https://www.data.gouv.fr/fr/datasets/r/ff2c204d-4a92-417c-be2a-12e8d4c2b2a6" target="_blank" rel="noreferrer noopener">la feuille de route MCTRCT</a>) indique promouvoir les logiciels libres et l’ouverture des données en systématisant la publication des nouveaux codes sources (p. 15). L’incubateur des Territoires est en outre directement impliqué dans cet engagement en tant que porteur de projets numériques. Le ministère s’engage également à réaliser une cartographie de ses codes sources (p. 22).</p>
+
+
+
+<p>Du côté du ministère des Solidarités et de la Santé (cf. <a href="https://www.data.gouv.fr/fr/datasets/r/b02f6070-2473-4873-8dc3-c3da71d6a0be" target="_blank" rel="noreferrer noopener">la feuille de route MSS</a>), des décisions à fort impact sont prises en faveur de l’ouverture des codes sources. Parmi celles-ci figure la formalisation d’un « plan d’ouverture » collectif incluant tous les acteurs de la sphère Solidarités-Santé (p. 11). Ce plan permettra au ministère de répertorier « l’ensemble des dépôts de codes sources publics ouverts par l’ensemble des acteurs du ministère pour les faire remonter vers la plateforme <a href="http://code.gouv.fr/" target="_blank" rel="noreferrer noopener">code.gouv.fr</a> ». Il permettra aussi d’« accompagner dans le choix ou la mise en place d’une plateforme dédiée à l’ouverture […] les acteurs qui n’en seraient pas munis » (p. 26). Ces actions seront rendues visibles à travers le déploiement d’un plan de communication externe, visant aussi bien la sphère web Solidarités-Santé, que les médias et les réseaux sociaux (p. 12).</p>
+
+
+
+<p>Quant au ministère de la Transition Écologique (cf. <a rel="noreferrer noopener" href="https://www.data.gouv.fr/fr/datasets/r/25f0f375-df81-4cc5-8eae-c277a729923f" target="_blank">la feuille de route MTE</a>), le partage des codes sources et algorithmes présentant un « intérêt général en terme de connaissance et de transparence de l’action publique » sera généralisé (p. 17). Le ministère de l’Agriculture et de l’Alimentation (cf. <a rel="noreferrer noopener" href="https://www.data.gouv.fr/fr/datasets/r/953b4f68-63fa-45fd-b1f6-ab868203e7f0" target="_blank">la feuille de route MAA</a>) s’engage dans une direction similaire en se penchant sur l’identification des codes sources à publier et en mettant en place un système de veille pour l’ensemble des nouveaux traitements dans ce domaine (p. 19). Il en est de même pour le ministère de l’Intérieur (cf. <a rel="noreferrer noopener" href="https://www.data.gouv.fr/fr/datasets/r/7cd10fc7-11c2-4485-996c-d718c184efcf" target="_blank">la feuille de route MI</a>) qui se charge de réaliser un inventaire des codes sources à ouvrir en priorité (p. 28) et à « [publier] des algorithmes répondant aux critères d’ouverture sur le site d’Etalab et sur les espaces open source » (p. 31).</p>
+
+
+
+<p>Le ministère de la Justice (cf. <a rel="noreferrer noopener" href="https://www.data.gouv.fr/fr/datasets/r/81d2c866-c2ba-4204-9f2c-a6da16423248" target="_blank">la feuille de route MJ</a>) met quant à lui activement en place une stratégie d’ouverture des codes sources (p. 18). Du côté du ministère de l’Économie, des Finances et de la Relance (cf. <a rel="noreferrer noopener" href="https://www.data.gouv.fr/fr/datasets/r/561b8f8f-9fe1-4d2e-8dbf-c4212b7f7d7f" target="_blank">la feuille de route MEFR</a>), l’objectif est de rassembler autour d’une politique d’ouverture en se concentrant sur l’animation d’une communauté des données ouvertes et des codes sources (p. 20).</p>
+
+
+
+<p>L’ouverture, la préservation et le partage des codes sources sont aussi des priorités pour le ministère de l’Enseignement Supérieur, de la Recherche et de l’Innovation (cf. <a href="https://www.data.gouv.fr/fr/datasets/r/be61f13d-06d6-40ea-87dd-df7b2918f2e2" target="_blank" rel="noreferrer noopener">la feuille de route MESRI</a>). Ce dernier souhaite accroître et valoriser les ressources libres de l’enseignement supérieur (p. 13) ainsi que suivre l’ouverture des données et des codes de la recherche via le baromètre de la science ouverte (p. 15).</p>
+
+
+
+<p>Pour finir, le ministère de la Transformation et de la Fonction publiques (cf. <a rel="noreferrer noopener" href="https://www.data.gouv.fr/fr/datasets/r/03b43dc4-b92f-4d40-9b7e-598dcd61c420" target="_blank">la feuille de route MTFP</a>) poursuit quant à lui le déploiement quotidien de la plateforme <a rel="noreferrer noopener" href="http://code.gouv.fr/" target="_blank">code.gouv.fr</a> (p. 34) et s’engage parallèlement à ouvrir l’ensemble des codes sources de son périmètre ministériel (p. 34). Dans ce périmètre, et dans l’optique de piloter le plan d’action logiciels libres et de suivre l’avancement des engagements ministériels, les Services du Premier ministre (cf. <a rel="noreferrer noopener" href="https://www.data.gouv.fr/fr/datasets/r/a1ce2c8e-54c4-4e24-aaaf-8f3b7620cf34" target="_blank">la feuille de route SPM</a>) se chargent de dresser un état des lieux des codes sources et de leur publication ainsi que d’organiser et systématiser leur référencement sur <a rel="noreferrer noopener" href="http://code.gouv.fr/" target="_blank">code.gouv.fr</a> (pp. 7-8).</p>
+
+
+
+<h2 class="wp-block-heading">Les logiciels libres au coeur des politiques ministérielles</h2>
+
+
+
+<p>La mise en place du plan d’action s’inscrit dans les engagements ministériels et participe au renforcement de leur utilisation des logiciels libres au sein de chaque structure.</p>
+
+
+
+<p>Le ministère de la Culture (cf. <a href="https://www.data.gouv.fr/fr/datasets/r/2332ad66-0344-4325-ba71-e65517318e22" target="_blank" rel="noreferrer noopener">la feuille de route MC</a>) s’affirme comme acteur du développement de logiciels libres à travers le programme VITAM, destiné à « construire une offre de service complète, libre et ouverte à un large ensemble de partenaires institutionnels et privés en matière d’archivage numérique » (p. 22). Sa politique ministérielle s’engage aussi à favoriser l’utilisation des logiciels libres, y compris au niveau de ses opérateurs (p. 22). Le ministère insiste sur l’importance pour les communautés intéressées par la production et l’exploitation des données culturelles de se rassembler autour d’ateliers, de journées de rencontre, de conférences, de webinaires… et les invite notamment à rejoindre la communauté BlueHats. La DINUM a mis en ce sens à disposition <a href="https://man.sr.ht/~etalab/logiciels-libres/espaces-communication-bluehats.md" target="_blank" rel="noreferrer noopener" class="broken_link">toutes les informations nécessaires</a> sur les échanges avec d’autres agents publics libristes et la communauté BlueHats.</p>
+
+
+
+<p>Du côté du ministère de la Transition Écologique (cf. <a rel="noreferrer noopener" href="https://www.data.gouv.fr/fr/datasets/r/25f0f375-df81-4cc5-8eae-c277a729923f" target="_blank">la feuille de route MTE</a>), l’engagement pour l’utilisation des logiciels libres s’affirme via le renforcement de l’animation des plateformes régionales et des communautés de logiciels libres (pp. 23-24). Le ministère du Travail, de l’Emploi et de l’Insertion (cf. <a rel="noreferrer noopener" href="https://www.data.gouv.fr/fr/datasets/r/e9174d55-3ad6-4959-a40b-5818f829fd7f" target="_blank">la feuille de route MTEI</a>) soulève finalement la question du lien communautaire et affirme sa volonté d’être en lien permanant avec le réseau BlueHats en ce qui concerne sa politique sur les logiciels libres et le partage des bonnes pratiques de développement (p.14).</p>
+
+
+
+<p>Le ministère de l’Éducation nationale, de la Jeunesse et des Sports (cf. <a href="https://www.data.gouv.fr/fr/datasets/r/0b7e6089-9100-47ba-bc15-ea17013da4ed" target="_blank" rel="noreferrer noopener">la feuille de route MENJS</a>) souhaite se lancer dans la conception d’un « Open Source Program Office » visant à fournir et à mutualiser des solutions, des ressources et des services dans le secteur de l’éducation (p. 16).</p>
+
+
+
+<p>Le ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation (cf. <a href="https://www.data.gouv.fr/fr/datasets/r/be61f13d-06d6-40ea-87dd-df7b2918f2e2" target="_blank" rel="noreferrer noopener">la feuille de route MESRI</a>) poursuit également le déploiement d’une politique logiciels libres en encourageant leur production et leur usage, tel qu’Esup Portail (p.19), fortement utilisé au sein de la structure, et en accompagnant les agents publics producteurs de solutions. Le ministère demande également la prise en compte du socle interministériel de logiciels libres (SILL) dans la recherche de nouvelles solutions. L’utilisation de logiciels sous licence propriétaire devra être systématiquement justifée lorsqu’elle se fait au détriment de logiciels libres fonctionnellement comparables (p.18). Cette politique propose aussi la création d’un prix du logiciel libre de la recherche afin de « mettre en valeur et récompenser les équipes qui réalisent un travail exemplaire dans ce domaine et d’accroître la visibilité et la reconnaissance des logiciels comme contribution à la recherche » (p. 29).</p>
+
+
+
+<p>Les actions et les engagements listés dans ces feuilles de route montrent à la fois la diversité des enjeux et la variété des approches ministérielles, toutes contribuant à la réussite du <a href="https://communs.numerique.gouv.fr/plan-action-logiciels-libres-et-communs-numeriques/" target="_blank" rel="noreferrer noopener" class="broken_link">plan d’action logiciels libres et communs numériques</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>L’État recherche des profils du numérique : rejoignez les Entrepreneurs d’intérêt général</title>
+		<link>/letat-recherche-des-profils-du-numerique-rejoignez-les-entrepreneurs-dinteret-general</link>
+		
+		<dc:creator><![CDATA[Corine Waroquiers]]></dc:creator>
+		<pubDate>Mon, 07 Mar 2022 12:47:31 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">/?p=16523</guid>
+
+					<description><![CDATA[Entrepreneurs d’intérêt général, programme d’Etalab à la direction interministérielle du numérique, ouvre son&#160;6ème&#160;appel à candidatures du 7&#160;mars au 19 avril 2022. Le programme recherche jusqu’à cinquante profils en data science, data engineering, développement, design et droit du numérique pour relever des défis d’intérêt général. Regroupé(e)s en équipes de 2 ou 3, vous concevrez des produits &#8230;<p class="read-more"> <a class="" href="/letat-recherche-des-profils-du-numerique-rejoignez-les-entrepreneurs-dinteret-general"> <span class="screen-reader-text">L’État recherche des profils du numérique : rejoignez les Entrepreneurs d’intérêt général</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Entrepreneurs d’intérêt général, programme d’Etalab à la direction interministérielle du numérique, ouvre son&nbsp;<strong>6</strong><strong><sup>ème</sup></strong><strong>&nbsp;appel à candidatures du 7</strong><strong>&nbsp;mars au 19 avril </strong><strong>2022</strong>.</p>
+
+
+
+<p><strong>Le programme recherche jusqu’à cinquante profils en data science, data engineering, développement, design et droit du numérique pour relever des défis d’intérêt général.</strong> Regroupé(e)s en équipes de 2 ou 3, vous concevrez des produits numériques pendant 10 mois en immersion dans une administration, à partir du 12 septembre 2022.</p>
+
+
+
+<p>Si vous croyez dans le service public, que vous voulez relever des défis en première ligne avec les équipes métier de l’État, tout en diffusant des approches plus entrepreneuriales et innovantes, cet appel à candidatures est pour vous&nbsp;!</p>
+
+
+
+<p><strong><em>Accéder à l’appel à candidatures <a href="https://eig.etalab.gouv.fr/participer/candidats/postuler/" target="_blank" rel="noreferrer noopener">sur le site Entrepreneurs d’intérêt général</a></em></strong></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Devenir Entrepreneur d’intérêt général, ça veut dire quoi&nbsp;?</strong></h2>
+
+
+
+<p>Devenir Entrepreneur d’intérêt général – ou EIG – c’est vivre une expérience dans des&nbsp;<strong>communautés aux cultures diverses</strong>, toutes reliées par leur engagement pour l’action publique. Vous allez :</p>
+
+
+
+<ol type="1"><li>Intégrer une&nbsp;<strong>administration</strong>&nbsp;pour 10 mois et bénéficier du soutien d’agents publics porteurs du projet</li><li>Faire&nbsp;<strong>équipe</strong>&nbsp;avec un ou deux autres profils du numérique</li><li>Rejoindre une&nbsp;<strong>promotion</strong>&nbsp;d’une cinquantaine d’EIG et 172&nbsp;<em>alumni</em>&nbsp;</li><li>Participer à un&nbsp;<strong>programme</strong>&nbsp;d’appui à l’innovation : les EIG de la promotion se retrouvent pour des sessions régulières de partage entre pairs et bénéficient de l’appui d’une équipe d’accompagnement à Etalab (mentorat, séminaires, ateliers-conférences, expéditions apprenantes, etc.)</li></ol>
+
+
+
+<p><strong>Les EIG deviennent contractuel(le)s de l’administration, et sont rémunéré(e)s 3.500 euros ou 4.000 euros net par mois </strong>pour les profils ayant respectivement jusqu’à 5 années ou plus de 5 années&nbsp;d’expérience.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Quels sont les profils recherchés&nbsp;?</strong></h2>
+
+
+
+<p>Nous recherchons des personnes qui veulent transmettre une culture entrepreneuriale à l’administration tout en s’engageant dans une démarche d’innovation ouverte, de partage des communs (ouverture des données et des codes-sources, mutualisation et réplication des productions) et de numérique éco-responsable et accessible.</p>
+
+
+
+<p>Les métiers recherchés sont&nbsp;:</p>
+
+
+
+<ul><li>Ingénieur(e)s de la donnée (data engineers)</li><li>Ingénieur(e)s des sciences de la donnée (data scientists)</li><li>Développeurs et développeuses</li><li>Designers</li><li>Juristes du numérique</li></ul>
+
+
+
+<p>Fort du succès de l’année passée, <strong>le programme renouvelle l’ouverture de son appel à candidatures aux profils juridiques</strong>. De la même manière que les profils techniques font bouger les lignes des directions du numérique, les profils juridiques apportent une expertise déterminante sur des sujets d’open source, d’open data, de circulation des données et de protection des données personnelles.</p>
+
+
+
+<p><strong>Pour cette sixième promotion, le programme EIG poursuit ses efforts pour un recrutement toujours plus divers et inclusif.</strong> Une attention particulière est portée aux personnes issues de formations et/ou de trajectoires professionnelles variées, incitant par exemple des talents autodidactes ou issus d’une reconversion à candidater. Avec l’appui de l’agence spécialisée MozaïkRH, nous avons redéfini les critères de sélection pour qu’ils reflètent mieux les qualités attendues et simplifié le parcours de candidature.</p>
+
+
+
+<p><strong>L’ensemble des candidates et candidats au programme seront sélectionnés sur des critères autant techniques qu’humains</strong> : nous recherchons des personnes compétentes dans leur domaine mais aussi capables de mener un projet de bout en bout, empathiques, aimant le travail en équipe pluridisciplinaire et avec une appétence pour l’intérêt général.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Pour mener quel type de projet ?</strong></h2>
+
+
+
+<p><strong>Les projets à mener dans les administrations seront dévoilés à partir du 9 mai</strong>. Si votre candidature est présélectionnée pour le programme, vous pourrez alors indiquer les projets sur lesquels vous souhaitez vous positionner, dans la limite de cinq. Si votre préférence ne peut pas être satisfaite, il vous sera proposé une audition pour un autre projet.</p>
+
+
+
+<p><strong>Les projets, en cours de sélection, seront à mener dans une diversité d’administrations, sur l’ensemble du territoire français</strong>. Les années passées, les EIG sont intervenus aussi bien dans les ministères de la Justice, de la Culture et de l’Intérieur, qu’à la Haute Autorité de Santé, le Museum d’Histoire Naturelle, le Commissariat général au développement durable, etc.&nbsp;</p>
+
+
+
+<p>Un dénominateur commun à tous ces projets&nbsp;: ils sont formulés à partir d’un besoin clair, présentant un fort impact pour une politique ou un service public. À partir de ce besoin, et pendant 10 mois, les EIG créent et testent de nouveaux possibles au sein de leur administration d’accueil.</p>
+
+
+
+<p>Au terme d’une démarche empirique et incrémentale, les réalisations peuvent être très diverses, par exemple&nbsp;:</p>
+
+
+
+<ul><li><strong>À la DIRECCTE (</strong>Directions Régionales des Entreprises, de la Concurrence, de la Consommation, du Travail et de l’Emploi)<strong>&nbsp;de Bourgogne-Franche-Comté</strong>, un data scientist et un développeur avaient pour mission en 2018 de détecter les entreprises fragilisées pour mieux les accompagner.&nbsp;<strong>Leur réalisation&nbsp;: un logiciel de détection des entreprises à risque de défaillance</strong>, s’appuyant sur un module de chargement de données (cotisations sociales, données d’emploi, données financières), un algorithme de machine learning et une interface graphique. Ce logiciel est utilisé par les commissaires aux restructurations et à la prévention des difficultés dans les entreprises pour accompagner les entreprises détectées avant qu’il ne soit trop tard.&nbsp;Depuis,&nbsp;<a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/signaux-faibles-de-lopen-data-camp-a-une-politique-publique-fondee-sur-la-donnee-recit-dun-passage-a-lechelle-reussi" target="_blank">le projet Signaux Faibles&nbsp;est déployé à l’échelle nationale</a>. Le data scientist, Pierre Camilleri, et le développeur, Christophe Ninucci, font toujours partie de l’équipe.</li><li><strong>Au Mobilier National</strong>, une designer et un développeur avaient pour mission en 2018 de créer un outil pour révéler les objets et savoir-faire du Mobilier National, qui contient tout le patrimoine mobilier de l’Etat.&nbsp;<strong>Leur réalisation&nbsp;:&nbsp;</strong><a href="https://collection.mobiliernational.culture.gouv.fr/recherche" target="_blank" rel="noreferrer noopener"><strong>un site</strong></a><strong>&nbsp;et un outil de recherche dans les collections.</strong>&nbsp;A l’issue des 10 mois, 70 000 objets étaient en ligne, dont 36 000 photos d’objets et 15000 photos téléchargeables et réutilisables. Le code de l’outil est accessible et peut être réutilisé par d’autres institutions culturelles afin de diffuser plus facilement leurs collections. L’équipe EIG a également organisé&nbsp;des ateliers en partenariat avec Wikimédia France&nbsp;pour publier des photos des ateliers du Mobilier sous licence libre et enrichir les articles de Wikipédia. La designer, Laurie Chapotte, et le développeur Ned Baldessin poursuivent ce projet dans l’Atelier du Numérique du ministère de la Culture.</li></ul>
+
+
+
+<p><strong><em>En attendant de découvrir les projets dévoilés en avril, explorez les projets des années passées et les parcours des anciennes et anciens EIG&nbsp;</em></strong><a href="https://eig.etalab.gouv.fr/defis/" target="_blank" rel="noreferrer noopener"><strong><em>sur le site Entrepreneurs d’intérêt général</em></strong></a></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Comment rejoindre notre 6</strong><strong>ème</strong><strong>&nbsp;promotion ?</strong></h2>
+
+
+
+<p>Le processus de sélection se fait en trois étapes&nbsp;:</p>
+
+
+
+<ul><li><strong>7&nbsp;mars au 19 avril </strong>: soumettez votre candidature</li><li><strong>9 mai</strong>&nbsp;<strong>au 15 mai</strong> : les projets à mener dans l’administration sont révélés le 9 mai <a rel="noreferrer noopener" href="https://eig.etalab.gouv.fr/defis/" target="_blank">sur le site Entrepreneurs d’intérêt général</a>. Si votre candidature est présélectionnée, vous indiquez jusqu’au 15 mai les projets sur lesquels vous souhaitez vous positionner, dans la limite de cinq. Si votre préférence ne peut pas être satisfaite, il vous sera proposé une audition pour un autre projet.</li><li><strong>7 juin au 13 juin</strong>&nbsp;: vous passez un entretien de sélection en présence d’un jury composé d’agents publics, de membres de la DINUM et de personnalités extérieures issues des mondes associatif, de la recherche et de l’entrepreneuriat.</li></ul>
+
+
+
+<p>Les lauréates et lauréats rejoignent la 6ème promotion du programme Entrepreneurs d’intérêt général et démarrent leurs projets dans les administrations le 12 septembre 2022, et ce jusqu’au 11 juillet 2023.</p>
+
+
+
+<p><strong>Vous voulez candidater ? <a href="https://eig.etalab.gouv.fr/participer/candidats/postuler/">Postulez jusqu’au 19 avril</a> !</strong></p>
+
+
+
+<p><strong>Pour en savoir plus,&nbsp; participez à nos webinaires de présentation de l’appel à candidatures :</strong></p>
+
+
+
+<p>–&nbsp;<a href="https://webinaire.numerique.gouv.fr/meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e" target="_blank" rel="noreferrer noopener">jeudi 17 mars, de 13h45 à 14h45</a>, sur les métiers du développement et de la donnée</p>
+
+
+
+<p>–&nbsp;<a href="https://webinaire.numerique.gouv.fr/meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e" target="_blank" rel="noreferrer noopener">jeudi 24 mars, de 13h45 à 14h45</a>, sur les métiers du design et du droit du numérique</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Partenariat pour un gouvernement ouvert : quels engagements autour des logiciels libres ?</title>
+		<link>/partenariat-pour-un-gouvernement-ouvert-quels-engagements-autour-des-logiciels-libres</link>
+		
+		<dc:creator><![CDATA[Agathe Bouché]]></dc:creator>
+		<pubDate>Thu, 03 Feb 2022 08:31:28 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=16402</guid>
+
+					<description><![CDATA[Le 17 décembre 2021, la ministre de la transformation et de la fonction publiques, Amélie de Montchalin, a présenté le 3ème plan d’action national du Partenariat pour un gouvernement ouvert. Le gouvernement s’est positionné autour de 6 engagements : la priorité est donnée à l’ouverture, à la transparence et à l’inclusivité des futures politiques publiques, &#8230;<p class="read-more"> <a class="" href="/partenariat-pour-un-gouvernement-ouvert-quels-engagements-autour-des-logiciels-libres"> <span class="screen-reader-text">Partenariat pour un gouvernement ouvert : quels engagements autour des logiciels libres ?</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Le 17 décembre 2021, la ministre de la transformation et de la fonction publiques, Amélie de Montchalin, a présenté le 3ème plan d’action national du Partenariat pour un gouvernement ouvert.</p>
+
+
+
+<p>Le gouvernement s’est positionné autour de <strong>6 engagements</strong> : la priorité est donnée à l’ouverture, à la transparence et à l’inclusivité des futures politiques publiques, à la réponse aux crises sanitaire et écologique ainsi qu&rsquo;à l&rsquo;ouverture vers l’Europe et l’international.</p>
+
+
+
+<p>Le pôle logiciels libres souligne pour vous quelques engagements relatifs à l’ouverture des codes sources et à la place des logiciels libres et des communs numériques au sein des administrations.</p>
+
+
+
+<h4 class="wp-block-heading" id="une-politique-europeenne-pour-les-communs-numeriques"><strong>Une politique européenne pour les communs numériques</strong></h4>
+
+
+
+<p>Dans une perspective de mutualisation des ressources et des moyens à l&rsquo;échelle européenne, le <strong>Ministère de l&rsquo;Europe et des Affaires étrangères</strong> s’engage à <strong>déployer une politique européenne de soutien aux communs numériques durant la Présidence française de l’Union européenne</strong> (cf. <a rel="noreferrer noopener" href="https://www.modernisation.gouv.fr/files/2021-12/Liasse%20des%20engagements%203e%20plan%20d%27action%20national%20Partenariat%20pour%20un%20gouvernement%20ouvert_0.pdf" target="_blank">Liasse des engagements</a>, p.6). L’objectif est de donner « la possibilité aux utilisateurs de préférer aux grands fournisseurs de services en ligne des solutions collaboratives et dont ils assureront la gouvernance ». Cette valorisation sera une priorité pour 2022 et le MEAE espère qu&rsquo;un budget de plusieurs millions d’euros pourra être consacré au développement de communs numériques européens.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>« L’Internet doit être libre, ouvert, unique et sûr pour permettre l’émancipation des utilisateurs et la concurrence saine nécessaire au développement économique de tous les acteurs. »</p><cite>MEAE, <a href="https://www.modernisation.gouv.fr/files/2021-12/Liasse%20des%20engagements%203e%20plan%20d%27action%20national%20Partenariat%20pour%20un%20gouvernement%20ouvert_0.pdf" data-type="URL" data-id="https://www.modernisation.gouv.fr/files/2021-12/Liasse%20des%20engagements%203e%20plan%20d%27action%20national%20Partenariat%20pour%20un%20gouvernement%20ouvert_0.pdf">Liasse des engagements</a>, p.6.</cite></blockquote>
+
+
+
+<p>Dans le prolongement de cet engagement, le MEAE a affirmé sa volonté de poursuivre l’amélioration continue <strong>du logiciel libre Open Terms Archive</strong> (cf. <a rel="noreferrer noopener" href="https://www.modernisation.gouv.fr/files/2021-12/Liasse%20des%20engagements%203e%20plan%20d%27action%20national%20Partenariat%20pour%20un%20gouvernement%20ouvert_0.pdf" target="_blank">Liasse des engagements</a>, p.10), projet initié en septembre 2020 et a fait l&rsquo;objet d&rsquo;un <a href="https://communs.numerique.gouv.fr/ateliers/open-terms-archive/" class="broken_link">atelier BlueHats</a>. Ce commun numérique est un outil libre et ouvert de suivi et d’archivage des évolutions des conditions générales d&rsquo;utilisation des grands fournisseurs de services en ligne.</p>
+
+
+
+<h4 class="wp-block-heading" id="les-logiciels-libres-pour-la-science-ouverte"><strong>Les logiciels libres pour la science ouverte</strong></h4>
+
+
+
+<p>Le <strong>Ministère de l&rsquo;Enseignement supérieur, de la Recherche et de l&rsquo;Innovation</strong> s’engage dans une politique d’ouverture en s’impliquant pour <strong>un enseignement supérieur plus transparent et une science plus ouverte</strong> (cf. <a rel="noreferrer noopener" href="https://www.modernisation.gouv.fr/files/2021-12/Liasse%20des%20engagements%203e%20plan%20d%27action%20national%20Partenariat%20pour%20un%20gouvernement%20ouvert_0.pdf" target="_blank">Liasse des engagements</a>, cf. p.146). Cette mesure se traduit notamment par la mise en place d’une <strong>politique spécifique aux logiciels libres au sein du MESRI et de l‘ESRI</strong> dès 2022.</p>
+
+
+
+<h4 class="wp-block-heading" id="code-gouv-fr-un-service-clef-pour-l-ouverture-des-codes-sources"><strong>code.gouv.fr : un service clef pour l&rsquo;ouverture des codes sources</strong></h4>
+
+
+
+<p>La<strong> Direction interministérielle du numérique</strong> et le <strong>Ministère de la Transformation et de la Fonction publiques</strong> annoncent des engagements forts pour l’ouverture des codes sources du secteur public et l’utilisation de logiciels libres dans les administrations.</p>
+
+
+
+<p>Le premier concerne par <strong>la mise en oeuvre de la plateforme <a rel="noreferrer noopener" href="http://code.gouv.fr/" target="_blank">code.gouv.fr</a></strong> (cf. <a rel="noreferrer noopener" href="https://www.modernisation.gouv.fr/files/2021-12/Liasse%20des%20engagements%203e%20plan%20d%27action%20national%20Partenariat%20pour%20un%20gouvernement%20ouvert_0.pdf" target="_blank">Liasse des engagements</a>, p.166). Inaugurée en novembre 2021, elle permet d’identifier et de suivre les codes sources publiés par les administrations et vise à favoriser l’apport de contributions extérieures.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>« Code.gouv.fr renforce la transparence de l&rsquo;information, permet à la société civile de plus facilement cibler des codes sources auxquels elle veut contribuer et engage l&rsquo;administration sur la qualité des codes sources qu&rsquo;elle publie et utilise dans ses services. »</p><cite>MTFP, <a href="https://www.modernisation.gouv.fr/files/2021-12/Liasse%20des%20engagements%203e%20plan%20d%27action%20national%20Partenariat%20pour%20un%20gouvernement%20ouvert_0.pdf" data-type="URL" data-id="https://www.modernisation.gouv.fr/files/2021-12/Liasse%20des%20engagements%203e%20plan%20d%27action%20national%20Partenariat%20pour%20un%20gouvernement%20ouvert_0.pdf">Liasse des engagements</a>, p.166</cite></blockquote>
+
+
+
+<p>La DINUM s&rsquo;est aussi engagée à <strong>favoriser l’appropriation des résultats de l’action publique par les citoyens</strong> (cf. <a rel="noreferrer noopener" href="https://www.modernisation.gouv.fr/files/2021-12/Liasse%20des%20engagements%203e%20plan%20d%27action%20national%20Partenariat%20pour%20un%20gouvernement%20ouvert_0.pdf" target="_blank">Liasse des engagements</a>, p.158) en poursuivant le déploiement d’un baromètre spécifique, agissant comme instrument de transparence. Publié en janvier 2021 et actualisé trimestriellement, ce baromètre a pour objectif de montrer l’avancée concrète des réformes prioritaires du gouvernement et de permettre « une meilleure compréhension, lisibilité et transparence de l’action publique ». Dans le cadre de son développement est prévue la création d’un commun numérique, libre et réutilisable.</p>
+
+
+
+<p></p>
+
+
+
+<p>Enfin, la DINUM s’engage à <strong>s’appuyer sur le logiciel libre pour renforcer l’attractivité de l’État-employeur auprès des talents du numérique avec l’organisation des ateliers BlueHats</strong> mis en place depuis 2019 (cf. <a rel="noreferrer noopener" href="https://www.modernisation.gouv.fr/files/2021-12/Liasse%20des%20engagements%203e%20plan%20d%27action%20national%20Partenariat%20pour%20un%20gouvernement%20ouvert_0.pdf" target="_blank">Liasse des engagements</a>, p.164). Il s’agit d’ateliers techniques auxquels peuvent participer tous les agents publics souhaitant partager leur expertise et expérience sur les logiciels libres. L’objectif est de donner une visibilité sur les actions menées par les administrations autour des logiciels libres et d’amplifier leur impact sur les structures publiques et la société civile.</p>
+
+
+
+<p>Les engagements ministériels dans le cadre du Partenariat pour un gouvernement ouvert montrent les ambitions de la France sur les sujets de la souveraineté et de l&rsquo;utilisation d&rsquo;outils transparents et efficaces pour répondre aux besoins spécifiques des administrations et des citoyens. Ces actions rassemblent l&rsquo;ensemble de l&rsquo;écosystème et s&rsquo;ouvrent progressivement aux pays européens dans une vision de mutualisation des ressources numériques.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Retour sur l’Open Data Maturity Index 2021 : Qualité des données ouvertes (4/4)</title>
+		<link>/retour-sur-lopen-data-maturity-index-2021-qualite-des-donnees-ouvertes-4-4</link>
+		
+		<dc:creator><![CDATA[Antonin Garrone]]></dc:creator>
+		<pubDate>Wed, 26 Jan 2022 09:43:18 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=16473</guid>
+
+					<description><![CDATA[En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&#160;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne. L’Open Data Maturity Report&#160;2021 évalue les progrès réalisés par les pays européens selon quatre &#8230;<p class="read-more"> <a class="" href="/retour-sur-lopen-data-maturity-index-2021-qualite-des-donnees-ouvertes-4-4"> <span class="screen-reader-text">Retour sur l’Open Data Maturity Index 2021 : Qualité des données ouvertes (4/4)</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&nbsp;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne.</p>
+
+
+
+<p>L’Open Data Maturity Report&nbsp;2021 évalue les progrès réalisés par les pays européens selon quatre critères&nbsp;:</p>
+
+
+
+<ul><li>maturité des politiques publiques relatives à l’ouverture (<em>Policy</em>) ;</li><li>qualité de la mesure de l’impact de l’open data (<em>Impact</em>) ;</li><li>maturité du portail national d’open data (<em>Portal</em>) ;</li><li>qualité des données ouvertes (<em>Quality</em>).</li></ul>
+
+
+
+<p>Ce rapport constate les résultats du travail accompli par Etalab et l’ensemble de la communauté open data et de mesurer le chemin qu’il reste à parcourir. Pour comprendre quels sont nos points forts et nos points faibles et identifier nos axes d’amélioration, nous proposons une série d’articles portant chacun sur une des dimensions évaluées par le rapport.</p>
+
+
+
+<p>Il ne s’agit pas d’être exhaustif, mais de partager certains des aspects souvent salués en France et les axes d’améliorations les plus souvent évoqués.</p>
+
+
+
+<p>Pour finir cette série d’articles, nous nous concentrons aujourd’hui sur la dimension <em>Quality</em> du rapport.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Que cherche-t-on à mesurer ?</strong></h1>
+
+
+
+<p>Cette dimension se concentre sur la qualité des données ouvertes&nbsp;: utilisation de formats de données ouverts, lisibles par machine, de haute qualité et adaptés à une approche de données liées (linked-data). Elle vise également à évaluer les mesures adoptées par les gestionnaires de portails pour assurer la collecte systématique des métadonnées à partir des autres portails de données ouvertes et situées dans tout le pays, ainsi que la conformité avec la norme de métadonnées DCAT-AP.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Les bonnes pratiques françaises</strong></h1>
+
+
+
+<h3 class="wp-block-heading"><strong>Accompagner les producteurs dans la publication de données de qualité</strong></h3>
+
+
+
+<p>Etalab est présent sur l’ensemble des étapes du cycle de vie de la donnée de qualité pour accompagner les producteurs de données.</p>
+
+
+
+<p>D’un côté Etalab participe à l’accélération de la création et de l’usage de schémas de données et les valoriser à travers l’outil <a href="http://schema.data.gouv.fr/">schema.data.gouv.fr</a> car la création d’un jeu de données conforme à un schéma de données facilite l’interopérabilité, le croisement et l’agrégation des données.</p>
+
+
+
+<p>De la même manière, afin de <strong>favoriser l’émergence de nouvelles données obéissant à un schéma, nous avons mis a disposition un nouvel outil &nbsp;: <a href="https://publier.etalab.studio/">publier. etalab. studio</a> qui</strong> a pour ambition d’<strong>accompagner un producteur de données sur la saisie, la validation et la publication de ses données</strong>.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Une licence commune</strong></h3>
+
+
+
+<p>La France dispose d’une <a href="https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf">licence ouverte</a> élaborée pour permettre aux réutilisateurs de comprendre plus facilement leurs droits et obligations. Face à la profusion de licences, dont le contenu était parfois très hétérogène et pouvait nuire au croisement des jeux de données, la <a href="https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&amp;type=general&amp;legislature=14">loi pour une République numérique</a> limite le choix des <a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044403448/">licences auxquelles les administrations peuvent recourir</a>.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Les axes d’améliorations</strong></h1>
+
+
+
+<h3 class="wp-block-heading"><strong>L’amélioration de la qualité générale des données</strong></h3>
+
+
+
+<p>La qualité des données ouvertes que ce soit au niveau des formats, de la documentation, de la structure et du contenu des fichiers peut encore largement progresser. Le <strong>respect de standards,&nbsp;<a href="https://guides.etalab.gouv.fr/qualite/lier-les-donnees-a-un-referentiel/#exemples-de-referentiels">référentiels</a>&nbsp;et&nbsp;<a href="https://guides.etalab.gouv.fr/producteurs-schemas/">schémas</a></strong>&nbsp;déjà établis ainsi que la <strong>présence de données et&nbsp;<a href="https://guides.etalab.gouv.fr/qualite/lier-les-donnees-a-un-referentiel/#exemples-de-referentiels">colonnes pivots</a></strong>&nbsp;pour lier les données à un référentiel doit devenir la norme sur la plateforme.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Création d’un label jeux de données de qualité</strong></h3>
+
+
+
+<p>Les jeux de données de qualité entraînent naturellement une plus grande réutilisation et de nouveaux usages. Il est par conséquent nécessaire de valoriser ces données afin de favoriser leur réutilisation et inciter les autres acteurs à produire des jeux de données de qualité. Dans cette perspective, Etalab développera un « label qualité » sur la plateforme <a href="http://data.gouv.fr/">data.gouv.fr</a> qui valorisera les jeux de données et producteurs vertueux.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>La comptabilité avec DCAT peut être améliorée</strong></h3>
+
+
+
+<p><a href="https://www.w3.org/TR/vocab-dcat/">DCAT</a> est un vocabulaire <a href="https://fr.wikipedia.org/wiki/Resource_Description_Framework">RDF</a> conçu pour faciliter l’interopérabilité entre les catalogues de données publiées sur le Web. Il s’agit de la norme mise en avant par la Commission européenne et qui est relativement peu utilisée en France. Les efforts de conformité entre <a href="https://github.com/opendatateam/udata">Udata</a>, la technologie derrière <a href="http://data.gouv.fr/">data.gouv.fr</a>, et DCAT doivent être poursuivis pour faciliter interopérabilité des données à l’échelle européenne.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2022/01/figure-39.png" alt="" class="wp-image-16475" width="839" height="551" srcset="/wp-content/uploads/2022/01/figure-39.png 775w, /wp-content/uploads/2022/01/figure-39-300x197.png 300w, /wp-content/uploads/2022/01/figure-39-768x504.png 768w" sizes="(max-width: 839px) 100vw, 839px" /></figure></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Agents publics : soumettez vos projets numériques aux Entrepreneurs d’intérêt général !</title>
+		<link>/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2</link>
+		
+		<dc:creator><![CDATA[Corine Waroquiers]]></dc:creator>
+		<pubDate>Mon, 24 Jan 2022 09:23:22 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=16449</guid>
+
+					<description><![CDATA[Entrepreneurs d’intérêt général (EIG), programme d’Etalab à la DINUM depuis 2016, lance son sixième appel à projets. Il est ouvert à toutes les administrations jusqu’au 18 mars 2022.&#160;Visitez le site du programme EIG pour postuler. &#160;«&#160;Il y a assurément un autre monde, mais il est dans celui-ci et, pour atteindre à sa pleine perfection, il &#8230;<p class="read-more"> <a class="" href="/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2"> <span class="screen-reader-text">Agents publics : soumettez vos projets numériques aux Entrepreneurs d’intérêt général !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Entrepreneurs d’intérêt général (EIG), programme d’Etalab à la DINUM depuis 2016, lance son sixième appel à projets. Il est ouvert à toutes les administrations jusqu’au 18 mars 2022.&nbsp;<a rel="noreferrer noopener" href="https://eig.etalab.gouv.fr/participer/" target="_blank">Visitez le site du programme EIG pour postuler</a></strong>.</p>
+
+
+
+<pre class="wp-block-verse has-text-align-right has-ast-global-color-1-color has-ast-global-color-4-background-color has-text-color has-background has-normal-font-size">&nbsp;«&nbsp;Il y a assurément un autre monde, mais il est dans celui-ci et, pour atteindre à sa pleine perfection, il faut qu’il soit bien reconnu et qu’on en fasse profession. L’homme doit chercher son état à venir dans le présent, et le ciel, non point au-dessus de la terre, mais en soi.&nbsp;»</pre>
+
+
+
+<p><strong>Cette citation, extraite d’un poème de Paul Eluard, nous invite à penser tout le potentiel de changement dans ce <em>monde autre</em> qui est là, en nous.</strong> «&nbsp;Changer le monde&nbsp;» ce n’est donc pas seulement <em>disrupter. </em>Ce n’est pas uniquement rompre avec la tradition, un ancrage culturel et un héritage par le développement de start-ups à forte croissance. Dans la santé, l’éducation ou encore la sécurité, des agents publics découvrent de nouvelles façons de faire et contribuent de ce fait à l’intérêt général. Ils façonnent cet <em>autre monde</em> au sein de l’administration avec de nouvelles pratiques et de nouvelles solutions techniques. C’est sans doute moins spectaculaire que la Silicon Valley mais c’est essentiel. C’est même déterminant pour la continuité des services publics dans des périodes aussi perturbées que celle que nous vivons actuellement avec la pandémie.</p>
+
+
+
+<p><strong>Le programme Entrepreneur d’Intérêt Général contribue, par sa méthodologie et ses ressources, à la possibilité de trouver cet&nbsp;<em>autre monde</em> au sein de votre administration.</strong> Pour y parvenir, nous sélections des projets numériques portés par des administrations pour améliorer l’action publique. Nous organisons aussi une rencontre entre ces administrations et d’autres profils, car comme vous le savez sans doute, Paul Eluard s’est allié avec de nombreux autres pour faire grandir sa création&nbsp;: des peintres comme Fernand Léger, des photographes comme Man Ray ou encore des écrivains comme André Breton.</p>
+
+
+
+<p>De la même manière,<strong> EIG permet aux administrations qui le souhaitent de s’allier avec des talents du numérique qui viennent offrir d’autres façons de voir, de penser, de travailler.</strong> Des développeurs.es, des expert.e.s de la donnée, des designers et des juristes du numérique sont recrutés pour rejoindre votre service durant 10 mois. Ils renforcent ainsi vos équipes et partagent leur culture numérique. C’est par ces collaborations, parfois improbables, qu’il devient possible de découvrir cet <em>autre monde</em>.</p>
+
+
+
+<h2 class="wp-block-heading" id="comment-fonctionne-le-programme"><strong>Comment fonctionne le programme&nbsp;?</strong></h2>
+
+
+
+<p>Le programme Entrepreneur d’intérêt général fonctionne par appels à projets, en 3 étapes : </p>
+
+
+
+<ul><li><strong>Vous candidatez&nbsp;:</strong>&nbsp;nous sélectionnons une vingtaine de projets numériques proposés par les administrations publiques (du 24 janvier&nbsp;au 18 mars) ;</li><li><strong>Nous réunissons une équipe&nbsp;:</strong>&nbsp;ensemble, nous sélectionnons 2 ou 3 profils tech, design et en droit du numérique pour votre projet (d’avril à juin) ;</li><li><strong>Vous expérimentez&nbsp;:</strong>&nbsp;créez et testez de nouveaux possibles avec vos profils du numérique et le soutien du programme (à partir du 12 septembre, pour 10 mois).</li></ul>
+
+
+
+<h2 class="wp-block-heading" id="quel-soutien-recoivent-les-administrations"><strong>Quel soutien reçoivent les administrations ?</strong></h2>
+
+
+
+<p>Rejoindre le programme Entrepreneur d’intérêt général, c’est recevoir un soutien pluriel&nbsp;:</p>
+
+
+
+<ul><li><strong>Pour votre recrutement&nbsp;:</strong>&nbsp;nous pilotons une procédure de recrutement accélérée, avec la sélection de profils aux compétences rares&nbsp;: développeurs et développeuses, expert et expertes de la donnée, designers et juristes du numérique.</li><li><strong>Pour votre financement</strong>&nbsp;: vos profils sont rémunérés 3.500 ou 4.000 euros net par mois, avec une possibilité de co-financement de 20.000 euros par profil recruté (le programme est ouvert à toute administration, mais des conditions spécifiques s’appliquent pour le cofinancement).</li><li><strong>Pour conduire l’innovation</strong>&nbsp;: vous recevez un appui technique et méthodologique du programme tout au long des dix mois (ateliers-conférences, expéditions apprenantes, mentorat individuel et collectif), avec la participation des experts d’Etalab et de la DINUM.</li></ul>
+
+
+
+<p>Au-delà de ce soutien,&nbsp;<strong>vous entrez dans une communauté de pratiques</strong>&nbsp;qui compte aujourd’hui 172 profils du numérique ayant mis en œuvre 87 projets. Cette communauté s’insère dans l’écosystème de la transformation publique et du numérique de la DINUM (Etalab : data.gouv, le Lab IA, open data, logiciels libres ; design.gouv ; beta.gouv.fr), de la Direction interministérielle de la transformation publique ainsi que nos partenaires hors de l’administration.</p>
+
+
+
+<p>Pour découvrir la richesse des projets menés depuis 2017, explorez&nbsp;<a href="https://eig.etalab.gouv.fr/img/quelques-chiffres-cl%C3%A9s-des-d%C3%A9fis-eig.pdf">la cartographie du programme.</a> Celle-ci retrace l’évolution des thématiques des projets et de la maturité numérique des administrations qui les portent. Vous y trouverez également la nature des bénéficiaires d’EIG, celle des impacts qui leurs sont associés et la composition par métier de nos promotions.</p>
+
+
+
+<h2 class="wp-block-heading" id="quels-sont-les-projets-recherches-cette-annee">Quels sont les projets recherchés cette année ?</h2>
+
+
+
+<p>Le programme vise à produire des outils numériques mais aussi à encourager une transformation numérique plus profonde dans les administrations. Ainsi, nos critères de sélection portent autant sur<strong>&nbsp;le projet à réaliser en 10 mois&nbsp;</strong>que sur<strong>&nbsp;l’équipe qui le porte&nbsp;:</strong></p>
+
+
+
+<ul><li><strong>Pertinence du besoin&nbsp;</strong>: un besoin clair, à fort impact, porté à un haut niveau hiérarchique par l’administration d’accueil ;</li><li><strong>Approche</strong>&nbsp;: caractère entrepreneurial du projet ; il ouvre un champ d&rsquo;exploration des usages et de la technologie tout en ayant une problématique circonscrite et des profils du numérique cohérents ;</li><li><strong>Engagement</strong>&nbsp;: motivation pour participer au programme, ouvrir le terrain d’expérimentation aux profils du numérique, et leur offrir de l’autonomie ;</li><li><strong>Transformation</strong>&nbsp;: une forte volonté de transformation numérique de la part de l’administration ;</li><li><strong>Ouverture</strong>&nbsp;: une démarche d&rsquo;innovation ouverte (collaboration, co-construction, gouvernance) et de partage de communs numériques (ouverture des données et des codes-sources, mutualisation et réplication des productions).</li></ul>
+
+
+
+<h2 class="wp-block-heading" id="comment-fonctionne-l-appel-a-projets">Comment fonctionne l’appel à projets ?</h2>
+
+
+
+<p>Trouvez toutes les informations sur l&rsquo;appel à projets <a href="https://eig.etalab.gouv.fr/participer/administrations/" data-type="URL" data-id="https://eig.etalab.gouv.fr/participer/administrations/" target="_blank" rel="noreferrer noopener">sur le site du programme EIG</a> et postulez jusqu’au 18 mars. </p>
+
+
+
+<p><strong>Participez à nos webinaires de présentation de l’appel à projets :</strong></p>
+
+
+
+<ul><li><a rel="noreferrer noopener" href="https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb" data-type="URL" data-id="https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb" target="_blank">Jeudi 3 février, de 13 h 45 à 14 h 45</a></li><li><a rel="noreferrer noopener" href="https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb" data-type="URL" data-id="https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb" target="_blank">Jeudi 17 février, de 13 h 45 à 14 h 45</a></li></ul>
+
+
+
+<p>Pendant toute la durée de l&rsquo;appel à projet, vous pouvez également bénéficier d&rsquo;un entretien de pré-incubation avec un coach produit. L&rsquo;objectif de ce nouveau dispositif est de vous accompagner dans l&rsquo;élaboration de votre stratégie entrepreneuriale. Pour ce faire, <a rel="noreferrer noopener" href="https://calendly.com/thomas-parisot/entretien-de-pre-incubation" data-type="URL" data-id="https://calendly.com/thomas-parisot/entretien-de-pre-incubation" target="_blank">réservez un créneau parmi ceux proposés</a>.</p>
+
+
+
+<p><strong>Contactez-nous pour toute question&nbsp;:&nbsp;</strong><a href="mailto:eig@data.gouv.fr"><strong>ei</strong></a><strong><a href="mailto:eig@data.gouv.fr">g@data.gouv.fr</a></strong></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Intelligence artificielle : 5 lauréats de l’appel à manifestation d’intérêt “Accompagnement recherche” !</title>
+		<link>/intelligence-artificielle-5-laureats-de-lappel-a-manifestation-dinteret-accompagnement-recherche</link>
+		
+		<dc:creator><![CDATA[Sabrina Hedroug]]></dc:creator>
+		<pubDate>Thu, 20 Jan 2022 14:07:28 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=16399</guid>
+
+					<description><![CDATA[19/01/2022 Après les deux premiers appels à manifestation d’intérêt pour expérimenter l’IA dans l’administration, le Lab IA a lancé, le 6 septembre 2021, un AMI «&#160;Accompagnement Recherche&#160;». Cet AMI répond à trois finalités&#160;: Faire bénéficier les lauréats de l’expertise des partenariats privilégiés du Lab IA issus du monde de la recherche, notamment avec l’Inria qui &#8230;<p class="read-more"> <a class="" href="/intelligence-artificielle-5-laureats-de-lappel-a-manifestation-dinteret-accompagnement-recherche"> <span class="screen-reader-text">Intelligence artificielle : 5 lauréats de l’appel à manifestation d’intérêt “Accompagnement recherche” !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading"></h2>
+
+
+
+<p>19/01/2022</p>
+
+
+
+<p>Après les deux premiers appels<strong> à manifestation d’intérêt pour expérimenter l’IA dans l’administration, le Lab IA a lancé, le 6 septembre 2021, un AMI «&nbsp;Accompagnement Recherche&nbsp;»</strong>. Cet AMI répond à trois finalités&nbsp;:</p>
+
+
+
+<ul><li>Faire bénéficier les lauréats de l’expertise des partenariats privilégiés du Lab IA issus du monde de la recherche, notamment avec l’Inria qui travaille en étroite collaboration avec la DINUM depuis avril 2020&nbsp;;</li><li>Lever les éventuels verrous technologiques rencontrées par les administrations lauréates dans l’implémentation d’une solution IA à leurs besoins existants&nbsp;;</li><li>Mettre la recherche en intelligence artificielle au service de la transformation publique.</li></ul>
+
+
+
+<h2 class="wp-block-heading" id="5-laureats-de-tous-horizons-sur-des-sujets-varies">5 lauréats de tous horizons sur des sujets variés </h2>
+
+
+
+<p><strong>Sur les huit candidatures exprimées, cinq ont été retenues</strong> pour bénéficier de l’accompagnement recherche du Lab IA.</p>
+
+
+
+<p class="has-text-align-left"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-3-color"></mark><strong>Commission nationale de l’informatique et des libertés : <em>Aide à l’analyse sur la lecture des différents documents soumis à la Commission.</em></strong> Les traitements informatiques utilisant des données à caractère personnel se trouvent à la croisée de nombreux textes juridiques. Bien que le RGPD ait supprimé une grande partie des formalités déclaratives auprès de la CNIL, certaines obligations demeurent qui peuvent nécessiter de transmettre des documents relatifs aux pratiques en matière de protection de la vie privée à la Commission, afin de justifier de la réalité des procédures mises en place par l’organisme. Ces documents engendrent  ainsi une instruction lourde tant pour la CNIL que pour les entreprises. L’objectif de ce projet est de faciliter l’instruction des dossiers reçus par la CNIL en permettant de repérer automatiquement, dans les documents soumis à l’approbation de la CNIL, les paragraphes d’intérêt pour les agents.</p>
+
+
+
+<p>M<strong>inistère de la transition écologique :</strong><em><strong> Aide à l’analyse grâce à la recherche intelligente dans les dossiers de projets soumis à évaluation environnementale. </strong></em>Les auditeurs des autorités environnementales régionales (MRAe) et nationale (Ae) instruisent chaque année de l’ordre de 1000 dossiers de projets soumis à évaluation environnementale (parcs éoliens, installations industrielles, aménagements urbains &#8230;). Le dossier d&rsquo;un projet est composé de nombreux documents pdf, dont notamment l’étude d’impact du projet, et comporte jusqu&rsquo;à plusieurs milliers de pages. L&rsquo;auditeur doit y identifier les aspects à améliorer pour éviter, réduire ou compenser les impacts environnementaux du projet. Les MRAe Ae sont tenues de rendre leur avis sur les dossiers qui leur sont soumis dans un délai contraint, qui n’est parfois pas respecté faute de ressources humaines.<span class="has-inline-color has-ast-global-color-0-color"> L&rsquo;Ecolab du MTE porte le développement d&rsquo;un outil pour aider les auditeurs de MRAe Ae à instruire efficacement les dossiers.</span></p>
+
+
+
+<p><strong>Ministère de l’Intérieur : <em>Cluster Vec. </em></strong>Chaque année, 20 000 000 clichés issus des radars sont envoyés à l’Agence Nationale du Traitement Automatisé des Infractions (ANTAI) et au Centre Automatisé de Contestation des Infractions Routières (CACIR) pour traitement. Parallèlement, près de 10 000 usagers reçoivent un avis de contravention alors qu’ils n’ont pas commis l’infraction routière correspondante. Dans de nombreux cas, c’est une usurpation de plaque qui est à l’origine de l’erreur. La contravention est alors envoyée au titulaire du certificat d’immatriculation renseigné dans le Système d’Immatriculation des Véhicules (SIV) et non à la personne ayant réellement commis l’infraction. Une technique existe pour repérer les plaques usurpées : comparer le numéro de la plaque au modèle du véhicule qui doit y être associé, également renseigné dans le SIV. Si les deux éléments ne correspondent pas, l’ANTAI peut effectuer un signalement et éviter de sanctionner un usager n’ayant commis aucune infraction. Grâce à l’algorithme IA flash cette détection est possible par l’identification automatique du modèle du véhicule sur le cliché de l’infraction. Cependant le réentrainement de ce modèle supervisé par l’ajout de nouvelles données annotées manuellement est couteux en temps. <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-0-color">L’objectif du projet est d’explorer les nouvelles possibilités d’entrainement non supervisé en computer vision afin de faciliter la maintenance du modèle.</mark></p>
+
+
+
+<p><strong>Bureau de Recherches Géologiques et Minières. <em>LoggingIA. </em></strong>Le BRGM est l’établissement public de référence pour le sous-sol. Au travers de la Banque du Sous-Sol (BSS), le BRGM collecte, héberge et diffuse les données géologiques et environnementales, qui constituent une matière première pour des applications au service des citoyens. Les données sont à ce jour non structurées donc peu valorisables. Seule la localisation des ouvrages y est présentée, quelques métadonnées sont incluses, et des documents scannés (en raster) y sont joints. Ces documents incluent des logs de forage, parfois des diagraphies, plus rarement des carottes scannées. Les informations de ces scans constituent un gisement de connaissance immense et non valorisé (pour la connaissance du public, des décideurs, des entreprises de génie civil). <span class="has-inline-color has-ast-global-color-0-color">L’objectif du projet est de mettre à disposition l’information géologique. Cela passe par la dataïfication des ‘logs’ de forages (diagrammes de représentation verticale de séries stratigraphiques) et des diagraphies (mesure avec des ondes des roches traversées), et à terme la déduction par apprentissage des natures de roches traversées et la reconnaissance des profondeurs et des vocabulaires adossés aux registres.</span></p>
+
+
+
+<p><strong>Secrétariat Général de le Défense et de la Sécurité Nationale. <em>Solution de veille de sources d’actualité ouvertes pour améliorer l’alerte et la prise de décision</em>.</strong> Le Secrétariat général de la défense et de la sécurité nationale compte parmi ses missions la veille des menaces et des risques qui pèsent sur la France. Il confie cette mission en particulier au Bureau de veille et d’alerte (BVA), au sein de la Direction de protection et de sécurité de l’Etat. Le BVA participe ainsi, et uniquement à partir de sources ouvertes d’Internet, à l’alerte et à la bonne information des décideurs gouvernement aux 24 heures sur 24. L’objectif est de développer un outil d’automatisation de la veille sur internet. <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-0-color">Cet outil permettra : 1) un passage à l’échelle sur la quantité de flux traitée (quantité d’informations évaluée), qui aujourd’hui est bloqué par le nombre d’agents du bureau, et qui sera débloqué par l’outil, par la capacité de stockage des données et la puissance de calcul ; 2) aux agents de consacrer plus de temps à des tâches à plus forte valeur ajoutée, en particulier d’accompagner la montée en puissance du BVA sur la synthèse et l’analyse.</mark></p>
+
+
+
+<h2 class="wp-block-heading" id="un-accompagnement-scientifique-sur-tous-les-domaines-de-l-ia">Un accompagnement scientifique sur tous les domaines de l&rsquo;IA</h2>
+
+
+
+<p>Les lauréats de l’accompagnement recherche bénéficient d’un <strong>accompagnement scientifique</strong> piloté par le Lab IA pour <strong>réaliser un prototype fonctionnel</strong>. Les aspects techniques seront confiés à des personnes rattachées à des équipes de recherche (ingénieurs de recherche, positions temporaires, post-doc, doctorants le cas échéant).</p>
+
+
+
+<p>Les projets portent sur tous les domaines de l’IA (le traitement automatique du langage naturel, la vision par ordinateur, l’apprentissage automatique sur des données structurées) et concernent aussi bien le développement qu’un algorithme que l’amélioration de l’explicabilité ou la correction d’un biais algorithmique. Les lauréats sont accompagnés sur <strong>une durée d’un an</strong>.</p>
+
+
+
+<p>A l’issue de l’accompagnement, le Lab IA et le lauréat auront un retour d’expérience suffisant pour être en mesure de décider si l’expérimentation est concluante ou non et le cas échéant de prendre une décision pour prolonger l’expérimentation, industrialiser le produit ou l’abandonner. </p>
+
+
+
+<h2 class="wp-block-heading" id="composition-du-jury">Composition du jury</h2>
+
+
+
+<p>Le jury de sélection était composé des membres suivants : </p>
+
+
+
+<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<ul><li><strong>Laure Lucchesi</strong>, Directrice de Etalab</li><li><strong>Bertrand Braunschweig</strong>, Ex-Directeur de la mission Inria de coordination du programme national de recherche en intelligence artificielle</li><li><strong>Ioana Manolescu</strong>, Directrice scientifique du Lab IA</li><li><strong>Paul-Antoine Chevalier</strong>, Responsable du Lab IA</li><li><strong>Oana Balalau</strong>, Chercheuse Inria</li><li><strong>Robin Reynaud</strong>, Chef de projet Lab IA</li></ul>
+</div></div>
+
+
+
+<h3 class="wp-block-heading">&nbsp;</h3>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

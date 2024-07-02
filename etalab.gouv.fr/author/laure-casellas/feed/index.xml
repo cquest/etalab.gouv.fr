@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Laure Casellas &#8211; Etalab</title>
+	<atom:link href="/author/laure-casellas/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 11 Aug 2020 14:53:47 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Laure Casellas &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Le programme Entrepreneurs d’Intérêt Général présente sa quatrième promotion</title>
+		<link>/le-programme-entrepreneurs-dinteret-general-presente-sa-quatrieme-promotion</link>
+		
+		<dc:creator><![CDATA[Laure Casellas]]></dc:creator>
+		<pubDate>Thu, 23 Jul 2020 10:56:59 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Entrepreneurs d'intérêt général]]></category>
+		<category><![CDATA[numérique d'intérêt général]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14401</guid>
+
+					<description><![CDATA[La semaine du 29 juin 2020, le programme Entrepreneurs d’Intérêt Général (EIG) organisait un jury de sélection pour constituer sa quatrième promotion. Découvrez les 41 spécialistes en data science, développement, design, data engineering et géomatique qui intègreront l'administration en septembre 2020.]]></description>
+										<content:encoded><![CDATA[
+<p><em>La semaine du 29 juin 2020, le programme&nbsp;<a href="http://entrepreneur-interet-general.etalab.gouv.fr/">Entrepreneurs d’Intérêt Général (EIG)</a>&nbsp;organisait un jury de sélection pour constituer sa quatrième&nbsp;promotion. Les entrepreneurs d’intérêt général, ou EIG, sont des spécialistes en data science, développement, design, data engineering et géomatique qui intègrent des administrations par équipes pluridisciplinaires de deux ou trois. Pendant 10 mois, chaque équipe relève un défi de transformation numérique. Les EIG sont accompagnés par Etalab et des mentors, agents publics issus des administrations d’accueil.</em></p>
+
+
+
+<p><strong><em>En septembre 2020, 41 EIG intègreront leurs administrations respectives pour relever <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis.html" class="broken_link">17 défis d’intérêt général</a>.</em></strong></p>
+
+
+
+<h3 class="wp-block-heading"><strong>La sélection de la promotion, une œuvre collective</strong></h3>
+
+
+
+<p>Du 4 mai au 7 juin 2020, le programme EIG a lancé un appel à candidatures pour permettre à des profils extérieurs à l’administration de contribuer à l’amélioration du service public en mobilisant leurs compétences numériques. Une série de <a href="https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html" class="broken_link">7 webinaires</a> a permis aux candidates et candidats de se familiariser avec le programme et les défis en posant leurs questions aux mentors et aux alumni du programme.&nbsp;</p>
+
+
+
+<p><strong>Au total, plus de 800 personnes ont répondu à l’appel.</strong> De nombreux membres de la direction interministérielle du numérique et des administrations d’accueil se sont mobilisés pour participer à la phase de pré-sélection des dossiers. A l’issue de celle-ci, 140 candidatures ont été retenues pour passer en jury.</p>
+
+
+
+<p>Du 29 juin au 3 juillet inclus, un jury mixte s’est réuni en ligne pour sélectionner les 41 EIG. <strong>Composé des agents publics mentors des défis, de membres de la DINUM (<a href="https://www.etalab.gouv.fr/">Etalab</a>, <a href="https://beta.gouv.fr/">beta.gouv.fr</a>) et de personnalités extérieures <a href="https://www.etalab.gouv.fr/programme-entrepreneurs-dinteret-general-decouvrez-les-17-defis-de-la-quatrieme-promotion">qui avaient déjà participé à la sélection des défis</a>, il représente la richesse de la communauté du numérique d’intérêt général.</strong> Constituer une équipe d’EIG, avec des profils complémentaires et des parcours originaux, n’est pas toujours simple ! C’est pourquoi la diversité du jury a beaucoup aidé les mentors à choisir les EIG.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>La quatrième promotion en chiffres</strong></h3>
+
+
+
+<p>Le programme a reçu 802 candidatures cette année, dont 140 ont été pré-sélectionnées et sont passées en jury. Ce sont finalement 41 lauréates et lauréats qui rejoignent la quatrième promotion du programme. Leurs compétences se répartissent ainsi : 17 spécialistes en développement, 14 en design et 10 en data.</p>
+
+
+
+<p><strong>Ils ont été évalués sur la base de cinq critères&nbsp;:</strong></p>
+
+
+
+<ol><li>Dynamisme, vision, esprit d’initiative, attitude positive, capacité à mener à bien des projets ;</li><li>Capacité à comprendre le défi, à proposer des orientations stratégiques pour son développement ;</li><li>Sens de l’intérêt général (ex : contribution à un logiciel libre, engagement associatif&#8230;) ; </li><li>Capacité à s’intégrer dans l’environnement d’une administration publique et interagir avec ses métiers (SI, métier, RH, direction générale&#8230;) ;</li><li>Adéquation entre les compétences et le profil recherché : développement, design, data science, géomatique, etc.</li></ol>
+
+
+
+<p><strong>Le nombre de femmes EIG a plus que doublé par rapport à la troisième promotion, passant de 20 % à 44 %.</strong> Les domaines où elles sont le plus représentées sont le design (57%), suivi du développement (41%) et de la data (30%). On constate une augmentation particulièrement forte pour le développement, où la part des femmes a quadruplé par rapport à la troisième promotion.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img fetchpriority="high" decoding="async" width="620" height="492" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/07/genres-etapes-EIG4-1.png" alt="" class="wp-image-14444" srcset="/wp-content/uploads/2020/07/genres-etapes-EIG4-1.png 620w, /wp-content/uploads/2020/07/genres-etapes-EIG4-1-300x238.png 300w" sizes="(max-width: 620px) 100vw, 620px" /></figure></div>
+
+
+
+<figure class="wp-block-gallery aligncenter columns-2 is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="740" height="560" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/07/genres-EIG-3-8.png" alt="" data-id="14478" data-full-url="https://www.etalab.gouv.fr/wp-content/uploads/2020/07/genres-EIG-3-8.png" data-link="https://www.etalab.gouv.fr/?attachment_id=14478" class="wp-image-14478" srcset="/wp-content/uploads/2020/07/genres-EIG-3-8.png 740w, /wp-content/uploads/2020/07/genres-EIG-3-8-300x227.png 300w" sizes="(max-width: 740px) 100vw, 740px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="748" height="560" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/07/genres-EIG-4-7.png" alt="" data-id="14479" data-full-url="https://www.etalab.gouv.fr/wp-content/uploads/2020/07/genres-EIG-4-7.png" data-link="https://www.etalab.gouv.fr/?attachment_id=14479" class="wp-image-14479" srcset="/wp-content/uploads/2020/07/genres-EIG-4-7.png 748w, /wp-content/uploads/2020/07/genres-EIG-4-7-300x225.png 300w" sizes="(max-width: 748px) 100vw, 748px" /></figure></li></ul><figcaption class="blocks-gallery-caption"><em>Chiffres issus des données déclaratives de civilité renseignées dans les dossiers de candidature</em></figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p><strong>La promotion gagne aussi en séniorité</strong>, l’âge moyen des EIG passant de 27 ans pour la troisième promotion<a href="#_msocom_1"> </a>à 30 ans pour la quatrième promotion, avec une médiane à 29 ans.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="939" height="564" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/07/Capture-d’écran-2020-07-21-à-17.09.39.png" alt="" class="wp-image-14436" srcset="/wp-content/uploads/2020/07/Capture-d’écran-2020-07-21-à-17.09.39.png 939w, /wp-content/uploads/2020/07/Capture-d’écran-2020-07-21-à-17.09.39-300x180.png 300w, /wp-content/uploads/2020/07/Capture-d’écran-2020-07-21-à-17.09.39-768x461.png 768w" sizes="(max-width: 939px) 100vw, 939px" /><figcaption><em>Estimation des âges des EIG basée sur les données renseignées dans leurs CV</em></figcaption></figure></div>
+
+
+
+<h3 class="wp-block-heading"><strong>Les lauréates et lauréats de l&rsquo;appel à candidature pour la quatrième promotion du programme EIG</strong></h3>
+
+
+
+<p>En attendant de vous présenter leurs parcours et leurs profils sur&nbsp;<a href="https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html" class="broken_link">la page «&nbsp;communauté&nbsp;» du site EIG</a>&nbsp;voici la liste des lauréates et lauréats :</p>
+
+
+
+<ul><li><strong>Anne Catel</strong>, designer, <strong>Antoine Biard</strong>, data scientist, <strong>Thomas Brosset</strong>, développeur, pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/adex.html" class="broken_link">ADEX</a></li><li><strong>Camille Canaple</strong>, designer, et <strong>Livia Ribeiro</strong>, développeuse, pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/atlas-culture.html" class="broken_link">Atlas Culture</a></li><li><strong>Elisabeth Fainstein</strong>, développeuse, et <strong>Nathan Delavictoire</strong>, designer, pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/capqualif.html" class="broken_link">Cap Qualif</a></li><li><strong>Alexandra Leschi</strong>, développeuse, et <strong>Lou Vettier</strong>, designer, pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/datalympics.html" class="broken_link">Datalympics</a></li><li><strong>Joëlle Chong</strong>, designer, <strong>Line Rahal</strong>, data scientist, et <strong>Sophie Jobez</strong>, développeuse, pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/datamed.html" class="broken_link">DataMed</a></li><li><strong>Coline Malivel</strong>, designer, et <strong>Raphaëlle Roffo</strong>, développeuse, pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/eig-link.html" class="broken_link">EIG Link</a></li><li><strong>Benjamin Perney</strong>, développeur, <strong>Raphaël Courivaud</strong>, data engineer, et <strong>Stéphanie Huynh</strong>, designer, pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/enki.html" class="broken_link">Enki</a></li><li><strong>Lisa Durand</strong>, développeuse, et <strong>Rémi Delbouys</strong>, data scientist, pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/envinorma.html" class="broken_link">EnviNorma</a></li><li><strong>Cédric Merouani</strong>, développeur, et <strong>Nadim Bel Lallahom</strong>, designer, pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/france-transition.html" class="broken_link">France Transition</a></li><li><strong>Benoît Serrano</strong>, développeur, <strong>Nicolas Assouad</strong>, développeur, et <strong>Romain Gle</strong>, designer, pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/label.html" class="broken_link">LABEL</a></li><li><strong>Adeline Celier</strong>, designer, <strong>Loup Theron</strong>, développeur, et <strong>Vincent Chéry</strong>, data scientist, pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/monitorfish.html" class="broken_link">MonitorFish</a></li><li><strong>Guillaume Barreau</strong>, data scientist, <strong>Julie Dugardin</strong>, designer, et <strong>Matthieu Tirelli</strong>, développeur, pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/neotac.html" class="broken_link">NEOTac</a></li><li><strong>Élodie Delaisement</strong>, designer, et <strong>Sylvain Boissel</strong>, développeur, pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/open-collectivites.html" class="broken_link">Open Collectivités</a></li><li><strong>Jérôme Burkard</strong>, développeur, et <strong>Raphaëlle Bertrand-Lalo</strong>, data scientist, pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/operations-18.html" class="broken_link">Opérations 18</a></li><li><strong>Hélène Jonin</strong>, développeuse, et <strong>Salim Atmani</strong>, designer, pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/sedaccord.html" class="broken_link">SEDAccord</a></li><li><strong>Aliaume Lopez</strong>, développeur, et <strong>Pierre-Etienne Devineau</strong>, data scientist, pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/siance.html" class="broken_link">SIANCE</a></li><li><strong>Joseph Garrone,</strong> développeur, <strong>Marc Hufschmitt</strong>, designer, et <strong>Pengfei Liu</strong>, data engineer, pour le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/ssp-datalab.html" class="broken_link">SSP Datalab</a></li></ul>
+
+
+
+<p>Nous leur souhaitons la bienvenue dans le programme EIG&nbsp;!</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Les prochaines étapes</strong></h3>
+
+
+
+<p>En attendant septembre, les administrations d’accueil sont mobilisées pour préparer le recrutement et l’accueil des EIG dans de bonnes conditions. Quant à l’équipe du programme, elle travaille déjà à l’accompagnement des EIG et des mentors pour une quatrième promotion réussie.</p>
+
+
+
+<ul><li><strong>Septembre 2020</strong>&nbsp;: les lauréates et lauréats intègrent leurs administrations d’accueil pour commencer à aborder leurs défis respectifs aux côtés des agents publics mentors ;</li><li><strong>Fin septembre</strong> : les EIG et mentors participent à une <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/02/27/bootcamp-comment-souder-un-collectif-de-talents.html" target="_blank" class="broken_link">semaine d&#8217;embarquement</a> pour découvrir ensemble l&rsquo;administration, souder leur collectif et approfondir leur connaissance de l&rsquo;écosystème de l&rsquo;innovation publique et du numérique d&rsquo;intérêt général. </li></ul>
+
+
+
+<p>Un appel à projets auprès des administrations pour la cinquième promotion EIG aura lieu dans les prochains mois.</p>
+
+
+
+<p><strong>Le programme EIG vous intéresse&nbsp;?</strong> <strong>Vous souhaitez rejoindre la prochaine promotion ou proposer un projet dans votre administration&nbsp;?</strong> </p>
+
+
+
+<p>Inscrivez-vous à la <a href="https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio" class="broken_link">liste de diffusion</a> et suivez-nous sur <a href="https://twitter.com/eigforever">Twitter</a> pour recevoir toutes les informations du programme.</p>
+
+
+
+<p>Pour nous contacter :&nbsp;<a href="mailto:entrepreneur-interet-general@data.gouv.fr">entrepreneur-interet-general@data.gouv.fr</a></p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p><em>L’équipe du programme remercie vivement les membres de l’équipe de présélection et les membres du jury qui ont contribué à la constitution de cette promotion. Lors du jury, les mentors ont été accompagnés par&nbsp;:</em></p>
+
+
+
+<p><em>Alexandre Pennaneac’h (BLOB Project), Alice Schoenauer Sebag (I<a rel="noreferrer noopener" href="http://www.igf.finances.gouv.fr/cms/sites/igf/accueil/decouvrir-ligf/la-mission-de-ligf.html" target="_blank" class="broken_link">nspection générale des finances)</a>, Amaury Fouret (<a rel="noreferrer noopener" href="https://www.courdecassation.fr/" target="_blank">Cour de cassation</a>), Anaël Beaugnon (<a rel="noreferrer noopener" href="https://www.ssi.gouv.fr/" target="_blank">Agence nationale de la sécurité des systèmes d&rsquo;information</a>), Anne-Sophie Tranchet (<a rel="noreferrer noopener" href="http://beta.gouv.fr/" target="_blank">beta.gouv.fr</a>), Augustin Courtier (<a rel="noreferrer noopener" href="https://www.latitudes.cc/" target="_blank">Latitudes</a>), Aurélie Mucherie (<a rel="noreferrer noopener" href="https://www.sdis77.fr/" target="_blank">Service départemental d&rsquo;Incendie et de Secours de Seine-et-Marne</a>) , Bastien Guerry (<a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/" target="_blank">Etalab</a>), Bastien Kerspern (<a rel="noreferrer noopener" href="https://design-friction.com/" target="_blank">Design Friction</a>), Benjamin Doberset (<a rel="noreferrer noopener" href="http://beta.gouv.fr/" target="_blank">beta.gouv.fr</a>), Carine Stolz (<a rel="noreferrer noopener" href="http://eramet.com/fr" target="_blank">Eramet</a>), Chiara Marmo (<a rel="noreferrer noopener" href="http://geops.geol.u-psud.fr/" target="_blank" class="broken_link">Laboratoire Geops, Université Paris-Sud</a>), Christophe Ninucci (<a rel="noreferrer noopener" href="https://www.economie.gouv.fr/direction-generale-des-entreprises-dge" target="_blank" class="broken_link">Direction générale des Entreprises</a>), Cindy Liwenge (<a rel="noreferrer noopener" href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>), Claire Casubolo (<a rel="noreferrer noopener" href="https://www.ccomptes.fr/fr" target="_blank">Cour des comptes</a>), Elise Lalique (designer), Estelle Hary (<a rel="noreferrer noopener" href="https://www.cnil.fr/fr/definition/commission-nationale-de-linformatique-et-des-libertes-cnil" target="_blank">Commission nationale de l&rsquo;informatique et des libertés</a>), Geoffrey Aldebert (<a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/" target="_blank">Etalab</a>), Géraldine Breysse-Coquet (<a rel="noreferrer noopener" href="https://www.banque-france.fr/la-banque-de-france/nous-connaitre/le-lab-banque-de-france" target="_blank">Lab Banque de France</a>), Hélène Allain (<a rel="noreferrer noopener" href="https://www.liberte.paris/" target="_blank">Liberté Living-Lab</a>), Hugo Stéphan (<a rel="noreferrer noopener" href="https://www.gouvernement.fr/delegation-interministerielle-a-l-hebergement-et-a-l-acces-au-logement" target="_blank">Délégation interministérielle à l&rsquo;hébergement et à l&rsquo;accès au logement</a>), Iva Stankovic (<a rel="noreferrer noopener" href="https://www.mangopay.com/fr/" target="_blank">MANGOPAY.com</a>), Julien Dubedout (Agence du numérique de la sécurité civile), Julien Paris (<a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/" target="_blank">Etalab</a>), Kimia Ferdows-Tournois (<a rel="noreferrer noopener" href="http://www.inprocess-group.com/fr/" target="_blank" class="broken_link">InProcess</a>), Laïla Atrmouh (<a rel="noreferrer noopener" href="https://www.bureauxapartager.com/" target="_blank">Bureaux A Partager</a>), Laure Dubuc (<a rel="noreferrer noopener" href="https://www.gouvernement.fr/delegation-interministerielle-a-l-hebergement-et-a-l-acces-au-logement" target="_blank">Direction interministérielle à l&rsquo;hébergement et à l&rsquo;accès au logement</a>), Laurie Chapotte (<a rel="noreferrer noopener" href="https://www.culture.gouv.fr/" target="_blank">Ministère de la Culture</a>), Léa Douhard (<a rel="noreferrer noopener" href="https://www.sciencespo.fr/public/fr/laboratoire-dinnovations-publiques.html" target="_blank">Policy Lab, Sciences Po</a>), Lucas Bchini (<a href="https://www.agencebio.org/">Agence Bio</a>), Lucie Drouet (Oyena), Lucile Picon (<a rel="noreferrer noopener" href="https://silvervalley.fr/" target="_blank">Silver Valley</a>), Manon Léger (<a rel="noreferrer noopener" href="https://www.latitudes.cc/" target="_blank">Latitudes</a>), Marina Wiesel (<a rel="noreferrer noopener" href="https://www.culture.gouv.fr/" target="_blank">Ministère de la Culture</a>), Mathilde Bras (<a rel="noreferrer noopener" href="https://fing.org/" target="_blank">Fondation Internet Nouvelle Génération</a>), Mathilde Hoang (<a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/" target="_blank">Etalab</a>), Matthieu Faure (<a rel="noreferrer noopener" href="https://adullact.org/" target="_blank">Adullact</a>), Maxime Beaugrand (<a rel="noreferrer noopener" href="https://numerique.gouv.fr/" target="_blank">DINUM</a>), Michaël Benesty (<a rel="noreferrer noopener" href="https://www.lefebvre-sarrut.eu/" target="_blank">Éditions Lefebvre Sarrut</a>), Nicolas Grandjean (<a rel="noreferrer noopener" href="https://www.gendarmerie.interieur.gouv.fr/" target="_blank"></a><a rel="noreferrer noopener" href="https://www.gendarmerie.interieur.gouv.fr/Notre-institution/Nos-composantes/Au-niveau-central/Direction-generale" target="_blank">Direction générale de la Gendarmerie nationale</a>), Pavel Soriano (<a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/" target="_blank">Etalab</a>), Raphaël Yharrassarry (<a rel="noreferrer noopener" href="http://beta.gouv.fr/" target="_blank">beta.gouv.fr</a>), Régis Chatellier (<a rel="noreferrer noopener" href="https://www.cnil.fr/fr/definition/commission-nationale-de-linformatique-et-des-libertes-cnil" target="_blank">Commission nationale de l&rsquo;informatique et des libertés</a>), Rémy Nollet (<a rel="noreferrer noopener" href="https://www.gendarmerie.interieur.gouv.fr/Notre-institution/Nos-composantes/Au-niveau-central/Direction-generale" target="_blank">Direction générale de la Gendarmerie nationale</a>), Samah Ghalloussi (<a rel="noreferrer noopener" href="http://AALIA.tech/" target="_blank">AALIA.tech</a>), Sébastien Touzé (Direction des affaires maritimes), Tristan Desplechin (designer), Vincent Bataille (<a rel="noreferrer noopener" href="https://fr.openfoodfacts.org/" target="_blank">Open Food Facts</a>), Virginia Cruz (<a href="http://www.id-sl.com/">idsl</a>), Xavier Dupré (<a rel="noreferrer noopener" href="https://www.ensae.fr/" target="_blank">École nationale de la statistique et de l&rsquo;administration économique</a>), Xavier Jouppe (<a href="https://numerique.gouv.fr/">Direction interministérielle du numérique</a>), Yannick François (<a rel="noreferrer noopener" href="http://beta.gouv.fr/" target="_blank">beta.gouv.fr</a>). </em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Du 4 mai au 7 juin, postulez au programme Entrepreneurs d’Intérêt Général – promotion 4</title>
+		<link>/du-4-mai-au-7-juin-postulez-au-programme-entrepreneurs-dinteret-general-promotion-4</link>
+		
+		<dc:creator><![CDATA[Laure Casellas]]></dc:creator>
+		<pubDate>Mon, 04 May 2020 14:27:13 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[datasciences]]></category>
+		<category><![CDATA[Entrepreneurs d'intérêt général]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14116</guid>
+
+					<description><![CDATA[Vous êtes spécialiste en data science, développement, design, data engineering ou géomatique ? Rejoignez la quatrième promotion du programme Entrepreneurs d’Intérêt Général&#160;! Le programme Entrepreneurs d’Intérêt Général, qui s&#8217;inscrit dans TECH.GOUV, le programme d’accélération de la transformation numérique de l’Etat, lance un appel à candidatures pour permettre à des profils extérieurs à l’administration de contribuer &#8230;<p class="read-more"> <a class="" href="/du-4-mai-au-7-juin-postulez-au-programme-entrepreneurs-dinteret-general-promotion-4"> <span class="screen-reader-text">Du 4 mai au 7 juin, postulez au programme Entrepreneurs d’Intérêt Général – promotion 4</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Vous êtes spécialiste en data science, développement, design, data engineering ou géomatique ? Rejoignez la quatrième promotion du programme Entrepreneurs d’Intérêt Général&nbsp;!</p>
+
+
+
+<p>Le programme Entrepreneurs d’Intérêt Général, qui s&rsquo;inscrit dans TECH.GOUV, le programme d’accélération de la transformation numérique de l’Etat, lance un appel à candidatures pour permettre à des profils extérieurs à l’administration de contribuer à l’amélioration du service public à l&rsquo;aide de leurs compétences numériques. Il vise à recruter une promotion de 41 entrepreneurs d’intérêt général (EIG) spécialistes du numérique qui intègreront l’administration en septembre 2020.</p>
+
+
+
+<p class="has-text-align-center"><a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html" target="_blank" class="broken_link"><strong> &gt;&gt;&gt; Accéder à l’appel à candidature, ouvert jusq</strong></a><a href="https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html" class="broken_link"><strong>u’au 7 juin 2020, 23h00 &lt;&lt;&lt;</strong></a></p>
+
+
+
+<h3 class="wp-block-heading"><strong><span class="has-inline-color has-very-dark-gray-color">Des professionnels capables de mener un projet de bout en bout</span></strong></h3>
+
+
+
+<p>Suite à l’appel à projet lancé auprès des administrations, <a href="https://www.etalab.gouv.fr/programme-entrepreneurs-dinteret-general-decouvrez-les-17-defis-de-la-quatrieme-promotion" target="_blank" rel="noreferrer noopener">17 défis ont été sélectionnés pour cette 4<sup>ème</sup> promotion</a>. Pour relever ces défis, le programme recrute 41 entrepreneurs d’intérêt général, dont&nbsp;:</p>
+
+
+
+<ul><li><strong>9 spécialistes en data science, data engineering et géomatique&nbsp;;</strong></li><li><strong>18 spécialistes en développement ;</strong></li><li><strong>14 spécialistes en design, dont des spécialistes en design de services et en design UX/UI</strong>.</li></ul>
+
+
+
+<p>Les EIG intègreront les administrations par équipes pluridisciplinaires de deux ou trois, pour réaliser des projets de 10 mois. <strong>Ils travailleront en étroite collaboration avec leurs mentors (les agents publics des administrations d’accueil) et une équipe projet plus large.</strong> L’objectif est double : produire une solution viable et diffuser des outils et approches innovants au sein de leurs administrations d’accueil.</p>
+
+
+
+<p><strong>Si les compétences techniques sont essentielles, elles ne suffisent pas à la réussite des défis. Les candidatures seront départagées selon les critères suivants&nbsp;:</strong></p>
+
+
+
+<ul><li>Dynamisme, vision, esprit d’initiative, attitude positive, capacité à mener à bien des projets&nbsp;;</li><li>Capacité à comprendre le défi, à proposer des orientations stratégiques pour son développement&nbsp;;</li><li>Sens de l’intérêt général (ex&nbsp;: contribution à un logiciel libre, engagement associatif, etc.)&nbsp;;</li><li>Capacité à s’intégrer dans l’environnement d’une administration publique et interagir avec ses métiers (SI, métier, RH, direction générale, etc.)&nbsp;;</li><li>Adéquation entre les compétences et le profil recherché : techniques (compétences en développement web…), design (design de service, design UX, design UI), data science, etc.</li></ul>
+
+
+
+<p>Une fois recrutés, les entrepreneurs d’intérêt général signent <strong>un CDD de 4000 euros net par mois </strong>avec leur administration d’accueil et ont un statut d’agent contractuel de la fonction publique.</p>
+
+
+
+<p class="has-text-align-center"><a href="https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html" class="broken_link">>>> <strong>Accéder à l’appel à candidature, ouvert jusqu’au 7 juin 2020</strong>, <strong>23h00 </strong>&lt;&lt;&lt;</a></p>
+
+
+
+<h3 class="wp-block-heading"><strong>Des sujets d&rsquo;actualité, portés par une communauté du numérique d’intérêt général</strong></h3>
+
+
+
+<p><strong>Les défis portent sur des thématiques d’intérêt général au cœur de l’actualité&nbsp;:</strong> la transition écologique et énergétique, la santé, la gestion de crise ou la transparence des politiques publiques en sont quelques exemples.</p>
+
+
+
+<p>Pour les relever, EIG et mentors pourront compter sur les autres équipes défis&nbsp;de la promotion 4. Ils seront également accompagnés par <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html" target="_blank" class="broken_link">une équipe au sein d’Etalab</a> et pourront s’appuyer sur les expertises technique, métier et juridique de la communauté du numérique d’intérêt général (etalab, <a rel="noreferrer noopener" href="http://beta.gouv.fr/" target="_blank">beta.gouv.fr</a>, pôle design des services numériques de la DINUM, anciens EIG, associations partenaires…).</p>
+
+
+
+<p>Afin que les réalisations des EIG profitent au plus grand nombre, l’accent sera mis sur l’ouverture des données, l’accessibilité, le partage des ressources créées par les EIG (données, codes sources, méthodes, etc.) et la mutualisation.</p>
+
+
+
+<p>Voici un avant-goût des défis à relever :</p>
+
+
+
+<ul><li><strong>ADEX</strong>&nbsp;: Prévenir les conflits d&rsquo;intérêts dans le domaine médical</li><li><strong>Atlas Culture</strong>&nbsp;: Visualiser les politiques culturelles territoriales</li><li><strong>CapQualif</strong>&nbsp;: Simplifier la remise des titres des marins professionnels</li><li><strong>DataMed</strong>&nbsp;: Accompagner l&rsquo;ouverture des données sur les médicaments</li><li><strong>Datalympic</strong>&nbsp;: Contribuer à la transparence des fonds publics engagés pour les JO de Paris 2024</li><li><strong>Enki</strong>&nbsp;: Mieux informer les autorités et services d&rsquo;urgence lors d&rsquo;une crise</li><li><strong>EnviNorma</strong>&nbsp;: Faciliter le contrôle environnemental des sites industriels</li><li><strong>France</strong> <strong>Transition</strong>&nbsp;: Faciliter l&rsquo;accès aux aides publiques à la transition écologique et énergétique</li><li><strong>LABEL</strong>&nbsp;: Accélérer l&rsquo;ouverture des décisions de justice</li><li><strong>MonitorFish</strong>&nbsp;: Améliorer le contrôle des activités des navires de pêche</li><li><strong>NEOTac</strong>&nbsp;: Traiter de manière efficace les situations d&rsquo;urgence</li><li><strong>Open</strong> <strong>Collectivités</strong>&nbsp;: Simplifier l’accès aux informations financières et statistiques des collectivités locales</li><li><strong>Opérations</strong> <strong>18</strong>&nbsp;: Optimiser l’utilisation des capacités opérationnelles des sapeurs-pompiers</li><li><strong>SEDAccord</strong>&nbsp;: Faciliter la collecte des archives numériques publiques</li><li><strong>SIANCE</strong>&nbsp;: Améliorer le contrôle des activités nucléaires</li><li><strong>SSP</strong> <strong>Datalab</strong>&nbsp;: Améliorer la statistique publique à l’aide de nouvelles techniques et outils de traitement de données</li><li><strong>EIG</strong> <strong>Link</strong>&nbsp;: Assurer la réussite de la promotion EIG 4</li></ul>
+
+
+
+<p class="has-text-align-center"><a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis.html" class="broken_link">>>> <strong>Découvrir les 17 défis et 41 profils recherchés pour la promotion EIG 4</strong> &lt;&lt;&lt;</a></p>
+
+
+
+<h3 class="wp-block-heading"><strong>Comment intégrer la promotion EIG 4&nbsp;?</strong></h3>
+
+
+
+<p>Les candidats sont invités à consulter la <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html" target="_blank" class="broken_link">page de présentation de l’appel à candidatures</a> et le <a href="https://entrepreneur-interet-general.etalab.gouv.fr/docs/AACEIG4_Reglement.pdf" class="broken_link">règlement du programme</a>, <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis.html" target="_blank" class="broken_link">découvrir les 17 défis</a> puis à postuler à trois profils maximum via un <a href="https://www.demarches-simplifiees.fr/commencer/aac-eig4">formulaire de candidature</a>.<span class="has-inline-color has-very-dark-gray-color"></span><span class="has-inline-color has-luminous-vivid-amber-color"></span></p>
+
+
+
+<p>Au cours du mois de mai, six webinaires thématiques seront organisés en présence des mentors des défis, ainsi qu’un webinaire de témoignages d’anciennes et anciens EIG. Ce sera l’occasion pour les candidats de poser leurs questions et d’approfondir leur compréhension du programme. Découvrez la liste des webinaires et <a href="https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html" target="_blank" rel="noreferrer noopener" class="broken_link">inscrivez-vous ici</a>.</p>
+
+
+
+<p>Après clôture de l’appel à candidatures le 7 juin à 23h00, le jury de sélection se tiendra les 29, 30 juin, 1<sup>er</sup>, 2 et 3 juillet 2020. Il sera composé de spécialistes techniques externes et internes à l’administration, d’acteurs du numérique d’intérêt général ainsi que des mentors opérationnels.</p>
+
+
+
+<p>Les lauréats de la quatrième promotion seront annoncés début juillet et rejoindront leurs administrations d’accueil le 1<sup>er</sup> septembre 2020.</p>
+
+
+
+<p><em>Une FAQ sur l’appel à candidature est disponible sur le site Internet du programme :&nbsp;</em><a href="https://entrepreneur-interet-general.etalab.gouv.fr/faq-eig.html" target="_blank" rel="noreferrer noopener" class="broken_link"><em>https://entrepreneur-interet-general.etalab.gouv.fr/faq-eig.html</em></a><em>.</em><em></em></p>
+
+
+
+<p><em>Pour toute autre question ou information, vous pouvez nous contacter à <a href="mailto:entrepreneur-interet-general@data.gouv.fr">entrepreneur-interet-general@data.gouv.fr</a>.</em></p>
+
+
+
+<p><em>Pour rester informé, n’hésitez pas à vous abonner à&nbsp;</em><a href="https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio" class="broken_link"><em>notre liste de diffusion</em></a><em>&nbsp;et à nous suivre sur&nbsp;</em><a href="https://twitter.com/eigforever"><em>Twitter</em></a><em>.</em><em></em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Programme Entrepreneurs d’Intérêt Général : découvrez les 17 défis de la quatrième promotion</title>
+		<link>/programme-entrepreneurs-dinteret-general-decouvrez-les-17-defis-de-la-quatrieme-promotion</link>
+		
+		<dc:creator><![CDATA[Laure Casellas]]></dc:creator>
+		<pubDate>Mon, 06 Apr 2020 15:29:56 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Entrepreneurs d'intérêt général]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=13996</guid>
+
+					<description><![CDATA[Les 24 et 25 mars 2020 s’est tenu le jury de sélection des défis pour la 4ème promotion du programme Entrepreneurs d’Intérêt Général, qui débutera en septembre 2020. Découvrez les 17 défis sélectionnés pour faire partie de la promotion EIG 4 et les prochaines étapes de la constitution de la promotion.]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-color has-very-dark-gray-color">Les 24 et 25 mars 2020 s’est tenu le jury de sélection des défis pour la 4<sup>ème</sup> promotion du programme <a href="https://entrepreneur-interet-general.etalab.gouv.fr/">Entrepreneurs d’Intérêt Général</a>, qui débutera en septembre 2020. Près de 100 personnes ont été rassemblées sur ces deux journées de jury en ligne et 21 défis auditionnés. <strong>Découvrez les 17 défis sélectionnés pour faire partie de la promotion EIG 4 et les prochaines étapes de la constitution de la promotion.</strong></p>
+
+
+
+<h3 class="wp-block-heading">Qu’est-ce que le programme Entrepreneurs d’Intérêt Général&nbsp;?</h3>
+
+
+
+<p>Pour rappel, le principe du programme est d’<strong>intégrer pour 10 mois des profils numériques d&rsquo;exception dans les administrations </strong>pour relever des défis d&rsquo;amélioration du service public à l&rsquo;aide du numérique et des données.</p>
+
+
+
+<p>Les défis sont sélectionnés par appel à projets selon des critères d’impact pour les métiers de l’administration et les citoyens, d’innovation technique et d’ouverture à de nouvelles méthodes de travail. Les entrepreneurs d&rsquo;intérêt général&nbsp;sont ensuite sélectionnés grâce à un appel à candidatures. </p>
+
+
+
+<h3 class="wp-block-heading">Des défis à fort impact pour la quatrième promotion EIG</h3>
+
+
+
+<p>Suite à l’appel à projets, <strong>31 dossiers ont été déposés par les administrations</strong>. Une phase de pré-sélection a permis de retenir 21 défis, qui ont été auditionnés par le jury. 16 défis ont été retenus, auxquels s’ajoute le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/eiglink.html" class="broken_link">EIG Link</a>, présent à chaque promotion.</p>
+
+
+
+<p>Les défis retenus demandent <strong>des compétences en design, développement et data science réparties de manière homogène, avec une demande accrue en design</strong>. En effet, cette année le programme Designers d’Intérêt Général fusionne avec le programme Entrepreneurs d’Intérêt Général. Au total, 38 EIG sont recherchés pour répondre aux 17 défis retenus, dont 14 designers, 12 développeuses et développeurs et 12 data scientists ou data engineers. En pratique, ces compétences se combineront puisque chaque administration accueillera une équipe pluridisciplinaire de 2 ou 3 EIG.</p>
+
+
+
+<p>Les défis sélectionnés portent sur <strong>des thématiques d’actualité</strong>, comme la transition écologique, la santé, la gestion de crise, la culture ou encore l’accès à l’information. </p>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<h3 class="wp-block-heading">Une diversité d’administrations représentées</h3>
+
+
+
+<p>Les lauréats composent <strong>un
+large panel d’administrations</strong> : administration centrale (ministères,
+directions générales), service déconcentré, autorité administrative
+indépendante ou encore établissement public à caractère administratif. </p>
+
+
+
+<p>Cette sélection permet notamment à <strong>8 nouvelles administrations</strong> de rejoindre le programme Entrepreneurs d’Intérêt Général&nbsp;: l’Agence nationale de sécurité du médicament et des produits de santé (ANSM), la direction du Budget, la direction régionale et interdépartementale de l’Environnement et de l’Énergie (DRIEE), l’Autorité de sûreté nucléaire (ASN), la direction générale des Collectivités locales (DGCL), la Haute autorité de santé (HAS), la brigade de sapeurs-pompiers de Paris (BSPP) et l’Insee. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/04/evenement-information-defis-eig4.jpg" alt="" class="wp-image-14046" width="760" height="570" srcset="/wp-content/uploads/2020/04/evenement-information-defis-eig4.jpg 1024w, /wp-content/uploads/2020/04/evenement-information-defis-eig4-300x225.jpg 300w, /wp-content/uploads/2020/04/evenement-information-defis-eig4-768x576.jpg 768w" sizes="(max-width: 760px) 100vw, 760px" /><figcaption><em>Soizic Pénicaud, responsable du programme EIG, présente l&rsquo;appel à projets aux administrations intéressées.</em></figcaption></figure></div>
+</div></div>
+
+
+
+<p><strong>Voici les 16 défis sélectionnés lors du jury, qui rejoindront la quatrième promotion du programme EIG dès septembre 2020&nbsp;:</strong></p>
+
+
+<ul>
+<li><strong data-rich-text-format-boundary="true">Agence du numérique de la sécurité civile : </strong> permettre aux maires, préfets et autres représentants de l’État de bénéficier d’informations actualisées en temps réel grâce à un système de gestion de crise. <strong>         </strong></li>
+<li class="has-text-color"><strong>Agence nationale de sécurité du médicament et des produits de santé : </strong>améliorer l’information du public sur les médicaments en accompagnant l’ouverture et la valorisation des données de l’ANSM.</li>
+<li class="has-text-color"><strong>Autorité de sûreté nucléaire : </strong>orienter la politique de l’ASN en matière de contrôle des activités nucléaires à partir de l’exploitation des données d’inspection.</li>
+<li class="has-text-color"><strong>Brigade des sapeurs-pompiers de Paris : </strong>concevoir des outils permettant de fournir un état exhaustif de l’engagement des secours et des données de santé récupérées sur le terrain à chaque instant.</li>
+<li class="has-text-color"><strong>Centre National de Surveillance des Pêches, ministère de la Transition écologique et solidaire : </strong>concevoir un système permettant, par le croisement de données, d’améliorer la qualité et la rapidité du ciblage des navires de pêche qui présentent des enjeux de contrôle.</li>
+<li class="has-text-color"><strong>Cour de cassation : </strong>développer un outil d’annotation ergonomique et open source pour accélérer la pseudonymisation des décisions de justice et leur mise en open data.</li>
+<li class="has-text-color"><strong>Direction des affaires maritimes, ministère de la Transition écologique et solidaire : </strong>créer une application simplifiant et automatisant les demandes de délivrance des brevets et des certificats de marins.</li>
+<li class="has-text-color"><strong>Direction du budget : </strong>améliorer l’information du public sur les données budgétaires et financières publiques liées aux Jeux Olympiques et Paralympiques de Paris 2024.</li>
+<li class="has-text-color"><strong>Direction générale de la gendarmerie nationale : </strong>développer un outil permettant d’adapter en temps réel les plans d’intervention de secours en fonction des contraintes géographiques et temporelles.</li>
+<li class="has-text-color"><strong>Direction générale des collectivités locales : </strong>constituer un portail web ou un répertoire unique pour fédérer les sites officiels diffuseurs des données financières et autres statistiques relatives aux collectivités locales.</li>
+<li class="has-text-color"><strong>Direction régionale et interdépartementale de l’Environnement, Ile-de-France : </strong>faciliter le travail des inspecteurs des installations classées pour la protection de l’environnement (ICPE) en concevant un outil capable de consolider automatiquement la réglementation applicable.</li>
+<li class="has-text-color"><strong>Haute autorité de santé : </strong>garantir l’indépendance de la HAS en concevant un outil qui analyse les liens d’intérêts des experts externes sollicités par la HAS pour identifier de possibles conflits d’intérêt.</li>
+<li class="has-text-color"><strong>Insee : </strong>accompagner les démarches innovantes des services statistiques ministériels et de l’Insee en développant une plateforme partagée de traitement des données.</li>
+<li class="has-text-color"><strong>Ministère de la Culture : </strong>concevoir la version numérique de l’Atlas régional de la culture pour permettre une comparaison territoriale et instantanée des données de la culture.</li>
+<li class="has-text-color"><strong>Ministère de la Culture et ministère des Affaires sociales : </strong>concevoir un outil pour verser directement dans un système d’archivage électronique un répertoire bureautique et rendre l’opération de formatage transparente pour l’utilisateur.</li>
+<li class="has-text-color"><strong>Ministère de la Transition écologique et solidaire : </strong>créer une plateforme des aides publiques à la transition écologique et énergétique.</li>
+</ul>
+
+
+<p>A cette liste s&rsquo;ajoute le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/eiglink.html" class="broken_link">EIG Link</a>, présent à chaque promotion. Son objectif est d&rsquo;accompagner du point de vue technique et méthodologique le collectif que constitue une promotion d&rsquo;entrepreneurs d&rsquo;intérêt général. </p>
+
+
+
+<h3 class="wp-block-heading">L’apport d’un jury pluridisciplinaire, externe et paritaire</h3>
+
+
+
+<p>Le programme EIG participe à la création d’<a href="https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html" class="broken_link"><strong>une communauté engagée autour du numérique d’intérêt général</strong>.</a> Cette communauté a donc été mobilisée et renforcée lors de la constitution du jury de la promotion 4, qui a rassemblé 44 experts (dont 21 expertes) issus de l’administration et des mondes associatif, de l’entrepreneuriat, de la recherche. Cette <strong>complémentarité des regards</strong> permet une sélection affinée des projets. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/04/jury-1024x728.jpeg" alt="" class="wp-image-14020" width="719" height="511" srcset="/wp-content/uploads/2020/04/jury-1024x728.jpeg 1024w, /wp-content/uploads/2020/04/jury-300x213.jpeg 300w, /wp-content/uploads/2020/04/jury-768x546.jpeg 768w, /wp-content/uploads/2020/04/jury.jpeg 1192w" sizes="(max-width: 719px) 100vw, 719px" /><figcaption><em>Le jury du mardi matin rassemblé, photographié par <a href="https://pbs.twimg.com/media/ET3MsKhXsAAsjQR.jpg">Clémence Pène</a></em></figcaption></figure></div>
+
+
+
+<p>La composition du jury de sélection des défis de la 4<sup>ème</sup> promotion EIG témoigne de cette diversité de profils :</p>
+
+
+<ul>
+<li class="has-text-color"><span style="color: #333333;" lang="EN-US">Mathilde Aglietta, ShareIT.io</span></li>
+<li class="has-text-color"><span style="color: #333333;" lang="EN-US">Geoffrey Aldebert, Etalab</span></li>
+<li class="has-text-color"><span style="color: #333333;">Vincent Bataille, Open Food Facts</span></li>
+<li class="has-text-color"><span style="color: #333333;">Romain Beaucher, Vraiment Vraiment</span></li>
+<li class="has-text-color"><span style="color: #333333;">Marine Beck, Fabrique RH / Station F</span></li>
+<li class="has-text-color"><span style="color: #333333;">Nicolas Berkouk, INRIA, ancien EIG au ministère de l’Action et des comptes publics (promotion 3)</span></li>
+<li class="has-text-color"><span style="color: #333333;">Rudy Cambier, Liberté Living Lab</span></li>
+<li class="has-text-color"><span style="color: #333333;">Régis Chatellier, Linc (CNIL)</span></li>
+<li class="has-text-color"><span style="color: #333333;">Augustin Courtier, Latitudes</span></li>
+<li class="has-text-color"><span style="color: #333333;">Virginia Cruz, idsl</span></li>
+<li class="has-text-color"><span style="color: #333333;">Latifa Dafankha, L’Hermitage</span></li>
+<li class="has-text-color"><span style="color: #333333;">Arnaud de Champsavin, DITP</span></li>
+<li class="has-text-color"><span style="color: #333333;">Astrid Delacour, Banque de France</span></li>
+<li class="has-text-color"><span style="color: #333333;">Lucie Delahaie, Ministère de l’intérieur</span></li>
+<li class="has-text-color"><span style="color: #333333;" lang="EN-US">Geoffrey Delcroix, Ubisoft</span></li>
+<li class="has-text-color"><span style="color: #333333;" lang="EN-US">Tristan Desplechin, Hiveworks</span></li>
+<li class="has-text-color"><span style="color: #333333;">Léa Douhard, Lab 110bis, Ministère de l’Éducation nationale et de la Jeunesse</span></li>
+<li class="has-text-color"><span style="color: #333333;">Laure Dubuc, Délégation interministérielle à l’hébergement et l’accès au logement (programme Designers d’Intérêt Général)</span></li>
+<li class="has-text-color"><span style="color: #333333;">Benoît Duée, Direction générale de l’administration et de la fonction publique</span></li>
+<li class="has-text-color"><span style="color: #333333;">Claire Duizabo, Entourage</span></li>
+<li class="has-text-color"><span style="color: #333333;">Xavier Dupré, Microsoft, ENSAE</span></li>
+<li class="has-text-color"><span style="color: #333333;">Matthieu Faure, Adullact</span></li>
+<li class="has-text-color"><span style="color: #333333;">Samah Ghaloussi, Aalia Tech, ancienne EIG au Ministère de la Santé (promotion 2)</span></li>
+<li class="has-text-color"><span style="color: #333333;">Léa Giraud, Démocratie ouverte</span></li>
+<li class="has-text-color"><span style="color: #333333;">Nicolas Grandjean, Gendarmerie nationale, programme Designers d’Intérêt Général</span></li>
+<li class="has-text-color"><span style="color: #333333;">Guillaume Lancrenon, Ancien EIG au Ministère de l’Intérieur (promotion 2) </span></li>
+<li class="has-text-color"><span style="color: #333333;">Manon Léger, Latitudes</span></li>
+<li class="has-text-color"><span style="color: #333333;">Clément Mabi, UTC de Compiègne</span></li>
+<li class="has-text-color"><span style="color: #333333;">Coline Malivel, Programme Designers d’Intérêt Général</span></li>
+<li class="has-text-color"><span style="color: #333333;">Mauricio Mejia, OCDE </span></li>
+<li class="has-text-color"><span style="color: #333333;">Nina Mottola, 21 | Croix-Rouge française</span></li>
+<li class="has-text-color"><span style="color: #333333;">Frédérique Pain, STRATE École de Design</span></li>
+<li class="has-text-color"><span style="color: #333333;">Clémence Pène, Direction interministérielle de la transformation publique</span></li>
+<li class="has-text-color"><span style="color: #333333;">Tiphaine Phe-Neau, Renault Digital, ancien EIG (promotion 2)</span></li>
+<li class="has-text-color"><span style="color: #333333;">Véronique Routin, Fing</span></li>
+<li class="has-text-color"><span style="color: #333333;" lang="EN-US">Amina Sabeur, French-American Foundation-France, Young leaders</span></li>
+<li class="has-text-color"><span style="color: #333333;">Pavel Soriano, Etalab</span></li>
+<li class="has-text-color"><span style="color: #333333;">Hugo Stéphan, ancien EIG à la Délégation interministérielle à l’accueil et à l&rsquo;intégration des réfugiés (promotion 3)</span></li>
+<li class="has-text-color"><span style="color: #333333;">Carine Stolz, ancienne EIG à l’Arcep (promotion 3)</span></li>
+<li class="has-text-color"><span style="color: #333333;">Laurène Tallon, Société Générale</span></li>
+<li class="has-text-color"><span style="color: #333333;">Olivier Thereaux, Open Data Institute</span></li>
+<li class="has-text-color"><span style="color: #333333;">Sébastien Touzé, Ministère de la transition écologique et solidaire, ancien EIG (promotion 3)</span></li>
+<li class="has-text-color"><span style="color: #333333;">Nicolas Vergne, Ignition Program</span></li>
+</ul>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph {"customTextColor":"#0055a3"} --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --></span></p>
+<p><span style="color: #333333;"><!--EndFragment--></span></p>
+<p><span style="color: #333333;"><!-- wp:separator --></span></p>
+<p><span style="color: #333333;"><!-- /wp:separator --></span></p>
+<p><span style="color: #333333;"><!-- wp:heading --></span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --></span></p>
+<p><span style="color: #333333;"><!-- wp:heading {"level":3} --></span></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Les prochaines étapes de la constitution de la promotion</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>FR</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <w:DoNotOptimizeForBrowser/>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="371">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+ </w:LatentStyles>
+</xml><![endif]--><span style="color: #333333;">Place désormais à <strong>l’appel à candidatures, qui durera du 4 mai au 5 juin</strong> et visera à sélectionner les experts en mesure de réaliser les défis sélectionnés. Des fiches détaillant chaque défi seront mises en ligne sur le site EIG début mai. Le jury de sélection se réunira les 30 juin, 1<sup>er</sup> et 2 juillet prochains et les EIG lauréats rejoindront leurs administrations à partir de septembre 2020.</span></p>
+<p><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph -->Pour en savoir plus sur l’<a href="https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html" class="broken_link">appel à candidatures</a>, les <a href="https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html" class="broken_link">profils recrutés </a>et les <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis.html" class="broken_link">types de défis </a>accompagnés par le programme EIG, rendez-vous sur le <a href="https://entrepreneur-interet-general.etalab.gouv.fr/"><span style="color: #333333;">site du programme</span></a>.</span></p>
+<p><em><span style="color: #333333;"><!-- /wp:paragraph --><!-- wp:paragraph --><!-- wp:paragraph -->Pour rester informé des prochaines étapes, n’hésitez pas à vous abonner à <a href="https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio" class="broken_link">notre liste de diffusion</a> et à nous suivre sur <a href="https://twitter.com/eigforever">Twitter</a>.</span></em><!--EndFragment--></p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

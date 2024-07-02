@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Open data &#8211; Etalab</title>
+	<atom:link href="/category/open-data/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Mon, 10 Jan 2022 13:43:43 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Open data &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Retour sur l’Open Data Maturity Index 2021 : mesure de l’impact de l’ouverture des données (2/4)</title>
+		<link>/retour-sur-lopen-data-maturity-index-2021-mesure-de-limpact-de-louverture-des-donnees-2-4</link>
+		
+		<dc:creator><![CDATA[Antonin Garrone]]></dc:creator>
+		<pubDate>Mon, 10 Jan 2022 17:00:00 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Open data]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data maturity index]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=16374</guid>
+
+					<description><![CDATA[En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&#160;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne. L’Open Data Maturity Report&#160;2021 évalue les progrès réalisés par les pays européens selon quatre &#8230;<p class="read-more"> <a class="" href="/retour-sur-lopen-data-maturity-index-2021-mesure-de-limpact-de-louverture-des-donnees-2-4"> <span class="screen-reader-text">Retour sur l’Open Data Maturity Index 2021 : mesure de l’impact de l’ouverture des données (2/4)</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&nbsp;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne.</p>
+
+
+
+<p>L’Open Data Maturity Report&nbsp;2021 évalue les progrès réalisés par les pays européens selon quatre critères&nbsp;:</p>
+
+
+
+<ul><li>maturité des politiques publiques relatives à l’ouverture (<em>Policy</em>) ;</li><li>qualité de la mesure de l’impact de l’open data (<em>Impact</em>) ;</li><li>maturité du portail national d’open data (<em>Portal</em>) ;</li><li>qualité des données ouvertes (<em>Quality</em>).</li></ul>
+
+
+
+<p>Ce rapport constate les résultats du travail accompli par Etalab et l’ensemble de la communauté open data et de mesurer le chemin qu’il reste à parcourir. Pour comprendre quels sont nos points forts et nos points faibles et identifier nos axes d’amélioration, nous proposons une série d’articles portant chacun sur une des dimensions évaluées par le rapport.</p>
+
+
+
+<p>Il ne s’agit pas d’être exhaustif, mais de partager certains des aspects souvent salués en France et les axes d’améliorations les plus souvent évoqués.</p>
+
+
+
+<p>Aujourd’hui nous nous concentrons sur la dimension <em>Impact</em> du classement.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Que cherche-t-on à mesurer ?</strong></h1>
+
+
+
+<p>Cette dimension porte sur les activités réalisées pour observer et mesurer la réutilisation des données ouvertes et l’impact dérivé de ces usages. La dimension de l’impact se concentre sur quatre domaines d’impact sectoriel&nbsp;: politique, social, environnemental et économique. Dans ces domaines, le rapport examine dans quelle mesure un suivi est en place pour documenter les réutilisations des données ouvertes publiées, et si des applications, des produits et des services ont été développés pour relever les défis dans ces domaines, que ce soit par la puissance publique ou la société civile.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Les bonnes pratiques françaises</strong></h1>
+
+
+
+<h3 class="wp-block-heading"><strong>L’open data comme outil de compréhension et de pilotage de la crise</strong></h3>
+
+
+
+<p>Pour répondre aux exigences de transparence et de pilotage informé de la crise sanitaire, de <a href="https://www.data.gouv.fr/fr/pages/donnees-sante/" class="broken_link">nombreuses données relatives à l’épidémie ont été publiées</a>. Afin de rendre ces données accessibles et compréhensibles pour le plus grand nombre, les informations sont valorisées dans le&nbsp;<a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees">tableau de bord Covid-19 publié sur gouvernement.fr</a>. Ces données ont également&nbsp;<a href="https://www.data.gouv.fr/fr/reuses/?tag=covid">inspiré de très nombreuses réutilisations</a> dont certaines sont devenues très <a href="https://www.data.gouv.fr/fr/reuses/covid-tracker-suivez-lepidemie-du-covid19-en-france-et-dans-le-monde/">célèbres</a>. La richesse des données publiées et des réutilisations qui en sont sorties ont permis d’attester de l’importance de l’open data en temps de crise.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Rendre les données ouvertes exploitables par toutes et tous</strong></h3>
+
+
+
+<p>Les données relatives à l’épidémie ne sont pas les seules à être rendues intelligibles. Pour exemple, en 2020 Etalab a développé avec la Direction générale des entreprises , le site&nbsp;<a href="https://annuaire-entreprises.data.gouv.fr/">annuaire-entreprises</a>, qui s’appuie sur des données ouvertes.</p>
+
+
+
+<p>L’ambition de ce portail est de devenir la référence officielle dans la consultation des données relatives aux personnes morales.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>L’accompagnement des réutilisateurs de données</strong></h3>
+
+
+
+<p>Les efforts poursuivis pour accompagner non seulement les producteurs, mais aussi les réutilisateurs de données méritent d’être salués. On peut notamment citer l’équipe <a href="http://transport.data.gouv.fr/">transport.data.gouv.fr</a> qui suit de près les l’<a href="https://transport.data.gouv.fr/stats">état de l’ouverture</a> et des <a href="https://doc.transport.data.gouv.fr/reutilisateurs/utilisation-par-les-reutilisateurs-de-donnees" class="broken_link">usages des données de transports</a>.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Une tendance croissante à la mesure de l’impact</strong></h3>
+
+
+
+<p>De manière générale, on peut constater une hausse de l’intérêt des producteurs de données de l’usage qui est fait de leurs données et de la mesure de l’impact de l’ouverture. C’est d’ailleurs une recommandation du <a href="https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources">rapport sur la politique publique de la donnée, des algorithmes et des codes sources</a> issus de la la mission Open Data conduite par le député Éric Bothorel. La mission met en avant quatre domaines d’impact de l’open data&nbsp;: scientifique comme vecteur de connaissance, économique comme moteur de l’innovation, démocratique pour améliorer le service public et politique pour restaurer la confiance des citoyens dans l’action publique.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Les axes d’améliorations</strong></h1>
+
+
+
+<h3 class="wp-block-heading"><strong>Un défi pour l’ensemble des acteurs</strong></h3>
+
+
+
+<p>Par essence, la mesure de l’impact de l’open data est un défi pour l’ensemble des acteurs. Il s’agit de ne pas préjuger ou de tracer sans objectif l’usage des données. Parmi les problématiques liées à la mesure des usages, nous pouvons citer un <strong>enjeu de volume,</strong> puisque les réutilisations connues sur <a href="http://data.gouv.fr/">data.gouv.fr</a> ne représentent que le sommet de l’iceberg de l’existant. Il existe également un enjeu <strong>de représentativité</strong>&nbsp;des publics parmi les réutilisateurs, puisque les réutilisateurs connus de <a href="http://data.gouv.fr/">data.gouv.fr</a> présentent souvent des profils homogènes. A ce titre, si les acteurs de la société civile sont assez prompts à référencer leurs travaux, d’autres, comme les administrations et le secteur privé par exemple, sont parfois moins proactifs. Ces derniers représentent pourtant des usages qu’il est essentiel de mesurer. Par ailleurs, la compréhension et le référencement des réutilisations sont complexifiés par la&nbsp;<strong>diversité des usages</strong>. Certains usages étant plus faciles à documenter (cartographie, moteur de recherche) que d’autres (simple observation des données par exemple).</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Se méfier des indicateurs de vanité</strong></h3>
+
+
+
+<p>Les indicateurs les plus souvent utilisés pour mesurer la performance d’une politique d’ouverture des données ou d’un portail de données peuvent parfois être assimilés à des <a href="https://en.wikipedia.org/wiki/Lean_startup#Actionable_metrics">indicateurs de vanité</a> en cela qu’ils permettent davantage de flatter la personne qui les mesure que réellement mesurer l’impact. Le nombre de visites sur un jeu de données ou encore le nombre de téléchargements, par exemple, ne nous permet pas réellement de savoir si l’ouverture de ce dernier a produit un impact concret même si ce sont des indicateurs dignes d’intérêt. Il s’agit d’aller plus loin en mesurant plus systématiquement des indicateurs qualitatifs : par exemple, les usagers trouvent-ils les données dont-ils besoins ? Sont-ils satisfaits de la qualité des données ?</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img fetchpriority="high" decoding="async" width="768" height="441" src="https://www.etalab.gouv.fr/wp-content/uploads/2022/01/odm2021-impact.png" alt="" class="wp-image-16375" srcset="/wp-content/uploads/2022/01/odm2021-impact.png 768w, /wp-content/uploads/2022/01/odm2021-impact-300x172.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Retour sur l’Open Data Maturity Index 2021 : Politique &#038; Gouvernance de l’open data en France (1/4)</title>
+		<link>/retour-sur-lopen-data-maturity-index-2021-politique-gouvernance-de-lopen-data-en-france-1-4</link>
+		
+		<dc:creator><![CDATA[Mario Restuccia]]></dc:creator>
+		<pubDate>Mon, 03 Jan 2022 16:13:02 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Open data]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data maturity index]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=16323</guid>
+
+					<description><![CDATA[En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&#160;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne. L’Open Data Maturity Report&#160;2021 évalue les progrès réalisés par les pays européens selon quatre &#8230;<p class="read-more"> <a class="" href="/retour-sur-lopen-data-maturity-index-2021-politique-gouvernance-de-lopen-data-en-france-1-4"> <span class="screen-reader-text">Retour sur l’Open Data Maturity Index 2021 : Politique &#038; Gouvernance de l’open data en France (1/4)</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&nbsp;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne.</p>
+
+
+
+<p>L’Open Data Maturity Report&nbsp;2021 évalue les progrès réalisés par les pays européens selon quatre critères&nbsp;:</p>
+
+
+
+<ul><li>maturité des politiques publiques relatives à l’ouverture (<em>Policy</em>) ;</li><li>qualité de la mesure de l’impact de l’open data (<em>Impact</em>) ;</li><li>maturité du portail national d’open data (<em>Portal</em>) ;</li><li>qualité des données ouvertes (<em>Quality</em>).</li></ul>
+
+
+
+<p>Ce rapport constate les résultats du travail accompli par Etalab et l’ensemble de la communauté open data et permet de mesurer le chemin qu’il reste à parcourir. Pour comprendre quels sont nos points forts et nos points faibles et identifier nos axes d’amélioration, nous proposons une série d’articles portant chacun sur une des dimensions évaluées par le rapport.</p>
+
+
+
+<p>Aujourd’hui, nous nous penchons sur la dimension <em>Policy,</em> qui cherche à mesurer la maturité du cadre politique du pays. Il ne s’agit pas d’être exhaustif, mais de partager certains des aspects souvent salués en France et les axes d’améliorations les plus souvent évoqués.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Que cherche-t-on à mesurer ?</strong></h2>
+
+
+
+<p>Cette dimension se concentre sur la présence de politiques publiques et de stratégies spécifiques visant à encourager l’ouverture des données ouvertes au niveau national. Elle analyse également l’existence de structures de gouvernance qui permettent la participation d’acteurs du secteur privé ainsi que les mesures favorisant l’ouverture des données au niveau national, régional et local. En outre, la dimension <em>Policy</em> identifie les programmes de formation qui améliorent les compétences des agents publics en matière de données.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Les bonnes pratiques françaises</strong></h2>
+
+
+
+<h3 class="wp-block-heading"><strong>Une gouvernance interministérielle robuste</strong></h3>
+
+
+
+<p>Conformément à la <strong><a href="https://www.legifrance.gouv.fr/circulaire/id/45162">circulaire n°&nbsp;6264/SG du 27&nbsp;avril 2021 relative à la politique publique de la donnée, des algorithmes et des codes sources</a></strong>,&nbsp;<strong>15 administrateurs ministériels des données, des algorithmes et des codes sources (AMDAC) ont été nommés dans tous les ministères au 15&nbsp;mai 2021.</strong> Le directeur interministériel du numérique, en sa qualité d’Administrateur général des données, algorithmes et codes sources, assure la coordination de ce&nbsp;<strong>réseau</strong>, en s’appuyant sur le département Etalab. Chaque AMDAC a lui-même constitué et anime&nbsp;<strong>un réseau de correspondants</strong>&nbsp;au sein des directions métier de son périmètre. Au niveau territorial, un référent « données, algorithmes et codes sources » est également désigné auprès de chaque préfet de région pour accompagner les services déconcentrés de l&rsquo;État.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Une politique de la donnée ambitieuse</strong></h3>
+
+
+
+<p>Dans la suite de la nomination des AMDAC, <strong>chaque ministère</strong> a proposé en septembre 2021 <strong>une feuille de route de la donnée sur deux à trois ans.</strong> Sur chaque périmètre ministériel, chacune de ces stratégies met en lumière ce que la donnée peut améliorer dans les politiques publiques, les actions à mener et leur calendrier de réalisation, ainsi que la gouvernance mise en place pour en assurer la mise en œuvre. <strong>500 actions sont recensées</strong>&nbsp;dans ces <a href="https://www.data.gouv.fr/fr/datasets/liste-des-actions-prises-par-les-ministeres-dans-le-cadre-des-feuilles-de-routes-ministerielles/">15&nbsp;feuilles de route</a>.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Des ressources à la disposition des producteurs</strong></h3>
+
+
+
+<p>Afin d’améliorer la qualité des données, Etalab fait des efforts particuliers pour mieux accompagner les producteurs de données dans leurs démarches de publication. Cela passe notamment par la publication de <a href="https://guides.etalab.gouv.fr/">guides</a> qui couvrent des thèmes juridiques, techniques ou organisationnels.</p>
+
+
+
+<p>L’association OpenDataFrance met également à disposition des <a href="https://www.opendatafrance.net/ressources/documents-opendata-france/">ressources méthodologiques et pédagogiques</a> à destination des collectivités territoriales.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Des producteurs plus à l’écoute des besoins des réutilisateurs</strong></h3>
+
+
+
+<p>La prise en compte des besoins et des usages des réutilisateurs de données est de plus en plus importante chez les producteurs de données à mesure que ces derniers gagnent en maturité sur leur démarche d’ouverture. On peut citer par exemple les groupes de discussion organisés par Santé publique France avec les principaux réutilisateurs de données afin de partager des informations sur la manière dont les données sont collectées, la méthodologie des indicateurs et de donner l’opportunité aux réutilisateurs d’exprimer leurs besoins et attentes.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Des collectivités locales dynamiques</strong></h3>
+
+
+
+<p>L&rsquo;ouverture des données est également significativement soutenue par l’engagement des collectivités territoriales.</p>
+
+
+
+<p>À ce titre, l’<a href="https://agence-cohesion-territoires.gouv.fr/">Agence nationale de la cohésion des territoires (ANCT)</a> propose un accompagnement sur mesure aux collectivités en matière d’ouverture et circulation des données.</p>
+
+
+
+<p>Le rôle de l’association <a href="https://www.opendatafrance.net/">OpenDataFrance</a> de soutien et de coordination des collectivités territoriales est aussi précieux. Afin de renforcer son action d&rsquo;accompagnement et d&rsquo;outillage, l&rsquo;association a notamment été financée en 2021 par le dispositif France Relance.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img decoding="async" width="810" height="474" src="https://www.etalab.gouv.fr/wp-content/uploads/2022/01/odm2021-policy.png" alt="" class="wp-image-16329" srcset="/wp-content/uploads/2022/01/odm2021-policy.png 810w, /wp-content/uploads/2022/01/odm2021-policy-300x176.png 300w, /wp-content/uploads/2022/01/odm2021-policy-768x449.png 768w" sizes="(max-width: 810px) 100vw, 810px" /></figure></div>
+
+
+
+<h1 class="wp-block-heading"><strong>Les axes d’améliorations</strong></h1>
+
+
+
+<h3 class="wp-block-heading"><strong>Un besoin d’améliorer les guides et de mettre en cohérence les ressources</strong></h3>
+
+
+
+<p>Si de nombreuses ressources sont mises à disposition des producteurs et des réutilisateurs de données, celles-ci doivent encore être complétées et mises en cohérence. L’enjeu est de mieux orienter les usagers vers la bonne ressource au bon moment dans leurs parcours de publication ou de réutilisation de données.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Enrichir l’offre de formation d’Etalab</strong></h3>
+
+
+
+<p>La formation opérationnelle des agents publics sur les enjeux de la donnée, des algorithmes et des codes source doit être renforcée afin que chaque acteur soit en capacité de s’approprier la politique de la donnée et sache évaluer ses activités quotidiennes. Une offre de formation interministérielle sera proposée par le <a href="https://www.transformation.gouv.fr/">Ministère de la transformation et de la fonction publiques</a>, avec le concours des administrateurs ministériels des données et proposera un ensemble de modules de formation adaptés aux agents.</p>
+
+
+
+<h3 class="wp-block-heading">P<strong>oursuivre les efforts de centralisation des données (moissonnage)</strong></h3>
+
+
+
+<p>Un des éléments du classement pour lesquels la France est en retard par rapport à d’autres pays est que l’ensemble des données publiques n’est pas référencé sur <a href="http://data.gouv.fr/">data.gouv.fr</a>. A titre d’exemple, les données de certains portails de données locaux ne sont pas encore référencées sur <a href="http://data.gouv.fr/">data.gouv.fr</a>. Ce constat s’explique par divers facteurs : richesse et dynamisme de l’écosystème français en termes d’open data, diversité des technologies employées, etc. Il s’agit de poursuivre les efforts pour tendre vers l’exhaustivité et faire de <a href="http://data.gouv.fr/">data.gouv.fr</a> un point d’entrée unique des données ouvertes en France.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Rétrospective 2020 #3/6 : Les données publiques au service de la gestion de crise et du pilotage des politiques publiques</title>
+		<link>/les-donnees-publiques-au-service-de-la-gestion-de-crise-et-du-pilotage-des-politiques-publiques</link>
+		
+		<dc:creator><![CDATA[Antonin Garrone]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2021 17:00:34 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[Open data]]></category>
+		<category><![CDATA[Réutilisations]]></category>
+		<category><![CDATA[covid-19]]></category>
+		<category><![CDATA[open data]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14953</guid>
+
+					<description><![CDATA[Ce blogpost fait partie d&#8217;une série de rétrospectives de l’année 2020 autour d’axes de travail d’Etalab : utiliser la science des données et l’intelligence artificielle pour l’administration, accompagner l’administration dans l’utilisation de logiciels libres et la publication de codes sources, ouvrir et faire circuler les données publiques, accompagner les administrations à travers le programme EIG, &#8230;<p class="read-more"> <a class="" href="/les-donnees-publiques-au-service-de-la-gestion-de-crise-et-du-pilotage-des-politiques-publiques"> <span class="screen-reader-text">Rétrospective 2020 #3/6 : Les données publiques au service de la gestion de crise et du pilotage des politiques publiques</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p><em>Ce blogpost fait partie d&rsquo;une série de rétrospectives de l’année 2020 autour d’axes de travail d’Etalab : <a href="https://www.etalab.gouv.fr/retrospective-2020-1-6-lab-ia-datascience-et-intelligence-artificielle-pour-ladministration">utiliser la science des données et l’intelligence artificielle pour l’administration</a>, <a href="https://www.etalab.gouv.fr/retrospective-2020-2-6-laccompagnement-a-louverture-des-codes-sources-et-lutilisation-de-logiciels-libres">accompagner l’administration dans l’utilisation de logiciels libres et la publication de codes sources</a>, ouvrir et faire circuler les données publiques, accompagner les administrations à travers le programme EIG, accompagner les administrations sur l’explicabilité et la redevabilité des algorithmes.</em></p></blockquote>
+
+
+
+<h3 class="wp-block-heading">L&rsquo;open data au coeur de la gestion de crise</h3>
+
+
+
+<p>L&rsquo;année 2020 a été une année très particulière pour l&rsquo;open data. La fréquentation de data.gouv.fr a atteint un record absolu avec un pic au <strong>mois de novembre 2020 lors duquel la plateforme a accueilli 2 305 255 visiteurs uniques</strong>.</p>
+
+
+
+<p>Ces chiffres s&rsquo;expliquent en grande partie par l&rsquo;intérêt du public pour les données et les réutilisations relatives au COVID-19.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="2500" height="900" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/newplot-28.png" alt="" class="wp-image-14959"/></figure>
+
+
+
+<p>Les usages de la plateforme ont également connu une hausse importante. De nombreux jeux de données et réutilisations ont été publiés en 2020.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="2500" height="900" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/newplot-29.png" alt="Jeux de données et réutilisations publiés sur data.gouv.fr en 2020" class="wp-image-14958"/></figure>
+
+
+
+<p>Si l&rsquo;attention a été porté sur les <a href="https://www.data.gouv.fr/fr/pages/donnees-coronavirus" class="broken_link">données relatives à l&rsquo;épidémie de COVID-19</a> afin de répondre aux exigences de transparence et de pilotage informé de la crise sanitaire, l&rsquo;année 2020 représente également un tournant pour l&rsquo;open data des données environnementales en particulier grâce au travail de l&rsquo;<a href="https://www.data.gouv.fr/fr/organizations/ademe/">ADEME</a>.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Pour en savoir plus sur l&rsquo;activité de la plateforme nationale de données en 2020, rendez-vous sur le <a href="https://www.data.gouv.fr/fr/posts/retour-sur-les-activites-de-data-gouv-fr-en-2020/">bilan 2020 de data.gouv.fr</a>.</p></blockquote>
+
+
+
+<h3 class="wp-block-heading">L&rsquo;open data au service de l&rsquo;information et du pilotage des politiques publiques</h3>
+
+
+
+<p>Nous avons également assisté en 2020 à une accélération des services numériques fondés sur les données ouvertes.</p>
+
+
+
+<h4 class="wp-block-heading">Un tableau de bord pour suivre l&rsquo;épidémie de COVID-19</h4>
+
+
+
+<p>Afin de rendre les données relatives à la COVID-19 accessibles et compréhensibles pour le plus grand nombre, un <a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees">tableau de bord développé par Etalab a été publié sur gouvernement.fr</a>. Celui-ci permet de visualiser l’ensemble des indicateurs de suivi de l’épidémie.</p>
+
+
+
+<p>La mise à disposition et la visualisation de ces données permettent d&rsquo;assurer la juste information du public et de faire acte de transparence sur les informations fondant les prises de décisions du gouvernement.</p>
+
+
+
+<figure class="wp-block-image alignfull"><img decoding="async" src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_9773f67bf6296fc43478899c2840bbd1.png" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees">Consulter le tableau de bord</a></p></blockquote>
+
+
+
+<h4 class="wp-block-heading">Le tableau de bord des aides aux entreprises</h4>
+
+
+
+<p>De la même manière, un tableau de bord permettant de mettre à la disposition les données sur les aides versées à destination des entreprises affectées par la crise sanitaire a été développé par Etalab.</p>
+
+
+
+<p>Ces données, détaillées par secteur d’activité et par zone géographique, permettent non seulement aux citoyens de suivre de façon transparente l&rsquo;action de l&rsquo;État, mais apporte également aux décideurs une visibilité claire, en temps réel, de la mise en oeuvre des mesures. Ceci permet notamment d&rsquo;identifier plus rapidement les adaptations nécessaires et les futures actions à mettre en oeuvre.</p>
+
+
+
+<figure class="wp-block-image alignfull"><img decoding="async" src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_7744763c2bb81ecd13b1d0fdc330aaca.png" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://aides-entreprises.data.gouv.fr/" class="broken_link">Consulter le tableau de bord</a></p></blockquote>
+
+
+
+<h4 class="wp-block-heading">Le baromètre des résultats de l&rsquo;action publique</h4>
+
+
+
+<p>L&rsquo;année 2020 est aussi l&rsquo;année de la publication du baromètre des résultats de l’action publique. <a href="https://www.gouvernement.fr/les-actions-du-gouvernement">Accessible en ligne sur le site gouvernement.fr</a>, le baromètre permet à chaque citoyen et décideur de suivre l’action du Gouvernement, politique par politique, territoire par territoire.</p>
+
+
+
+<p>Ce tableau de bord participe à l&rsquo;amélioration du pilotage des politiques publiques en les inscrivant dans une perspective de résultats et de transparence du service rendu à l&rsquo;usager.</p>
+
+
+
+<figure class="wp-block-image alignfull"><img decoding="async" src="https://static.data.gouv.fr/images/9c/07f40f654c470ab563d274ff883780.jpg" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://aides-entreprises.data.gouv.fr/" class="broken_link">Consulter le tableau de bord</a></p></blockquote>
+
+
+
+<h4 class="wp-block-heading">L&rsquo;annuaire des entreprises</h4>
+
+
+
+<p>En 2020, Etalab a également développé avec la DGE, le site <a href="https://annuaire-entreprises.data.gouv.fr/">annuaire-entreprises</a>. L&rsquo;ambition de ce portail est de devenir la référence dans la consultation des données relatives aux personnes morales.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_02da9878bff0b94f8460d16c61fa62ff.png" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://annuaire-entreprises.data.gouv.fr/" rel="sponsored nofollow">Voir l&rsquo;Annuaire des Entreprises</a></p></blockquote>
+
+
+
+<h3 class="wp-block-heading">La publication du rapport sur la politique publique de la donnée, des algorithmes et des codes sources</h3>
+
+
+
+<p>L&rsquo;année 2020 est aussi celle de la <a href="https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources">remise au Premier ministre du rapport sur la politique publique de la donnée, des algorithmes et des codes sources</a>. </p>
+
+
+
+<p>En six mois, la mission conduite par le député Eric Bothorel a réalisé plus de 250 auditions et a conduit une <a href="https://www.mission-open-data.fr/">consultation en ligne</a>, à laquelle ont contribué plus de 500 personnes et organisations.</p>
+
+
+
+<p>Le rapport propose notamment une dizaine d’études de cas comme les données de la délinquance, les modèles épidémiologiques de l’Institut Pasteur, l’ouverture de la base Sirene ou encore des exemples étrangers.</p>
+
+
+
+<p>A l&rsquo;issue de ces travaux, le gouvernement a annoncé des dispositions en matière de données à l&rsquo;occasion du <a href="https://www.modernisation.gouv.fr/transformation-publique/comites-interministeriels-de-la-transformation-publique/article-citp" class="broken_link">5e Comité Interministériel pour la Transformation Publique</a>.</p>
+
+
+
+<p>Le gouvernement a notamment pris l&rsquo;engagement suivant :</p>
+
+
+
+<blockquote class="wp-block-quote"><p>« Une politique publique de la donnée ambitieuse sera mise en œuvre par tous les ministères pour mieux exploiter, ouvrir, partager et valoriser les données publiques, au bénéfice de la transparence et de l’efficacité de l’action publique. »</p></blockquote>
+
+
+
+<p>Chaque ministère sera ainsi chargé de décliner une feuille de route ambitieuse en matière de valorisation des données de son périmètre, en s’appuyant sur une gouvernance renouvelée et plus efficace. L&rsquo;État prendra également une charte d’engagement sur le traitement des demandes de données des chercheurs, et renforcera sa politique de ressources humaines dans le domaine de la donnée.</p>
+
+
+
+<p>Dans ce cadre, de nouvelles bases de données, API et codes sources publics seront ouverts d&rsquo;ici la fin 2021, parmi lesquels :</p>
+
+
+
+<ul><li>les données de la carte scolaire des collèges ;</li><li>les données librement accessibles du répertoire opérationnel de ressources qui recense l&rsquo;ensemble de l&rsquo;offre sanitaire et du médico-social ;</li><li>les données sur les auto-écoles ayant reçu un agrément préfectoral ;</li><li>les données sur l&rsquo;agriculture biologique à la maille communale ;</li><li>les données de mise en oeuvre du plan de relance ;</li><li>les données des permis de construire des personnes physiques.</li></ul>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://www.mission-open-data.fr/uploads/decidim/attachment/file/36/Mission_Bothorel_Rapport.pdf">Lire le rapport sur la politique publique de la donnée, des algorithmes et des codes sources</a>.</p><p><a href="https://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/dp_citp_vdef_1.pdf" class="broken_link">En savoir plus sur les annonces du 5e Comité Interministériel pour la Transformation Publique</a>.</p></blockquote>
+
+
+
+<h3 class="wp-block-heading">La France reste leader en matière d&rsquo;open data en Europe</h3>
+
+
+
+<p>La France conserve sa place sur le podium des pays leader en matière d&rsquo;open data en Europe selon l&rsquo;<a href="https://www.europeandataportal.eu/en/dashboard/2020">Open Data Maturity Index</a> de la Commission Européenne.</p>
+
+
+
+<p>La Commission accorde la première place à la France pour son cadre politico-légal et pour son portail national data.gouv.fr. En revanche, en ce qui concerne la qualité des données et l&rsquo;impact, la France se situe, respectivement, à la cinquième et sixième place.</p>
+
+
+
+<figure class="wp-block-image alignfull"><img decoding="async" src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_31d140ae53955dd995c52667ff8768c5.png" alt=""/></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mois de l&#8217;innovation publique 2020 : retour sur les événements d&#8217;Etalab</title>
+		<link>/mois-de-linnovation-publique-2020-retour-sur-les-evenements-detalab</link>
+		
+		<dc:creator><![CDATA[Soizic Pénicaud]]></dc:creator>
+		<pubDate>Wed, 06 Jan 2021 11:37:27 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[Innovation ouverte / open innovation]]></category>
+		<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[Open data]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14650</guid>
+
+					<description><![CDATA[En novembre 2020, à l&#8217;occasion du Mois de l&#8217;innovation publique, Etalab a organisé douze événements sur les thèmes de l’ouverture, du partage et de la valorisation des données publiques. Près de 1000 personnes ont été au rendez-vous. Découvrez ci-dessous quelques temps forts de ces webinaires et ateliers et accédez aux enregistrements des sessions.  Ouverture et &#8230;<p class="read-more"> <a class="" href="/mois-de-linnovation-publique-2020-retour-sur-les-evenements-detalab"> <span class="screen-reader-text">Mois de l&#8217;innovation publique 2020 : retour sur les événements d&#8217;Etalab</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+<p>En novembre 2020, à l&rsquo;occasion du <a href="https://www.modernisation.gouv.fr/mois-innovation-publique/" class="broken_link">Mois de l&rsquo;innovation publique</a>, Etalab a organisé <a href="https://www.etalab.gouv.fr/rdv-etalab-mip-2020" target="_blank" rel="noopener noreferrer">douze événements</a> sur les thèmes de l’ouverture, du partage et de la valorisation des données publiques. Près de 1000 personnes ont été au rendez-vous. Découvrez ci-dessous quelques temps forts de ces webinaires et ateliers et accédez aux enregistrements des sessions. </p>
+
+
+<h3 class="wp-block-heading">Ouverture et circulation des données</h3>
+
+
+
+<h5 class="wp-block-heading"><strong>Faire circuler les données entre administrations grâce aux API</strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p>Voir <em><a rel="noreferrer noopener" href="https://www.dailymotion.com/video/x7xsjgz" target="_blank">l&rsquo;enregistrement</a> du webinaire « Simplifier les démarches des citoyens grâce aux API »</em>.</p></blockquote>
+
+
+
+<p>Combien de fois avez-vous dû transmettre une pièce justificative que l’administration détenait déjà ? « <em>80&nbsp;% des documents sont déjà détenus ou produits par une autre administration&nbsp;: la simplification passe par la circulation des données entre administrations</em> », rappelle Victor Gross (équipe API, Etalab). Le 26&nbsp;novembre, l’équipe API a mis en avant<strong> trois récits de collaboration pour mettre les API au service de la simplification des démarches</strong> : l&rsquo;utilisation des API au service des démarches usager (Mairie de Clamart), l&rsquo;utilisation d&rsquo;API Particulier au profit des centres communaux d&rsquo;action sociale (Up Cityzen) et l&rsquo;ouverture et la maîtrise de la circulation des données fiscales (Direction générale des finances publiques).</p>
+
+
+<p style="text-align: center;"><em>« Avant 2017, 3800 familles venaient au guichet de la mairie et attendaient jusqu’à deux heures, au risque de ne pas avoir les bons justificatifs pour leurs démarches. Grâce aux API, on observe un grand gain de temps, un calcul fiable et sécurisé, une très bonne appropriation côté agents et une envie de se connecter à plus d’API. » &#8211; </em>Aurélie Coutant, Mairie de Clamart.</p>
+
+
+<p>Pour continuer à simplifier la circulation des données entre administrations, l’équipe API a également mené un<strong> appel à idées</strong> tout au long du mois de novembre. L&rsquo;objectif : recueillir les demandes d’accès aux données publiques et les idées de services à construire grâce à elles.  L&rsquo;appel a recueilli 58&nbsp;contributions, dont la synthèse sera disponible prochainement. </p>
+
+
+
+<h5 class="wp-block-heading"><strong>Accélérer l&rsquo;ouverture des données dans les territoires</strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p>Voir et lire :</p><cite><em>• <a rel="noreferrer noopener" href="https://www.data.gouv.fr/fr/posts/retour-sur-levenement-open-data-des-territoires/" target="_blank">L&rsquo;article de synthèse du webinaire</a> « L’open data et les territoires : Quelle collaboration entre l’État et les collectivités territoriales ? » ; </em><br>• <em><a rel="noreferrer noopener" href="https://github.com/etalab/etalab/tree/master/diaporamas/Open%20Data%20des%20territoires%2026_11_2020" target="_blank">L’ensemble des présentations du webinaire</a></em>.<br><br><a rel="noreferrer noopener" href="https://infolettres.etalab.gouv.fr/subscribe/rn7y93le1" target="_blank" class="broken_link">S&rsquo;inscrire</a> à l&rsquo;infolettre data.gouv.fr.</cite></blockquote>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="605" height="372" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-15.32.52.png" alt="Histogramme ayant pour titre &quot;Historique des Collectivités ayant ouvert leurs données&quot;. L'axe des abscisses court d'octobre 2016 à octobre 2020. L'axe des ordonnées présente le nombre de collectivités, classées en quatre catégories : régions, départements, EPCI, communes. Le graphique montre une augmentation du nombre de collectivités ayant ouvert leurs données, de 101 en octobre 2016 à 589 en octobre 2020." class="wp-image-14667"/><figcaption>Jean-Marie Bourgogne, délégué général d&rsquo;OpenDataFrance, a présenté les résultats 2020 de l&rsquo;observatoire open data des territoires.</figcaption></figure></div>
+
+
+
+<p><strong>Quels sont les besoins des collectivités locales en termes d&rsquo;open data ?</strong> Quels sont les outils à leur disposition ? L&rsquo;équipe open data d&rsquo;Etalab et l’association<a rel="noreferrer noopener" href="https://www.opendatafrance.net/" target="_blank">&nbsp;OpenDataFrance</a> ont organisé un webinaire pour répondre à ces questions. </p>
+
+
+
+<p>Afin de proposer un bilan actualisé de l&rsquo;open data dans les territoires, Jean-Marie Bourgogne, délégué général d’OpenDataFrance, a introduit le webinaire en présentant les <strong>principaux résultats 2020 de<a rel="noreferrer noopener" href="https://www.opendatafrance.net/2020/10/15/observatoire-open-data-des-territoires-edition-oct-2020/" target="_blank">&nbsp;l’observatoire open data des territoires</a></strong>. </p>
+
+
+
+<p class="has-text-align-right"><em>« En octobre 2020, 589 collectivités territoriales publient des données en open data. Or, sans que cela soit une surprise, plus la taille diminue, moins la collectivité s’engage dans l’open data.<em> »</em> </em>Jean-Marie Bourgogne, OpenDataFrance.</p>
+
+
+
+<p>Deux témoignages ont ensuite illustré les <strong>besoins des collectivités locales</strong> en matière d&rsquo;ouverture des données. Marie Aboulker (Banque des territoires) a présenté un dispositif d&rsquo;accompagnement de onze villes pour mettre leurs données au service de la redynamisation des cœurs de ville. Pascal Chevallot (Agence d&rsquo;Urbanisme d&rsquo;Agglomérations de Moselle) a lui apporté son témoignage sur la mise en place d’un outil de pilotage de l&rsquo;immobilier commercial et sur les besoins des petites et moyennes collectivités en matière de visualisation de données.</p>
+
+
+
+<p>Puisque l&rsquo;administration centrale a également pour mission d&rsquo;apporter des outils au service des acteurs locaux, les deux dernières intervenantes ont présenté deux dispositifs qui facilitent la publication de données locales.  Mathilde Hoang (équipe open data, Etalab) a présenté les outils disponibles pour <strong>standardiser les données et accélérer leur ouverture</strong> et exploitation, notamment les schémas de données. Enfin, Sophie Clairet (Agence nationale de la cohésion des territoires) a présenté le<strong><a rel="noreferrer noopener" href="https://adresse.data.gouv.fr/gerer-mes-adresses" target="_blank">&nbsp;programme Bases Adresses Locales</a></strong> qui facilite et accélère la mise à jour de la Base Adresse Nationale à travers des outils d&rsquo;édition simples et ergonomiques. </p>
+
+
+
+<h3 class="wp-block-heading">Intelligence artificielle</h3>
+
+
+
+<h5 class="wp-block-heading"><strong>Innover avec l&rsquo;intelligence artificielle dans l&rsquo;administration : présentation de cinq outils développés en 2020</strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p><em>Voir et lire :</em></p><cite>•<a rel="noreferrer noopener" href="https://etalab.github.io/infolettre-lab-ia/numero-8/" target="_blank"><em> Les </em>supports de présentation et enregistrements</a><em> des webinaires « Cinq projets pour innover avec l&rsquo;intelligence artificielle dans l&rsquo;administratio<em>n »</em>, dans l&rsquo;infolettre du Lab IA </em>;<br>• <em>Les </em><a rel="noreferrer noopener" href="https://etalab.github.io/infolettre-lab-ia/" target="_blank">infolettres du Lab IA</a><em> et <a rel="noreferrer noopener" href="https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio" target="_blank" class="broken_link">s&rsquo;y inscrire</a>.</em></cite></blockquote>
+
+
+
+<p>En 2020, le Lab IA d’Etalab et la <a rel="noreferrer noopener" href="https://www.modernisation.gouv.fr/" target="_blank">direction interministérielle de la transformation publique (DITP)</a> ont accompagné 15&nbsp;projets pour la&nbsp;<strong>2<sup>ème&nbsp;</sup>promotion de l’appel à manifestation d&rsquo;intérêt-intelligence artificielle (AMI-IA&nbsp;2)</strong>. Pour le mois de l&rsquo;innovation publique, cinq des équipes ont partagé en webinaires de 30&nbsp;minutes&nbsp;<strong>les résultats de dix&nbsp;mois d’expérimentations</strong> sur des sujets variés : accélérer les délais de jugement avec le Conseil d&rsquo;Etat, rechercher plus efficacement des informations dans les dossiers patients avec le CHU de Bordeaux, optimiser le traitement des signalements sanitaires avec le Ministère de la Santé, l&rsquo;ANSM et l&rsquo;ANS, identifier les molécules contaminant l&rsquo;environnement et profiler les sources de pollution avec l&rsquo;INERIS et guider l&rsquo;implantation des entreprises artisanales avec la Chambre Régionale des Métiers et de l&rsquo;Artisanat de Nouvelle-Aquitaine (CRMANA).</p>
+
+
+
+<p class="has-text-align-right"><em>« Nous avons développé deux algorithmes pour modéliser le niveau d’équipement artisanal du territoire et le taux de survie des entreprises en fonction de leur environnement. Les premiers résultats sont très encourageants. À plus long terme, nous espérons une utilisation de l’outil à l’échelle nationale, ou une ouverture vers d’autres métiers de proximité, hors artisanat. »</em>&nbsp;&#8211; Jérôme Luret et Gaël Kohn, porteurs du projet CRMANA.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="530" height="287" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/12/blog_mip_IA.jpg" alt="Capture d'écran d'un tableau de bord présentant une carte et différents indicateurs. " class="wp-image-14669"/><figcaption>Outil d&rsquo;IA développé avec la Chambre Régionale des Métiers et de l&rsquo;Artisanat de Nouvelle-Aquitaine pour guider l&rsquo;implantation des entreprises. </figcaption></figure></div>
+
+
+
+<h5 class="wp-block-heading"><strong>Rendre l&rsquo;intelligence artificielle accessible aux administrations avec des outils mutualisés</strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p><em>Voir </em> :</p><cite>• <a rel="noreferrer noopener" href="https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=48b2421b44161208a69733549d738fc6ce9e3f6b-1606377992311" target="_blank" class="broken_link">L&rsquo;enregistrement</a><em> de l&rsquo;Open Lab <em><em>«</em></em></em> <em>Pour une IA francophone <em><em>»</em></em></em> <em>(PIAF)</em> ;<br>• <a rel="noreferrer noopener" href="https://transformations-droit.com/webinaire-la-pseudonymisation-des-decisions-de-justice-travaux-du-lab-ia-avec" target="_blank">L&rsquo;enregistrement</a><em> du webinaire <em>«</em></em> <em>La pseudonymisation des décisions de justice. Travaux du Lab IA avec la Cour de cassation et le Conseil d’État<em><em> »</em></em> aux rendez-vous Transformation du droit</em> ;<br>• <a rel="noreferrer noopener" href="https://datascience.etalab.studio/pseudo/" target="_blank" class="broken_link">La démonstration</a> de l&rsquo;outil open source de pseudonymisation développé. </cite></blockquote>
+
+
+
+<p>Le Lab IA a aussi animé un <strong>Open Lab (atelier participatif) pour présenter la nouvelle phase du projet <a rel="noreferrer noopener" href="https://piaf.etalab.studio/" target="_blank">PIAF &#8211; Pour une IA francophone</a></strong>.</p>
+
+
+
+<p><em>« Grâce au premier jeu de données francophone obtenu de façon collaborative avec plus de 9500&nbsp;annotations et plus de 700&nbsp;contributeurs, l’équipe PIAF s’est lancée depuis juin 2020 dans une nouvelle phase&nbsp;: favoriser l’appropriation des IA de question-réponse par l’administration »</em>, y a&nbsp;annoncé Guillaume Lancrenon du Lab IA d&rsquo;Etalab. </p>
+
+
+
+<p>Pour ce faire, l&rsquo;équipe a mené un travail d&rsquo;enquête aux côtés de&nbsp;<a rel="noreferrer noopener" href="http://service-public.fr/" target="_blank">service-public.fr</a>&nbsp;et d’autres administrations et imaginé un produit mutualisé avec des cas d’usages variés&nbsp;: outils pour l’agent, agent conversationnel et recherche d’informations pour le citoyen.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1321" height="661" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/12/blog_mip_PIAF.png" alt="Capture d'écran dun tableau virtuel rempli de post-its. Les catégories : acteurs, projets/ressources, freins, besoins, idées/pistes, questions." class="wp-image-14670"/><figcaption>Cartographie des acteurs, des ressources, des freins et des leviers pour une IA francophone élaborée lors de l&rsquo;Open Lab.</figcaption></figure></div>
+
+
+
+<p>L’équipe a présenté les différentes applications qui pourront être réutilisées directement par les administrations et les participants ont pu contribuer à la réflexion sur les prochaines étapes du projet via trois ateliers&nbsp;: quels cas d’usage pour les algorithmes de question-réponse ? Quelles pistes d’améliorations techniques ? Comment mieux encourager l’intelligence artificielle francophone ouverte ? </p>
+
+
+
+<p>Le Lab IA a présenté un autre&nbsp;outil mutualisé&nbsp;le 19&nbsp;novembre aux côtés du Conseil d’État et de la Cour de Cassation, cette fois pour la <strong><a rel="noreferrer noopener" href="https://datascience.etalab.studio/pseudo/" target="_blank" class="broken_link">pseudonymisation de documents</a></strong>. « <em>Initialement développé en coopération avec le Conseil d’État&nbsp;pour&nbsp;<strong>pseudonymiser les décisions de justice</strong>, <em>cet outil est open source et peut-être réutilisé pour tous types de documents textuels</em></em> », a expliqué Pavel Soriano (Lab IA, Etalab) pendant la conférence virtuelle Transformation du droit organisée par l&rsquo;association <a rel="noreferrer noopener" href="http://openlaw.fr/" target="_blank">Open Law</a> et le <a rel="noreferrer noopener" href="https://www.village-justice.com/articles/" target="_blank">Village de la justice</a>.</p>
+
+
+
+<h3 class="wp-block-heading">Open source</h3>
+
+
+
+<blockquote class="wp-block-quote"><p><em><a rel="noreferrer noopener" href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" target="_blank" class="broken_link">S&rsquo;inscrire </a>à la gazette #BlueHats, la gazette du logiciel libre dans/pour l&rsquo;administration.</em></p></blockquote>
+
+
+
+<p>Bastien Guerry, référent logiciel libre à Etalab, a animé le 23 novembre une clinique d’ouverture des codes sources. Elle a permis d’engager deux discussions importantes&nbsp;: l’une avec le CEREMA, qui a dans la foulée rejoint le groupe de travail sur les politiques de publication de codes sources, et l’autre avec le Pass Culture, qui s’interroge sur les dépôts à ouvrir en priorité. Ces deux échanges se poursuivront en 2021.</p>
+
+
+
+<h3 class="wp-block-heading">Innovation ouverte &amp; programme Entrepreneurs d&rsquo;Intérêt Général</h3>
+
+
+
+<h5 class="wp-block-heading"><strong>Pérenniser la transformation numérique&nbsp;: témoignages de mentors du programme Entrepreneurs d&rsquo;Intérêt Général</strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p>Lire <a rel="noreferrer noopener" href="https://www.dailymotion.com/video/x7xtj58" target="_blank">l&rsquo;article de synthèse et voir l&rsquo;enregistrement </a>du webinaire « Pérenniser la transformation numérique : témoignages de mentors du programme EIG ».</p><cite><a rel="noreferrer noopener" href="https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio" target="_blank" class="broken_link">S&rsquo;inscrire</a><em> à la liste de diffusion du programme EIG</em>.</cite></blockquote>
+
+
+
+<p>Lors d’une première table ronde, l’équipe du programme de transformation numérique <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/" target="_blank">Entrepreneurs d’Intérêt Général</a> (EIG) a réuni d’anciennes et anciens agents publics porteurs de projets de la promotion 3 à la <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/openjustice.html" target="_blank" class="broken_link">Cour de cassation</a>, l&rsquo;<a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cartobio.html" target="_blank" class="broken_link">Agence Bio</a> et la <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/karfur.html" target="_blank" class="broken_link">délégation interministérielle à l&rsquo;accueil et l&rsquo;intégration des réfugiés</a> (DIAIR) pour une table ronde sur le thème de la pérennisation. </p>
+
+
+
+<p>Un an après leur participation au programme, ces mentors ont fait part des avancées des projets et ont apporté leur regard sur les changements à long terme dans leurs institutions. Ce fut l’occasion de discuter des enjeux de l’immersion de spécialistes du numérique dans l’administration, de réitérer l’importance des agents publics dans la transformation de leurs services et d’évoquer les difficultés liées à la pérennisation de démarches d&rsquo;innovation.</p>
+
+
+
+<p class="has-text-align-right">«&nbsp;<em>Ce qui est très intéressant dans le programme EIG, c’est la manière dont il transforme les entités administratives qui accueillent les EIG, au-delà des projets. </em>» &#8211; Nour Allazkani (DIAIR).</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1416" height="794" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/12/evenement-mip-2020-eig3-1.png" alt="Grille présentant six vignettes de personnes en visioconférence, qui rient et sourient. " class="wp-image-14714"/><figcaption>De gauche à droite et de haut en bas : Soizic Pénicaud (équipe accompagnement, Etalab), Dorian Fléchet (Agence Bio), Simon Karleskind (DIAIR), Estelle Jond-Necand (Cour de cassation), Nour Allazkani (DIAIR), Lucas Bchini (Agence Bio).</figcaption></figure></div>
+
+
+
+<h5 class="wp-block-heading"><strong>Choisir le bon programme d&rsquo;innovation : Entrepreneurs d&rsquo;Intérêt Général et intrapreneuriat de beta.gouv.fr, quel programme pour quel projet ? </strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p>Voir <em><a rel="noreferrer noopener" href="https://www.dailymotion.com/video/x7y0lbw" target="_blank">l&rsquo;enregistrement</a></em> du webinaire <em><em>« Entrepreneurs d&rsquo;Intérêt Général vs. intrapreneuriat de beta.gouv.fr : quel programme pour quel projet ? »</em></em>.</p></blockquote>
+
+
+
+<p>L’équipe du programme Entrepreneurs d’Intérêt Général d&rsquo;Etalab s’est associée à celle de l’incubateur <a rel="noreferrer noopener" href="http://beta.gouv.fr/" target="_blank">beta.gouv.fr</a> pour une discussion-débat autour des différences et des complémentarités entre deux accompagnements à l&rsquo;innovation : le programme EIG et le programme d’intrapreneuriat de beta.gouv.fr.</p>
+
+
+
+<p>Soizic Pénicaud (équipe accompagnement, Etalab) et Florian Delezenne (beta.gouv.fr) ont pu répondre aux questions des participantes et participants  sur les profils des agents publics recherchés, les administrations éligibles, les modalités de recrutement et le coût de chaque programme pour une administration participante.</p>
+
+
+
+<p class="has-text-align-right"><em> « Ce qui fait la force des deux approches, c&rsquo;est la complémentarité. Beta.gouv.fr essaye de faire évoluer un agent vers un autre type de poste. D&rsquo;autres projets bénéficient de l&rsquo;apport d&rsquo;EIG, où des profils techniques sont intégrés dans l&rsquo;administration, sont acculturés, bénéficient d&rsquo;une communauté et font un pas dans l&rsquo;administration pour probablement y rester. » </em>&#8211; Florian Delezenne, responsable de beta.gouv.fr à la DINUM.</p>
+
+
+
+<h5 class="wp-block-heading"><strong> Mettre le design au service de l&rsquo;environnement et la biodiversité : récits de designers d&rsquo;intérêt général </strong></h5>
+
+
+
+<blockquote class="wp-block-quote"><p>Voir <em><a rel="noreferrer noopener" href="https://www.dailymotion.com/video/x7y0lbw" target="_blank">l</a><em><a rel="noreferrer noopener" href="https://www.dailymotion.com/video/x7xtjdr" target="_blank">&lsquo;enregistrement</a></em> du meetup Design Public n°5, Environnement et biodiversité.</em></p></blockquote>
+
+
+
+<p>Enfin, quatre designers de la promotion Designers d’Intérêt Général ont présenté les résultats de leurs travaux lors d’un meetup Design Public sur le thème de l’environnement et de la biodiversité :<strong> </strong>informer les citoyens sur les espaces naturels autour de chez eux (<a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/inpn-espaces.html" target="_blank" class="broken_link">Muséum d’Histoire Naturelle</a>), faciliter l’accès à une information marine de qualité (<a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/maritux.html" target="_blank" class="broken_link">Shom</a>), améliorer l’information environnementale du citoyen (<a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/sequoia-cgdd.html" target="_blank" class="broken_link">Commissariat général au développement durable</a>) et produire des données collaboratives géolocalisées (<a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/sequoia-ign.html" target="_blank" class="broken_link">Institut national de l’information géographique et forestière</a>).</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="787" height="443" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-11-à-08.55.00.png" alt="Sur la majeure partie de l'écran : une capture d'écran de portail en ligne montrant la France et les mers et océans qui l'entoure. Cette capture d'écran est collée sur un fond blanc où sont inscrites des annotations qui donnent des explications sur les différents choix d'interface du portail. En bas de l'image, en beaucoup plus petit, les vignettes vidéo de 5 personnes dont une en train de parler." class="wp-image-14666"/><figcaption>Cécile Canel présente les maquettes qu&rsquo;elle a réalisées pour la refonte des portails cartographiques du Shom. La refonte est en train d&rsquo;être mise en oeuvre. </figcaption></figure></div>
+
+
+
+<p>Les designers y ont présenté leur travail de design (recherche utilisateur, maquettes, prototypes, etc.) et se sont ouverts sur leur expérience de designer dans l’administration. </p>
+
+
+
+<p class="has-text-align-right"><em>« Mon travail de recherche utilisateur a permis de montrer qu’il y avait un grand intérêt des usagers à participer aux politiques publiques, et qu’avec des moyens restreints (un simple téléphone, par exemple), on pouvait récolter des centaines de retours usagers rapidement. » &#8211; Marie Ramon-Daré</em>, <em>Commissariat général au développement durable.</em></p>
+
+
+
+<h3 class="wp-block-heading">Nouvelles initiatives d&rsquo;accompagnement et de financement</h3>
+
+
+
+<blockquote class="wp-block-quote"><p>Voir : </p><cite>• <a rel="noreferrer noopener" href="https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=1d691cd5e000f71b87a3526bf99593e650ec6af6-1606478406272" target="_blank" class="broken_link">L&rsquo;enregistrement</a> du lancement de l&rsquo;accompagnement « Éclairer les politiques publiques par la donnée » ;<br>• <a rel="noreferrer noopener" href="https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9073c2488737f404590af494b4ec50e0db7a0119-1605012688727" target="_blank" class="broken_link">L&rsquo;enregistrement</a> de l&rsquo;événement d&rsquo;information « Cycle de vie de la donnée ».</cite></blockquote>
+
+
+
+<h5 class="wp-block-heading"><strong>Lancement de l&rsquo;accompagnement <strong>«</strong></strong> <strong>Éclairer les politiques publiques par la donnée</strong> <strong>»</strong></h5>
+
+
+
+<p><em>Qu’est-ce qu’une politique publique pilotée par la donnée&nbsp;? Quelles réalisations aujourd’hui&nbsp;? Comment lancer un projet de pilotage par la donnée&nbsp;dans son administration ?</em></p>
+
+
+
+<p>Dans le cadre du lancement de <strong>l&rsquo;offre d’accompagnement «&nbsp;Éclairer les politiques publiques par la donnée&nbsp;»</strong>, l’équipe d’Etalab a présenté les enjeux du pilotage par la donnée, les réalisations de cette année 2020 et a ouvert la discussion sur les projets que pouvaient envisager les participants du webinaire.</p>
+
+
+
+<p>Deux cas d&rsquo;usage ont été présentés : le <a rel="noreferrer noopener" href="https://dashboard.covid19.data.gouv.fr/" target="_blank">tableau de bord covid-19</a> et le <a rel="noreferrer noopener" href="https://aides-entreprises.data.gouv.fr/" target="_blank" class="broken_link">tableau de bord des aides accordées aux entreprises</a> dans le cadre du fonds de solidarité. Les discussions en atelier ont notamment exploré le pilotage des données dans les domaines de l&rsquo;environnement, de la culture, de la lutte contre les noyades en mer et traité le cas particulier des collectivités territoriales. </p>
+
+
+
+<p>Cet accompagnement est destiné aux administrations souhaitant utiliser les données pour concevoir, mettre en œuvre et évaluer leurs politiques publiques grâce aux données. Pour obtenir davantage d’informations sur ce nouveau programme, contactez l’équipe projet&nbsp;: eclairer-par-la-donnee@data.gouv.fr.</p>
+
+
+
+<p></p>
+
+
+
+<h5 class="wp-block-heading"><strong>Lancement de l&rsquo;appel à projets «</strong> <strong>Cycle de vie de la donnée</strong> <strong>»</strong></h5>
+
+
+
+<p>Etalab a organisé une réunion d&rsquo;information pour les administrations intéressées par l&rsquo;appel à projets et guichet <strong>« Cycle de vie de la donnée »</strong> initié dans le cadre du <a href="https://france-relance.transformation.gouv.fr/" target="_blank" rel="noreferrer noopener" class="broken_link">plan de relance</a>. </p>
+
+
+
+<p>Cet appel à projets s’adresse aux directions métiers d’administration ou opérateurs en charge d’une politique publique qui souhaitent développer le recours à la donnée dans la décision et la performance publique (IA, échange de données, open data, archivage). </p>
+
+
+
+<p class="has-text-align-right"><em>« Etalab propose d’accompagner les administrations candidates avec des rituels de partage d’avancées des différents projets, les ressources et outils DINUM et une clinique de la data mensuelle, un format initié par le Lab IA d’Etalab pour prendre quelques heures afin d’aider une équipe projet à trouver des solutions sur un problème précis. »</em>  &#8211; Paul-Antoine Chevalier, responsable du pôle exploitation des données et du Lab IA à Etalab. </p>
+
+
+
+<p><em>Cet article a éveillé votre curiosité ? <a href="https://www.etalab.gouv.fr/contact" target="_blank" rel="noreferrer noopener">Contactez les équipes d&rsquo;Etalab</a> pour en savoir plus sur nos travaux.  </em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

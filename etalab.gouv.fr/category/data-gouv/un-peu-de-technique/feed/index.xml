@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Un peu de technique &#8211; Etalab</title>
+	<atom:link href="/category/data-gouv/un-peu-de-technique/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Mon, 17 Jun 2019 14:17:02 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Un peu de technique &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>schema.data.gouv.fr : un nouvel outil au service de la qualité des données</title>
+		<link>/schema-data-gouv-fr-un-nouvel-outil-au-service-de-la-qualite-des-donnees</link>
+		
+		<dc:creator><![CDATA[Antoine Augusti]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2019 15:40:33 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Un peu de technique]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10464</guid>
+
+					<description><![CDATA[Etalab annonce aujourd’hui le lancement de schema.data.gouv.fr, le répertoire des schémas de données adossé à la plateforme ouverte des données publiques.&#160; Qu’est-ce qu’un schéma de données ? C’est un modèle qui permet de décrire de manière précise et univoque les différents champs qui composent un jeu de données et les valeurs possibles. Les schémas permettent &#8230;<p class="read-more"> <a class="" href="/schema-data-gouv-fr-un-nouvel-outil-au-service-de-la-qualite-des-donnees"> <span class="screen-reader-text">schema.data.gouv.fr : un nouvel outil au service de la qualité des données</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Etalab annonce aujourd’hui le lancement de <a href="https://schema.data.gouv.fr/">schema.data.gouv.fr</a>, le répertoire des schémas de données adossé à la plateforme ouverte des données publiques.&nbsp;</p>
+
+
+
+<p>Qu’est-ce  qu’un schéma de données ? C’est un modèle qui permet de décrire de  manière précise et univoque les différents champs qui composent un jeu  de données et les valeurs possibles.</p>
+
+
+
+<p>Les schémas permettent entre autres 
+de valider qu’un jeu de données se conforme à un schéma, de générer de 
+la documentation automatiquement, de générer des jeux de données 
+d’exemple ou de proposer des formulaires de saisie standardisés.</p>
+
+
+
+<p>Ces schémas permettent une montée en 
+qualité des données proposées en open data, surtout lorsque plusieurs 
+producteurs de données sont amenés à produire un même jeu de données.</p>
+
+
+
+<p>Retrouvez plus de détails à propos de cette initiative <a href="https://www.data.gouv.fr/fr/posts/lancement-de-schema-data-gouv-fr/">sur l’article dédié du côté de data.gouv.fr</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]OpenSolarMap : l&#8217;alliance du crowdsourcing et des data-sciences au service de la connaissance géographique[:]</title>
+		<link>/opensolarmap</link>
+		
+		<dc:creator><![CDATA[Michel Blancard]]></dc:creator>
+		<pubDate>Fri, 10 Jun 2016 05:45:40 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[Réutilisations]]></category>
+		<category><![CDATA[Un peu de technique]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4685</guid>
+
+					<description><![CDATA[[:fr] Quel est le potentiel d&#8217;installation de panneaux solaires du parc immobilier français ? Quel est le pourcentage de toitures qui présentent une surface plate susceptible d&#8217;être végétalisée ?&#8230; : de nombreuses questions, liées à des enjeux économiques majeurs, bénéficieraient d&#8217;une connaissance précise du territoire français qui n&#8217;existe pas toujours.  Le projet OpenSolarMap, visant notamment à &#8230;<p class="read-more"> <a class="" href="/opensolarmap"> <span class="screen-reader-text">[:fr]OpenSolarMap : l&#8217;alliance du crowdsourcing et des data-sciences au service de la connaissance géographique[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<p style="text-align: justify;"><em><strong>Quel est le potentiel d&rsquo;installation de panneaux solaires du parc immobilier français ? Quel est le pourcentage de toitures qui présentent une surface plate susceptible d&rsquo;être végétalisée ?&#8230; : de nombreuses questions, liées à des enjeux économiques majeurs, bénéficieraient d&rsquo;une connaissance précise du territoire français qui n&rsquo;existe pas toujours. </strong></em></p>
+<p style="text-align: justify;"><em><strong>Le <span style="color: #000000;">projet OpenSolarMap,</span> visant notamment à calculer le potentiel énergétique des bâtiments et développé de façon itérative, est la preuve que cette information peut être enrichie avec des moyens modestes, en combinant astucieusement les leviers du crowdsourcing et des data-sciences.</strong></em></p>
+<p style="text-align: justify;"><img decoding="async" class="wp-image-5001 size-thumbnail alignright" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/opensolarmap-150x150.png" alt="opensolarmap" width="150" height="150" srcset="/wp-content/uploads/2016/05/opensolarmap-150x150.png 150w, /wp-content/uploads/2016/05/opensolarmap-300x300.png 300w, /wp-content/uploads/2016/05/opensolarmap-80x80.png 80w, /wp-content/uploads/2016/05/opensolarmap-118x118.png 118w, /wp-content/uploads/2016/05/opensolarmap-239x239.png 239w, /wp-content/uploads/2016/05/opensolarmap.png 401w" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<p style="text-align: justify;"><a href="https://www.openstreetmap.org/">OpenStreetMap</a> est un projet de cartographie collaborative amélioré chaque jour par des milliers de contributeurs bénévoles. La couverture du territoire français est déjà excellente pour les éléments géographiques et les infrastructures les plus importants, mais certaines informations sont encore très incomplètes. C&rsquo;est par exemple le cas de la forme et de l&rsquo;orientation des toitures des bâtiments.</p>
+<p style="text-align: justify;">Ces données, via l&rsquo;évaluation du potentiel en énergie solaire, sont susceptibles d&rsquo;intéresser toute la filière de l&rsquo;énergie solaire. OpenSolarMap présente le moyen, entièrement constitué de code libre, de produire cette information.</p>
+<h1>Classer les toitures en quatre catégories</h1>
+<p style="text-align: justify;">Afin d&rsquo;identifier le bâti propice à l&rsquo;installation de panneaux solaires, il s&rsquo;est agi de classer les toitures dans l&rsquo;une des quatre catégories suivantes:</p>
+<ul>
+<li style="text-align: justify;">toiture orientée au nord et au sud</li>
+<li style="text-align: justify;">toiture orientée à l&rsquo;est et à l&rsquo;ouest</li>
+<li style="text-align: justify;">toiture plate</li>
+<li style="text-align: justify;">toiture complexe ou difficile à classifier</li>
+</ul>
+<p>Le point de départ a été l&rsquo;analyse spatiale des emprises de bâtiments présents dans OpenStreetMap. Les toitures qui n&rsquo;ont pas une orientation alignée avec les points cardinaux sont éliminées par un premier filtre utilisant les données du cadastre. En effet, le cadastre donne la position des murs extérieurs mais pas la position du faîte. Puis c&rsquo;est l&rsquo;image satellite du territoire gracieusement fournie par <a href="https://www.mapbox.com/">Mapbox</a> qui permet d&rsquo;attribuer un bâtiment dans une des quatre classes.</p>
+<p><figure id="attachment_4939" aria-describedby="caption-attachment-4939" style="width: 438px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" class="wp-image-4939 size-full" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/classes.png" width="438" height="236" srcset="/wp-content/uploads/2016/05/classes.png 438w, /wp-content/uploads/2016/05/classes-300x162.png 300w" sizes="(max-width: 438px) 100vw, 438px" /><figcaption id="caption-attachment-4939" class="wp-caption-text">Figure 1 : exemples pour chaque classe</figcaption></figure></p>
+<h1>Une interface de crowdsourcing addictive</h1>
+<p style="text-align: justify;">Une telle tâche se prête bien à la <a href="https://fr.wikipedia.org/wiki/Ludification">ludification</a>. Christian Quest, d&rsquo;OpenStreetMap France, imagine alors une interface de contribution simple d&rsquo;utilisation et ouverte à tout le monde.</p>
+<p style="text-align: justify;">L&rsquo;idée plaît au jury du concours Open PACA qui lui accorde le prix de la catégorie « Idée / Concept » en septembre 2015. Il concrétise l&rsquo;idée lors du Climate Change Challenge en novembre 2015, avec l&rsquo;aide d&rsquo;un développeur rencontré lors de l&rsquo;événement : <a href="http://opensolarmap.org/" class="broken_link">opensolarmap.org</a>.</p>
+<p style="text-align: justify;">Avec plus de 100.000 contributions recueillies en moins de 3 semaines, un système de vote permet de <strong>classer avec certitude plus de 10.000 bâtiments</strong>. Les contributions anonymisées sont librement accessibles <a href="https://www.data.gouv.fr/fr/organizations/opensolarmap/#datasets">sur la plateforme data.gouv.fr</a>.</p>
+<p><figure id="attachment_5000" aria-describedby="caption-attachment-5000" style="width: 600px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-5000" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/example_OpenSolarMap.png" alt="example_OpenSolarMap" width="600" height="460" srcset="/wp-content/uploads/2016/05/example_OpenSolarMap.png 1019w, /wp-content/uploads/2016/05/example_OpenSolarMap-300x230.png 300w, /wp-content/uploads/2016/05/example_OpenSolarMap-768x589.png 768w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-5000" class="wp-caption-text">Figure 2 : plateforme opensolarmap.org</figcaption></figure></p>
+<h1>Un réseau de neurones pour les 99% restants</h1>
+<p style="text-align: justify;"><strong>Cet échantillon recueilli à partir des contributions crowdsourcées a alors permis d&rsquo;entraîner un classifieur automatique : </strong>un programme informatique qui, une fois entraîné sur un nombre suffisant d&rsquo;exemples, est capable de rendre des avis corrects sur de nouveaux cas.</p>
+<p style="text-align: justify;">Parmi les nombreux types de classifieurs adaptés aux images, Michel Blancard, Datascientist chez Etalab, a alors choisi d&rsquo;utiliser un réseau de neurones. Les réseaux de neurones sont une méthode d&rsquo;apprentissage automatique qui donne d&rsquo;excellentes performances sur un large domaine de problèmes et plus particulièrement en traitement d&rsquo;images. Il en existe de nombreuses implémentations libres, rapides à prendre en main et efficaces. Pour ces raisons, les réseaux de neurones constituent souvent une solution idéale, tant pour obtenir rapidement des résultats satisfaisants que pour élaborer soigneusement une solution repoussant l&rsquo;état de l&rsquo;art.</p>
+<p style="text-align: justify;">Au prix d&rsquo;un modification mineure du réseau de neurones <a href="http://www.robots.ox.ac.uk/~vgg/research/very_deep/">VGG16 (Université d&rsquo;Oxford)</a>, les résultats obtenus sont corrects dans 80% des cas. Une estimation de la certitude des résultats permet d&rsquo;ignorer au besoin les résultats trop incertains. <strong>Le code du réseau de neurone adapté est lui aussi libre</strong>, <a href="https://github.com/opensolarmap/solml">accessible sur github</a>, ce qui permet à chacun de repartir de ce travail pour proposer une amélioration des résultats actuels.</p>
+<p><figure id="attachment_4763" aria-describedby="caption-attachment-4763" style="width: 806px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-4763 size-large" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/04/convnet-1024x490.jpeg" alt="convnet" width="806" height="386" srcset="/wp-content/uploads/2016/04/convnet-1024x490.jpeg 1024w, /wp-content/uploads/2016/04/convnet-300x144.jpeg 300w, /wp-content/uploads/2016/04/convnet-768x368.jpeg 768w, /wp-content/uploads/2016/04/convnet.jpeg 1255w" sizes="(max-width: 806px) 100vw, 806px" /><figcaption id="caption-attachment-4763" class="wp-caption-text">Figure 3 : un réseau de neurones applique des transformations successives à une image (voir <a href="http://cs231n.github.io/convolutional-networks/">http://cs231n.github.io/convolutional-networks/</a>)</figcaption></figure></p>
+<p style="text-align: justify;">Le temps de traitement pour une image de toit est d&rsquo;environ une seconde pour un processeur. Pour traiter les 48 millions de toitures référencées par le cadastre, le temps de calcul est donc de 4 mois sur un ordinateur personnel disposant de 4 cœurs ou de 2 semaines sur un ordinateur puissant disposant de 32 cœurs. Nul besoin de disposer de matériel spécialisé pour profiter des dernières avancées en data-sciences ! De plus, avec une carte graphique il serait possible de réduire de beaucoup ce temps de calcul.</p>
+<p style="text-align: justify;">Ces résultats seront reversés sur le projet <a href="http://openstreetmap.fr/">OpenStreetMap</a> afin d&rsquo;être librement accessibles à tous. Le code source de la plateforme de crowdsourcing et du classifieur automatique est hébergé sur la plateforme <a href="https://github.com/opensolarmap">GitHub</a>. Il est possible d&rsquo;en savoir plus sur la partie datasciences du projet <a href="https://agd.data.gouv.fr/2016/06/17/opensolarmap-cote-data-sciences-03/">sur le blog de l&rsquo;AGD</a>.</p>
+<p style="text-align: justify;">Ces méthodes sont susceptibles d&rsquo;être répliquées dans toute un variété de cas pour compléter la connaissance de l&rsquo;information géographique, et d&rsquo;améliorer ainsi certaines politiques publiques : classification à partir d&rsquo;images des toitures pour des emplacements pour panneaux de solaires, pour jardins urbains, optimisation dans le domaine des transports en ville (zebra de bus&#8230;)</p>
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Lancement de la plateforme udata du Luxembourg [:]</title>
+		<link>/lancement-de-la-plateforme-udata-du-luxembourg</link>
+		
+		<dc:creator><![CDATA[Axel Haustant]]></dc:creator>
+		<pubDate>Tue, 17 May 2016 08:18:08 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[Un peu de technique]]></category>
+		<category><![CDATA[code source]]></category>
+		<category><![CDATA[Ecosystème]]></category>
+		<category><![CDATA[Hackathon]]></category>
+		<category><![CDATA[logiciel libre]]></category>
+		<category><![CDATA[technique]]></category>
+		<category><![CDATA[udata]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4708</guid>
+
+					<description><![CDATA[[:fr] A l&#8217;occasion de l&#8217;événement Game of Code, les 8, 9 et 10 avril derniers, Digital Lëtzebuerg en collaboration avec le Centre des Technologies de l’Information de l’Etat Luxembourgeois et l&#8217;administration du Cadastre et de la topographie lançait en version bêta son portail de données ouvertes data.public.lu. Développé à partir de udata, le moteur de la &#8230;<p class="read-more"> <a class="" href="/lancement-de-la-plateforme-udata-du-luxembourg"> <span class="screen-reader-text">[:fr]Lancement de la plateforme udata du Luxembourg [:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<p style="text-align: justify;">A l&rsquo;occasion de l&rsquo;événement <a href="http://www.gameofcode.eu/">Game of Code</a>, les 8, 9 et 10 avril derniers, <a href="http://www.digital-luxembourg.public.lu/fr/index.html" class="broken_link"><strong>Digital Lëtzebuerg</strong></a> en collaboration avec le <strong><a href="http://www.fonction-publique.public.lu/fr/structure-organisationnelle/ctie/index.html">Centre des Technologies de l’Information de l’Etat Luxembourgeois</a> </strong>et<a href="http://www.act.public.lu/fr/index.html"><strong> l&rsquo;administration du Cadastre et de la topographie</strong></a> lançait en version bêta son portail de données ouvertes <a href="https://data.public.lu/fr/">data.public.lu</a>. Développé à partir de <a href="https://github.com/etalab/udata">udata,</a> le moteur de la plateforme <a href="http://data.gouv.fr/">data.gouv.fr</a>, ce site est le fruit d&rsquo;une collaboration initiée il y a quelques mois entre la France et le Luxembourg.</p>
+<p style="text-align: justify;"><span id="more-4708"></span></p>
+<p style="text-align: justify;"><strong>Un lancement marqué par l&rsquo;importance des réutilisations open data<br />
+</strong></p>
+<p style="text-align: justify;"><img loading="lazy" decoding="async" class="alignleft size-medium wp-image-4716" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/Game-of-code-Luxembourg-2016-300x297.jpg" alt="Game-of-code-Luxembourg-2016" width="300" height="297" srcset="/wp-content/uploads/2016/05/Game-of-code-Luxembourg-2016-300x297.jpg 300w, /wp-content/uploads/2016/05/Game-of-code-Luxembourg-2016-150x150.jpg 150w, /wp-content/uploads/2016/05/Game-of-code-Luxembourg-2016-768x761.jpg 768w, /wp-content/uploads/2016/05/Game-of-code-Luxembourg-2016-1024x1014.jpg 1024w, /wp-content/uploads/2016/05/Game-of-code-Luxembourg-2016-80x80.jpg 80w, /wp-content/uploads/2016/05/Game-of-code-Luxembourg-2016-118x118.jpg 118w, /wp-content/uploads/2016/05/Game-of-code-Luxembourg-2016.jpg 1052w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p style="text-align: justify;">Deux challenges étaient proposés lors de <a href="http://www.gameofcode.eu/">Game of Code</a>, l&rsquo;un par des acteurs privés, l&rsquo;autre par <strong><a href="http://www.digital-luxembourg.public.lu/fr/index.html" class="broken_link">Digital Lëtzebuerg</a>, </strong>intitulé <strong>Open Data Challenge : Smart Mobility. </strong>Pour développer leurs projets les participants avaient à disposition les premiers jeux de données du portail Open Data du Luxembourg. Y sont recensés de nombreuses <a href="https://data.public.lu/en/topics/transports/">données de transport</a> complétées par d&rsquo;autres sur <a href="https://data.public.lu/en/datasets/etat-de-la-population-population-structure/">la population</a>, la <a href="https://data.public.lu/en/datasets/monthly-meteorological-parameters-luxembourg-findel-airport-wmo-id-06590/">météo</a> ou le <a href="https://data.public.lu/en/datasets/budget-2016/">budget</a> du duché. Plus d&rsquo;une centaine de développeurs étaient inscrits, souvent dans des équipes déjà constituées, pour proposer les meilleures réutilisations.</p>
+<p style="text-align: justify;">Après une présentation des projets le vendredi soir, les participants ont codé jusqu&rsquo;au samedi soir et l&rsquo;annonce des résultats s&rsquo;est fait dans la journée du dimanche. Motivées, les équipes ont rapidement développé des applications <a href="https://data.public.lu/fr/organizations/game-of-code-hackathon/#reuses">disponibles sur le site</a>.</p>
+<p style="text-align: justify;">Ce lancement du portail, centré sur les réutilisations de données, correspond à une vision de l&rsquo;open data comme créateur d&rsquo;impact. L&rsquo;objectif porté par le Luxembourg est de permettre à la société civile (citoyens et entreprises) de développer des services qui créent de la valeur sociale, économique, scientifique ou démocratique avec la donnée ouverte. Les métriques clés de <a href="https://data.public.lu/fr/">data.public.lu</a> sont ainsi le nombre d&rsquo;utilisateurs et de réutilisations. Avec ce lancement, cette vision partagée depuis plusieurs années par Etalab se propage, à mesure que l&rsquo;ouverture des données publiques progresse à travers le monde.</p>
+<p style="text-align: justify;"><strong>L&rsquo;aboutissement d&rsquo;une coopération technique entre la France et le Luxembourg</strong></p>
+<p style="text-align: justify;">Animés par cette vision commune, la France et le Luxembourg ont entamé depuis mai 2015 une collaboration autour de <a href="https://github.com/etalab/udata">udata</a>. <a href="https://github.com/etalab/udata">Udata</a> est le moteur de la plateforme ouverte des données <a href="http://data.gouv.fr/">data.gouv.fr</a>, développé depuis 2013 par l&rsquo;équipe d&rsquo;Etalab, disponible de façon ouverte sur <a href="https://github.com/etalab/udata">Github</a>.</p>
+<p style="text-align: justify;">Lors des derniers mois, les équipes françaises ont accompagné les développeurs luxembourgeois dans la prise en main du code. Le regard extérieur de ces derniers a aidé Etalab à améliorer <a href="https://udata.readthedocs.io/en/latest/">la documentation</a> du code. Aujourd&rsquo;hui, des explications détaillées sont fournies pour ceux qui souhaitent tester udata, le personnaliser pour leur propre pays ou encore y apporter des améliorations.</p>
+<p style="text-align: justify;">L&rsquo;agrandissement de la communauté des contributeurs à udata et la collaboration via le <a href="https://gitter.im/etalab/udata">service de discussion et d&rsquo;entraide</a> permettent de fiabiliser et d&rsquo;améliorer son code. Chaque équipe pays travaille sur son projet personnalisée pour son pays et localisé, tout en partageant les fonctions essentielles du cœur de l&rsquo;application. Ainsi, en marge du hackathon de début avril, une importante contribution luxembourgeoise au code, la refonte du parcours d’inscription au site, a été reprise par data.gouv.fr.</p>
+<p style="text-align: justify;">D&rsquo;autres pays se sont montrés intéressés par cette initiative et envisagent maintenant l&rsquo;adoption de <a href="https://github.com/etalab/udata">udata</a> pour leur portail. Ces échanges concrets permettent aussi d&rsquo;identifier les meilleurs pratiques de chaque pays. Par exemple, l&rsquo;expérience du Luxembourg dans le développement de site pour les administrations et l&rsquo;organisation dynamique de son administration, découverte lors de la participation d&rsquo;Etalab au hackathon, donnent des pistes de réflexion intéressantes.</p>
+<p><figure id="attachment_4758" aria-describedby="caption-attachment-4758" style="width: 1778px" class="wp-caption alignleft"><img loading="lazy" decoding="async" class="wp-image-4758 size-full" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/screenshot-data.public.lu-2016-05-11-16-45-44.png" alt="screenshot-data.public.lu 2016-05-11 16-45-44" width="1778" height="2238" srcset="/wp-content/uploads/2016/05/screenshot-data.public.lu-2016-05-11-16-45-44.png 1778w, /wp-content/uploads/2016/05/screenshot-data.public.lu-2016-05-11-16-45-44-238x300.png 238w, /wp-content/uploads/2016/05/screenshot-data.public.lu-2016-05-11-16-45-44-768x967.png 768w, /wp-content/uploads/2016/05/screenshot-data.public.lu-2016-05-11-16-45-44-814x1024.png 814w" sizes="(max-width: 1778px) 100vw, 1778px" /><figcaption id="caption-attachment-4758" class="wp-caption-text">La plateforme <a href="https://data.public.lu/en/">data.public.lu</a></figcaption></figure>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>La mécanique sociale de data.gouv.fr</title>
+		<link>/lamecaniquesocialededata-gouv-fr</link>
+		
+		<dc:creator><![CDATA[Etalab]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2014 23:00:00 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Un peu de technique]]></category>
+		<category><![CDATA[technique]]></category>
+		<guid isPermaLink="false">http://www.etalab.gouv.fr/article-la-mecanique-sociale-de-data-gouv-fr-122863516-comments.html</guid>
+
+					<description><![CDATA[La nouvelle version du portail data.gouv.fr a été inaugurée le 18 décembre dernier par le Premier Ministre. Parmi les principes qui ont guidé la conception du nouveau datagouv, figurait l’idée de proposer à la multitude de participer à la dynamique d’ouverture des données publiques. Deux mois après sa sortie, nous commencons à voir les premières &#8230;<p class="read-more"> <a class="" href="/lamecaniquesocialededata-gouv-fr"> <span class="screen-reader-text">La mécanique sociale de data.gouv.fr</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p dir="ltr" style="text-align: justify;">La nouvelle version du portail <a href="http://www.data.gouv.fr/">data.gouv.fr</a> a été inaugurée le 18 décembre dernier par le Premier Ministre. Parmi les principes qui ont guidé la conception du nouveau datagouv, figurait l’idée de proposer à la multitude de participer à la dynamique d’ouverture des données publiques. Deux mois après sa sortie, nous commencons à voir les premières dynamiques de cet open data social à l’oeuvre. Nous vous proposons une série de 3 billets de blog sur ce sujet. Le premier décrit la mécanique sociale, dans son ensemble.</p>
+<p dir="ltr" style="text-align: justify;">
+<p dir="ltr" style="text-align: justify;">La plateforme <a href="http://www.data.gouv.fr/">data.gouv.fr</a> propose à ses visiteurs de participer à améliorer la donnée selon différents niveaux d’engagement.</p>
+<p dir="ltr" style="text-align: justify;">La plate-forme compte aujourd’hui près de <a href="https://www.data.gouv.fr/fr/metrics" class="broken_link">2000 utilisateurs inscrits</a>. L’inscription sur data.gouv est bien sûr gratuite et elle n’est pas obligatoire pour télécharger des jeux de données ou pour naviguer sur l’intégralité du site. Elle permet cependant de participer pleinement à l’amélioration de la donnée.</p>
+<p dir="ltr" style="text-align: justify;"><img loading="lazy" decoding="async" class="GcheTexte" src="http://www.etalab.cst.easter-eggs.com/wp-content/uploads/2014/03/SafariScreenSnapz140.png" alt="SafariScreenSnapz140" width="100" height="26" />Premier niveau d’engagement: le vote utile. Sur chaque page d’un jeu de données figure une icône en vert qui vous permet de déclarer “utile” un jeu de données. Chaque mois, on recense environ <a href="http://stats.data.gouv.fr/">800 votes</a> sur la plateforme. Le nombre de vote pour chaque jeu de données est affiché entre parenthèses et constitue aussi un repère pour les visiteurs du site. Mais ce n’est pas la seule utilisation de ce vote: outre le fait qu&rsquo;il vous permet de retrouver vos jeux de données favoris dans votre profil, il intervient aussi pour classer les jeux de données dans le moteur de recherche (les règles du calcul sont <a href="http://wiki.data.gouv.fr/wiki/R%C3%A8gles_de_tri_du_moteur_de_recherche" class="broken_link">consultables sur le wiki</a>).</p>
+<p dir="ltr" style="text-align: justify;">
+<p dir="ltr" style="text-align: justify;">L’icône rouge permet de signaler un jeu de données. Les signalements peuvent être de plusieurs types: contenu illicite ou tendencieux (rarement utilisé à ce jour), contenu incomplet ou inexact, lien cassé, etc… Tous les signalements sont automatiquement transmis au producteur du jeu de données, qui est invité à répondre directement à l’utilisateur. Faciliter le dialogue entre ceux qui produisent la donnée et ceux qui la réutilisent est aussi l’un des objectifs de data.gouv !</p>
+<p dir="ltr" style="text-align: justify;">
+<p dir="ltr" style="text-align: justify;"><img loading="lazy" decoding="async" class="GcheTexte" src="http://www.etalab.cst.easter-eggs.com/wp-content/uploads/2014/03/SafariScreenSnapz141.png" alt="SafariScreenSnapz141" width="98" height="100" />Deuxième niveau d’engagement: la possibilité de référencer une réutilisation d’un jeu de données: une visualisation, un article de blog, une application mobile ou web, … Depuis son lancement fin 2013, plus de 800 réutilisations ont été publiées sur datagouv, ce qui améliore leur référencement. Les meilleures réutilsations sont mises en Une du site, sur la page d’accueil. Souvent un bon moyen pour découvrir un jeu de données, elles s’adressent à un plus large public que les seuls réutilisateurs. Elles servent aussi à montrer aux producteurs que les données qu’ils mettent en ligne sont bien utilisées par des tiers, et parfois de manière inattendue. Ainsi, le <a href="https://www.data.gouv.fr/fr/dataset/fichier-fantoir-des-voies-et-lieux-dits">fichier des voies et lieux-dits de France</a> (Fantoir) qui est utilisé pour révéler les inégalités femmes-hommes dans les noms donnés aux lieux !</p>
+<p dir="ltr" style="text-align: justify;">
+<p dir="ltr" style="text-align: justify;"><img loading="lazy" decoding="async" class="GcheTexte" src="http://www.etalab.cst.easter-eggs.com/wp-content/uploads/2014/03/SafariScreenSnapz144.png" alt="SafariScreenSnapz144.png" width="100" height="30" />Troisième niveau d’engagement: améliorer un jeu de données existant. Inspiré par la pratique du fork dans le développement Open Source, la plate-forme permet à tout utilisateur de publier une version améliorée d’un jeu de données publié. Cette fonction est directement issue du dialogue initié par Etalab avec ceux qui réutilisent les données, notamment durant la phase de Co-Design du portail. Bien souvent, les réutilisateurs commencent par nettoyer et améliorer les jeux de données avant de commencer à produire une application ou une visualisation: géocoder une adresse, mettre le fichier dans un format qui permet de le traiter automatiquement, retirer tout élément de mise en forme, … Parfois, ils enrichissent aussi les données, en croisant plusieurs jeux entre eux, à l’image des concepteurs de <a href="https://www.data.gouv.fr/fr/dataset/liste-des-musees-de-france-30382165#reuse-31ccc671-8f05-47a9-8299-dc4976f408ba" class="broken_link">Musées en France</a> qui mixent différentes sources. Nous leur proposons de re-publier, s’ils le souhaitent, le fruit de leur travail dans la partie “contributions de la communauté” de chaque jeu de données.</p>
+<p dir="ltr" style="text-align: justify;">
+<p dir="ltr" style="text-align: justify;"><img loading="lazy" decoding="async" class="GcheTexte" src="http://www.etalab.cst.easter-eggs.com/wp-content/uploads/2014/03/ApercuScreenSnapz012.png" alt="AperçuScreenSnapz012" width="140" height="14" />Enfin, la plate-forme accueille aussi des jeux de données d’intérêt général qui ne sont pas issus de producteurs du service public. Des associations comme <a href="https://www.data.gouv.fr/fr/organization/open-meteo-foundation">Open Meteo Foundation</a> ou encore <a href="https://www.data.gouv.fr/fr/organization/openstreetmap">Open Street Map</a> proposent ainsi de nombreux jeux de données issus de leurs projets collaboratifs respectifs &#8211; par exemple le détail du <a href="https://www.data.gouv.fr/fr/dataset/reseau-autoroutier-metropolitain-issu-d-openstreetmap" class="broken_link">réseau autoroutier métropolitain</a>. Afin de permettre aux utilisateurs de bien distinguer le type de producteur, nous avons réservé aux seules administrations et collectivités le sceau “service public certifié”.</p>
+<p dir="ltr" style="text-align: justify;">
+<p dir="ltr" style="text-align: justify;">Dans un prochain billet, nous vous présenterons en détail des exemples d’amélioration de la donnée par les utilisateurs du site.</p>
+<p dir="ltr" style="text-align: justify;">
+<p dir="ltr" style="text-align: justify;">
+<p dir="ltr" style="text-align: justify;">
+<p dir="ltr" style="text-align: justify;">
+<div class="clear center" style="text-align: justify;"></div>
+<div class="clear" style="text-align: justify;"></div>
+<div class="clear" style="text-align: justify;"></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

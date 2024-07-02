@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Antoine Augusti &#8211; Etalab</title>
+	<atom:link href="/author/antoine-augusti/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Mon, 13 Jan 2020 16:13:46 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Antoine Augusti &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Open data, codes sources, algorithmes : Etalab publie une série de guides pratiques pour vous accompagner</title>
+		<link>/open-data-codes-sources-algorithmes-etalab-publie-une-serie-de-guides-pratiques-pour-vous-accompagner</link>
+		
+		<dc:creator><![CDATA[Antoine Augusti]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2020 16:13:45 +0000</pubDate>
+				<category><![CDATA[Annonces]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=12456</guid>
+
+					<description><![CDATA[Etalab annonce aujourd&#8217;hui le lancement de guides.etalab.gouv.fr, une série de ressources pratiques, pédagogiques et contributives afin de vous accompagner dans la réalisation de projets relatifs aux données, algorithmes et codes sources. Édités par Etalab, ces guides couvrent des thématiques juridiques, techniques ou encore organisationnelles. Ils s&#8217;adressent à différents types de lecteurs &#8211; responsables d&#8217;initiatives ou &#8230;<p class="read-more"> <a class="" href="/open-data-codes-sources-algorithmes-etalab-publie-une-serie-de-guides-pratiques-pour-vous-accompagner"> <span class="screen-reader-text">Open data, codes sources, algorithmes : Etalab publie une série de guides pratiques pour vous accompagner</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Etalab annonce aujourd&rsquo;hui le lancement de <a href="https://guides.etalab.gouv.fr/">guides.etalab.gouv.fr</a>, une série de ressources pratiques, pédagogiques et contributives afin de vous accompagner dans la réalisation de projets relatifs aux données, algorithmes et codes sources.</strong></p>
+
+
+
+<p>Édités par Etalab, ces guides couvrent des thématiques juridiques, techniques ou encore organisationnelles. Ils s&rsquo;adressent à différents types de lecteurs  &#8211; responsables d&rsquo;initiatives ou de projets mobilisant des données, <em>chief data officer</em>s, juristes&#8230; ou encore agents publics ou simples curieux souhaitant découvrir ou approfondir leur connaissance des obligations légales et des modalités de mise en œuvre de l&rsquo;ouverture des données, des codes sources ou les dispositions concernant les algorithmes publics.</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Plusieurs guides disponibles</h2>
+
+
+
+<p>Pour le lancement, nous mettons en version beta cinq guides à disposition. À ce jour, trois sont dédiés à <strong>l&rsquo;ouverture et la circulation des données </strong>:</p>
+
+
+
+<ul><li>Comment préparer des données à l&rsquo;ouverture / la circulation ?</li><li>Quels jeux de données doivent être publiés en open data ?</li><li>Comment publier des jeux de données sur <a href="https://www.data.gouv.fr/">data.gouv.fr</a> ?</li></ul>
+
+
+
+<p>Un guide dédié aux <strong>algorithmes publics</strong> et un autre consacré aux <strong>codes sources de logiciels du secteur public.</strong></p>
+
+
+
+<h2 class="wp-block-heading">Un contenu évolutif</h2>
+
+
+
+<p>Des améliorations seront apportées au fil de l&rsquo;eau dans le courant de  l&rsquo;année 2020 et ces publications sont ouvertes à la contribution de tous.  Le contenu des guides a vocation à évoluer et à être amélioré grâce à vos retours et suggestions. N&rsquo;hésitez pas à <a href="https://github.com/etalab/guides">proposer des modifications</a> ou à <a href="https://www.etalab.gouv.fr/contact">rentrer en contact avec notre équipe</a>.  Nous espérons que ces guides vous aideront à réaliser vos missions !</p>
+
+
+
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="https://guides.etalab.gouv.fr/">Consulter les guides d&rsquo;Etalab</a></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Résultats du sondage professionnels du numérique : vos motivations pour rejoindre le service public</title>
+		<link>/resultats-du-sondage-professionnels-du-numerique-vos-metiers-pour-rejoindre-le-service-public</link>
+		
+		<dc:creator><![CDATA[Antoine Augusti]]></dc:creator>
+		<pubDate>Mon, 29 Jul 2019 16:00:20 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=11700</guid>
+
+					<description><![CDATA[Alors que nous sommes amenés à recruter des professionnels du numérique pour différentes missions, notamment via le programme Entrepreneurs d’Intérêt Général, Etalab a, du 1er juillet au 22 juillet 2019, organisé un sondage informel afin de mieux comprendre ce qui motiverait des data scientists, designers, développeuses et développeurs à rejoindre le service public. Nous avons &#8230;<p class="read-more"> <a class="" href="/resultats-du-sondage-professionnels-du-numerique-vos-metiers-pour-rejoindre-le-service-public"> <span class="screen-reader-text">Résultats du sondage professionnels du numérique : vos motivations pour rejoindre le service public</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Alors que nous <a href="https://www.numerique.gouv.fr/rejoignez-nous/">sommes amenés à recruter des professionnels du numérique pour différentes missions</a>, notamment via le programme<a href="https://entrepreneur-interet-general.etalab.gouv.fr/"> Entrepreneurs d’Intérêt Général</a>, Etalab a, du 1er juillet au 22 juillet 2019, <a href="https://www.etalab.gouv.fr/professionnels-numerique-motivations-rejoindre-service-public">organisé un sondage</a> informel afin de mieux comprendre ce qui motiverait des <em>data scientists</em>, designers, développeuses et développeurs à rejoindre le service public. Nous avons posé plusieurs questions : Quelles sont les thématiques qui vous intéressent ? Quel environnement de travail espérez-vous ? Où souhaitez-vous travailler ? Quelles sont vos prétentions salariales ?</p>
+
+
+
+<p>448 réponses ont été reçues, permettant de <strong>dégager une tendance sans atteindre toutefois un échantillon représentatif pour permettre des analyses quantitatives fiables</strong>. Nous présentons les principaux résultats de ce sondage dans cet article et mettons à disposition <a href="https://www.data.gouv.fr/fr/datasets/sondage-metiers-du-numerique-et-service-public-1/">les données brutes des réponses.</a></p>
+
+
+
+<h2 class="wp-block-heading">Profils des répondants</h2>
+
+
+
+<p>448 personnes ont répondu au sondage. 72 % des répondants s&rsquo;identifient comme des hommes, 24 % comme des femmes et 4 % n’ont pas renseigné cette information.&nbsp;</p>
+
+
+
+<p>Il est difficile de catégoriser les métiers dans le numérique et ceci se ressent : 23 % des répondants ne s&rsquo;identifient pas dans la liste des métiers proposés. 20 % déclarent faire du développement fullstack, 13 % être data-scientists et 10 % faire de la gestion de produits.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img fetchpriority="high" decoding="async" width="1024" height="603" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/07/metiers-1024x603.png" alt="" class="wp-image-11702" srcset="/wp-content/uploads/2019/07/metiers-1024x603.png 1024w, /wp-content/uploads/2019/07/metiers-300x177.png 300w, /wp-content/uploads/2019/07/metiers-768x452.png 768w, /wp-content/uploads/2019/07/metiers.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>En moyenne, les répondants ont 11 années d&rsquo;expérience. La médiane se situe à 10 années.</p>
+
+
+
+<h2 class="wp-block-heading">Intérêts des répondants</h2>
+
+
+
+<p>51 % des répondants ont déjà consulté des offres de la fonction publique dans le numérique et 49 % n’en ont pas pris connaissance. Remarquons qu’une large part des répondants n’a pas de projet particulier de rejoindre le secteur public : 48 % déclarent ne pas savoir s&rsquo;ils souhaitent y travailler, 41 % le désirent et 11 % ne le souhaitent pas.</p>
+
+
+
+<p>Servir l&rsquo;intérêt général est la raison principale — citée à 84 % — pour laquelle les répondants envisagent de rejoindre le secteur public. Les professionnels cherchent également à donner du sens à leur travail (59 %) et avoir un impact sur le quotidien (53 %).</p>
+
+
+
+<p>Nous demandions sur quels sujets souhaitaient travailler les professionnels ciblés. L&rsquo;écologie est plébiscitée par 71 % des répondants. Les autres thématiques qui intéressent sont la culture (58 % des répondants), l&rsquo;éducation nationale (53 %), l&rsquo;enseignement supérieur et la recherche (50 %) et la santé (46 %).</p>
+
+
+
+<p>Concernant le type d’organisation que les professionnels souhaitent rejoindre, 79 % des répondants souhaitent travailler au sein d&rsquo;un ministère, 63 % au sein d&rsquo;une région, 51 % au sein d&rsquo;un département et 43 % au sein d&rsquo;une commune.</p>
+
+
+
+<h2 class="wp-block-heading">Environnement de travail</h2>
+
+
+
+<p>Nous demandions à quel type de contrat les professionnels aspirent. 79 % des répondants déclarent vouloir un CDI, 12 % un contrat de type freelance et 9 % un CDD. Géographiquement, 58 % des répondants souhaitent travailler en métropole, 41 % en région parisienne et 1 % en outre-mer.</p>
+
+
+
+<p>Concernant les prétentions salariales, nous demandions un salaire plancher mensuel net ainsi qu&rsquo;un salaire souhaité en net mensuel également. Le salaire médian minimal est de 2 800 € (moyenne à 3 000 €) tandis que le salaire médian souhaité est de 3 500 € (moyenne à 3 637 €). Il ne nous a pas semblé pertinent d&rsquo;étudier les salaires par métier au regard du faible nombre de réponses.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="1024" height="449" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/07/salire-1024x449.png" alt="" class="wp-image-11703" srcset="/wp-content/uploads/2019/07/salire-1024x449.png 1024w, /wp-content/uploads/2019/07/salire-300x132.png 300w, /wp-content/uploads/2019/07/salire-768x337.png 768w, /wp-content/uploads/2019/07/salire.png 1372w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Nous demandions quelles seraient les conditions de travail nécessaires pour accepter une offre. Les répondants plébiscitent le fait d&rsquo;avoir des horaires flexibles (69 %), d’être libre d&rsquo;installer des logiciels sur leur poste de travail (68 %) et de posséder un accès à Internet sans filtrage (50 %). Le télétravail est un élément décisif : 52 % des répondants souhaitent travailler 1 à 2 jours par semaine en télétravail et 25 % souhaitent travailler 4 à 5 jours par semaine en télétravail.</p>
+
+
+
+<p>En complément des réponses prévues, les répondants pouvaient s&rsquo;exprimer librement. On retrouve diverses prétentions : avoir des vestiaires ou des douches à disposition, disposer d&rsquo;une crèche, avoir un droit à la déconnexion en dehors des heures de travail, produire ou contribuer à des logiciels libres, travailler depuis l&rsquo;étranger, avoir une équipe inclusive, une hiérarchie bienveillante etc.</p>
+
+
+
+<h2 class="wp-block-heading">Aller plus loin</h2>
+
+
+
+<p>Nous souhaitons remercier les personnes qui ont pris le temps de répondre au sondage que nous avons organisé. Pour consulter les offres dans le domaine du numérique dans le secteur public, nous vous recommandons de consulter <a href="https://www.numerique.gouv.fr/rejoignez-nous/">le site de la DINSIC</a>, la <a href="https://www.place-emploi-public.gouv.fr/">place de l&#8217;emploi public</a> ainsi que <a href="https://beta.gouv.fr/recrutement/">les offres de beta.gouv.fr</a>. En complément, <a href="https://entrepreneur-interet-general.etalab.gouv.fr/">le programme Entrepreneurs d&rsquo;Intérêt Général</a> ouvre l&rsquo;administration à des talents du numérique pour résoudre des défis publics en quelques mois. Vous pouvez vous inscrire à la liste de diffusion du programme pour avoir des nouvelles du prochain appel à candidatures.</p>
+
+
+
+<p>Si vous souhaitez réaliser des analyses complémentaires, nous mettons à disposition <a href="https://www.data.gouv.fr/fr/datasets/sondage-metiers-du-numerique-et-service-public-1/">les données brutes des soumissions reçues sur data.gouv.fr</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Professionnels du numérique, quelles sont vos motivations pour rejoindre le service public ?</title>
+		<link>/professionnels-numerique-motivations-rejoindre-service-public</link>
+		
+		<dc:creator><![CDATA[Antoine Augusti]]></dc:creator>
+		<pubDate>Mon, 01 Jul 2019 07:58:02 +0000</pubDate>
+				<category><![CDATA[Annonces]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10987</guid>
+
+					<description><![CDATA[Etalab est amené à recruter des professionnels du numérique pour ses différentes missions, notamment via le programme Entrepreneurs d&#8217;Intérêt Général. Chaque année, plusieurs dizaines de talents sont recrutés pour relever des défis de transformation numérique de l’Etat. Nous avons à coeur de proposer des défis motivants et un environnement de travail adapté. Pour cela, nous &#8230;<p class="read-more"> <a class="" href="/professionnels-numerique-motivations-rejoindre-service-public"> <span class="screen-reader-text">Professionnels du numérique, quelles sont vos motivations pour rejoindre le service public ?</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Etalab est amené à recruter des professionnels du numérique pour ses différentes missions, notamment via le programme <a href="https://entrepreneur-interet-general.etalab.gouv.fr/">Entrepreneurs d&rsquo;Intérêt Général</a>. Chaque année, plusieurs dizaines de talents sont recrutés pour relever des défis de transformation numérique de l’Etat.</p>
+
+
+
+<p>Nous avons à coeur de proposer des défis motivants et un environnement de travail adapté. Pour cela, nous souhaiterions mieux connaître les motivations de futurs datascientists, designers, développeuses et développeurs à rejoindre le service public.</p>
+
+
+
+<p>Voici les questions que nous nous posons : quelles sont les thématiques qui vous intéressent ? Quelles sont vos attentes sur l’environnement de travail ? Où souhaitez-vous travailler ? Quelles sont vos prétentions salariales ?</p>
+
+
+
+<p>Nous avons réalisé un court sondage pour recueillir ces informations. Il ne demande aucune information personnelle. <strong>Il est ouvert du 1er juillet au 22 juillet 2019.</strong> Une semaine après la clôture du sondage, nous partagerons les résultats principaux dans un article et nous mettrons à disposition les données brutes des résultats.</p>
+
+
+
+<p>Afin d&rsquo;être le plus représentatif de la communauté, nous vous invitons à le relayer à vos connaissances.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p><strong>Ce sondage est désormais terminé. Les résultats sont <a href="https://www.etalab.gouv.fr/resultats-du-sondage-professionnels-du-numerique-vos-metiers-pour-rejoindre-le-service-public">disponibles dans un article récapitulatif</a>.</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>schema.data.gouv.fr : un nouvel outil au service de la qualité des données</title>
+		<link>/schema-data-gouv-fr-un-nouvel-outil-au-service-de-la-qualite-des-donnees</link>
+		
+		<dc:creator><![CDATA[Antoine Augusti]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2019 15:40:33 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Un peu de technique]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10464</guid>
+
+					<description><![CDATA[Etalab annonce aujourd’hui le lancement de schema.data.gouv.fr, le répertoire des schémas de données adossé à la plateforme ouverte des données publiques.&#160; Qu’est-ce qu’un schéma de données ? C’est un modèle qui permet de décrire de manière précise et univoque les différents champs qui composent un jeu de données et les valeurs possibles. Les schémas permettent &#8230;<p class="read-more"> <a class="" href="/schema-data-gouv-fr-un-nouvel-outil-au-service-de-la-qualite-des-donnees"> <span class="screen-reader-text">schema.data.gouv.fr : un nouvel outil au service de la qualité des données</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Etalab annonce aujourd’hui le lancement de <a href="https://schema.data.gouv.fr/">schema.data.gouv.fr</a>, le répertoire des schémas de données adossé à la plateforme ouverte des données publiques.&nbsp;</p>
+
+
+
+<p>Qu’est-ce  qu’un schéma de données ? C’est un modèle qui permet de décrire de  manière précise et univoque les différents champs qui composent un jeu  de données et les valeurs possibles.</p>
+
+
+
+<p>Les schémas permettent entre autres 
+de valider qu’un jeu de données se conforme à un schéma, de générer de 
+la documentation automatiquement, de générer des jeux de données 
+d’exemple ou de proposer des formulaires de saisie standardisés.</p>
+
+
+
+<p>Ces schémas permettent une montée en 
+qualité des données proposées en open data, surtout lorsque plusieurs 
+producteurs de données sont amenés à produire un même jeu de données.</p>
+
+
+
+<p>Retrouvez plus de détails à propos de cette initiative <a href="https://www.data.gouv.fr/fr/posts/lancement-de-schema-data-gouv-fr/">sur l’article dédié du côté de data.gouv.fr</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sondage : professionnels du numérique et administration</title>
+		<link>/sondage-professionnels-numerique-administration</link>
+		
+		<dc:creator><![CDATA[Antoine Augusti]]></dc:creator>
+		<pubDate>Tue, 19 Jun 2012 16:20:06 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10865</guid>
+
+					<description><![CDATA[Etalab est amené à recruter des professionnels du numérique pour ses différentes missions, notamment via le programme Entrepreneurs d&#8217;Intérêt Général. Chaque année, plusieurs dizaines de talents sont recrutés pour relever des défis de transformation numérique de l’Etat. Nous avons à coeur de proposer des défis motivants et un environnement de travail adapté. Pour cela, nous &#8230;<p class="read-more"> <a class="" href="/sondage-professionnels-numerique-administration"> <span class="screen-reader-text">Sondage : professionnels du numérique et administration</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Etalab est amené à recruter des professionnels du numérique pour ses différentes missions, notamment via le programme <a href="https://entrepreneur-interet-general.etalab.gouv.fr/">Entrepreneurs d&rsquo;Intérêt Général</a>. Chaque année, plusieurs dizaines de talents sont recrutés pour relever des défis de transformation numérique de l’Etat.</p>
+
+
+
+<p>Nous avons à coeur de proposer des défis motivants et un environnement de travail adapté. Pour cela, nous souhaiterions mieux connaître les motivations de futurs datascientists, designers, développeuses et développeurs à rejoindre le service public.</p>
+
+
+
+<p>En répondant à ce sondage, vous nous aidez à accueillir dans les meilleures conditions les futurs datascientists, designers, développeuses et développeurs dans l&rsquo;administration.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p><strong>Ce sondage est désormais terminé. Les résultats seront publiés prochainement.</strong></p>
+
+
+[contact-form-7]
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

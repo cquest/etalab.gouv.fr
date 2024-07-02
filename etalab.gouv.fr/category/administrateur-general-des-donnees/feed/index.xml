@@ -1,0 +1,1772 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Administrateur général des données &#8211; Etalab</title>
+	<atom:link href="/category/administrateur-general-des-donnees/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 18 Jun 2019 08:49:37 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Administrateur général des données &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Un appui scientifique aux administrations</title>
+		<link>/un-appui-scientifique-aux-administrations</link>
+		
+		<dc:creator><![CDATA[Florian Gauthier]]></dc:creator>
+		<pubDate>Fri, 19 Jan 2018 15:21:45 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10667</guid>
+
+					<description><![CDATA[Régulièrement sollicitée par des entreprises privées qui lui proposent des solutions de data-sciences, l’administration n’a pas toujours le recul ou les connaissances scientifiques nécessaires pour évaluer la pertinence des outils qu’on lui propose. Un office de la police judiciaire (DCPJ) du Ministère de l’Intérieur a sollicité, début 2017, l’expertise de l’Administrateur général des données afin &#8230;<p class="read-more"> <a class="" href="/un-appui-scientifique-aux-administrations"> <span class="screen-reader-text">Un appui scientifique aux administrations</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<p>Régulièrement sollicitée par des entreprises privées qui lui 
+proposent des solutions de data-sciences, l’administration n’a pas 
+toujours le recul ou les connaissances scientifiques nécessaires pour 
+évaluer la pertinence des outils qu’on lui propose.</p>
+
+
+
+<p>Un office de la police judiciaire (DCPJ) du Ministère de l’Intérieur a
+ sollicité, début 2017, l’expertise de l’Administrateur général des 
+données afin d’obtenir un soutien scientifique pour évaluer la 
+pertinence d’un produit, s’appuyant sur des algorithmes, destiné à aider
+ les enquèteurs dans les recherches judiciaires.</p>
+
+
+
+<p>A cette occasion, l’AGD a fait appel à trois chercheurs de renom dans
+ le domaine des data sciences afin d’organiser un collège scientifique 
+devant lequel les représentants de l’entreprise en question ont été 
+invités à venir présenter en détail les aspects techniques (hypothèses, 
+méthodologie, algorithmes, base d’apprentissage, etc.) de l’outil qu’ils
+ proposent.</p>
+
+
+
+<p>Le collège scientifique s’est déroulé – dans une stricte 
+confidentialité – le 22 décembre dernier dans les locaux de la DINSIC à 
+Paris. Les ingénieurs de la société en question ont présenté leur outil 
+dans ses moindres détails, ce qui a donné lieu à de nombreuses 
+discussions notamment autour des algorithmes utilisés.</p>
+
+
+
+<p>Cette rencontre a finalement permis d’apporter un éclairage précieux à
+ cet office quant à la pertinence scientifique des résultats obtenus par
+ la solution proposée, et ainsi de d’accompagner le ministère dans son 
+processus d’achat.</p>
+
+
+
+<p>De manière plus générale, l’AGD a pour ambition de développer ce 
+réseau d’experts à la pointe dans le domaine des data sciences, voire 
+dans d’autres disciplines, afin de doter les administrationsd’un appui 
+scientifique qu’elles peuvent mobiliser en fonction de leurs besoins.</p>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="425" height="320" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-agd3.jpg" alt="" class="wp-image-10668" srcset="/wp-content/uploads/2019/06/image-agd3.jpg 425w, /wp-content/uploads/2019/06/image-agd3-300x226.jpg 300w" sizes="(max-width: 425px) 100vw, 425px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Besoin d’aide ?</h2>
+
+
+
+<p>Vous êtes une administration et vous souhaiteriez réunir ce collège  scientifique pour ouvrir le capot d’un outil qui vous est proposé ?  Contactez-nous : <a href="mailto:team-agd@data.gouv.fr">team-agd@data.gouv.fr</a></p>
+
+
+
+<h2 class="wp-block-heading">Envie de partager votre expertise ?</h2>
+
+
+
+<p>Vous êtes chercheur ou universitaire spécialiste dans un domaine de la  data science et volontaire pour faire partie de ce réseau de chercheurs ?  Contactez-nous avec votre CV et votre spécialité : <a href="mailto:team-agd@data.gouv.fr">team-agd@data.gouv.fr</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Prédire les vols de voitures ?</title>
+		<link>/predire-les-vols-de-voitures</link>
+		
+		<dc:creator><![CDATA[Florian Gauthier]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2018 15:27:02 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[Predvol]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10670</guid>
+
+					<description><![CDATA[Résumé : En 2015, l’équipe de l’Administrateur général des données au sein de la DINSIC a développé en collaboration avec le Service des technologies et des systèmes d’information de la Sécurité intérieure (ST(SI)è), un modèle de prédiction des vols liés aux véhicules. Cette collaboration a permis de développer Predvol, un outil d’aide à la décision &#8230;<p class="read-more"> <a class="" href="/predire-les-vols-de-voitures"> <span class="screen-reader-text">Prédire les vols de voitures ?</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Résumé :</strong></p>
+
+
+
+<p>En 2015, l’équipe de l’Administrateur général des données au sein de 
+la DINSIC a développé en collaboration avec le Service des technologies 
+et des systèmes d’information de la Sécurité intérieure (ST(SI)è), un 
+modèle de prédiction des vols liés aux véhicules. Cette collaboration a 
+permis de développer <strong>Predvol</strong>, un outil d’aide à la 
+décision pour les policiers et les gendarmes, comprenant une prédiction 
+quotidienne du risque de vols, une carte de l’historique des vols et une
+ typologie des quartiers en fonction de la nature des infractions qui y 
+sont commises.</p>
+
+
+
+<p>Ce projet, qui fut l’un des premiers de l’AGD, vit le jour lors d’une
+ rencontre entre Etalab et le ST(SI)è. Les responsables du ST(SI)è, 
+soucieux de tirer parti des avancées en matière de data-sciences, 
+cherchaient un appui scientifique pour expérimenter des techniques 
+d’apprentissage automatique (<em>machine learning</em>) sur un territoire.
+ Le département de l’Oise, particulièrement exposé aux vols de voitures,
+ réunissait les conditions pour lancer un projet.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="768" height="554" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-agd4.jpeg" alt="" class="wp-image-10671" srcset="/wp-content/uploads/2019/06/image-agd4.jpeg 768w, /wp-content/uploads/2019/06/image-agd4-300x216.jpeg 300w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>   <em>Vols de véhicules dans l&rsquo;Oise en 2015 (Source : Datafrance)</em> </figcaption></figure>
+
+
+
+<p>Définir une problématique claire est indispensable au 
+démarrage d&rsquo;un projet de data-sciences. S&rsquo;agissant des vols de voitures,
+ nous sommes partis du constat suivant :</p>
+
+
+
+<figure class="wp-block-image is-resized"><img decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-agd5-1024x552.jpeg" alt="" class="wp-image-10672" width="666" height="358" srcset="/wp-content/uploads/2019/06/image-agd5-1024x552.jpeg 1024w, /wp-content/uploads/2019/06/image-agd5-300x162.jpeg 300w, /wp-content/uploads/2019/06/image-agd5-768x414.jpeg 768w" sizes="(max-width: 666px) 100vw, 666px" /><figcaption>   <em>Patrouilles vs Répartition des vols (2014)</em> </figcaption></figure>
+
+
+
+<p>
+  Un simple coup d&rsquo;œil permet de s&rsquo;apercevoir que 
+certaines zones très surveillées par les forces de l&rsquo;ordre, observent 
+aussi de nombreux vols de véhicules (zones A), tandis que d&rsquo;autres, bien
+ que très touchées par les vols de véhicules, sont très peu empruntées 
+par les patrouilles (zones B).
+</p>
+
+
+
+<p>
+  <em>Dans quelle mesure serait-il possible d&rsquo;anticiper 
+les vols de voitures afin d&rsquo;aboutir à une meilleure orientation des 
+patrouilles de police et de gendarme ?</em>
+</p>
+
+
+
+<p>
+  Afin de répondre à cette problématique, le ST(SI)è 
+nous a transmis des données provenant directement des bases de dépèts de
+ plaintes auprès de la police et de la gendarmerie : LRPPN et LRPGN. En 
+tout, 3 ans d&rsquo;historique de vols liés aux véhicules en ont été extraits.
+ Chaque ligne correspondait à une infraction définie par un lieu 
+(coordonnées XY), une date ainsi que quelques informations – souvent 
+manquantes – sur le véhicule volé.
+</p>
+
+
+
+<p>
+  Par ailleurs, <strong>un contact régulier avec les utilisateurs finaux</strong>
+ s&rsquo;est très vite imposé afin d&rsquo;identifier précisément les problématiques
+ des acteurs de terrain et leurs façons de travailler. Deux besoins très
+ distincts ont tout de suite fait surface :
+</p>
+
+
+
+<p>
+  1) Cibler les zones les plus à risques en amont de la patrouille
+</p>
+
+
+
+<p>
+  2) Un outil d&rsquo;aide à la décision pendant la patrouille
+</p>
+
+
+
+<p>
+  Sur ce premier point, il convenait tout d&rsquo;abord de définir un découpage géographique optimal afin d&rsquo;<em>entraîner</em>
+ nos algorithmes. Le découpage IRIS proposé par l&rsquo;INSEE, apportant le 
+meilleur arbitrage taille/quantité de données disponibles, s&rsquo;imposa 
+comme le meilleur candidat. Ce dernier permit en effet d&rsquo;enrichir notre 
+base de données d&rsquo;apprentissage avec <strong>plus de 600 variables socio-démographiques sur ces zones </strong>(taux
+ de chèmage, scolarisation des jeunes, nombre de commerces à proximité, 
+èges moyens, &lsquo;). Ajouté à cela, nous avons calculé d&rsquo;autres indicateurs 
+sur les circonstances temporelles des vols : Y-avait-il eu un vol la 
+veille ? L&rsquo;avant-veille ? Dans les quartier voisins ? Quelle était la 
+météo du jour ? &lsquo;
+</p>
+
+
+
+<p>
+  Le principe est en effet d&rsquo;amener, <strong>sans a priori</strong>,
+ le maximum de variables dans notre base de données (ici plus de 650 
+variables) puis de laisser les algorithmes de machine learning 
+sélectionner les meilleures prédicteurs pour anticiper les vols de 
+voitures.
+</p>
+
+
+
+<p>
+  Nous avons alors testé 3 grandes familles 
+d&rsquo;algorithmes afin d&rsquo;anticiper au mieux, chaque jour, les vols liés au 
+véhicules dans les 799 quartiers l&rsquo;Oise :
+</p>
+
+
+
+<p>
+  A) Des algorithmes basés sur une grande quantité de variables
+</p>
+
+
+
+<p>
+  Ces algorithmes figurent parmi les plus classiques de
+ la littérature en matière de machine learning : régression logistique, 
+forèts aléatoires, boosting, forèts aléatoires extrèmement randomisées, 
+XGBoost&rsquo; Ces algorithmes utilisent une très grande quantité de 
+variables, sélectionnent les meilleurs prédicteurs en leur associant des
+ pondérations et les utilisent pour tenter anticiper la variable 
+d&rsquo;intérèt.
+</p>
+
+
+
+<p>
+  B) Les algorithmes de PredPol, une entreprise américaine connue dans ce domaine 
+</p>
+
+
+
+<p>
+  Revendiquant la place numéro 1 en matière de <em>predictive policing</em>,
+ la société PredPol utilise des algorithmes initialement développés par 
+un sismologue français, David Marsan, afin de prédire les répliques des 
+séismes. PredPol a fait l&rsquo;hypothèse que <strong>les crimes se comportent comme les séismes</strong> :
+</p>
+
+
+
+<p>
+  – <strong>il existe un risque-terrain </strong>: des zones plus sujettes au crime (calculé en fonction du passé)
+</p>
+
+
+
+<p>
+  – <strong>les crimes entraînent des répliques (on parle d&rsquo;effet de « contagion »)</strong>
+ c&rsquo;est-é-dire que lorsqu&rsquo;il y a un crime dans une zone, la probabilité 
+qu&rsquo;il en survienne un autre dans une zone géographique proche est plus 
+grande et décroét avec le temps.
+</p>
+
+
+
+<p>
+  Nous avons implémenté leurs algorithmes et les avons testé sur les vols liés aux véhicules. Voici les résultats :
+</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="558" height="379" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-agd6.png" alt="" class="wp-image-10673" srcset="/wp-content/uploads/2019/06/image-agd6.png 558w, /wp-content/uploads/2019/06/image-agd6-300x204.png 300w" sizes="(max-width: 558px) 100vw, 558px" /><figcaption>   <em>Nombre de répliques</em> </figcaption></figure>
+
+
+
+<p>
+  Deux constats :
+</p>
+
+
+
+<ul><li>
+    Les vols de véhicules dans l&rsquo;Oise n&rsquo;ont pas de mémoire (Tetha&rsquo;0).
+  </li><li>
+    Seuls le « risque terrain »du quartier est important.
+  </li></ul>
+
+
+
+<p>
+  Ce deuxième constat nous a alors conduit à tester notre troisième algorithme.
+</p>
+
+
+
+<p>
+  C) Les cartes de chaleurs évolutives
+</p>
+
+
+
+<p>
+  Une carte de chaleur est finalement exactement comme 
+le modèle de PredPol sauf qu&rsquo;on enlève la complexité du facteur de 
+contagion. On prédira comme zone la plus risquée demain, la zone dans 
+laquelle ont été observés le plus de vols dans le passé. Il convient 
+désormais de définir ce fameux « passé ». En effet, la technique des 
+« punaises sur la carte » (infractions du dernier mois) est toujours 
+couramment utilisée par la police et la gendarmerie. Notre idée ici 
+était de <strong>trouver l&rsquo;historique optimal </strong><strong>qu&rsquo;il faut utiliser afin d&rsquo;obtenir la carte de chaleur prédictive la plus pertinente.</strong>
+</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="892" height="491" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-agd7.png" alt="" class="wp-image-10674" srcset="/wp-content/uploads/2019/06/image-agd7.png 892w, /wp-content/uploads/2019/06/image-agd7-300x165.png 300w, /wp-content/uploads/2019/06/image-agd7-768x423.png 768w" sizes="(max-width: 892px) 100vw, 892px" /><figcaption><em>Capacité prédictive et précision du HotSpot en fonction de l&rsquo;historique utilisé (train_size)</em></figcaption></figure>
+
+
+
+<p>
+  Nous avons comparé les différents historiques 
+utilisés selon les deux facteurs clés d&rsquo;un modèle prédictif : la 
+capacité prédictive et la précision du modèle. Un historique trop petit 
+(les fameuses punaises) pénalisent grandement la capacité prédictive du 
+modèle, tandis qu&rsquo;un historique trop grand pénalise sa précision. Afin 
+d&rsquo;obtenir le meilleur ratio capacité prédictive / précision, <strong>construire notre carte de chaleur sur neuf mois semblait le seuil optimal.</strong>
+</p>
+
+
+
+<p>
+  Une fois nos modèles construits, il s&rsquo;agissait 
+ensuite de les comparer. La méthodologie est très classique : les 
+algorithmes ont été entraénés sur une partie de la base de données (la 
+première année d&rsquo;infractions) puis testés sur une seconde partie que les
+ algorithmes n&rsquo;avaient jamais vu (les deux dernières années). Les 
+résultats furent sans appel :
+</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="768" height="468" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-agd8.png" alt="" class="wp-image-10675" srcset="/wp-content/uploads/2019/06/image-agd8.png 768w, /wp-content/uploads/2019/06/image-agd8-300x183.png 300w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>   <em>Pourcentage de vols couverts (moyenne sur les 6 mois du test) en fonction du nombre d&rsquo;IRIS couverts chaque jour</em> </figcaption></figure>
+
+
+
+<p>
+  Les modèles prédictifs donnaient tous d&rsquo;excellents résultats : <strong>cibler en moyenne 10 % des quartiers prédits les plus risqués par le modèle permettait de couvrir 50% des vols.</strong>
+</p>
+
+
+
+<p>
+  De plus, <strong>le modèle le plus simple </strong>(carte de chaleur prédictive)<strong> permettait d&rsquo;obtenir des résultats quasiment identiques aux modèles les plus complexes </strong>(celui de PredPol, notamment)
+</p>
+
+
+
+<p>
+  <em>Simple is Beautiful. </em>Cet adage bien connu prit alors tout son sens. Pourquoi ajouter un coût en complexité important lorsqu&rsquo;on peut faire <em>presque </em>aussi
+ bien avec un modèle simplissime ? Cela est d&rsquo;autant plus vrai dès lors 
+qu&rsquo;on envisage d&rsquo;intégrer nos travaux lors de la mise en production dans
+ les systèmes d&rsquo;information de l&rsquo;état dont les environnements ne sont 
+pas toujours prèts é recevoir des calculs complexes.
+</p>
+
+
+
+<p>
+  Le modèle choisi, nous avons construit un outil 
+baptisé « PredVol », optimisé pour un usage en mobilité (sur tablette) 
+afin de rendre disponibles les résultats des prédictions journalières 
+aux opérationnels de terrain. Nous avons doté PredVol de 3 onglets, l&rsquo;un
+ permettant de visualiser les quartiers prédits les plus risqués par le 
+modèle, le second affichant une typologie des quartiers en fonctions des
+ types de vols les plus présents dans chaque quartier, et un troisième 
+permettant de visualiser les faits passés sur une carte.
+</p>
+
+
+
+<p>
+  Côté Gendarmerie, l&rsquo;outil a été intégré aux outils 
+décisionnels et testé au sein de la compagnie de Compiègne à partir de 
+mai 2016. Côté Police nationale, l&rsquo;outil a été testé par les agents de 
+la Direction départementale de la sécurité publique (DDSP) de Beauvais 
+et notamment en patrouille par la brigade anti-criminalité (BAC).
+</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="562" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-agd9-1024x562.png" alt="" class="wp-image-10676" srcset="/wp-content/uploads/2019/06/image-agd9-1024x562.png 1024w, /wp-content/uploads/2019/06/image-agd9-300x165.png 300w, /wp-content/uploads/2019/06/image-agd9-768x421.png 768w, /wp-content/uploads/2019/06/image-agd9.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>   <em>PredVol – Prédictions quotidiennes</em> </figcaption></figure>
+
+
+
+<p>
+  Pendant 6 mois d&rsquo;expérimentation, nous avons eu 
+l&rsquo;occasion d&rsquo;améliorer l&rsquo;outil PredVol afin qu&rsquo;il réponde au mieux aux 
+usages opérationnels. Cette étape cruciale nous a par exemple permis, en
+ patrouillant avec la BAC de Beauvais, de réaliser que les boutons de 
+sélection étaient trop petits pour ètre utilisés dans les virages.éAprès
+ 6 mois d&rsquo;expérimentation, nous avons réalisé que l&rsquo;essentiel de 
+l&rsquo;attention des patrouilles se dirigeait non pas sur les prédictions 
+quotidiennes, mais sur la simple visualisation des faits passés. En 
+effet,si<strong> les prédictions – bien que toujours très 
+performantes – ne permettaient que de confirmer les zones é risques 
+connues par les opérationnels</strong>, la simple visualisation des faits (onglet 3) représentait un très net progrès dans leur usage quotidien.
+</p>
+
+
+
+<p>Fort de ce constat, nous avons développé un nouvel outil sur-mesure 
+pour les brigades et cette fois entièrement porté sur la visualisation 
+des infractions :</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="510" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-adm-10-1024x510.jpg" alt="" class="wp-image-10678" srcset="/wp-content/uploads/2019/06/image-adm-10-1024x510.jpg 1024w, /wp-content/uploads/2019/06/image-adm-10-300x150.jpg 300w, /wp-content/uploads/2019/06/image-adm-10-768x383.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>   <em>MapVHL – Visualisation des infractions</em> </figcaption></figure>
+
+
+
+<p>
+  Ainsi qu&rsquo;un autre permettant de visualiser <strong>les découvertes de véhicules volés</strong>,
+ permettant ainsi aux brigades d&rsquo;orienter leurs recherches lorsqu&rsquo;un 
+véhicule est volé, en fonction de sa marque et de son modèle.
+</p>
+
+
+
+<p>
+  Enfin, permettre aux agents du terrain de visualiser les faits qu&rsquo;ils renseignent au moment des plaintes<strong> amorce un cercle vertueux</strong>
+ : cela les encourage à recueillir des données de qualité, condition 
+nécessaire – datascience ou pas – à l&rsquo;obtention de résultats pertinents.
+</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Building an open solar power map</title>
+		<link>/building-an-open-solar-power-map</link>
+		
+		<dc:creator><![CDATA[Michel Blancard]]></dc:creator>
+		<pubDate>Mon, 06 Mar 2017 15:57:20 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10682</guid>
+
+					<description><![CDATA[espite the introduction of financial incentives for developing production of photovoltaic (solar) power systems since 2000, France ranks only 15th out of 28 in Europe for photovoltaic production per inhabitant. As a comparison, Germany sets an example with production per inhabitant five times higher. Concerns about the selectiveness of the subsidies, and the increasing burden &#8230;<p class="read-more"> <a class="" href="/building-an-open-solar-power-map"> <span class="screen-reader-text">Building an open solar power map</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>espite the introduction of financial incentives for developing 
+production of photovoltaic (solar) power systems since 2000, France 
+ranks only 15th out of 28 in Europe for photovoltaic production per 
+inhabitant.</p>
+
+
+
+<p>As a comparison, Germany sets an example with production per 
+inhabitant five times higher. Concerns about the selectiveness of the 
+subsidies, and the increasing burden on finances, led to a reduction in 
+the incentives after 2010.</p>
+
+
+
+<p>While Germany and other countries developed solar cadastres (public 
+registers of property) to assess the potential of candidate roofs for 
+solar panel installations, such initiatives are still limited to a few 
+cities in France, Brest and Paris being the most successful examples. 
+These cadastres often use a three-dimensional model of a city, requiring
+ expensive data collection and treatments, and, consequently, are used 
+mostly for highly populated areas.</p>
+
+
+
+<p>An open solar cadastre, assessing the potential of roofs for solar 
+panels covering the whole territory, would not only benefit public 
+authorities but also a whole community comprising energy providers, 
+panel installers, consulting companies and homeowners.</p>
+
+
+
+<p>The Etalab team used an innovative, cost-efficient approach combining
+ open data and open algorithms, relying on external contributions to 
+build a nationwide solar cadastre.</p>
+
+
+
+<p>The French land cadastre provides the contours of every structure. 
+The shape of the roof is still uncertain and visual analysis is required
+ to distinguish a ridge going west to east (suitable for solar 
+installations) from one going north to south. So, satellite and aerial 
+images covering the whole French territory with sufficient precision for
+ most situations are used.</p>
+
+
+
+<p>Etalab took advantage of a hackathon to design and set up a 
+crowdsourcing platform with the help of enthusiastic developers. The 
+platform displays the image of a roof and the user is invited to provide
+ its orientation. The platform, being fun and somewhat addictive, 
+received 100,000 contributions in a three-week span by word of mouth. 
+This allowed us to classify 10,000 roofs with confidence. We identified 
+just one case of vandalism, which was easily spotted and discarded.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1000" height="577" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-agd11.png" alt="" class="wp-image-10683" srcset="/wp-content/uploads/2019/06/image-agd11.png 1000w, /wp-content/uploads/2019/06/image-agd11-300x173.png 300w, /wp-content/uploads/2019/06/image-agd11-768x443.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption>     opensolarmap.org : Crowdsourcing platform, displaying a roof image and 4 possible orientation choices   </figcaption></figure>
+
+
+
+<p>     </p>
+
+
+
+<p>This is a small sample compared to the 50 million buildings in 
+France, but it is enough to programme an automated classifier. Using 
+standard techniques in image processing, namely logistic regression and 
+deep neural networks, we obtained a classifier that was correct 80% of 
+the time. Later, we found the automated results to be comparable 
+toéhuman contributions in accuracy. Run on standard hardware, the 
+classifier takes one second to make a decision on an image.</p>
+
+
+
+<p>This classification challenge was later taken on by a hundred teams 
+during the Data Science Game, an international data science competition.
+ The winning team, using newer neural networks and advanced techniques 
+like data augmentation, fine tuning and ensemble learning, achieved a 
+30% lower error rate.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Solution and action</strong></h2>
+
+
+
+<p>The nationwide map of roof orientation shows differences between 
+regions affected unequally by wind and topography. For example, most 
+roofs in Brittany have a favourable orientation, whereas the opposite is
+ the case in the éRhène Valley. This map is of great importance to 
+assess the relevance of solar incentives at a local level. It is worth 
+comparing with the solar exposure to evaluate solar potential.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2017/02/orientation_mid_res.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2017/02/orientation_mid_res-1024x957.png" alt="" class="wp-image-841"/></a><figcaption>     Roof orientation map. Regions with a high number of favourably orientated roofs are displayed in red.   </figcaption></figure>
+
+
+
+<p>The solar cadastre doesn’t take into account shades or the angle of 
+inclination of roofs, and it discards roofs with complex shapes. 
+However, it is intended to be completed by more precise, possibly local 
+and expensive, data to deliver a better result. <a href="https://www.data.gouv.fr/fr/organizations/opensolarmap/">All the data</a>, <a href="https://github.com/opensolarmap/">as well as the code</a>éused
+ and produced in this project, is open and documented. Therefore, it is 
+easy for éanyone working in this field, whether from the public or 
+private sector, to quickly build an improved solar cadastre on top of 
+ours or to replicate it in another country.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2017/02/G_opt_FR.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2017/02/G_opt_FR-725x1024.png" alt="" class="wp-image-842"/></a></figure>
+
+
+
+<p>
+    Horizontal irradiation – France. Source: PVGIS é European Union, 2001-2012 (Copyright: 2011 GeoModel Solar s.r.o.)
+  </p>
+
+
+
+<h2 class="wp-block-heading" id="learnings">Learnings</h2>
+
+
+
+<p>As a government service attached to the Prime Minister, Etalab 
+prefers inclusive approaches to closed ones. Machine learning projects 
+like this one seem particularly suited to public participation. Every 
+citizen, regardless of their skills and expertise, can offer their help 
+using a crowdsourcing platform.</p>
+
+
+
+<p>Calling on public participation is also a natural way to communicate and advertise the goals of the project.</p>
+
+
+
+<p>The Etalab team benefited from voluntary contributions during the 
+development of the crowdsourcing platform, the construction of the 
+training set and the building of automated classifiers. Additionally, we
+ rooted our project in open data and open source tools. In this way, a 
+team of two people managed to develop this project within a few months, 
+for negligible hardware costs. Although projects using machine learning 
+are often termed é?Big Data’, it would be a misnomer in this case, since
+ we systematically favoured small-scale, quick and cost-effective 
+methods, involving manageable amounts of data.</p>
+
+
+
+<p>This approach lays the foundation for tools facilitating the work of 
+public decision-makers involved in energy policies. It could be easily 
+replicated for similar issues; for example, detection of bus lanes and 
+pedestrian crossings, for land-use classification, and so on.</p>
+
+
+
+<p>We demonstrated the application of state-of-the-art, free, 
+open-source, well-packaged machine learning solutions outside of a 
+research context. Engineers and developers can now extract value from 
+images without having to be specialists in image processing or deep 
+learning. It is probable that such tools will become increasingly 
+widespread and eventually find their way into the general IT engineer’s 
+toolbox.</p>
+
+
+
+<p><a href="https://quarterly.blog.gov.uk/2017/02/07/building-an-open-solar-power-map/">This blogpost was originally published on the British Civil Service Quarterly.</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Billet technique : Comment rapprocher deux bases de données</title>
+		<link>/rapprocher-deux-bases-donnees</link>
+		
+		<dc:creator><![CDATA[Alexis Eidelman]]></dc:creator>
+		<pubDate>Tue, 22 Nov 2016 15:57:23 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[base de données]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10687</guid>
+
+					<description><![CDATA[Le rapprochement de bases de données est un sujet technique et délicat qui dépasse le cadre de l’activité de l’OCLTI, il se pose à chaque fois que l’on veut comparer et étudier des bases de données partageant de l’information mais ne respectant pas la mème nomenclature. C’est un cas très courant et le fait de &#8230;<p class="read-more"> <a class="" href="/rapprocher-deux-bases-donnees"> <span class="screen-reader-text">Billet technique : Comment rapprocher deux bases de données</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Le rapprochement de bases de données est un sujet technique 
+et délicat qui dépasse le cadre de l’activité de l’OCLTI, il se pose à 
+chaque fois que l’on veut comparer et étudier des bases de données 
+partageant de l’information mais ne respectant pas la mème nomenclature.
+ C’est un cas très courant et le fait de pouvoir associer deux bases de 
+données construites séparément fait partie de la richesse du mouvement 
+actuel autour de l’utilisation des données. Deux bases peuvent par 
+exemple apporter une information complémentaire sur une liste 
+d’individus, il est intéressant de fusionner ces deux bases. Cependant, 
+un mème individu peut ètre écrit de plusieurs façons : M. Vincent 
+Durrand ; Monsieur Durrand V. ; Vincent (Thomas) Durant ; Durrand 
+Vincent Thomas. Si les bases de données sont de tailles raisonnables et 
+les nomenclatures assez proches, une analyse humaine sera suffisante 
+mais dans certains cas, le temps d’analyse manuel sera très long et 
+s’accompagnera inévitablement d’erreurs.</p>
+
+
+
+<p>L’utilisation <strong>d’algorithmes de matching de chaînes de caractères</strong> peut alors apporter une réponse à ce problème. L’équipe de l’Administrateur général des données a décidé d’utiliser la <a href="https://dedupe.readthedocs.io/en/latest/">librairie python Dedupe</a> pour le traiter.</p>
+
+
+
+<h3 class="wp-block-heading" id="le-problème-technique">Le problème technique</h3>
+
+
+
+<p>Rapprocher deux bases de données est un exercice souvent plus 
+compliqué qu’il n’y paraît. Il faut un peu de virtuosité pour faire en 
+sorte qu’une machine repère les noms similaires aussi bien qu’un ètre 
+humain.</p>
+
+
+
+<p>En effet, mème si elles traitent de sujets communs et ont une 
+variable commune (un nom de département, un label, un nom, etc.) très 
+souvent, aucun référentiel commun est appliqué, cette variable commune 
+n’est pas codifiée de la mème façon dans les deux bases. Parfois, il 
+n’existe pas de référence suffisamment légitime et chacun utilise sa 
+propre nomenclature. Parfois, c’est lors de la saisie des données que 
+des erreurs se produisent.</p>
+
+
+
+<p>Par exemple, la fusion de deux bases de données avec des noms de 
+départements français sera un travail plus conséquent si les 
+départements ont été écrits avec un nom en minuscule précédé par le 
+numéro du département et un trait d’union dans l’une des bases (ex. 
+65-Hautes-Pyrénées) et avec des noms en majuscule sans accent et sans 
+traits d’unions dans l’autre (HAUTES PYRENEES). Cet exemple est résolu 
+rapidement par un petit algorithme mais il demande une opération 
+spécifique.</p>
+
+
+
+<p>Cette opération peut s’avérer bien plus complexe lorsque l’on doit 
+utiliser une base de données agrégeant plusieurs sources. Par exemple, 
+une base de données avec des contenus de médicaments comme la <a href="https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle/">base publique des médicaments</a>
+ mèlera plusieurs habitudes dans les champs littéraux. Le label “Une 
+boite de six comprimés” utilisera parfois pour “comprimés” des 
+abréviations qui seront variées suivant les lignes (“comp”, “comp.”, 
+“comps”, “cp”, et”c.”). Autant un ètre humain (XXXrèdéXXX) est capable 
+de comprendre que “Une boite de six comprimés” et “1 bte; 6 comp” 
+désignent la mème chose, autant cela peut troubler un programme 
+informatique qui doit traiter des milliers de lignes. Comment exprimer à
+ une machine que l’on souhaite obtenir la liste exhaustive de tous les 
+médicaments vendus en boites de six comprimés.</p>
+
+
+
+<p>À ces différences de notation, s’ajoute le fait que lorsque l’on 
+n’utilise pas un référentiel dès la saisie des données, des erreurs 
+humaines peuvent s’introduire et l’on peut voir apparaître des 
+“comprime”, ou des “coprimés”. Enfin, les données numériques que l’on 
+peut manipuler sont parfois issues d’une opération de numérisation au 
+cours de laquelle des erreurs peuvent aussi ètre commises. Lors de 
+l’utilisation d’une méthode d’<a href="https://agd.data.gouv.fr/2016/11/22/rapprocher-deux-bases-donnees/OCR" class="broken_link">https://fr.wikipedia.org/wiki/Reconnaissance_optique_de_caract%C3%A8res</a> : la lettre “i” peut ètre interprétée comme une lettre “l”, un “4” comme un “6”, etc.</p>
+
+
+
+<h3 class="wp-block-heading" id="un-cas-concret-pour-moderniser-ladministration">Un cas concret pour moderniser l’administration</h3>
+
+
+
+<p>Dans le cadre de sa mission d’aide é la décision des agents publics, 
+l’équipe de datascientists de l’Administrateur général des données a 
+travaillé très concrètement sur réquisition judiciaire avec l’Office 
+Central de Lutte contre le Travail Illégal (OCLTI) sur cet aspect 
+technique.</p>
+
+
+
+<p><a href="http://www.gendarmerie.interieur.gouv.fr/Notre-Institution/Nos-missions/Police-judiciaire/Travail-illegal-OCLTI">L’Office Central de Lutte contre le Travail Illégal (OCLTI)</a>
+ a pour mission de lutter contre le travail illégal, la traite des ètres
+ humains aux fins d’exploitation au travail et la fraude en matière 
+sociale dont des fraudes au détachement intra-européen de travailleurs 
+qui peuvent concerner des centaines et parfois des milliers de 
+travailleurs.</p>
+
+
+
+<p>Dans plusieurs de ses dossiers, l’OCLTI doit rapprocher des bases de 
+données pour identifier des victimes de fraude transnationale. Par 
+exemple, à partir d’un listing de salarié, l’OCLTI est amené à vérifier 
+si les employés sont bien inscrits à la sécurité sociale en cherchant le
+ nom de ces salariés dans les bases de la sécurité sociale.</p>
+
+
+
+<p>Cette collaboration s’est faite concernant deux études. Pour la première, les deux bases étaient :</p>
+
+
+
+<ul><li>une extraction de la base SIRDAR (système informatiseI? de 
+recherche des détachements autorisés et réguliers du CLEISS) qui 
+répertorie les formulaires de sécurité sociale délivrés à des individus 
+détachés temporairement en France (environ 8000 noms).</li><li>une base composée d’individus victimes établies par les enquèteurs (environ 800 noms).</li></ul>
+
+
+
+<p>Ces deux bases étant construites indépendamment, des individus 
+peuvent ètre reportés différemment, des erreurs peuvent avoir été 
+commises (Faute de frappe/d’orthographe ; Noms é rallonge enregistrés 
+partiellement ; Deuxième prénom reporté ou non, etc.).</p>
+
+
+
+<p>Cela empèche de rapprocher les deux bases de données de faéon exacte 
+et aisée. Pendant 3 semaines, l’équipe de l’OCLTI a rapproché é l’aide 
+d’un tableur ces deux bases de données et a identifié 91 personnes 
+présentes dans les deux bases.</p>
+
+
+
+<p>Le besoin exprimé par l’OCLTI est de créer un outil automatique et 
+efficace de matching de noms d’individus (chaéne de caractères) entre 
+deux bases. Deux indicateurs permettent de juger des bénéfices des 
+méthodes mises en éuvre par Etalab : le temps de calcul et le taux de 
+détection. Le taux de détection de référence pour ce premier jeu de 
+donnés est celui de l’OCLTI, ce qui permet d’évaluer le résultat obtenu 
+par Etalab.</p>
+
+
+
+<p>Nous avons répliqué en tant que personne qualifiée ce travail en utilisant la librairie Python intitulée <a href="https://github.com/datamade/dedupe">Dedupe</a>,
+ qui automatise la déduplication inexacte. Avant d’utiliser 
+l’algorithme, une étape de nettoyage des données a été menée : 
+suppression des majuscules, des accents, des parenthèses, etc.</p>
+
+
+
+<p>L’identification dans ce type de problème se fait é partir des 
+variables communes aux deux bases (nom, prénom, date de naissance ‘). 
+Chaque variable caractérisant un individu peut ètre vu comme une chaéne 
+de caractères. Pour chaque couple d’individus et pour chaque variable, 
+il est possible de calculer une distance entre ces chaénes de 
+caractères. Il en existe plusieurs, les plus répandues étant :</p>
+
+
+
+<ul><li>la distance de Levenshtein : nombre minimum de caractères é modifier dans la chaéne 1 pour arriver é la chaéne 2.</li><li>la distance de Hamming : nombre de caractère différents entre les chaénes 1 et 2.</li></ul>
+
+
+
+<p>Il s’agit de cette deuxième distance qui est utilisée par défaut par 
+Dedupe. Pour calculer une distance ééglobaleéé entre deux noms, il faut 
+agréger les distances associées é chaque variable. La clef de 
+répartition permettant d’agréger ces distances est calculée 
+automatiquement par la librairie Dedupe. En effet, cette librairie 
+choisit l’importance de chaque variable en interrogeant l’utilisateur : 
+elle demande pour différents couples d’individus s’il s’agit bien de 
+duplicatas ou non. Le temps de calcul est presque immédiat (pour des 
+bases de données de taille raisonnable &lt; 100k).</p>
+
+
+
+<p>En ce qui concerne le cas concret de l’OCLTI, le gain en terme de 
+temps de calcul est donc considérable (plusieurs jours contre quelques 
+secondes). Le gain en termes de détection est également intéressant : 
+Dedupe détecte 120 individus potentiellement présents dans les deux 
+bases. Sur les 91 détectés par l’OCLTI, 85 le sont également par 
+l’algorithme. Les six personnes non identifiées ont échappé é 
+l’algorithme car les noms étaient très différents et l’OCLTI les avait 
+détectés grèce é une connaissance approfondie des bases de données. Nous
+ pensons qu’en intégrant l’ensemble des données disponibles, la méthode 
+ééDedupeéé n’aurait eu aucun mal é identifier ces six cas. C’est l’une 
+des améliorations é prévoir. Parmi les 35 duplicata potentiels détectés 
+par Dedupe, 7 sont des duplicata qui semblent avoir échappé é l’OCLTI. 
+Le résultat global est donc très positif : le temps diminue de faéon 
+conséquente pour des résultats en amélioration. Ces bénéfices sont 
+d’autant plus importants que cette tèche pourrait ètre répétée par 
+l’OCLTI ou ses partenaires de la lutte contre le travail illégal 
+plusieurs fois par an (de l’ordre d’une cinquantaine), ce qui n’est fait
+ aujourd’hui que rarement par manque de moyens.</p>
+
+
+
+<p>Les travaux se poursuivent pour encore améliorer la solution qui intéresse d’autres services de contrèle du travail illégal.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Billet technique : Comment l&#8217;AGD a développé des algorithmes pour les demandeurs d&#8217;emploi</title>
+		<link>/comment-l-agd-a-developpe-des-algorithmes-pour-les-demandeurs-d-emploi</link>
+		
+		<dc:creator><![CDATA[Florian Gauthier]]></dc:creator>
+		<pubDate>Mon, 14 Nov 2016 16:00:06 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[algorithme]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10690</guid>
+
+					<description><![CDATA[L’une des missions importantes de l’Administrateur général des données est de soutenir la diffusion dans l’Etat des datasciences au service de l’action publique. Complétant l’ouverture des données publiques, des modèles et des codes source, certains des algorithmes développés par l’AGD sont ainsi des ressources mises à disposition de tous, permettant à des innovateurs d’inventer de &#8230;<p class="read-more"> <a class="" href="/comment-l-agd-a-developpe-des-algorithmes-pour-les-demandeurs-d-emploi"> <span class="screen-reader-text">Billet technique : Comment l&#8217;AGD a développé des algorithmes pour les demandeurs d&#8217;emploi</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>L’une des missions importantes de l’Administrateur général 
+des données est de soutenir la diffusion dans l’Etat des datasciences au
+ service de l’action publique. Complétant l’ouverture des <a href="http://www.data.gouv.fr/">données publiques</a>, des <a href="https://www.openfisca.fr/">modèles</a> et des <a href="https://www.etalab.gouv.fr/codeimpot-un-hackathon-autour-de-louverture-du-code-source-du-calculateur-impots">codes source</a>,
+ certains des algorithmes développés par l’AGD sont ainsi des ressources
+ mises à disposition de tous, permettant à des innovateurs d’inventer de
+ nouveaux services ou aux administrations de les réutiliser.</p>
+
+
+
+<p><strong>Engagé comme toute la DINSIC dans la transformation numérique
+ de l’action publique, l’AGD soutient le développement de solutions 
+concrètes (<a href="http://labonneboite.pole-emploi.fr/">La Bonne Boîte</a>, <a href="http://labonneformation.pole-emploi.fr/">La Bonne Formation</a>, projets de l’<a href="https://beta.gouv.fr/">incubateur de services numériques</a>), et les démarches d’<a href="https://www.etalab.gouv.fr/rejoignez-la-1e-promotion-dentrepreneurs-dinteret-general">open innovation.</a></strong></p>
+
+
+
+<p><strong>À ce titre, l’équipe collabore depuis plusieurs semaines avec Bayes Impact France, qui a lancé <a href="https://www.bob-emploi.fr/">Bob Emploi</a>,</strong>
+ un service permettant d’accompagner le demandeur d’emploi dans ses 
+recherches, en lui faisant des recommandations d’actions à engager.</p>
+
+
+
+<p>Grâce à la stratégie d’Etat-plateforme, <strong>Bob Emploi</strong> a
+ pu utiliser certaines API développées par la DINSIC, notamment pour la 
+Bonne Boîte, et des algorithmes ont été développés en collaboration avec
+ les équipes de Bayes Impact.<br>
+Trois actions ont ainsi été identifiées permettant d’élargir le périmètre de recherche d’un demandeur d’emploi :</p>
+
+
+
+<ul><li>Changer de métier</li><li>Modifier son salaire de recherche</li><li>Changer de département</li></ul>
+
+
+
+<p>Deux algorithmes ont été développés par l’AGD : un algorithme de 
+recommandation pour ajuster son salaire de recherche et un algorithme de
+ recommandation pour explorer d’autres métiers. Le premier est déjà en 
+production dans l’application Bob Emploi et le second y sera intégré 
+prochainement.</p>
+
+
+
+<h3 class="wp-block-heading" id="comment-fonctionne-lalgorithme-de-recommandation-salariale-">Comment fonctionne l’algorithme de recommandation salariale ?</h3>
+
+
+
+<p>Lorsque l’on recherche une offre d’emploi, le choix d’une 
+revendication salariale n’est pas toujours évident. Si ce salaire 
+recherché est trop élevé, il peut cacher une grande partie des offres. 
+L’algorithme confronte le salaire de recherche du demandeur d’emploi à 
+la distribution des salaires dans la base des offres d’emploi et permet 
+d’envoyer un signal à un demandeur d’emploi qui se couperait d’une 
+partie trop importante du marché.</p>
+
+
+
+<p>L’algorithme repose sur l’idée qu’il y a un arbitrage entre la baisse
+ de salaire que l’on est prèt à accepter et le nombre d’offres 
+auxquelles on a accès. L’objectif est de pouvoir envoyer un signal à 
+l’utilisateur du type : <em>En baissant de 4,5% votre salaire de recherche, vous aurez accès à 150% d’offres supplémentaires.</em></p>
+
+
+
+<p>Cette recommandation s’appuie sur la maximisation d’un score qui 
+dépend positivement du nombre d’offres d’emploi supplémentaires 
+auxquelles donne accès une baisse du salaire de recherche et 
+négativement de la baisse de salaire engendrée. Après plusieurs essais, 
+c’est la fonction suivante qui a été retenue [Voir <a href="https://github.com/SGMAP-AGD/recommandations_emploi/blob/master/recommandations_salariales/algo_reco_salaries_score.ipynb">notebook</a> sur les scores] :</p>
+
+
+
+<p>
+  <strong>[latex]\Large{\mathbf{score(\Delta O)=\frac{\sqrt(\Delta S)}{\Delta O}}}[/latex]</strong>
+</p>
+
+
+
+<p>avec [latex]\mathbf{\Delta O} = [/latex] Taux d’offres d’emploi accessibles supplémentaires.</p>
+
+
+
+<p>et [latex]\mathbf{\Delta S} = [/latex]Taux de baisse de salaire.</p>
+
+
+
+<p>L’algorithme est calculé à partir de l’ensemble des offres d’emploi 
+collectées par Pôle Emploi sur les six derniers mois. Il est calculé en 
+fonction du métier, en utilisant le référentiel ROME de Pèle Emploi, et 
+par niveau d’expérience.</p>
+
+
+
+<h4 class="wp-block-heading" id="exemple-sur-bob-emploi">Exemple sur Bob Emploi</h4>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/11/pasted_image_at_2016_11_14_05_58_pm.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/11/pasted_image_at_2016_11_14_05_58_pm.png" alt="pasted_image_at_2016_11_14_05_58_pm" class="wp-image-815"/></a></figure>
+
+
+
+<h3 class="wp-block-heading" id="comment-fonctionne-lalgorithme-de-recommandation-des-métiers-">Comment fonctionne l’algorithme de recommandation des métiers ?</h3>
+
+
+
+<p>Pour définir un algorithme de recommandation de métiers, il faut trois éléments :</p>
+
+
+
+<ul><li>une métrique qui permette de mesurer ce que l’on veut maximiser ou minimiser.</li><li>un graphe qui indique les transitions potentielles entre les métiers</li><li>un modèle qui permette d’indiquer l’espérance de la métrique en fonction des différents scénarios envisagés.</li></ul>
+
+
+
+<p>À partir d’un échantillon du Fichier historique des demandeurs 
+d’emploi de Pèle Emploi recensant l’ensemble des épisodes d’inscription à
+ Pôle Emploi, une métrique mesure le pourcentage de temps moyen passé en
+ catégorie A par demandeur d’emploi sur une période donnée.</p>
+
+
+
+<p>Pour le graphe des métiers, les métiers connexes définis dans le 
+référentiel ROME de Pèle Emploi sont utilisés. Ce référentiel permet de 
+connaître les transitions possibles entre les métiers répertoriés dans 
+le référentiel.</p>
+
+
+
+<p>À partir de lé, on peut calculer pour chaque métier dans chaque 
+région et pour chaque catégorie d’ège, le pourcentage de temps passé en 
+catégorie A au cours de cette période.</p>
+
+
+
+<h4 class="wp-block-heading" id="exemple-de-recommandations-métiers-pour-une-région-française-tous-èges-confondus">Exemple de recommandations-métiers pour une région française, tous èges confondus.</h4>
+
+
+
+<p>Prenons l’exemple d’un demandeur d’emploi pour un poste en <em>Stratégie commerciale</em>. Sans prendre en compte l’ège de l’individu, voici le tableau renvoyé par l’algorithme :</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/11/image01.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/11/image01.png" alt="reco_marketing" class="wp-image-762"/></a></figure></div>
+
+
+
+<p>Chaque ligne correspond à une option potentielle générée à partir du 
+graphe des ROME. Ainsi, un demandeur d’emploi capable d’occuper un poste
+ en «&nbsp;<em>Stratégie commerciale</em>&nbsp;» devrait supposément ètre capable de postuler pour des postes en <em>Marketing</em>, <em>Promotion des ventes</em> ou en <em>Management relation clientèle</em>. éEn comparant le temps passé au chèmage au cours des 6 derniers mois, l’algorithme a détecté que les demandeurs d’emploi en <em>Marketing</em> ont passé 20.6% de temps en moins au chèmage que ceux cherchant un poste en <em>Stratégie commerciale</em>. Si le demandeur d’emploi est prèt à considérer d’autres métiers, c’est donc vers un poste en <em>Marketing</em> que l’algorithme l’oriente.</p>
+
+
+
+<h4 class="wp-block-heading" id="exemple-de-recommandations-métiers-pour-une-région-franéaise-et-par-tranche-dâge">Exemple de recommandations-métiers pour une région franéaise et par tranche d’âge.</h4>
+
+
+
+<p>Lorsque suffisamment de données sont disponibles, l’algorithme affine
+ la recommandation par tranche d’âge. C’est le cas ici pour un demandeur
+ d’emploi en <em>Pâtisserie, confiserie, chocolaterie et glacerie</em> de 26 ans dans une région franéaise. L’algorithme explore quatre options potentielles données par le graphe des ROME : <em>Vente en gros de produits frais</em>, <em>Boulangerie-viennoiserie</em>, <em>Personnel de cuisine</em> et <em>Conduite d’équipement de production alimentaire</em>.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/11/boulangerie.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/11/boulangerie.png" alt="boulangerie" class="wp-image-763"/></a></figure></div>
+
+
+
+<p>Au regard du tableau, les demandeurs d’emploi ayant entre 25 et 35 ans en <em>Ventes en gros de produits frais</em> ainsi qu’en <em>oulangerie-viennoiserie</em> ont passé 44.62% (resp. 10.28%) de temps en moins au chômage que ceux en <em>Pâtisserie, confiserie, chocolaterie et glacerie</em>.
+ Ces deux métiers seront donc recommandés par notre algorithme pour les 
+demandeurs d’emploi de cette tranche d’âge, dans cette région 
+spécifique.</p>
+
+
+
+<p>Les algorithmes ainsi que les notebooks sont disponibles sur <a href="https://github.com/SGMAP-AGD/recommandations_emploi">GitHub</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>De l&#8217;arrêté ministériel aux coordonnées géographiques</title>
+		<link>/de-larrete-ministeriel-au-fichier-geojson</link>
+		
+		<dc:creator><![CDATA[Alexis Eidelman]]></dc:creator>
+		<pubDate>Mon, 31 Oct 2016 16:03:23 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[géographique]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10692</guid>
+
+					<description><![CDATA[L’Administrateur général des données a récemment été saisi d’une intéressante question concernant les contours des nouvelles zones touristiques internationale sur Paris. Cela a donné lieu à un travail qui mérite d’ètre partagé. Un tracé apparaissait sur cette page du ministère de l’économie. http://www.economie.gouv.fr/vous-orienter/entreprise/commerce/creation-des-zones-touristiques-internationales-a-paris. Cependant, le format de diffusion en pdf rendait impossible la réutilisation. De &#8230;<p class="read-more"> <a class="" href="/de-larrete-ministeriel-au-fichier-geojson"> <span class="screen-reader-text">De l&#8217;arrêté ministériel aux coordonnées géographiques</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>L’Administrateur général des données a récemment été saisi 
+d’une intéressante question concernant les contours des nouvelles zones 
+touristiques internationale sur Paris. Cela a donné lieu à un travail 
+qui mérite d’ètre partagé.</p>
+
+
+
+<p>Un tracé apparaissait sur cette page du ministère de l’économie. <a href="http://www.economie.gouv.fr/vous-orienter/entreprise/commerce/creation-des-zones-touristiques-internationales-a-paris" class="broken_link">http://www.economie.gouv.fr/vous-orienter/entreprise/commerce/creation-des-zones-touristiques-internationales-a-paris.</a>
+ Cependant, le format de diffusion en pdf rendait impossible la 
+réutilisation. De plus le tracé n’englobait pas autant qu’il l’aurait pu
+ les adresses alors que la possibilité de faire le lien adresse – zone 
+est important pour la réutilisation.</p>
+
+
+
+<p>Plutôt que de répondre sur un principe général, l’équipe a donc décidé de proposer une solution concrète au problème.</p>
+
+
+
+<p>A partir du texte des arrêtés, (<a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031223582">un exemple</a>) seul document faisant foi, le tracé a été effectué à partir de l’outil <a href="https://josm.openstreetmap.de/wiki/Fr%3AWikiStart">JOSM</a>. Les limites ont été calée afin que les positions des <a href="https://opendata.paris.fr/explore/dataset/adresse_paris/table/">adresses de la Ville de Paris</a> et de la <a href="http://openstreetmap.fr/bano" class="broken_link">BANO</a> disponibles en opendata soient correctement intégrées ou non dans la zone touristique internationale.</p>
+
+
+
+<p>Les arrêtés contiennent quelques petites ambiguïtés mais elles sont 
+suffisamment légères pour que les choix qui ont été opérés ne prètent 
+pas à contestation. A titre d’exemple, dans la zone «&nbsp;Marais&nbsp;», l’arrêté
+ cite «&nbsp;rue de Poitou, dans sa partie comprise entre la rue des Archives
+ et la rue de Turenne&nbsp;» mais la rue de Poitou et la rue des Archives ne 
+se croisent pas puisque la rue de Poitou devient rue Pastourelle avant 
+l’intersection.</p>
+
+
+
+<p>On peut les visionner les données sur: <a href="http://overpass-turbo.eu/s/hw1">http://overpass-turbo.eu/s/hw1</a>{.moz-txt-link-freetext}
+ et le bouton «&nbsp;Exporter&nbsp;» permet de récupérer dans différents formats. 
+Le format en geojson est accessible sur <a href="https://www.data.gouv.fr/fr/datasets/zones-touristiques-internationales-a-paris/">data.gouv.fr</a>{.moz-txt-link-freetext} et sur <a href="http://opendata.paris.fr/explore/dataset/zones-touristiques-internationales/information/">le site Open Data de la mairie de Paris</a></p>
+
+
+
+<p>Les Parisiens sauront donc où trouver (et ne pas trouver) les touristes ! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>Si vous avez été intéressé par cet article vous aurez peut-être envie de participer au <a href="https://www.etalab.gouv.fr/cadastreelectoral-un-open-data-camp-pour-analyser-la-localisation-des-bureaux-de-vote">data camp sur le cadastre électoral</a> qui se déroulera le 5 novembre à Créteil. C’est l’occasion de faire et d’apprendre plein de choses et il reste des places ! (<a href="https://rdv.etalab.gouv.fr/e/11/open-data-camp-cadastre-electoral" class="broken_link">inscriptions sur ce lien</a>)</p>
+
+
+
+<p>Note : Le procédé utiliser pour établir le tracé utilise des données 
+OpenStreetMap et de BANO. Ces données sont publiées sous licence ODbL, 
+aussi le jeu de données produit est-il diffusé sous cette mème licence.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Deux challenges sur des données publiques</title>
+		<link>/deux-challenges-sur-des-donnees-publiques</link>
+		
+		<dc:creator><![CDATA[Alexis Eidelman]]></dc:creator>
+		<pubDate>Thu, 08 Sep 2016 15:06:47 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[données]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10695</guid>
+
+					<description><![CDATA[L’ouverture des données par les administrations publiques permet à des jeunes datascientists d’exercer leurs talents. Des exemples récents le montrent. L’objectif peut avoir une dominante pédagogique et ludique mais peut aussi servir à montrer ce qu’il est possible de faire et suggérer des propositions d’amélioration pour les services publics. En mai dernier, l’association FrenchData a &#8230;<p class="read-more"> <a class="" href="/deux-challenges-sur-des-donnees-publiques"> <span class="screen-reader-text">Deux challenges sur des données publiques</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>L’ouverture des données par les administrations publiques 
+permet à des jeunes datascientists d’exercer leurs talents. Des exemples
+ récents le montrent. L’objectif peut avoir une dominante pédagogique et
+ ludique mais peut aussi servir à montrer ce qu’il est possible de faire
+ et suggérer des propositions d’amélioration pour les services publics.</p>
+
+
+
+<p>En mai dernier, l’association <a href="http://frenchdata.fr/" class="broken_link">FrenchData</a>
+ a organisé le temps d’une soirée un challenge appelé «&nbsp;Le meilleur 
+datascientist de France&nbsp;» à l’école 42. L’objectif du challenge est de 
+déterminer le prix d’un médicament à partir de ses caractéristiques. Les
+ données utilisées sont des données ouvertes celles de la <a href="https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle/">Base Publique des Médicaments</a>. Ce challenge a été prolongé au-delà de soirée et sera ouvert jusqu’au 31 octobre 2016 sur la plateforme <a href="https://www.datascience.net/fr/challenge/25/details" class="broken_link">Datascience.net</a>.
+ Lors de la soirée de lancement, des tutoriels en R et en Python 
+permettaient de prédire le prix d’un médicament avec en moyenne une 
+erreur de 60%. Aujourd’hui, les meilleurs résultats atteignent les 10% 
+d’erreur.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/09/anap_challenge.jpg"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/09/anap_challenge-300x79.jpg" alt="anap_challenge" class="wp-image-729"/></a></figure></div>
+
+
+
+<p>Aujourd’hui c’est un <a href="https://www.datascience.net/fr/challenge/28/details" class="broken_link">nouveau challenge</a> qui démarre avec données publiques. Cette fois-ci, il est organisé directement par une agence publique : <a href="http://www.anap.fr/accueil/">l’Agence Nationale d’Appui à la Performance des établissements de santé et médico-sociaux</a> (ANAP) et l’<a href="http://www.atih.sante.fr/">Agence technique de l’information sur l’hospitalisation</a>
+ (ATIH) mettent aux défis les datascientists de prédire les performances
+ des établissements selon 5 composantes : qualité des soins, pratiques 
+professionnelles, organisation des soins, ressources humaines et 
+finances. A partir de données ouvertes les particpants ont jusqu’à début
+ septembre pour montrer leur talent et peut-être remporter les 
+récompenses promises aux trois premiers.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>France&#8217;s Chief Data Officer report on data governance</title>
+		<link>/frances-chief-data-officer-report-on-data-governance</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Wed, 13 Jul 2016 15:16:03 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[données]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10704</guid>
+
+					<description><![CDATA[The decree of 16 September 2014 creates, under the Prime minister’s authority, a Chief Data Officer (CDO), attached to the Secretariat general for government modernisation (SGMAP). The CDO coordinates the administrations action with regards to the inventory, governance, production, circulation and data use. The Chief Data Officer Henri Verdier also deliver each year to the &#8230;<p class="read-more"> <a class="" href="/frances-chief-data-officer-report-on-data-governance"> <span class="screen-reader-text">France&#8217;s Chief Data Officer report on data governance</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>The decree of 16 September 2014 creates, under the Prime minister’s authority, a <strong>Chief Data Officer</strong>
+ (CDO), attached to the Secretariat general for government modernisation
+ (SGMAP). The CDO coordinates the administrations action with regards to
+ the inventory, governance, production, circulation and data use. The 
+Chief Data Officer <strong>Henri Verdier</strong> also deliver each year to the Prime Minister a <a href="https://agd.data.gouv.fr/wp-content/uploads/2016/07/2016_06_20-rapport-AGD-EN-v4.pdf">public report</a> on the inventory, governance, production, circulation and use of data by administrations.</p>
+
+
+
+<p>Predicting and preventing car thefts, optimizing waiting times for 
+emergencies, better targeting of customs controls, identifying energy 
+deficient buildings, identifying companies that will soon be recruiting 
+and informing the relevant job seekers, addressing the shortage of 
+teachers in school, optimizing traffic lights to decongest and clean 
+upéthe city centers, revising the price calculation formula for 
+medicinal drugs, negotiating electricity purchases by anticipating and 
+controlling consumption peaks, negotiating better public procurements, 
+predicting the micro-economic effects of a tax reform, forecasting 
+medical investment needs through the analysis of scientific literature…é<strong> all these uses of predictive analysis are within reach of public authorities</strong>. They hold enormous potential for efficiency, expenditure control and policy accuracy.</p>
+
+
+
+<p><strong>Predictive analysis</strong> is only one example of a set of new practices : <strong>data-driven strategies</strong>, which for example allow :</p>
+
+
+
+<ul><li>To regulate an industrial sector by a releasing relevant data ‘ as the French government is <a href="https://le.taxi/">experimenting</a> with geolocation data from taxis to enable them to benefit from digital services;</li><li>To organize information so that individual public servants can take better decisions;</li><li>To improve the day-to-day work of front-office staff by providing them with more real-time information;</li><li>To increase the autonomy and freedom of choice for public service 
+users ‘ for example in predicting the likeliness of a successful legal 
+procedure.</li></ul>
+
+
+
+<p>These promises carried by data sciences are at the core of the <strong>digital transformation</strong> of big companies and large cities worldwide and are one of the levers for the modernisation of public action. This implies <strong>integrating new skill sets in government teams</strong>:
+ data scientists, statisticians with innovative profiles, computer 
+geeks, keen on new data-processing methods, and concerned with the 
+concrete impact and translation of their mathematical results. It 
+requires high-quality data ‘ that France does indeed produce and handle 
+following a long-standing tradition, thanks to its high standard 
+statistics and its commitment to the quality of public service. It also 
+requires <strong>an enhanced culture of é?data-driven strategiesé?</strong>,
+ an ambition to carry this type of change and the patience to 
+continuously test and verify whether small changes can produce major 
+improvements.</p>
+
+
+
+<p>The correct implementation of these methods, however, requires a prior effective <strong>data governance</strong>,
+ i.e. global management of data produced or held by government to ensure
+ the quality, freshness, interoperability and availability in the 
+correct formats, facilitating swift use and dissemination amongst public
+ servants ‘from central and local governments ‘so that they receive the 
+information necessary to the performance of their tasks in compliance 
+with important statutory secrets that protect fundamental freedoms and 
+the nation’s fundamental interests. It also requires organisation that 
+allows the State control and sovereignty over its data, processes and 
+systems, and provides citizens the transparency they are entitled to 
+claim.</p>
+
+
+
+<p>This <strong><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/07/2016_06_20-rapport-AGD-EN-v4.pdf">first report</a></strong>,
+ based on a year of investigation, exchange and experimentation with 
+numerous public officials and many administrations intends to <strong>provide a framework</strong>
+ of analysis, detect promises and illusions of data-driven science, 
+present initial results, report the initial difficulties encountered and
+ suggest first orientations, including a collaborative mapping of the 
+data available in the State, open to all administrations who wish to 
+participate and benefit from it. <a href="https://api.gouv.fr/"><strong>api.gouv.fr</strong></a> and <a href="https://api.gouv.fr/api/franceconnect.html"><strong>FranceConnect</strong></a> are concrete examples of the strategic framework of State as a platform.</p>
+
+
+
+<ul><li><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/07/2016_06_20-rapport-AGD-EN-v4.pdf">Download the report</a></li></ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Les techniques standards appliquées é OpenSolarMap (1/3)</title>
+		<link>/les-techniques-standards-appliquees-a-opensolarmap-13</link>
+		
+		<dc:creator><![CDATA[Michel Blancard]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2016 15:23:28 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[OpenSolarMap]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10710</guid>
+
+					<description><![CDATA[Lorsqu’un algorithme simple ne convient pas, la deuxième étape d’un projet de machine learning est d’essayer des «&#160;grands classiques&#160;». Ces algorithmes sont plus complexes d’un point de vue théorique, mais des implémentations toutes prêtes existent et cette étape est généralement rapide à mettre en oeuvre. Régression logistique La régression logistique porte un nom déroutant puisque &#8230;<p class="read-more"> <a class="" href="/les-techniques-standards-appliquees-a-opensolarmap-13"> <span class="screen-reader-text">Les techniques standards appliquées é OpenSolarMap (1/3)</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Lorsqu’un algorithme simple ne convient pas, la 
+deuxième étape d’un projet de machine learning est d’essayer des 
+«&nbsp;grands classiques&nbsp;». Ces algorithmes sont plus complexes d’un point de
+ vue théorique, mais des implémentations toutes prêtes existent et cette
+ étape est généralement rapide à mettre en oeuvre.</strong></p>
+
+
+
+<h1 class="wp-block-heading" id="régression-logistique">Régression logistique</h1>
+
+
+
+<p>La <a href="https://fr.wikipedia.org/wiki/R%C3%A9gression_logistique">régression logistique</a>
+ porte un nom déroutant puisque cette méthode est utilisée autant pour 
+des problèmes de régression que de classification. De plus, le choix par
+ Pierre François Verhulst du terme «&nbsp;logistique&nbsp;» est aujourd’hui un 
+mystère. Pourtant, la régression logistique est sans doute la méthode la
+ plus répandue pour traiter des problèmes de classification comme c’est 
+le cas ici.</p>
+
+
+
+<p>Il existe une multitude d’implémentations de la régression logistique. La méthode utilisée pour OpenSolarMap est celle de <a href="http://scikit-learn.org/">Scikit-Learn</a>. Scikit-Learn est un ensemble d’implémentation en <a href="https://www.python.org/">langage Python</a> d’algorithmes courants. Cette librairie maintenue par l’INRIA est très populaire partout dans le monde. <a href="http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html">Voir la documentation de l’implémentation</a>.</p>
+
+
+
+<p>Entraîner puis tester un modèle de régression logistique requiert d’écrire un peu de code :</p>
+
+
+
+<pre class="wp-block-preformatted">train_data, val_data, test_data = load.load_all_data(train_ids, val_ids, test_ids, l, color)
+model = sklearn.linear_model.LogisticRegression(penalty='l2', C=1e10)
+model.fit(train_data, train_labels)
+predictions = model.predict(val_data)
+err = (predictions != val_labels).sum() / len(val_labels)
+</pre>
+
+
+
+<p>Passons en revue chaque ligne :</p>
+
+
+
+<ol><li>Les données sont chargées dans les variables <code>train_data</code>, <code>val_data</code> et <code>test_data</code>. La fonction <code>load.load_all_data()</code>, spécifique a notre problème, prend en paramètre la liste des identifiants de toits à charger, la taille <code>l</code>
+ des images voulue et le nombre de canaux de couleur voulu (rouge, vert 
+et bleu ou noir et blanc). Les images de toitures sont séparées en 3 
+échantillons :
+    <ul><li>Un échantillon d’apprentissage ;</li><li>Un échantillon de test ;</li><li>Un échantillon de validation.</li></ul>
+  </li><li>Un objet python encapsulant un modèle de régression linéaire est créé. Les paramètres <code>penalty</code> et <code>C</code> configurent la régularisation. La <a href="https://en.wikipedia.org/wiki/Regularization_(mathematics)">régularisation</a>
+ est utile lorsque le nombre de features est comparable à la taille de 
+l’échantillon. Ici, il y a plusieurs milliers d’exemples dans 
+l’échantillon d’apprentissage et quelques centaines de features tout au 
+plus. Pour simplifier, le paramètre <code>C</code> a une valeur très élevée (<code>1e10 = 10.000.000.000</code>) ce qui correspond à une régularisation négligeable.</li><li>Le modèle est entraîné sur l’échantillon d’apprentissage. Le modèle a accès aux features (<code>train_data</code>) mais aussi aux labels (<code>train_labels</code>) pour pouvoir se corriger et s’améliorer.</li><li>Le modèle fait des prédictions sur l’échantillon de test. Maintenant le modèle n’a pas accès aux labels.</li><li>Le taux d’erreurs de la prédiction du modèle est calculé comme le quotient du nombre d’erreurs sur la taille de l’échantillon.</li></ol>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/lr.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/lr-300x209.png" alt="lr" class="wp-image-598"/></a></figure>
+
+
+
+<p>
+    Figure 1 : choix des hyperparamètres pour la régression logistique
+  </p>
+
+
+
+<p>On choisit la taille des images <code>l</code>
+ et le choix de couleurs (rouge, vert et bleu ou noir et blanc) en 
+essayant plusieurs combinaison. La figure 1 montre que la taille qui 
+donne les meilleurs résultats est de 6 pixels par 6 pixels. Le fait de 
+tester successivement plusieurs hyper-paramètres (les paramètres comme <code>l</code>, qui sont extérieurs au modèle de régression logistique et définis par le data-scientist) peut provoquer un phénomène appelé <a href="https://fr.wikipedia.org/wiki/Surapprentissage">surapprentissage</a>.
+ Il est nécessaire de valider la performance sur un échantillon qui n’a 
+été utilisé ni durant l’apprentissage ni durant la phase de test, l’<a href="https://en.wikipedia.org/wiki/Test_set#Validation_set">échantillon de validation</a>. Dans notre situation, le taux d’erreur sur l’échantillon de validation est de 12.5%.</p>
+
+
+
+<p>##Support Vector Machines</p>
+
+
+
+<p>Si la régression logistique a été développée dans la fin des années 
+60 par le statisticien David Cox et elle est maintenant considérée comme
+ un outil de statistique classique, les «&nbsp;machines à vecteurs de 
+support&nbsp;» sont développées depuis les années 90 et constituent encore un
+ domaine de recherche très actif. Cette différence d’âge, ainsi que le 
+fait que l’analyse mathématique de ces deux méthodes est très différente
+ fait souvent oublier que les performances, tant en prédiction qu’en 
+temps de calcul, sont souvent très semblables.</p>
+
+
+
+<p>Passer de la régression logistique au <a href="http://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html">Support Vector Classifier (SVC)</a> est presque immédiat, il faut remplacer la ligne</p>
+
+
+
+<pre class="wp-block-preformatted">model = sklearn.linear_model.LogisticRegression(penalty='l2', C=1e10)
+</pre>
+
+
+
+<p>par la ligne</p>
+
+
+
+<pre class="wp-block-preformatted">model = sklearn.svm.LinearSVC(penalty='l2', C=1e10, dual=False)
+</pre>
+
+
+
+<p>Le paramètre <code>dual=False</code> 
+commande à la librairie Scikit-Learn de ne pas utiliser l’implémentation
+ «&nbsp;duale&nbsp;», qui est appropriée dans les cas où le nombre de features est
+ plus important que la taille de l’échantillon.</p>
+
+
+
+<p>Le meilleur résultat est toujours obtenu avec une taille de 6 pixels 
+par 6 pixels, mais cette fois-ci en couleurs (rouge, vert et bleu). Le 
+résultat de l’étape de la validation est aussi de 12.5%.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/svm.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/svm-300x213.png" alt="svm" class="wp-image-599"/></a></figure>
+
+
+
+<p>
+    Figure 2 : choix des hyperparamètres pour la SVM
+  </p>
+
+
+
+<h1 class="wp-block-heading" id="quels-sont-les-grands-classiques-">Quels sont les grands classiques ?</h1>
+
+
+
+<p>Pour beaucoup de problèmes de machine learning, il existe un ou 
+plusieurs algorithmes classiques à essayer en priorité. Pour aider à 
+faire ce choix, le projet Scikit-Learn a édité un <a href="http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html">arbre de décision</a> très pratique :</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/ml_map.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/ml_map-1024x638.png" alt="ml_map" class="wp-image-600"/></a></figure></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>OpenSolarMap côté data-sciences (0/3)</title>
+		<link>/opensolarmap-cote-data-sciences-03</link>
+		
+		<dc:creator><![CDATA[Michel Blancard]]></dc:creator>
+		<pubDate>Fri, 17 Jun 2016 15:26:18 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[datasciences]]></category>
+		<category><![CDATA[OpenSolarMap]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10713</guid>
+
+					<description><![CDATA[Le projet OpenSolarMap démontre comment il est possible d’améliorer la connaissance du territoire français en utilisant astucieusement les ressources de la multitude et des data-sciences. Son objectif concret est de classifier les toitures en quatre catégories : orientation nord/sud; orientation est/ouest&#160;; toit plat&#160;; autre ou indéterminé. Cela permet, par exemple, d’évaluer le potentiel d’installation de &#8230;<p class="read-more"> <a class="" href="/opensolarmap-cote-data-sciences-03"> <span class="screen-reader-text">OpenSolarMap côté data-sciences (0/3)</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Le projet <a href="https://www.etalab.gouv.fr/opensolarmap">OpenSolarMap</a>
+démontre comment il est possible d’améliorer la connaissance du
+territoire français en utilisant astucieusement les ressources de la
+multitude et des data-sciences. Son objectif concret est de classifier
+les toitures en quatre catégories : orientation nord/sud; orientation
+est/ouest&nbsp;; toit plat&nbsp;; autre ou indéterminé. Cela permet, par
+exemple, d’évaluer le potentiel d’installation de panneaux solaires ou
+la possibilité de végétaliser.  Quelques milliers d’exemples ont été
+recueillis grâce à une <a href="http://opensolarmap.org/" class="broken_link">plateforme
+de crowdsourcing</a>. Puis, des algorithmes ont été utilisés pour
+couvrir l’ensemble du territoire. Une <a href="https://www.etalab.gouv.fr/opensolarmap">présentation générale
+du projet</a> est accessible sur le blog d’Etalab.</strong></p>
+
+
+
+<p><strong>Cet article est le premier d’une série qui présente la partie
+data-science du projet. C’est l’occasion de brosser à grands traits la
+démarche du data-scientist et de faire le tour de quelques techniques
+fréquemment utilisées. La série vise avant tout un public technique
+mais non spécialiste. Des références permettent d’approfondir les
+notions survolées.</strong></p>
+
+
+
+<p>Le code source écrit pour le projet OpenSolarMap est accessible sur la
+plateforme <a href="https://github.com/opensolarmap/">GitHub</a>. La
+partie data-sciences est contenue dans le repository <a href="https://github.com/opensolarmap/solml/">solml</a>.</p>
+
+
+
+<h1 class="wp-block-heading" id="analyse-des-contributions">Analyse des contributions</h1>
+
+
+
+<p>Nous avons voulu tout d’abord procéder à une analyse des contributions
+faites sur l’interface <a href="http://opensolarmap.org/" class="broken_link">opensolarmap.org</a>. Au 21 décembre
+2014, nous disposions de 130.374 contributions, sur 38.553 bâtiments,
+permettant de classifier avec confiance 10.771 bâtiments par un
+système de vote. Ces <a href="https://www.data.gouv.fr/fr/organizations/opensolarmap/#datasets">contributions</a>
+sont accessibles sur la plateforme <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a>.</p>
+
+
+
+<p>L’interface de contribution ne connaît le contributeur que par son
+adresse IP. Cette adresse IP est ensuite hashée pour préserver
+l’anonymat. Les contributions proviennent de 1081 utilisateurs.</p>
+
+
+
+<h2 class="wp-block-heading" id="mauvaises-contributions">Mauvaises contributions</h2>
+
+
+
+<p>Certaines contributions portent sur des bâtiments dont on ne connait
+pas encore avec certitude la vraie classe. Pour faire une analyse des
+erreurs, il ne faut garder que les prédictions qui portent sur les
+bâtiments déjà classifiés. Ces contributions, dont on peut dire si
+elles sont justes ou fausses, sont au nombre de 60.436.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/scatterplot_users.png" alt="scatterplot_users" class="wp-image-574"/></figure>
+
+
+
+<p>Figure 1</p>
+
+
+
+<p>Parmi ces contributions, il y a 1.998 erreurs. Cela représente 3.3%
+des contributions.  Il faut cependant noter que les bâtiments
+classifiés avec certitude sont en moyenne plus faciles à classifier
+que les autres.  Les contributions sur ces bâtiments sont donc moins
+susceptibles d’ètre erronées. Le taux d’erreurs réel est donc sans
+doute plus élevé que cette valeur observée.</p>
+
+
+
+<p>La figure 1 montre la répartition des utilisateurs suivant leur
+  nombre de contributions et leur taux de contributions correctes. On
+  ranger les contributeurs en plusieurs catégories :
+
+
+  des contributeurs ayant un nombre de contributions élevé et un un taux
+ de contributions correctes proche de 1. Dans cette catégorie, on 
+remarque un contributeur ayant environ 8.000 contributions à lui seul : 
+c&rsquo;est Christian Quest !
+
+
+  des contributeurs ayant un nombre faible de contributions et un taux 
+de contributions correctes faible. On peut faire l&rsquo;hypothèse que ce sont
+ des contributeurs n&rsquo;ayant pas compris comment utiliser l&rsquo;interface de 
+contribution.
+
+
+  un contributeur a quelques centaines de contributions et un taux 
+faible, proche de 55%. L&rsquo;analyse de ses contributions montrent qu&rsquo;il 
+s&rsquo;agit sans doute d&rsquo;un comportement malveillant. On peut ètre étonné de 
+rencontrer ici un comportement malveillant, mais comme on va le voir 
+tout de suite, il est très facile de s&rsquo;en prévenir.
+
+
+</p>
+
+
+
+<p>En ignorant les contributions des utilisateurs ayant un taux observé 
+de contributions correctes de 70%, on peut éliminer 191 contributeurs 
+pour 725 erreurs, c’est-à-dire plus d’un tiers des erreurs.</p>
+
+
+
+<h2 class="wp-block-heading" id="influences-sur-le-taux-de-contributions-correctes">Influences sur le taux de contributions correctes</h2>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/fatigue.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/fatigue.png" alt="fatigue" class="wp-image-579"/></a></figure>
+
+
+
+<p>
+    Figure 2
+  </p>
+
+
+
+<p>On peut se demander s’il existe des facteurs qui influencent le taux de contributions correctes.</p>
+
+
+
+<p>Existe-t-il un effet de fatigue avec un taux de contributions 
+correctes qui baisserait d’autant que le contributeur a contribué au 
+cours de 20 dernières minutes ? La figure 2 indiquerait plutèt le 
+contraire.</p>
+
+
+
+<p>Quelle est l’influence du temps de réponse sur le taux de 
+contributions correctes ? La figure 3 montre que ce taux est optimal 
+entre 1 et 3 secondes environ. En dessous d’une seconde, il chute 
+rapidement à 93% pour un temps d’environ 0.5 seconde. Dans ces cas, le 
+contributeur n’a peut-ètre pas pris assez de temps pour répondre 
+précisément. Au delà de 3 secondes il chute aussi. Le contributeur a 
+peut-ètre hésité face à un bètiment plus difficile à classifier que la 
+moyenne.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/response_time.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/response_time.png" alt="response_time" class="wp-image-580"/></a></figure>
+
+
+
+<p>
+    Figure 3
+  </p>
+
+
+
+<h1 class="wp-block-heading" id="entraéner-un-classifieur-automatique">Entraéner un classifieur automatique</h1>
+
+
+
+<p>L’ensemble des bâtiments dont on connaét l’orientation grèce aux
+contributeurs est bien plus petit que le nombre total de bâtiments
+construits sur le territoire franéais. Mais il est possible
+d’automatiser une tache de classification, à la condition d’avoir un
+nombre suffisant d’exemples préalablement classifiés.</p>
+
+
+
+<p>Pour simplifier le problème, on ne va s’attaquer dans un premier temps
+qu’aux deux premières classes :
+
+
+  les toitures orientées au nord et au sud
+
+
+  les toitures orientées à l&rsquo;est et à l&rsquo;ouest
+
+
+</p>
+
+
+
+<p>De plus, ces deux classes seront de tailles égales, ce qui ne
+correspond pas à la réalité.</p>
+
+
+
+<p>On verra dans plus tardécomment généraliser une solution à deux
+classes pour distinguer quatre classes de tailles inégales.</p>
+
+
+
+<h1 class="wp-block-heading" id="flux-de-données">Flux de données</h1>
+
+
+
+<p>Voici la description du flux des données traitées, depuis les
+informations requètées depuis l’extérieur vers le résultat de la
+classification :
+
+
+  Le cadastre est consulté via la base de donnée d&rsquo;OpenStreetMap. Le 
+cadastre contient le contour des murs extérieurs. Ce contour est 
+simplifié en un rectangle. Le bètiment n&rsquo;est pas examiné davantage si la
+ toiture n&rsquo;est pas susceptible d&rsquo;ètre orientée au sud, c&rsquo;est-é-dire si 
+l&rsquo;orientation du rectangle s&rsquo;écarte trop des directions cardinales.
+
+
+  L&rsquo;image satellite des toits est requètée avec <a href="http://www.gdal.org/">GDAL</a>ésur l&rsquo;API de <a href="https://www.mapbox.com/">Mapbox</a>.
+ GDAL est une excellente librairie de traitement d&rsquo;images géospaciales. 
+Dans ce projet, toutes les conversions entre référentiels géographiques 
+et référentiels cartographiques sont gérées par GDAL. GDAL permet 
+également d&rsquo;aller chercher les images satellite des toits à partir des 
+coordonnées voulues, et gère de manière transparente le requètage par 
+internet, le découpage parétuiles et le cache.
+
+
+  Après cette étape de téléchargement, les images satellites des toits 
+sont stockées localement au format jpg. Une image est une grille de 
+pixels de tailleévariableésouvent proche de 100 par 100. Chaque pixel 
+est composée de 3 valeurs entières comprises entre 0 et 255 pour coder 
+l&rsquo;intensité des couleurs rouge, vert et bleu.
+
+
+  Les images subissent une réduction de la taille et/ou un passage en 
+noir et blanc suivant les besoins du classifieur. A l&rsquo;issue de ce 
+prétraitement, les images ont toutes la mème taille et le classifieur 
+pourra traiter l&rsquo;image comme un tableau numérique de taille fixée. Une 
+image pourra ètre vue selon les cas comme un tableau à deux dimensions 
+auquel cas la géométrie de l&rsquo;image est préservée, ou comme un tableau à 
+une dimension (un vecteur). Dans ce cas les valeurs de chaque pixel sont
+ dépliées sur une seule dimension. On parle de «&nbsp;features&nbsp;» pour 
+désigner ces valeurs numériques caractérisant une image.
+
+
+  Un classifieur automatique intervient ici pour produireéun avis pour 
+chaque toit. Cet avis se compose de l&rsquo;indice de la classe jugée la plus 
+probable et d&rsquo;un indice de confiance.
+
+
+  Ce score peut ensuite ètre reversé dans la base OpenStreetMap.
+
+
+</p>
+
+
+
+<h1 class="wp-block-heading" id="un-premier-algorithme-très-simple">Un premier algorithme très simple</h1>
+
+
+
+<p>Par principe, nous commençons toujours nos analyses par un algorithme
+extrèmement simple. Cette étape est très importante pour ces raisons :
+
+
+  Si ce premier algorithme, aussi simple qu&rsquo;il soit, répond complètement
+ au besoin initial, il n&rsquo;y a pas de temps perdu à développer un autre 
+modèle plus complexe. De manière générale, un algorithme est d&rsquo;autant 
+mieux accepté, rapide d&rsquo;implémentation et d&rsquo;exécution, maintenable et 
+robuste qu&rsquo;il est simple.
+
+
+  Sinon, il fournit une base de comparaison pour d&rsquo;autres algorithmes plus sophistiqués.
+
+
+  En cas de calendrier serré ou de délai non anticipé durant le 
+développement d&rsquo;un algorithme mieux adapté, il constitue une solution de
+ substitution immédiatement utilisable.
+
+
+</p>
+
+
+
+<p>OpenSolarMap ne déroge pas à la règle. Une image de toit est divisée
+en 4 parties égales comme représenté sur le figure 4. Pour chacune de
+ces zones, on somme la valeur de chaque couleur de chaque pixel. On va
+noter ces sommes S1, S2, S3 et S4.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/dummy.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/dummy.png" alt="dummy" class="wp-image-586"/></a></figure>
+
+
+
+<p>
+    Figure 4
+  </p>
+
+
+
+<p>Puis à partir de ces sommes on calcule la différence entre la partie
+droite et la partie gauche de l’image, puis entre la partie haute et
+la partie base de l’image.</p>
+
+
+
+<p>
+  I�NS = |(S1+S2) &lsquo; (S3+S4)|<br> I�EW = |(S1+S3) &lsquo; (S2+S4)|
+</p>
+
+
+
+<p>On peut s’attendre à ce que la première différence soit plus
+importante pour les toitures orientées est-ouest alors que la seconde
+différence soit plus importante pour les toitures orientées
+nord-sud. Calculons donc la différence entre ces deux différences :</p>
+
+
+
+<p>
+  Y = I�NS – I�EW + c
+</p>
+
+
+
+<p>La constante c est introduite pour prendre en compte l’asymétrie
+causée par la position du soleil, toujours au sud, et de l’ombre,
+toujours au nord. Sa valeur est fixée pour maximiser la performance du
+modèle.</p>
+
+
+
+<p>Le résultat de l’algorithme est le signe de Y.  Si Y est positif,
+l’algorithme prédit une orientation nord-sud, si le signe est négatif
+il prédit une orientation est-ouest. Avec une valeur deéc optimale, le
+taux d’erreur est de 38%. C’est mieux que le classifieur aléatoire,
+qui répond 0 ou 1 avec une probabilité égale et qui a donc un taux
+d’erreur de 50%.  Mais ce n’est pas satisfaisant.  Il faut donc
+chercher un algorithme plus compliqué.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

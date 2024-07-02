@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rose Poreaux &#8211; Etalab</title>
+	<atom:link href="/author/rose-poreaux/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Fri, 12 Feb 2021 16:07:48 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Rose Poreaux &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rétrospective 2020 #1/6 : Lab IA, datascience et intelligence artificielle pour l&#8217;administration</title>
+		<link>/retrospective-2020-1-6-lab-ia-datascience-et-intelligence-artificielle-pour-ladministration</link>
+		
+		<dc:creator><![CDATA[Rose Poreaux]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2021 13:46:58 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14887</guid>
+
+					<description><![CDATA[Ce blogpost initie une série de rétrospectives de l&#8217;année 2020 autour d&#8217;axes de travail d&#8217;Etalab : ouvrir les codes sources, ouvrir et faire circuler les données publiques, accompagner les administrations à travers le programme EIG, organiser la production des données, accompagner les administrations sur l&#8217;explicabilité et la redevabilité des algorithmes. Après une année de préfiguration &#8230;<p class="read-more"> <a class="" href="/retrospective-2020-1-6-lab-ia-datascience-et-intelligence-artificielle-pour-ladministration"> <span class="screen-reader-text">Rétrospective 2020 #1/6 : Lab IA, datascience et intelligence artificielle pour l&#8217;administration</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-left"><em>Ce blogpost initie une série de rétrospectives de l&rsquo;année 2020 autour d&rsquo;axes de travail d&rsquo;Etalab</em> :<em> ouvrir les codes sources, ouvrir et faire circuler les données publiques, accompagner les administrations à travers le programme EIG, organiser la production des données, accompagner les administrations sur l&rsquo;explicabilité et la redevabilité des algorithmes</em>.</p>
+
+
+
+<p>Après une année de préfiguration en 2019, le Lab IA s’est développé en 2020 autour de trois grandes missions&nbsp;:&nbsp;</p>
+
+
+
+<ol><li>Accompagner des administrations pour expérimenter et déployer l’intelligence artificielle&nbsp;;</li><li>Développer des ressources mutualisées en intelligence artificielle au bénéfice des administrations&nbsp;;</li><li>Animer l’écosystème IA de l’administration.</li></ol>
+
+
+
+<p>Voici un aperçu des réalisations du Lab IA en 2020 :&nbsp;</p>
+
+
+
+<h5 class="wp-block-heading"><strong>1. Accompagner les administrations pour expérimenter l’intelligence artificielle</strong></h5>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/Lab-IA.png" alt="" class="wp-image-14890" width="964" height="512"/></figure></div>
+
+
+
+<p><strong>11 administrations ont été accompagnées pendant 12 mois pour expérimenter l’IA.&nbsp;</strong>Suite au succès de la&nbsp;<a href="https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia">saison 1 des 6 projets sélectionnés pour être expérimentés dans les services publics en 2019</a>, un deuxième appel à manifestation d’intérêt pour expérimenter l’intelligence artificielle («&nbsp;AMI-IA 2&nbsp;») organisé avec la DITP a permis de sélectionner <a href="https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes">15 nouveaux projets</a> dans des domaines clés&nbsp;tels que l’environnement, la justice, la sécurité, l’économie, la santé ou la lutte contre la fraude.&nbsp;</p>
+
+
+
+<p>La&nbsp;chambre des métiers et de l’artisanat de Nouvelle Aquitaine, le Centre hospitalier de Bordeaux, le Conseil d’État, la Direction générale de la santé ou encore l’INERIS ont déjà pu présenter les résultats des travaux engagés lors du mois de l’innovation publique.&nbsp;Les supports de présentation et rediffusions sont disponibles <a href="https://etalab.github.io/infolettre-lab-ia/numero-8/">ici</a>. </p>
+
+
+
+<p>Les projets de la direction générale de la gendarmerie nationale, de la direction générale des collectivités locales, de la direction générale des entreprises, de l’ANSSI, de l’institut de recherche et de sûreté nucléaire (IRSN) et de l’Insee&nbsp;se terminent d’ici février 2021 : <a href="https://www.eventbrite.fr/e/billets-edition-speciale-des-datadrinks-experimentations-de-lia-139385356353">les restitutions des projets</a> auront lieu en ligne prochainement et sont l’occasion de découvrir les outils développés et d’échanger avec les porteurs de projets sur leurs résultats. </p>
+
+
+
+<p>Enfin,&nbsp;le SHOM, la Cour de cassation et l’IGN bénéficient d’un accompagnement scientifique dans le cadre d’une collaboration avec l&rsquo;INRIA. Les résultats pourront être présentés à la fin de l’année 2021.Grâce à l’apport direct de la recherche, ces projets ont l’objectif de développer un prototype fonctionnel au service de l’action publique.&nbsp;<em>«&nbsp;En faisant appel au monde la recherche, nous avons plus d’interactions possibles qu’avec un prestataire ; une réflexion sur les outils et les performances nécessaires étant donné le type de données que l’on utilise. On teste des idées, on tente des approches : on a la flexibilité nécessaire pour expérimenter&nbsp;»&nbsp;</em>explique Julian Le Deunf, de l’équipe projet du Shom.&nbsp;</p>
+
+
+
+<p>Au delà&nbsp;du développement d’algorithmes spécifiques, le Lab IA et la DITP proposent aussi aux porteurs de projets accompagnés une série d’ateliers permettant d’appréhender les différents aspects de l’intelligence artificielle. Les porteurs de projets ont ainsi pu bénéficier d’une&nbsp;<a href="https://github.com/etalab-ia/ami-ia/blob/master/accompagnement.md">introduction à l’IA, d’un atelier «&nbsp;Vis ma vie de data scientist » </a>avec des mini-formations aux outils du data scientist (visualisation des données, traitement du langage naturel et apprentissage machine), d’un <a href="https://github.com/etalab-ia/ami-ia/blob/master/accompagnement.md">atelier sur les enjeux de l’explicabilité</a> ou encore d’<a href="https://github.com/etalab-ia/ami-ia/blob/master/accompagnement.md">un atelier sur les biais algorithmiques</a>.&nbsp;</p>
+
+
+
+<p><strong>Cinq des six projets sélectionnés par l’appel à projets IA en 2019 se sont poursuivis en 2020&nbsp;</strong>: sur les six projets accompagnés,&nbsp;<a href="https://etalab.github.io/infolettre-lab-ia/numero-3/">cinq ont permis de développer un algorithme d’IA qui a pu être testé avec les agents sur le terrain.</a><em> «&nbsp;Suite à cette expérimentation et grâce à des financements internes, nous avons pu améliorer le modèle en augmentant le nombre d’annotations, en rajoutant des zones de détection de manière manuelle (zones à enjeux) et en comparant l’existence des objets déclarés dans le temps. »,&nbsp;</em>expliquait Philippe Allamand à propos de l’outil de détection automatique des irrégularités d’occupation des sols de la Direction départementale des territoires de l’Hérault (DDTM), lui des projets AMI-IA 1, lors de sessions de partages d’expériences organisées en ligne pendant l’année en coopération avec la DITP.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>L<em>es prochaines restitutions auront lieu en ligne les jeudi 11 février et jeudi 4 mars de 16h à 17h :  <a href="https://www.eventbrite.fr/e/billets-edition-speciale-des-datadrinks-experimentations-de-lia-139385356353">plus d’infos et inscriptions ici</a>.&nbsp;</em></p></blockquote>
+
+
+
+<h5 class="wp-block-heading">2. <strong>Créer&nbsp;des outils et ressources d’IA accessibles aux administrations&nbsp;</strong></h5>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="964" height="464" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/outils.png" alt="" class="wp-image-14892"/></figure></div>
+
+
+
+<p>En consultation avec les administrations, le Lab IA a initié plusieurs outils open source cette année, qui ont vocation à être réutilisés et partagés :</p>
+
+
+
+<ul><li><strong>Outil d’IA de pseudonymisation et ouverture des décisions de justice.&nbsp;</strong>De nombreuses administrations publiques sont confrontées à des problèmes de pseudonymisation dès lors qu&rsquo;elles ont à publier des documents textuels contenant des données à caractère personnel. C&rsquo;est dans ce cadre que le Lab IA d&rsquo;Etalab a développé&nbsp;un outil d&rsquo;intelligence artificielle de pseudonymisation&nbsp;en accompagnant en 2019 le Conseil d&rsquo;État, qui publie en open data des décisions de justice administrative. Cet outil est open-source (disponible&nbsp;<a href="https://github.com/etalab-ia/pseudo_app">ici</a>) et peut donc être librement réutilisé pour d&rsquo;autres projets de pseudonymisation. Ces documents peuvent être des décisions de justice mais aussi des actes administratifs, des procès-verbaux, des notes, etc.&nbsp;</li></ul>
+
+
+
+<ul><li><strong>Pour une IA francophone (PIAF) : du modèle IA à l’application avec&nbsp;</strong><a href="http://service-public.fr/"><strong>service-public.fr</strong></a><strong>.&nbsp;</strong>Entre octobre 2019 et juin 2020, l’équipe de PIAF a collecté et publié un jeu de données d’entraînement francophone grâce à plus de 9500 annotations et la mobilisation de plus de 700 contributeurs. Ce travail a donné lieu à la publication d’un article de recherche dans une conférence spécialisée&nbsp;(voir <a href="http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.673.pdf">ici</a>). Depuis juin 2020, l’équipe PIAF développe un moteur de questions-réponses francophone et explore les usages potentiels de cette technologie dans l’administration. L’équipe a&nbsp;notamment développé un prototype avec&nbsp;<a href="http://service-public.fr/">service-public.fr</a>&nbsp;pour poser directement des questions à la base documentaire.&nbsp;En 2021,&nbsp;l’objectif sera d’accompagner d’autres administrations pour utiliser ces technologies et de déployer cette technologie en production.</li></ul>
+
+
+
+<p>Deux guides ont aussi été développé pour accompagner les administrations dans l’utilisation de l’intelligence artificielle :&nbsp;</p>
+
+
+
+<ul><li><strong>Comment utiliser l’IA pour pseudonymiser des documents ?&nbsp;</strong>Pour accompagner la publication de l’outil technique de pseudonymisation, nous avons publié un guide qui expose ce qu’est la pseudonymisation de documents textuels et, lorsque c’est possible, l’utilisation de l’IA pour la mettre en&nbsp;œuvre. Voir le guide&nbsp;<a href="https://guides.etalab.gouv.fr/pseudonymisation/">ici</a>.&nbsp;</li></ul>
+
+
+
+<ul><li><strong>Préparer et conduire votre campagne d’annotation. </strong>De nombreux projets d’IA nécessitent une phase d’annotation, où des experts « métier » mobilisés attribuent à chaque donnée une ou plusieurs étiquettes qui lui correspond. Plus de la moitié des projets lauréats cette année ont nécessité une phase d’annotation. Ce guide présente les étapes clés pour obtenir des données annotées de qualité, quelques bonnes pratiques afin d’y parvenir, et des exemples de projets d’IA dans l’administration. Voir le guide <a href="https://guides.etalab.gouv.fr/annotation/#introduction-pourquoi-annoter">ici</a>.</li></ul>
+
+
+
+<h5 class="wp-block-heading">3. <strong>Animer la communauté des acteurs de l’IA pour la sphère publique&nbsp;</strong></h5>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/datadrink.jpg" alt="" class="wp-image-14893" width="906" height="578"/><figcaption><em>Les rediffusions des datadrinks sont accessibles dans les&nbsp;</em><a href="https://etalab.github.io/infolettre-lab-ia/"><em>infolettres</em></a></figcaption></figure>
+
+
+
+<p>De plus en plus nombreuse,&nbsp;<strong>la communauté de l’IA pour la sphère publique</strong>&nbsp;s’est créée autour des data scientists de l’administration, porteurs de projets d’IA, experts métiers de l’administration, agents publics intéressés par la data science et l’IA, et chercheurs en sciences des données et en éthique de l’IA (inscriptions à la liste de diffusion&nbsp;<a href="https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio" class="broken_link">ici</a>).</p>
+
+
+
+<p><strong>Elle se retrouve autour de datadrinks en virtuel dans l’année, qui ont permis de rassembler en 2020 plus de 350 participants autour de plus de 20 initiatives data science et IA dans l’administration portant sur des sujets variés.&nbsp;</strong>Les rediffusions et supports de présentation sont disponibles dans les infolettres. Le dernier datadrink de l’hiver a permis d’échanger sur les projets de la Cour des Comptes, l’Agence nationale de la sécurité des systèmes d&rsquo;information, et l’Agence Française de Développement (rediffusion&nbsp;<a href="https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=bfbffc35880da87358915de2c5e5212e15ea0e37-1607610608693" class="broken_link">ici</a>).&nbsp;</p>
+
+
+
+<p><strong>Une infolettre mensuelle autour de l’IA dans l’administration&nbsp;</strong>rassemble également des retours d’expériences, actualités, appels à projets, ressources et offres d’emploi (contenu des infolettres précédentes&nbsp;<a href="https://etalab.github.io/infolettre-lab-ia/">ici</a>). Les partages d’expérience incluent par exemple des retours des porteurs de projets IA accompagnés en 2019 1 (annotation collective avec l’Autorité de sûreté nucléaire), des retours de ceux lancés avant et pendant le confinement (semaine d’immersion au Conseil d’Etat, création d’un dossier patient fictif au CHU de Bordeaux, immersion terrain à la Gendarmerie nationale) ou des focus particuliers pour rencontrer des équipes des projets et leurs initiatives (identifier les molécules contaminant l’environnement avec l’INERIS, protéger les administrations des cyberattaques avec l’ANSSI).&nbsp;</p>
+
+
+
+<h5 class="wp-block-heading"><strong>Perspectives 2021&nbsp;: poursuite des expérimentations et appels à projets&nbsp;</strong></h5>
+
+
+
+<p>En 2021, les projets sélectionnés et accompagnés en 2020 se terminent et une phase d’évaluation en coopération avec la DITP débute. Celle-ci permettra aux porteurs de projets de tester les outils développés directement avec&nbsp;<strong>une mise en situation pour les utilisateurs finaux</strong>. Les outils une fois testés sur le terrain par des usagers ou des agents permettront de documenter la pertinence d’une généralisation ou d’une industrialisation de ces technologies. L’industrialisation du projet, l’ajustement des algorithmes grâce à la prise en compte des retours des utilisateurs, l’hébergement des applications dans les systèmes informatiques internes aux administrations, la publication des codes en open source, la recherche de financements et les extensions possibles à d’autres services ou d’autres territoires font partie des perspectives des projets expérimentés cette année.&nbsp;</p>
+
+
+
+<p><strong>De nouveaux projets bénéficieront cette année d&rsquo;un accompagnement pour expérimenter l’IA,&nbsp;</strong>notamment en bénéficiant de l’apport de la recherche avec une équipe dédiée de chercheurs de l’INRIA, afin de développer des prototypes fonctionnels pour les services publics.</p>
+
+
+
+<p>Initié en 2020,&nbsp;<strong>le «&nbsp;format clinique&nbsp;» du Lab IA</strong>&nbsp;continuera de répondre aux besoins des administrations en prenant un temps dédié pour aider une équipe projet à trouver des solutions à un problème précis. Ce format a aussi permis d’initier en parallèle trois stages de six mois pour répondre aux besoins des administrations grâce au partenariat du Lab IA avec l’INRIA. Les équipes de&nbsp;<a href="https://beta.gouv.fr/startups/signaux-faibles.html">Signaux Faibles</a>, qui détecte la défaillance des entreprises, celles du&nbsp;<a href="https://www.brgm.fr/fr">BRGM</a>&nbsp;qui souhaitent mettre en place un agent conversationnel pour que les citoyens puissent directement questionner les bases de données existantes sur la qualité de l’eau et la quantité d’eau dans leurs régions (rivières et nappes phréatiques), et celles de&nbsp;<a href="https://piaf.etalab.studio/">PIAF (Pour une IA francophone)</a>, bénéficieront en 2021 de stagiaires encadrés à la fois par le Lab IA et l’INRIA pour explorer des solutions innovantes.&nbsp; Pour participer au format clinique, les administrations peuvent nous contacter directement.</p>
+
+
+
+<p>Les administrations qui souhaitent initier ou poursuivre leur expérimentation en intelligence artificielle peuvent également candidater à&nbsp;<strong>l’appel à projet «&nbsp;Cycle de vie de la donnée&nbsp;» initié dans le cadre du&nbsp;</strong><a href="https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot" class="broken_link"><strong>plan de relance</strong></a>. Celui-ci&nbsp;s’adresse aux directions métiers d’administration ou opérateurs en charge d’une politique publique qui souhaitent développer le recours à la donnée dans la décision et la performance publique, y compris en intelligence artificielle.&nbsp;</p>
+
+
+
+<p>Le Lab IA travaillera également&nbsp;<strong>à consolider la communauté de l’IA dans l’administration</strong>&nbsp;: partage d’expériences et de bonnes pratiques, invitations à des réflexions sur des initiatives data science et IA dans l’administration en cours ou terminées, partage des actualités et offres d’emploi, grâce à des échanges réguliers en ligne. Si vous souhaitez présenter une initiative datascience ou IA dans l’administration dans un prochain datadrink, n’hésitez pas à nous contacter.&nbsp;</p>
+
+
+
+<p class="has-text-align-center"><em>Pour nous contacter&nbsp;:&nbsp;</em><a href="mailto:lab-ia@data.gouv.fr"><em>lab-ia@data.gouv.fr</em></a></p>
+
+
+
+<p class="has-text-align-center"><em><a href="https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio" class="broken_link">Inscriptions à la liste de diffusion du Lab IA&nbsp;(datadrinks et infolettres)</a></em></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mois de l&#8217;innovation publique édition 2020 : les rendez-vous d&#8217;Etalab</title>
+		<link>/rdv-etalab-mip-2020</link>
+		
+		<dc:creator><![CDATA[Rose Poreaux]]></dc:creator>
+		<pubDate>Tue, 03 Nov 2020 15:10:10 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14571</guid>
+
+					<description><![CDATA[A l’occasion de l’édition 2020 du Mois de l’innovation publique organisée par la DITP du 2 au 30 novembre, l’équipe d’Etalab ouvre ses portes de manière virtuelle avec une série d’évènements en ligne accessibles à toutes et tous : ateliers participatifs, retours d’expérience, appel à idées, offres d&#8217;accompagnements et webinaires. Disposer et exploiter les données &#8230;<p class="read-more"> <a class="" href="/rdv-etalab-mip-2020"> <span class="screen-reader-text">Mois de l&#8217;innovation publique édition 2020 : les rendez-vous d&#8217;Etalab</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>A l’occasion de l’<a rel="noreferrer noopener" href="https://www.modernisation.gouv.fr/mois-innovation-publique/" target="_blank" class="broken_link">édition 2020 du Mois de l’innovation publique</a> organisée par la DITP du 2 au 30 novembre, l’équipe d’Etalab ouvre ses portes de manière virtuelle avec une série d’évènements en ligne accessibles à toutes et tous : ateliers participatifs, retours d’expérience, appel à idées, offres d&rsquo;accompagnements et webinaires.  </p>
+
+
+
+<p>Disposer et exploiter les données publiques, accompagner des administrations dans l’utilisation de l’intelligence artificielle, ouvrir des codes sources, accueillir des talents du numérique dans l&rsquo;administration, simplifier les démarches des citoyens et des entreprises, créer de nouveaux services et usages, piloter les politiques publiques par la donnée : l’ouverture et l’utilisation des données pour l’innovation publique sont au coeur des missions d’Etalab.</p>
+
+
+
+<p>Agents publics, spécialistes du numérique ou citoyennes et citoyens curieux des enjeux de l’innovation publique, l’invitation est ouverte !</p>
+
+
+
+<h3 class="wp-block-heading">A vos agendas : calendrier des rendez-vous d’Etalab pour le mois de l’innovation publique</h3>
+
+
+
+<p><strong>[Appel à idées] [Services aux citoyens] [API] A quelles données publiques rêvez-vous d’avoir accès ? Quels services souhaitez-vous construire grâce à ces données ?</strong><br>Du 2 au 30 novembre.<br>Administrations, collectivités, entreprises, associations, citoyennes et citoyens, cet appel à idées vous concerne ! Afin de permettre la création de nouveaux services, simplifier des services existants, dématérialiser des démarches et faciliter le développement de nouveaux usages, nous souhaitons recueillir vos demandes d’accès à des données et les services que vous souhaitez construire grâce à la circulation des données.<br><a rel="noreferrer noopener" href="https://api.gouv.fr/lp/mois-innovation" target="_blank">Participez à notre appel à idées</a></p>
+
+
+
+<p><strong>[Webinaire] [EIG] Pérenniser la transformation numérique : un an après la promotion 3 du programme Entrepreneurs d’Intérêt Général, des porteurs de projets racontent leur expérience</strong><br>Lundi 9 novembre de 14h à 15h15.<br>Un an après la fin de la promotion 3 du <a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/quels-resultats-pour-la-promotion-3-du-programme-entrepreneurs-dinteret-general" target="_blank">programme EIG</a>, les agents publics porteurs de défis EIG 3 reviendront sur les effets du programme. Où en sont les défis et dans quelle mesure ont-ils été pérennisés ? Quels sont les enjeux de l’immersion de spécialistes du numériques dans les services ? Quels en sont les bénéfices durables ? L’occasion également de réfléchir aux enjeux de la transformation numérique au sens large.<br><a rel="noreferrer noopener" href="https://www.eventbrite.fr/e/billets-perenniser-la-transformation-numerique-les-defis-eig-un-an-apres-127005413611" target="_blank">Plus d’informations et inscriptions</a></p>
+
+
+
+<p><strong>[Webinaire] [Appel à projets] [Plan de relance numérique] Réunion d&rsquo;information sur l&rsquo;appel à projets « Cycle de vie de la donnée » dans le cadre du Plan de relance</strong><br>Mardi 10 novembre à 14h.<br>Vous êtes une administration et vous souhaitez développer le recours à la donnée dans la décision et la performance publique ? Cet appel à projets vise à développer l&rsquo;utilisation de la donnée dans votre administration (IA, décisionnel, échange de données, open data, archivage), afin d&rsquo;améliorer l&rsquo;efficacité de l&rsquo;action publique, développer une culture de la donnée au sein de votre structure ou accroître la qualité des données mises à disposition du public ou d&rsquo;autres administrations. Etalab organise une réunion d&rsquo;information pour vous présenter le dispositif et répondre à vos questions.<br><a href="https://www.eventbrite.fr/e/billets-reunion-dinformation-appel-a-projets-cycle-de-vie-de-la-donnee-127000853973">Plus d&rsquo;informations et inscriptions</a></p>
+
+
+
+<p><strong>[Restitutions] [Expérimentations] [Intelligence artificielle] Découvrez 5 projets pour innover avec l’IA dans l’administration</strong><br>Tous les jours du 16 au 20 novembre de 17h à 17h30.<br>Cinq équipes projets ont été accompagnées par le Lab IA d’Etalab et la DITP en 2020 pour développer un prototype fonctionnel. Elles partageront avec vous leur expérience pendant 30 minutes chaque jour. Au programme : faciliter l’accès aux informations sur des patients, identifier et regrouper des requêtes similaires pour accélérer les délais de jugement, optimiser le traitement de contrôles sanitaires, identifier les molécules contaminant l’environnement et développer un outil d’aide à l’implantation des entreprises en Nouvelle-Aquitaine.<br><a rel="noreferrer noopener" href="https://www.eventbrite.fr/e/billets-les-pitchs-5-projets-pour-innover-avec-lia-dans-ladministration-126554861999" target="_blank">Plus d’informations et inscriptions</a></p>
+
+
+
+<p><strong>[Webinaire] [Intelligence artificielle] La pseudonymisation des décisions de justice : regards croisés avec Etalab, la Cour de Cassation et le Conseil d&rsquo;Etat</strong><br>Jeudi 19 novembre à 14h.<br>Les décisions de justices mises à disposition du public : comment pseudonymiser les documents contenant des données à caractère personnel avec l&rsquo;intelligence artificielle ? Le Lab IA d&rsquo;Etalab participe aux RDV des Transformations du droit pour présenter ses travaux sur la création d&rsquo;un outil de pseudonymisation, en collaboration avec le Conseil d&rsquo;Etat et la Cour de Cassation.<br><a href="https://transformations-droit.com/les-conferences-virtuelles-de-transfodroit-pour-construire-les-rdv-2021">Plus d&rsquo;informations et inscriptions</a></p>
+
+
+
+<p><strong>[Atelier participatif &#8211; Clinique] [Open source] Clinique #BlueHats d’ouverture des codes sources</strong><br>Lundi 23 novembre de 13h30 à 17h30.<br>Une clinique <a href="https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/">#BlueHats</a> se tiendra en ligne sur l’ouverture des codes sources publics. Vous avez besoin d&rsquo;aide pour ouvrir des codes sources ? Venez posez vos questions et proposer vos codes sources lors de sessions de travail collectives et individuelles.<br><a href="https://www.modernisation.gouv.fr/mois-innovation-publique/evenement/ouvrez-vos-codes-sources" class="broken_link">Plus d&rsquo;informations</a></p>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<p><strong>[Webinaire] [EIG] Les défis EIG au ministère de la Culture</strong><br>Mercredi 25 novembre de 11h à 12h.<br>Le ministère de la Culture organise une présentation de 4 défis du ministère lauréats du programme Entrepreneurs d&rsquo;Intérêt Général lors de différentes promotions. Venez découvrir le programme, sa force, ses réussites et ses résultats, à travers des cas concrets dans le domaine de la culture. <br><a href="https://www.modernisation.gouv.fr/mois-innovation-publique/evenement/les-defis-eig-au-ministere-de-la-culture" class="broken_link">Plus d&rsquo;informations et inscriptions</a></p>
+</div></div>
+</div></div>
+
+
+
+<p><strong>[Webinaire] [EIG] Entrepreneurs d’Intérêt Général / Intrapreneuriat <a rel="noreferrer noopener" href="http://beta.gouv.fr/" target="_blank">beta.gouv.fr</a> : quel programme pour quel projet ?</strong><br>Mercredi 25 novembre de 13h à 14h.<br>Vous trouvez les <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/" target="_blank">programmes Entrepreneurs d’Intérêt Général</a> et l’intrapreneuriat de nos collègues de <a rel="noreferrer noopener" href="https://beta.gouv.fr/" target="_blank">beta.gouv.fr</a> très similaires ? Vous souhaitez en savoir plus ? Lors de cet événement organisé en partenariat avec beta.gouv.fr, venez rencontrer les responsables des deux dispositifs qui vous en présenteront les différences et complémentarités.<br><a rel="noreferrer noopener" href="https://app.livestorm.co/dinum-3/eig-betagouv" target="_blank" class="broken_link">Plus d’informations et inscriptions</a></p>
+
+
+
+<p><strong>[Atelier participatif] [Intelligence artificielle] Open Lab PIAF (Pour une IA francophone), du modèle IA à l’application</strong><br>Jeudi 26 novembre de 9h30 à 12h.<br>Votre direction voudrait créer un agent conversationnel? Vous souhaiteriez améliorer les outils de recherche documentaire dans votre service grâce à l’IA ? Découvrez les cas d’usage de PIAF en collaboration avec <a rel="noreferrer noopener" href="http://service-public.fr/" target="_blank">service-public.fr</a>, suivis d’échanges et ateliers participatifs.<br><a rel="noreferrer noopener" href="https://www.eventbrite.fr/e/billets-open-lab-piaf-pour-une-ia-francophone-du-modele-ia-a-lapplication-126835188463" target="_blank">Plus d’informations et inscriptions</a></p>
+
+
+
+<p><strong>[Webinaire] [API] Simplifier et dématérialiser les démarches des citoyens et des entreprises grâce aux API : trois récits de collaboration</strong><br>Jeudi 26 novembre de 15h30 à 17h.<br>Trois acteurs vous racontent comment la circulation des données a eu un impact sur leurs politiques publiques : un fournisseur de données, une collectivité territoriale, un éditeur de logiciels, animé par l’équipe API.<br><a rel="noreferrer noopener" href="https://www.eventbrite.fr/e/billets-simplifier-les-demarches-des-citoyens-grace-aux-api-3-recits-126811276943" target="_blank">Plus d’informations et inscriptions</a></p>
+
+
+
+<p><strong>[Webinaire] [Données ouvertes] L’open data et les territoires : Quelle collaboration entre l’Etat et les collectivités territoriales?</strong> <strong>Co-organisé avec Open Data France</strong><br>Jeudi 26 novembre à 17h.<br>Qu’en est-il de la mise en oeuvre de l’open data par défaut dans les territoires ? Quels sont les mécanismes de collaborations entre l’Etat et les collectivités territoriales ? Comment accélérer l’ouverture des données de qualité ? Afin de répondre à ces questions, un état des lieux de l’ouverture des données dans les territoires sera présenté par <a href="http://www.opendatafrance.net/">Open Data France</a> et des acteurs de l’administration centrale et des collectivités territoriales prendront la parole pour apporter leur témoignage !<br><a rel="noreferrer noopener" href="https://www.eventbrite.fr/e/billets-lopen-data-et-les-territoires-127174519411" target="_blank">Plus d’informations et inscriptions</a></p>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<p><strong><strong>[Webinaire] [Design] [EIG] <strong>Design Public #5 : Environnement et biodiversité</strong></strong><br></strong>Jeudi 26 novembre de 18h à 20h.<br>Evénement de présentation de 4 projets de design développés dans le cadre du programme Designers d&rsquo;Intérêt Général (désormais fusionné avec Entrepreneurs d&rsquo;Intérêt Général), autour de l&rsquo;environnement et de la biodiversité. Venez découvrir les retours d&rsquo;expérience de praticiennes et praticiens du design dans l&rsquo;administration et leur poser vos questions. <strong><br></strong><a rel="noreferrer noopener" href="https://www.eventbrite.fr/e/billets-design-public-meetup-5-environnement-et-biodiversite-127727597683" target="_blank">Plus d’informations et inscriptions</a></p>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+
+
+
+<p><strong>[Webinaire] Piloter les politiques publiques par la donnée : lancement de l’offre d’accompagnement</strong><br>Le vendredi 27 novembre de 14h à 16h.<br>Présentation de l’offre d’accompagnement interministérielle au pilotage des politiques publiques par la donnée. Cette offre d’accompagnement est destinée aux administrations publiques souhaitant utiliser les données pour concevoir, mettre en oeuvre et évaluer leurs politiques publiques par la donnée. Au programme : table-ronde de cas d’usage par les ministères partenaires et présentation de l’offre et des outils d’accompagnement par les équipes de la DINUM et de la DITP.<br><a rel="noreferrer noopener" href="https://www.eventbrite.fr/e/billets-piloter-par-la-donnee-lancement-de-laccompagnement-interministeriel-127196130049" target="_blank">Plus d’informations et inscriptions</a></p>
+
+
+
+<p class="has-text-align-center"><em>Rejoignez-nous nombreuses et nombreux ! Pour découvrir les autres événements organisés lors de l’édition 2020 du Mois de l’innovation publique organisé par la DITP, vous pouvez consulter le <a rel="noreferrer noopener" href="https://www.modernisation.gou**v.fr/mois-innovation-publique/programme" target="_blank" class="broken_link">programme </a><a href="https://www.modernisation.gouv.fr/mois-innovation-publique/programme" target="_blank" rel="noreferrer noopener" class="broken_link">complet</a>.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

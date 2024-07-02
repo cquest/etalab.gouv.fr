@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Simon Chignard &#8211; Etalab</title>
+	<atom:link href="/author/simon-chignard/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 02 Nov 2021 15:48:26 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Simon Chignard &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Evaluer les impacts des algorithmes: publication d&#8217;une étude internationale réalisée à la demande d&#8217;Etalab</title>
+		<link>/evaluer-les-impacts-des-algorithmes-publication-dune-etude-internationale-realisee-a-la-demande-detalab</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Tue, 13 Jul 2021 06:27:05 +0000</pubDate>
+				<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[algorithme]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=15504</guid>
+
+					<description><![CDATA[Les algorithmes jouent un rôle croissant dans la sphère publique, qu&#8217;il s&#8217;agisse de calculer le montant d&#8217;une aide sociale, d&#8217;attribuer une place en crèche ou d&#8217;évaluer les risques de défaillance des entreprises. La France s&#8217;est doté d&#8217;un cadre juridique en faveur d&#8217;une plus grande transparence de ces systèmes et d&#8217;un droit à l&#8217;explication pour les &#8230;<p class="read-more"> <a class="" href="/evaluer-les-impacts-des-algorithmes-publication-dune-etude-internationale-realisee-a-la-demande-detalab"> <span class="screen-reader-text">Evaluer les impacts des algorithmes: publication d&#8217;une étude internationale réalisée à la demande d&#8217;Etalab</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Les algorithmes jouent un rôle croissant dans la sphère publique, qu&rsquo;il s&rsquo;agisse de calculer le montant d&rsquo;une aide sociale, d&rsquo;attribuer une place en crèche ou d&rsquo;évaluer les risques de défaillance des entreprises. La France s&rsquo;est doté d&rsquo;un cadre juridique en faveur d&rsquo;une plus grande transparence de ces systèmes et d&rsquo;un droit à l&rsquo;explication pour les individus. Etalab, au sein de la direction interministérielle du numérique, porte plusieurs actions en ce sens. C&rsquo;est dans ce cadre qu&rsquo;<strong>Elisabeth Lehagre</strong>, chercheuse indépendante a été mandatée pour réaliser une étude internationale sur les <strong>outils d&rsquo;évaluation d&rsquo;impact algorithmique</strong>.</em></p>
+
+
+
+<p><strong>Une étude internationale</strong> des outils d&rsquo;évaluation d&rsquo;impact algorithmique</p>
+
+
+
+<p>Nul ne doute aujourd&rsquo;hui du fait que les algorithmes ont des impacts, positifs mais aussi parfois négatifs, sur les individus et la société. C&rsquo;est pourquoi des gouvernements et des acteurs de la société civile ont développé des outils d&rsquo;évaluation d&rsquo;impact algorithmique (EIA). L&rsquo;étude publiée ce jour présente un regard critique sur 7 outils développés dans le Monde (Royaume-Uni, Canada, Nouvelle Zélande, Etats-Unis et Union européenne). </p>
+
+
+
+<p><em>A quoi correspondent ces évaluations, que contiennent-elles, comment sont-elles mises en oeuvre ?</em> Voici quelques unes des questions traitées par Elisabeth Lehagre, en menant un travail de recherche documentaire complété par des entretiens avec les acteurs qui conçoivent, déploient ou observent ces outils. <em>In fine</em>, c&rsquo;est la question de l&rsquo;utilité de ces outils qui est posée.</p>
+
+
+
+<p><strong>Evaluer: quoi ? comment ? pourquoi ?</strong></p>
+
+
+
+<p>Le premier constat est celui de la diversité des outils examinés: il n&rsquo;existe pas de modèle-type. Les évaluations d&rsquo;impact algorithmique se présentent sous des formes et des contenus variés. Quelques exemples: </p>
+
+
+
+<ul><li>L&rsquo;<strong>AI Now Institute</strong> propose un <strong>cadre de bonnes pratiques</strong> incluant 5 recommandations d&rsquo;ordre général (dont la mise en place de procédures pour la vérification et le suivi externe des impacts),</li><li>Le <strong>Groupe d&rsquo;experts de haut-niveau</strong> pour une IA de confiance, rassemblé par la Commission européenne, propose une <strong>liste de questions</strong> qui servent de base à l&rsquo;auto-évaluation des systèmes,</li><li>Le <strong>Gouvernement de la Nouvelle Zélande</strong> intègre dans sa charte des algorithmes une <strong>matrice de risques</strong>, qui permet de quantifier la probabilité d&rsquo;effets négatifs sur les personnes (effet improbable, occasionnel, probable) par rapport au nombre de personnes potentiellement impactées (faible, modéré, élevé).</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img fetchpriority="high" decoding="async" width="562" height="510" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/image-4.png" alt="" class="wp-image-15512" srcset="/wp-content/uploads/2021/07/image-4.png 562w, /wp-content/uploads/2021/07/image-4-300x272.png 300w" sizes="(max-width: 562px) 100vw, 562px" /><figcaption>La matrice de risques proposée par le Gouvernement de la Nouvelle-Zélande</figcaption></figure></div>
+
+
+
+<p>L&rsquo;outil proposé par le <strong>Gouvernement du Canada</strong> (conseil du Trésor) se distingue car il permet de <strong>calculer automatiquement le niveau de risques</strong> d&rsquo;un systèmes en répondant à quelques questions. Selon le niveau d&rsquo;incidence ainsi calculé, des recommandations particulières sont formulées.</p>
+
+
+
+<p>La plupart des outils étudiés cherchent à évaluer les impacts individuels et sociaux, voire sociétaux, des systèmes algorithmiques mis en place. Mais, là encore, c&rsquo;est la diversité qui prévaut. Certains outils mettent l&rsquo;accent sur les droits fondamentaux (droits et libertés des personnes, droit à la vie privée, non-discrimination). D&rsquo;autres privilégient une approche par domaine d&rsquo;impact: bien-être, santé, environnement par exemple.</p>
+
+
+
+<p><strong>Des outils d&rsquo;auto-évaluation qui doivent encore faire leurs preuve</strong>s</p>
+
+
+
+<p>Elisabeth Lehagre s&rsquo;est aussi attachée à comprendre comment ces outils sont mis en oeuvre, en pratique. Deux questions émergent: la <strong>compréhension</strong> de ces outils par les acteurs qui sont censé les utiliser, et les limites de l&rsquo;auto-évaluation. « <em>L&rsquo;évaluation d&rsquo;impact est-elle suffisamment compréhensible pour être utilisable ?</em> » s&rsquo;interroge ainsi l&rsquo;auteure de l&rsquo;étude. Les difficultés de compréhension peuvent être multiples: difficulté à cerner de manière précise le périmètre et l&rsquo;objet de l&rsquo;évaluation (« systèmes d&rsquo;intelligence artificielle », « algorithmes », « systèmes de décision automatisée » ?) mais aussi les domaines d&rsquo;impact (« bien-être », « droits et libertés des personnes » ?). Les gouvernements canadiens et néo-zelandais ont ainsi dû mener des actions complémentaires: tenue d&rsquo;ateliers pluridisciplinaires, proposition de définition précise des systèmes concernés, etc. </p>
+
+
+
+<p>La seconde interrogation concerne l&rsquo;<strong>auto-arbitrage</strong>. En effet, la très grande majorité de ces outils ont été pensés comme des outils d&rsquo;auto-évaluation interne, où les personnes réalisant l&rsquo;exercice d&rsquo;évaluation sont aussi celles en charge de la conception et du déploiement de ces outils. Afin d&rsquo;éviter les risques liés à l&rsquo;auto-arbitrage (où les mêmes acteurs sont potentiellement juge et partie), plusieurs recommandations ont été développées, dont l&rsquo;importance de rendre publique et transparente les évaluations d&rsquo;impact algorithmique. La possibilité de faire participer des tiers (pairs en interne ou experts externes) à l&rsquo;évaluation ou au contrôle des systèmes est une autre piste étudiée.</p>
+
+
+
+<p><strong>Une étude pour ouvrir le débat </strong>et faire connaître les outils</p>
+
+
+
+<p>Par la publication de cette étude inédite en France,<strong> Etalab</strong> souhaite contribuer au débat, au niveau national et international, sur l&rsquo;évaluation des impacts des algorithmes. Cette question est au coeur de la future régulation sur l&rsquo;Intelligence artificielle dont une première version vient d&rsquo;être rendue publique par la Commission européenne. Il s&rsquo;agit aussi de donner accès à une large communauté de concepteurs de ces systèmes (au sein des administrations et au-delà) aux derniers outils existants au niveau international.</p>
+
+
+
+<div class="wp-block-file"><a href="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/Rapport_EIA_ETALAB-.pdf">« <strong>L&rsquo;évaluation d&rsquo;impact algorithmique: un outil qui doit encore faire ses preuves</strong> » (Elisabeth Lehagre, juillet 2021):<br></a><a href="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/Rapport_EIA_ETALAB-.pdf" class="wp-block-file__button" download>Télécharger l&rsquo;étude complète (28 pages)</a></div>
+
+
+
+<div class="wp-block-file"><a href="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/Resume-Rapport-EIA-ETALAB.pdf"> </a><a href="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/Resume-Rapport-EIA-ETALAB.pdf" class="wp-block-file__button" download>Télécharger le résumé (2 pages)</a></div>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-dailymotion wp-block-embed-dailymotion wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="L&#039;évaluation des impacts algorithmiques : quels outils ? Pour quels résultats ?" frameborder="0" width="1091" height="613" src="https://www.dailymotion.com/embed/video/x82n2og" allowfullscreen allow="autoplay"></iframe>
+</div><figcaption>Webinaire de présentation de l&rsquo;étude avec Elisabeth Lehagre, Elodie Quezel (Signaux Faibles) et Hubert Guillaud (InternetActu)</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Rétrospective 2020 #6/6 : Les actions d&#8217;Etalab pour un usage responsable des algorithmes publics</title>
+		<link>/retrospective-2020-6-6-les-actions-detalab-pour-un-usage-responsable-des-algorithmes-publics</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Fri, 19 Feb 2021 13:10:24 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=15024</guid>
+
+					<description><![CDATA[Ce blogpost conclut une série rétrospective de l’année 2020 autour d’axes de travail d’Etalab:&#160;ouvrir les codes sources, ouvrir et faire circuler les données publiques, accompagner les administrations à travers le programme EIG, organiser la production des données, accompagner les administrations sur la transparence des algorithmes. La fin de l’année 2019 avait été marquée par la &#8230;<p class="read-more"> <a class="" href="/retrospective-2020-6-6-les-actions-detalab-pour-un-usage-responsable-des-algorithmes-publics"> <span class="screen-reader-text">Rétrospective 2020 #6/6 : Les actions d&#8217;Etalab pour un usage responsable des algorithmes publics</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Ce blogpost conclut une série rétrospective de l’année 2020 autour d’axes de travail d’Etalab</em>:<em>&nbsp;ouvrir les codes sources, ouvrir et faire circuler les données publiques, accompagner les administrations à travers le programme EIG, organiser la production des données, accompagner les administrations sur la transparence des algorithmes.</em></p>
+
+
+
+<p>La fin de l’année 2019 avait été marquée par la remise du <strong>rapport des élèves de la promotion Molière de l’ENA</strong> sur l’éthique et la responsabilité des algorithmes publics. Ce travail a permis de prendre la mesure des enjeux et de leur compréhension par les administrations. Il appelait aussi à des efforts renouvelés pour expliquer, illustrer et accompagner les démarches des ministères et des collectivités en faveur d&rsquo;un usage responsable des algorithmes publics. Cette recommandation a largement guidé les actions menées par Etalab sur le sujet en 2020.</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-le-blog-detalab"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="xMzFd8YUyi"><a href="https://www.etalab.gouv.fr/algorithmes-publics-des-eleves-de-lena-formulent-une-serie-de-recommandations-sur-les-enjeux-dethique-et-de-responsabilite">Algorithmes publics : des élèves de l&rsquo;ENA formulent une série de recommandations sur les enjeux d&rsquo;éthique et de responsabilité</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="« Algorithmes publics : des élèves de l&rsquo;ENA formulent une série de recommandations sur les enjeux d&rsquo;éthique et de responsabilité » &#8212; Le blog d’Etalab" src="https://www.etalab.gouv.fr/algorithmes-publics-des-eleves-de-lena-formulent-une-serie-de-recommandations-sur-les-enjeux-dethique-et-de-responsabilite/embed#?secret=xMzFd8YUyi" data-secret="xMzFd8YUyi" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<h3 class="wp-block-heading">Une communauté autour des algorithmes publics</h3>
+
+
+
+<p>Tout au long de l’année, Etalab a mobilisé une <strong>communauté forte de près de 150 membres</strong> aux profils variés: agents des ministères et des collectivités, membres de la communauté scientifique, membres de la société civile, acteurs associatifs et économiques. Crise sanitaire oblige, la plupart de ces mobilisations ont eu lieu en ligne, dans des formats divers (webinaires, ateliers de co-production, simulations, enquête quantitative, etc.).</p>
+
+
+
+<p>Ce travail a permis d’<strong>enrichir les ressources mises à disposition en ligne</strong>, en particulier le guide des algorithmes publics dont une première version a été publiée en 2018. La <a href="https://guides.etalab.gouv.fr/algorithmes/guide/#_1-a-quoi-servent-les-algorithmes-publics">nouvelle version</a> prend en compte les retours qui nous ont été formulés. Parmi les nouveautés: l’articulation entre les obligations du CRPA et celles issues du RGPD, mais aussi et surtout une <a href="https://guides.etalab.gouv.fr/algorithmes/mention/#dans-quels-cas-l-obligation-de-mention-explicite-s-applique-t-elle">fiche pratique sur l&rsquo;obligation de mention explicite</a>. Une seconde fiche pratique, sur l’<a href="https://guides.etalab.gouv.fr/algorithmes/inventaire/">inventaire des principaux traitements algorithmiques</a>, est venue compléter ce kit de ressources au début de l’année 2021.</p>
+
+
+
+<h2 class="wp-block-heading">Des ateliers pour co-construire des ressources et partager des bonnes pratiques</h2>
+
+
+
+<h3 class="wp-block-heading">Se mettre dans la peau des individus impactés par les systèmes algorithmiques</h3>
+
+
+
+<p>En mars 2020, quelques jours avant le premier confinement, nous avons réuni dans nos locaux à Paris une vingtaine de participants, de profils variés (agents des administrations, chercheurs, représentants de la société civile). Leur mission: critiquer et améliorer la première version du guide des algorithmes publics. La méthode: une immersion dans trois cas d’usage, inspirés de la réalité.</p>
+
+
+
+<p>Ainsi, ils ont pu se mettre dans la peau d’un parent qui sollicite une place en crèche municipale, d’un enseignant du second degré qui demande une mutation dans une nouvelle académie ou encore dans celle du voyageur qui utilise le système de reconnaissance faciale lui permettant de franchir plus rapidement les contrôles d’identité à l’aéroport de Paris Charles de Gaulle (le système Parafe). Cet atelier a notamment permis d’identifier plusieurs axes d’amélioration du guide des algorithmes publics, que nous avons ensuite mis en œuvre au cours de l’année.</p>
+
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:auto 48%"><figure class="wp-block-media-text__media"><img decoding="async" width="1520" height="978" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/attribution-places-creche.png" alt="" class="wp-image-15027 size-full"/></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-right has-medium-font-size"><em>L&rsquo;attribution de places en crèche, un exemple d&rsquo;utilisation d&rsquo;algorithmes dans le secteur public</em>.</p>
+
+
+
+<p class="has-text-align-right"> </p>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">Construire des explications pour les utilisateurs de systèmes d&rsquo;Intelligence artificielle</h3>
+
+
+
+<p>En juillet 2020, à l&rsquo;invitation de l’<a href="https://www.etalab.gouv.fr/retrospective-2020-1-6-lab-ia-datascience-et-intelligence-artificielle-pour-ladministration">équipe du LabIA d’Etalab</a> nous avons coanimé un atelier avec <a href="https://planete.inrialpes.fr/people/chenin/">Clément Henin</a> de l’INRIA. Une quinzaine de projets lauréats de l’appel à manifestation d’intérêt IA ont identifié les besoins en explication de leur système. </p>
+
+
+
+<p>En effet, au-delà de la transparence, la capacité d’un système à être explicable figure parmi les éléments clés d’un usage responsable des algorithmes publics. A l’aide d’un outil “<em>matrice des besoins en explication</em>”, chaque administration a pu identifier le type et le niveau de détail d’explication à fournir pour chacun des acteurs du système. </p>
+
+
+
+<p>Prenons le cas du projet d’un Centre hospitalier universitaire qui développe un moteur de recherche intelligent dans les dossiers patients. Les “cibles” de l’explication peuvent être non seulement le médecin qui va utiliser ce système (<em>qui est en droit de demander pourquoi tel résultat est mis en avant par le système</em>), mais aussi le commanditaire (<em>qui aura besoin de comprendre la mécanique générale et s’assurer de la maîtrise des risques éventuels, par exemple en matière de biais</em>) voire les représentants des patients, par exemple si les décisions prises ont un impact sur la prise en charge médicale. De même, chaque explication peut répondre à des objectifs différents: <em>comprendre pour faire confiance, comprendre par curiosité, acquérir des informations sur un domaine, prendre ou contester des décisions prises à l’aide d’un système automatisé, etc.</em></p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill"><figure class="wp-block-media-text__media" style="background-image:url(https://www.etalab.gouv.fr/wp-content/uploads/2021/02/matrice-score-coeur-1.png);background-position:50% 0%"><img loading="lazy" decoding="async" width="1228" height="1598" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/matrice-score-coeur-1.png" alt="" class="wp-image-15034 size-full"/></figure><div class="wp-block-media-text__content">
+<p class="has-medium-font-size"><em>Expliquer un algorithme: pourquoi ? pour qui ? comment ?</em></p>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">Préparer un modèle d&rsquo;inventaire des algorithmes publics </h3>
+
+
+
+<p>Mi-2020, Etalab a sollicité un petit nombre d’administrations pour participer à un groupe de travail informel, en ciblant en priorité celles qui avaient manifesté leur intérêt pour le sujet des algorithmes. Nous avons fait le pari d’animer un groupe mêlant des ministères et des collectivités locales dans une même démarche. Ainsi, d’octobre à décembre 2020, nous avons animé cinq sessions de travail. Autour de la table (ou plutôt, de l’écran) : Maryse Le Bras, du Ministère de l’Education nationale, Cécile Le Guen, de la Direction des douanes et des droits indirects, Anthony Claverie de la Ville d’Antibes et Nathalie Vernus Prost de la Métropole de Lyon. </p>
+
+
+
+<p>Le point de départ de nos travaux était l’<strong>article du Code des relations entre le public et l’administration</strong>&nbsp;qui évoque l’inventaire des algorithmes publics. Voilà ce qui dit le texte: les administrations sont tenues de publier en ligne “<em>les règles définissant les principaux traitements algorithmiques utilisés dans l’accomplissement de leurs missions lorsqu’ils fondent des décisions individuelles”</em>.</p>
+
+
+
+<p>Le point d’arrivée est un&nbsp;<strong><a href="https://guides.etalab.gouv.fr/algorithmes/inventaire/">modèle d’inventaire des algorithmes</a></strong>&nbsp;publics en&nbsp;<strong>version beta</strong>. Ce modèle, une fois consolidé, pourra être adopté par toute administration souhaitant publier son propre inventaire et se mettre ainsi en conformité avec la loi. La ville d&rsquo;Antibes a d&rsquo;ores et déjà publié une première version de son inventaire à l&rsquo;aide de ce modèle.</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-le-blog-detalab"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="NoRyCqY3X0"><a href="https://www.etalab.gouv.fr/faire-linventaire-des-algorithmes-publics-point-detape-sur-les-actions-detalab">Faire l&rsquo;inventaire des algorithmes publics : point d&rsquo;étape sur les actions d&rsquo;Etalab</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="« Faire l&rsquo;inventaire des algorithmes publics : point d&rsquo;étape sur les actions d&rsquo;Etalab » &#8212; Le blog d’Etalab" src="https://www.etalab.gouv.fr/faire-linventaire-des-algorithmes-publics-point-detape-sur-les-actions-detalab/embed#?secret=NoRyCqY3X0" data-secret="NoRyCqY3X0" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<h2 class="wp-block-heading">Des webinaires pour répondre aux questions des administrations</h2>
+
+
+
+<p>En juin 2020, nous avons organisé en collaboration avec les juristes d&rsquo;Etalab, Perica Sucevic et Cindy Kus un premier <a href="https://www.etalab.gouv.fr/transparence-des-algorithmes-publics-regardez-le-webinaire-a-lintention-des-administrations">webinaire</a> dédié aux algorithmes publics. Une centaine de participants sont venus échanger et poser leurs questions. A cette occasion, nous avons aussi publié un modèle de mention explicite. L&rsquo;occasion de rappeler que, pour les décisions entièrement automatisées, une telle mention est obligatoire depuis juillet 2020, sous peine de nullité. </p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="1404" height="898" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/webinaire-juin-2020.png" alt="" class="wp-image-15036 size-full"/></figure><div class="wp-block-media-text__content">
+<p class="has-medium-font-size"><em>Un <a href="https://www.etalab.gouv.fr/transparence-des-algorithmes-publics-regardez-le-webinaire-a-lintention-des-administrations">webinaire</a> pour présenter les obligations de transparence des algorithmes</em></p>
+</div></div>
+
+
+
+<p>Un deuxième webinaire, consacré à l&rsquo;inventaire des algorithmes, a été proposé en février 2021, avec le témoignage des membres du groupe de travail sus-mentionné. Ce format, qui mêle interactivité et mise à disposition de ressources opérationnelles, a recueilli de nombreux avis positifs.</p>
+
+
+
+<h2 class="wp-block-heading">Participer à la discussion en France et dans le Monde</h2>
+
+
+
+<p>En 2020, l&rsquo;équipe algorithmes publics a participé à la discussion au niveau mondial. Le Partenariat pour un gouvernement ouvert (OGP) a lancé un groupe « <strong><a href="https://www.opengovpartnership.org/stories/open-algorithms-experiences-from-france-the-netherlands-and-new-zealand/">Open Algorithms</a></strong> » avec quelques pays pionniers dans ce domaine. C&rsquo;est l&rsquo;occasion de présenter les travaux engagés en France et d&rsquo;échanger avec nos homologues du Canada, du Royaume-Uni, des Pays-Bas et de la Nouvelle-Zélande. De même, nous sommes intervenus dans plusieurs conférences et rencontres internationales: <a href="https://algorithmwatch.org/en/fat-2020-craft-session-from-theory-to-practice/">FAT* 2020</a> (session commune avec l&rsquo;ONG AlgorithmWatch), RightsCon 2020, un séminaire organisé par l&rsquo;OSCE, une table-ronde organisée par l&rsquo;<a href="https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/" class="broken_link">Ada Lovelace Institute</a> au Royaume-Uni. L&rsquo;agenda des rencontres en France a aussi été bien fourni avec la participation aux rencontres <a href="https://numerique-en-communs.fr/event/masterclass-citoyens-et-donnees/" class="broken_link">Numérique en Commun(s)</a>, au <a href="https://app.imagina.io/content/2174353/111131">Salon de la Data</a> et à un évènement organisée par Stéréolux. </p>
+
+
+
+<p>Les collaborations avec la recherche universitaire ont été multiples, avec notamment l&rsquo;accueil de Fiona du Mesnildot (Cité du Design Saint Etienne) pendant quelques mois chez Etalab, mais aussi des sessions de travail avec le Medialab de SciencesPo ou encore la participation à un séminaire organisé par l&rsquo;Université de Nice (dans le cadre du Master Droit algorithmique dirigé par Caroline Lequesne Roth).</p>
+
+
+
+<h2 class="wp-block-heading">En route pour 2021</h2>
+
+
+
+<p>En 2021, nous souhaitons tout d&rsquo;abord « boucler » notre trilogie sur les obligations de transparence des algorithmiques telles qu&rsquo;elles figurent dans le Code des relations entre le public et l&rsquo;administration. Après la mention explicite, puis l&rsquo;inventaire, nous allons publier des ressources permettant de <strong>répondre aux demandes d&rsquo;explication individuelle</strong>. Un webinaire sera organisé d&rsquo;ici l&rsquo;été pour présenter ces ressources et échanger avec la communauté mobilisée depuis 2 ans  maintenant.</p>
+
+
+
+<p>En fin d&rsquo;année 2020, plusieurs collaborations ont été initiées, notamment avec l&rsquo;équipe de Design Frictions (sur l&rsquo;imaginaire des algorithmes) et Elisabeth Lehagre de Babotics (sur les outils d&rsquo;évaluation d&rsquo;impact algorithmique). Ces travaux donneront lieu à des publications et à des évènements ouverts à tous cette année.</p>
+
+
+
+<p>Par ailleurs, nous souhaitons poursuivre en 2021 les échanges au niveau international, notamment via le groupe Open Algorithms de l&rsquo;OGP.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Pour nous contacter: algorithmes@etalab.gouv.fr </p></blockquote>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Faire l&#8217;inventaire des algorithmes publics : point d&#8217;étape sur les actions d&#8217;Etalab</title>
+		<link>/faire-linventaire-des-algorithmes-publics-point-detape-sur-les-actions-detalab</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Wed, 03 Feb 2021 11:05:10 +0000</pubDate>
+				<category><![CDATA[Données]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[algorithme]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14863</guid>
+
+					<description><![CDATA[Au cours du dernier trimestre 2020, Soizic Pénicaud et Simon Chignard d’Etalab ont animé un groupe de travail restreint réunissant des collectivités et des ministères. L’objectif : mettre en œuvre l’inventaire des algorithmes publics, l’une des trois obligations issues de la Loi pour une République numérique. Retour sur la démarche, ses principaux résultats et les &#8230;<p class="read-more"> <a class="" href="/faire-linventaire-des-algorithmes-publics-point-detape-sur-les-actions-detalab"> <span class="screen-reader-text">Faire l&#8217;inventaire des algorithmes publics : point d&#8217;étape sur les actions d&#8217;Etalab</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Au cours du dernier trimestre 2020, Soizic Pénicaud et Simon Chignard d’Etalab ont animé un groupe de travail restreint réunissant des collectivités et des ministères. L’objectif : mettre en œuvre l’inventaire des algorithmes publics, l’une des trois obligations issues de la Loi pour une République numérique. Retour sur la démarche, ses principaux résultats et les prochaines étapes.</em></p>
+
+
+
+<p>Le sujet des algorithmes publics a gagné en visibilité en 2020. L’échéance du 1er juillet dernier (et le risque de sanction en cas d’absence de la mention explicite prévue par la loi) a permis une prise de conscience des enjeux et des obligations, prise de conscience facilitée aussi par la <a href="https://www.lagazettedescommunes.com/692382/les-algorithmes-vont-ils-prendre-le-pouvoir/?abo=1">presse</a>. Signe d’un intérêt croissant, le premier <a href="https://www.etalab.gouv.fr/transparence-des-algorithmes-publics-regardez-le-webinaire-a-lintention-des-administrations">webinaire</a> organisé en juin 2020 par Etalab a accueilli plus d’une centaine de participants, soucieux d’en connaître davantage sur les enjeux juridiques et pratiques d’une plus grande transparence des algorithmes.&nbsp;</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Etalab organise un second webinaire consacré cette fois-ci à l&rsquo;inventaire des algorithmes publics le 11 février 2021 à 10h. <a href="https://app.livestorm.co/etalab-donnees/comment-faire-linventaire-des-algorithmes-publics" target="_blank" rel="noreferrer noopener" class="broken_link">Inscrivez-vous !</a></p></blockquote>
+
+
+
+<p>Notre pays est l’un des premiers à s’être doté, dès 2016, d’un corpus législatif cohérent sur le sujet, avec d’une part la loi pour une République numérique et d’autre part l’adaptation du règlement général sur la protection des données à caractère personnel (RGPD). Cependant, on constate souvent que les administrations ont besoin d’accompagnement pour appliquer le cadre juridique existant. Dès lors, il nous a semblé indispensable <strong>d’aller plus loin</strong> que le rappel voire l’explication des lois, comme cela est déjà le cas avec le <a href="https://guides.etalab.gouv.fr/algorithmes/guide/#_1-a-quoi-servent-les-algorithmes-publics">guide des algorithmes publics</a>. C’est de cette volonté qu’est née l&rsquo;idée d’un groupe de travail informel réunissant quelques administrations volontaires autour d’un objectif commun: progresser sur l<strong>’inventaire des algorithmes publics</strong>.</p>
+
+
+
+<p><strong>Un groupe restreint et informel pour avancer ensemble</strong> </p>
+
+
+
+<p>Mi-2020, Etalab a sollicité un petit nombre d’administrations pour participer à un groupe de travail informel, en ciblant en priorité celles qui avaient manifesté leur intérêt pour le sujet des algorithmes. Nous avons fait le pari d’animer un groupe mêlant des ministères et des collectivités locales dans une même démarche. Ainsi, d’octobre à décembre 2020, nous avons animé cinq sessions de travail. Autour de la table (ou plutôt, de l’écran, crise sanitaire oblige) : <strong>Maryse Le Bras</strong>, du Ministère de l’Education nationale, <strong>Cécile Le Guen</strong>, de la Direction des douanes et des droits indirects, <strong>Anthony Claverie</strong> de la Ville d’Antibes et <strong>Nathalie Vernus Prost</strong> de la Métropole de Lyon. Tous ont accepté de partager leurs réalisations, leurs interrogations et parfois aussi leurs doutes pendant ce trimestre. Qu’elles et il en soient ici remerciés.</p>
+
+
+
+<p>Le point de départ de nos travaux était l’<strong>article du Code des relations entre le public et l’administration</strong> qui évoque l’inventaire des algorithmes publics. Voilà ce qui dit le texte: les administrations sont tenues de publier en ligne “<em>les règles définissant les principaux traitements algorithmiques utilisés dans l’accomplissement de leurs missions lorsqu’ils fondent des décisions individuelles”</em>.</p>
+
+
+
+<p>Le point d’arrivée est un <strong>modèle d’inventaire des algorithmes</strong> publics en <strong>version beta</strong>, que nous allons prochainement mettre en débat pour amélioration et commentaires. Ce modèle, une fois consolidé, pourra être adopté par toute administration souhaitant publier son propre inventaire et se mettre ainsi en conformité avec la loi. La ville d’Antibes a d’ailleurs récemment publié une <a href="https://www.antibes-juanlespins.com/administration/acces-aux-documents-administratifs" class="broken_link">première version</a> de cet inventaire à l’aide de ce modèle. Au cours de ce trimestre de travail, nous avons aussi été inspirés par plusieurs initiatives d’inventaire des algorithmes publics, par exemple de <a href="https://data.nantesmetropole.fr/pages/algorithmes_nantes_metropole/">Nantes Métropole</a>, d’<a href="https://algoritmeregister.amsterdam.nl/en/ai-register/">Amsterdam</a> et d’<a href="https://ai.hel.fi/en/ai-register/">Helsinki</a>. Parallèlement à ce groupe de travail, l’équipe d’Etalab a aussi échangé avec plusieurs pays, dont le Canada, le Royaume-Uni, les Pays-Bas et la Nouvelle-Zélande dans le cadre des travaux du groupe « <a href="https://www.opengovpartnership.org/topic/open-algorithms-blog-series/">Open Algorithms</a> » du Partenariat pour le Gouvernement ouvert (PGO).</p>
+
+
+
+<p><strong>Ce que nous avons appris en chemin</strong></p>
+
+
+
+<p>En préparant ce modèle d’inventaire, nous avons identifié plusieurs enjeux qui méritent d’être partagés.</p>
+
+
+
+<p>Il faut tout d’abord souligner la proximité, <em>de fait et de droit</em>, entre le sujet de l’open data et la question des algorithmes. De fait, les agents des administrations mobilisés sur cette dernière question sont aussi ceux qui le sont pour l’ouverture des données publiques. De droit, ensuite: la plupart des dispositions liées aux algorithmes et à l’open data apparaissent dans le même Code des relations entre le public et l&rsquo;administration.                                                                                                                                                                                                                                                                                                                             Les difficultés rencontrées sont identiques, avec notamment un très fort enjeu d’acculturation et de pédagogie en interne au sein des administrations.&nbsp;</p>
+
+
+
+<p><em>Comment parler des algorithmes ?</em> Pas facile! La discussion a fait ressortir le besoin d’illustrations, d’exemples d’algorithmes dans le secteur public. Le terme même d’algorithme est souvent mal compris. Les frontières de l’algorithme et son tropisme numérique font aussi l’objet de discussion, et la confusion règne parfois entre algorithme, traitement automatisé et code source, trois notions qui cohabitent dans les textes juridiques.&nbsp;</p>
+
+
+
+<p>C’est bien souvent à partir d’exemples que les services métiers se saisissent de la question, plutôt que par la définition. Ainsi, la bonne question à poser en interne n’est pas tant “<em>quels sont les algorithmes que vous utilisez ?</em>” mais plutôt “<em>quelles sont les décisions que vous prenez, par exemple envers les administrés</em> ?”. Il est parfois plus aisé de commencer par identifier les décisions administratives pour arriver ensuite aux outils qui aident à prendre ces décisions, et non l’inverse.</p>
+
+
+
+<p><em>Qui doit réaliser cet inventaire ?</em> La gouvernance des algorithmes publics, au sens large, est encore largement à construire. À coup sûr, elle doit faire intervenir de nombreux intervenants dans l’organisation: direction métiers, direction du numérique, délégués à la protection des données, personnes en charge de l’accès aux documents administratifs (<a href="https://www.cada.fr/administration/le-role-de-la-prada">PRADA</a>). Dans les administrations que nous avons rencontrées, c’est souvent la personne chargée de l’ouverture des données qui joue le rôle de chef d’orchestre de la transparence des algorithmes. On notera d&rsquo;ailleurs avec intérêt que le <a href="https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources">rapport</a> remis par le député Eric Bothorel au Premier ministre propose d’élargir le périmètre des administrateurs des données en leur confiant aussi les sujets d’algorithmes et de codes sources.</p>
+
+
+
+<p><em>Un inventaire, pour qui ?</em> <em>Un inventaire pour quoi ?</em> La question des cibles de cet inventaire est étroitement liée à celle des usages… et des moyens disponibles. On l’aura compris, réaliser un tel inventaire est une obligation légale. Mais rien n’interdit aussi de s’interroger sur les objectifs à atteindre et sur les publics cibles. Dans l’esprit du législateur, cet inventaire est l’une des trois composantes de la transparence des algorithmes, avec la mention explicite et le droit à l’information individuelle. En ce sens, l’inventaire contribue à rendre visible à la société des systèmes qui sont parfois invisibles. Cette mise en visibilité n’est que la première étape, c’est un moyen mais surtout pas une fin. Le travail de médiation à réaliser reste essentiel, pour permettre à chacun de s’emparer de ces informations.&nbsp;</p>
+
+
+
+<p><strong>Pour aller plus loin</strong></p>
+
+
+
+<p><em>Comment réaliser cet inventaire ? Que doit-il contenir ? Où le publier ? </em>Pour répondre à ces questions, Etalab organise le <strong>11 février 2021 à 10h</strong> un webinaire en ligne sur l’inventaire des algorithmes publics, avec le témoignage des participants à ce groupe de travail. <a href="https://app.livestorm.co/etalab-donnees/comment-faire-linventaire-des-algorithmes-publics" class="broken_link">Inscription gratuite et obligatoire</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Transparence des algorithmes publics : regardez le webinaire à l&#8217;intention des administrations</title>
+		<link>/transparence-des-algorithmes-publics-regardez-le-webinaire-a-lintention-des-administrations</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Thu, 09 Jul 2020 14:56:08 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14380</guid>
+
+					<description><![CDATA[Le jeudi 25 juin 2020, plus d'une centaine d'agents d'administrations publiques (État et collectivités) ont participé à un webinaire d'Etalab sur la transparence des algorithmes publics et la mention explicite obligatoire pour les traitements entièrement automatisés. Regardez-le aussi pour obtenir les réponses à vos questions !]]></description>
+										<content:encoded><![CDATA[
+<p>La loi pour une République numérique (2016) a posé le principe de&nbsp;<strong>transparence des algorithmes publics</strong>, notamment quand ils sont utilisés pour prendre des décisions administratives individuelles. Le 1er juillet 2020 marque une nouvelle étape dans l&rsquo;application de ces dispositions, avec l&rsquo;introduction de la mention explicite obligatoire pour les traitements entièrement automatisés, sous peine de nullité.</p>
+
+
+
+<p>Le jeudi 25 juin 2020, plus d&rsquo;une centaine d&rsquo;agents d&rsquo;administrations publiques (État et collectivités) ont participé à un webinaire d&rsquo;Etalab, pour obtenir des réponses à leurs questions : <em>qui est concerné ? Quels algorithmes ? </em>Q<em>uelles obligations ? Quelles sanctions en cas de non-respect des obligations ? Comment faire, concrètement ?</em>&nbsp;</p>
+
+
+
+<p>Simon Chignard, Soizic Penicaud et Perica Sucevic y ont présenté le contexte juridique (loi République numérique et RGPD) et les obligations des administrations (faire figurer une mention explicite, fournir une information individuelle, fournir une information générale). Ils ont également présenté des exemples de mise en œuvre par des administrations et les ressources mises à disposition des administrations : le&nbsp;<a href="https://guides.etalab.gouv.fr/algorithmes/">guide d’Etalab sur les algorithmes publics &#8211; pourquoi et comment les expliquer ? &#8211; </a>mis à jour le 24 juin 2020 avec&nbsp;<a class="" href="https://guides.etalab.gouv.fr/algorithmes/mention/#dans-quels-cas-l-obligation-de-mention-explicite-s-applique-t-elle">une fiche pratique sur l’obligation de mention explicite</a>.</p>
+
+
+
+<p>Vous pouvez désormais voir ou revoir le webinaire, ci-dessous. Le support de la présentation est <a href="https://www.etalab.gouv.fr/wp-content/uploads/2020/07/Webinaire-algorithmes-Juin2020.pdf">téléchargeable</a>. Etalab a par ailleurs mis en place une <strong>adresse mail dédiée </strong>pour répondre à vos questions: <strong><a href="mailto:algorithmes@etalab.gouv.fr">algorithmes@etalab.gouv.fr</a></strong> </p>
+
+
+
+<figure class="wp-block-embed-dailymotion wp-block-embed is-type-video is-provider-dailymotion wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Webinaire - Transparence des algorithmes publics" frameborder="0" width="1091" height="618" src="https://www.dailymotion.com/embed/video/x7uqnv9" allowfullscreen allow="autoplay"></iframe>
+</div></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Algorithmes publics : des élèves de l&#8217;ENA formulent une série de recommandations sur les enjeux d&#8217;éthique et de responsabilité</title>
+		<link>/algorithmes-publics-des-eleves-de-lena-formulent-une-serie-de-recommandations-sur-les-enjeux-dethique-et-de-responsabilite</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2020 12:26:12 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[algorithme]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=12563</guid>
+
+					<description><![CDATA[À la demande d’Etalab, 8 élèves de l’ENA (promotion Molière) ont travaillé pendant 4 mois sur un rapport destiné à formuler des propositions concrètes pour favoriser un usage transparent et éthique des algorithmes publics par les administrations. Ils témoignent ici de leur expérience à l&#8217;occasion de la publication de ce rapport. Élèves de l’École nationale &#8230;<p class="read-more"> <a class="" href="/algorithmes-publics-des-eleves-de-lena-formulent-une-serie-de-recommandations-sur-les-enjeux-dethique-et-de-responsabilite"> <span class="screen-reader-text">Algorithmes publics : des élèves de l&#8217;ENA formulent une série de recommandations sur les enjeux d&#8217;éthique et de responsabilité</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>À la demande d’Etalab, 8 élèves de l’ENA (promotion Molière) ont travaillé pendant 4 mois sur un rapport destiné à formuler des propositions concrètes pour favoriser un usage transparent et éthique des algorithmes publics par les administrations</em>.<em> Ils témoignent ici de leur expérience à l&rsquo;occasion de la <a href="https://www.etalab.gouv.fr/wp-content/uploads/2020/01/Rapport-ENA-Ethique-et-responsabilité-des-algorithmes-publics.pdf">publication de ce rapport</a>.</em></p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>Élèves de l’École nationale d’administration (ENA), nous avons réalisé dans le cadre de notre scolarité et à la demande d’Etalab un <a href="https://www.etalab.gouv.fr/wp-content/uploads/2020/01/Rapport-ENA-Ethique-et-responsabilité-des-algorithmes-publics.pdf">rapport</a> intitulé « Éthique et responsabilité des algorithmes publics&nbsp;». Derrière cette expression se cachent plusieurs enjeux de taille. Premièrement, garantir la mise en œuvre du cadre juridique issu de la loi pour une République numérique destiné à assurer un usage transparent des algorithmes par les administrations publiques. Deuxièmement, favoriser un usage responsable, non-discriminant et maîtrisé des algorithmes par les agents publics alors même que l’image de la «&nbsp;boîte noire&nbsp;» à laquelle ces outils sont souvent renvoyés risque de distendre un peu plus les liens entre les citoyens et l’administration.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">Qui sommes-nous ?</h3>
+
+
+
+<p>Élèves de l’ENA en scolarité à Strasbourg, nous sommes pour partie des élèves-fonctionnaires français et pour partie des élèves internationaux, agents publics dans leurs pays, venus se perfectionner à l’ENA. Plus ou moins familiers des algorithmes par nos parcours antérieurs, nous nous sommes penchés avec enthousiasme sur ce sujet pendant 4 mois.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/01/remise-rapport-ena.jpeg" alt="" class="wp-image-12565" srcset="/wp-content/uploads/2020/01/remise-rapport-ena.jpeg 1024w, /wp-content/uploads/2020/01/remise-rapport-ena-300x225.jpeg 300w, /wp-content/uploads/2020/01/remise-rapport-ena-768x576.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Nathan Haik, Thibault de Cacqueray et Manon Chonavel remettent leur rapport à Laure Lucchesi</em></figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Quels étaient nos objectifs ?</h3>
+
+
+
+<p>L’usage des algorithmes publics a récemment fait l’objet d’un&nbsp;<strong>encadrement juridique</strong>. La loi dite pour une République numérique (2016) a ainsi prévu un certain nombre d’obligations pour les administrations lorsqu’elles recourent à des algorithmes pour fonder des décisions administratives individuelles. Par exemple, les administrations utilisant des algorithmes pour calculer le montant d’une prestation sociale ou décider de l’attribution d’un service public comme l’obtention d’une place en crèche, doivent publier en ligne les principales règles à laquelle sont soumis ces algorithmes et notifier à l’intéressé que cette décision a été prise sur le fondement d’un algorithme (une «&nbsp;mention explicite&nbsp;» doit alors figurer sur la décision administrative). Elles doivent également être en mesure de préciser – à la demande de l’intéressé – la manière dont l’algorithme a abouti à la décision en question. Ces différentes obligations se retrouvent aujourd’hui dans le code des relations entre le public et l’administration (CRPA).&nbsp;&nbsp;</p>
+
+
+
+<p>Afin de faciliter la mise en œuvre par les administrations de ces obligations, nous avons été chargés de mesurer les difficultés qu’elles pouvaient rencontrer et de proposer des&nbsp;<strong>outils concrets, destinés à venir enrichir le <a href="https://guides.etalab.gouv.fr/algorithmes/guide/">guide des algorithmes publics</a></strong>&nbsp;publié par Etalab.</p>
+
+
+
+<p>Par ailleurs, si les obligations issues de la loi pour une République numérique doivent permettre d’assurer la transparence des algorithmes et de leur usage par l’administration, le travail d’explicitation qui en découle n’épuise en rien les&nbsp;<strong>questions éthiques</strong>&nbsp;soulevées par les algorithmes. S’assurer que le recours à un algorithme n’exonère en rien l’administration de ses responsabilités, garantir un usage non-discriminant de ces outils, s’assurer que l’algorithme traduit fidèlement le cadre juridique qu’il est censé appliquer&nbsp;: voici quelques uns des enjeux auxquels nous avons souhaité réfléchir, en cherchant, ici encore, à fournir aux administrations des outils clés en main afin de favoriser le bon développement et l’usage responsable des algorithmes publics.&nbsp;&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">Comment avons-nous travaillé ?</h3>
+
+
+
+<p>Impossible de mesurer le degré d’appropriation des enjeux juridiques et éthiques des algorithmes publics sans&nbsp;<strong>échanger avec celles et ceux qui les élaborent et les utilisent au quotidien&nbsp;</strong>!<strong>&nbsp;</strong>Nous sommes donc allés rencontrer des agents travaillant dans des services informatiques, juridique et métiers, au sein de l’État et de ses opérateurs mais également dans les collectivités locales, en variant au maximum les niveaux hiérarchiques. Au total, ce sont près d’une cinquantaine d’agents publics qui ont accepté de partager leur expérience des algorithmes avec nous.&nbsp;</p>
+
+
+
+<p>En multipliant les points de vue et les expertises, nous avons peu à peu identifié certaines difficultés de compréhension du cadre juridique en vigueur. Ces différents entretiens nous ont également permis de découvrir que si certains acteurs étaient parfaitement au fait des obligations juridiques et des questions que soulèvent les algorithmes. Le degré de connaissance variait néanmoins selon les administrations et était souvent très inégal au sein d’un même structure. Ainsi, en l’absence d’une définition partagée par l’ensemble des agents publics de ce que sont les algorithmes, certains de nos interlocuteurs – tels M. Jourdain faisant de la prose sans le savoir – ne pensaient pas en utiliser au quotidien dans leur travail, le terme «&nbsp;algorithme&nbsp;» renvoyant essentiellement pour eux à des outils mobilisant des techniques d’intelligence artificielle. À travers ces différents entretiens, c’est ainsi un premier travail de sensibilisation que nous avons parfois mené.&nbsp;&nbsp;</p>
+
+
+
+<p>Surtout, les outils que nous avons élaborés, l’ont été en lien avec des acteurs clés des algorithmes publics. Administrateurs ministériels des données (AMD),&nbsp;<em>chief data officer</em>, délégués à la protection de données personnes (DPD), personne responsable de l’accès aux documents administratifs (PRADA)&nbsp;: nous avons eu la chance de pouvoir<strong>&nbsp;tester auprès de certains d’entre eux nos propositions&nbsp;</strong>afin de nous assurer de leur pertinence.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">Concrètement, que proposons-nous ?</h3>
+
+
+
+<p>Afin d’assurer la mise en œuvre du cadre juridique issu de la loi pour une République numérique, nous proposons de mettre à la disposition des administrations un certain nombre d’outils. Alors que ces dernières nous ont parfois fait part de leurs réticences à mettre en œuvre ces obligations, du fait de leur supposée lourdeur et de leur difficulté à percevoir précisément les exigences posées par le CRPA, notre rapport propose des pistes&nbsp;<strong>pour expliciter les différents critères prévus par les textes</strong>&nbsp;et identifie des&nbsp;<strong>exemples de mise en œuvre satisfaisante</strong>&nbsp;de chacune des obligations prévues, à diffuser auprès des administrations. De la même manière, nous proposons de favoriser la diffusion d’un&nbsp;<strong>modèle type de mention explicite</strong>, afin de faciliter le travail aux administrations devant y avoir recours.&nbsp;</p>
+
+
+
+<p>Concernant les enjeux éthiques, nul besoin de prévoir de nouvelles obligations législatives ou réglementaires&nbsp;: l’enjeu est avant tout&nbsp;<strong>organisationnel</strong>. Identifier au mieux les responsabilités avant tout déploiement, faire travailler ensemble les services juridiques, informatiques et métiers (ainsi que les prestataires lorsque l’algorithme est développé en externe), former l’ensemble des acteurs de la chaîne algorithmes apparaissent en effet comme autant de bonnes pratiques à favoriser. Par ailleurs, afin d’accompagner au mieux les administrations, nous proposons de mettre à leur disposition une «&nbsp;<strong>échelle de risques&nbsp;</strong>» et un «&nbsp;<strong>parcours de questionnement&nbsp;</strong>»&nbsp;: ces deux outils doivent leur permettre de mieux appréhender la sensibilité des traitements algorithmiques qu’ils utilisent mais aussi d’identifier les questions auxquelles les différents services se devront de répondre, tant lors de son élaboration que de son utilisation.&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="610" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/01/ena-echelle-risque-1024x610.png" alt="" class="wp-image-12569" srcset="/wp-content/uploads/2020/01/ena-echelle-risque-1024x610.png 1024w, /wp-content/uploads/2020/01/ena-echelle-risque-300x179.png 300w, /wp-content/uploads/2020/01/ena-echelle-risque-768x457.png 768w, /wp-content/uploads/2020/01/ena-echelle-risque.png 1088w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>Une échelle de risque pour les algorithmes publics</em></figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Et maintenant ?</h3>
+
+
+
+<p>Après avoir remis notre rapport à Etalab, nous avons eu l’occasion de présenter notre travail devant les agents de la DINUM, puis à l’occasion de la Semaine de l’Innovation Publique fin 2019. Ce travail de sensibilisation que nous avons entrepris doit encore être poursuivi, les enjeux éthiques des algorithmes étant aujourd’hui un sujet incontournable des réflexions autour de l’innovation publique.&nbsp;&nbsp;</p>
+
+
+
+<p><em>Manon Chonavel, Sylvia&nbsp;Saint-Cierge, Thibault de&nbsp;Cacqueray, Nathan Haik, Mélanie Marquer,&nbsp;Erwann Dumont &#8211; élèves de l&rsquo;ENA promotion Molière.</em></p>
+
+
+
+<h5 class="wp-block-heading">En savoir plus : <a href="https://www.etalab.gouv.fr/wp-content/uploads/2020/01/Rapport-ENA-Ethique-et-responsabilité-des-algorithmes-publics.pdf">télécharger</a> le rapport « Éthique et responsabilité des algorithmes publics ».</h5>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Etalab is working towards public sector algorithms accountability: a working paper for RightsCon 2019</title>
+		<link>/how-etalab-is-working-towards-public-sector-algorithms-accountability-a-working-paper-for-rightscon-2019</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Wed, 12 Jun 2019 22:52:54 +0000</pubDate>
+				<category><![CDATA[Événements]]></category>
+		<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Plan d'action national gouvernement ouvert]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10581</guid>
+
+					<description><![CDATA[RightsCon is the world&#8217;s leading event on human rights in the digital age. The 2019 edition, taking place this week in Tunis, brings together 2500 participants from 130 countries (NGOs, governments, companies). Etalab has been selected to lead a session about algorithmic accountability. « With great power comes great responsibility » On this occasion, Etalab is publishing &#8230;<p class="read-more"> <a class="" href="/how-etalab-is-working-towards-public-sector-algorithms-accountability-a-working-paper-for-rightscon-2019"> <span class="screen-reader-text">How Etalab is working towards public sector algorithms accountability: a working paper for RightsCon 2019</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">RightsCon is the world&rsquo;s leading event on human rights in the digital age. The <a href="https://www.rightscon.org/program/">2019 edition</a>, taking place this week in Tunis, brings together 2500 participants from 130 countries (NGOs, governments, companies). Etalab has been selected to <a href="https://rightscon2019.sched.com/event/Pvg5/with-great-power-comes-great-responsibility-keeping-public-sector-algorithms-accountable">lead a session</a> about algorithmic accountability. </p>
+
+
+
+<h4 class="wp-block-heading">« With great power comes great responsibility »</h4>
+
+
+
+<p>On this occasion, Etalab is publishing a working paper « <em><strong><a href="https://github.com/etalab/algorithmes-publics/blob/master/20190611_WorkingPaper_PSAAccountability_Etalab.pdf">With great power comes great responsibility: keeping public sector algorithms accountable</a></strong></em> » to present our work on algorithmic accountability and to engage the discussion with international actors (NGOs, governments and companies). Here is a short summary of our findings.</p>
+
+
+
+<p><strong>From automation of human tasks to machine learning: a short history of public sector algorithms</strong></p>
+
+
+
+<p>Algorithms are nothing new for the public service. In the 1970’s, the emergence of the computing industry allowed the French authorities to automate some of its administrative processes, starting with the large-scale processes, like tax and social benefits calculations. The second generation started with the use of matching algorithms, mainly for human resources management. The Ministry of Education developed a system to manage their workforce, that is, educators and teachers applying for a new position in a different school or region. Since the early 2000’s, matching algorithms have been used for student allocation such as Affelnet, Admission Post-Bac, and now Parcoursup. The third generation of public sector algorithms is linked to the emergence of machine learning (ML) algorithms which represent a major shift for public policy. In the first two periods, computers were used to apply a set of rules that were sometimes complex, but always predefined. Instead, ML algorithms derive rules from observations and learning from large datasets. These systems are used for tax fraud detection, prediction of companies likely to hire (<a href="http://labonneboite.poleemploi.fr/" class="broken_link">La Bonne Boite</a>) or that present a risk of going bankrupt (<a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/signauxfaibles.html" class="broken_link">Signaux Faibles</a>). </p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="432" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/threegeneration-1024x432.png" alt="" class="wp-image-10584" srcset="/wp-content/uploads/2019/06/threegeneration-1024x432.png 1024w, /wp-content/uploads/2019/06/threegeneration-300x127.png 300w, /wp-content/uploads/2019/06/threegeneration-768x324.png 768w, /wp-content/uploads/2019/06/threegeneration.png 1560w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>[Extract from the working paper]</figcaption></figure>
+
+
+
+<p><strong>Specific challenges for public sector algorithms</strong></p>
+
+
+
+<p>Private and public sectors share a series of challenges (opacity, loss of autonomy, low level of explainability, risk of bias, &#8230;) but the latter are distinguable in three ways worth noting. </p>
+
+
+
+<p>First, they must be used in the <strong>public interest</strong> and not a <em>particular or private</em> interest. One can question the impact of YouTube’s recommendation algorithm on the diffusion of harmful content. That said, it is generally accepted that, as a private company, YouTube is pursuing its own interest and not the public interest. Second, in many cases, public sector algorithms tend to <strong>implement legal rules</strong>. Tax calculations follow a list of rules defined by the general tax law and adopted by the Parliament. As such, some PSA are the last link from the political will to tangible effects on individuals. </p>
+
+
+
+<p>Finally, public sector algorithms tend to be unavoidable: citizens do not have the option to use a different algorithm and sometimes are not presented with the choice to opt out of using an algorithm at all. For example, a French patient in need of a heart transplant has no choice but to accept the rules and their algorithmic implementation by the Biomedicine agency. Similarly, the only way to get access to most of the higher education institutions is to go through Parcoursup, the allocation system for students, which relies on an algorithm. <br>In 1789, the Declaration of the Rights of Man and of the Citizen (article XV) stated that “<em>Society has the right to require of every public agent an account of their administration</em>”. This principle, enacted well before the invention of computers, still stands: if administrations use algorithms as tools of administration and government, then they – and their algorithms – should be held accountable. </p>
+
+
+
+<h4 class="wp-block-heading"><strong>How Etalab is working towards sector algorithms accountability</strong></h4>
+
+
+
+<p>With the introduction of a new legal framework for algorithmic accountability and transparency (introduced by the Digital Republic Bill), public agencies need to be accompanied on making existing and future algorithms compliant with the new obligations. This also gives citizens access to new rights, such as an extended right to information. </p>
+
+
+
+<p>Through the National Action Plan (2018-2020) for the Open Government Partnership, France has committed to reinforcing “the transparency of public sector algorithms and source codes”. Etalab, as the government’s task force for open data and data policy, oversees the work on this commitment<strong> </strong>which lies at the crossroads between open data, open source, and open government issues. <strong>&nbsp;</strong></p>
+
+
+
+<p>Our approach is multifaceted:</p>
+
+
+
+<ul><li><em>top-down</em>: from the general principles and legal obligations to their concrete implementations;</li><li><em>bottom-up</em>: deriving challenges and good practices from specific case studies;</li><li><em>inspired by inputs</em>: from external partners and from alternative methods;</li><li><em>next to</em>: supporting teams developing new algorithms.</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="549" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/multifaceted-approach-1024x549.png" alt="" class="wp-image-10609" srcset="/wp-content/uploads/2019/06/multifaceted-approach-1024x549.png 1024w, /wp-content/uploads/2019/06/multifaceted-approach-300x161.png 300w, /wp-content/uploads/2019/06/multifaceted-approach-768x412.png 768w, /wp-content/uploads/2019/06/multifaceted-approach.png 1462w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Extract from the working paper</figcaption></figure>
+
+
+
+<p>To answer to the agencies’ primary need we published a how-to guide on algorithms for public sector agencies. The guide, available <a href="https://etalab.github.io/algorithmes-publics/">online</a> (in French) – open to contributions on GitHub – gives a brief overview of issues surrounding PSA and puts the European and national legal obligations into layman’s terms to make them more accessible to public servants</p>
+
+
+
+<p><strong>An investigation method for algorithms</strong></p>
+
+
+
+<p>To identify challenges and good practices already in place, we adopted a case-based approach, working with voluntary public sector agencies on existing algorithms. Three different methodologies have been used, each one focusing on a particular object on different domains (namely social services, employment and health): </p>
+
+
+
+<ol><li>observing people at work, and their interactions with algorithmic systems (allocating daycare places at a municipal level);</li><li>observing code being published, and interviewing developers about their choices (helping the unemployed target potential employers);</li><li>observing legal and practical documentation about administrative procedures using algorithms (allocating heart transplants at a national level).</li></ol>
+
+
+
+<h4 class="wp-block-heading"><strong>Building accountability by design</strong></h4>
+
+
+
+<p>In addition to working with existing use cases, we explore accountability by design by working in close collaboration with different organizations and actors. As the department for data policy, Etalab encourages the development of datascience into government through different innovation programs developing rule-based and machine learning algorithms, such as digital transformation program <a href="https://entrepreneur-interet-general.etalab.gouv.fr/">Entrepreneurs d’Intérêt Général</a> and a call for projects around artificial intelligence. We make sure that PSA accountability issues are addressed from the beginning of these programs by organizing workshops and discussions with the development teams (public servants, data scientists, and developers). We work on different topics such as impact, explanation, data bias or symmetry of information.</p>
+
+
+
+<p><strong>A design workshop to involve citizens </strong></p>
+
+
+
+<p>To experiment with involving citizens in making PSA accountable we conducted two participatory workshops on the French housing tax, with the help of PhD candidate Loup Cellard (Warwick University). We used the analogy of an algorithm as a cooking recipe, with ingredients (data), step-by-step preparation methods (instructions) and a final result (amount to be paid). </p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="406" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/workshop2018-1024x406.png" alt="" class="wp-image-10611" srcset="/wp-content/uploads/2019/06/workshop2018-1024x406.png 1024w, /wp-content/uploads/2019/06/workshop2018-300x119.png 300w, /wp-content/uploads/2019/06/workshop2018-768x304.png 768w, /wp-content/uploads/2019/06/workshop2018.png 1428w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Getting the participants’ input on how to better explain the tax calculations was important but the workshop was particularly useful for raising awareness around citizens’ right to information with regards to public sector algorithms. </p>
+
+
+
+<h4 class="wp-block-heading"><strong>Perspective: public sector accountability and citizens</strong></h4>
+
+
+
+<p>So far, our department’s missions have been mainly focused on making sure public agencies meet their legal obligations. However, these obligations only make sense if they genuinely enable citizens to exert their rights, and if they result in a juster way to conduct public action. </p>
+
+
+
+<p>This raises crucial questions we want to keep exploring: who from outside the public sector should be involved in public sector algorithm accountability and at which step of the process? Secondly, where can and should citizens play a role? How can they help avoid the pitfall of “accountability-washing” and focus the discussion beyond the algorithm and on the public policies at stake? These questions call for broader reflection at two levels: first, nationally, by mobilizing civil society organizations, the media, human and digital rights NGOs, and research institutions while taking into consideration the local social, political and legal contexts. Secondly, through international collaborations with governments and organizations that have been working on these topics.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Algorithmes publics : Etalab publie un guide à l&#8217;usage des administrations</title>
+		<link>/algorithmes-publics-etalab-publie-un-guide-a-lusage-des-administrations</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Fri, 15 Mar 2019 10:59:19 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=9789</guid>
+
+					<description><![CDATA[Etalab publie aujourd&#8217;hui un guide des algorithmes publics à l&#8217;usage des administrations. Calculer le montant de la taxe d&#8217;habitation, attribuer une place en crèche à une famille, déterminer si un individu est éligible à une aide sociale ou gérer la mobilité des enseignants: les applications des algorithmes dans le secteur public sont nombreuses et variées. &#8230;<p class="read-more"> <a class="" href="/algorithmes-publics-etalab-publie-un-guide-a-lusage-des-administrations"> <span class="screen-reader-text">Algorithmes publics : Etalab publie un guide à l&#8217;usage des administrations</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Etalab publie aujourd&rsquo;hui un <a href="https://guides.etalab.gouv.fr/algorithmes/"><strong>guide des algorithmes publics</strong></a> à l&rsquo;usage des administrations.</p>
+
+
+
+<p>Calculer le montant de la <a href="https://www.etalab.gouv.fr/temoignage-peut-on-recoder-la-loi-lexemple-de-la-taxe-dhabitation">taxe d&rsquo;habitation</a>, attribuer une place en crèche à une famille, déterminer si un individu est éligible à une aide sociale ou gérer la mobilité des enseignants: les <strong>applications</strong> des algorithmes dans le secteur public sont <strong>nombreuses et variées</strong>. Le contexte est favorable à leur développement dans la mesure où l&rsquo;Etat encourage explicitement les administrations à recourir à l&rsquo;<strong>intelligence artificielle</strong> (notamment à l&rsquo;occasion de l&rsquo;<a href="https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia">appel à manifestation d&rsquo;intérêt IA</a>).</p>
+
+
+
+<p>La puissance publique ne peut cependant pas ignorer les <strong>risques associés</strong> à ces traitements : <strong>méfiance</strong> voire défiance de la société vis-à-vis d’outils parfois perçues comme des « boîtes noires », risque de <strong>biais</strong> pour les algorithmes apprenants, risques <strong>éthiques</strong> associés notamment à des utilisations peu ou mal anticipées des traitements algorithmiques&#8230;</p>
+
+
+
+<h2 class="wp-block-heading">Pour un usage responsable des algorithmes publics</h2>
+
+
+
+<p>Il convient dès lors, pour la puissance publique d&rsquo;assurer qu&rsquo;elle use <strong>de manière responsable</strong> des algorithmes dans l&rsquo;exécution de ses missions de service public. La Loi pour une République numérique, et plus récemment le Règlement européen sur la protection des données personnelles ont introduit en ce sens des obligations liées à <strong>la transparence et la redevabilité</strong> des algorithmes lorsqu&rsquo;ils fondent des décisions administratives individuelles.</p>
+
+
+
+<p>Pour accompagner les administrations dans l&rsquo;appréhension de ces enjeux et des nouvelles obligations Etalab publie <strong>un guide</strong> à l&rsquo;usage des administrations.</p>
+
+
+
+<h2 class="wp-block-heading">Un guide pratique à destination des administrations</h2>
+
+
+
+<p>Ce <a href="https://guides.etalab.gouv.fr/algorithmes/">document</a> pédagogique, destiné aux administrations qui conçoivent, développent et utilisent des traitements algorithmiques, est composé de trois parties.</p>
+
+
+
+<ul><li>La <a href="https://guides.etalab.gouv.fr/algorithmes/guide/">première partie</a> donne des <strong>éléments de contexte</strong>: qu&rsquo;est-ce qu&rsquo;un algorithme ? à quoi servent les algorithmes dans le secteur public ? Nous y précisons en particulier la distinction entre des décisions automatisées (ie. sans intervention humaine) et les cas où les algorithmes sont des outils d&rsquo;aide à la décision (par exemple pour classer les dossiers des familles en vue de leur examen par une commission d&rsquo;attribution de places en crèches).</li></ul>
+
+
+
+<figure class="wp-block-image alignnone wp-image-9806 size-large"><img loading="lazy" decoding="async" width="1024" height="340" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/03/guide-algorithmes-1024x340.png" alt="" class="wp-image-9806" srcset="/wp-content/uploads/2019/03/guide-algorithmes-1024x340.png 1024w, /wp-content/uploads/2019/03/guide-algorithmes-300x100.png 300w, /wp-content/uploads/2019/03/guide-algorithmes-768x255.png 768w, /wp-content/uploads/2019/03/guide-algorithmes.png 1830w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A quoi servent les algorithmes publics ? (extrait du guide)</figcaption></figure>
+
+
+
+<ul><li>La <a href="https://guides.etalab.gouv.fr/algorithmes/guide/">seconde partie</a> détaille les <strong>enjeux en termes d&rsquo;éthique et de responsabilité</strong>: pourquoi &#8211; et comment &#8211; les administrations doivent-elles « rendre des comptes » sur l&rsquo;usage des algorithmes ? comment ces outils peuvent-ils aider à prendre des décisions plus « justes » ? Nous y explicitons notamment les principes de transparence, d&rsquo;intelligibilité et de loyauté.</li><li>La <a href="https://etalab.github.io/algorithmes-publics/guide.html">troisième partie</a> présente le <strong>cadre juridique applicable</strong> en matière de transparence des algorithmes, notamment suite à l&rsquo;adoption de la Loi pour une République numérique. Le législateur a en particulier introduit, pour certains algorithmes qui sont utilisés pour fonder des décisions administratives individuelles, un ensemble d&rsquo;obligations: <ul><li>au titre de l&rsquo;information générale: <strong>publier en ligne</strong> les règles définissant les principaux traitements utilisés dans l’accomplissement des missions lorsqu’ils fondent des décisions individuelles,</li><li>au titre de la mention explicite: <strong>faire figurer en ligne et sur les documents</strong> (avis, notifications) une mention précisant les finalités du traitement, le rappel du droit de communication, les modalités d’exercice de ce droit,</li><li>au titre de l&rsquo;information individuelle: <strong>fournir à la demande de l’intéressé</strong> : le degré et le mode de contribution du traitement algorithmique à la prise de décision, les données traitées et leurs sources, les paramètres de traitement et leur pondération, appliqués à la situation de l&rsquo;intéressé, les opérations effectuées par le traitement. </li></ul></li></ul>
+
+
+
+<h2 class="wp-block-heading">Un document ouvert aux contributions</h2>
+
+
+
+<p>Le document publié aujourd&rsquo;hui est <strong>ouvert aux contributions extérieures. </strong>Vous êtes invités à proposer une amélioration du contenu, poser une question ou soumettre un nouveau cas d&rsquo;usage, soit en travaillant directement sur la <a href="https://github.com/etalab/guides.etalab.gouv.fr/tree/master/algorithmes">version éditable</a> publiée sur Github, soit en nous contactant.</p>
+
+
+
+<p>Ce document est publié dans le cadre du <a href="https://guides.etalab.gouv.fr/algorithmes/programme/" class="broken_link">programme de travail</a> d&rsquo;Etalab sur les algorithmes publics, qui comprend aussi la réalisation de monographies (analyse de cas d&rsquo;usages) et l&rsquo;accompagnement de projets dans le cadre du programme Entrepreneur d&rsquo;Intérêt Général et des lauréats de l&rsquo;appel à manifestation d&rsquo;intérêt. Certaines de ses actions s&rsquo;inscrivent en outre dans le cadre des engagements du <a href="https://www.etalab.gouv.fr/opengov-openparliament-les-plans-daction-du-gouvernement-et-de-lassemblee-nationale-pour-une-action-publique-transparente-et-collaborative-ont-ete-lances">plan d&rsquo;action national</a> de la France au sein du Partenariat pour un gouvernement ouvert (OGP).</p>
+
+
+
+<p><strong>Liens</strong></p>
+
+
+
+<ul><li><a href="https://guides.etalab.gouv.fr/algorithmes/guide/">Guide des algorithmes publics</a></li><li><a href="https://guides.etalab.gouv.fr/algorithmes/programme/" class="broken_link">Les chantiers d&rsquo;Etalab en cours sur les algorithmes publics</a></li><li><a href="https://guides.etalab.gouv.fr/algorithmes/0-ressources/" class="broken_link">Ressources utiles</a> (articles, rapports officiels, évènements, &#8230;)</li></ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Demain, tous producteurs de données ? Les sciences participatives nous montrent la voie (Data Literacy Conference 2018)</title>
+		<link>/demain-tous-producteurs-de-donnees-les-sciences-participatives-nous-montrent-la-voie-data-literacy-conference-2018</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Fri, 30 Nov 2018 10:16:24 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Ecosystème]]></category>
+		<category><![CDATA[Événements]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=9047</guid>
+
+					<description><![CDATA[[:fr]La troisième édition de la Data Literacy Conference s’est tenue à Aix-en-Provence début octobre. Cet événement accueille chaque année des intervenants internationaux qui œuvrent en faveur d’une plus grande diffusion de la culture de la donnée. Simon Chignard, conseiller à Etalab y a animé une table ronde consacrée aux sciences participatives, c’est à dire les projets &#8230;<p class="read-more"> <a class="" href="/demain-tous-producteurs-de-donnees-les-sciences-participatives-nous-montrent-la-voie-data-literacy-conference-2018"> <span class="screen-reader-text">Demain, tous producteurs de données ? Les sciences participatives nous montrent la voie (Data Literacy Conference 2018)</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]<i>La troisième édition de la <a href="http://dataliteracyconference.net/2018/">Data Literacy Conference</a> <i>s’est tenue à Aix-en-Provence début octobre. Cet événement accueille chaque année des intervenants internationaux qui œuvrent en faveur d’une plus grande diffusion de la culture de la donnée. Simon Chignard, conseiller à Etalab y a animé une table ronde consacrée aux sciences participatives, c’est à dire les projets scientifiques qui associent la société civile à la collecte et la production des données. À l’heure où les bases de données collaboratives connaissent un engouement certain (Open Food Facts, OpenStreetMap), il est intéressant de comprendre la manière dont les sciences participatives mobilisent des contributeurs non-professionnels pour la collecte et l’enrichissement de données.</i></i></p>
+<h2>PartiCitaE: associer la société civile à la recherche</h2>
+<p><strong>Laure Turcati</strong> dirige le projet <a href="http://www.particitae.upmc.fr/fr/index.html">PartiCitaE</a> au sein de l’Université Paris Sorbonne. PartiCitaE est un observatoire scientifique, ce qui en fait un outil de recherche à part entière mais c&rsquo;est aussi un dispositif participatif qui assure la prise en compte des besoins sociétaux dans la recherche sur l&rsquo;environnement.</p>
+<p><img loading="lazy" decoding="async" class="size-medium wp-image-9357 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/extrait-hypopothese-300x268.png" alt="" width="300" height="268" srcset="/wp-content/uploads/2018/11/extrait-hypopothese-300x268.png 300w, /wp-content/uploads/2018/11/extrait-hypopothese-768x687.png 768w, /wp-content/uploads/2018/11/extrait-hypopothese.png 952w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Mesure de la qualité de l’air, observation de la nature en ville (lichens) figurent parmi les thèmes proposés par les chercheurs qui poussent assez loin la notion de participation des citoyens : ils sont ainsi invités à construire le protocole de collecte des données et les outils permettant cette collecte.</p>
+<p>Cette participation ne va pas nécessairement de soi, souligne Laure Turcati : certains participants estiment ainsi que c’est plutôt le rôle du scientifique de construire le protocole ! C’est aussi un pari : si les participants sont impliqués très tôt, on peut espérer que leur engagement sera plus durable et que la collecte des données sera de meilleure qualité.</p>
+<p>PartiCitaE met aussi à disposition librement et gratuitement <a href="http://www.particitae.upmc.fr/fr/des-outils-dedies/construire-un-protocole.html">Hypopothèse</a>, un jeu de plateau permettant à chacun (à partir de l’âge de 7 ans) d’imaginer et de construire un protocole scientifique.</p>
+<h2>Natural Solutions: accompagner les projets de sciences participatives</h2>
+<p><strong>Olivier Rovellotti</strong> dirige la société <a href="http://www.natural-solutions.eu/">Natural Solutions</a>, prestataire de services. Il conçoit et développe des outils numériques permettant la collecte de données, en particulier dans le domaine de la biodiversité. Selon lui, la principale difficulté des projets de sciences participatives tient justement à l’alignement entre le protocole et le public cible. Il fait le parallèle entre le capteur « humain » et le capteur « électronique » : chaque capteur possède des capacités propres, par exemple en matière de finesse ou de précision de la mesure. Certains projets reposent sur des observateurs peu nombreux mais très avertis, par exemple les membres de la LPO (ligue de protection des oiseaux) qui sont capables de distinguer de très nombreuses espèces.</p>
+<p><img loading="lazy" decoding="async" class="alignleft size-medium wp-image-9358" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/biolit-300x213.png" alt="" width="300" height="213" srcset="/wp-content/uploads/2018/11/biolit-300x213.png 300w, /wp-content/uploads/2018/11/biolit-768x545.png 768w, /wp-content/uploads/2018/11/biolit-1024x727.png 1024w, /wp-content/uploads/2018/11/biolit.png 1508w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>&nbsp;</p>
+<p>À l’inverse, d’autres projets peuvent mobiliser un grand nombre de participants profanes mais auxquels on demandera des observations plus simples, à l’image du projet <a href="http://www.biolit.fr/">BioLit</a> d’observation du littoral (ci-contre) . Olivier Rovellotti insiste alors sur la dimension de jeu et de plaisir, qu’il faut toujours garder à l’esprit quand on veut mobiliser les participants.</p>
+<p>&nbsp;</p>
+<h2>La Phonotèque: valoriser les archives sonores</h2>
+<p><strong>Véronique Ginouvès</strong> dirige la <a href="https://phonotheque.hypotheses.org/">Phonotèque</a> de la Maison méditerranéenne des sciences de l’homme. La Phonotèque recueille les archives sonores déposées par des chercheurs. Elle réunit les enregistrements du patrimoine sonore qui ont valeur d’information ethnologique, linguistique, historique, musicologique ou littéraire sur l’aire Méditerranéenne. Un important travail d’éditorialisation est réalisée par Véronique Ginouvès et ses collègues. Ainsi, chaque dernier lundi du mois ils font découvrir des <a href="https://phonotheque.hypotheses.org/tag/recette">recettes de cuisine</a> enregistrées et révélées par les informateurs sur le terrain. Le grand public est aussi mobilisé, par exemple lors d’une opération d’<a href="https://phonotheque.hypotheses.org/16137">Edit-a-thon</a> dans le cadre du programme européen Europeana Sounds.</p>
+<p><img loading="lazy" decoding="async" class="alignleft size-medium wp-image-9359" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/phonoteque-300x121.png" alt="" width="300" height="121" srcset="/wp-content/uploads/2018/11/phonoteque-300x121.png 300w, /wp-content/uploads/2018/11/phonoteque-768x310.png 768w, /wp-content/uploads/2018/11/phonoteque-1024x414.png 1024w, /wp-content/uploads/2018/11/phonoteque.png 2014w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Parfois, la réutilisation des archives prend une tournure inattendue : certaines chansons ont ainsi été ré-enregistrées dans une autre langue, contribuant ainsi à enrichir le fonds. La Phonotèque s’appuie aussi sur des communautés thématiques. Plusieurs documents sonores concernent le métier de luthier et son évolution, ils sont aujourd’hui largement relayés et enrichis dans cette communauté professionnelle active en ligne et hors-ligne.</p>
+<h2>Analyser les dynamiques des projets &#8230; et leurs limites</h2>
+<p><strong>Matthieu Noucher</strong> est géographe, chercheur au laboratoire Passages du CNRS. Dans le cadre du projet de recherche <a href="https://www-iuem.univ-brest.fr/pops/projects/ingeo">InGéoVoM</a> il s’est attaché avec ses collègues à analyser les projets de sciences participatives et citoyennes liés à la compréhension et la gestion de la biodiversité côtière et marine. Il s’est notamment intéressé à la circulation de l’information géographique volontaire: comment circule la donnée collectée, qui l’utilise — ou ne l’utilise pas ? Car Matthieu Noucher évoque aussi le non-usage de la donnée.</p>
+<p>Certains chercheurs ou institutions se refusent ainsi à utiliser la donnée issue des sciences participatives et citoyennes. Ils remettent notamment en cause l’objectivité des participants, qui sont pour certains des militants engagés dans la protection de l’environnement. D’autres chercheurs refusent aussi de confier à des tiers bénévoles des tâches de collecte dont ils estiment qu’elles devraient être financées par la recherche publique. À l’inverse, le manque de retour vers les contributeurs est un facteur de démotivation très fort. Les contributeurs amateurs souhaitent savoir comment (et pourquoi) sont utilisées les données qu’ils ont aidé à collecter.</p>
+<p>Les sciences participatives et citoyennes semblent ainsi répondre à des objectifs multiples : collecter des données mais aussi sensibiliser à une question ou un problème (par exemple la protection de l’environnement). Ce faisant, elles aident à <strong>diffuser plus largement une culture de la donnée</strong>, dans une approche concrète, “les mains dans le cambouis”.[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Rapport 2016-1017 de l&#8217;administrateur général des données: La donnée comme infrastructure essentielle</title>
+		<link>/rapport-2016-1017-de-ladministrateur-general-des-donnees-la-donnee-comme-infrastructure-essentielle</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Tue, 10 Apr 2018 11:30:00 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8187</guid>
+
+					<description><![CDATA[L&#8217;administrateur général des données (AGD) a remis ce jour au secrétaire d’État auprès du Premier ministre chargé du Numérique, Mounir Mahjoubi, son rapport 2016-2017, intitulé « La donnée comme infrastructure essentielle ». Il y dresse un état des lieux de la politique de la donnée, et relève les progrès accomplis ces deux dernières années. L’AGD y prône la construction d’une &#8230;<p class="read-more"> <a class="" href="/rapport-2016-1017-de-ladministrateur-general-des-donnees-la-donnee-comme-infrastructure-essentielle"> <span class="screen-reader-text">Rapport 2016-1017 de l&#8217;administrateur général des données: La donnée comme infrastructure essentielle</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><strong>L&rsquo;administrateur général des données (AGD) a remis ce jour au secrétaire d’État auprès du Premier ministre chargé du Numérique, Mounir Mahjoubi, son <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf">rapport 2016-2017</a>, intitulé « La donnée comme infrastructure essentielle ». Il y dresse un état des lieux de la politique de la donnée, et relève les progrès accomplis ces deux dernières années. L’AGD y prône la construction d’une infrastructure de la donnée, nécessaire pour en garantir la qualité, la circulation et la meilleure exploitation possible.</strong></p>
+<p><a href="https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017.png"><img loading="lazy" decoding="async" class="size-thumbnail wp-image-1028 aligncenter" src="https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-150x150.png" alt="" width="150" height="150" /></a></p>
+<p style="text-align: center;"><strong><a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf">&gt;&gt; Consulter le rapport « La donnée comme infrastructure essentielle »</a></strong></p>
+<p><strong>Un état des lieux de la politique de la donnée</strong></p>
+<p>Dans son rapport 2016-2017, l’administrateur général des données dresse un état des lieux des pratiques des administrations en matière de production, de circulation et d’exploitation des données. Il fait mention des progrès enregistrés depuis la publication de son rapport précédent (décembre 2015), sur chacun des axes de cette politique :</p>
+<ul>
+<li><em><strong>produire les données essentielles</strong> :</em>
+<ul>
+<li>Le statut de données de référence a été reconnu juridiquement dans le cadre de la loi pour une République numérique ;</li>
+<li>Les administrations ont produit des données essentielles, comme la Base adresse nationale ;</li>
+<li>Des standards de données ont été définis, notamment dans le domaine de la commande publique, des conventions de subventions et de l’énergie ;</li>
+</ul>
+</li>
+<li><em><strong>améliorer la circulation de la donnée</strong> </em>:
+<ul>
+<li>Les 9 premières bases de données de référence ont été mises en ligne, avec des résultats probants (multiplication par 20 du nombre d’utilisateurs réguliers du répertoire des entreprises selon l&rsquo;INSEE) ;</li>
+<li>La mise à disposition d&rsquo;interfaces de programmation, en particulier l&rsquo;API Entreprise et l&rsquo;API Particulier ;</li>
+<li>Le cadre juridique a évolué pour favoriser la circulation de la donnée (principe d’ouverture par défaut, principe de gratuité) ;</li>
+</ul>
+</li>
+<li><strong><em>exploiter les données</em></strong> :
+<ul>
+<li>Les <em>datasciences </em>ont été appliquées dans plusieurs domaines de l&rsquo;action publique, dont la lutte contre le chômage, l’aide aux entreprises en difficulté, l’aide à la décision pour les forces de sécurité intérieure.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Construire l’infrastructure de la donnée</strong></p>
+<p>Dans sa deuxième partie, le rapport de l’AGD développe l’idée et l’importance de construire une <strong>infrastructure de la donnée</strong>. Le développement d’un pays est étroitement lié à la présence d’une infrastructure performante et de qualité, qu’il s’agisse de routes, de lignes ferroviaires, de réseaux d’énergie ou de télécommunications. L’État a d’ailleurs longtemps consacré une partie importante de ses investissements à construire et maintenir ces infrastructures. Il faut aujourd’hui considérer les données comme l’une de ces infrastructures <i>essentielles </i>et <i>critiques</i>. Essentielles car, dans une économie de l’information, l’accès à la donnée de référence fiable et à jour est la condition du développement des services numériques. Critiques car il faudra s’assurer que la fourniture de ces données ne puisse être interrompue, qu’il s’agisse de défaillances involontaires ou d’actes malveillants.</p>
+<p>Plusieurs pays européens se sont engagés dans la mise en place d’une telle infrastructure de données. La deuxième partie du rapport développe ainsi une analyse comparée des initiatives du Royaume-Uni (UK Registers), de l’Estonie (X-Road), du Danemark (Basic Data) et de la France (service public de la donnée).</p>
+<p>La construction d’une telle infrastructure nécessite la mobilisation de plusieurs leviers : budgétaires (le Danemark a fait le choix de centraliser le financement des données de référence, au détriment d’une partie de l’autonomie financière des producteurs), contractuels (en particulier dans la définition des objectifs assignés aux opérateurs par leurs ministères de tutelle), juridiques (principe de gratuité, obligation d’utilisation de standards ouverts) et techniques (déploiement d’une infrastructure sécurisée de diffusion à haut niveau de disponibilité).</p>
+<p>Le choix d’un modèle de gouvernance apparaît bien comme un élément structurant d’une infrastructure de données. Un certain degré de centralisation est nécessaire, ne serait-ce que pour fixer a minima des règles et des standards communs à l’ensemble des bases de données de référence.</p>
+<p><strong>Transformer l’essai: la feuille de route 2018-2019</strong></p>
+<p>Le rapport présente en conclusion la feuille de route de l’administrateur général des données pour les deux prochaines années. Cinq axes sont proposés :</p>
+<ul>
+<li><em>mettre à disposition les données, les ressources et les infrastructures</em>, renforcer et amplifier la dynamique engagée autour du service public de la donnée,</li>
+<li><em>développer la doctrine de la circulation de la donnée </em>au sein de la sphère publique, fournir « la bonne donnée à la bonne personne » et in fine gérer le droit d&rsquo;en connaître pour les données protégées par des secrets,</li>
+<li><em>renforcer le réseau des administrateurs ministériels des données</em>, pour décliner la politique de la donnée (production, circulation, exploitation) au sein de chaque ministère,</li>
+<li><em>développer un pôle de compétences en intelligence artificielle</em>, pour faire de l&rsquo;Etat l&rsquo;un des premiers utilisateurs de ces outils, définir les conditions d&rsquo;une utilisation éthique et responsable des algorithmes publics,</li>
+<li><em>soutenir l&rsquo;écosystème des utilisateurs de données publiques</em>, documenter les impacts économiques et sociaux d&rsquo;une meilleure circulation de la donnée.</li>
+</ul>
+<p><a href="https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017.png"><img loading="lazy" decoding="async" class="size-thumbnail wp-image-1028 aligncenter" src="https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-150x150.png" alt="" width="150" height="150" /></a></p>
+<p style="text-align: center;"><strong><a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf">&gt;&gt; Consulter le rapport 2016-2017 de l&rsquo;administrateur général des données</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf">« </a></strong><strong><a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf">La donnée comme infrastructure essentielle »</a></strong></p>
+<ul>
+<li><a href="https://www.etalab.gouv.fr/data-as-essential-infrastructure-frances-chief-data-officer-report-on-data-governance">Voir aussi la traduction anglaise</a></li>
+</ul>
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Service public de la donnée: les données du cadastre sont maintenant disponibles sur data.gouv.fr[:]</title>
+		<link>/service-public-de-la-donnee-les-donnees-du-cadastre-sont-maintenant-disponibles-sur-data-gouv-fr</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Mon, 02 Oct 2017 09:26:07 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[cadastre]]></category>
+		<category><![CDATA[service public de la donnée]]></category>
+		<category><![CDATA[spd]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=7680</guid>
+
+					<description><![CDATA[[:fr] La Direction Générale des Finances Publiques (DGFiP) et la mission Etalab mettent en ligne ce lundi 2 octobre, les données du plan cadastral informatisé (PCI). Le cadastre est l’une des neuf bases de données de référence du « service public de la donnée ».   La base comprend les données* sur les parcelles et les emprises &#8230;<p class="read-more"> <a class="" href="/service-public-de-la-donnee-les-donnees-du-cadastre-sont-maintenant-disponibles-sur-data-gouv-fr"> <span class="screen-reader-text">[:fr]Service public de la donnée: les données du cadastre sont maintenant disponibles sur data.gouv.fr[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<div></div>
+<blockquote>
+<h3 id="magicdomid86" class="ace-line"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu" style="color: #333333;">La Direction Générale des Finances Publiques (DGFiP) et la mission Etalab mettent en ligne ce lundi 2 octobre, les<strong> données du plan cadastral informatisé</strong> (PCI). Le cadastre est l’une des neuf bases de données de référence du « service public de la donnée ».</span></h3>
+</blockquote>
+<div id="magicdomid9" class=""><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> </span></div>
+<div id="magicdomid75" class="ace-line" style="text-align: justify;"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">La base comprend les données* sur les <strong>parcelles et les emprises des bâtiments</strong> dans plus de 32800 communes françaises. La version « PCI vecteur » aujourd’hui mise en ligne correspond à </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">plus de </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">556 000 feuilles cadastrales. <strong>La DGFiP met à disposition le cadastre (PCI vecteur) <a href="http://www.data.gouv.fr/fr/datasets/pci-vecteur-plan-cadastral-informatise/" class="broken_link">au format EDIGEO</a></strong>. </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">Trois</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> millésimes sont proposés </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">dès maintenant </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">: </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">février, mai et juillet 2017</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">. Ces données seront mises à jour par leur administration productrice </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">trimestriellement</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">.</span></div>
+<div></div>
+<div class="ace-line" style="text-align: justify;"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">L’objectif premier du service public de la mise à disposition des données de référence est d’en faciliter la réutilisation. Dans cette optique et conformément aux textes organisant ce nouveau service public, Etalab propose aussi aux réutilisateurs une <strong>version </strong></span><strong><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">des principaux éléments du plan cadastral </span><a href="http://www.data.gouv.fr/fr/datasets/cadastre/"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">au format </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">Geo</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">JSON </span></a></strong><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">dans</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> un système de coordonnées géographiques WGS84. Ces fichiers ne contiennent aucune donnée sur les propriétaires et plus généralement aucune donnée à caractère personnel.</span></div>
+<div></div>
+<h2><b><strong><span style="color: #0000ff;">Une mise à disposition très attendue</span> </strong></b></h2>
+<div id="magicdomid174" class="ace-line" style="text-align: justify;"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">La mise en ligne </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">des données </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">du plan cadastral informatisé représente une <strong>nouvelle étape dans la constitution d’une infrastructure </strong></span><strong><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">informationnelle</span></strong><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">. Le cadastre est une donnée de référence. Au-delà de son utilisation première par les services fiscaux, </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">il</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> intéresse l’ensemble des acteurs qui ont besoin de connaître la localisation des bâtiments et leurs emprises. Sa mise en ligne </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">avec les millésimes les plus récents </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">était très attendue par les collectivités, mais </span></div>
+<p><img loading="lazy" decoding="async" class="wp-image-7692 alignright" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/09/cadastre.png" alt="" width="230" height="158" srcset="/wp-content/uploads/2017/09/cadastre.png 1207w, /wp-content/uploads/2017/09/cadastre-300x206.png 300w, /wp-content/uploads/2017/09/cadastre-768x527.png 768w, /wp-content/uploads/2017/09/cadastre-1024x703.png 1024w" sizes="(max-width: 230px) 100vw, 230px" /></p>
+<div id="magicdomid174" class="ace-line" style="text-align: justify;"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">aussi par nombre d’entreprises et d&rsquo;institutions dans le domaine de l’aménagement du ter</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">ritoire, de l&rsquo;urbanisme ou de l&rsquo;environnement. Un cadastre performant est considéré par nombre d’observateurs comme l’un des facteurs clés de développement d’un pays. En facilitant sa circulation et sa réutilisation par le plus grand nombre, la France poursuit son engagement en faveur d’une plus grande ouverture des données, engagement pris notamment dans le cadre du Partenariat pour le gouvernement ouvert. </span></div>
+<div>
+<h2 style="text-align: justify;"><span style="color: #0000ff;"><b><strong>A propos du service public de la donnée</strong></b><em> </em></span></h2>
+<div id="magicdomid174" class="ace-line" style="text-align: justify;">
+<p><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">Le service public de mise à disposition des données de référence (« service public de la donnée ») a été crée par <a href="https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&amp;type=general&amp;legislature=14">la loi pour une République numérique</a>. Il est à ce jour composé de neuf bases de données de référence. Depuis son entrée en vigueur en avril 2017, les bases de données déjà disponibles sur l’espace dédié </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu url"><a href="http://www.data.gouv.fr/reference">www.data.gouv.fr/reference</a></span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> ont fait l’objet de plus de 48 000 téléchargements.</span></p>
+<div id="magicdomid19" class=""><em><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"><strong>*</strong> la consultation et la délivrance d’extraits des plans cadastraux au format PDF restent possibles sur le site cadastre.gouv.fr mis en place par la DGFiP.</span></em></div>
+</div>
+</div>
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

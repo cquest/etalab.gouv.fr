@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Henri Verdier &#8211; Etalab</title>
+	<atom:link href="/author/henri-verdier/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 18 Jun 2019 08:30:54 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Henri Verdier &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[:fr]L&#8217;open data entre dans le code de la santé publique[:]</title>
+		<link>/lopen-data-entre-dans-le-code-de-la-sante-publique</link>
+					<comments>/lopen-data-entre-dans-le-code-de-la-sante-publique#comments</comments>
+		
+		<dc:creator><![CDATA[Henri Verdier]]></dc:creator>
+		<pubDate>Wed, 30 Dec 2015 12:00:55 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[Santé]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3107</guid>
+
+					<description><![CDATA[[:fr]Le 17 décembre dernier, le Parlement a adopté la loi de Santé débattue depuis de longs mois. Comme annoncé par la Ministre de la santé et des affaires sociales, cette loi organise, pour la première fois, grâce à son article 47, un « open data de santé », ainsi qu&#8217;une plus large accessibilité aux données de santé pour la &#8230;<p class="read-more"> <a class="" href="/lopen-data-entre-dans-le-code-de-la-sante-publique"> <span class="screen-reader-text">[:fr]L&#8217;open data entre dans le code de la santé publique[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]Le 17 décembre dernier, le Parlement a adopté la loi de Santé débattue depuis de longs mois. <a href="http://www.journaldunet.com/ebusiness/le-net/marisol-touraine-ouverture-bases-de-donnees-sante.shtml">Comme annoncé</a> par la Ministre de la santé et des affaires sociales, cette loi organise, pour la première fois, grâce à son article 47, un « open data de santé », ainsi qu&rsquo;une plus large accessibilité aux données de santé pour la recherche et l&rsquo;innovation.</p>
+<p>Cette décision est en particulier fondée sur <a href="https://www.etalab.gouv.fr/remise-du-rapport-sur-les-donnees-de-sante-a-marisol-touraine">le débat sur l&rsquo;open data en santé</a>, conduit par le Ministère des affaires sociales et de la santé, appuyé par la mission Etalab, <a href="https://www.etalab.gouv.fr/marisoltourainelanceledebatouvertsurlesdonneespubliquesdesante">qui avait été lancé par la Ministre en novembre 2013</a>, ainsi que sur le rapport Bras, remis en octobre 2013 qui avait constaté l&rsquo;exceptionnelle richesse des données produites par le système de santé, la complexité des régimes juridiques permettant l&rsquo;accès à ces données et l&rsquo;insuffisante mise en ligne de données anonymisées.</p>
+<p>Conformément à l&rsquo;esprit qui a animé l&rsquo;ensemble de ces débats, la loi cherche un équilibre entre la protection de la vie privée et l&rsquo;ouverture des données pour créer le meilleur impact économique et social possible.</p>
+<p>Elle vise donc à :</p>
+<p>&#8211; ouvrir au public les jeux de données complètement anonymes, multiplier les jeux de données anonymisées (et au passage permettre la réutilisation des données produites par l&rsquo;Assurance maladie sur les professionnels de santé) ;</p>
+<p>&#8211; autoriser le traitement des données comportant un possible risque de ré-identification, mais uniquement pour les projets d&rsquo;intérêt public et dans des conditions garantissant le respect de la vie privée des personnes.</p>
+<p>Pour ce faire, le texte unifie le traitement de différents grands systèmes sous une gouvernance unique : le Système national des données de santé (SNDS), qui assurera un appariement plus facile entre les grandes bases de données de la CNAM (SNIIRAM, PMSI) et le registre national des décès, des données sur le handicap et un extrait représentatif de données sur l&rsquo;assurance complémentaire).</p>
+<p>Ces données ne comprendront ni le nom, ni le prénom, ni le numéro de sécurité sociale, ni aucune autre information directement identifiante. La CNAM sera chargée de maintenir ce système et notamment d&rsquo;apparier ces données entre elles (opération qui est nécessaire pour permettre de nouvelles recherches et nécessite  une grande attention à la protection de la vie privée).</p>
+<p>Pour organiser cette gouvernance, et l&rsquo;ouverture de ces données à de nouveaux usages, l&rsquo;actuel Institut des données de santé (IDS) sera élargi pour être transformé en Institut national des données de santé (INDS) , avec une composition et des missions élargies. Cet INDS deviendra notamment un guichet unique pour orienter plus facilement les demandes d&rsquo;accès aux données de santé.</p>
+<p>Un régime particulier est prévu pour des services de l&rsquo;Etat, des organismes publics ou chargés &lsquo;une mission de service public, désignés par un décret en Conseil d&rsquo;Etat après avis de la CNIL.</p>
+<p>Pour le traitement de ces données à risque de réidentification, le régime général reste celui de l&rsquo;autorisation CNIL.</p>
+<p>Avec cette décision, qui coïncide avec les gestes récents de plusieurs organismes de santé (<a href="https://www.etalab.gouv.fr/ouverture-du-fichier-damir-par-lassurance-maladie">CNAM</a>, <a href="https://www.etalab.gouv.fr/la-haute-autorite-de-sante-met-en-ligne-de-nouvelles-donnees-en-open-data">HAS</a>, <a href="https://www.data.gouv.fr/fr/datasets/extraction-du-fichier-national-des-etablissements-sanitaires-et-sociaux-finess-par-etablissements/" class="broken_link">FINESS</a>&#8230;) vers l&rsquo;open data, l&rsquo;open innovation et le travail avec les écosystème, on peut dire que le système de santé français est en train d&rsquo;ouvrir solidement le chapitre de l&rsquo;open data en Santé.[:]
+]]></content:encoded>
+					
+					<wfw:commentRss>/lopen-data-entre-dans-le-code-de-la-sante-publique/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>La France présidera le Partenariat pour un gouvernement ouvert</title>
+		<link>/la-france-presidera-le-partenariat-pour-un-gouvernement-ouvert</link>
+		
+		<dc:creator><![CDATA[Henri Verdier]]></dc:creator>
+		<pubDate>Fri, 24 Apr 2015 12:20:23 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3142</guid>
+
+					<description><![CDATA[Un an jour pour jour après la Conférence de Paris sur l&#8217;open data et le gouvernement ouvert, et l&#8217;annonce de son adhésion à l&#8217;Open Government Partnership, la France a été choisie par ses partenaires membres du Comité directeur, réunis à Mexico, pour présider l&#8217;organisation de l&#8217;automne 2016 à l&#8217;automne 2017. Selon les statuts de l&#8217;organisation, &#8230;<p class="read-more"> <a class="" href="/la-france-presidera-le-partenariat-pour-un-gouvernement-ouvert"> <span class="screen-reader-text"><!--:fr-->La France présidera le Partenariat pour un gouvernement ouvert<!--:--></span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->Un an jour pour jour après la <a href="http://https://www.etalab.gouv.fr/laconferencedeparisintegralesurleblogdetalab" class="broken_link"><em>Conférence de Paris sur l&rsquo;open data et le gouvernement ouvert</em></a>, et l&rsquo;annonce de son adhésion à <a href="http://www.opengovpartnership.org/">l&rsquo;Open Government Partnership</a>, la France a été choisie par ses partenaires membres du Comité directeur, réunis à Mexico, pour présider l&rsquo;organisation de l&rsquo;automne 2016 à l&rsquo;automne 2017.</p>
+<p>Selon les statuts de l&rsquo;organisation, la France sera donc également vice-présidente d&rsquo;octobre 2015 à octobre 2016, sous la présidence de l&rsquo;Afrique du Sud.</p>
+<p>Cette responsabilité sera l&rsquo;occasion pour notre pays de nouer de nouveaux partenariats avec une communauté d&rsquo;innovateurs de nombreux gouvernements, et avec une société civile bouillonnante.</p>
+<p>Elle aura aussi l&rsquo;occasion de partager son projet, qui sera prochainement traduit en <a href="https://www.etalab.gouv.fr/plan-daction-national">plan d&rsquo;action national</a>, et dans lequel on retrouvera ses fondamentaux : transparence, open data social (illustré par le portail <a href="http://www.etalab.gouv.fr/plan-daction-national">data.gouv.fr</a>), ouverture des modèles de décision (illustrée par le projet <a href="www.openfisca.fr">OpenFisca</a>), concertation, contribution, création de biens communs informationnels (illustrée par le projet de <a href="https://www.etalab.gouv.fr/inauguration-officielle-de-la-base-adresse-nationale">Base adresses</a> qui devrait prochainement être repris par plusieurs membres de l&rsquo;OGP).</p>
+<p>Ce sera aussi l&rsquo;occasion de rapprocher nos partenaires européens et le monde francophone de ce mouvement international qui tente de forger de nouvelles formes de démocratie après la révolution numérique.<!--:--></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>La France présidera le Partenariat pour un gouvernement ouvert</title>
+		<link>/la-france-presidera-le-partenariat-pour-un-gouvernement-ouvert-2</link>
+		
+		<dc:creator><![CDATA[Henri Verdier]]></dc:creator>
+		<pubDate>Fri, 24 Apr 2015 12:20:23 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3142</guid>
+
+					<description><![CDATA[Un an jour pour jour après la Conférence de Paris sur l&#8217;open data et le gouvernement ouvert, et l&#8217;annonce de son adhésion à l&#8217;Open Government Partnership, la France a été choisie par ses partenaires membres du Comité directeur, réunis à Mexico, pour présider l&#8217;organisation de l&#8217;automne 2016 à l&#8217;automne 2017. Selon les statuts de l&#8217;organisation, &#8230;<p class="read-more"> <a class="" href="/la-france-presidera-le-partenariat-pour-un-gouvernement-ouvert-2"> <span class="screen-reader-text">La France présidera le Partenariat pour un gouvernement ouvert</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->Un an jour pour jour après la <a href="http://https://www.etalab.gouv.fr/laconferencedeparisintegralesurleblogdetalab" class="broken_link"><em>Conférence de Paris sur l&rsquo;open data et le gouvernement ouvert</em></a>, et l&rsquo;annonce de son adhésion à <a href="http://www.opengovpartnership.org/">l&rsquo;Open Government Partnership</a>, la France a été choisie par ses partenaires membres du Comité directeur, réunis à Mexico, pour présider l&rsquo;organisation de l&rsquo;automne 2016 à l&rsquo;automne 2017.<br />
+Selon les statuts de l&rsquo;organisation, la France sera donc également vice-présidente d&rsquo;octobre 2015 à octobre 2016, sous la présidence de l&rsquo;Afrique du Sud.<br />
+Cette responsabilité sera l&rsquo;occasion pour notre pays de nouer de nouveaux partenariats avec une communauté d&rsquo;innovateurs de nombreux gouvernements, et avec une société civile bouillonnante.<br />
+Elle aura aussi l&rsquo;occasion de partager son projet, qui sera prochainement traduit en <a href="https://www.etalab.gouv.fr/plan-daction-national">plan d&rsquo;action national</a>, et dans lequel on retrouvera ses fondamentaux : transparence, open data social (illustré par le portail <a href="http://www.etalab.gouv.fr/plan-daction-national">data.gouv.fr</a>), ouverture des modèles de décision (illustrée par le projet <a href="www.openfisca.fr">OpenFisca</a>), concertation, contribution, création de biens communs informationnels (illustrée par le projet de <a href="https://www.etalab.gouv.fr/inauguration-officielle-de-la-base-adresse-nationale">Base adresses</a> qui devrait prochainement être repris par plusieurs membres de l&rsquo;OGP).<br />
+Ce sera aussi l&rsquo;occasion de rapprocher nos partenaires européens et le monde francophone de ce mouvement international qui tente de forger de nouvelles formes de démocratie après la révolution numérique.<!--:--></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Inauguration officielle de la Base Adresse Nationale</title>
+		<link>/inauguration-officielle-de-la-base-adresse-nationale</link>
+					<comments>/inauguration-officielle-de-la-base-adresse-nationale#comments</comments>
+		
+		<dc:creator><![CDATA[Henri Verdier]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2015 09:12:48 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[Open Gov]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3117</guid>
+
+					<description><![CDATA[Ce mercredi 15 avril, au siège de la Fondation Mozilla, en présence de Thierry Mandon, secrétaire d&#8217;Etat à la modernisation de l&#8217;action publique, de Philippe Wahl, PDG de La Poste, de Daniel Bursaux, DG de l&#8217;IGN, de Christian Quest, Président d&#8217;OpenStreetMap France et de Henri Verdier, directeur d&#8217;Etalab, a été inaugurée la Base Adresse Nationale &#8230;<p class="read-more"> <a class="" href="/inauguration-officielle-de-la-base-adresse-nationale"> <span class="screen-reader-text"><!--:fr-->Inauguration officielle de la Base Adresse Nationale<!--:--></span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->Ce mercredi 15 avril, au siège de la Fondation Mozilla, en présence de Thierry Mandon, secrétaire d&rsquo;Etat à la modernisation de l&rsquo;action publique, de Philippe Wahl, PDG de La Poste, de Daniel Bursaux, DG de l&rsquo;IGN, de Christian Quest, Président d&rsquo;OpenStreetMap France et de Henri Verdier, directeur d&rsquo;Etalab, a été inaugurée la Base Adresse Nationale : <a href="http://adresse.data.gouv.fr/">http://adresse.data.gouv.fr/</a>. Riche de 25 millions d&rsquo;adresses, cette base a vocation à recenser rapidement l&rsquo;intégralité des adresses sur le territoire français et à gérer les 200 à 300.000 adresses créées chaque année.</p>
+<p>Fruit de cette collaboration inédite, qui va permettre d&rsquo;allier la contribution citoyenne à l&rsquo;effort de la puissance publique, État, collectivités, opérateurs publics et des entreprises, cette base propose en open data (sous conditions de partage à l&rsquo;identique) une ressource  essentielle pour de très nombreux services notamment les services d&rsquo;intervention d&rsquo;urgence et à de nombreuses activités économiques.</p>
+<p><a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/04/Adresse.jpg"><img fetchpriority="high" decoding="async" class=" size-medium wp-image-3119 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/04/Adresse-169x300.jpg" alt="Adresse" width="169" height="300" srcset="/wp-content/uploads/2015/04/Adresse-169x300.jpg 169w, /wp-content/uploads/2015/04/Adresse.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>La base est est diffusée sous un régime de double licence : soit une licence avec partage à l&rsquo;identique (pouvant être ou bien la licence dédiée développée par La Poste et l&rsquo;IGN, ou bien la licence ODbL via la diffusion faite par OpenStreetMap France) et une licence payante pour les clients traditionnels de l&rsquo;adresse qui ne souhaiteraient pas entrer dans la logique de contribution.</p>
+<p>Outre la possibilité de télécharger ces adresses, le site propose aussi des outils d&rsquo;aide à l&rsquo;utilisation des adresses (dont un nouveau géocodeur français extrêmement performant &#8211; également diffusé en open source -), ainsi que de premiers outils permettant d&rsquo;enrichir et d&rsquo;améliorer la base, dont un outil spécifique dédié aux communes pour gérer et partager les adresses postales.</p>
+<p>Avec ce nouvel accord, Etalab ouvre un nouveau chapitre de la stratégie Open data du gouvernement, correspondant à un axe fort du plan d&rsquo;action national pour un gouvernement ouvert en cours d&rsquo;achèvement : la création et la maintenance de grands biens communs collaboratifs au service du dynamisme économique, de l&rsquo;efficacité du service public et de l&rsquo;autonomie des citoyens.<!--:--></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/inauguration-officielle-de-la-base-adresse-nationale/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Inauguration officielle de la Base Adresse Nationale</title>
+		<link>/inauguration-officielle-de-la-base-adresse-nationale-2</link>
+					<comments>/inauguration-officielle-de-la-base-adresse-nationale-2#comments</comments>
+		
+		<dc:creator><![CDATA[Henri Verdier]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2015 09:12:48 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[Open Gov]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3117</guid>
+
+					<description><![CDATA[Ce mercredi 15 avril, au siège de la Fondation Mozilla, en présence de Thierry Mandon, secrétaire d&#8217;Etat à la modernisation de l&#8217;action publique, de Philippe Wahl, PDG de La Poste, de Daniel Bursaux, DG de l&#8217;IGN, de Christian Quest, Président d&#8217;OpenStreetMap France et de Henri Verdier, directeur d&#8217;Etalab, a été inaugurée la Base Adresse Nationale &#8230;<p class="read-more"> <a class="" href="/inauguration-officielle-de-la-base-adresse-nationale-2"> <span class="screen-reader-text">Inauguration officielle de la Base Adresse Nationale</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->Ce mercredi 15 avril, au siège de la Fondation Mozilla, en présence de Thierry Mandon, secrétaire d&rsquo;Etat à la modernisation de l&rsquo;action publique, de Philippe Wahl, PDG de La Poste, de Daniel Bursaux, DG de l&rsquo;IGN, de Christian Quest, Président d&rsquo;OpenStreetMap France et de Henri Verdier, directeur d&rsquo;Etalab, a été inaugurée la Base Adresse Nationale : <a href="http://adresse.data.gouv.fr/">http://adresse.data.gouv.fr/</a>. Riche de 25 millions d&rsquo;adresses, cette base a vocation à recenser rapidement l&rsquo;intégralité des adresses sur le territoire français et à gérer les 200 à 300.000 adresses créées chaque année.<br />
+Fruit de cette collaboration inédite, qui va permettre d&rsquo;allier la contribution citoyenne à l&rsquo;effort de la puissance publique, État, collectivités, opérateurs publics et des entreprises, cette base propose en open data (sous conditions de partage à l&rsquo;identique) une ressource  essentielle pour de très nombreux services notamment les services d&rsquo;intervention d&rsquo;urgence et à de nombreuses activités économiques.<br />
+<a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/04/Adresse.jpg"><img decoding="async" class=" size-medium wp-image-3119 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/04/Adresse-169x300.jpg" alt="Adresse" width="169" height="300" srcset="/wp-content/uploads/2015/04/Adresse-169x300.jpg 169w, /wp-content/uploads/2015/04/Adresse.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>La base est est diffusée sous un régime de double licence : soit une licence avec partage à l&rsquo;identique (pouvant être ou bien la licence dédiée développée par La Poste et l&rsquo;IGN, ou bien la licence ODbL via la diffusion faite par OpenStreetMap France) et une licence payante pour les clients traditionnels de l&rsquo;adresse qui ne souhaiteraient pas entrer dans la logique de contribution.<br />
+Outre la possibilité de télécharger ces adresses, le site propose aussi des outils d&rsquo;aide à l&rsquo;utilisation des adresses (dont un nouveau géocodeur français extrêmement performant &#8211; également diffusé en open source -), ainsi que de premiers outils permettant d&rsquo;enrichir et d&rsquo;améliorer la base, dont un outil spécifique dédié aux communes pour gérer et partager les adresses postales.<br />
+Avec ce nouvel accord, Etalab ouvre un nouveau chapitre de la stratégie Open data du gouvernement, correspondant à un axe fort du plan d&rsquo;action national pour un gouvernement ouvert en cours d&rsquo;achèvement : la création et la maintenance de grands biens communs collaboratifs au service du dynamisme économique, de l&rsquo;efficacité du service public et de l&rsquo;autonomie des citoyens.<!--:--></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/inauguration-officielle-de-la-base-adresse-nationale-2/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The first French collaborative National Address Database is now online, and freely accessible. </title>
+		<link>/the-first-french-collaborative-national-address-database-is-now-online-and-freely-accessible</link>
+		
+		<dc:creator><![CDATA[Henri Verdier]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2015 09:06:50 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3126</guid>
+
+					<description><![CDATA[On April 15th, Thierry Mandon, Secretary of State for State Reform and Simplification, inaugurated the launch of a collaborative and free French National Address Database (“Base Adresse Nationale” &#8211; BAN), a pioneer of its kind : http://adresse.data.gouv.fr/ The BAN associates each address listed on the French territory (25 million addresses) with its geographic coordinates. It does &#8230;<p class="read-more"> <a class="" href="/the-first-french-collaborative-national-address-database-is-now-online-and-freely-accessible"> <span class="screen-reader-text"><!--:fr-->The first French collaborative National Address Database is now online, and freely accessible. <!--:--></span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->On April 15th, Thierry Mandon, Secretary of State for State Reform and Simplification, inaugurated the launch of a collaborative and free French National Address Database (“Base Adresse Nationale” &#8211; BAN), a pioneer of its kind : http://adresse.data.gouv.fr/</p>
+<p>The BAN associates each address listed on the French territory (25 million addresses) with its geographic coordinates. It does not contain any nominative data. It was built from addresses databases of La Poste, the National Geographic and Forest Information Institute (IGN) and the Public Finances General Directorate (DGFIP). It was then enriched by data produced by governmental agencies, and will be fueled by citizen contributions.</p>
+<p>On <strong>adresse.data.gouv.fr,</strong> municipalities, enterprises and citizens can contribute and freely use this database on the principles of collaboration (share, improve and reuse a common good).</p>
+<p><a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/04/Adresse.jpg"><img decoding="async" class=" size-medium wp-image-3119 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/04/Adresse-169x300.jpg" alt="Adresse" width="169" height="300" srcset="/wp-content/uploads/2015/04/Adresse-169x300.jpg 169w, /wp-content/uploads/2015/04/Adresse.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>Three levels of services are offered to individuals, enterprises and local governments:</p>
+<ul>
+<li>Free download of address files;</li>
+<li>The first French geocoder comparable to web tools provided by internet large players;</li>
+<li>A Local Address Counter (Guichet Adresse Mairie) to support municipalities in creating, identifying and numbering the road network.</li>
+</ul>
+<p>Users who do not wish to share their data can access the BAN with conventional commercial licenses. Users who wish to access the vintage versions of IGN and La Poste, will be able to pay for them while enjoying confidentiality, legal certainty and certified data quality.</p>
+<p><strong>An open data BAN: what are the first uses?</strong><strong> </strong></p>
+<p>For municipalities, the BAN offers a « Local Address Counter » to assist them in their daily processes of managing addresses. This counter enables them to create new addresses, and to geotag, name and number them. The BAN will also simplify the paperwork for the municipal council to validate, as well as notifications intended to end-users and institutional partners.  The Local Address Counter hence facilitates the entire process of address management, from the identification of updates to the information of citizens.</p>
+<p>For the private sector, the BAN is a reliability and optimization tool of their mailing lists. It offers a guarantee of quality and allows addresses geolocation. For citizens, the BAN aims to propose a new solution to their addresses geolocation requirements on the address database authenticated by La Poste and the IGN.</p>
+<p><strong>Collaboration between public authorities and civil society. </strong></p>
+<p>BAN is the product of an innovative collaboration model between public authorities (Etalab a mission of the General Secretariat for the Modernization of Public Action -SGMAP-), public actors (the National Institute of Geographic Information and Forest -IGN and La Poste Group) and civil society (OpenStreetMap France non-profit association) to build an essential registry for the economy, society and public services. It aims to gradually extend to all address actors. These actors are contributing to modernizing government and local authorities, engaging them in open data policies, in the maintenance of a contributory common resource and in the co-production of an open source information system.<!--:--></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The first French collaborative National Address Database is now online, and freely accessible.</title>
+		<link>/the-first-french-collaborative-national-address-database-is-now-online-and-freely-accessible-2</link>
+		
+		<dc:creator><![CDATA[Henri Verdier]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2015 09:06:50 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3126</guid>
+
+					<description><![CDATA[On April 15th, Thierry Mandon, Secretary of State for State Reform and Simplification, inaugurated the launch of a collaborative and free French National Address Database (“Base Adresse Nationale” &#8211; BAN), a pioneer of its kind : http://adresse.data.gouv.fr/ The BAN associates each address listed on the French territory (25 million addresses) with its geographic coordinates. It does &#8230;<p class="read-more"> <a class="" href="/the-first-french-collaborative-national-address-database-is-now-online-and-freely-accessible-2"> <span class="screen-reader-text">The first French collaborative National Address Database is now online, and freely accessible.</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->On April 15th, Thierry Mandon, Secretary of State for State Reform and Simplification, inaugurated the launch of a collaborative and free French National Address Database (“Base Adresse Nationale” &#8211; BAN), a pioneer of its kind : http://adresse.data.gouv.fr/<br />
+The BAN associates each address listed on the French territory (25 million addresses) with its geographic coordinates. It does not contain any nominative data. It was built from addresses databases of La Poste, the National Geographic and Forest Information Institute (IGN) and the Public Finances General Directorate (DGFIP). It was then enriched by data produced by governmental agencies, and will be fueled by citizen contributions.<br />
+On <strong>adresse.data.gouv.fr,</strong> municipalities, enterprises and citizens can contribute and freely use this database on the principles of collaboration (share, improve and reuse a common good).<br />
+<a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/04/Adresse.jpg"><img loading="lazy" decoding="async" class=" size-medium wp-image-3119 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/04/Adresse-169x300.jpg" alt="Adresse" width="169" height="300" srcset="/wp-content/uploads/2015/04/Adresse-169x300.jpg 169w, /wp-content/uploads/2015/04/Adresse.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>Three levels of services are offered to individuals, enterprises and local governments:</p>
+<ul>
+<li>Free download of address files;</li>
+<li>The first French geocoder comparable to web tools provided by internet large players;</li>
+<li>A Local Address Counter (Guichet Adresse Mairie) to support municipalities in creating, identifying and numbering the road network.</li>
+</ul>
+<p>Users who do not wish to share their data can access the BAN with conventional commercial licenses. Users who wish to access the vintage versions of IGN and La Poste, will be able to pay for them while enjoying confidentiality, legal certainty and certified data quality.<br />
+<strong>An open data BAN: what are the first uses?</strong><strong> </strong><br />
+For municipalities, the BAN offers a « Local Address Counter » to assist them in their daily processes of managing addresses. This counter enables them to create new addresses, and to geotag, name and number them. The BAN will also simplify the paperwork for the municipal council to validate, as well as notifications intended to end-users and institutional partners.  The Local Address Counter hence facilitates the entire process of address management, from the identification of updates to the information of citizens.<br />
+For the private sector, the BAN is a reliability and optimization tool of their mailing lists. It offers a guarantee of quality and allows addresses geolocation. For citizens, the BAN aims to propose a new solution to their addresses geolocation requirements on the address database authenticated by La Poste and the IGN.<br />
+<strong>Collaboration between public authorities and civil society. </strong><br />
+BAN is the product of an innovative collaboration model between public authorities (Etalab a mission of the General Secretariat for the Modernization of Public Action -SGMAP-), public actors (the National Institute of Geographic Information and Forest -IGN and La Poste Group) and civil society (OpenStreetMap France non-profit association) to build an essential registry for the economy, society and public services. It aims to gradually extend to all address actors. These actors are contributing to modernizing government and local authorities, engaging them in open data policies, in the maintenance of a contributory common resource and in the co-production of an open source information system.<!--:--></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Avis portant sur la publication, la rectification et la réutilisation des informations portant sur les professionnels de santé</title>
+		<link>/avis-portant-sur-la-publication-la-rectification-et-la-reutilisation-des-informations-portant-sur-les-professionnels-de-sante</link>
+		
+		<dc:creator><![CDATA[Henri Verdier]]></dc:creator>
+		<pubDate>Thu, 02 Apr 2015 16:08:45 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[Santé]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10742</guid>
+
+					<description><![CDATA[Dans le cadre de la préparation de la loi sur la santé, La Direction de la recherche, de l’évaluation et des études statistiques (DREES) du Ministère des affaires sociales et de la santé a sollicité l’avis de l’AGD sur la question spécifique de la publication des informations portant sur les professionnels de santé publiées en &#8230;<p class="read-more"> <a class="" href="/avis-portant-sur-la-publication-la-rectification-et-la-reutilisation-des-informations-portant-sur-les-professionnels-de-sante"> <span class="screen-reader-text">Avis portant sur la publication, la rectification et la réutilisation des informations portant sur les professionnels de santé</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Dans le cadre de la préparation de la loi sur la santé, La 
+Direction de la recherche, de l’évaluation et des études statistiques 
+(DREES) du Ministère des affaires sociales et de la santé a sollicité 
+l’avis de l’AGD sur la question spécifique de la publication des 
+informations portant sur les professionnels de santé publiées en vertu 
+de l’article 76 de la loi n°2002-303 du 4 mars 2002, codifié à l’<a href="http://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=494F0AA4016F964602D1574C968BC6CF.tpdila10v_3?cidTexte=LEGITEXT000006073189&amp;idArticle=LEGIARTI000006741318&amp;dateTexte=20150521&amp;categorieLien=id#LEGIARTI000006741318">article L. 162-1-11 du code de la sécurité sociale</a>.
+ Il s’agissait en particulier d’examiner les conditions dans lesquelles 
+ces données pourraient être réutilisées, et, dans ce cas, les modalités 
+selon lesquelles les personnes pourraient exercer leur droit de 
+rectification.</p>
+
+
+
+<p>Ci-après l’avis de l’AGD, publié avec l’accord du Ministère des affaires sociales et de la santé.</p>
+
+
+
+<p>
+  <strong>AVIS A L&rsquo;ATTENTION DE M. LE DIRECTEUR DE LA RECHERCHE, DES ETUDES, DE L&rsquo;EVALUATION ET DES STATISTIQUES</strong>
+</p>
+
+
+
+<p>
+  <strong>Ministère des Affaires sociales, de la Santé et des Droits des femmes</strong>
+</p>
+
+
+
+<p><strong>Objet : 
+Réponses aux interrogations de la DRESS concernant l’opportunité de 
+s’appuyer sur la licence prévue à l’article 16 de la loi CADA pour 
+faciliter l’exercice du droit des professionnels de santé à rectifier 
+les données les concernant, dans le régime de réutilisation prévu par 
+l’article 47 du projet de loi relatif à la santé.</strong></p>
+
+
+
+<p>Vous avez sollicité l’avis de l’Administrateur général des données 
+sur la meilleure manière de mettre en oeuvre le droit des professionnels
+ de santé à la rectification des informations les concernant qui 
+seraient republiées conformément au nouveau cadre instauré par l’article
+ 47 du projet de loi relatif à la santé qui sera examiné en première 
+lecture par l’Assemblée nationale à partir de la fin du mois de mars.</p>
+
+
+
+<p>Ces interrogations concernent plus spécifiquement le projet d’article
+ L. 1461-2 du code de la santé publique, tel que reproduit dans votre 
+lettre du 19 février 2015.</p>
+
+
+
+<p>L’article 76 de la loi n°2002-303 du 4 mars 2002, codifié à l’<a href="http://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=494F0AA4016F964602D1574C968BC6CF.tpdila10v_3?cidTexte=LEGITEXT000006073189&amp;idArticle=LEGIARTI000006741318&amp;dateTexte=20150521&amp;categorieLien=id#LEGIARTI000006741318">article L. 162-1-11 du code de la sécurité sociale</a>,
+ avait instauré une mission générale d’information des assurés sociaux 
+visant à faciliter leur accès aux soins et à la protection sociale. 
+Cette mission avait été confiée à l’Assurance Maladie, qui a crée à 
+cette fin le site <a href="http://ameli-direct.ameli.fr/">http://ameli-direct.ameli.fr/</a>, lequel diffuse publiquement un ensemble de données relatives à l’activité des professionnels de santé.</p>
+
+
+
+<p>Comme vous l’avez noté, il n’existe pas dans le droit positif de 
+disposition législative ou réglementaire permettant de réutiliser ces 
+informations diffusées publiquement. C’est l’objet de la proposition 
+d’article L. 1461-2 en son alinéa 2, tel que reproduit dans votre 
+courrier.</p>
+
+
+
+<p>L’objectif de ce dispositif est de garantir un juste équilibre entre 
+la possibilité de réutiliser des données diffusées pour faciliter 
+l’information, l’accès aux soins et à la protection sociale des assurés 
+et le respect des droits des professionnels de santé. <strong>En cela, les lois relatives à la transparence de la vie publique constituent un précédent intéressant (voir annexe).</strong></p>
+
+
+
+<p>L’alinéa 2 du projet d’article L. 1461-2 du code de la santé publique
+ autoriserait la réutilisation de ces informations en la soumettant à la
+ loi n°78-753 du 17 juillet 1978 (ci-après “loi CADA”) et plus 
+spécifiquement au respect des articles 12 et 13 alinéa 2 de cette loi.</p>
+
+
+
+<p>-&gt; L’<a href="http://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=494F0AA4016F964602D1574C968BC6CF.tpdila10v_3?idArticle=LEGIARTI000006528243&amp;cidTexte=LEGITEXT000006068643&amp;dateTexte=20150521">article 12 de la loi CADA</a>
+ pose certaines conditions à la réutilisation des informations 
+publiques. Il impose notamment que les sources des informations et la 
+date de leur dernière mise à jour soient mentionnées.</p>
+
+
+
+<p>Si la disposition législative en cause suffit à imposer cette 
+obligation, l’adoption d’une licence pour prévoir les conditions et les 
+libertés de réutilisation, quoique non obligatoire est généralement 
+utile. Une telle licence d’utilisation peut être approuvée si elle 
+rappelle les obligations prévues par la loi.</p>
+
+
+
+<p><strong>À ce titre, dans le cas où la Caisse nationale d’assurance 
+maladie souhaiterait prévoir une licence pour les réutilisations, je 
+recommande l’utilisation de la Licence Ouverte.</strong></p>
+
+
+
+<p>-&gt; L’<a href="http://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=494F0AA4016F964602D1574C968BC6CF.tpdila10v_3?idArticle=LEGIARTI000020566920&amp;cidTexte=LEGITEXT000006068643&amp;dateTexte=20150521">article 13 al. 2</a> de la loi CADA rappelle quant à lui l’application de la <a href="http://www.legifrance.gouv.fr/affichTexte.do;jsessionid=494F0AA4016F964602D1574C968BC6CF.tpdila10v_3?cidTexte=JORFTEXT000000886460&amp;dateTexte=19780107&amp;categorieLien=cid#JORFTEXT000000886460">loi n°78-17 du 6 janvier 1978</a>
+ (ci-après “loi informatique et libertés”), qui a pour but principal 
+d’encadrer la collecte, le traitement et l’utilisation des données à 
+caractère personnel. Le renvoi ainsi opéré soumet les réutilisateurs des
+ données diffusées publiquement au respect des dispositions de la loi 
+informatique et libertés.</p>
+
+
+
+<p>Cette loi prévoit en son chapitre IV les formalités préalables à la 
+mise en uvre des traitements informatisés. Dans certains cas, visés en 
+particulier aux articles 2 al.2 et 22, les traitements ne sont pas 
+soumis à l’obligation de déclaration préalable. Cependant, dans la 
+grande majorité des situations, le réutilisateur devra effectuer une 
+déclaration de traitement auprès de la Commission Nationale de 
+l’Informatique et des Libertés.</p>
+
+
+
+<p>Le renvoi opéré par l’article 13 de la loi CADA à la loi informatique
+ et libertés a également pour effet de soumettre le réutilisateur au 
+respect des articles 39 et 40, qui ont pour objet de permettre aux 
+personnes physiques d’exercer leurs droits d’accès et de rectification 
+auprès du responsable du traitement.</p>
+
+
+
+<p>Ainsi, les réutilisateurs, pour respecter leurs obligations légales, 
+devront permettre aux professionnels de santé d’exercer leurs droits 
+d’accès et de rectification. <strong>Le recours à un contrat avec la 
+Caisse nationale d’assurance maladie est donc superflu, puisque le 
+respect de la loi informatique et liberté suffit à encadrer la 
+réutilisation.</strong></p>
+
+
+
+<p>Cependant, il convient de préciser qu’en termes d’efficacité, il 
+serait préférable d’encourager les professionnels de santé à exercer 
+directement leur droit de rectification auprès du producteur de la base 
+de données. En effet, cette rectification à la source a pour mérite de 
+permettre une diffusion des données rectifiées plus efficace.</p>
+
+
+
+<p>À ce titre, je recommande de prévoir dans une disposition 
+réglementaire d’application de la future loi santé que le droit de 
+rectification s’exerce auprès de la Caisse nationale d’assurance maladie
+ (sur le modèle de ce que prévoit, <em>mutatis mutandis</em>, l’arrêté 
+du 8 juillet 2014 relatif aux conditions de fonctionnement du site 
+internet de la Haute Autorité pour la Transparence de la vie publique).</p>
+
+
+
+<p>Les réutilisateurs étant tenus de respecter les dispositions de la 
+loi informatique et libertés, notamment le point 4 de l’article 6 qui 
+prévoit l’obligation de mise à jour des données, les rectifications sur 
+la base source seront répercutées sur l’ensemble des réutilisations.</p>
+
+
+
+<p><strong>Henri Verdier</strong></p>
+
+
+
+<p>Administrateur général des données</p>
+
+
+
+<p>
+  <strong>Annexe : Dispositions relatives à la transparence de la vie publique</strong>
+</p>
+
+
+
+<p>
+  Les lois du 11 octobre 2013 (loi organique n°2013-906 et loi ordinaire
+ n°2013-907) relatives à la transparence de la vie publique ont traité 
+de la délicate question de la réutilisation de données à caractère 
+personnel qui sont soumises à une obligation légale de diffusion 
+publique. Ce cadre législatif et réglementaire (décret n°2013-1212 du 23
+ décembre 2013 et arrêté du 8 juillet 2014) a en effet prévu de diffuser
+ publiquement et de rendre réutilisable, sur les fondements des articles
+ 10 à 13 de la loi CADA, les déclarations de situation patrimoniale et 
+d&rsquo;intérêts des membres du Gouvernement (et leurs modifications 
+substantielles), les déclarations d&rsquo;intérêts et d&rsquo;activités des membres 
+du Parlement (et leurs modifications substantielles) et les déclarations
+ d&rsquo;intérêts des représentants français au Parlement européen et des 
+titulaires de mandats électifs locaux (et leurs modifications 
+substantielles).
+</p>
+
+
+
+<p>
+  Le Conseil constitutionnel a, par deux décisions du 9 octobre 2013, 
+déclaré que ces dispositions législatives étaient conformes à la 
+Constitution. En effet, le Conseil constitutionnel a considéré qu&rsquo;elles 
+ne portaient pas une atteinte disproportionnée à la vie privée des 
+intéressés au regard des objectifs poursuivis, c&rsquo;est-à-dire la mise en 
+oeuvre des garanties de probité, d&rsquo;intégrité et de prévention et de 
+lutte contre des conflits d&rsquo;intérêts.
+</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Axel Haustant &#8211; Etalab</title>
+	<atom:link href="/author/axel/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 17 May 2016 08:18:08 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Axel Haustant &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[:fr]Lancement de la plateforme udata du Luxembourg [:]</title>
+		<link>/lancement-de-la-plateforme-udata-du-luxembourg</link>
+		
+		<dc:creator><![CDATA[Axel Haustant]]></dc:creator>
+		<pubDate>Tue, 17 May 2016 08:18:08 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[Un peu de technique]]></category>
+		<category><![CDATA[code source]]></category>
+		<category><![CDATA[Ecosystème]]></category>
+		<category><![CDATA[Hackathon]]></category>
+		<category><![CDATA[logiciel libre]]></category>
+		<category><![CDATA[technique]]></category>
+		<category><![CDATA[udata]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4708</guid>
+
+					<description><![CDATA[[:fr] A l&#8217;occasion de l&#8217;événement Game of Code, les 8, 9 et 10 avril derniers, Digital Lëtzebuerg en collaboration avec le Centre des Technologies de l’Information de l’Etat Luxembourgeois et l&#8217;administration du Cadastre et de la topographie lançait en version bêta son portail de données ouvertes data.public.lu. Développé à partir de udata, le moteur de la &#8230;<p class="read-more"> <a class="" href="/lancement-de-la-plateforme-udata-du-luxembourg"> <span class="screen-reader-text">[:fr]Lancement de la plateforme udata du Luxembourg [:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]
+<p style="text-align: justify;">A l&rsquo;occasion de l&rsquo;événement <a href="http://www.gameofcode.eu/">Game of Code</a>, les 8, 9 et 10 avril derniers, <a href="http://www.digital-luxembourg.public.lu/fr/index.html" class="broken_link"><strong>Digital Lëtzebuerg</strong></a> en collaboration avec le <strong><a href="http://www.fonction-publique.public.lu/fr/structure-organisationnelle/ctie/index.html">Centre des Technologies de l’Information de l’Etat Luxembourgeois</a> </strong>et<a href="http://www.act.public.lu/fr/index.html"><strong> l&rsquo;administration du Cadastre et de la topographie</strong></a> lançait en version bêta son portail de données ouvertes <a href="https://data.public.lu/fr/">data.public.lu</a>. Développé à partir de <a href="https://github.com/etalab/udata">udata,</a> le moteur de la plateforme <a href="http://data.gouv.fr/">data.gouv.fr</a>, ce site est le fruit d&rsquo;une collaboration initiée il y a quelques mois entre la France et le Luxembourg.</p>
+<p style="text-align: justify;"><span id="more-4708"></span></p>
+<p style="text-align: justify;"><strong>Un lancement marqué par l&rsquo;importance des réutilisations open data<br />
+</strong></p>
+<p style="text-align: justify;"><img fetchpriority="high" decoding="async" class="alignleft size-medium wp-image-4716" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/Game-of-code-Luxembourg-2016-300x297.jpg" alt="Game-of-code-Luxembourg-2016" width="300" height="297" srcset="/wp-content/uploads/2016/05/Game-of-code-Luxembourg-2016-300x297.jpg 300w, /wp-content/uploads/2016/05/Game-of-code-Luxembourg-2016-150x150.jpg 150w, /wp-content/uploads/2016/05/Game-of-code-Luxembourg-2016-768x761.jpg 768w, /wp-content/uploads/2016/05/Game-of-code-Luxembourg-2016-1024x1014.jpg 1024w, /wp-content/uploads/2016/05/Game-of-code-Luxembourg-2016-80x80.jpg 80w, /wp-content/uploads/2016/05/Game-of-code-Luxembourg-2016-118x118.jpg 118w, /wp-content/uploads/2016/05/Game-of-code-Luxembourg-2016.jpg 1052w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p style="text-align: justify;">Deux challenges étaient proposés lors de <a href="http://www.gameofcode.eu/">Game of Code</a>, l&rsquo;un par des acteurs privés, l&rsquo;autre par <strong><a href="http://www.digital-luxembourg.public.lu/fr/index.html" class="broken_link">Digital Lëtzebuerg</a>, </strong>intitulé <strong>Open Data Challenge : Smart Mobility. </strong>Pour développer leurs projets les participants avaient à disposition les premiers jeux de données du portail Open Data du Luxembourg. Y sont recensés de nombreuses <a href="https://data.public.lu/en/topics/transports/">données de transport</a> complétées par d&rsquo;autres sur <a href="https://data.public.lu/en/datasets/etat-de-la-population-population-structure/">la population</a>, la <a href="https://data.public.lu/en/datasets/monthly-meteorological-parameters-luxembourg-findel-airport-wmo-id-06590/">météo</a> ou le <a href="https://data.public.lu/en/datasets/budget-2016/">budget</a> du duché. Plus d&rsquo;une centaine de développeurs étaient inscrits, souvent dans des équipes déjà constituées, pour proposer les meilleures réutilisations.</p>
+<p style="text-align: justify;">Après une présentation des projets le vendredi soir, les participants ont codé jusqu&rsquo;au samedi soir et l&rsquo;annonce des résultats s&rsquo;est fait dans la journée du dimanche. Motivées, les équipes ont rapidement développé des applications <a href="https://data.public.lu/fr/organizations/game-of-code-hackathon/#reuses">disponibles sur le site</a>.</p>
+<p style="text-align: justify;">Ce lancement du portail, centré sur les réutilisations de données, correspond à une vision de l&rsquo;open data comme créateur d&rsquo;impact. L&rsquo;objectif porté par le Luxembourg est de permettre à la société civile (citoyens et entreprises) de développer des services qui créent de la valeur sociale, économique, scientifique ou démocratique avec la donnée ouverte. Les métriques clés de <a href="https://data.public.lu/fr/">data.public.lu</a> sont ainsi le nombre d&rsquo;utilisateurs et de réutilisations. Avec ce lancement, cette vision partagée depuis plusieurs années par Etalab se propage, à mesure que l&rsquo;ouverture des données publiques progresse à travers le monde.</p>
+<p style="text-align: justify;"><strong>L&rsquo;aboutissement d&rsquo;une coopération technique entre la France et le Luxembourg</strong></p>
+<p style="text-align: justify;">Animés par cette vision commune, la France et le Luxembourg ont entamé depuis mai 2015 une collaboration autour de <a href="https://github.com/etalab/udata">udata</a>. <a href="https://github.com/etalab/udata">Udata</a> est le moteur de la plateforme ouverte des données <a href="http://data.gouv.fr/">data.gouv.fr</a>, développé depuis 2013 par l&rsquo;équipe d&rsquo;Etalab, disponible de façon ouverte sur <a href="https://github.com/etalab/udata">Github</a>.</p>
+<p style="text-align: justify;">Lors des derniers mois, les équipes françaises ont accompagné les développeurs luxembourgeois dans la prise en main du code. Le regard extérieur de ces derniers a aidé Etalab à améliorer <a href="https://udata.readthedocs.io/en/latest/">la documentation</a> du code. Aujourd&rsquo;hui, des explications détaillées sont fournies pour ceux qui souhaitent tester udata, le personnaliser pour leur propre pays ou encore y apporter des améliorations.</p>
+<p style="text-align: justify;">L&rsquo;agrandissement de la communauté des contributeurs à udata et la collaboration via le <a href="https://gitter.im/etalab/udata">service de discussion et d&rsquo;entraide</a> permettent de fiabiliser et d&rsquo;améliorer son code. Chaque équipe pays travaille sur son projet personnalisée pour son pays et localisé, tout en partageant les fonctions essentielles du cœur de l&rsquo;application. Ainsi, en marge du hackathon de début avril, une importante contribution luxembourgeoise au code, la refonte du parcours d’inscription au site, a été reprise par data.gouv.fr.</p>
+<p style="text-align: justify;">D&rsquo;autres pays se sont montrés intéressés par cette initiative et envisagent maintenant l&rsquo;adoption de <a href="https://github.com/etalab/udata">udata</a> pour leur portail. Ces échanges concrets permettent aussi d&rsquo;identifier les meilleurs pratiques de chaque pays. Par exemple, l&rsquo;expérience du Luxembourg dans le développement de site pour les administrations et l&rsquo;organisation dynamique de son administration, découverte lors de la participation d&rsquo;Etalab au hackathon, donnent des pistes de réflexion intéressantes.</p>
+<figure id="attachment_4758" aria-describedby="caption-attachment-4758" style="width: 1778px" class="wp-caption alignleft"><img decoding="async" class="wp-image-4758 size-full" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/screenshot-data.public.lu-2016-05-11-16-45-44.png" alt="screenshot-data.public.lu 2016-05-11 16-45-44" width="1778" height="2238" srcset="/wp-content/uploads/2016/05/screenshot-data.public.lu-2016-05-11-16-45-44.png 1778w, /wp-content/uploads/2016/05/screenshot-data.public.lu-2016-05-11-16-45-44-238x300.png 238w, /wp-content/uploads/2016/05/screenshot-data.public.lu-2016-05-11-16-45-44-768x967.png 768w, /wp-content/uploads/2016/05/screenshot-data.public.lu-2016-05-11-16-45-44-814x1024.png 814w" sizes="(max-width: 1778px) 100vw, 1778px" /><figcaption id="caption-attachment-4758" class="wp-caption-text">La plateforme <a href="https://data.public.lu/en/">data.public.lu</a></figcaption></figure>[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

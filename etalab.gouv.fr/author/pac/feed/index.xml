@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Paul-Antoine Chevalier &#8211; Etalab</title>
+	<atom:link href="/author/pac/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Thu, 25 Aug 2022 12:54:11 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Paul-Antoine Chevalier &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>L&#8217;année 2019 pour Etalab, une rétrospective</title>
+		<link>/lannee-2019-pour-etalab-une-retrospective</link>
+		
+		<dc:creator><![CDATA[Paul-Antoine Chevalier]]></dc:creator>
+		<pubDate>Fri, 31 Jan 2020 09:52:44 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[accompagnement]]></category>
+		<category><![CDATA[datascience]]></category>
+		<category><![CDATA[Etalab]]></category>
+		<category><![CDATA[innovation]]></category>
+		<category><![CDATA[open data]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=12485</guid>
+
+					<description><![CDATA[Pour l'équipe Etalab, l'année 2019 a été riche ! Nous avons publié schema.data.gouv.fr et le site code.etalab.gouv.fr, lancé le projet d'intelligence artificielle PIAF, accompagné une promotion d'entrepreneurs d'intérêt général et bien d'autres choses encore. Voici une rétrospective de l'année 2019, en faits et en chiffres, ainsi que les perspectives qui s'ouvrent pour l'année 2020.]]></description>
+										<content:encoded><![CDATA[<p>Pour l&rsquo;équipe Etalab, l&rsquo;année 2019 a été riche ! Nous avons publié schema.data.gouv.fr et le site code.etalab.gouv.fr, lancé le projet d&rsquo;intelligence artificielle PIAF, accompagné une promotion d&rsquo;entrepreneurs d&rsquo;intérêt général et bien d&rsquo;autres choses encore. Voici une rétrospective de l&rsquo;année 2019, en faits et en chiffres, ainsi que les perspectives qui s&rsquo;ouvrent pour l&rsquo;année 2020.</p>
+
+
+<h2 class="has-very-dark-gray-color has-text-color wp-block-heading">1. Ouverture de données</h2>
+
+
+
+<h5 class="wp-block-heading">Des ouvertures de données en continu</h5>
+
+
+
+<p><strong>De nouvelles données ont été ouvertes ou mises à jour en 2019</strong>. Elles portent sur des sujets aussi divers que : </p>
+
+
+
+<ul><li>l&rsquo;environnement (<a href="https://www.data.gouv.fr/fr/posts/suivi-des-sorties-aout-2019-1/">qualité de l&rsquo;air</a>, <a href="https://www.data.gouv.fr/fr/posts/suivi-des-sorties-septembre-2019/">achats de pesticides par code postal</a>, <a href="https://www.data.gouv.fr/fr/posts/suivi-des-sorties-novembre-2019/">rénovation énergétique</a>&#8230;) ;</li><li>les transports (<a href="https://transport.data.gouv.fr/">189 AOM ont publié leurs données sur transport.data.gouv.fr</a> couvrant 78% de la population, les <a href="https://www.data.gouv.fr/fr/posts/suivi-des-sorties-novembre-2019/">horaires des TGV, le réseau routier</a>&#8230;) ;</li><li>les <a href="https://www.data.gouv.fr/fr/posts/suivi-des-sorties-mai-2019/">élections (</a><a href="https://www.data.gouv.fr/fr/datasets/repertoire-national-des-elus-1/">répertoire national des élus</a><a href="https://www.data.gouv.fr/fr/posts/suivi-des-sorties-mai-2019/">, résultats et bureaux de vote&#8230;) ;</a></li><li><a href="https://www.data.gouv.fr/fr/posts/suivi-des-sorties-mai-2019/">les finances publiques (données des finances publiques locales de 2019) ;</a></li><li><a href="https://www.data.gouv.fr/fr/posts/suivi-des-sorties-mai-2019/">l&rsquo;enseignement supérieur (vœux</a><a href="https://www.data.gouv.fr/fr/datasets/parcoursup-voeux-de-poursuite-detudes-et-de-reorientation-dans-lenseignement-superieur-et-reponses-des-etablissements/"> réalisés sur Parcoursup)</a><a href="https://www.data.gouv.fr/fr/posts/suivi-des-sorties-octobre-2019/"> ; </a></li><li><a href="https://www.data.gouv.fr/fr/posts/suivi-des-sorties-octobre-2019/">l&rsquo;immigration en France</a>&#8230;</li></ul>
+
+
+
+<p>Vous voulez en savoir plus sur les données publiées ? Depuis avril 2019, nous rédigeons <strong>chaque mois un article</strong> pour mettre en avant les jeux de données et les réutilisations publiées sur data.gouv.fr : <a href="https://www.data.gouv.fr/fr/posts/">https://www.data.gouv.fr/fr/posts/</a> </p>
+
+
+
+<h5 class="wp-block-heading">Une ouverture emblématique : les demandes de valeurs foncières</h5>
+
+
+
+<p class="has-text-align-left">En avril, Etalab a participé à la publication des<strong> données des <a href="https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/">demandes de valeurs foncières</a></strong><a href="https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/"> de ces cinq dernières années</a>. L&rsquo;ouverture de ces données de la direction générale des finances publiques a suscité un grand intérêt. Un des signes les plus parlants de cet intérêt : le public s&rsquo;est approprié les données pour en proposer des réutilisations variées.</p>
+
+
+
+<p class="has-text-align-left">De notre côté, nous avons développé un outil de visualisation pour faciliter l&rsquo;exploration de ces données par des publics moins techniques : <strong><a href="https://app.dvf.etalab.gouv.fr/">https://app.dvf.etalab.gouv.fr/</a></strong>. Visiblement utile, le site a été visité <strong>5,6 millions de fois sur l&rsquo;année</strong>, dont 1,5 million les 3 premières semaines.</p>
+
+
+
+<figure class="wp-block-gallery columns-1 is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img fetchpriority="high" decoding="async" width="1024" height="728" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/07/app-dvf-etalab-1024x728.png" alt="" data-id="11464" data-full-url="https://www.etalab.gouv.fr/wp-content/uploads/2019/07/app-dvf-etalab.png" data-link="https://www.etalab.gouv.fr/app-dvf-etalab" class="wp-image-11464" srcset="/wp-content/uploads/2019/07/app-dvf-etalab-1024x728.png 1024w, /wp-content/uploads/2019/07/app-dvf-etalab-300x213.png 300w, /wp-content/uploads/2019/07/app-dvf-etalab-768x546.png 768w, /wp-content/uploads/2019/07/app-dvf-etalab.png 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul><figcaption class="blocks-gallery-caption"> <em>Capture d&rsquo;écran de l&rsquo;application développée par Etalab pour explorer les données de demandes de valeurs foncières</em><br><em> </em> <br></figcaption></figure>
+
+
+
+<h5 class="wp-block-heading">Des actions pour faciliter l&rsquo;exploitation des données</h5>
+
+
+
+<ul><li><strong>La <a href="https://adresse.data.gouv.fr/">base adresse nationale </a>est désormais diffusée sous licence ouverte ! </strong>La base adresse nationale est une des 9 bases du service public de la donnée. Grâce au travail effectué en 2019 et conformément à la <a href="https://www.ccomptes.fr/sites/default/files/2019-03/20190311-refere-S2018-3287-valorisation-donnees-IGN-Meteo-France-Cerema-rep-PM.pdf">décision du Premier ministre</a>, elle est passée sous licence ouverte au 1er janvier 2020. Une belle manière de commencer l&rsquo;année !</li><li><strong>Un nouvel outil permet de fouiller les données et d&rsquo;explorer automatiquement les CSV : CSVdetective</strong> . Cet outil détecte automatiquement les identifiants présents dans les fichiers CSV de data.gouv.fr : les codes INSEE, les code SIRET ou les codes SIREN. N&rsquo;hésitez pas à tester et à améliorer ce service, pour l&rsquo;instant déployé à titre expérimental : <a href="https://csvdetective.etalab.studio/">https://csvdetective.etalab.studio/</a> </li></ul>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<h5 class="wp-block-heading">+58% d&rsquo;audience sur data.gouv.fr</h5>
+
+
+
+<p>La plateforme <a href="https://www.data.gouv.fr/fr/">data.gouv.fr </a>a enregistré 5,8 millions de visites, soit une augmentation de 58% par rapport à 2018 (3,6 millions en 2018, + 40% par rapport à 2017 avec 2,7 millions de visites). Cette dynamique se reflète aussi dans le contenu : en 2019, 6 300 nouveaux jeux de données, 350 nouvelles réutilisations et plus de 2000 discussions ont été publiées sur la plateforme.</p>
+</div></div>
+
+
+
+<h5 class="wp-block-heading">12 schémas de données référencés</h5>
+
+
+
+<p>Pour encourager les producteurs de données à respecter des <strong>schémas de données</strong>, nous avons lancé en juin dernier <a href="https://schema.data.gouv.fr/">schema.data.gouv.fr.</a> A date, la plateforme référence 12 schémas de données et doit servir à faciliter la réutilisation des données publiées.</p>
+
+
+
+<h5 class="wp-block-heading">La France toujours dans le trio de tête des classements open data </h5>
+
+
+
+<p>En 2019, la France a maintenu ou amélioré <strong>sa position de leader mondial en matière d&rsquo;open data</strong>. Nous y voyons le résultat du travail que nous faisons au quotidien. La France est <a href="https://www.oecd-ilibrary.org/governance/government-at-a-glance-2019_8ccf5c38-en">2e au classement OURIndex 2019 de l’OCDE</a> et 3e au <a href="https://www.europeandataportal.eu/sites/default/files/open_data_maturity_report_2019.pdf">classement Open Data Maturity de l’Union Européenne</a>. Par ailleurs, l&rsquo;open data contribue à <a href="https://www.etalab.gouv.fr/rapport-europeen-desi-2019-la-france-remonte-dans-le-classement">améliorer la position française dans le classement DESI </a><a href="https://ec.europa.eu/information_society/newsroom/image/document/2018-20/fr-desi_2018-country-profile-lang_4AA6ADFA-AFD7-FBED-E2CC5C0CC899C7DD_52349.pdf">(Digital Economy &amp; Society Index)</a> <a href="https://www.etalab.gouv.fr/rapport-europeen-desi-2019-la-france-remonte-dans-le-classement">2019 de l&rsquo;Union Européenne (3e sur l&rsquo;open data vs 15e au global). </a></p>
+
+
+
+<h2 class="has-very-dark-gray-color has-text-color wp-block-heading">2. Partage et circulation de la donnée entre administrations</h2>
+
+
+
+<h5 class="wp-block-heading">Structuration d&rsquo;une offre de service d&rsquo;API pour les administrations</h5>
+
+
+
+<p>Pour faciliter la circulation de l&rsquo;information entre les administrations et permettre la mise en place du principe du « Dites-le-nous une fois », nous avons construit <a href="https://www.numerique.gouv.fr/produits-services/guichet-dites-le-nous-une-fois/">une offre de service à destination des administrations</a>. L&rsquo;offre de service repose aujourd&rsquo;hui sur 4 produits : </p>
+
+
+
+<ul><li><a href="https://api.gouv.fr/">api.gouv.fr</a> : vitrine de référencement des API de l’État ;</li><li><a href="https://signup.api.gouv.fr/" class="broken_link">Signup</a> : l&rsquo;outil qui permet de donner accès aux administrations aux informations qu&rsquo;elles ont le droit de connaître ;</li><li><a href="https://api.gouv.fr/api/api-entreprise.html">API Entreprise</a> : la plateforme d&rsquo;échange de données sur les entreprises ;</li><li><a href="https://particulier.api.gouv.fr/">API Particulier</a> : la plateforme d&rsquo;échange de données entre administrations sur les particuliers. </li></ul>
+
+
+
+<p>L&rsquo;API Entreprise permet de simplifier les démarches administratives pour les entreprises en facilitant la transmission d&rsquo;informations directement entre administrations. En 2019, nous avons intégré quatre nouvelles API à la plateforme : </p>
+
+
+
+<ul><li>L&rsquo;API de l&rsquo;ADEME permettant d&rsquo;identifier les entreprises « Reconnues garant de l&rsquo;environnement » (RGE) ;</li><li>L&rsquo;API de l&rsquo;INPI sur les Actes et les bilans des entreprises ;</li><li>L&rsquo;API de l&rsquo;INSEE donnant accès à la liste des entreprises non diffusées en open data du référentiel SIRENE ;</li><li>L&rsquo;API de l&rsquo;Agence bio donnant accès aux certificat bio des entreprises.</li></ul>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<h5 class="wp-block-heading">29 millions d&rsquo;informations non redemandées aux entreprises</h5>
+
+
+
+<p>Sur l&rsquo;année 2019, ce sont 29 millions d&rsquo;informations qui ont été transmises via la plateforme API Entreprise et n&rsquo;ont donc pas été demandées une nouvelle fois aux entreprises ! </p>
+</div></div>
+
+
+
+<h5 class="wp-block-heading">88 000 envoi de justificatifs papiers évités pour les particuliers</h5>
+
+
+
+<p>Comme l&rsquo;API Entreprise, l&rsquo;API Particulier permet à des administrations de se transmettre des informations pour éviter de les demander à nouveau aux particuliers. Sur les 30 derniers jours, ce sont près de 88 000 justificatifs que l&rsquo;administration française n&rsquo;a pas redemandés à des particuliers grâce à l&rsquo;API !</p>
+
+
+
+<h5 class="wp-block-heading">477 demandes d’accès à des données validées via Signup</h5>
+
+
+
+<p>L&rsquo;outil Signup permet de gérer les demandes d&rsquo;accès des administrations aux données des administrations. En 2019, l&rsquo;outil a été largement retravaillé et a permis de valider 477 demandes d’accès à des données par des administrations. Nous lui prédisons un bel avenir.</p>
+
+
+
+<h2 class="has-very-dark-gray-color has-text-color wp-block-heading">3. Exploitation des données : data science et IA</h2>
+
+
+
+<h5 class="wp-block-heading">Structuration du Lab IA</h5>
+
+
+
+<p>En octobre 2018, le comité interministériel de la transformation publique (CITP) annonçait la création d&rsquo;un « Lab IA ». En 2019, celui-ci a pris forme et s&rsquo;est structuré au sein d&rsquo;Etalab. <a href="https://www.etalab.gouv.fr/datasciences-et-intelligence-artificielle">Le Lab IA servira à </a>:</p>
+
+
+
+<ol><li><strong>réaliser des projets d’IA</strong>&nbsp;dans les administrations et appuyer leur&nbsp;<strong>mise en œuvre technique</strong> ;</li><li><strong>acculturer</strong>&nbsp;les agents publics à l’IA, les mettre en&nbsp;<strong>réseau</strong>&nbsp;et animer une communauté,&nbsp;<strong>partager</strong>&nbsp;les outils et pratiques ;</li><li>anticiper et accompagner&nbsp;<strong>les effets</strong>&nbsp;sur les métiers et la relation aux usagers ;</li><li>animer la réflexion sur les&nbsp;<strong>enjeux éthiques</strong>&nbsp;associés à l’IA dans la sphère publique ;</li><li>bénéficier des apports de la&nbsp;<strong>recherche,&nbsp;</strong>en accompagnant des projets de recherche et en développant un réseau de chercheurs publics affiliés.</li></ol>
+
+
+
+<h5 class="wp-block-heading">21 administrations accompagnées pour expérimenter l&rsquo;intelligence artificielle</h5>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="562" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/01/ami-ia-sip.png" alt="Présentation du projet de l'Agence française pour la biodiversité lors de la semaine de l'innovation publique au Lieu de la transformation publique le 28 novembre 2019." class="wp-image-12779" srcset="/wp-content/uploads/2020/01/ami-ia-sip.png 1000w, /wp-content/uploads/2020/01/ami-ia-sip-300x169.png 300w, /wp-content/uploads/2020/01/ami-ia-sip-768x432.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption><em>Un lauréat du premier appel à manifestation d&rsquo;intérêt IA restitue le travail accompli.</em><br><br></figcaption></figure>
+
+
+
+<p>Avec la direction interministérielle de la transformation publique (DITP) nous avons accompagné 6 administrations pour expérimenter l&rsquo;intelligence artificielle suite au premier appel à manifestation d&rsquo;intérêt IA. Résultat ? 6 prototypes développés et testés par les agents : </p>
+
+
+
+<ul><li>un agent conversationnel pour répondre aux questions des usagers sur le chèque emploi associatif (ACOSS) ;</li><li>un outil pour mieux orienter les contrôles de la police de l&rsquo;eau (Agence française pour la biodiversité) ;</li><li>un outil d&rsquo;analyse des lettres de suite de l&rsquo;autorité de sûreté nucléaire ;</li><li>un outil d&rsquo;extraction d&rsquo;information dans les comptes rendu médicaux (CHU de Toulouse) ;</li><li>un outil de détection automatique des irrégularités d&rsquo;occupation des sols pour la direction départementale des territoires de l&rsquo;Hérault ;</li><li>un outil pour mieux orienter les contrôles sanitaires dans les restaurant pour la direction générale de l&rsquo;alimentation.</li></ul>
+
+
+
+<p>En 2019, nous avons lancé un second appel à manifestation d&rsquo;intérêt IA (AMI IA 2) et sélectionné <a href="https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes">15 nouveaux projets à accompagner</a> en 2020. Un passage à l&rsquo;échelle qui alimentera les réflexions et perspectives du Lab IA. </p>
+
+
+
+<h5 class="wp-block-heading">Un projet Pour des IA francophones (PIAF) </h5>
+
+
+
+<p>Pour encourager le développement de l&rsquo;intelligence artificielle en français, nous avons lancé le <a href="https://piaf.etalab.studio/">projet PIAF</a>. Il vise à créer un jeu de données francophones pour entraîner et évaluer des algorithmes de questions-réponses en français. </p>
+
+
+
+<p>A ce jour, nous avons plus de 4 000 questions-réponses annotées et une communauté de 200 contributeurs inscrits sur la <a href="https://piaf.etalab.studio/">plateforme d&rsquo;annotation.</a> Rejoignez la communauté pour « éditer PIAF » en annotant des questions-réponses !</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="992" height="462" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/10/IMG_8236-1-e1579537399285.jpg" alt="Des femmes et des hommes sont assis en cercle dans un espace lumineux et haut de plafond. Ils écoutent parler quelqu'un." class="wp-image-12272" srcset="/wp-content/uploads/2019/10/IMG_8236-1-e1579537399285.jpg 992w, /wp-content/uploads/2019/10/IMG_8236-1-e1579537399285-300x140.jpg 300w, /wp-content/uploads/2019/10/IMG_8236-1-e1579537399285-768x358.jpg 768w" sizes="(max-width: 992px) 100vw, 992px" /><figcaption>   <em>Des contributrices et contributeurs participent à l&rsquo;annotation d&rsquo;un jeu de données francophones</em>.<br><br>  </figcaption></figure>
+
+
+
+<h2 class="has-very-dark-gray-color has-text-color wp-block-heading">4. Accompagnement de projets d&rsquo;innovation publique : Entrepreneurs d&rsquo;Intérêt Général (EIG)</h2>
+
+
+
+<p>Pour le <a href="https://entrepreneur-interet-general.etalab.gouv.fr/">programme EIG</a>, l’année 2019 a été celle de la consolidation. Elle s’est concentrée sur trois objectifs : accompagner les administrations dans la réalisation de projets d&rsquo;innovation publique, inspirer des initiatives similaires et mesurer son impact. Objectifs atteints !</p>
+
+
+
+<h5 class="wp-block-heading">15 défis Entrepreneurs d&rsquo;Intérêt Général&#8230; et 17 défis Designers d&rsquo;Intérêt Général accompagnés</h5>
+
+
+
+<p>En 2019, l&rsquo;équipe EIG a accompagné les 15 défis de la troisième promotion du programme. S&rsquo;y sont ajoutés les 17 défis du programme Designers d&rsquo;Intérêt Général (DIG) lancé en juin. Au total, le programme a donc recruté 52 entrepreneurs et designers d&rsquo;intérêt général, et organisé 15 sessions d&rsquo;accompagnement, deux séminaires et un bootcamp. <a href="https://www.etalab.gouv.fr/quels-resultats-pour-la-promotion-3-du-programme-entrepreneurs-dinteret-general">Les réalisations sont nombreuses et en open source pour la plupart : n&rsquo;hésitez pas à les explorer et à y contribuer. </a></p>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<h5 class="wp-block-heading">Un budget pérenne pour le programme</h5>
+
+
+
+<p>Les trois premières promotion ont été réalisées grâce au soutien financier du programme d&rsquo;investissements d&rsquo;avenir (PIA). En 2020, le programme a franchi un cap puisque son budget a été pérennisé. Il a été inscrit au projet de loi de finances au sein du <a href="https://www.performance-publique.budget.gouv.fr/sites/performance_publique/files/farandole/ressources/2020/pap/html/DBGPGMPRESSTRATPGM352.htm" class="broken_link">programme 352, dans la mission “Action et transformation publiques”, à hauteur d’1,5&nbsp;million d’euros.</a></p>
+</div></div>
+
+
+
+<h5 class="wp-block-heading">Une documentation en ligne et 19 articles de blog pour diffuser la méthode EIG</h5>
+
+
+
+<p>Pour inspirer et permettre à d&rsquo;autres de reprendre les méthodes développées dans le cadre du programme EIG, l&rsquo;équipe a réalisé un <a href="https://doc.eig-forever.org/">site de documentation sur l&rsquo;accompagnement dispensé. </a>Elle a également rédigé <a href="https://entrepreneur-interet-general.etalab.gouv.fr/blog/">19 articles de blog</a> pour présenter les réalisations et les enseignements du programme EIG. </p>
+
+
+
+<p>Parmi les réalisations du programme, on compte <a href="https://github.com/entrepreneur-interet-general/bulletins">Bulletins</a>. Cet outil de rétrospective hebdomadaire sert à accompagner des équipes réparties dans différentes administrations. Il est disponible en open source ; n&rsquo;hésitez pas à vous en servir !</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="519" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/01/restitution-eig-groupe-1024x519.jpg" alt="Un groupe d'un soixantaine de personnes se tiennent sur une estrade et regardent la caméra." class="wp-image-12525" srcset="/wp-content/uploads/2020/01/restitution-eig-groupe-1024x519.jpg 1024w, /wp-content/uploads/2020/01/restitution-eig-groupe-300x152.jpg 300w, /wp-content/uploads/2020/01/restitution-eig-groupe-768x389.jpg 768w, /wp-content/uploads/2020/01/restitution-eig-groupe-1536x779.jpg 1536w, /wp-content/uploads/2020/01/restitution-eig-groupe.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>La promotion EIG 3 au complet : entrepreneur(e)s d&rsquo;intérêt général, agents publics et équipe de coordination</em><br><br></figcaption></figure>
+
+
+
+<h2 class="has-very-dark-gray-color has-text-color wp-block-heading">5. Explicabilité et redevabilité des algorithmes</h2>
+
+
+
+<p>Dans un contexte marqué à la fois par l’introduction de nouvelles obligations légales et par un recours croissant aux algorithmes par la puissance publique, il s’agit pour Etalab de promouvoir un usage responsable​ des algorithmes par les administrations, à travers plusieurs moyens d’actions.</p>
+
+
+
+<h5 class="wp-block-heading">Un guide des algorithmes publics </h5>
+
+
+
+<p>Pour accompagner les administrations dans la mise en œuvre de leurs obligations légales en matière de transparence des algorithmes, Etalab a publié un guide pédagogique à destination des administrations : <a href="https://guides.etalab.gouv.fr/algorithmes/guide/">https://guides.etalab.gouv.fr/algorithmes/guide</a>. </p>
+
+
+
+<h5 class="wp-block-heading">Un document de travail pour expliquer la démarche d&rsquo;Etalab sur la transparence des algorithmes</h5>
+
+
+
+<p>En juin dernier, Etalab a présenté à la conférence RightsCon un document de travail intitulé « <a rel="noreferrer noopener" href="https://github.com/etalab/algorithmes-publics/blob/master/20190611_WorkingPaper_PSAAccountability_Etalab.pdf" target="_blank">With great power comes great responsibility »: keeping public sector algorithms accountable</a>« . Il détaille la démarche d&rsquo;accompagnement des administrations que met en œuvre Etalab.</p>
+
+
+
+<h2 class="has-very-dark-gray-color has-text-color wp-block-heading">6. Ouverture des codes sources de l&rsquo;administration</h2>
+
+
+
+<p>Depuis décembre 2018, Etalab a un référent logiciels libres chargé d&rsquo;animer l&rsquo;écosystème <em>open source</em> de l&rsquo;administration : Bastien Guerry. </p>
+
+
+
+<h5 class="wp-block-heading">Lancement de code.etalab.gouv.fr</h5>
+
+
+
+<p>Pour valoriser les logiciels <em>open source</em> produits par les administrations, nous avons lancé en octobre dernier le site <a href="https://code.etalab.gouv.fr/" class="broken_link">code.etalab.gouv.fr</a> qui permet de parcourir plus de 3 800 codes sources publiés par des organismes publics. </p>
+
+
+
+<h5 class="wp-block-heading">Animation de la communauté #BlueHats</h5>
+
+
+
+<p>La communauté #BlueHats rassemble celles et ceux qui s&rsquo;intéressent au logiciel libre dans l&rsquo;administration. La DINUM a mobilisé cette communauté à l&rsquo;occasion de deux événements : un <em>sprint open source</em> inédit en novembre, organisé avec le Lab 110 bis, et une journée de partage d&rsquo;expériences lors du Paris Open Source Summit de décembre 2019. Les retours d&rsquo;expérience et les contenus de ces événements sont partagés sur un <a href="https://github.com/DISIC/evenements-bluehats">dépôt public</a> et près de 800 personnes reçoivent tous les deux mois la <a href="https://disic.github.io/gazette-bluehats/" class="broken_link">Gazette BlueHats</a>. L&rsquo;administration se met aux chapeaux bleus !</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/01/bilan-poss-2019.png" alt="" class="wp-image-12843" width="324" height="471" srcset="/wp-content/uploads/2020/01/bilan-poss-2019.png 352w, /wp-content/uploads/2020/01/bilan-poss-2019-206x300.png 206w" sizes="(max-width: 324px) 100vw, 324px" /><figcaption><em>La communauté #BlueHats en action !</em></figcaption></figure></div>
+
+
+
+<h2 class="wp-block-heading">7. Des projets pérennisés</h2>
+
+
+
+<h5 class="wp-block-heading">La plateforme consultation.etalab.gouv.fr intégrée au Centre de la Participation</h5>
+
+
+
+<p>Etalab a incubé et développé la plateforme de consultation en ligne <a rel="noreferrer noopener" href="http://etalab.consultation.gouv.fr/" target="_blank" class="broken_link">etalab.consultation.gouv.fr</a>. Un succès puisque la plateforme a été reprise par la DITP et intégrée au <a href="https://www.horizonspublics.fr/etat/letat-se-dote-dun-centre-de-la-participation-citoyenne">Centre de la Participation, lancé en novembre 2019</a>. Les outils qui y sont référencés permettent d’associer les citoyennes et citoyens à l’amélioration de l’action publique. Ces outils et l’accompagnement proposé ont permis de lancer plusieurs dizaines de consultations majeures depuis 2017.</p>
+
+
+
+<h5 class="wp-block-heading">« Signaux faibles » passé à l&rsquo;échelle et devenu un service national</h5>
+
+
+
+<p>Le projet Signaux Faibles, lancé en 2016, a été accompagné par notre équipe de data science puis par le programme EIG. Grâce à cet accompagnement<a href="https://www.etalab.gouv.fr/signaux-faibles-de-lopen-data-camp-a-une-politique-publique-fondee-sur-la-donnee-recit-dun-passage-a-lechelle-reussi">, </a>il est <a href="https://www.etalab.gouv.fr/signaux-faibles-de-lopen-data-camp-a-une-politique-publique-fondee-sur-la-donnee-recit-dun-passage-a-lechelle-reussi">passé d&rsquo;une expérimentation territoriale à un service public national en 2019</a>.  Il permet de détecter plus tôt les entreprises en difficulté et d’éviter les faillites. Pour cela, il s&rsquo;appuie sur des données mises à disposition par plusieurs institutions : DIRECCTE, ACOSS, Banque de France… C&rsquo;est désormais la direction générale des entreprises qui est en charge du projet.</p>
+
+
+
+<h2 class="has-very-dark-gray-color has-text-color wp-block-heading">8. Etalab devient un département de la DINUM</h2>
+
+
+
+<p>Suite au <a href="https://www.legifrance.gouv.fr/eli/decret/2019/10/25/PRMG1929496D/jo/texte">décret de création de la direction interministérielle du numérique</a>, ou DINUM, et à la réorganisation de la direction, la mission Etalab est devenue un département de la DINUM. </p>
+
+
+
+<p>Il est notamment en charge de « <strong><em>coordonner la conception et la mise en œuvre de la stratégie de </em></strong><em><strong>l’Ét</strong></em><strong><em>at dans le domaine de la do</em></strong><em><strong>nnée</strong>« .</em>  Pour la DINUM, Etalab contribue également à « <em>promouvoir l&rsquo;innovation, l&rsquo;expérimentation, les méthodes de travail ouvertes, agiles et itératives, ainsi que les synergies avec la société civile pour décloisonner l&rsquo;administration et favoriser l&rsquo;adoption des meilleures pratiques professionnelles dans le domaine du numérique ».</em> A ce titre il « <em>étudie notamment l&rsquo;opportunité de recourir à des technologies en voie de maturation issues du monde de la recherche</em> » (art.6 du décret, 6°<em> &#8211; </em>voir le détail des <a href="https://www.etalab.gouv.fr/qui-sommes-nous">missions sur le site d&rsquo;Etalab</a>).</p>
+
+
+
+<h2 class="wp-block-heading">Quels projets pour 2020 ?</h2>
+
+
+
+<p>Voici ce que l&rsquo;année 2020 nous réserve déjà ! Nous allons : </p>
+
+
+
+<ul><li>continuer à ouvrir des données et <a href="https://www.numerique.gouv.fr/produits-services/guichet-dites-le-nous-une-fois/">travailler à l&rsquo;échange automatique de données entre administrations</a> ;</li><li>participer à la définition de <a href="https://ec.europa.eu/digital-single-market/en/public-sector-information-psi-directive-open-data-directive">la liste des données à forte valeur de la Directive européenne PSI </a>pour promouvoir notre vision de l&rsquo;open data à l&rsquo;échelle européenne  ;</li><li>proposer de nouveaux guides. Nous avons publié <a href="https://guides.etalab.gouv.fr/accueil.html">des guides sur l&rsquo;ouverture et la circulation des données et l&rsquo;ouverture des codes sources </a>en tout début d&rsquo;année 2020, nous en publierons d&rsquo;autres ;</li><li>accompagner les administrations dans la réalisation de projets d&rsquo;innovation : le programme <a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/appel-a-projets-administrations-proposez-vos-defis-aux-futurs-entrepreneurs-dinteret-general-de-la-promotion-4" target="_blank">Entrepreneurs d&rsquo;intérêt général a lancé un appel à projets ouvert jusqu&rsquo;au 28 février</a> et le Lab IA va accompagner les 15 projets lauréat du deuxième appel à manifestation d&rsquo;intérêt IA ;</li><li>publier la nouvelle version du socle interministériel du logiciel libre ; </li><li>participer à et impulser des événements autour de l&rsquo;open data, comme le <em><a href="https://www.etalab.gouv.fr/hackathon-datafin-participez-a-lexploitation-des-donnees-financieres-des-collectivites-locales">hackathon DataFin sur les finances locales les 24 et 25 janvier</a></em>&#8230; </li></ul>
+
+
+
+<p> <em>A bientôt et excellente année 2020 à toutes et tous !</em> </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Intelligence artificielle : découvrez les 15 nouveaux projets sélectionnés.</title>
+		<link>/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes</link>
+		
+		<dc:creator><![CDATA[Paul-Antoine Chevalier]]></dc:creator>
+		<pubDate>Tue, 16 Jul 2019 09:58:52 +0000</pubDate>
+				<category><![CDATA[intelligence artificielle]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=11492</guid>
+
+					<description><![CDATA[Le 2 avril 2019, la DINSIC et la DITP ont lancé un deuxième appel à manifestation d’intérêt (AMI) pour expérimenter l’intelligence artificielle (IA) dans l’administration — d’où le nom du projet : AMI IA 2. Un jury d’experts s’est réuni le 4 juillet. Le jury a sélectionné 15 projets, qui seront accompagnés par la DITP &#8230;<p class="read-more"> <a class="" href="/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes"> <span class="screen-reader-text">Intelligence artificielle : découvrez les 15 nouveaux projets sélectionnés.</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Le 2 avril 2019, la DINSIC et la DITP ont lancé un deuxième appel à manifestation d’intérêt (AMI) pour expérimenter l’intelligence artificielle (IA) dans l’administration — d’où le nom du projet : AMI IA 2. Un jury d’experts s’est réuni le 4 juillet. Le jury a sélectionné 15 projets, qui seront accompagnés par la DITP et la DINSIC, pour développer un prototype fonctionnel et appréhender les enjeux de la transformation des métiers associés à l’IA, au cours de l’année à venir.</p>
+
+
+
+<h2 class="wp-block-heading">11 projets bénéficieront de l’accompagnement technique et métier</h2>
+
+
+
+<h3 class="wp-block-heading"><strong>Direction générale de la santé</strong>. — Optimiser le traitement des signalements des événements sanitaires indésirables</h3>
+
+
+
+<p>À partir des données issues de l’ensemble des signalements des événements sanitaires indésirables, l’IA permettra de classifier les signalements, d’extraire les concepts métiers pertinents et de détecter des anomalies dans les signalements.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Centre hospitalier universitaire de Bordeaux</strong>. — Faciliter l’accès aux informations sur le patient</h3>
+
+
+
+<p>L’IA permettra une recherche sémantique dans le dossier patient informatisé pour permettre au personnel soignant de retrouver et visualiser les informations sur le patient. Le prototype permettra de faciliter le travail du personnel soignant et de diminuer les pertes de temps liées à la recherche d’informations sur le patient.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Institut de radioprotection et de sûreté nucléaire</strong>. — Développer un système d’alerte automatique pour l’aide à la surveillance des travailleurs exposés aux rayonnements ionisants</h3>
+
+
+
+<p>À partir des données du système d’information de la surveillance de l’exposition aux rayonnements ionisants (SISERI), l’IA permettra un suivi personnalisé de l’exposition des travailleurs aux rayonnements ionisants  et une détection plus facile des anomalies.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Direction générale des collectivités locales</strong>. — Développer l’intelligence artificielle dans le contrôle de légalité dématérialisé</h3>
+
+
+
+<p>À partir des données de l’application @ctes (Actes), l’IA permettra de simplifier le travail des agents en préfecture, en triant automatiquement les actes transmissibles et non transmissibles et en détectant les informations à contrôler en priorité.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Direction générale de la gendarmerie nationale</strong>. — Améliorer le système de pré-plainte en ligne</h3>
+
+
+
+<p>En détectant automatiquement les infractions à partir des pré-plaintes en ligne et en identifiant les questions complémentaires à poser à l’usager, l’IA permettra de transformer les pré-plaintes en ligne en plaintes qualifiées, ce qui permettra un gain de temps à la fois pour les plaignants et les agents de la gendarmerie.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Direction générale des douanes et des droits indirects</strong>. — Identifier les fausses déclarations en douane grâce au text mining</h3>
+
+
+
+<p>À partir des descriptions des produits dans les documents administratifs uniques, l’IA permettra de détecter les produits importés qui sont déclarés à tort dans une nomenclature de produit fiscalement avantageuse et d’améliorer la lutte contre la fraude aux droits de douanes.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Institut national de la statistique et des études économiques</strong>. — Améliorer l’identification de l’établissement employeur dans le recensement de la population</h3>
+
+
+
+<p>À partir de la déclaration de l’établissement employeur dans les données du recensement de la population et de la base SIRENE des  entreprises et de leurs établissements, l’IA permettra de développer un moteur de recommandation pour les agents qui corrigent les données du recensement. Le projet permettra une plus grande précision des statistiques domicile-travail fournie par l’INSEE et un gain d’efficience dans la chaîne de production des données.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Chambres des métiers et de l’artisanat de Nouvelle Aquitaine</strong>. — Développer un outil d’aide à l’implantation des entreprises artisanales</h3>
+
+
+
+<p>À partir de données sur les entreprises artisanales et de données sur la population, l’IA permettra de déterminer les chances de succès d’un artisan sur un territoire et de mieux conseiller les artisans dans leur choix d’implantation.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Institut national de l’environnement industriel et des risques</strong>. — Identifier les molécules contaminant l’environnement et profiler les sources de pollutions</h3>
+
+
+
+<p>À partir des résultats d’analyses chimiques, l’IA permettra d’objectiver des ressemblances et des différences entre des spectres moléculaires pour mieux identifier les molécules contaminant l’environnement et mieux détecter des molécules polluantes.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Direction générale des entreprises — Service de l’information stratégique et de la sécurité économiques</strong>. — Développer une solution de veille et d’exploitation d’informations pour améliorer la sécurité économique</h3>
+
+
+
+<p>À partir des demandes d’investissements étrangers en France croisées avec des sources externes, l’IA permettra de de détecter et d&rsquo;identifier des entités présentant un risque pour les intérêts économiques de la France afin d&rsquo;améliorer l&rsquo;instruction des dossiers d&rsquo;intelligence économique et de mieux détecter les risques que peuvent présenter des investissements étrangers.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Conseil d’État</strong>. — Identifier automatiquement les séries de contentieux faisant appel à une décision commune</h3>
+
+
+
+<p>À partir de l’ensemble des requêtes auprès des tribunaux administratifs, l’IA permettra de regrouper les contentieux pour détecter automatiquement des séries et d’améliorer l’efficacité de la justice administrative.</p>
+
+
+
+<h2 class="wp-block-heading">4 projets bénéficieront de l’accompagnement scientifique</h2>
+
+
+
+<p>Les 4 projets suivants sont considérés comme plus complexes d’un point de vue technique et bénéficieront d’un accompagnement scientifique en collaboration avec un institut de recherche.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Direction générale de la concurrence, de la consommation et de la répression des fraudes</strong>. — Détecter les clauses et pratiques abusives dans les contrats, devis et factures</h3>
+
+
+
+<p>À partir des comptes rendus et pièces récupérées par les enquêteurs de la DGCCRF lors des contrôles et des décisions, avis et recommandations de la commission des clauses abusives, l’IA permettra de détecter la présence et le contenu des mentions obligatoires, d’identifier les thématiques des clauses des contrats et le cas échéant d’identifier les clauses abusives afin d’assurer une meilleure protection des consommateurs et une meilleure régulation concurrentielle des marchés.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Institut national de l’information géographique et forestière</strong>. — Faciliter le calcul du positionnement des points de référence terrestre à partir des données satellites</h3>
+
+
+
+<p>L’IA permettra d’identifier automatiquement les ruptures dans la mesure des positions des antennes permanentes (GNSS) pour pouvoir les prendre en compte afin d’améliorer la qualité du système international de référence terrestre.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Cour de cassation</strong>. — Identifier les divergences de jurisprudence</h3>
+
+
+
+<p>À partir des données de jurisprudence de la Cour de cassation (Jurinet) et de cours d’appel (JuriCA), l’IA permettra de rapprocher les décisions traitant du même thème et de détecter des interprétations divergentes de la loi afin de garantir une interprétation uniforme de la loi.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Service hydrographique et océanographique de la marine</strong>. — Améliorer la cartographie du littoral</h3>
+
+
+
+<p>À partir des mesures de télédétection par laser (lidar) prises sur le littoral, l’IA permettra d’améliorer la production du référentiel du littoral en automatisant le travail de correction des agents.</p>
+
+
+
+<h2 class="wp-block-heading">Un jury pluridisciplinaire pour sélectionner les projets</h2>
+
+
+
+<p>Comme l’an passé, l’AMI IA a suscité un grand intérêt auprès des administrations. 46 projets ont ainsi été soumis aussi bien par des administrations centrales que des administrations déconcentrées, des juridictions, des directions ministérielles et des opérateurs sous tutelle. </p>
+
+
+
+<p>Sur les 46 projets candidats, 27 ont été auditionnés devant un jury d’experts regroupant des personnalités qualifiées internes et externes à l’administration reconnues pour leur connaissance de l’action publique ou pour leur compétence en intelligence artificielle. La croisée de ces regards a permis de sélectionner les projets sur leur pertinence à la fois pour la transformation de l’action publique et technique.</p>
+
+
+
+<h3 class="wp-block-heading">Composition du jury</h3>
+
+
+
+<ul><li>Laure Lucchesi (DINSIC) ;</li><li>Aude Costa de Beauregard (DITP) ;</li><li>Bertrand Pailhès (DINSIC) ;</li><li>Laurent Michel (SGPI) ;</li><li>Sandra-Jeanne Lara-Golliot (DITP) ;</li><li>Ioana Manolescu (INRIA) ;</li><li>Bertrand Braunschweig (INRIA) ;</li><li>Philippe Lefort (MEAE) ;</li><li>Carole Maudet (DGFIP) ;</li><li>Michael Benesty (Groupe Lefèbvre Sarrut) ;</li><li>Elisabeth Grosdhomme Lulin (Paradigmes) ;</li><li>Romain Aeberhardt (Veltys) ;</li><li>Martin Daniel (AirBNB) ;</li><li>Tiphaine Phe-Neau (Renault Digital) ;</li><li>Sacha Alanoca (The Future Society) ;</li><li>Thomas Cottinet (Liberty Living Lab).</li></ul>
+
+
+
+<p>Les projets seront accompagnés à partir de septembre 2019 sur une année pour réaliser un prototype fonctionnel et évaluer les impacts métiers associés à l’utilisation de l’IA.</p>
+
+
+
+<p>Cet accompagnement s’inscrit dans le cadre du « Lab IA » porté par la DINSIC, en partenariat avec la DITP, pour aider les administrations à se saisir du potentiel de l’IA. Il bénéficie d’un financement du programme d’investissement d’avenir, piloté par le secrétariat général pour l’investissement, avec le soutien de la caisse des dépôts et consignations.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>La mission Etalab et le groupe Lefebvre-Sarrut collaborent pour accélérer l&#8217;ouverture des décisions de justice</title>
+		<link>/la-mission-etalab-et-le-groupe-lefebvre-sarrut-collaborent-accelerer-louverture-des-decisions-de-justice</link>
+		
+		<dc:creator><![CDATA[Paul-Antoine Chevalier]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2019 13:56:10 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Entrepreneurs d'intérêt général]]></category>
+		<category><![CDATA[Intelligence Artificielle]]></category>
+		<category><![CDATA[Lab IA]]></category>
+		<category><![CDATA[legal tech]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data des decisions de justice]]></category>
+		<category><![CDATA[Pseudonymisation]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10312</guid>
+
+					<description><![CDATA[Pour accélérer l’ouverture des décisions de justice, la mission Etalab et le groupe Lefebvre-Sarrut viennent de signer un partenariat. Ce contrat concerne le partage d’algorithmes d’intelligence artificielle qui permettent d’occulter des éléments identifiants, en masquant par exemple automatiquement les noms et les prénoms qui figurent dans les décisions de justice. Pourquoi rendre publiques les décisions &#8230;<p class="read-more"> <a class="" href="/la-mission-etalab-et-le-groupe-lefebvre-sarrut-collaborent-accelerer-louverture-des-decisions-de-justice"> <span class="screen-reader-text">La mission Etalab et le groupe Lefebvre-Sarrut collaborent pour accélérer l&#8217;ouverture des décisions de justice</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="https://www.etalab.gouv.fr/la-mission-etalab-et-les-editions-lefebvre-sarrut-et-etalab-collaborent-accelerer-louverture-des-decisions-de-justice/openpseudo" class="broken_link"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/05/openpseudo-768x206-1.png" alt="" class="wp-image-10314" width="381" height="101" srcset="/wp-content/uploads/2019/05/openpseudo-768x206-1.png 768w, /wp-content/uploads/2019/05/openpseudo-768x206-1-300x80.png 300w" sizes="(max-width: 381px) 100vw, 381px" /></a></figure></div>
+
+
+
+<p>Pour accélérer l’ouverture des décisions de justice, la mission Etalab et le groupe Lefebvre-Sarrut viennent de signer un partenariat. Ce contrat concerne le partage d’algorithmes d’intelligence artificielle qui permettent d’occulter des éléments identifiants, en masquant par exemple automatiquement les noms et les prénoms qui figurent dans les décisions de justice.</p>
+
+
+
+<h2 class="wp-block-heading">Pourquoi rendre publiques les décisions de justice ?</h2>
+
+
+
+<p>Parce que c’est une obligation légale. Dans la continuité de la <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033202746&amp;categorieLien=id">loi pour une République numérique</a> (loi n°2016-1321 du 7 octobre 2016), la <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038261631&amp;categorieLien=id">loi de programmation 2018-2022 et de réforme pour la justice</a> (loi n°2019-222 du 23 mars 2019) a réaffirmé le principe d’ouverture des décisions de justice en insistant sur l’importance d’y masquer les éléments identifiants qui peuvent s’y trouver.</p>
+
+
+
+<h2 class="wp-block-heading">Comment occulter les éléments identifiants ?</h2>
+
+
+
+<p>L’opération qui consiste à retirer les éléments directement identifiants comme le nom, le prénom, l’adresse, ou la date de naissance, s’appelle <em>pseudonymisation</em>. Elle peut être réalisée :</p>
+
+
+
+<ul><li>à la main en modifiant chaque décision de justice pour retirer les noms et prénoms des parties ;</li><li>au moyen d’un moteur de règles déterministes détectant des éléments comme la présence de majuscules ou les mots précédés de « M. » ou « Mme » ;</li><li>à l’aide de méthodes de traitement automatique du langage naturel capables de prédire s&rsquo;il s&rsquo;agit du nom d&rsquo;une personne.</li></ul>
+
+
+
+<p>Modifier à la main l&rsquo;ensemble des décisions de justice est particulièrement chronophage. Le coût pour relire les 180 000 décisions annuelles des cours d&rsquo;appel et à terme des 3,9 millions de décisions de première instance risque d&rsquo;être très important. L&rsquo;utilisation d&rsquo;un moteur de règles permet d&rsquo;automatiser une partie du travail mais le taux d&rsquo;erreur reste important et il est nécessaire d&rsquo;effectuer une relecture humaine des décisions avant publication. Les méthodes de traitement automatique du langage naturel sont aujourd&rsquo;hui les plus prometteuses pour pouvoir diffuser les 180 000 décisions des cours d&rsquo;appel et à terme les décision des tribunaux de première instance.</p>
+
+
+
+<p>Pour développer ces méthodes, la mission Etalab accompagne la Cour de cassation, notamment à travers le recrutement d’une équipe de spécialistes dans le cadre du défi Openjustice du programme entrepreneur d’intérêt général.</p>
+
+
+
+<p>Parallèlement, le groupe Lefebvre-Sarrut, qui regroupent différents éditeurs juridiques européens dont les éditions Francis Lefebvre et les éditons Dalloz, a développé une méthode de pseudonymisation pour ses besoins propres.</p>
+
+
+
+<h2 class="wp-block-heading">Les bénéfices d’un partenariat</h2>
+
+
+
+<p>Afin de favoriser la diffusion massive des décisions de justice, le groupeLefebvre-Sarrut et la mission Etalab ont signé une <a href="https://www.etalab.gouv.fr/wp-content/uploads/2019/12/Contrat-de-Partenariat-LEFEBVRE-SARRUT.pdf">convention de partenariat</a> pour partager et combiner leurs méthodes.</p>
+
+
+
+<p>Concrètement, Lefebvre-Sarrut publient le code source de leur algorithme de pseudonymisation sous une licence libre. Les data scientists de la mission Etalab font le lien entre les travaux effectués par les data scientists de Lefebvre Sarrut et ceux de la Cour de cassation afin d’identifier les meilleures pratiques et d’améliorer l’état de l’art. Ces échanges permettront notamment de tester le code source de Lefebvre-Sarrut sur les données de la Cour de cassation, d’évaluer la pertinence statistique de cette approche, de la comparer avec celle développée par les entrepreneurs d&rsquo;intérêt général et le cas échéant de combiner les deux méthodes pour améliorer les performances des algorithmes de la Cour de cassation.</p>
+
+
+
+<p>Etalab et Lefebvre-Sarrut communiqueront à l’automne sur les résultats de cette collaboration.</p>
+
+
+
+<p>Au-delà du cas de l’ouverture des décisions de justice, d’autres administrations auront besoin à l’avenir de pseudonymiser des documents pour favoriser leur ouverture et leur circulation. Les outils et l’expertise développés avec cette collaboration permettront d’accompagner d’autres administrations à l’avenir.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Intelligence artificielle : administrations, proposez vos projets d’expérimentation</title>
+		<link>/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentation%e2%80%89</link>
+		
+		<dc:creator><![CDATA[Paul-Antoine Chevalier]]></dc:creator>
+		<pubDate>Tue, 02 Apr 2019 14:35:21 +0000</pubDate>
+				<category><![CDATA[Annonces]]></category>
+		<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[AMI IA]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10333</guid>
+
+					<description><![CDATA[La DINSIC et la DITP lancent un second appel à manifestation d’intérêt pour expérimenter l&#8217;intelligence artificielle dans les administrations. Les administrations lauréates seront accompagnées par la DINSIC et la DITP pour développer un prototype fonctionnel et accompagner la transformation métier associée. Les administrations ont jusqu’au 31 mai 2019 pour déposer leur candidature.Administrations : téléchargez le &#8230;<p class="read-more"> <a class="" href="/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentation%e2%80%89"> <span class="screen-reader-text">Intelligence artificielle : administrations, proposez vos projets d’expérimentation</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p><em>La DINSIC et la DITP lancent un second appel à manifestation d’intérêt pour expérimenter l&rsquo;intelligence artificielle dans les administrations. Les administrations lauréates seront accompagnées par la DINSIC et la DITP pour développer un prototype fonctionnel et accompagner la transformation métier associée. Les administrations ont jusqu’au 31 mai 2019 pour déposer leur candidature.</em><a href="https://nextcloud.data.gouv.fr/s/BQJTqXaJQjPaaRa" class="broken_link">Administrations : téléchargez le cahier des charges</a> et <a href="https://www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle">candidatez en ligne</a>.</p></blockquote>
+
+
+
+<h3 class="wp-block-heading" id="Expérimenter-l’IA-pour-des-usages-concrets-d’amélioration-de-l’action-publique">Expérimenter l’IA pour des usages concrets d’amélioration de l’action publique</h3>
+
+
+
+<p>Mieux cibler les contrôles, faciliter le travail d&rsquo;inspection grâce à des algorithmes, extraire des informations structurées de textes en langage naturel pour détecter des tendances ou aider à la décision, détecter automatiquement des éléments identifiants dans un texte ou encore détecter automatiquement des éléments d&rsquo;intérêts dans des corpus d&rsquo;images : les usages de l&rsquo;intelligence artificielle dans l&rsquo;administration sont potentiellement nombreux. Suite au succès rencontré par le <a href="https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia">1er appel à manifestation d&rsquo;intérêt en 2018</a>, la DINSIC et la DITP lancent un second appel à manifestation d’intérêt auprès des administrations.</p>
+
+
+
+<p>Les lauréats bénéficieront d’un accompagnement technique piloté par la DINSIC pour développer un prototype fonctionnel et un accompagnement stratégique pour appréhender la transformation du métier associée aux technologies d’intelligence artificielle (diagnostic des impacts pour les agents dans leurs missions, puis accompagnement au changement) piloté par la DITP. Pour ce deuxième appel à manifestation d’intérêt, les projets techniquement plus exploratoires pourront bénéficier d’un accompagnement scientifique, via un partenariat avec un institut de recherche ou une entreprise innovante.</p>
+
+
+
+<h3 class="wp-block-heading" id="Sélection-des-projets--un-jury-et-des-critères-de-circulation-des-données-et-d’impact-peut-être-à-reformuler-mais-je-pense-qu’il-faut-éditorialiser">Sélection des projets : un jury et des critères d&rsquo;évaluation à la fois techniques et métier</h3>
+
+
+
+<p>Comme l’an passé, la DINSIC et la DITP mobiliseront un jury de personnalités pour auditionner et sélectionner les projets lauréats. Auparavant les équipes de la DINSIC et de la DITP procéderont à une présélection des projets. Le jury de personnalités qualifiées se réunira au début du mois de juillet et les lauréats seront annoncés à la mi- juillet.</p>
+
+
+
+<p><strong>Les projets seront évalués selon les sept critères suivants :</strong></p>
+
+
+
+<ul><li>Impact et bénéfices potentiels pour l’administration lauréate et ses usagers, liés à l’utilisation de l’IA sur le périmètre métier proposé ;</li><li>Pertinence de l’IA comme solution au problème identifié ;</li><li>Pertinence du défi technique ;</li><li>Composition de l’équipe d’agents publics impliqués dans le projet ;</li><li>Existence et accessibilité des données nécessaires ;</li><li>Intérêt de l’expérimentation pour tirer des enseignements qui dépassent le simple projet du candidat ;</li><li>Valeur ajoutée de l’accompagnement DINSIC DITP pour la réalisation du projet.</li></ul>
+
+
+
+<p><strong>La DINSIC et la DITP organisent une réunion d’information à destination des administrations le 16 avril 2019 à 14h00 au 20, avenue de Ségur.</strong></p>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://www.eventbrite.fr/e/billets-reunion-dinformation-ami-ia-experimenter-lia-dans-ladministration-59687455787" target="_blank" rel="noreferrer noopener">&gt;&gt; S&rsquo;inscrire à la réunion d’information du 16 avril &lt;&lt;</a></p></blockquote>
+
+
+
+<p>Pour toute question complémentaire, contactez l’équipe de l’AMI IA à l’adresse :</p>
+
+
+
+<p><a href="mailto:equipe-ami-ia@data.gouv.fr">equipe-ami-ia@data.gouv.fr</a></p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Un Lab IA positionné à la DINSIC</strong></p><p>Ce second appel à manifestation d&rsquo;intérêt constitue le première action du Lab IA annoncé lors du deuxième comité interministériel de la transformation publique (CITP) le 29 octobre 2018 pour accompagner les administrations dans le déploiement de leur projet d&rsquo;IA. Positionné au sein de la DINSIC, le Lab IA bénéficie d&rsquo;un financement du fonds transition numérique de l’Etat &#8211; modernisation de l’action publique (TNE-MAP) du programme d’investissement d’avenir (PIA) coordonné par le Secrétariat général pour l’investissement (SGPI) avec le concours financier de la Caisse des dépôts et consignations (CDC). Il sera présenté plus en détails dans les prochaines semaines.</p></blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Intelligence Artificielle : 6 projets lauréats de l&#8217;appel à manifestation d&#8217;intérêt IA !</title>
+		<link>/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia</link>
+		
+		<dc:creator><![CDATA[Paul-Antoine Chevalier]]></dc:creator>
+		<pubDate>Wed, 21 Nov 2018 18:22:05 +0000</pubDate>
+				<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[AMI IA]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[Intelligence Artificielle]]></category>
+		<category><![CDATA[Lab IA]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3006</guid>
+
+					<description><![CDATA[Mercredi 21 novembre 2018, le secrétaire d&#8217;Etat chargé du numérique, Mounir Mahjoubi, en présence du jury et des porteurs de projets, a dévoilé la liste des 6 lauréats du premier Appel à Manifestation d&#8217;Intérêt sur l&#8217;intelligence artificielle (IA). Les initiatives retenues couvrent une diversité de politiques publiques, de domaines d&#8217;applications de l&#8217;IA et concernent à &#8230;<p class="read-more"> <a class="" href="/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia"> <span class="screen-reader-text">Intelligence Artificielle : 6 projets lauréats de l&#8217;appel à manifestation d&#8217;intérêt IA !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Mercredi 21 novembre 2018, le secrétaire d&rsquo;Etat chargé du numérique, Mounir Mahjoubi, en présence du jury et des porteurs de projets, a dévoilé la liste des 6 lauréats du premier Appel à Manifestation d&rsquo;Intérêt sur l&rsquo;intelligence artificielle (IA). Les initiatives retenues couvrent une diversité de politiques publiques, de domaines d&rsquo;applications de l&rsquo;IA et concernent à la fois des administrations centrales et des services déconcentrés. Les administrations et projets sélectionnés sont les suivants :</p>
+<ul>
+<li style="text-align: left;"><strong>L&rsquo;ACOSS</strong> : développer un agent vocal conversationnel – voice-bot &#8211; pour répondre aux interrogations des utilisateurs du Chèque Emploi Associatif (CEA) ;</li>
+<li style="text-align: left;"><strong>L&rsquo;Office français de la biodiversité</strong> (OFB) : mieux orienter les contrôles de la police de l’environnement grâce à l&rsquo;IA ;</li>
+<li style="text-align: left;"><strong>L&rsquo;Autorité de sûreté nucléaire</strong> (ASN) : permettre une meilleure exploitation des données contenues dans les lettres de suite d’inspection ;</li>
+<li style="text-align: left;"><strong>Le CHU de Toulouse</strong> : optimiser la préparation des réunions de concertation pluridisciplinaire (RCP), application au cas d’usage des traitements post opératoires du cancer du poumon ;</li>
+<li style="text-align: left;"><strong>La Direction départementale des territoires et de la mer (DDTM) de l’Hérault</strong> : détecter automatiquement les irrégularités d’occupation des sols (constructions illégales, décharges sauvages, etc.) à partir d’images aériennes et satellites ;</li>
+<li style="text-align: left;"><strong>La Direction générale de l’alimentation (DGAL) du ministère de l’Agriculture et de l’Alimentation</strong> : affiner le ciblage des établissements à inspecter dans le secteur de la remise directe aux consommateurs (restaurants, métiers de bouche, distributeurs) grâce aux commentaires des consommateurs sur les sites d’avis en ligne.</li>
+</ul>
+<h2 lang="en-US" align="justify"><span style="color: #20163a;"><span style="font-size: x-large;"><b><span lang="fr-FR">Un appel à manifestation d’intérêt plébiscité</span></b></span></span></h2>
+<p style="text-align: justify;"><a href="https://www.etalab.gouv.fr/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentations">L&rsquo;AMI IA lancé le 14 juin dernier</a> s&rsquo;adressait aux administrations désireuses de développer le recours à l’intelligence artificielle (IA) pour l&rsquo;amélioration de leur action. Il s&rsquo;inscrit ainsi dans la <a href="http://www.elysee.fr/declarations/article/transcription-du-discours-du-president-de-la-republique-emmanuel-macron-sur-l-intelligence-artificielle/">stratégie nationale IA présentée par le Président de la République le 29 mars dernier au Collège de France</a>, stratégie dont l&rsquo;ouverture et l&rsquo;usage des données et la transformation publique constituent des axes majeurs.</p>
+<p style="text-align: justify;">Grâce à un financement du programme d&rsquo;investissement d&rsquo;avenir, Etalab à la DINSIC et la DITP accompagneront pendant 10 mois les lauréats de l&rsquo;AMI dans la réalisation d&rsquo;une preuve de concept (POC) et dans l&rsquo;étude de l&rsquo;impact métier potentiel de ce POC.</p>
+<p style="text-align: justify;"><a href="https://www.etalab.gouv.fr/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentations">L&rsquo;appel à manifestation d&rsquo;intérêt lancé le 14 juin 2018 </a>a rencontré un grand succès auprès des administrations, qui ont soumis 52 dossiers de candidatures. Ce succès témoigne à la fois de la volonté des administrations publiques de se saisir du potentiel de l&rsquo;intelligence artificielle et du besoin d&rsquo;accompagnement de ces mêmes administrations pour expérimenter ces méthodes. La variété des sujets proposés dans les dossiers de candidature donne à voir l’étendue du potentiel de l’IA dans l&rsquo;administration : amélioration de la relation usager, facilitation des processus métier, amélioration du ciblage des contrôles ou encore aide à la décision.</p>
+<h2 class="western" align="justify"><span style="color: #20163a;"><span style="font-size: x-large;"><b>Un jury pluridisciplinaire pour croiser les regards sur les dossiers</b></span></span></h2>
+<p style="text-align: justify;"><a href="https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia/photo1-1" rel="attachment wp-att-9301"><img loading="lazy" decoding="async" class=" wp-image-9301 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/Photo1-1-300x169.png" alt="Délibérations lors du jury de l'AMI IA du 17 octobre 2018" width="392" height="221" srcset="/wp-content/uploads/2018/11/Photo1-1-300x169.png 300w, /wp-content/uploads/2018/11/Photo1-1-768x432.png 768w, /wp-content/uploads/2018/11/Photo1-1.png 1000w" sizes="(max-width: 392px) 100vw, 392px" /></a></p>
+<p style="text-align: justify;">Suite à l’examen collégial des équipes DINSIC et DITP, les candidats présélectionnés ont été auditionnés devant un jury d’experts (entrepreneurs, chercheurs, acteurs publics) spécialisés en intelligence artificielle ou dans la transformation de l’action publique.</p>
+<p style="text-align: justify;">Les 12 membres du jury ont sélectionné les 6 projets lauréats en prenant en compte l’impact métier potentiel du projet, le défi technique proposé, la qualité de l&rsquo;équipe projet, la disponibilité et l&rsquo;accessibilité des données pertinentes et la prise en compte des risques éthiques liés au projet.</p>
+<p>Les six projets lauréats couvrent de <strong>n</strong><span style="color: #000000;"><strong>ombreux domaines de la sphère publique, dont deux des secteurs prioritaires identifiés par le Rapport Villani :</strong></span></p>
+<ul>
+<li>l&rsquo;environnement avec les projets de l&rsquo;Agence française pour la biodiversité et la direction départementale des territoires et de la mer ;</li>
+<li>la santé et le sanitaire avec les projets du CHU Toulouse et de la direction générale de l&rsquo;alimentation ;</li>
+<li>la sphère sociale avec le projet de l&rsquo;ACOSS ;</li>
+<li>la sûreté nucléaire avec le projet de l&rsquo;Autorité de sûreté nucléaire.</li>
+</ul>
+<p>Ils sont aussi représentatifs de <span style="color: #000000;"><strong>différents usages potentiels de l&rsquo;IA :</strong></span></p>
+<ul>
+<li>l&rsquo;aide au ciblage des contrôles ;</li>
+<li>l&rsquo;amélioration de la relation à l&rsquo;usager ;</li>
+<li>l’amélioration d’un processus métier.</li>
+</ul>
+<p>Enfin, ils font appel à un <strong><span style="color: #000000;">large ensemble de techniques d&rsquo;IA :</span></strong></p>
+<ul>
+<li>les méthodes de détection automatique d&rsquo;objets dans des images pour le projet de la direction départementale des territoires et de la mer ;</li>
+<li>les méthodes de compréhension naturelle et de synthèse vocale pour l&rsquo;agent conversationnel de l&rsquo;ACOSS ;</li>
+<li>les méthodes d&rsquo;extraction d&rsquo;informations de textes et de traitement automatique du langage pour les projets de l&rsquo;Autorité de sûreté nucléaire et du CHU de Toulouse.</li>
+</ul>
+<p style="text-align: justify;">Cet accompagnement permet de préfigurer l&rsquo;accompagnement proposé aux administrations par le <span style="color: #000000;"><strong>futur « Lab IA »</strong></span> annoncé lors du 2ème Comité interministériel de la transformation publique<a href="https://www.modernisation.gouv.fr/sites/default/files/dossier_de_presse_-_2eme_comite_interministeriel_de_la_transformation_publique_-_29_octobre_2018.pdf" class="broken_link">.</a> Installé au sein de la DINSIC et prenant appui sur les compétences d&rsquo;Etalab, <strong>ce Lab renforcera les capacités d’appui en datasciences et permettra aux administrations de bénéficier de l’état de l’art des technologies en matière d’IA, grâce à un réseau de chercheurs publics affiliés.</strong></p>
+<p style="text-align: justify;">Il constituera ainsi un point d’entrée privilégié pour le développement de collaborations entre recherche et secteur public. Le Lab IA fonctionnera en réseau avec les lieux d’innovation et d’expérimentation des ministères et opérateurs et animera la communauté des acteurs publics de l’IA.</p>
+<p style="text-align: justify;"><strong style="font-size: 1rem;"><a href="https://www.numerique.gouv.fr/uploads/ami-ia-laureats-dossier-presse.pdf">=&gt; Voir le dossier de presse détaillé et les fiches projets des lauréats</a></strong></p>
+<p><strong>=&gt; <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/Lab-IA-dossier_de_presse_-_2eme_comite_interministeriel_de_la_transformation_publique_-_29_octobre_2018.pdf" rel="attachment wp-att-9330">Voir la Fiche Lab IA dans le dossier de presse CITP d&rsquo;octobre 2018</a></strong></p>
+<p>=&gt; Voir la <a href="https://www.etalab.gouv.fr/datasciences-et-intelligence-artificielle">page du Lab IA</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Intelligence artificielle : administrations, proposez vos projets d’expérimentations</title>
+		<link>/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentations</link>
+		
+		<dc:creator><![CDATA[Paul-Antoine Chevalier]]></dc:creator>
+		<pubDate>Thu, 14 Jun 2018 12:54:27 +0000</pubDate>
+				<category><![CDATA[Annonces]]></category>
+		<category><![CDATA[AMI IA]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[Intelligence Artificielle]]></category>
+		<category><![CDATA[Lab IA]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8380</guid>
+
+					<description><![CDATA[La DINSIC et la DITP lancent un appel à manifestation d&#8217;intérêt ouvert jusqu’au 14 septembre sur l&#8217;intelligence artificielle. Les administrations lauréates seront accompagnées par la DITP et la DINSIC sur une durée de 10 mois à partir de novembre 2018 pour développer un prototype fonctionnel et accompagner la transformation métier associée. Candidatez en ligne et &#8230;<p class="read-more"> <a class="" href="/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentations"> <span class="screen-reader-text">Intelligence artificielle : administrations, proposez vos projets d’expérimentations</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p class="western" align="justify"><em>La DINSIC et la DITP lancent un appel à manifestation d&rsquo;intérêt ouvert jusqu’au 14 septembre sur l&rsquo;intelligence artificielle. Les administrations lauréates seront accompagnées par la DITP et la DINSIC sur une durée de 10 mois à partir de novembre 2018 pour développer un prototype fonctionnel et accompagner la transformation métier associée.</em></p>
+<blockquote>
+<p align="justify"><strong><a href="https://www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle">Candidatez en ligne</a> et <a href="http://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/cahier_des_charges_pia_ami_intelligence_artificielle.pdf" class="broken_link">téléchargez le cahier des charges</a></strong></p>
+<p align="justify">
+</blockquote>
+<p align="justify">L’intelligence artificielle, ses potentialités et ses risques interrogent la société dans son ensemble. Comme l’a souligné le Président de la République à l’occasion de la remise du rapport de la mission Villani, <a href="https://www.aiforhumanity.fr/pdfs/9782111457089_Rapport_Villani_accessible.pdf" class="broken_link"><i>Donner un sens à l’intelligence artificielle</i></a>, l’Etat doit pleinement se saisir de cette question. Il doit être en mesure d’intégrer l’intelligence artificielle pour la conduite des politiques publiques et de ses missions. « <em>L’Etat doit se positionner, pour ses propres besoins, comme premier utilisateur et acheteur de technologies d’IA</em> » affirme le député et mathématicien Cédric Villani.<a href="https://www.etalab.gouv.fr/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentations/villani" rel="attachment wp-att-8395"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-8395" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/06/Villani-200x300.png" alt="Couverture du rapport Villani" width="200" height="300" srcset="/wp-content/uploads/2018/06/Villani-200x300.png 200w, /wp-content/uploads/2018/06/Villani.png 603w" sizes="(max-width: 200px) 100vw, 200px" /></a></p>
+<p align="justify">Classification automatique d’images, reconnaissance d&rsquo;entités nommées dans des textes, extraction automatique d&rsquo;informations à partir de données non structurées, les technologies d&rsquo;IA peuvent avoir un impact important sur l&rsquo;action publique.</p>
+<blockquote>
+<p class="western" align="justify"><strong>L’intelligence artificielle déjà utilisée dans l’administration</strong></p>
+<p align="justify">A titre d’exemple, la Caisse nationale d&rsquo;assurance maladie (CNAM), en collaboration avec le centre de mathématiques appliquées de l&rsquo;école polytechnique, utilise des algorithmes pour détecter automatiquement les effets secondaires des traitements pharmacologiques en analysant les données du SNIIRAM (dépenses d&rsquo;assurance maladie).&nbsp;Pôle Emploi, en partenariat avec Etalab et l&rsquo;incubateur de startups d&rsquo;État, a développé <span style="color: #0563c1;"><u><a href="https://labonneboite.pole-emploi.fr/">La Bonne Boîte</a></u></span>, un service en ligne qui permet de réaliser des candidatures spontanées ciblées sur les entreprises qui ont une forte probabilité d&#8217;embauche.</p>
+</blockquote>
+<p align="justify">Pour initier ce mouvement, la DINSIC et la direction interministérielle de la transformation publique (DITP) lancent un <strong>appel à manifestation d&rsquo;intérêt pour expérimenter l&rsquo;usage des technologies d&rsquo;intelligence artificielle</strong> dans les administrations. Les lauréats bénéficieront d’un accompagnement d&rsquo;une durée de 10 mois sur les aspects techniques et organisationnels.<a href="https://www.etalab.gouv.fr/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentations/img_1136" rel="attachment wp-att-8402"><img loading="lazy" decoding="async" class="size-medium wp-image-8402 alignright" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/06/IMG_1136-300x200.jpg" alt="Réunion de lancement de l'AMI IA" width="300" height="200" srcset="/wp-content/uploads/2018/06/IMG_1136-300x200.jpg 300w, /wp-content/uploads/2018/06/IMG_1136-768x511.jpg 768w, /wp-content/uploads/2018/06/IMG_1136-1024x682.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<blockquote>
+<p align="justify">«<em> Avec cette expérimentation, nous montrons que l’État aussi est prêt à se saisir du potentiel de l’intelligence artificielle pour transformer l’administration en profondeur et libérer la créativité de ses agents, afin d’offrir aux citoyens un service public plus performant et proche de leurs besoins</em>. » a déclaré Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du numérique.</p>
+</blockquote>
+<p align="justify">L’enjeu est à la fois d’expérimenter concrètement une technologie d&rsquo;IA pour répondre à un besoin métier précis, et plus largement d‘engager une réflexion sur l&rsquo;impact potentiel de ces technologies sur la transformation du métier.</p>
+<p align="justify">Afin de s’assurer de la maîtrise des risques spécifiques à l’intelligence artificielle (biais des données d’apprentissage, exigence d’explicabilité des décisions individuelles…) une attention particulière sera apportée à la <strong>prise en compte de la dimension éthique dans les projets candidats.</strong></p>
+<p align="justify">Une réunion d&rsquo;information à destination des administrations aura lieu le 27 juin 2018 à 10h au 20, avenue de Ségur.</p>
+<blockquote>
+<p align="justify"><em><a href="https://www.eventbrite.fr/e/billets-reunion-dinformation-appel-a-manifestation-dinteret-intelligence-artificielle-47060279563"><strong>Inscrivez vous à la réunion d&rsquo;information</strong></a></em></p>
+</blockquote>
+<blockquote>
+<p align="justify"><em><strong>Pour toute question complémentaire, contactez nous à l&rsquo;adresse :<u> </u><span style="color: #0563c1;"><u><a href="mailto:ami-intelligence-artificielle@data.gouv.fr">ami-intelligence-artificielle@data.gouv.fr</a></u></span></strong></em></p>
+<p align="justify"><em><strong>&nbsp;</strong></em></p>
+</blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Le calendrier de l&#8217;avent de l&#8217;open data</title>
+		<link>/le-calendrier-de-lavent-de-lopen-data</link>
+		
+		<dc:creator><![CDATA[Paul-Antoine Chevalier]]></dc:creator>
+		<pubDate>Fri, 01 Dec 2017 09:13:39 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=7895</guid>
+
+					<description><![CDATA[*** Pour célébrer une année riche en données et en avancées pour l&#8217;open data, Etalab vous propose son calendrier de l&#8217;avent 2017 ! *** Jour après jour, vous pourrez ainsi découvrir ou redécouvrir :      un nouveau jeu de données mis à disposition ;      un jeu de données marquant ou illustrant une &#8230;<p class="read-more"> <a class="" href="/le-calendrier-de-lavent-de-lopen-data"> <span class="screen-reader-text">Le calendrier de l&#8217;avent de l&#8217;open data</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<h3 id="magicdomid35" style="text-align: justify;"><span class="author-a-z81zz82zz73zz80zz82zhz122z2z74zlsyz90zbz67zb i"><em>***</em></span></h3>
+<h3 style="text-align: justify;"><span class="author-a-z81zz82zz73zz80zz82zhz122z2z74zlsyz90zbz67zb i"><em>Pour célébrer une année riche en données et en avancées pour l&rsquo;open data, Etalab vous propose son <strong>calend</strong><strong>rier de l&rsquo;avent 2017 !</strong></em><br />
+</span></h3>
+<h3>***</h3>
+<div></div>
+<div id="magicdomid37" class=""><span class="author-a-z81zz82zz73zz80zz82zhz122z2z74zlsyz90zbz67zb i">Jour après jour, vous pourrez ainsi découvrir ou redécouvrir :</span></div>
+<ul>
+<li id="magicdomid38"><span class="author-a-z81zz82zz73zz80zz82zhz122z2z74zlsyz90zbz67zb i">     un <span style="color: #333333;"><strong>nouveau jeu de données</strong></span> mis à disposition ;<br />
+</span></li>
+<li id="magicdomid39"><span class="author-a-z81zz82zz73zz80zz82zhz122z2z74zlsyz90zbz67zb i">     un <span style="color: #333333;"><strong>jeu de données marquant ou illustrant une nouveauté</strong> </span>de l&rsquo;année 2017 ;<br />
+</span></li>
+<li id="magicdomid40"><span class="author-a-z81zz82zz73zz80zz82zhz122z2z74zlsyz90zbz67zb i">     une <span style="color: #333333;"><strong>réutilisation</strong></span> intéressante.</span></li>
+</ul>
+<p><span style="color: #1a88d6;"><em><strong>Rendez-vous tous les jours jusqu&rsquo;au 24 décembre sur : <a href="https://avent.data.gouv.fr/" class="broken_link">avent.data.gouv.fr !</a></strong></em></span></p>
+<div></div>
+<div style="text-align: center;">***</div>
+<div></div>
+<div><a href="https://avent.data.gouv.fr/" rel="attachment wp-att-7906" class="broken_link"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-7906" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/12/Capture-d’écran-2017-12-01-à-10.14.55.png" alt="" width="918" height="258" srcset="/wp-content/uploads/2017/12/Capture-d’écran-2017-12-01-à-10.14.55.png 918w, /wp-content/uploads/2017/12/Capture-d’écran-2017-12-01-à-10.14.55-300x84.png 300w, /wp-content/uploads/2017/12/Capture-d’écran-2017-12-01-à-10.14.55-768x216.png 768w" sizes="(max-width: 918px) 100vw, 918px" /></a></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Retour sur le 1er data camp de l&#8217;Assemblée nationale</title>
+		<link>/retour-sur-le-1er-data-camp-de-lassemblee-nationale</link>
+		
+		<dc:creator><![CDATA[Paul-Antoine Chevalier]]></dc:creator>
+		<pubDate>Mon, 05 Dec 2016 12:28:06 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Événements]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=6046</guid>
+
+					<description><![CDATA[[:fr] Samedi 26 novembre avait lieu le premier data camp organisé par l&#8217;Assemblée nationale. Après l&#8217;ouverture de la plateforme open data data.assemblee-nationale.fr en juin 2015, la publication du plan d&#8217;action de l&#8217;Assemblée nationale pour le Partenariat pour un gouvernement ouvert en juillet 2015 et avant la session du sommet mondial #OGP16 sur le parlement ouvert &#8230;<p class="read-more"> <a class="" href="/retour-sur-le-1er-data-camp-de-lassemblee-nationale"> <span class="screen-reader-text">Retour sur le 1er data camp de l&#8217;Assemblée nationale</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]<figure id="attachment_6057" aria-describedby="caption-attachment-6057" style="width: 300px" class="wp-caption alignleft"><img loading="lazy" decoding="async" class="size-medium wp-image-6057" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/12/dc10min-300x200.jpg" alt="Hôtel de Lassay - Premier Data Camp de l'Assemblée nationale," width="300" height="200" srcset="/wp-content/uploads/2016/12/dc10min-300x200.jpg 300w, /wp-content/uploads/2016/12/dc10min-768x513.jpg 768w, /wp-content/uploads/2016/12/dc10min-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-6057" class="wp-caption-text">©Assemblée nationale</figcaption></figure></p>
+<p style="text-align: justify;">Samedi 26 novembre avait lieu le premier data camp organisé par l&rsquo;Assemblée nationale. Après l&rsquo;ouverture de la plateforme open data <a href="http://data.assemblee-nationale.fr/">data.assemblee-nationale.fr</a> en juin 2015, la publication du <a href="http://www.opengovpartnership.org/sites/default/files/Plan%20d%E2%80%99action%20de%20l%E2%80%99Assembl%C3%A9e%20Nationale.pdf">plan d&rsquo;action de l&rsquo;Assemblée nationale pour le Partenariat pour un gouvernement ouvert</a> en juillet 2015 et avant <a href="https://fr.ogpsummit.org/open-parliament/" class="broken_link">la session du sommet mondial #OGP16 sur le parlement ouvert</a> du 8 décembre prochain,  l&rsquo;organisation de cet événement marque une nouvelle étape dans l&rsquo;ouverture de l&rsquo;Assemblée nationale.</p>
+<p style="text-align: justify;">Près d&rsquo;une centaine de participants s&rsquo;étaient réunis dans l&rsquo;Hôtel de Lassay pour imaginer de nouveaux usages des données parlementaires. Voici quelques exemples des projets réalisés.</p>
+<p><strong>Peut-on classer automatiquement des textes comme étant de gauche ou de droite ?</strong></p>
+<p style="text-align: justify;">A partir du corpus des questions écrites et de l&rsquo;appartenance politique des députés, un petit groupe a tenté d&rsquo;apprendre quels sont les mots, les bigrammes (groupes de deux mots) et les trigrammes (groupe de trois mots) caractéristiques de la droite ou de la gauche. A terme, ce travail pourrait permettre de classifier automatiquement des textes en leur attribuant une tendance politique.</p>
+<p><strong>Peut-on générer automatiquement les textes des questions écrites ?</strong></p>
+<blockquote>
+<p style="text-align: justify;">« <em>Je suis fier que, grâce à ce Président, nos armées soient accueillies comme elles le sont en Afrique. Avec quelles mesures concrètes atteindrez-vous l&rsquo;objectif que vous vous êtes vous-même fixé, et qui est contesté par plusieurs membres de votre gouvernement comme par une partie de votre majorité ? C&rsquo;est la raison pour laquelle, d&rsquo;ailleurs, la police nationale saisit le procureur pour déplacement provisoire lorsqu&rsquo;il y a des cas de maltraitance constatés.  Mais ce sont des cas de maltraitance ! (Applaudissements sur quelques bancs du groupe SRC et sur les bancs du groupe écologiste</em>. »</p>
+</blockquote>
+<p style="text-align: justify;">Ce texte n&rsquo;a  pas été prononcé par un député mais généré par un algorithme qui a été entraîné sur le corpus des questions écrites. Le projet était essentiellement ludique, mais cette approche pourrait permettre de mieux comprendre et analyser la structure les débats à l&rsquo;Assemblée. Le code source utilisant des réseaux de neurones récurrents a été publié sur <a href="https://github.com/AlexisEidelman/DataCampAN" class="broken_link">Github</a>  et pourra être réutilisé.</p>
+<p><strong>La plateforme nosdeputes.fr a-t-elle eu un effet sur l&rsquo;activité des députés ?</strong></p>
+<p><figure id="attachment_6048" aria-describedby="caption-attachment-6048" style="width: 300px" class="wp-caption alignright"><img loading="lazy" decoding="async" class="size-medium wp-image-6048" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/12/RegardsCitoyen_questionsecrites-300x205.png" alt="nombre de questions écrites au cours du temps" width="300" height="205" srcset="/wp-content/uploads/2016/12/RegardsCitoyen_questionsecrites-300x205.png 300w, /wp-content/uploads/2016/12/RegardsCitoyen_questionsecrites.png 397w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-6048" class="wp-caption-text">Analyse de l&rsquo;évolution du nombre de question écrite au cours du temps</figcaption></figure></p>
+<p style="text-align: justify;">Connu pour avoir lancé la plateforme <a href="http://www.nosdeputes.fr/">nosdeputes.fr</a> en 2009, le collectif <a href="https://www.regardscitoyens.org/">Regards Citoyens</a> s&rsquo;est lancé dans un exercice d&rsquo;introspection pour étudier si la parution de ses indicateurs sur l&rsquo;activité des députés avait eu un effet rétroactif sur le comportement des députés. L&rsquo;analyse montre que l&rsquo;augmentation du nombre de questions écrites au cours du temps précède la sortie de nosdeputes.fr. C&rsquo;est sans doute l&rsquo;introduction de la possibilité de poser des questions par email plutôt que sur papier qui explique cette évolution. Le code source de cet analyse peut aussi être consulté sur <a href="https://github.com/regardscitoyens/notebook_questions_assemblee/blob/master/questions.ipynb">Github</a>.</p>
+<p><strong>Y a-t-il un lien entre le nombre d&rsquo;amendements déposés et la probabilité qu&rsquo;un amendement soit adopté ?</strong></p>
+<p>Le collectif Regards Citoyens s&rsquo;est interrogé sur le lien entre le nombre d&rsquo;amendements déposés et la probabilité qu&rsquo;un amendement soit adopté. Il ressort de l&rsquo;analyse que ce sont plus l&rsquo;appartenance à la majorité et l&rsquo;appartenance à une commission qui expliquent le ratio d&rsquo;amendements adoptés par député.</p>
+<p><strong>Qui a voté quoi ?</strong></p>
+<p><figure id="attachment_6049" aria-describedby="caption-attachment-6049" style="width: 300px" class="wp-caption alignright"><img loading="lazy" decoding="async" class="size-medium wp-image-6049" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/12/Cartographiedelassembleenationale-300x188.png" alt="Visualisation des votes à l'Assemblée nationale" width="300" height="188" srcset="/wp-content/uploads/2016/12/Cartographiedelassembleenationale-300x188.png 300w, /wp-content/uploads/2016/12/Cartographiedelassembleenationale-768x481.png 768w, /wp-content/uploads/2016/12/Cartographiedelassembleenationale-1024x641.png 1024w, /wp-content/uploads/2016/12/Cartographiedelassembleenationale.png 1222w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-6049" class="wp-caption-text">Visualisation des votes sur l&rsquo;amendement n° 153 de la Commission des affaires sociales et l&rsquo;amendement identique n° 33 de M. Accoyer à l&rsquo;article 43 du projet de loi de financement de la sécurité sociale pour 2017 (première lecture)</figcaption></figure></p>
+<p>Au parlement européen, les votes des députés peuvent être directement visualisés sur un écran. A l&rsquo;Assemblée nationale, seuls les votes lors des scrutins solennels sont enregistrés mais il n&rsquo;existe pas d&rsquo;outil pour visualiser en direct ce qu&rsquo;a voté l&rsquo;Assemblée. Le collectif Regards Citoyens a développé un outil qui permet d&rsquo;avoir une visualisation interactive du vote. L&rsquo;outil peut être consulté sur le site <a href="https://regardscitoyens.github.io/mapHemicycle/">https://regardscitoyens.github.io/mapHemicycle/</a>.</p>
+<p><strong>Comment standardiser les données issues des consultations citoyennes ?</strong></p>
+<p>Le collectif <a href="https://cap-collectif.com/">Cap-Collectif</a> qui développe une plateforme de consultation en ligne, qui avait notamment été utilisée lors de la consultation sur le projet de loi pour une République numérique a travaillé sur la définition de standards pour développer l&rsquo;interopérabilité des données issues des différentes consultation en ligne. Le résultat de leur travail est disponible sur <a href="https://annuel.framapad.org/p/InteroperabiliteDonn%C3%A9esConsultation">framapad</a> et <a href="https://drive.google.com/file/d/0B2o2KQFmzIc9VE1QY0RrSElNcFU/view" class="broken_link">GoogleDrive</a>.</p>
+<p><strong>Comment organiser des consultations citoyennes ?</strong></p>
+<p>Un groupe de travail s&rsquo;est penché sur l&rsquo;organisation des consultations citoyennes et s&rsquo;est interrogé sur les conditions de succès de ces consulations.</p>
+<p><strong>Comment organiser la table ronde « L’association des citoyens au travail parlementaire » lors du sommet OGP ?</strong></p>
+<p><figure id="attachment_6059" aria-describedby="caption-attachment-6059" style="width: 300px" class="wp-caption alignright"><img loading="lazy" decoding="async" class="size-medium wp-image-6059" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/12/dc6min-300x200.jpg" alt="Groupe de travail au Datacamp de l'Assemblée nationale" width="300" height="200" srcset="/wp-content/uploads/2016/12/dc6min-300x200.jpg 300w, /wp-content/uploads/2016/12/dc6min-768x513.jpg 768w, /wp-content/uploads/2016/12/dc6min-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-6059" class="wp-caption-text">©Assemblée nationale</figcaption></figure></p>
+<p>La philosophe Claire de Chessé, qui anime lors du <a href="https://fr.ogpsummit.org/" class="broken_link">sommet du Partenariat pour un gouvernement ouvert</a> une table ronde sur l&rsquo;<a href="https://fr.ogpsummit.org/open-parliament/" class="broken_link">association des citoyens au travail parlementaire</a>, a réfléchi avec un petit groupe de personnes à l&rsquo;organisation de cette table ronde.</p>
+<p><strong>Où sont les bénéficiaires de la réserve parlementaire ?</strong></p>
+<p>Depuis 2013, l&rsquo;Assemblée nationale publie les données de l&rsquo;ensemble des bénéficiaires de la réserve parlementaire. En géocodant les adresses des bénéficiaires, un groupe a réalisé une carte de France des bénéficaires.</p>
+<p><strong>Qui en a parlé ?</strong></p>
+<p><figure id="attachment_6050" aria-describedby="caption-attachment-6050" style="width: 300px" class="wp-caption alignright"><img loading="lazy" decoding="async" class="size-medium wp-image-6050" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/12/Data-Camp-AN-Projet-7-Exploration-des-débats-300x169.png" alt="Visualisation d'un outil de requête dans les débats parlementaires" width="300" height="169" srcset="/wp-content/uploads/2016/12/Data-Camp-AN-Projet-7-Exploration-des-débats-300x169.png 300w, /wp-content/uploads/2016/12/Data-Camp-AN-Projet-7-Exploration-des-débats-768x432.png 768w, /wp-content/uploads/2016/12/Data-Camp-AN-Projet-7-Exploration-des-débats-1024x576.png 1024w, /wp-content/uploads/2016/12/Data-Camp-AN-Projet-7-Exploration-des-débats.png 1920w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-6050" class="wp-caption-text">Visualisation d&rsquo;un outil qui permette de faire des recherches dans l&rsquo;historique des débats</figcaption></figure></p>
+<p>Il n&rsquo;est pas toujours facile de trouver qui a parlé d&rsquo;un sujet donné. A partir de la base de données des débats parlementaires, un groupe de travail a développé une interface graphique qui permet de faire des requêtes par thème et d&rsquo;identifier rapidement les parlementaires qui sont intervenus sur un sujet. Cet outil pourrait être utile aussi bien aux citoyens, aux journalistes ou aux parlementaires eux-mêmes qui souhaitent rapidement retrouver les prises de position des uns et des autres sur un sujet donné.</p>
+<p>&nbsp;</p>
+<p>Ce premier data camp a montré la richesse des données mises à disposition par l&rsquo;Assemblée nationale et le foisonnement des idées issues de la société civile pour comprendre et améliorer le travail parlementaire.</p>
+<p>En conclusion, la vice-présidente de l&rsquo;Assemblée nationale, Sandrine Mazetier, a souligné qu&rsquo;en « inventant de nouvelles manières d’accéder au quotidien de l’Assemblée nationale », les participants donnent aux parlementaires « l’opportunité de nous interroger sur nos propres pratiques et sur l’exercice du pouvoir législatif ».</p>
+<p>Suite à cet événement, l&rsquo;Assemblée nationale a sélectionné deux projets sur lesquels elle va continuer à travailler avec les participants, la visualisation des votes solennels proposée par Regards Citoyens et la cartographie de la réserve parlementaire.[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]#DataCampAN : Un Open Data Camp à l&#8217;Assemblée nationale[:]</title>
+		<link>/datacampan-un-open-data-camp-a-lassemblee-nationale</link>
+		
+		<dc:creator><![CDATA[Paul-Antoine Chevalier]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2016 14:59:17 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[OGP]]></category>
+		<category><![CDATA[opendata]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=5866</guid>
+
+					<description><![CDATA[[:fr]En 2015, l&#8217;Assemblée nationale a publié son plan d&#8217;action pour le Partenariat pour un gouvernement ouvert intitulé Vers une Assemblée nationale du XXIème siècle. Dans ce document, l&#8217;Assemblée nationale s&#8217;est engagée à poursuivre son ouverture en renforçant la transparence de la procédure législative et de son fonctionnement et en renforçant les liens entre les citoyens &#8230;<p class="read-more"> <a class="" href="/datacampan-un-open-data-camp-a-lassemblee-nationale"> <span class="screen-reader-text">[:fr]#DataCampAN : Un Open Data Camp à l&#8217;Assemblée nationale[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]En 2015, l&rsquo;Assemblée nationale a publié son plan d&rsquo;action pour le Partenariat pour un gouvernement ouvert intitulé <a href="http://www.opengovpartnership.org/sites/default/files/Plan%20d%E2%80%99action%20de%20l%E2%80%99Assembl%C3%A9e%20Nationale.pdf" target="_blank"><em>Vers une Assemblée nationale du XXIème siècle</em></a>. Dans ce document, l&rsquo;Assemblée nationale s&rsquo;est engagée à poursuivre son ouverture en renforçant la transparence de la procédure législative et de son fonctionnement et en renforçant les liens entre les citoyens et leurs représentants.</p>
+<p class="western"><span lang="fr-FR">Après avoir ouvert son portail open data en juin 2015, l&rsquo;Assemblée nationale poursuit son engagement en faveur de l&rsquo;ouverture des données et organise le 26 novembre prochain son premier Open Data Camp. Cette journée s&rsquo;inscrit également dans la préparation du <a href="https://fr.ogpsummit.org/osem/conference/ogp-summit" class="broken_link">4e Sommet mondial de l&rsquo;OGP</a>, qui traitera notamment de la thématique de l&rsquo;ouverture des parlements à travers le monde.<br />
+</span></p>
+<p class="western"><span lang="fr-FR">Cet événement sera l&rsquo;occasion pour les développeurs, les data-scientists et tous les citoyens d&rsquo;imaginer de nouveaux usages des données de l&rsquo;Assemblée nationale pour étudier la participation citoyenne aux consultations, la fabrique de la loi,  ou tout autre thème en relation avec les données parlemantaires.</span></p>
+<h2 class="western"><span lang="fr-FR">Données disponibles</span></h2>
+<p class="western"><span lang="fr-FR">A cette occasion, l&rsquo;Assemblée nationale ouvre les données pseudonymisées des résultats des quatre consultations citoyennes réalisées par l&rsquo;Assemblée nationale :<br />
+</span></p>
+<ul>
+<li class="western"><span lang="fr-FR"><a href="http://data.assemblee-nationale.fr/autres/consultations-citoyennes/fin-de-vie" target="_blank">La consultation sur la proposition de loi sur la fin de vie</a> ;</span></li>
+<li class="western"><span lang="fr-FR"><a href="http://data.assemblee-nationale.fr/autres/consultations-citoyennes/egalite-femmes-hommes" target="_blank">La consultation sur l&rsquo;évaluation de la loi pour l&rsquo;égalité entre les hommes et les femmes</a> ;</span></li>
+<li class="western"><span lang="fr-FR">La consultation sur l&rsquo;avenir de l’Union européenne ;</span></li>
+<li class="western"><span lang="fr-FR">La consultation sur la réforme des institutions.</span></li>
+</ul>
+<p class="western"><span lang="fr-FR">L&rsquo;Assemblée nationale diffusera également pour la première fois tout ou partie des schémas de ses bases de données.</span></p>
+<p class="western"><span lang="fr-FR">Ce sera aussi l&rsquo;occasion de réutiliser les données déjà diffusées sur le <a href="http://data.assemblee-nationale.fr/" target="_blank">portail open data de l&rsquo;Assemblée nationale</a> comme :</span></p>
+<ul>
+<li class="western"><span lang="fr-FR"><a href="http://data.assemblee-nationale.fr/autres/reserve-parlementaire" target="_blank">la réserve parlementaire</a> ;</span></li>
+<li class="western"><span lang="fr-FR"><a href="http://data.assemblee-nationale.fr/autres/representants-d-interets" target="_blank" class="broken_link">la liste des représentants d&rsquo;intérêts</a>  ;</span></li>
+<li class="western"><span lang="fr-FR"><a href="http://data.assemblee-nationale.fr/acteurs/deputes-en-exercice" target="_blank">la liste des députés en exercice</a> ;</span></li>
+<li class="western"><span lang="fr-FR"><a href="http://data.assemblee-nationale.fr/acteurs/historique-des-deputes)" target="_blank" class="broken_link">la liste historique des députés</a> ;</span></li>
+<li class="western"><span lang="fr-FR"><a href="http://data.assemblee-nationale.fr/travaux-parlementaires/debats" target="_blank">les compte-rendus des débats en séance publique</a> ;</span></li>
+<li class="western"><span lang="fr-FR"><a href="http://data.assemblee-nationale.fr/travaux-parlementaires/votes" target="_blank">les votes des députés sur les scrutins solennels</a> ; </span></li>
+<li class="western"><span lang="fr-FR"><a href="http://data.assemblee-nationale.fr/travaux-parlementaires/amendements" target="_blank">la liste des amendements</a> ; </span></li>
+<li class="western"><span lang="fr-FR"><a href="http://data.assemblee-nationale.fr/travaux-parlementaires/questions" target="_blank">la liste des questions au gouvernement</a> ;</span></li>
+<li class="western"><span lang="fr-FR"><a href="http://data.assemblee-nationale.fr/reunions/reunions" target="_blank">l’ensemble des réunions tenues à l’Assemblée nationale</a>.</span></li>
+</ul>
+<p>&nbsp;</p>
+<h2 class="western"><span lang="fr-FR">Déroulement de l&rsquo;événement</span></h2>
+<p class="western"><span lang="fr-FR">L&rsquo;événement aura lieu le 26 novembre 216. L&rsquo;entrée se fera au 128 rue de l&rsquo;Université dans le 7ème arrondissement de Paris (métro Invalides)  partir de 8h45.</span></p>
+<p class="western"><span lang="fr-FR">Pour des raisons de sécurité, <strong>les participants doivent impérativement s&rsquo;inscrire en remplissant le <a href="https://rdv.etalab.gouv.fr/e/13/datacampan-data-camp-a-lassemblee-nationale" target="_blank" class="broken_link">formulaire d&rsquo;inscription</a></strong> au plus tard le 22 novembre à 18h00. Les informations fournies dans le formulaire d&rsquo;inscription doivent être conformes aux informations figurant sur votre <span style="text-decoration: underline;">pièce d&rsquo;identité que vous devrez présenter à l’entrée.</span></span></p>
+<p class="western"><span lang="fr-FR">Après les restitutions, le Président de l&rsquo;Assemblée nationale clôturera l&rsquo;événement et les participants seront invités à un cocktail.</span></p>
+<p class="western"><span lang="fr-FR">En amont de l’événement, nous diffuserons un document collaboratif pour proposer des ateliers.</span></p>
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cancer de la prostate : À quoi ressemblera le parcours de soin en 2030 ?</title>
+		<link>/cancer-de-la-prostate-a-quoi-ressemblera-le-parcours-de-soin-en-2030</link>
+		
+		<dc:creator><![CDATA[Paul-Antoine Chevalier]]></dc:creator>
+		<pubDate>Wed, 25 Nov 2015 16:57:06 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[Santé]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10728</guid>
+
+					<description><![CDATA[Pour construire l’hôpital du futur, prévoir les dépenses de l’assurance maladie, ou tout simplement repérer les innovations prometteuses dans la prise en charge du cancer de la prostate, l’administrateur général des données et le cabinet La mètis publient une visualisation de données qui montre le volume de publications scientifiques pour 70 innovations depuis 30 ans &#8230;<p class="read-more"> <a class="" href="/cancer-de-la-prostate-a-quoi-ressemblera-le-parcours-de-soin-en-2030"> <span class="screen-reader-text">Cancer de la prostate : À quoi ressemblera le parcours de soin en 2030 ?</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Pour construire l’hôpital du futur, prévoir les dépenses de 
+l’assurance maladie, ou tout simplement repérer les innovations 
+prometteuses dans la prise en charge du cancer de la prostate, 
+l’administrateur général des données et le cabinet La mètis publient une
+ visualisation de données qui montre le volume de publications 
+scientifiques pour 70 innovations depuis 30 ans et prédit les volumes de
+ publications pour les 15 prochaines années.</em></p>
+
+
+
+<h2 class="wp-block-heading" id="prédire-le-parcours-de-soin">Prédire le parcours de soin</h2>
+
+
+
+<p>Construire un nouvel hôpital suppose d’anticiper ce que sera le 
+parcours de soin pour différentes pathologies dans les 5, 10 ou 15 ans à
+ venir. On ne construit pas un hôpital de la mème manière si on prévoit 
+une hausse de la surveillance active des patients ou au contraire une 
+permanence des soins lourds. Dans le premier cas, on suit le patient 
+régulièrement en soins ambulatoires alors que dans le second cas, il est
+ nécessaire de pouvoir héberger le patient à l’hôpital.</p>
+
+
+
+<p>Anticiper le progrès médical est aussi un élément important pour le 
+financement du système de soins. En effet, les améliorations dans la 
+prévention, dans la détection ou dans le traitement d’une pathologie 
+peuvent avoir des conséquences importantes. Par exemple, le 
+développement d’outils de détection de plus en plus précis permettrait 
+de réduire le nombre de personnes qui entrent dans un parcours 
+diagnostic parfois lourd. Par ailleurs, l’amélioration des outils de 
+diagnostic peut conduire à écarter des patients du parcours de soins : 
+certaines pathologies peu agressives, d’évolution très lente, pourraient
+ donner lieu à une simple surveillance et permettrait ainsi d’éviter des
+ traitements inutiles.</p>
+
+
+
+<h2 class="wp-block-heading" id="mesurer-et-prédire-lintérèt-de-la-communauté-scientifique-pour-chaque-innovation">Mesurer et prédire l’intérèt de la communauté scientifique pour chaque innovation</h2>
+
+
+
+<blockquote class="wp-block-quote"><p>PubMed sera désormais disponible gratuitement pour le peuple 
+américain. Son accès libre pourrait contribuer bien plus à la réforme et
+ à la qualité du système de soins américain que tout ce que nous avons 
+tenté de faire jusqu’ici. 
+Al Gore, conférence de presse au Capitole le 26 juin 1997.</p></blockquote>
+
+
+
+<p>En décidant d’ouvrir la base de données de la bibliothèque américaine
+ de médecine (PubMed) en 1997, le gouvernement américain a été 
+précurseur du mouvement de l’open data. Cette base de données 
+bibliographique contient l’ensemble des publications en médecine avec le
+ titre, le résumé, la date de publication, le nom des auteurs et le nom 
+de la revue. Le cabinet La mètis a d’abord déterminé un ensemble de 
+mots-clés soigneusement choisis pour identifier chacune des innovations 
+médicales dans la prise en charge du cancer de la prostate de 1980 à 
+2015. Il a ensuite fouillé les données pour analyser le nombre de 
+publications les concernant et mesuré le <em>buzz</em> scientifique de chaque innovation.</p>
+
+
+
+<p>À partir de ces données, on peut remarquer des constantes dans la 
+diffusion de chaque innovation. Le modèle le plus célèbre est connu sous
+ le nom de courbe “Hype” du cabinet de consulting Gartner. Selon ce 
+modèle, après un moment d’excitation, les attentes autour d’une 
+innovation connaissent une phase de déception et se stabilisent ensuite 
+autour de son vrai niveau d’intérèt. La mètis a ainsi identifié 8 
+modèles de diffusion de l’innovation propres à la littérature médicale 
+et est capable d’associer chacune des 70 innovations étudiées à l’un de 
+ces modèles. Ce sont ces modèles qui permettent de prédire les volumes 
+de publications à l’horizon 2030.</p>
+
+
+
+<h2 class="wp-block-heading" id="un-outil-pour-naviguer-dans-les-données">Un outil pour naviguer dans les données</h2>
+
+
+
+<p>L’analyse de La mètis peut ètre utile pour un grand nombre d’acteurs.
+ L’administrateur général des données et La mètis se sont associés pour 
+développer un outil de visualisation qui permet à chacun de naviguer 
+dans les données. L’outil distingue quatre niveaux de zooms, du plus 
+détaillé (<a href="http://datavisualisation.la-metis.fr/app/first" target="_blank" rel="noreferrer noopener" class="broken_link">zoom 1</a>) aux grandes tendances de la recherche (<a href="http://datavisualisation.la-metis.fr/app/fourth" target="_blank" rel="noreferrer noopener" class="broken_link">zoom 4</a>)
+ et propose à chaque fois une visualisation du volume de publications 
+associées de 1980 à 2015 ainsi qu’une prédiction jusqu’à 2030.</p>
+
+
+
+<p>Outre sa dimension prospective, l’outil est aussi une visualisation 
+de la littérature scientifique. Le volume de publications scientifiques 
+dans un domaine précis est devenu aujourd’hui tellement important qu’il 
+est essentiel de développer des outils qui donnent une vision 
+synthétique de la recherche. Cet outil pourrait ètre utile à des usages 
+variés. Il pourrait en effet permettre aux chercheurs et aux 
+spécialistes d’analyser les grandes tendances dans leur domaine ; aux 
+responsables des politiques de santé de construire des hôpitaux 
+anticipant au mieux le progrès médical ; aux médecins généralistes 
+d’avoir une idée synthétique des innovations les plus prometteuses et 
+mème aux patients experts d’avoir connaissance des différentes solutions
+ pour pouvoir dialoguer avec leur médecin.</p>
+
+
+
+<p>Au-delà de l’analyse de la prise en charge du cancer de la prostate, 
+cet outil montre la richesse potentielle de l’analyse des données 
+sémantiques. Cette exploration de la littérature scientifique pourrait 
+avoir de nombreuses autres applications dans d’autres domaines de la 
+recherche.</p>
+
+
+
+<p>Les travaux sont désormais rendus publics sur la plateforme <a href="https://www.data.gouv.fr/fr/datasets/cancer-de-la-prostate-30-dinnovations-et-apres/">data.gouv.fr</a>
+ pour favoriser des collaborations avec des partenaires publics et 
+privés autour de cette innovation. Des travaux ont été engagés avec 
+l’association française d’urologie (AFU) pour affiner les résultats.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

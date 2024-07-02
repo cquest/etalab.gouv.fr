@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Clémentine Désigaud &#8211; Etalab</title>
+	<atom:link href="/author/clementine/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Thu, 08 Sep 2016 13:47:22 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Clémentine Désigaud &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[:fr]Les jeunes et l&#8217;open data : retour sur l&#8217;Open Youth Academy 2016[:]</title>
+		<link>/les-jeunes-et-lopen-data-retour-sur-lopen-youth-academy-2016</link>
+		
+		<dc:creator><![CDATA[Clémentine Désigaud]]></dc:creator>
+		<pubDate>Thu, 08 Sep 2016 13:47:22 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=5367</guid>
+
+					<description><![CDATA[[:fr]Du 28 août au 3 septembre, 22 jeunes venus de Croatie, de Serbie, du Kosovo, d&#8217;Afrique du Sud, du Royaume-Uni et de France se sont réunis à Pula, en Croatie, pour participer à la deuxième édition de l&#8217;Open Youth Academy : une semaine d&#8217;ateliers, de conférences et de projets autour de l&#8217;open data, organisée par &#8230;<p class="read-more"> <a class="" href="/les-jeunes-et-lopen-data-retour-sur-lopen-youth-academy-2016"> <span class="screen-reader-text">[:fr]Les jeunes et l&#8217;open data : retour sur l&#8217;Open Youth Academy 2016[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]Du 28 août au 3 septembre, <strong>22 jeunes venus de Croatie, de Serbie, du Kosovo, d&rsquo;Afrique du Sud, du Royaume-Uni et de France</strong> <strong>se sont réunis à Pula, en Croatie, pour participer à la <a href="https://www.etalab.gouv.fr/la-nouvelle-generation-de-lopen-data-retours-dexperience-de-lopen-data-youth-camp">deuxième édition</a> de l&rsquo;<a href="http://academy.codeforcroatia.org/">Open Youth Academy</a> :</strong> une semaine d&rsquo;ateliers, de conférences et de projets autour de l&rsquo;open data, organisée par Code for Croatia, l&rsquo;association HrOpen et la commissaire à l&rsquo;information de la République de Croatie. Les <a href="https://www.etalab.gouv.fr/les-18-25-ans-et-lopen-data">participants français</a> à cet événement avaient été sélectionnés par Etalab et l&rsquo;<a href="http://www.ambafrance-hr.org/">ambassade de France en Croatie</a> en juin.</p>
+<p><img decoding="async" class="wp-image-5402 alignright" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/09/UNSustainableDevelopmentGoals_Brand-02.png" alt="UNSustainableDevelopmentGoals_Brand-02" width="226" height="176" srcset="/wp-content/uploads/2016/09/UNSustainableDevelopmentGoals_Brand-02.png 990w, /wp-content/uploads/2016/09/UNSustainableDevelopmentGoals_Brand-02-300x234.png 300w, /wp-content/uploads/2016/09/UNSustainableDevelopmentGoals_Brand-02-768x598.png 768w" sizes="(max-width: 226px) 100vw, 226px" />L&rsquo;Open Youth Academy 2016 portait sur <strong>l&rsquo;utilisation des données ouvertes pour répondre, au niveau local, aux objectifs de développement durable fixés par les Nations Unies</strong>. Un thème qui a d&#8217;emblée convaincu les participants français : pour Adrien Pascal, « <em>l&rsquo;open data et plus largement l&rsquo;open government s&rsquo;inscrivent dans une dynamique mondiale avec le Partenariat pour un gouvernement ouvert, mais ils ont surtout un impact au niveau local en apportant des solutions pour avancer vers plus de démocratie et un développement plus durable</em>« .</p>
+<p>Les jeunes participants se sont donc d&rsquo;abord familiarisés avec les objectifs de développement durable, lors d&rsquo;un atelier mené par la responsable du Programme des Nations Unies pour le Développement en Croatie, puis ont pu débattre avec des experts de l&rsquo;open data venus des différents pays participants. Une opportunité appréciée par Arthur Imbert : <em>« Je voulais en savoir plus sur l&rsquo;open data en dehors de la France et j&rsquo;ai pu découvrir de nombreuses initiatives intéressantes dans les différents pays. On se rend compte que chaque pays rencontre des difficultés similaires, en fonction de son niveau d&rsquo;avancement. »</em></p>
+<p><img fetchpriority="high" decoding="async" class=" wp-image-5384 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/09/DSC_0003-v2-1024x934.jpg" alt="DSC_0003 v2" width="293" height="267" srcset="/wp-content/uploads/2016/09/DSC_0003-v2-1024x934.jpg 1024w, /wp-content/uploads/2016/09/DSC_0003-v2-300x274.jpg 300w, /wp-content/uploads/2016/09/DSC_0003-v2-768x700.jpg 768w" sizes="(max-width: 293px) 100vw, 293px" />Répartis en 4 équipes et accompagnés d&rsquo;experts, les jeunes participants ont ensuite pu<strong> se plonger concrètement dans la réutilisation des données publiques en développant leurs propres projets en faveur du développement durable local</strong> : promotion de l&rsquo;énergie solaire, renforcement de l&rsquo;économie locale, informations sur les équipements publics, et transfert de compétences. Des projets que Pierre-Loïc Pichon décrit comme <em>« novateurs, conscients des changements sociaux qui s&rsquo;opèrent en 2016 »</em> et dont <em>« les grandes idées restent valables pour tous les pays même si leur application concrète peut prendre des nuances locales »</em>.</p>
+<p>Chaque équipe a rassemblé des jeunes <strong>de nationalité et de compétences différentes</strong>. Pour Arthur, cette expérience témoigne du succès avec lequel « <em>des personnes de pays, de formation et de parcours différents peuvent arriver à tisser des liens, travailler ensemble dans un temps limité et développer un projet utile à la société</em>« . Ryan Lahfa souligne également <em>« l’échange culturel fort entre tous les participants et la dimension locale apporté par les participants croates » </em>dans son équipe.</p>
+<p>Après trois jours de travail, les équipes ont pitché leur projet devant un jury composé d&rsquo;experts du secteur public, du secteur privé et de la société civile, puis ont bénéficié de leurs conseils et retours lors de séances de consultation. Pour Adrien, <em>« la confrontation des points de vue entre les représentants des entreprises, du gouvernement et des ONG lors des consultations nous a permis d&rsquo;affiner notre projet et de réfléchir concrètement à son développement. »</em></p>
+<p>A la fin de la semaine, les participants se sont réunis à la mairie de Pula pour <strong>échanger sur l&rsquo;open data avec des agents de l&rsquo;administration locale et présenter leurs projets devant la ministre croate de l&rsquo;Administration publique</strong>, avant la remise des prix. C&rsquo;est le projet Tinja, qui permet de savoir si sa maison est éligible à la pose de panneaux solaires, de calculer les économies potentielles et de rentrer en relation avec des artisans locaux, qui a reçu le premier prix.</p>
+<p>Les membres de l&rsquo;équipe gagnante auront la chance d&rsquo;être invités par le Partenariat pour un gouvernement ouvert (PGO) à Paris, afin de<strong> faire entendre la voix de la nouvelle génération de l&rsquo;open data au <a href="https://fr.ogpsummit.org/osem/conference/ogp-summit" class="broken_link">Sommet mondial 2016 du PGO</a></strong>.</p>
+<p><img decoding="async" class="wp-image-5379 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/09/20160902_122811-v2-1024x768.jpg" alt="20160902_122811 v2" width="438" height="328" srcset="/wp-content/uploads/2016/09/20160902_122811-v2-1024x768.jpg 1024w, /wp-content/uploads/2016/09/20160902_122811-v2-300x225.jpg 300w, /wp-content/uploads/2016/09/20160902_122811-v2-768x576.jpg 768w" sizes="(max-width: 438px) 100vw, 438px" /></p>
+<p>Le travail en équipe projet aura permis aux participants français de <strong>développer une expérience directe et concrète de l&rsquo;open data</strong>. Arthur a ainsi réalisé que les porteurs de projet <em>« ont besoin d&rsquo;un coup de main du secteur public pour accéder à des données ouvertes »</em>. Une coopération nécessaire entre les secteurs que Pierre-Loïc souligne également : <em>« Les citoyens, les gouvernements et les entreprises ont tout à gagner à contribuer à ce cercle vertueux de transparence en ouvrant leurs données. L&rsquo;open data n&rsquo;est pas forcément une innovation technique mais peut impacter, pour le mieux, la vie de millions de citoyens. »</em></p>
+<p>Les enseignements de cette semaine intensive et les rencontres qu&rsquo;ils y ont fait leur ont donné envie <strong>d&rsquo;incarner la nouvelle génération de l&rsquo;open data en France</strong>. Adrien reconnaît que les experts lui ont donné <em>« l&rsquo;envie d&rsquo;entreprendre avec l&rsquo;open data »</em> et s&rsquo;est rendu compte que <em>« les données ouvertes permettent de créer plus facilement de nouveaux services »</em>. Ryan insiste sur son <em>« désir très fort de transférer les connaissances apprises durant cette semaine et de les appliquer à l&rsquo;échelle de la France</em>« .</p>
+<p><strong>Une jeune génération à rencontrer lors du <a href="https://fr.ogpsummit.org/osem/conference/ogp-summit" class="broken_link">Sommet mondial du PGO</a> en décembre !</strong>[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]scanR : le moteur et les données de la recherche[:]</title>
+		<link>/scanr-le-moteur-et-les-donnees-de-la-recherche</link>
+		
+		<dc:creator><![CDATA[Clémentine Désigaud]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2016 10:01:54 +0000</pubDate>
+				<category><![CDATA[Données]]></category>
+		<category><![CDATA[Réutilisations]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=5155</guid>
+
+					<description><![CDATA[[:fr]Le ministère de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche dévoile aujourd’hui scanR, le moteur de la recherche et de l’innovation. Il se présente comme une application web d’aide à la caractérisation des structures de recherche publiques (unités de recherche, institutions publiques) et privées (entreprises), quels que soient leur discipline ou leur secteur. &#8230;<p class="read-more"> <a class="" href="/scanr-le-moteur-et-les-donnees-de-la-recherche"> <span class="screen-reader-text">[:fr]scanR : le moteur et les données de la recherche[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]Le ministère de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche dévoile aujourd’hui <strong><a href="https://scanr.enseignementsup-recherche.gouv.fr/">scanR, le moteur de la recherche et de l’innovation</a>. </strong>Il se présente comme une application web d’aide à la caractérisation des structures de recherche publiques (unités de recherche, institutions publiques) et privées (entreprises), quels que soient leur discipline ou leur secteur.</p>
+<p><strong>scanR</strong> combine des informations extraites des sites web des structures de recherche et des données ouvertes enrichies, concernant <strong>près de 17 000 acteurs de la recherche implantés en France</strong> : publications et thèses, implication dans des projets de recherche collaborative, essaimage d’entreprises, brevets…</p>
+<p>Grâce à son moteur de recherche qui indexe l’ensemble des sources de données, scanR permet aux utilisateurs <strong>d’identifier des acteurs français travaillant sur une problématique de recherche spécifique</strong>. Cette application constitue donc un point d’entrée privilégié et unifié vers un ensemble de ressources, qui permettent de caractériser l’implication dans la recherche et l’innovation des différents acteurs français et les relations qui les unissent.</p>
+<p><a href="https://scanr.enseignementsup-recherche.gouv.fr/"><img loading="lazy" decoding="async" class="wp-image-5157 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/07/scanR2.png" alt="scanR2" width="485" height="265" srcset="/wp-content/uploads/2016/07/scanR2.png 608w, /wp-content/uploads/2016/07/scanR2-300x164.png 300w" sizes="(max-width: 485px) 100vw, 485px" /></a></p>
+<p>Le mode d’alimentation en données de scanR ne permet pas de garantir l’exhaustivité du référencement des publications, brevets, thèses et financements, et <strong>s’accompagne donc d’un mécanisme de contribution collaborative (crowdsourcing)</strong>. L’application permet en effet à chaque utilisateur de faire remonter de façon simple des remarques et des erreurs ou de proposer des enrichissements directement sur les pages des structures de recherche.</p>
+<p>Le ministère de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche rend <strong>également disponibles les données associées à l’application scanR</strong>. Ces données sont publiées sur le <a href="http://data.enseignementsup-recherche.gouv.fr/explore/?sort=modified">portail open data de l’enseignement supérieur et à la recherche</a> et sur le portail <a href="https://www.data.gouv.fr/fr/apidoc/">data.gouv.fr</a>.</p>
+<p>Les jeux de données suivants sont disponibles :</p>
+<ul>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-recherche-publiques-actives/">Structures de recherche publiques actives </a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/repertoire-national-des-structures-de-recherche/">Répertoire national des structures de recherche</a></li>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-repertoire-national-structures-recherche-historique-annuel/">Répertoire national des structures de recherche &#8211; Historique annuel</a></li>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-etablissements-publics-prives-impliques-recherche-developpement/">Établissements publics et privés impliqués dans la recherche et le développement</a></li>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-scanr-publications-scientifiques/">Publications scientifiques recensées dans scanR</a></li>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-aap-anr-projets-retenus-participants-identifies/">Appels à projets ANR &#8211; Projets retenus et participants identifiés</a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/appels-a-projets-7eme-pcrdt-projets-retenus-et-participants-identifies/">Appels à projets du 7e PCRDT &#8211; Projets retenus et participants identifiés</a></li>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-laureats-concours-national-i-lab/">Lauréats I-LAB &#8211; Concours national d&rsquo;aide à la création d&rsquo;entreprises de technologies innovantes </a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/finalistes-et-laureats-du-concours-ma-these-en-180-secondes-france/">Finalistes et lauréats du concours « Ma thèse en 180 secondes » France</a></li>
+</ul>
+<p>L’application scanR, comme le portail open data de l’enseignement supérieur et de la recherche, sont deux exemples des avancées du ministère de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche en matière d’ouverture des données publiques et de gouvernement ouvert.</p>
+<p>Ces avancées s’inscrivent dans le cadre des engagements internationaux pris par la France : ouverture des données de la recherche (engagement pris lors de la signature de la <a href="http://www.etalab.gouv.fr/leschefsdetatdug8signentunechartepourlouverturedesdonneespubliques">Charte Open Data du G8</a>), renforcement de la politique d’ouverture et de circulation des données (engagement 15 du <a href="https://www.etalab.gouv.fr/plan-daction-national">Plan d’action national</a> de la France au sein du Partenariat pour un gouvernement ouvert).[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]#GreenTech : retour sur les premiers hackathons du ministère de l&#8217;Environnement, de l’Énergie et de la Mer[:]</title>
+		<link>/greentech-retour-sur-les-premiers-hackathons-du-ministere-de-lenvironnement-de-lenergie-et-de-la-mer</link>
+		
+		<dc:creator><![CDATA[Clémentine Désigaud]]></dc:creator>
+		<pubDate>Fri, 10 Jun 2016 08:51:25 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4979</guid>
+
+					<description><![CDATA[[:fr]Porté par l&#8217;expérience positive du Climate Change Challenge en 2015, le ministère de l&#8217;Environnement, de l’Énergie et de la Mer a lancé au début de l&#8217;année 2016 sa démarche Green Tech en faveur des technologies vertes, au croisement des révolutions numérique et écologique. Deux hackathons ont déjà été organisés sur les données de la consommation &#8230;<p class="read-more"> <a class="" href="/greentech-retour-sur-les-premiers-hackathons-du-ministere-de-lenvironnement-de-lenergie-et-de-la-mer"> <span class="screen-reader-text">[:fr]#GreenTech : retour sur les premiers hackathons du ministère de l&#8217;Environnement, de l’Énergie et de la Mer[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]Porté par l&rsquo;expérience positive du <a href="https://www.data.gouv.fr/fr/climate-change-challenge">Climate Change Challenge</a> en 2015, le ministère de l&rsquo;Environnement, de l’Énergie et de la Mer a lancé au début de l&rsquo;année 2016 sa démarche Green Tech en faveur des technologies vertes, au croisement des révolutions numérique et écologique. Deux hackathons ont déjà été organisés sur les données de la consommation d&rsquo;énergie et les données de la biodiversité, avec le soutien d&rsquo;Etalab.</p>
+<h3>La démarche Green Tech</h3>
+<p>La démarche Green Tech a été lancée en février 2016 par Ségolène Royal, ministre de l&rsquo;Environnement, de l’Énergie et de la Mer, et Emmanuel Macron, ministre de l’Économie, de l&rsquo;Industrie et du Numérique, pour rassembler les écosystèmes du numérique et de la transition écologique. Les outils numériques et les données permettent de développer de nouveaux services en faveur du dialogue environnemental et d&rsquo;une croissance verte.</p>
+<p>Dans le cadre de la Green Tech, le ministère de l&rsquo;Environnement, de l’Énergie et de la Mer lance un appel à projets dans huit secteurs clés : les économies d&rsquo;énergie, les énergies renouvelables, les bâtiments, le transport, les risques, l&rsquo;économie circulaire, la santé et la biodiversité. La mise en place de cette démarche s&rsquo;appuie sur l&rsquo;ouverture et la valorisation des données du ministère et de son réseau scientifique et technique, notamment par l&rsquo;organisation de hackathons. Les projets retenus lors des hackathons et concours de start-ups sont susceptibles d&rsquo;intégrer l&rsquo;incubateur Green Tech créé par le ministère.</p>
+<p><a href="http://www.developpement-durable.gouv.fr/IMG/pdf/Dossier_Green_Tech.pdf" class="broken_link">En savoir plus sur la Green Tech</a></p>
+<h3>Le hackathon #CompteurConnect sur la consommation d&rsquo;énergie (du 20 au 22 mai)</h3>
+<p>Le premier hackathon organisé par le ministère dans le cadre de la Green Tech portait sur les données de consommation d&rsquo;énergie, en lien avec les compteurs communicants, afin de favoriser le développement de nouveaux services de maîtrise de sa consommation d&rsquo;énergie pour les usagers et les territoires. Le 15 mars, un barcamp avait permis d&rsquo;identifier <a href="https://forum.etalab.gouv.fr/c/agenda/hackathon-sur-la-consommation-energetique">huit défis publiés sur le forum d&rsquo;Etalab</a>. C&rsquo;est à ces défis que les participants du hackathon ont tenté de répondre pendant 48h à partir des données et des objets connectés mis à disposition par les partenaires de l&rsquo;événement (ERDF, GRDF, l&rsquo;ADEME, Ijenko et ThinkSmartGrids).</p>
+<p>ERDF et GRDF ont mis à disposition des participants des données individuelles de consommation d&rsquo;énergie de clients résidentiels et des données annuelles de consommation d&rsquo;énergie à la maille IRIS. Ijenko a mis à disposition des données individuelles de consommation globale et par usage de clients résidentiels. En plus de ces données ouvertes exclusivement pendant le hackathon, les participants pouvaient utiliser les<a href="https://www.data.gouv.fr/fr/posts/compteurconnect-les-donnees-du-hackathon-sur-la-consommation-energetique/"> jeux de données en open data recensés sur data.gouv.fr</a> en matière de consommation énergétique des bâtiments, d&rsquo;énergie, d&rsquo;immobilier et des données de contexte (données météo, données géographiques). La Direction des achats de l’État a notamment publié en open data les <a href="https://www.data.gouv.fr/fr/datasets/donnees-de-consommation-delectricite-des-ministeres/">données de consommation électrique des bâtiments de dix ministères</a>, au pas de temps dix minutes.</p>
+<p><img loading="lazy" decoding="async" class="wp-image-4987 size-medium alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/06/CC-300x157.png" alt="CC" width="300" height="157" srcset="/wp-content/uploads/2016/06/CC-300x157.png 300w, /wp-content/uploads/2016/06/CC.png 448w" sizes="(max-width: 300px) 100vw, 300px" />Trois lauréats ont été sélectionnés par un <a href="http://www.developpement-durable.gouv.fr/Hackathon-CompteurConnect-le.html" class="broken_link">jury présidé par Laurence Monnoyer-Smith</a>, commissaire générale au développement durable :</p>
+<ul>
+<li><strong>1er prix : Eclipse</strong> est une solution mobile qui incite les utilisateurs du réseau électrique à s&rsquo;effacer pendant les heures de pointe et qui récompense leurs efforts par l&rsquo;attribution d&rsquo;un jeton électronique.</li>
+<li><strong>2ème prix : LeRéseau</strong> est une plateforme qui permet aux petits producteurs et aux consommateurs d&rsquo;énergies renouvelables de tisser des liens au niveau local pour savoir d&rsquo;où vient leur énergie.</li>
+<li><strong>3ème prix : HomePulse</strong> est un tableau de bord énergétique permettant de prédire les factures d&rsquo;énergie des bâtiments, de cibler des actions de rénovation thermique et de qualifier le potentiel d&rsquo;effacement.</li>
+</ul>
+<p>Ils ont été <a href="http://www.developpement-durable.gouv.fr/Eclipse-LeReseau-et-HomePulse-sont.html" class="broken_link">récompensés par Ségolène Royal</a> le 31 mai, au ministère de l&rsquo;Environnement, de l’Énergie et de la Mer.</p>
+<p>Par ailleurs, les partenaires du hackathon ont distingué trois projets coups de cœur :</p>
+<ul>
+<li><strong>JeComprendsMonEnergie.fr</strong> est une plateforme collaborative proposant aux usagers de partager leurs données énergétiques, les caractéristiques de leur logement et leurs éco-pratiques par territoire, pour mieux comprendre et optimiser leur consommation.</li>
+<li><strong>Joole</strong> est une plateforme web proposant aux usagers d&rsquo;analyser leurs données afin de leur restituer ces informations sous une forme claire et compréhensible et de leur proposer des actions concrètes, personnalisables et mesurables pour plus d&rsquo;efficacité énergétique et d&rsquo;économies.</li>
+<li><strong>Touch&amp;Move</strong> est un objet connecté qui prédit par algorithme la consommation du logement au lendemain et propose en fonction un scénario d&rsquo;optimisation énergétique.</li>
+</ul>
+<h3>Le hackathon #HackBiodiv sur les données de la biodiversité (du 3 au 5 juin)</h3>
+<p>Le deuxième hackathon visait à faciliter l&rsquo;émergence de nouveaux usages et développer des outils collaboratifs autour de l&rsquo;<a href="https://inpn.mnhn.fr/" rel="nofollow">Inventaire national du patrimoine naturel</a> (INPN), plate-forme nationale du système d’information sur la nature et les paysages (SINP). Il fait suite au <a href="https://www.legifrance.gouv.fr/affichLoiPreparation.do?idDocument=JORFDOLE000028780525&amp;type=general&amp;typeLoi=proj&amp;legislature=14">projet de loi pour la reconquête de la biodiversité, de la nature et des paysages</a> qui prévoit que les données des études d&rsquo;impact soient ouvertes en open data, et répond ainsi à <a href="https://www.etalab.gouv.fr/plan-daction-national">l&rsquo;engagement 25 du Plan d&rsquo;action national de la France</a> pris dans le cadre du Partenariat pour un gouvernement ouvert.</p>
+<p>En amont du hackathon, un barcamp a eu lieu le 14 avril afin d&rsquo;identifier collectivement <a href="https://forum.etalab.gouv.fr/c/agenda/hackbiodiv-3-5-juin">huit défis clés, listés sur le forum d&rsquo;Etalab</a>. Afin d&rsquo;aider les participants à répondre à ces défis en concevant des services et outils innovants pour valoriser la biodiversité, Etalab a <a href="https://www.data.gouv.fr/fr/posts/hackbiodiv-les-donnees-du-hackathon-biodiversite/">recensé sur data.gouv.fr une série de données utiles</a> : des données de référence pour la biodiversité (provenant notamment du Muséum national d&rsquo;histoire naturelle), des données de contexte et des données sectorielles ou locales.</p>
+<p><a href="http://www.developpement-durable.gouv.fr/IMG/pdf/2016-06-06_-_GreenTech_verte_Laureats_hackbiodiv.pdf" class="broken_link"><img loading="lazy" decoding="async" class="wp-image-4989 size-medium alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/06/05062016-_B-POMPILI-REMISE-PRIX-LAUREAT-1-INVASIVE-ALERT-300x200.jpg" alt="05062016-_B POMPILI REMISE PRIX LAUREAT 1 INVASIVE ALERT" width="300" height="200" srcset="/wp-content/uploads/2016/06/05062016-_B-POMPILI-REMISE-PRIX-LAUREAT-1-INVASIVE-ALERT-300x200.jpg 300w, /wp-content/uploads/2016/06/05062016-_B-POMPILI-REMISE-PRIX-LAUREAT-1-INVASIVE-ALERT-768x513.jpg 768w, /wp-content/uploads/2016/06/05062016-_B-POMPILI-REMISE-PRIX-LAUREAT-1-INVASIVE-ALERT-1024x683.jpg 1024w, /wp-content/uploads/2016/06/05062016-_B-POMPILI-REMISE-PRIX-LAUREAT-1-INVASIVE-ALERT.jpg 1500w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="http://www.developpement-durable.gouv.fr/IMG/pdf/2016-06-06_-_GreenTech_verte_Laureats_hackbiodiv.pdf" class="broken_link">Trois projets ont été primés lors de ce hackathon</a>, qui s&rsquo;est déroulé en présence de Barbara Pompili, secrétaire d’État en charge de la Biodiversité :</p>
+<ul>
+<li><strong>1er prix : Invasiv&rsquo;Alerte</strong> est une application interrogeant les réseaux sociaux à partir de certains mots clés afin de détecter et d&rsquo;alerter sur la présence d&rsquo;espèces invasives. Elle permet également à tout individu de signaler par des photos géolocalisées la présence de certaines espèces en interrogeant les bases du SINP.</li>
+<li><strong>2ème prix : Green-Watch</strong> utilise une application d&rsquo;intelligence artificielle de Google et les bases de données du SINP pour identifier le nom de l&rsquo;espèce que l&rsquo;on vient de photographier.</li>
+<li><strong>3ème prix : Biosentinelle</strong> est un jeu en ligne complété par une action terrain, qui permet de lancer des défis pour repérer la biodiversité dans l&rsquo;espace urbain.</li>
+</ul>
+<p>Un dernier projet a reçu un coup de cœur :</p>
+<ul>
+<li><strong>Map-pollen</strong> est une application utilisant les données géolocalisées des différentes espèces d&rsquo;arbres dans les bases du Muséum et dans celles de grandes villes comme Paris pour identifier les lieux particulièrement sujets aux pollens allergisants.</li>
+</ul>
+<p>&nbsp;[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Retour sur le BarCamp « La commande publique augmentée par la donnée »[:]</title>
+		<link>/retour-sur-le-barcamp-la-commande-publique-augmentee-par-la-donnee</link>
+		
+		<dc:creator><![CDATA[Clémentine Désigaud]]></dc:creator>
+		<pubDate>Wed, 18 May 2016 10:14:44 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4795</guid>
+
+					<description><![CDATA[[:fr]Plus de 70 participants se sont réunis dans les locaux de la French Tech à Rennes le 9 mai pour échanger autour de la transparence de la commande publique, à l&#8217;initiative du Secrétariat général pour la modernisation de l&#8217;action publique (SGMAP) et en partenariat avec le Conseil régional de Bretagne et l&#8217;association Breizh Small Business &#8230;<p class="read-more"> <a class="" href="/retour-sur-le-barcamp-la-commande-publique-augmentee-par-la-donnee"> <span class="screen-reader-text">[:fr]Retour sur le BarCamp « La commande publique augmentée par la donnée »[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]Plus de 70 participants se sont réunis dans les locaux de la French Tech à Rennes le 9 mai pour échanger autour de <strong>la transparence de la commande publique</strong>, à l&rsquo;initiative du Secrétariat général pour la modernisation de l&rsquo;action publique (SGMAP) et en partenariat avec le Conseil régional de Bretagne et l&rsquo;association Breizh Small Business Act.</p>
+<p>Consacré par l&rsquo;article 107 du <a href="https://www.legifrance.gouv.fr/eli/decret/2016/3/25/EINM1600207D/jo#JORFARTI000032296716" class="broken_link">décret du 25 mars 2015 relatif aux marchés publics</a>,<strong> l&rsquo;accès libre, direct et complet aux données essentielles des marchés publics s&rsquo;imposera à tous les acteurs publics au 1er octobre 2018</strong>.</p>
+<p>&nbsp;</p>
+<p>Principalement venus de l&rsquo;administration, des régions et des éditeurs de logiciels de gestion financière, les participants se sont inspirés de l&rsquo;exemple de la Bretagne, région pionnière engagée depuis 2015 dans l&rsquo;ouverture des données des marchés publics, pour imaginer la commande publique de demain.</p>
+<p>La journée s&rsquo;est organisée autour de 4 ateliers :</p>
+<ul>
+<li><strong>Atelier 1 : Référentiel de données essentielles de la commande publique</strong></li>
+</ul>
+<p><img loading="lazy" decoding="async" class="wp-image-4802 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/Capture-at1.png" alt="Capture at1" width="175" height="127" srcset="/wp-content/uploads/2016/05/Capture-at1.png 499w, /wp-content/uploads/2016/05/Capture-at1-300x218.png 300w" sizes="(max-width: 175px) 100vw, 175px" />Les participants ont produit une nouvelle version du <a href="https://www.data.gouv.fr/fr/datasets/referentiel-de-donnees-marches-publics/">référentiel national de données essentielles de la commande publique</a> disponible sur data.gouv.fr. Ce référentiel prend en compte les données essentielles listées dans l&rsquo;article 107 du <a href="https://www.legifrance.gouv.fr/eli/decret/2016/3/25/EINM1600207D/jo#JORFARTI000032296716" class="broken_link">décret</a>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Atelier 2 : Prototype d&rsquo;une solution de fédération des données sur data.gouv.fr</strong></li>
+</ul>
+<p><img loading="lazy" decoding="async" class="wp-image-4803 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/Capture-at2.png" alt="Capture at2" width="175" height="132" srcset="/wp-content/uploads/2016/05/Capture-at2.png 499w, /wp-content/uploads/2016/05/Capture-at2-300x227.png 300w" sizes="(max-width: 175px) 100vw, 175px" />Les participants ont réfléchi à l&rsquo;élaboration d&rsquo;un schéma d&rsquo;architecture pour fédérer les données des marchés publics sur data.gouv.fr. Rassembler ces données sur une même plateforme porte des enjeux de transparence (en améliorant la visibilité et la lisibilité de la commande publique) et d&rsquo;innovation (en facilitant la mise en place de services réutilisant les données). Les participants ont proposé une démarche centrée autour de la création d&rsquo;API et de la validation automatique du format.</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Atelier 3 : Plan de déploiement pour le passage à l&rsquo;échelle<br />
+</strong></li>
+</ul>
+<p><img loading="lazy" decoding="async" class="wp-image-4804 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/Capture-at3.png" alt="Capture at3" width="176" height="99" srcset="/wp-content/uploads/2016/05/Capture-at3.png 502w, /wp-content/uploads/2016/05/Capture-at3-300x169.png 300w" sizes="(max-width: 176px) 100vw, 176px" />Dans cet atelier, les participants se sont intéressés à la généralisation de la démarche d&rsquo;ouverture des données des marchés publics à tout le territoire. Pour réussir ce passage à l&rsquo;échelle, l&rsquo;impulsion politique et l&rsquo;implication des associations d&rsquo;élus et des fédérations professionnels sont nécessaires, de même que la mise en avant des retours sur investissement (automatisation, développement économique, professionnalisation, meilleur accès des entreprises à la commande publique, etc.). Les participants ont envisagé la définition d&rsquo;un échelon territorial « chef de file » et la création d&rsquo;une boîte à outils destinée aux producteurs de données.</p>
+<ul>
+<li><strong>Atelier 4 : Réutilisations de données, datasciences et création de services à valeur ajoutée<br />
+</strong></li>
+</ul>
+<p><img loading="lazy" decoding="async" class="wp-image-4811 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/CaptureB.png" alt="CaptureB" width="176" height="125" srcset="/wp-content/uploads/2016/05/CaptureB.png 499w, /wp-content/uploads/2016/05/CaptureB-300x213.png 300w" sizes="(max-width: 176px) 100vw, 176px" />Les participants ont établi une cartographie des nouveaux services à offrir grâce à l&rsquo;analyse des données des marchés publics, en détaillant les utilisateurs cibles : acheteur public, opérateur économique, élu ou territoire, citoyen.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<blockquote>
+<p style="text-align: center;"><a href="https://forum.etalab.gouv.fr/t/restitution-des-travaux-et-productions-du-bar-camp-dedie-a-la-transparence-de-la-commande-publique/1182">Découvrez le détail des résultats des ateliers et continuez à contribuer sur le forum d&rsquo;Etalab</a></p>
+<p style="text-align: center;">
+</blockquote>
+<p><img loading="lazy" decoding="async" class="wp-image-4829 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/Image2.png" alt="Image2" width="373" height="124" srcset="/wp-content/uploads/2016/05/Image2.png 977w, /wp-content/uploads/2016/05/Image2-300x100.png 300w, /wp-content/uploads/2016/05/Image2-768x255.png 768w" sizes="(max-width: 373px) 100vw, 373px" /></p>
+<p>Les résultats concrets et activables des différents groupes de travail ont été salués par Laure de la Bretèche, secrétaire générale pour la modernisation de l&rsquo;action publique, et ont été repris dans plusieurs articles de presse (voir <a href="http://breizhsmallbusinessact.fr/wp-content/uploads/2016/03/Localtis.info-17mai2016-Open-data-_-la-Bretagne-principal-initiateur-du-futur-r%C3%A9f%C3%A9rentiel-national-des-donn%C3%A9es-essentielles-de-march%C3%A9s-publics.pdf" class="broken_link">Localtis.info</a>, <a href="http://breizhsmallbusinessact.fr/wp-content/uploads/2016/03/achatpublic.info-27avril2016-1er-open-data-sur-la-commande-publique-%C3%A0-Rennes-le-9-mai.pdf" class="broken_link">AchatPublic.info</a>, <a href="http://breizhsmallbusinessact.fr/wp-content/uploads/2012/04/LeT%C3%A9l%C3%A9gramme-6mai2016.pdf" class="broken_link">Le Télégramme</a>, <a href="http://breizhsmallbusinessact.fr/wp-content/uploads/2016/03/LeMoniteur-10mai2016-La-Bretagne-teste-la-commande-publique-2.0.pdf" class="broken_link">LeMoniteur.fr</a> et la <a href="http://breizhsmallbusinessact.fr/wp-content/uploads/2016/03/Lagazette.fr-12mai2016-Quand-l%E2%80%99ouverture-des-donn%C3%A9es-augmente-la-commande-publique.pdf" class="broken_link">Gazette des Communes</a>).</p>
+<p>Les travaux réalisés répondent aux engagements pris par la France en matière de transparence de la commande publique dans le cadre du Partenariat pour un gouvernement ouvert (voir l&rsquo;engagement 2 du <a href="http://www.opengovpartnership.org/sites/default/files/2015%2007%2009_Plan%20gouvernement%20ouvert%20FR%20Version%20Finale.pdf">Plan d&rsquo;action national de la France</a>). Ils s&rsquo;inscrivent également dans le cadre du <a href="http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/dans-les-collectivites-territoriales/commande-publique-simplifiee-dematerialisee-territoires-lancent-prefiguration" class="broken_link">programme de développement concerté de l’administration numérique territoriale</a> (DcANT), piloté par le SGMAP.[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Pourquoi partager ses données de santé ? Une consultation citoyenne dans la lignée de l’open data de santé[:]</title>
+		<link>/pourquoi-partager-ses-donnees-de-sante-une-consultation-citoyenne-dans-la-lignee-de-lopen-data-de-sante</link>
+		
+		<dc:creator><![CDATA[Clémentine Désigaud]]></dc:creator>
+		<pubDate>Mon, 02 May 2016 07:59:54 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4701</guid>
+
+					<description><![CDATA[[:fr]En novembre 2013, la ministre de la Santé avait lancé un débat sur l’open data en santé avec l’appui de la mission Etalab. Suite à ce débat, un rapport sur l’ouverture des données publiques de santé lui avait été remis en juillet 2014. C’est sur ce travail que s’est notamment appuyé l’article 47 de la &#8230;<p class="read-more"> <a class="" href="/pourquoi-partager-ses-donnees-de-sante-une-consultation-citoyenne-dans-la-lignee-de-lopen-data-de-sante"> <span class="screen-reader-text">[:fr]Pourquoi partager ses données de santé ? Une consultation citoyenne dans la lignée de l’open data de santé[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]En novembre 2013, la ministre de la Santé avait lancé un débat sur l’open data en santé avec l’appui de la mission Etalab. Suite à ce débat, <a href="https://www.etalab.gouv.fr/remise-du-rapport-sur-les-donnees-de-sante-a-marisol-touraine">un rapport sur l’ouverture des données publiques de santé lui avait été remis</a> en juillet 2014.</p>
+<p>C’est sur ce travail que s’est notamment appuyé l’article 47 de la loi de modernisation de notre système de santé, adoptée le 17 décembre 2015, qui organise pour la première fois un <strong>« open data de santé »</strong> et une plus large accessibilité aux données de santé pour la recherche et l’innovation. Etalab était revenu sur les avancées de cette loi en matière d’open data dans <a href="https://www.etalab.gouv.fr/lopen-data-entre-dans-le-code-de-la-sante-publique">un précédent article</a>.</p>
+<p>Avec la loi santé, la ministre de la Santé Marisol Touraine veut <strong>faciliter l’exploitation et le partage des données de santé, dans le respect de la vie privée, pour tout acteur porteur d’un projet d’intérêt public</strong>. Une grande consultation en ligne a donc été lancée pour inviter les internautes à commenter l’ouverture et l’exploitation de masses de données personnelles dans le secteur médical. Intitulée <strong>« Partager ses données de santé : pour quels bénéfices et à quelles conditions ?»</strong>, <strong>cette consultation vise à établir quels usages des données de santé méritent d’être soutenus par la puissance publique et dans quelles conditions.</strong></p>
+<p>Partager ses données de santé permet de mieux prendre en charge sa santé (par exemple grâce à des applications de coaching personnalisées), de faciliter le diagnostic médical en fournissant de grandes masses de données à la recherche, ou encore de développer de nouveaux services à la personne. Mais ces données peuvent être des révélateurs de notre vie privée et pourraient être exploitées pour développer des pratiques commerciales et assurantielles discriminatoires. L’enjeu pour la puissance publique est donc d’anticiper et d’encadrer ces pratiques.</p>
+<p><strong>Pour participer à cette consultation, rendez-vous jusqu’au 20 juin sur la plateforme de consultation du Secrétariat général pour la modernisation de l’action publique : <a href="http://www.faire-simple.gouv.fr/bigdatasante" class="broken_link">faire-simple.gouv.fr</a>.</strong> Les contributions reçues viendront nourrir les travaux du groupe de réflexion mis en place en septembre dernier pour éclairer les enjeux du big data en santé.[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]#OpenDataDay &#8211; L&#8217;open data a désormais son forum[:]</title>
+		<link>/opendataday-lopen-data-a-desormais-son-forum</link>
+		
+		<dc:creator><![CDATA[Clémentine Désigaud]]></dc:creator>
+		<pubDate>Sat, 05 Mar 2016 11:29:16 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[forum]]></category>
+		<category><![CDATA[opendata]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4440</guid>
+
+					<description><![CDATA[[:fr] A l&#8217;occasion de l&#8217;Open Data Day, le forum.etalab.gouv.fr s&#8217;étend à la thématique de l&#8217;ouverture des données publiques. Initialement lancé autour de la question des logiciels, ce forum a rapidement rassemblé une communauté de contributeurs venus de l&#8217;administration ou de la société civile : de nombreuses discussions se sont ouvertes sur le site autour de catégories telles que &#8230;<p class="read-more"> <a class="" href="/opendataday-lopen-data-a-desormais-son-forum"> <span class="screen-reader-text">[:fr]#OpenDataDay &#8211; L&#8217;open data a désormais son forum[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]
+<p style="text-align: justify;">A l&rsquo;occasion de l&rsquo;<a href="https://twitter.com/hashtag/opendataday?f=tweets&amp;vertical=default&amp;src=hash">Open Data Day,</a> le <strong><a href="https://forum.etalab.gouv.fr/" target="_blank">forum.etalab.gouv.fr</a></strong> s&rsquo;étend à la thématique de <strong>l&rsquo;ouverture des données publiques.</strong></p>
+<p style="text-align: justify;"><a href="https://www.etalab.gouv.fr/experimentation-du-forum-etalab-gouv-fr-une-plateforme-pour-les-contributeurs-du-logiciel-libre-dans-ladministration">Initialement lancé autour de la question des logiciels</a>, ce forum a rapidement rassemblé une communauté de contributeurs venus de l&rsquo;administration ou de la société civile : de nombreuses discussions se sont ouvertes sur le site autour de catégories telles que logiciel libre et secteur public, technologies ou encore ouverture des codes source&#8230; et ont pu se prolonger à l&rsquo;occasion d&rsquo;un premier atelier ouvert le 26 février 2016.</p>
+<p style="text-align: justify;">Désormais, l&rsquo;espace <strong><a href="https://forum.etalab.gouv.fr/c/donnees">https://forum.etalab.gouv.fr/c/donnees</a></strong> permettra donc également de collaborer et d&rsquo;échanger sur les modalités d&rsquo;ouverture des données, de poser des questions techniques, de partager des expériences et bonnes pratiques&#8230; et d&rsquo;éclairer ainsi la politique d&rsquo;open data et les démarches menées par les acteurs publics.</p>
+<p style="text-align: justify;">N&rsquo;hésitez pas à <a href="https://forum.etalab.gouv.fr/c/donnees">contribuer</a> !</p>
+[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Climate Change Challenge : inscrivez-vous à l’Innovation Jam qui se tiendra du 6 au 8 novembre dans 4 villes de France[:]</title>
+		<link>/climate-change-challenge-inscrivez-vous-a-linnovation-jam-qui-se-tiendra-du-6-au-8-novembre-dans-4-villes-de-france</link>
+		
+		<dc:creator><![CDATA[Clémentine Désigaud]]></dc:creator>
+		<pubDate>Fri, 23 Oct 2015 10:01:50 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Événements]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3829</guid>
+
+					<description><![CDATA[[:fr]Le Climate Change Challenge (C3) est un tour de France de l’innovation ouverte qui mobilise citoyens, acteurs publics, acteurs privés, experts, étudiants et entrepreneurs pour agir face au changement climatique. Il s’inscrit dans le cadre de la COP21, mobilisation internationale en faveur du climat qui aura lieu à Paris du 30 novembre au 11 décembre. &#8230;<p class="read-more"> <a class="" href="/climate-change-challenge-inscrivez-vous-a-linnovation-jam-qui-se-tiendra-du-6-au-8-novembre-dans-4-villes-de-france"> <span class="screen-reader-text">[:fr]Climate Change Challenge : inscrivez-vous à l’Innovation Jam qui se tiendra du 6 au 8 novembre dans 4 villes de France[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]Le <strong>Climate Change Challenge (C3)</strong> est un tour de France de l’innovation ouverte qui mobilise citoyens, acteurs publics, acteurs privés, experts, étudiants et entrepreneurs pour <strong>agir face au changement climatique</strong>. Il s’inscrit dans le cadre de la <strong>COP21</strong>, mobilisation internationale en faveur du climat qui aura lieu à Paris du 30 novembre au 11 décembre. L’<strong>Innovation Jam </strong>marque la dernière étape de ce challenge.</p>
+<p>&nbsp;</p>
+<p>Deux étapes ont déjà eu lieu pour définir les défis auxquels les participants de l’<strong>Innovation Jam </strong>devront répondre. <strong>26 défis ont été identifiés, dans 8 thématiques liées au développement durable</strong> :</p>
+<ul>
+<li>Pédagogie et prise de conscience</li>
+<li>Aménagement du territoire et habitat</li>
+<li>Gestion des ressources naturelles et transition énergétique</li>
+<li>Impact sur l’économie</li>
+<li>Santé et bien-être</li>
+<li>Biodiversité</li>
+<li>Accès à l’information</li>
+<li>Nouvelle citoyenneté</li>
+</ul>
+<p>Vous pouvez retrouver le <a href="http://c3challenge.com/challenges/">détail des défis</a> sur le site du Climate Change Challenge. Pour y répondre, des centaines de <a href="https://www.data.gouv.fr/fr/climate-change-challenge">jeux de données</a> ont été mis à votre disposition sur la plateforme data.gouv.fr. Vous pouvez dès à présent commencer à constituer vos équipes et échanger autour de vos projets en écrivant sur le hackpad, un espace texte collaboratif mis à votre disposition sur chaque page défi.</p>
+<p><strong>Pour participer à l’Innovation Jam et relever un défi, seul ou en équipe, </strong><a href="http://c3challenge.com/#programme"><strong>inscrivez-vous </strong></a><strong>!</strong></p>
+<p><a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/07/carte.jpg"><img loading="lazy" decoding="async" class=" wp-image-3328 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/07/carte-300x289.jpg" alt="carte" width="170" height="164" srcset="/wp-content/uploads/2015/07/carte-300x289.jpg 300w, /wp-content/uploads/2015/07/carte.jpg 579w" sizes="(max-width: 170px) 100vw, 170px" /></a></p>
+<p>&nbsp;</p>
+<p>L’Innovation Jam aura lieu du <strong>vendredi soir 6 novembre au dimanche soir 8 novembre</strong>, dans quatre villes de France : <strong>Paris</strong> (Cap Digital), <strong>Toulouse</strong> (La Cantine Toulouse), <strong>Nantes</strong> (La Cantine Atlantique 2.0), <strong>Lyon </strong>(Smart Electric Lyon).</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/10/meta-social-good-week-2015.png"><img loading="lazy" decoding="async" class="wp-image-3830 alignright" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/10/meta-social-good-week-2015-300x300.png" alt="meta-social-good-week-2015" width="124" height="124" srcset="/wp-content/uploads/2015/10/meta-social-good-week-2015-300x300.png 300w, /wp-content/uploads/2015/10/meta-social-good-week-2015-150x150.png 150w, /wp-content/uploads/2015/10/meta-social-good-week-2015-80x80.png 80w, /wp-content/uploads/2015/10/meta-social-good-week-2015-118x118.png 118w, /wp-content/uploads/2015/10/meta-social-good-week-2015-239x239.png 239w, /wp-content/uploads/2015/10/meta-social-good-week-2015.png 574w" sizes="(max-width: 124px) 100vw, 124px" /></a></p>
+<p><a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/10/cop21.jpg"><img loading="lazy" decoding="async" class="wp-image-3831 alignright" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/10/cop21-300x300.jpg" alt="cop21" width="135" height="135" srcset="/wp-content/uploads/2015/10/cop21-300x300.jpg 300w, /wp-content/uploads/2015/10/cop21-150x150.jpg 150w, /wp-content/uploads/2015/10/cop21-1024x1024.jpg 1024w, /wp-content/uploads/2015/10/cop21-80x80.jpg 80w, /wp-content/uploads/2015/10/cop21-118x118.jpg 118w, /wp-content/uploads/2015/10/cop21-239x239.jpg 239w, /wp-content/uploads/2015/10/cop21.jpg 1778w" sizes="(max-width: 135px) 100vw, 135px" /></a></p>
+<p>Trois lauréats seront sélectionnés dans chaque ville. Un jury national se réunira ensuite pour distinguer les <strong>projets vainqueurs</strong>, qui seront <strong>présentés en marge de la COP21</strong> et auront la possibilité d’intégrer un accélérateur partenaire.</p>
+<p>L’Innovation Jam s’inscrit dans le cadre de la <a href="http://www.socialgoodweek.com/">Social Good Week</a>, semaine du web social et solidaire organisée sous le haut-patronage du Président de la République.</p>
+<p>&nbsp;[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Retour sur le Hackallocs, le hackathon des allocs organisé avec la Cnaf[:]</title>
+		<link>/retour-sur-le-hackallocs-le-hackathon-des-allocs-organise-avec-la-cnaf</link>
+		
+		<dc:creator><![CDATA[Clémentine Désigaud]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2015 15:21:17 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Événements]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3796</guid>
+
+					<description><![CDATA[[:fr]Les 2 et 3 octobre dernier, Etalab et la Caisse nationale des allocations familiales (Cnaf) ont organisé un hackathon aux docks de Saint-Denis. Près de 100 participants, répartis en 17 équipes, ont travaillé pendant 48h sur des jeux de données inédits sur les allocataires et sur les interactions entre les Caf et les usagers. 25 &#8230;<p class="read-more"> <a class="" href="/retour-sur-le-hackallocs-le-hackathon-des-allocs-organise-avec-la-cnaf"> <span class="screen-reader-text">[:fr]Retour sur le Hackallocs, le hackathon des allocs organisé avec la Cnaf[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]<img loading="lazy" decoding="async" class="alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/09/Capture-647x393.png" alt="Les Allocations familiales organisent leur premier hackathon" width="272" height="165" />Les 2 et 3 octobre dernier, Etalab et la Caisse nationale des allocations familiales (Cnaf) ont organisé un hackathon aux docks de Saint-Denis. Près de 100 participants, répartis en 17 équipes, ont travaillé pendant 48h sur des jeux de données inédits sur les allocataires et sur les interactions entre les Caf et les usagers. 25 participants ont même passé la nuit sur place.</p>
+<p>L&rsquo;équipe de l&rsquo;<a href="https://agd.data.gouv.fr/">administrateur général des données</a> a aussi participé à la préparation des données, à leur documentation, via la mise en place d&rsquo;un <a href="https://wiki-agd.data.gouv.fr/index.php/L%27Hackathon_des_allocs" class="broken_link">wiki</a>, et à leur mise à disposition le temps du hackathon.</p>
+<p>Le jury, présidé par Pascal Hamonic, directeur de la Caf de Seine-Maritime, a décerné trois prix à cinq projets :</p>
+<p><a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/10/Image2.jpg"><img loading="lazy" decoding="async" class="alignnone wp-image-3802" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/10/Image2-300x200.jpg" alt="Image2" width="227" height="151" srcset="/wp-content/uploads/2015/10/Image2-300x200.jpg 300w, /wp-content/uploads/2015/10/Image2.jpg 774w" sizes="(max-width: 227px) 100vw, 227px" /></a>  <a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/10/Image3.jpg"><img loading="lazy" decoding="async" class="alignnone wp-image-3803" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/10/Image3-300x200.jpg" alt="Image3" width="227" height="151" srcset="/wp-content/uploads/2015/10/Image3-300x200.jpg 300w, /wp-content/uploads/2015/10/Image3.jpg 926w" sizes="(max-width: 227px) 100vw, 227px" /></a>  <a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/10/Image5.jpg"><img loading="lazy" decoding="async" class="alignnone wp-image-3822" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/10/Image5-300x200.jpg" alt="Image5" width="227" height="151" srcset="/wp-content/uploads/2015/10/Image5-300x200.jpg 300w, /wp-content/uploads/2015/10/Image5.jpg 608w" sizes="(max-width: 227px) 100vw, 227px" /></a></p>
+<ul>
+<li><strong>1<sup>er</sup> prix pour le projet « Apic »</strong></li>
+</ul>
+<p>Le 1<sup>er</sup> prix a récompensé l’équipe étudiante « Label Famille », qui a imaginé un projet d’application mobile intitulée « Apic ». Cette application vise à informer les allocataires des temps d’attente dans la Caf à laquelle ils sont rattachés et permet ainsi de leur proposer de se réunir lors de rendez-vous collectifs dédiés à un problème en particulier, favorisant la possibilité d&rsquo;entraide et permettant la mobilisation d&rsquo;un agent Caf spécialiste du sujet.</p>
+<ul>
+<li><strong>2<sup>ème</sup> prix ex aequo pour les projets « WeCaf » et « GeoDon »<br />
+</strong></li>
+</ul>
+<p>Le 2<sup>ème</sup> prix a récompensé deux équipes ex aequo. L’équipe de CGI Business Consulting a réfléchi à un moteur de recherche nommé « Wecaf » qui mettrait en relation les allocataires entre eux en fonction de leurs besoins, selon les principes de l’économie collaborative. L’équipe « Hackoton », composée pour partie d’agents Caf, a imaginé une cartographie intitulée « GeoDon » qui ferait apparaître les forces et faiblesses sociales des territoires et soulignerait ainsi les besoins en projets associatifs.</p>
+<ul>
+<li><strong>3<sup>ème</sup> prix ex aequo pour les projets « Objectif télépro » et « Qualité de l&rsquo;accueil du nouveau-né »<br />
+</strong></li>
+</ul>
+<p>Le 3<sup>ème</sup> prix a également récompensé deux équipes ex aequo. L’équipe de Sodifrance a porté le projet « Objectif télépro », basé sur l’évaluation de l’impact environnemental de la téléprocédure, pour encourager les allocataires à effectuer leurs démarches en ligne. L’équipe « Blue Brothers », composée en partie d’agents Caf, a réfléchi à une évaluation de la qualité de l’accueil des nouveaux nés dans les différentes villes de France. Pour ce projet « Qualité de l’accueil du nouveau-né », ils ont également utilisé des statistiques de l’Insee et d’autres jeux de données référencés sur <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a>.</p>
+<p>La Cnaf, particulièrement satisfaite des projets présentés, envisage de poursuivre avec certaines équipes. Cet événement a également été plébiscité par les participants qui ont indiqué une satisfaction moyenne de 8,5/10 et se sont tous dits prêts à revenir!</p>
+<p>&gt; <em>H<a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/10/Image1.jpg"><img loading="lazy" decoding="async" class=" wp-image-3801 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/10/Image1-300x200.jpg" alt="Image1" width="291" height="194" srcset="/wp-content/uploads/2015/10/Image1-300x200.jpg 300w, /wp-content/uploads/2015/10/Image1.jpg 809w" sizes="(max-width: 291px) 100vw, 291px" /></a>enri Verdier, Directeur du numérique et du système d’information et de communication de l’Etat, adjoint à la Secrétaire générale pour la modernisation de l’action publique et Administrateur général des données, remet ici le 2<sup>ème</sup> prix.</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

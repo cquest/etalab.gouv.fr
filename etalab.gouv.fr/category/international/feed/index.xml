@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>International &#8211; Etalab</title>
+	<atom:link href="/category/international/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Mon, 10 Jan 2022 13:43:43 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>International &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Retour sur l’Open Data Maturity Index 2021 : mesure de l’impact de l’ouverture des données (2/4)</title>
+		<link>/retour-sur-lopen-data-maturity-index-2021-mesure-de-limpact-de-louverture-des-donnees-2-4</link>
+		
+		<dc:creator><![CDATA[Antonin Garrone]]></dc:creator>
+		<pubDate>Mon, 10 Jan 2022 17:00:00 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Open data]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data maturity index]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=16374</guid>
+
+					<description><![CDATA[En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&#160;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne. L’Open Data Maturity Report&#160;2021 évalue les progrès réalisés par les pays européens selon quatre &#8230;<p class="read-more"> <a class="" href="/retour-sur-lopen-data-maturity-index-2021-mesure-de-limpact-de-louverture-des-donnees-2-4"> <span class="screen-reader-text">Retour sur l’Open Data Maturity Index 2021 : mesure de l’impact de l’ouverture des données (2/4)</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&nbsp;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne.</p>
+
+
+
+<p>L’Open Data Maturity Report&nbsp;2021 évalue les progrès réalisés par les pays européens selon quatre critères&nbsp;:</p>
+
+
+
+<ul><li>maturité des politiques publiques relatives à l’ouverture (<em>Policy</em>) ;</li><li>qualité de la mesure de l’impact de l’open data (<em>Impact</em>) ;</li><li>maturité du portail national d’open data (<em>Portal</em>) ;</li><li>qualité des données ouvertes (<em>Quality</em>).</li></ul>
+
+
+
+<p>Ce rapport constate les résultats du travail accompli par Etalab et l’ensemble de la communauté open data et de mesurer le chemin qu’il reste à parcourir. Pour comprendre quels sont nos points forts et nos points faibles et identifier nos axes d’amélioration, nous proposons une série d’articles portant chacun sur une des dimensions évaluées par le rapport.</p>
+
+
+
+<p>Il ne s’agit pas d’être exhaustif, mais de partager certains des aspects souvent salués en France et les axes d’améliorations les plus souvent évoqués.</p>
+
+
+
+<p>Aujourd’hui nous nous concentrons sur la dimension <em>Impact</em> du classement.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Que cherche-t-on à mesurer ?</strong></h1>
+
+
+
+<p>Cette dimension porte sur les activités réalisées pour observer et mesurer la réutilisation des données ouvertes et l’impact dérivé de ces usages. La dimension de l’impact se concentre sur quatre domaines d’impact sectoriel&nbsp;: politique, social, environnemental et économique. Dans ces domaines, le rapport examine dans quelle mesure un suivi est en place pour documenter les réutilisations des données ouvertes publiées, et si des applications, des produits et des services ont été développés pour relever les défis dans ces domaines, que ce soit par la puissance publique ou la société civile.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Les bonnes pratiques françaises</strong></h1>
+
+
+
+<h3 class="wp-block-heading"><strong>L’open data comme outil de compréhension et de pilotage de la crise</strong></h3>
+
+
+
+<p>Pour répondre aux exigences de transparence et de pilotage informé de la crise sanitaire, de <a href="https://www.data.gouv.fr/fr/pages/donnees-sante/" class="broken_link">nombreuses données relatives à l’épidémie ont été publiées</a>. Afin de rendre ces données accessibles et compréhensibles pour le plus grand nombre, les informations sont valorisées dans le&nbsp;<a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees">tableau de bord Covid-19 publié sur gouvernement.fr</a>. Ces données ont également&nbsp;<a href="https://www.data.gouv.fr/fr/reuses/?tag=covid">inspiré de très nombreuses réutilisations</a> dont certaines sont devenues très <a href="https://www.data.gouv.fr/fr/reuses/covid-tracker-suivez-lepidemie-du-covid19-en-france-et-dans-le-monde/">célèbres</a>. La richesse des données publiées et des réutilisations qui en sont sorties ont permis d’attester de l’importance de l’open data en temps de crise.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Rendre les données ouvertes exploitables par toutes et tous</strong></h3>
+
+
+
+<p>Les données relatives à l’épidémie ne sont pas les seules à être rendues intelligibles. Pour exemple, en 2020 Etalab a développé avec la Direction générale des entreprises , le site&nbsp;<a href="https://annuaire-entreprises.data.gouv.fr/">annuaire-entreprises</a>, qui s’appuie sur des données ouvertes.</p>
+
+
+
+<p>L’ambition de ce portail est de devenir la référence officielle dans la consultation des données relatives aux personnes morales.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>L’accompagnement des réutilisateurs de données</strong></h3>
+
+
+
+<p>Les efforts poursuivis pour accompagner non seulement les producteurs, mais aussi les réutilisateurs de données méritent d’être salués. On peut notamment citer l’équipe <a href="http://transport.data.gouv.fr/">transport.data.gouv.fr</a> qui suit de près les l’<a href="https://transport.data.gouv.fr/stats">état de l’ouverture</a> et des <a href="https://doc.transport.data.gouv.fr/reutilisateurs/utilisation-par-les-reutilisateurs-de-donnees" class="broken_link">usages des données de transports</a>.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Une tendance croissante à la mesure de l’impact</strong></h3>
+
+
+
+<p>De manière générale, on peut constater une hausse de l’intérêt des producteurs de données de l’usage qui est fait de leurs données et de la mesure de l’impact de l’ouverture. C’est d’ailleurs une recommandation du <a href="https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources">rapport sur la politique publique de la donnée, des algorithmes et des codes sources</a> issus de la la mission Open Data conduite par le député Éric Bothorel. La mission met en avant quatre domaines d’impact de l’open data&nbsp;: scientifique comme vecteur de connaissance, économique comme moteur de l’innovation, démocratique pour améliorer le service public et politique pour restaurer la confiance des citoyens dans l’action publique.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Les axes d’améliorations</strong></h1>
+
+
+
+<h3 class="wp-block-heading"><strong>Un défi pour l’ensemble des acteurs</strong></h3>
+
+
+
+<p>Par essence, la mesure de l’impact de l’open data est un défi pour l’ensemble des acteurs. Il s’agit de ne pas préjuger ou de tracer sans objectif l’usage des données. Parmi les problématiques liées à la mesure des usages, nous pouvons citer un <strong>enjeu de volume,</strong> puisque les réutilisations connues sur <a href="http://data.gouv.fr/">data.gouv.fr</a> ne représentent que le sommet de l’iceberg de l’existant. Il existe également un enjeu <strong>de représentativité</strong>&nbsp;des publics parmi les réutilisateurs, puisque les réutilisateurs connus de <a href="http://data.gouv.fr/">data.gouv.fr</a> présentent souvent des profils homogènes. A ce titre, si les acteurs de la société civile sont assez prompts à référencer leurs travaux, d’autres, comme les administrations et le secteur privé par exemple, sont parfois moins proactifs. Ces derniers représentent pourtant des usages qu’il est essentiel de mesurer. Par ailleurs, la compréhension et le référencement des réutilisations sont complexifiés par la&nbsp;<strong>diversité des usages</strong>. Certains usages étant plus faciles à documenter (cartographie, moteur de recherche) que d’autres (simple observation des données par exemple).</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Se méfier des indicateurs de vanité</strong></h3>
+
+
+
+<p>Les indicateurs les plus souvent utilisés pour mesurer la performance d’une politique d’ouverture des données ou d’un portail de données peuvent parfois être assimilés à des <a href="https://en.wikipedia.org/wiki/Lean_startup#Actionable_metrics">indicateurs de vanité</a> en cela qu’ils permettent davantage de flatter la personne qui les mesure que réellement mesurer l’impact. Le nombre de visites sur un jeu de données ou encore le nombre de téléchargements, par exemple, ne nous permet pas réellement de savoir si l’ouverture de ce dernier a produit un impact concret même si ce sont des indicateurs dignes d’intérêt. Il s’agit d’aller plus loin en mesurant plus systématiquement des indicateurs qualitatifs : par exemple, les usagers trouvent-ils les données dont-ils besoins ? Sont-ils satisfaits de la qualité des données ?</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img fetchpriority="high" decoding="async" width="768" height="441" src="https://www.etalab.gouv.fr/wp-content/uploads/2022/01/odm2021-impact.png" alt="" class="wp-image-16375" srcset="/wp-content/uploads/2022/01/odm2021-impact.png 768w, /wp-content/uploads/2022/01/odm2021-impact-300x172.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Retour sur l’Open Data Maturity Index 2021 : Politique &#038; Gouvernance de l’open data en France (1/4)</title>
+		<link>/retour-sur-lopen-data-maturity-index-2021-politique-gouvernance-de-lopen-data-en-france-1-4</link>
+		
+		<dc:creator><![CDATA[Mario Restuccia]]></dc:creator>
+		<pubDate>Mon, 03 Jan 2022 16:13:02 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Open data]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data maturity index]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=16323</guid>
+
+					<description><![CDATA[En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&#160;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne. L’Open Data Maturity Report&#160;2021 évalue les progrès réalisés par les pays européens selon quatre &#8230;<p class="read-more"> <a class="" href="/retour-sur-lopen-data-maturity-index-2021-politique-gouvernance-de-lopen-data-en-france-1-4"> <span class="screen-reader-text">Retour sur l’Open Data Maturity Index 2021 : Politique &#038; Gouvernance de l’open data en France (1/4)</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&nbsp;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne.</p>
+
+
+
+<p>L’Open Data Maturity Report&nbsp;2021 évalue les progrès réalisés par les pays européens selon quatre critères&nbsp;:</p>
+
+
+
+<ul><li>maturité des politiques publiques relatives à l’ouverture (<em>Policy</em>) ;</li><li>qualité de la mesure de l’impact de l’open data (<em>Impact</em>) ;</li><li>maturité du portail national d’open data (<em>Portal</em>) ;</li><li>qualité des données ouvertes (<em>Quality</em>).</li></ul>
+
+
+
+<p>Ce rapport constate les résultats du travail accompli par Etalab et l’ensemble de la communauté open data et permet de mesurer le chemin qu’il reste à parcourir. Pour comprendre quels sont nos points forts et nos points faibles et identifier nos axes d’amélioration, nous proposons une série d’articles portant chacun sur une des dimensions évaluées par le rapport.</p>
+
+
+
+<p>Aujourd’hui, nous nous penchons sur la dimension <em>Policy,</em> qui cherche à mesurer la maturité du cadre politique du pays. Il ne s’agit pas d’être exhaustif, mais de partager certains des aspects souvent salués en France et les axes d’améliorations les plus souvent évoqués.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Que cherche-t-on à mesurer ?</strong></h2>
+
+
+
+<p>Cette dimension se concentre sur la présence de politiques publiques et de stratégies spécifiques visant à encourager l’ouverture des données ouvertes au niveau national. Elle analyse également l’existence de structures de gouvernance qui permettent la participation d’acteurs du secteur privé ainsi que les mesures favorisant l’ouverture des données au niveau national, régional et local. En outre, la dimension <em>Policy</em> identifie les programmes de formation qui améliorent les compétences des agents publics en matière de données.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Les bonnes pratiques françaises</strong></h2>
+
+
+
+<h3 class="wp-block-heading"><strong>Une gouvernance interministérielle robuste</strong></h3>
+
+
+
+<p>Conformément à la <strong><a href="https://www.legifrance.gouv.fr/circulaire/id/45162">circulaire n°&nbsp;6264/SG du 27&nbsp;avril 2021 relative à la politique publique de la donnée, des algorithmes et des codes sources</a></strong>,&nbsp;<strong>15 administrateurs ministériels des données, des algorithmes et des codes sources (AMDAC) ont été nommés dans tous les ministères au 15&nbsp;mai 2021.</strong> Le directeur interministériel du numérique, en sa qualité d’Administrateur général des données, algorithmes et codes sources, assure la coordination de ce&nbsp;<strong>réseau</strong>, en s’appuyant sur le département Etalab. Chaque AMDAC a lui-même constitué et anime&nbsp;<strong>un réseau de correspondants</strong>&nbsp;au sein des directions métier de son périmètre. Au niveau territorial, un référent « données, algorithmes et codes sources » est également désigné auprès de chaque préfet de région pour accompagner les services déconcentrés de l&rsquo;État.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Une politique de la donnée ambitieuse</strong></h3>
+
+
+
+<p>Dans la suite de la nomination des AMDAC, <strong>chaque ministère</strong> a proposé en septembre 2021 <strong>une feuille de route de la donnée sur deux à trois ans.</strong> Sur chaque périmètre ministériel, chacune de ces stratégies met en lumière ce que la donnée peut améliorer dans les politiques publiques, les actions à mener et leur calendrier de réalisation, ainsi que la gouvernance mise en place pour en assurer la mise en œuvre. <strong>500 actions sont recensées</strong>&nbsp;dans ces <a href="https://www.data.gouv.fr/fr/datasets/liste-des-actions-prises-par-les-ministeres-dans-le-cadre-des-feuilles-de-routes-ministerielles/">15&nbsp;feuilles de route</a>.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Des ressources à la disposition des producteurs</strong></h3>
+
+
+
+<p>Afin d’améliorer la qualité des données, Etalab fait des efforts particuliers pour mieux accompagner les producteurs de données dans leurs démarches de publication. Cela passe notamment par la publication de <a href="https://guides.etalab.gouv.fr/">guides</a> qui couvrent des thèmes juridiques, techniques ou organisationnels.</p>
+
+
+
+<p>L’association OpenDataFrance met également à disposition des <a href="https://www.opendatafrance.net/ressources/documents-opendata-france/">ressources méthodologiques et pédagogiques</a> à destination des collectivités territoriales.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Des producteurs plus à l’écoute des besoins des réutilisateurs</strong></h3>
+
+
+
+<p>La prise en compte des besoins et des usages des réutilisateurs de données est de plus en plus importante chez les producteurs de données à mesure que ces derniers gagnent en maturité sur leur démarche d’ouverture. On peut citer par exemple les groupes de discussion organisés par Santé publique France avec les principaux réutilisateurs de données afin de partager des informations sur la manière dont les données sont collectées, la méthodologie des indicateurs et de donner l’opportunité aux réutilisateurs d’exprimer leurs besoins et attentes.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Des collectivités locales dynamiques</strong></h3>
+
+
+
+<p>L&rsquo;ouverture des données est également significativement soutenue par l’engagement des collectivités territoriales.</p>
+
+
+
+<p>À ce titre, l’<a href="https://agence-cohesion-territoires.gouv.fr/">Agence nationale de la cohésion des territoires (ANCT)</a> propose un accompagnement sur mesure aux collectivités en matière d’ouverture et circulation des données.</p>
+
+
+
+<p>Le rôle de l’association <a href="https://www.opendatafrance.net/">OpenDataFrance</a> de soutien et de coordination des collectivités territoriales est aussi précieux. Afin de renforcer son action d&rsquo;accompagnement et d&rsquo;outillage, l&rsquo;association a notamment été financée en 2021 par le dispositif France Relance.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img decoding="async" width="810" height="474" src="https://www.etalab.gouv.fr/wp-content/uploads/2022/01/odm2021-policy.png" alt="" class="wp-image-16329" srcset="/wp-content/uploads/2022/01/odm2021-policy.png 810w, /wp-content/uploads/2022/01/odm2021-policy-300x176.png 300w, /wp-content/uploads/2022/01/odm2021-policy-768x449.png 768w" sizes="(max-width: 810px) 100vw, 810px" /></figure></div>
+
+
+
+<h1 class="wp-block-heading"><strong>Les axes d’améliorations</strong></h1>
+
+
+
+<h3 class="wp-block-heading"><strong>Un besoin d’améliorer les guides et de mettre en cohérence les ressources</strong></h3>
+
+
+
+<p>Si de nombreuses ressources sont mises à disposition des producteurs et des réutilisateurs de données, celles-ci doivent encore être complétées et mises en cohérence. L’enjeu est de mieux orienter les usagers vers la bonne ressource au bon moment dans leurs parcours de publication ou de réutilisation de données.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Enrichir l’offre de formation d’Etalab</strong></h3>
+
+
+
+<p>La formation opérationnelle des agents publics sur les enjeux de la donnée, des algorithmes et des codes source doit être renforcée afin que chaque acteur soit en capacité de s’approprier la politique de la donnée et sache évaluer ses activités quotidiennes. Une offre de formation interministérielle sera proposée par le <a href="https://www.transformation.gouv.fr/">Ministère de la transformation et de la fonction publiques</a>, avec le concours des administrateurs ministériels des données et proposera un ensemble de modules de formation adaptés aux agents.</p>
+
+
+
+<h3 class="wp-block-heading">P<strong>oursuivre les efforts de centralisation des données (moissonnage)</strong></h3>
+
+
+
+<p>Un des éléments du classement pour lesquels la France est en retard par rapport à d’autres pays est que l’ensemble des données publiques n’est pas référencé sur <a href="http://data.gouv.fr/">data.gouv.fr</a>. A titre d’exemple, les données de certains portails de données locaux ne sont pas encore référencées sur <a href="http://data.gouv.fr/">data.gouv.fr</a>. Ce constat s’explique par divers facteurs : richesse et dynamisme de l’écosystème français en termes d’open data, diversité des technologies employées, etc. Il s’agit de poursuivre les efforts pour tendre vers l’exhaustivité et faire de <a href="http://data.gouv.fr/">data.gouv.fr</a> un point d’entrée unique des données ouvertes en France.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Evaluer les impacts des algorithmes: publication d&#8217;une étude internationale réalisée à la demande d&#8217;Etalab</title>
+		<link>/evaluer-les-impacts-des-algorithmes-publication-dune-etude-internationale-realisee-a-la-demande-detalab</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Tue, 13 Jul 2021 06:27:05 +0000</pubDate>
+				<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[algorithme]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=15504</guid>
+
+					<description><![CDATA[Les algorithmes jouent un rôle croissant dans la sphère publique, qu&#8217;il s&#8217;agisse de calculer le montant d&#8217;une aide sociale, d&#8217;attribuer une place en crèche ou d&#8217;évaluer les risques de défaillance des entreprises. La France s&#8217;est doté d&#8217;un cadre juridique en faveur d&#8217;une plus grande transparence de ces systèmes et d&#8217;un droit à l&#8217;explication pour les &#8230;<p class="read-more"> <a class="" href="/evaluer-les-impacts-des-algorithmes-publication-dune-etude-internationale-realisee-a-la-demande-detalab"> <span class="screen-reader-text">Evaluer les impacts des algorithmes: publication d&#8217;une étude internationale réalisée à la demande d&#8217;Etalab</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Les algorithmes jouent un rôle croissant dans la sphère publique, qu&rsquo;il s&rsquo;agisse de calculer le montant d&rsquo;une aide sociale, d&rsquo;attribuer une place en crèche ou d&rsquo;évaluer les risques de défaillance des entreprises. La France s&rsquo;est doté d&rsquo;un cadre juridique en faveur d&rsquo;une plus grande transparence de ces systèmes et d&rsquo;un droit à l&rsquo;explication pour les individus. Etalab, au sein de la direction interministérielle du numérique, porte plusieurs actions en ce sens. C&rsquo;est dans ce cadre qu&rsquo;<strong>Elisabeth Lehagre</strong>, chercheuse indépendante a été mandatée pour réaliser une étude internationale sur les <strong>outils d&rsquo;évaluation d&rsquo;impact algorithmique</strong>.</em></p>
+
+
+
+<p><strong>Une étude internationale</strong> des outils d&rsquo;évaluation d&rsquo;impact algorithmique</p>
+
+
+
+<p>Nul ne doute aujourd&rsquo;hui du fait que les algorithmes ont des impacts, positifs mais aussi parfois négatifs, sur les individus et la société. C&rsquo;est pourquoi des gouvernements et des acteurs de la société civile ont développé des outils d&rsquo;évaluation d&rsquo;impact algorithmique (EIA). L&rsquo;étude publiée ce jour présente un regard critique sur 7 outils développés dans le Monde (Royaume-Uni, Canada, Nouvelle Zélande, Etats-Unis et Union européenne). </p>
+
+
+
+<p><em>A quoi correspondent ces évaluations, que contiennent-elles, comment sont-elles mises en oeuvre ?</em> Voici quelques unes des questions traitées par Elisabeth Lehagre, en menant un travail de recherche documentaire complété par des entretiens avec les acteurs qui conçoivent, déploient ou observent ces outils. <em>In fine</em>, c&rsquo;est la question de l&rsquo;utilité de ces outils qui est posée.</p>
+
+
+
+<p><strong>Evaluer: quoi ? comment ? pourquoi ?</strong></p>
+
+
+
+<p>Le premier constat est celui de la diversité des outils examinés: il n&rsquo;existe pas de modèle-type. Les évaluations d&rsquo;impact algorithmique se présentent sous des formes et des contenus variés. Quelques exemples: </p>
+
+
+
+<ul><li>L&rsquo;<strong>AI Now Institute</strong> propose un <strong>cadre de bonnes pratiques</strong> incluant 5 recommandations d&rsquo;ordre général (dont la mise en place de procédures pour la vérification et le suivi externe des impacts),</li><li>Le <strong>Groupe d&rsquo;experts de haut-niveau</strong> pour une IA de confiance, rassemblé par la Commission européenne, propose une <strong>liste de questions</strong> qui servent de base à l&rsquo;auto-évaluation des systèmes,</li><li>Le <strong>Gouvernement de la Nouvelle Zélande</strong> intègre dans sa charte des algorithmes une <strong>matrice de risques</strong>, qui permet de quantifier la probabilité d&rsquo;effets négatifs sur les personnes (effet improbable, occasionnel, probable) par rapport au nombre de personnes potentiellement impactées (faible, modéré, élevé).</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="562" height="510" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/image-4.png" alt="" class="wp-image-15512" srcset="/wp-content/uploads/2021/07/image-4.png 562w, /wp-content/uploads/2021/07/image-4-300x272.png 300w" sizes="(max-width: 562px) 100vw, 562px" /><figcaption>La matrice de risques proposée par le Gouvernement de la Nouvelle-Zélande</figcaption></figure></div>
+
+
+
+<p>L&rsquo;outil proposé par le <strong>Gouvernement du Canada</strong> (conseil du Trésor) se distingue car il permet de <strong>calculer automatiquement le niveau de risques</strong> d&rsquo;un systèmes en répondant à quelques questions. Selon le niveau d&rsquo;incidence ainsi calculé, des recommandations particulières sont formulées.</p>
+
+
+
+<p>La plupart des outils étudiés cherchent à évaluer les impacts individuels et sociaux, voire sociétaux, des systèmes algorithmiques mis en place. Mais, là encore, c&rsquo;est la diversité qui prévaut. Certains outils mettent l&rsquo;accent sur les droits fondamentaux (droits et libertés des personnes, droit à la vie privée, non-discrimination). D&rsquo;autres privilégient une approche par domaine d&rsquo;impact: bien-être, santé, environnement par exemple.</p>
+
+
+
+<p><strong>Des outils d&rsquo;auto-évaluation qui doivent encore faire leurs preuve</strong>s</p>
+
+
+
+<p>Elisabeth Lehagre s&rsquo;est aussi attachée à comprendre comment ces outils sont mis en oeuvre, en pratique. Deux questions émergent: la <strong>compréhension</strong> de ces outils par les acteurs qui sont censé les utiliser, et les limites de l&rsquo;auto-évaluation. « <em>L&rsquo;évaluation d&rsquo;impact est-elle suffisamment compréhensible pour être utilisable ?</em> » s&rsquo;interroge ainsi l&rsquo;auteure de l&rsquo;étude. Les difficultés de compréhension peuvent être multiples: difficulté à cerner de manière précise le périmètre et l&rsquo;objet de l&rsquo;évaluation (« systèmes d&rsquo;intelligence artificielle », « algorithmes », « systèmes de décision automatisée » ?) mais aussi les domaines d&rsquo;impact (« bien-être », « droits et libertés des personnes » ?). Les gouvernements canadiens et néo-zelandais ont ainsi dû mener des actions complémentaires: tenue d&rsquo;ateliers pluridisciplinaires, proposition de définition précise des systèmes concernés, etc. </p>
+
+
+
+<p>La seconde interrogation concerne l&rsquo;<strong>auto-arbitrage</strong>. En effet, la très grande majorité de ces outils ont été pensés comme des outils d&rsquo;auto-évaluation interne, où les personnes réalisant l&rsquo;exercice d&rsquo;évaluation sont aussi celles en charge de la conception et du déploiement de ces outils. Afin d&rsquo;éviter les risques liés à l&rsquo;auto-arbitrage (où les mêmes acteurs sont potentiellement juge et partie), plusieurs recommandations ont été développées, dont l&rsquo;importance de rendre publique et transparente les évaluations d&rsquo;impact algorithmique. La possibilité de faire participer des tiers (pairs en interne ou experts externes) à l&rsquo;évaluation ou au contrôle des systèmes est une autre piste étudiée.</p>
+
+
+
+<p><strong>Une étude pour ouvrir le débat </strong>et faire connaître les outils</p>
+
+
+
+<p>Par la publication de cette étude inédite en France,<strong> Etalab</strong> souhaite contribuer au débat, au niveau national et international, sur l&rsquo;évaluation des impacts des algorithmes. Cette question est au coeur de la future régulation sur l&rsquo;Intelligence artificielle dont une première version vient d&rsquo;être rendue publique par la Commission européenne. Il s&rsquo;agit aussi de donner accès à une large communauté de concepteurs de ces systèmes (au sein des administrations et au-delà) aux derniers outils existants au niveau international.</p>
+
+
+
+<div class="wp-block-file"><a href="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/Rapport_EIA_ETALAB-.pdf">« <strong>L&rsquo;évaluation d&rsquo;impact algorithmique: un outil qui doit encore faire ses preuves</strong> » (Elisabeth Lehagre, juillet 2021):<br></a><a href="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/Rapport_EIA_ETALAB-.pdf" class="wp-block-file__button" download>Télécharger l&rsquo;étude complète (28 pages)</a></div>
+
+
+
+<div class="wp-block-file"><a href="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/Resume-Rapport-EIA-ETALAB.pdf"> </a><a href="https://www.etalab.gouv.fr/wp-content/uploads/2021/07/Resume-Rapport-EIA-ETALAB.pdf" class="wp-block-file__button" download>Télécharger le résumé (2 pages)</a></div>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-dailymotion wp-block-embed-dailymotion wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="L&#039;évaluation des impacts algorithmiques : quels outils ? Pour quels résultats ?" frameborder="0" width="1091" height="613" src="https://www.dailymotion.com/embed/video/x82n2og" allowfullscreen allow="autoplay"></iframe>
+</div><figcaption>Webinaire de présentation de l&rsquo;étude avec Elisabeth Lehagre, Elodie Quezel (Signaux Faibles) et Hubert Guillaud (InternetActu)</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Faire l&#8217;inventaire des algorithmes publics : point d&#8217;étape sur les actions d&#8217;Etalab</title>
+		<link>/faire-linventaire-des-algorithmes-publics-point-detape-sur-les-actions-detalab</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Wed, 03 Feb 2021 11:05:10 +0000</pubDate>
+				<category><![CDATA[Données]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[algorithme]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14863</guid>
+
+					<description><![CDATA[Au cours du dernier trimestre 2020, Soizic Pénicaud et Simon Chignard d’Etalab ont animé un groupe de travail restreint réunissant des collectivités et des ministères. L’objectif : mettre en œuvre l’inventaire des algorithmes publics, l’une des trois obligations issues de la Loi pour une République numérique. Retour sur la démarche, ses principaux résultats et les &#8230;<p class="read-more"> <a class="" href="/faire-linventaire-des-algorithmes-publics-point-detape-sur-les-actions-detalab"> <span class="screen-reader-text">Faire l&#8217;inventaire des algorithmes publics : point d&#8217;étape sur les actions d&#8217;Etalab</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Au cours du dernier trimestre 2020, Soizic Pénicaud et Simon Chignard d’Etalab ont animé un groupe de travail restreint réunissant des collectivités et des ministères. L’objectif : mettre en œuvre l’inventaire des algorithmes publics, l’une des trois obligations issues de la Loi pour une République numérique. Retour sur la démarche, ses principaux résultats et les prochaines étapes.</em></p>
+
+
+
+<p>Le sujet des algorithmes publics a gagné en visibilité en 2020. L’échéance du 1er juillet dernier (et le risque de sanction en cas d’absence de la mention explicite prévue par la loi) a permis une prise de conscience des enjeux et des obligations, prise de conscience facilitée aussi par la <a href="https://www.lagazettedescommunes.com/692382/les-algorithmes-vont-ils-prendre-le-pouvoir/?abo=1">presse</a>. Signe d’un intérêt croissant, le premier <a href="https://www.etalab.gouv.fr/transparence-des-algorithmes-publics-regardez-le-webinaire-a-lintention-des-administrations">webinaire</a> organisé en juin 2020 par Etalab a accueilli plus d’une centaine de participants, soucieux d’en connaître davantage sur les enjeux juridiques et pratiques d’une plus grande transparence des algorithmes.&nbsp;</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Etalab organise un second webinaire consacré cette fois-ci à l&rsquo;inventaire des algorithmes publics le 11 février 2021 à 10h. <a href="https://app.livestorm.co/etalab-donnees/comment-faire-linventaire-des-algorithmes-publics" target="_blank" rel="noreferrer noopener" class="broken_link">Inscrivez-vous !</a></p></blockquote>
+
+
+
+<p>Notre pays est l’un des premiers à s’être doté, dès 2016, d’un corpus législatif cohérent sur le sujet, avec d’une part la loi pour une République numérique et d’autre part l’adaptation du règlement général sur la protection des données à caractère personnel (RGPD). Cependant, on constate souvent que les administrations ont besoin d’accompagnement pour appliquer le cadre juridique existant. Dès lors, il nous a semblé indispensable <strong>d’aller plus loin</strong> que le rappel voire l’explication des lois, comme cela est déjà le cas avec le <a href="https://guides.etalab.gouv.fr/algorithmes/guide/#_1-a-quoi-servent-les-algorithmes-publics">guide des algorithmes publics</a>. C’est de cette volonté qu’est née l&rsquo;idée d’un groupe de travail informel réunissant quelques administrations volontaires autour d’un objectif commun: progresser sur l<strong>’inventaire des algorithmes publics</strong>.</p>
+
+
+
+<p><strong>Un groupe restreint et informel pour avancer ensemble</strong> </p>
+
+
+
+<p>Mi-2020, Etalab a sollicité un petit nombre d’administrations pour participer à un groupe de travail informel, en ciblant en priorité celles qui avaient manifesté leur intérêt pour le sujet des algorithmes. Nous avons fait le pari d’animer un groupe mêlant des ministères et des collectivités locales dans une même démarche. Ainsi, d’octobre à décembre 2020, nous avons animé cinq sessions de travail. Autour de la table (ou plutôt, de l’écran, crise sanitaire oblige) : <strong>Maryse Le Bras</strong>, du Ministère de l’Education nationale, <strong>Cécile Le Guen</strong>, de la Direction des douanes et des droits indirects, <strong>Anthony Claverie</strong> de la Ville d’Antibes et <strong>Nathalie Vernus Prost</strong> de la Métropole de Lyon. Tous ont accepté de partager leurs réalisations, leurs interrogations et parfois aussi leurs doutes pendant ce trimestre. Qu’elles et il en soient ici remerciés.</p>
+
+
+
+<p>Le point de départ de nos travaux était l’<strong>article du Code des relations entre le public et l’administration</strong> qui évoque l’inventaire des algorithmes publics. Voilà ce qui dit le texte: les administrations sont tenues de publier en ligne “<em>les règles définissant les principaux traitements algorithmiques utilisés dans l’accomplissement de leurs missions lorsqu’ils fondent des décisions individuelles”</em>.</p>
+
+
+
+<p>Le point d’arrivée est un <strong>modèle d’inventaire des algorithmes</strong> publics en <strong>version beta</strong>, que nous allons prochainement mettre en débat pour amélioration et commentaires. Ce modèle, une fois consolidé, pourra être adopté par toute administration souhaitant publier son propre inventaire et se mettre ainsi en conformité avec la loi. La ville d’Antibes a d’ailleurs récemment publié une <a href="https://www.antibes-juanlespins.com/administration/acces-aux-documents-administratifs" class="broken_link">première version</a> de cet inventaire à l’aide de ce modèle. Au cours de ce trimestre de travail, nous avons aussi été inspirés par plusieurs initiatives d’inventaire des algorithmes publics, par exemple de <a href="https://data.nantesmetropole.fr/pages/algorithmes_nantes_metropole/">Nantes Métropole</a>, d’<a href="https://algoritmeregister.amsterdam.nl/en/ai-register/">Amsterdam</a> et d’<a href="https://ai.hel.fi/en/ai-register/">Helsinki</a>. Parallèlement à ce groupe de travail, l’équipe d’Etalab a aussi échangé avec plusieurs pays, dont le Canada, le Royaume-Uni, les Pays-Bas et la Nouvelle-Zélande dans le cadre des travaux du groupe « <a href="https://www.opengovpartnership.org/topic/open-algorithms-blog-series/">Open Algorithms</a> » du Partenariat pour le Gouvernement ouvert (PGO).</p>
+
+
+
+<p><strong>Ce que nous avons appris en chemin</strong></p>
+
+
+
+<p>En préparant ce modèle d’inventaire, nous avons identifié plusieurs enjeux qui méritent d’être partagés.</p>
+
+
+
+<p>Il faut tout d’abord souligner la proximité, <em>de fait et de droit</em>, entre le sujet de l’open data et la question des algorithmes. De fait, les agents des administrations mobilisés sur cette dernière question sont aussi ceux qui le sont pour l’ouverture des données publiques. De droit, ensuite: la plupart des dispositions liées aux algorithmes et à l’open data apparaissent dans le même Code des relations entre le public et l&rsquo;administration.                                                                                                                                                                                                                                                                                                                             Les difficultés rencontrées sont identiques, avec notamment un très fort enjeu d’acculturation et de pédagogie en interne au sein des administrations.&nbsp;</p>
+
+
+
+<p><em>Comment parler des algorithmes ?</em> Pas facile! La discussion a fait ressortir le besoin d’illustrations, d’exemples d’algorithmes dans le secteur public. Le terme même d’algorithme est souvent mal compris. Les frontières de l’algorithme et son tropisme numérique font aussi l’objet de discussion, et la confusion règne parfois entre algorithme, traitement automatisé et code source, trois notions qui cohabitent dans les textes juridiques.&nbsp;</p>
+
+
+
+<p>C’est bien souvent à partir d’exemples que les services métiers se saisissent de la question, plutôt que par la définition. Ainsi, la bonne question à poser en interne n’est pas tant “<em>quels sont les algorithmes que vous utilisez ?</em>” mais plutôt “<em>quelles sont les décisions que vous prenez, par exemple envers les administrés</em> ?”. Il est parfois plus aisé de commencer par identifier les décisions administratives pour arriver ensuite aux outils qui aident à prendre ces décisions, et non l’inverse.</p>
+
+
+
+<p><em>Qui doit réaliser cet inventaire ?</em> La gouvernance des algorithmes publics, au sens large, est encore largement à construire. À coup sûr, elle doit faire intervenir de nombreux intervenants dans l’organisation: direction métiers, direction du numérique, délégués à la protection des données, personnes en charge de l’accès aux documents administratifs (<a href="https://www.cada.fr/administration/le-role-de-la-prada">PRADA</a>). Dans les administrations que nous avons rencontrées, c’est souvent la personne chargée de l’ouverture des données qui joue le rôle de chef d’orchestre de la transparence des algorithmes. On notera d&rsquo;ailleurs avec intérêt que le <a href="https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources">rapport</a> remis par le député Eric Bothorel au Premier ministre propose d’élargir le périmètre des administrateurs des données en leur confiant aussi les sujets d’algorithmes et de codes sources.</p>
+
+
+
+<p><em>Un inventaire, pour qui ?</em> <em>Un inventaire pour quoi ?</em> La question des cibles de cet inventaire est étroitement liée à celle des usages… et des moyens disponibles. On l’aura compris, réaliser un tel inventaire est une obligation légale. Mais rien n’interdit aussi de s’interroger sur les objectifs à atteindre et sur les publics cibles. Dans l’esprit du législateur, cet inventaire est l’une des trois composantes de la transparence des algorithmes, avec la mention explicite et le droit à l’information individuelle. En ce sens, l’inventaire contribue à rendre visible à la société des systèmes qui sont parfois invisibles. Cette mise en visibilité n’est que la première étape, c’est un moyen mais surtout pas une fin. Le travail de médiation à réaliser reste essentiel, pour permettre à chacun de s’emparer de ces informations.&nbsp;</p>
+
+
+
+<p><strong>Pour aller plus loin</strong></p>
+
+
+
+<p><em>Comment réaliser cet inventaire ? Que doit-il contenir ? Où le publier ? </em>Pour répondre à ces questions, Etalab organise le <strong>11 février 2021 à 10h</strong> un webinaire en ligne sur l’inventaire des algorithmes publics, avec le témoignage des participants à ce groupe de travail. <a href="https://app.livestorm.co/etalab-donnees/comment-faire-linventaire-des-algorithmes-publics" class="broken_link">Inscription gratuite et obligatoire</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Le Sommet mondial du Partenariat pour un Gouvernement Ouvert a eu lieu à Ottawa du 29-31 mai 2019</title>
+		<link>/ogp2019</link>
+		
+		<dc:creator><![CDATA[Victor Kahn]]></dc:creator>
+		<pubDate>Fri, 14 Jun 2019 08:37:40 +0000</pubDate>
+				<category><![CDATA[Événements]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[Plan d'action national gouvernement ouvert]]></category>
+		<category><![CDATA[Open Gov]]></category>
+		<category><![CDATA[Partenariat pour un gouvernement ouvert]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10616</guid>
+
+					<description><![CDATA[La 6ème édition du Sommet mondial du Partenariat pour un gouvernement ouvert (PGO), a été accueillie par le Canada, au titre de la co-présidence du partenariat en 2019, qu’elle partage avec l’ONG Results for Development. Plus de 2 500 représentants des gouvernements et de la société civile issus des 79 pays et des 20 collectivités &#8230;<p class="read-more"> <a class="" href="/ogp2019"> <span class="screen-reader-text">Le Sommet mondial du Partenariat pour un Gouvernement Ouvert a eu lieu à Ottawa du 29-31 mai 2019</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><p align="justify"><strong>La 6<sup>ème</sup> édition du Sommet mondial du Partenariat pour un gouvernement ouvert (PGO), a été accueillie par le Canada, au titre de la co-présidence du partenariat en 2019, qu’elle partage avec l’ONG <em>Results for Development.</em> Plus de 2 500 représentants des gouvernements et de la société civile issus des 79 pays et des 20 collectivités locales membres du PGO se sont réunis du 29 au 31 mai à Ottawa. Le Sommet était axé autour des priorités de la co-présidence&nbsp;: la participation citoyenne, l’inclusion, et l’impact du numérique pour la démocratie. </strong></p></p>
+
+
+
+<p><p align="justify">Etalab, en tant que point de contact du PGO, était présent au sein de la délégation française présidée par Henri Verdier, Ambassadeur chargé du numérique. La délégation française comptait aussi&nbsp;:</p></p>
+
+
+
+<ul><li>
+des représentants de la Task force de la Présidence française du G7&nbsp;et du Ministère de l’Europe et des Affaires étrangères, en appui à l’Ambassadeur chargé du numérique
+</li><li>
+l’Agence française de développement, Expertise France&nbsp; et Canal France international (CFI) notamment pour leur participation au Programme d’Appui pour les gouvernements ouverts francophones (PAGOF)
+</li><li>
+la Haute Autorité pour la transparence de la vie publique
+</li></ul>
+
+
+
+<p><p align="justify">Ce Sommet, très riche en rencontres et évènements, couvrait un spectre large de sujets : lutte anticorruption,&nbsp; transparence de la commande publique, registre des bénéficiaires effectifs, transparence des budgets, utilisation de civic tech, inclusion des populations minoritaires ou isolées dans les décisions publiques, impact du numérique sur les sociétés et les démocraties etc.</p></p>
+
+
+
+<p><p align="justify"><strong>Les grands enjeux du numérique dans les démocraties et l’action publique sont de plus en plus au cœur des discussions</strong> de la communauté rassemblée par le Partenariat pour un gouvernement ouvert. <strong>La France y tient une place importante dans les discussions, tant au niveau de son influence sur la régulation que des projets qu’elle mène au sein de ses administrations.</strong></p></p>
+
+
+
+<h3 class="wp-block-heading">Une communauté du gouvernement ouvert très investie sur les enjeux numériques</h3>
+
+
+<p align="justify">Dès la cérémonie d’ouverture du Sommet, présidée par le Premier ministre du Canada,<strong> Justin Trudeau a rappelé l’importance pour nos démocraties d’adresser les nouveaux enjeux numériques en adoptant des modèles de gouvernance multi-parties-prenantes</strong>. Le Partenariat pour un gouvernement ouvert, associant justement gouvernements, parlements, collectivités locales et organisations de la société civile, est une enceinte qui depuis plus de 8 ans met en commun bonnes pratiques et engagements pour améliorer la transparence de l’action publique, la participation citoyenne et l’impact des politiques publiques.</p>
+<div>
+<p align="justify">Lors de son année en tant que co-président du PGO, le Canada a mis l’accent sur les enjeux numériques&nbsp;: l’intelligence artificielle, la transparence des algorithmes, la lutte contre la désinformation, l’ouverture des données publiques et le respect de la vie privée, et de manière plus générale, les nouvelles régulations à l’heure du numérique.</p>
+<p align="justify"><strong>Etalab et la délégation ont donc pu rappeler</strong>, lors de différents temps forts, <strong>les actions de la France en matière d’ouverture des algorithmes publics, d’ouverture des données publiques, de participation citoyenne, mais aussi promouvoir sa vision internationale d’un numérique ouvert, libre et sûr</strong>, deux semaines après la ministérielle informelle numérique du G7, le lancement de <a href="https://www.appeldechristchurch.com/">l’Appel de Christchurch</a> et <a href="https://vivatechnology.com/">VivaTech.</a></p>
+</div>
+
+
+<h3 class="wp-block-heading">Parmi les temps forts&nbsp;du Sommet </h3>
+
+
+
+<h4 class="wp-block-heading" style="text-align:left">Des rencontres bilatérales avec des ministres et des acteurs du numérique</h4>
+
+
+
+<div class="wp-block-image"><figure class="alignleft is-resized"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/OGPSummit2019-2-1.jpg" alt="" class="wp-image-10620" width="153" height="189" srcset="/wp-content/uploads/2019/06/OGPSummit2019-2-1.jpg 599w, /wp-content/uploads/2019/06/OGPSummit2019-2-1-243x300.jpg 243w" sizes="(max-width: 153px) 100vw, 153px" /></figure></div>
+
+
+
+<p><p align="justify">La délégation a notamment rencontré la Secrétaire d’État allemande chargée du numérique, Dorothée Bär&nbsp;; le Ministre argentin en charge de la modernisation, Andres Ibarra&nbsp;; le Ministre délégué à la Transformation numérique gouvernementale du Québec, Eric Caire&nbsp;; Tim Berners Lee, fondateur du World Wide web. </p></p>
+
+
+
+<div class="wp-block-image"><figure class="alignright is-resized"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/OGPSummit2019-3.jpg" alt="" class="wp-image-10621" width="240" height="131" srcset="/wp-content/uploads/2019/06/OGPSummit2019-3.jpg 591w, /wp-content/uploads/2019/06/OGPSummit2019-3-300x164.jpg 300w" sizes="(max-width: 240px) 100vw, 240px" /></figure></div>
+
+
+<p align="justify">Etalab a échangé en particulier avec&nbsp;ses homologues allemands en charge de l’IA et de l’économie de la donnée au Ministère des affaires économiques et de l’énergie en Allemagne ainsi qu’avec un membre de l’équipe de <a href="https://www.govdata.de/">govdata.de</a>, le portail d’open data allemand ; avec l’Open Contracting Partnership sur l’ouverture de la commande publique; avec l’Open Data Charter; ainsi qu’avec Megan Smith, ancienne CTO de la Maison Blanche et fondatrice de <a href="https://shift7.com/team/">shift7</a>, une entreprise visant à catalyser des projets d’innovation sociale en lien avec la technologie.</p>
+
+
+<h4 class="wp-block-heading">L<strong>a participation de la délégation à des tables rondes thématiques sur le numérique</strong></h4>
+
+
+<p align="justify">L’Ambassadeur chargé du numérique a participé à plusieurs tables rondes, dont une au côté de la Nouvelle Zélande, pour présenter <a href="https://www.appeldechristchurch.com/">l’Appel de Christchurch</a> pour supprimer les terroristes et extrémistes violents en ligne.</p>
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/IMG_7020-1-1024x514.jpg" alt="" class="wp-image-10623" width="501" height="251" srcset="/wp-content/uploads/2019/06/IMG_7020-1-1024x514.jpg 1024w, /wp-content/uploads/2019/06/IMG_7020-1-300x150.jpg 300w, /wp-content/uploads/2019/06/IMG_7020-1-768x385.jpg 768w, /wp-content/uploads/2019/06/IMG_7020-1.jpg 1280w" sizes="(max-width: 501px) 100vw, 501px" /></figure></div>
+
+
+<p align="justify">La mission Etalab a présenté ses travaux lors de différentes sessions : programme Entrepreneurs d’intérêt général, politique d’ouverture des données publiques, transparence des algorithmes publics, transparence de la commande publique. Lors de la journée dédiée à la communauté des points de contact du PGO le 28 mai 2019, Etalab a été sollicité pour présenter son organisation (équipe multi compétences, méthodes agiles) ses programmes d&rsquo;accompagnement (EIG, IA, réseaux de correspondants ministériels autour des données et de l&rsquo;ouverture) et ses méthodes de travail (outils collaboratifs, logiciel libre…), qui intéressent particulièrement ses homologues internationaux.</p>
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/IMG_7126.jpg" alt="" class="wp-image-10624" width="591" height="205" srcset="/wp-content/uploads/2019/06/IMG_7126.jpg 1019w, /wp-content/uploads/2019/06/IMG_7126-300x105.jpg 300w, /wp-content/uploads/2019/06/IMG_7126-768x268.jpg 768w" sizes="(max-width: 591px) 100vw, 591px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/IMG_7127.jpg" alt="" class="wp-image-10625" width="459" height="279" srcset="/wp-content/uploads/2019/06/IMG_7127.jpg 451w, /wp-content/uploads/2019/06/IMG_7127-300x182.jpg 300w" sizes="(max-width: 459px) 100vw, 459px" /></figure></div>
+
+
+
+<h4 class="wp-block-heading">Des échanges de bonnes pratiques sur l’intelligence artificielle</h4>
+
+
+<p align="justify">Une journée dédiée à l’Intelligence artificielle a été organisée le 29 mai à l’initiative du gouvernement canadien.</p>
+<p align="justify">Le Canada y a présenté son <a href="https://open.canada.ca/aia-eia-js/?lang=fr" target="_blank" rel="noopener noreferrer">outil d’évaluation de l’impact des algorithmes (EIA) publics, </a>conçu pour aider les administrations à évaluer et atténuer les risques associés au déploiement d’un système de prise de décision automatisée.</p>
+<p align="justify">L&rsquo;ambassadeur a présenté l’initiative du groupe international d’experts sur l’intelligence artificielle G2IA, ou, en anglais, <em>International Panel On Artificial Intelligence</em>, IPAI) L’Ambassadeur chargé du numérique a rappelé que l’objectif du projet de G2IA est de consolider une vision humaniste de l’IA, fondée sur le respect des droits humains et des valeurs démocratiques, en créant une organisation, dédiée à l’IA et reconnue internationalement, rassemblant les travaux des experts sur l’IA et ses impacts pour constituer le «&nbsp;point de référence&nbsp;» de la réflexion internationale sur l’IA. L’Ambassadeur a rappelé qu’avait été publié le 15 mai dernier un projet de «&nbsp;Déclaration du G2IA&nbsp;» présentant les valeurs auxquels les États souhaitant rejoindre le G2IA doivent adhérer.</p>
+
+
+<h3 class="wp-block-heading">Une session spécifique sur la structuration de la thématique «&nbsp;numérique&nbsp;» au sein du PGO</h3>
+
+
+
+<p align="justify">Co-présidée par Dorothée Bär, Secrétaire d’État allemande chargée du numérique et Henri Verdier, Ambassadeur de France chargé du numérique, cette session avait pour objectif de rassembler les acteurs intéressés et prêts à s’investir pour renforcer le volet stratégie numérique au sein du Partenariat pour un gouvernement ouvert. Une vingtaine de participants ont répondu à l’appel dont, pour les États, l’Afrique du Sud, le Canada, l’Estonie, l’Italie, la Suède, la Norvège, et la Nouvelle Zélande&nbsp;; et pour la société civile&nbsp;: Luminate, Access Now, Open data charter, The B Team.</p>
+
+
+
+<p align="justify">Les questions d’ouverture de données et de civic tech sont abordées depuis longtemps au sein du PGO. Cependant, les participants à cette réunion se sont accordés sur le fait que <strong>les impacts du numérique sur les démocraties, le partage d’expériences sur les réponses qui peuvent être apportées, sont des enjeux qui doivent faire l&rsquo;objet d&rsquo;échanges et d&rsquo;actions plus poussés au sein du PGO</strong>. Le PGO permet notamment d’élargir ces discussions actuellement menées dans de nombreux autres fora, puisque le Partenariat rassemble de nombreux pays, et il est surtout capable de réunir autour de la table de nombreuses organisations de la société civile aux côtés de ses pays membres. Il a aussi été souligné que le secteur privé doit être invité à participer à ces discussions.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/OGPSummit2019-4.jpg" alt="" class="wp-image-10626" width="328" height="243" srcset="/wp-content/uploads/2019/06/OGPSummit2019-4.jpg 588w, /wp-content/uploads/2019/06/OGPSummit2019-4-300x222.jpg 300w" sizes="(max-width: 328px) 100vw, 328px" /></figure></div>
+
+
+
+<p align="justify">Les différents thèmes soulignés par les participants à cette réunion sont&nbsp;: l’utilisation de l’intelligence artificielle et des algorithmes par les États et les administrations, la régulation des contenus en ligne, la régulation des plateformes, la protection de la vie privée, la souveraineté des États, l’échange des données entre le secteur public et privé, le développement de services publics en ligne, l’inclusion numérique. </p>
+
+
+
+<h3 class="wp-block-heading">Le Partenariat pour un gouvernement ouvert évolue pour mieux répondre aux besoins des pays membres et explorer des sujets émergents</h3>
+
+
+
+<p>Le Comité directeur au niveau opérationnel puis au niveau ministre s’est tenu le 29 mai. Pour la France, Henri Verdier y représentait le Secrétaire d’État chargé du numérique. </p>
+
+
+
+<h4 class="wp-block-heading">Des évolutions du Partenariat ont été annoncées </h4>
+
+
+
+<ul><li><p align="justify">Le mécanisme d’évaluation indépendant (ou IRM &#8211; <em>independant reporting mecanism</em>), qui est chargé de suivre et évaluer l’élaboration des plans d’action nationaux de chaque pays et leur mise en œuvre, va être réformé afin de pouvoir produire les rapports d’évaluation plus proche des besoins des pays membres.</p></li><li><p align="justify">Le PGO a lancé un <a href="https://www.opengovpartnership.org/">nouveau site internet</a> avec pour objectif de faciliter la mise en valeur des connaissances rassemblées par le PGO</p></li><li><p align="justify">Le PGO lance son rapport «&nbsp;<a href="https://www.opengovpartnership.org/flagship-report-2/">flagship report&nbsp;</a>», qui compare les données et les avancées de chaque pays membres par thème&nbsp;: santé, genre, accès à l’information, ouverture de la commande publique, transparence fiscale et budgétaire, justice, éducation, eau, gestion des ressources naturelles et bénéficiaires effectifs</p></li><li><p align="justify">Le programme «&nbsp;<a href="https://www.opengovpartnership.org/our-members/local/">subnational</a>&nbsp;» qui rassemble aujourd’hui 20 collectivités territoriales au sein du PGO, dont la Ville de Paris, et bientôt 30 en 2019, va être réformé afin de pouvoir accueillir plus de collectivités territoriales et de favoriser les échanges de ressource et de bonnes pratiques entre les collectivités territoriales ainsi qu’avec les échelons nationaux.</p></li></ul>
+
+
+
+<h4 class="wp-block-heading">De nouveaux membres au Comité directeur et une passation de co-présidence</h4>
+
+
+
+<p align="justify">Les membres récemment élus au comité directeur ont été accueillis&nbsp;: pour les pays, l’Allemagne et l’Indonésie et pour la société civile, Elisa Peter de Publish What You Pay, Asma Cherifi de Coordination of Francophone African Open Data Community et Glynnis Cummings-John de Restless Development.</p>
+
+
+
+<p align="justify"> Les futurs co-présidents, l’Argentine, ainsi que Robin Hoddes, Directrice de la gouvernance et de la transparence à <em>The B-Team</em>, ont conclu le comité directeur en présentant leurs priorités pour 2019-2020&nbsp;:  </p>
+
+
+
+<ul><li>renforcer le gouvernement ouvert dans les
+territoires et par là, améliorer le service public</li><li>encourager la participation citoyenne</li><li>accélérer la transformation numérique de
+l’action publique. </li></ul>
+
+
+
+<p align="justify">L’Argentine ne s’est pas engagée à organiser un
+Sommet mondial du PGO. Cependant, l’opportunité d’organiser des évènements
+thématiques, notamment sur les grands enjeux du numérique pour les
+démocraties et la transformation publique a été mentionnée. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/IMG_7004-1024x481.jpg" alt="" class="wp-image-10627" width="514" height="241" srcset="/wp-content/uploads/2019/06/IMG_7004-1024x481.jpg 1024w, /wp-content/uploads/2019/06/IMG_7004-300x141.jpg 300w, /wp-content/uploads/2019/06/IMG_7004-768x361.jpg 768w, /wp-content/uploads/2019/06/IMG_7004.jpg 1408w" sizes="(max-width: 514px) 100vw, 514px" /></figure></div>
+
+
+
+<ul><li><em>Voir aussi <a href="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/ETALAB-Compte-rendu-OGP-Summit-2019-Ottawa.pdf">le compte rendu plus détaillé du Sommet</a> et <a href="https://www.opengovpartnership.org/about/team/steering-committee/meetings-minutes-and-communications/">les minutes du comité directeur sur le site du Partenariat pour un gouvernement ouvert</a></em></li></ul>
+
+
+
+<p>Pour en savoir plus : </p>
+
+
+
+<ul><li><a rel="noreferrer noopener" href="https://opengovpartnership.us3.list-manage.com/track/click?u=b25f647af089f5f52485a663d&amp;id=443ad86f25&amp;e=7d8de0a00d" target="_blank">Vidéos des séances plénières</a> et autres faits saillants</li><li><a rel="noreferrer noopener" href="https://opengovpartnership.us3.list-manage.com/track/click?u=b25f647af089f5f52485a663d&amp;id=277509b68e&amp;e=7d8de0a00d" target="_blank">Photos</a> du Sommet mondial</li><li><a rel="noreferrer noopener" href="https://opengovpartnership.us3.list-manage.com/track/click?u=b25f647af089f5f52485a663d&amp;id=9399d9385e&amp;e=7d8de0a00d" target="_blank">Casser les rôles</a>, la campagne sur l’égalité des sexes et l’inclusion du PGO.</li><li><a rel="noreferrer noopener" href="https://opengovpartnership.us3.list-manage.com/track/click?u=b25f647af089f5f52485a663d&amp;id=f2adb330a5&amp;e=7d8de0a00d" target="_blank">Le rapport global du PGO</a>, qui examine de plus près l’état de la transparence gouvernementale dans le monde.</li></ul>
+
+
+
+<ul><li>Contacts et informations : <a href="mailto:gouvernement-ouvert@etalab.gouv.fr">gouvernement-ouvert@etalab.gouv.fr</a></li></ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Etalab is working towards public sector algorithms accountability: a working paper for RightsCon 2019</title>
+		<link>/how-etalab-is-working-towards-public-sector-algorithms-accountability-a-working-paper-for-rightscon-2019</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Wed, 12 Jun 2019 22:52:54 +0000</pubDate>
+				<category><![CDATA[Événements]]></category>
+		<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Plan d'action national gouvernement ouvert]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10581</guid>
+
+					<description><![CDATA[RightsCon is the world&#8217;s leading event on human rights in the digital age. The 2019 edition, taking place this week in Tunis, brings together 2500 participants from 130 countries (NGOs, governments, companies). Etalab has been selected to lead a session about algorithmic accountability. « With great power comes great responsibility » On this occasion, Etalab is publishing &#8230;<p class="read-more"> <a class="" href="/how-etalab-is-working-towards-public-sector-algorithms-accountability-a-working-paper-for-rightscon-2019"> <span class="screen-reader-text">How Etalab is working towards public sector algorithms accountability: a working paper for RightsCon 2019</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">RightsCon is the world&rsquo;s leading event on human rights in the digital age. The <a href="https://www.rightscon.org/program/">2019 edition</a>, taking place this week in Tunis, brings together 2500 participants from 130 countries (NGOs, governments, companies). Etalab has been selected to <a href="https://rightscon2019.sched.com/event/Pvg5/with-great-power-comes-great-responsibility-keeping-public-sector-algorithms-accountable">lead a session</a> about algorithmic accountability. </p>
+
+
+
+<h4 class="wp-block-heading">« With great power comes great responsibility »</h4>
+
+
+
+<p>On this occasion, Etalab is publishing a working paper « <em><strong><a href="https://github.com/etalab/algorithmes-publics/blob/master/20190611_WorkingPaper_PSAAccountability_Etalab.pdf">With great power comes great responsibility: keeping public sector algorithms accountable</a></strong></em> » to present our work on algorithmic accountability and to engage the discussion with international actors (NGOs, governments and companies). Here is a short summary of our findings.</p>
+
+
+
+<p><strong>From automation of human tasks to machine learning: a short history of public sector algorithms</strong></p>
+
+
+
+<p>Algorithms are nothing new for the public service. In the 1970’s, the emergence of the computing industry allowed the French authorities to automate some of its administrative processes, starting with the large-scale processes, like tax and social benefits calculations. The second generation started with the use of matching algorithms, mainly for human resources management. The Ministry of Education developed a system to manage their workforce, that is, educators and teachers applying for a new position in a different school or region. Since the early 2000’s, matching algorithms have been used for student allocation such as Affelnet, Admission Post-Bac, and now Parcoursup. The third generation of public sector algorithms is linked to the emergence of machine learning (ML) algorithms which represent a major shift for public policy. In the first two periods, computers were used to apply a set of rules that were sometimes complex, but always predefined. Instead, ML algorithms derive rules from observations and learning from large datasets. These systems are used for tax fraud detection, prediction of companies likely to hire (<a href="http://labonneboite.poleemploi.fr/" class="broken_link">La Bonne Boite</a>) or that present a risk of going bankrupt (<a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/signauxfaibles.html" class="broken_link">Signaux Faibles</a>). </p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="432" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/threegeneration-1024x432.png" alt="" class="wp-image-10584" srcset="/wp-content/uploads/2019/06/threegeneration-1024x432.png 1024w, /wp-content/uploads/2019/06/threegeneration-300x127.png 300w, /wp-content/uploads/2019/06/threegeneration-768x324.png 768w, /wp-content/uploads/2019/06/threegeneration.png 1560w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>[Extract from the working paper]</figcaption></figure>
+
+
+
+<p><strong>Specific challenges for public sector algorithms</strong></p>
+
+
+
+<p>Private and public sectors share a series of challenges (opacity, loss of autonomy, low level of explainability, risk of bias, &#8230;) but the latter are distinguable in three ways worth noting. </p>
+
+
+
+<p>First, they must be used in the <strong>public interest</strong> and not a <em>particular or private</em> interest. One can question the impact of YouTube’s recommendation algorithm on the diffusion of harmful content. That said, it is generally accepted that, as a private company, YouTube is pursuing its own interest and not the public interest. Second, in many cases, public sector algorithms tend to <strong>implement legal rules</strong>. Tax calculations follow a list of rules defined by the general tax law and adopted by the Parliament. As such, some PSA are the last link from the political will to tangible effects on individuals. </p>
+
+
+
+<p>Finally, public sector algorithms tend to be unavoidable: citizens do not have the option to use a different algorithm and sometimes are not presented with the choice to opt out of using an algorithm at all. For example, a French patient in need of a heart transplant has no choice but to accept the rules and their algorithmic implementation by the Biomedicine agency. Similarly, the only way to get access to most of the higher education institutions is to go through Parcoursup, the allocation system for students, which relies on an algorithm. <br>In 1789, the Declaration of the Rights of Man and of the Citizen (article XV) stated that “<em>Society has the right to require of every public agent an account of their administration</em>”. This principle, enacted well before the invention of computers, still stands: if administrations use algorithms as tools of administration and government, then they – and their algorithms – should be held accountable. </p>
+
+
+
+<h4 class="wp-block-heading"><strong>How Etalab is working towards sector algorithms accountability</strong></h4>
+
+
+
+<p>With the introduction of a new legal framework for algorithmic accountability and transparency (introduced by the Digital Republic Bill), public agencies need to be accompanied on making existing and future algorithms compliant with the new obligations. This also gives citizens access to new rights, such as an extended right to information. </p>
+
+
+
+<p>Through the National Action Plan (2018-2020) for the Open Government Partnership, France has committed to reinforcing “the transparency of public sector algorithms and source codes”. Etalab, as the government’s task force for open data and data policy, oversees the work on this commitment<strong> </strong>which lies at the crossroads between open data, open source, and open government issues. <strong>&nbsp;</strong></p>
+
+
+
+<p>Our approach is multifaceted:</p>
+
+
+
+<ul><li><em>top-down</em>: from the general principles and legal obligations to their concrete implementations;</li><li><em>bottom-up</em>: deriving challenges and good practices from specific case studies;</li><li><em>inspired by inputs</em>: from external partners and from alternative methods;</li><li><em>next to</em>: supporting teams developing new algorithms.</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="549" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/multifaceted-approach-1024x549.png" alt="" class="wp-image-10609" srcset="/wp-content/uploads/2019/06/multifaceted-approach-1024x549.png 1024w, /wp-content/uploads/2019/06/multifaceted-approach-300x161.png 300w, /wp-content/uploads/2019/06/multifaceted-approach-768x412.png 768w, /wp-content/uploads/2019/06/multifaceted-approach.png 1462w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Extract from the working paper</figcaption></figure>
+
+
+
+<p>To answer to the agencies’ primary need we published a how-to guide on algorithms for public sector agencies. The guide, available <a href="https://etalab.github.io/algorithmes-publics/">online</a> (in French) – open to contributions on GitHub – gives a brief overview of issues surrounding PSA and puts the European and national legal obligations into layman’s terms to make them more accessible to public servants</p>
+
+
+
+<p><strong>An investigation method for algorithms</strong></p>
+
+
+
+<p>To identify challenges and good practices already in place, we adopted a case-based approach, working with voluntary public sector agencies on existing algorithms. Three different methodologies have been used, each one focusing on a particular object on different domains (namely social services, employment and health): </p>
+
+
+
+<ol><li>observing people at work, and their interactions with algorithmic systems (allocating daycare places at a municipal level);</li><li>observing code being published, and interviewing developers about their choices (helping the unemployed target potential employers);</li><li>observing legal and practical documentation about administrative procedures using algorithms (allocating heart transplants at a national level).</li></ol>
+
+
+
+<h4 class="wp-block-heading"><strong>Building accountability by design</strong></h4>
+
+
+
+<p>In addition to working with existing use cases, we explore accountability by design by working in close collaboration with different organizations and actors. As the department for data policy, Etalab encourages the development of datascience into government through different innovation programs developing rule-based and machine learning algorithms, such as digital transformation program <a href="https://entrepreneur-interet-general.etalab.gouv.fr/">Entrepreneurs d’Intérêt Général</a> and a call for projects around artificial intelligence. We make sure that PSA accountability issues are addressed from the beginning of these programs by organizing workshops and discussions with the development teams (public servants, data scientists, and developers). We work on different topics such as impact, explanation, data bias or symmetry of information.</p>
+
+
+
+<p><strong>A design workshop to involve citizens </strong></p>
+
+
+
+<p>To experiment with involving citizens in making PSA accountable we conducted two participatory workshops on the French housing tax, with the help of PhD candidate Loup Cellard (Warwick University). We used the analogy of an algorithm as a cooking recipe, with ingredients (data), step-by-step preparation methods (instructions) and a final result (amount to be paid). </p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="406" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/workshop2018-1024x406.png" alt="" class="wp-image-10611" srcset="/wp-content/uploads/2019/06/workshop2018-1024x406.png 1024w, /wp-content/uploads/2019/06/workshop2018-300x119.png 300w, /wp-content/uploads/2019/06/workshop2018-768x304.png 768w, /wp-content/uploads/2019/06/workshop2018.png 1428w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Getting the participants’ input on how to better explain the tax calculations was important but the workshop was particularly useful for raising awareness around citizens’ right to information with regards to public sector algorithms. </p>
+
+
+
+<h4 class="wp-block-heading"><strong>Perspective: public sector accountability and citizens</strong></h4>
+
+
+
+<p>So far, our department’s missions have been mainly focused on making sure public agencies meet their legal obligations. However, these obligations only make sense if they genuinely enable citizens to exert their rights, and if they result in a juster way to conduct public action. </p>
+
+
+
+<p>This raises crucial questions we want to keep exploring: who from outside the public sector should be involved in public sector algorithm accountability and at which step of the process? Secondly, where can and should citizens play a role? How can they help avoid the pitfall of “accountability-washing” and focus the discussion beyond the algorithm and on the public policies at stake? These questions call for broader reflection at two levels: first, nationally, by mobilizing civil society organizations, the media, human and digital rights NGOs, and research institutions while taking into consideration the local social, political and legal contexts. Secondly, through international collaborations with governments and organizations that have been working on these topics.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Retour sur le Comité directeur du Partenariat pour un gouvernement ouvert de décembre 2018</title>
+		<link>/retour-sur-le-comite-directeur-du-partenariat-pour-un-gouvernement-ouvert-de-decembre-2018</link>
+		
+		<dc:creator><![CDATA[Amélie Banzet]]></dc:creator>
+		<pubDate>Mon, 10 Dec 2018 11:57:22 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[Innovation ouverte / open innovation]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[Plan d'action national gouvernement ouvert]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=9500</guid>
+
+					<description><![CDATA[[:fr] Le Comité directeur du PGO s’est réuni le 5 et 6 décembre à Washington, sous la co-présidence du Canada et de Nathaniel Heller, Directeur de l’ONG américaine Results for Development. Ces deux jours ont permis de réfléchir au rôle du Partenariat pour un gouvernement ouvert (PGO) sur des sujets tels que l’état des démocraties &#8230;<p class="read-more"> <a class="" href="/retour-sur-le-comite-directeur-du-partenariat-pour-un-gouvernement-ouvert-de-decembre-2018"> <span class="screen-reader-text">Retour sur le Comité directeur du Partenariat pour un gouvernement ouvert de décembre 2018</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<blockquote>
+<p style="text-align: justify;">Le Comité directeur du PGO s’est réuni le 5 et 6 décembre à Washington, sous la co-présidence du Canada et de Nathaniel Heller, Directeur de l’ONG américaine <em>Results for Development</em>. Ces deux jours ont permis de réfléchir au rôle du Partenariat pour un gouvernement ouvert (PGO) sur des sujets tels que l’état des démocraties dans le monde, les problématiques de l&rsquo;inclusivité dans le gouvernement ouvert, la question de l’éthique dans le développement et l’utilisation des algorithmes et de l’intelligence artificielle et sur la transparence des registres des bénéficiaires effectifs pour la lutte contre la corruption. Les nouveaux co-présidents du Partenariat ont présenté leur stratégie, et l’organisation du prochain sommet qui aura lieu à Ottawa en mai 2019. Le Comité directeur a aussi fait un point sur l’activité du Partenariat en 2018, sur les objectifs pour 2019, et sur les procédures de mise en observation de certains pays membres du PGO.</p>
+</blockquote>
+<p>&nbsp;</p>
+<p style="text-align: justify;">Sur les 22 membres du Comité directeur du Partenariat pour un gouvernement ouvert (PGO), 11 représentants d’associations et 11 représentants de pays, quelques-uns n’ont pu être présents : le conseiller sur la réforme de la Justice du Ministère de la justice du Nigeria n’a pas pu effectuer le déplacement; le représentant du Mexique, s’est fait remplacer par le directeur du <em>Social controler unit</em> du Ministère de la fonction publique, M. Jesus Robles Malool, et uniquement pendant la dernière partie du Comité directeur ; et la Roumanie était représentée par un membre de son Ambassade à Washington, et non par le point de contact du PGO.</p>
+<p style="text-align: justify;">Du côté de la société civile, Delia Ferreira de Transparency International s’est excusée de ne pouvoir se libérer et Aiden Eyakuze, directeur exécutif de l’ONG tanzanienne, Twaweza, a participé par téléphone à certaine session, ne pouvant pas quitter son pays faute d’avoir récupéré son passeport toujours détenu par les autorités de Tanzanie.</p>
+<p style="text-align: justify;">Le Comité directeur a d’ailleurs commencé par la validation <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;ved=2ahUKEwj2xrjxgJXfAhVLLBoKHZjoAqUQFjABegQICRAC&amp;url=https%3A%2F%2Fwww.opengovpartnership.org%2Fsites%2Fdefault%2Ffiles%2FSC_Meeting-Packet_December2018.pdf&amp;usg=AOvVaw02RQKsDsQKMkGoYHLYHfFO">d’une déclaration </a>qui condamne les mesures d’intimidations mises en œuvre par le gouvernement tanzanien contre Aiden Eyakuze.</p>
+<p><strong> </strong></p>
+<h2><span style="color: #0000ff;">Les démocraties dans le monde : point de situation</span></h2>
+<p style="text-align: justify;">La parole a ensuite été donnée à Tom Carohters, vice-président senior du « <a href="https://carnegieendowment.org/experts/9" class="broken_link">Carnegie Endowment for International Peace</a> », qui a présenté une partie de ses travaux sur l’état de la démocratie dans le monde.</p>
+<p style="text-align: justify;"><em>D’après Tom Carohters, en termes de démocratie, le monde peut être divisé en trois types de pays : (1) une centaine de pays est passée d’autoritaire à « mieux », mais ces pays semblent aujourd’hui stagner. Ils sont souvent caractérisés par des partis politiques impopulaires et qui n’ont pas été renouvelés depuis longtemps; un système judiciaire préoccupant qui est une source de pouvoir pour les partis politiques ; des transformations économiques lentes, qui génèrent des inégalités et qui sont captives d’intérêts spécifiques ; et enfin, une société civile active, engagée mais épuisée et mécontente.  (2) La 2<sup>e</sup> catégorie comprend une cinquantaine de pays, ce sont les « démocraties établies » qui vivent pour beaucoup une période difficile avec une croissance économique faible et la polarisation des conflits autour de la question d’identité nationale, les questions de migrations avec une opposition entre un monde ouvert et un monde fermé (3) enfin, il y a environ un cinquantaine de pays sous des régimes autoritaires, et cette catégorie n’a pas augmenté. La nouveauté est que certains de ces pays gagnent en confiance, en visibilité, et étendent leurs actions au-delà de leurs frontières en jouant un rôle d’influenceur sur d’autres pays du globe. </em></p>
+<p style="text-align: justify;"><em>Selon Tom Carothers, une caractéristique dans tous les pays est que la colère publique due aux affaires de corruption a été la plus grande cause de changement de gouvernement. </em></p>
+<p style="text-align: justify;"><em>Les pays occidentaux ne diminuent pas leur soutien financier vis-à-vis des pays en développement ; cependant ce soutien se transforme. Même les États-Unis restent un des plus importants bailleurs de fonds pour soutenir des projets liés au renforcement de la démocratie. Malgré cela les États-Unis ne sont plus le leader mondial sur les sujets de démocratie, et il y a une place à prendre, pour le moment, il n’y a pas de leader. Le sujet du soutien à la démocratie peut être assez vague, et c’est souvent plus un sujet de diplomates. Cependant, la force du PGO est d’avoir mis des mots et des actions plus concrètes sur l’objectif de renforcer la démocratie : promouvoir la transparence, la redevabilité et la participation citoyenne, ce sont des notions plus concrètes.</em></p>
+<p style="text-align: justify;">En réponse à Tom Carohters, Sanjay Pradhan a souligné que le PGO avait un rôle de leadership à jouer sur ces sujets, et pouvait promouvoir des coalitions de leaders mondiaux pour promouvoir les valeurs et principes du gouvernement ouvert et définir des normes fondées sur la transparence, la redevabilité et la participation citoyenne.</p>
+<p>&nbsp;</p>
+<h2><span style="color: #0000ff;">La stratégie des co-présidents, le Canada et Nathaniel Heller et l’organisation du Sommet mondial 2019</span></h2>
+<p style="text-align: justify;">Nathaniel Heller, Directeur exécutif de <em>Results for development</em>, et le Canada, représenté par Francis Bilodeau, Secrétaire général adjoint pour les services numérique et Mélanie Robert, Directrice exécutive de la gestion de l’information et du gouvernement ouvert, tous deux sous le Conseil du Trésor canadien, ont présenté leur stratégie pour l’année à venir, centrée sur</p>
+<ul>
+<li style="text-align: justify;"><strong>Inclusion</strong> : déployer des efforts menant à des gouvernements plus équitables et inclusifs qui en font plus pour l&rsquo;ensemble de leurs citoyens.</li>
+<li style="text-align: justify;"><strong>Participation</strong> : augmenter la confiance envers le gouvernement au moyen d&rsquo;une participation accrue et importante des citoyens à la prise de décisions.</li>
+<li style="text-align: justify;"><strong>Impact</strong>: démontrer les répercussions positives d&rsquo;un gouvernement ouvert sur le quotidien des citoyens.</li>
+</ul>
+<p style="text-align: justify;">Le Sommet organisé à Ottawa le 29 et 30 mai 2019 reflétera ces priorités. Suite à une discussion du Comité directeur, trois thèmes principaux ont aussi été retenus pour le Sommet : la diversité du genre, avec notamment le lancement de l’initiative «<a href="https://www.opengovpartnership.org/theme/gender"> Feminist Open Government</a> » ; les risques et opportunités de la technologie pour le gouvernement ouvert ; et le renforcement de la lutte contre les restrictions imposées à l’action de la société civile.</p>
+<p><strong> </strong></p>
+<h2 style="text-align: justify;"><span style="color: #0000ff;">La France reprend le rôle de co-président du sous-comité thématique leadership et pousse notamment le Partenariat à se positionner sur le sujet de la transparence et la redevabilité des algorithmes publics.</span></h2>
+<p style="text-align: justify;"><img loading="lazy" decoding="async" class="size-medium wp-image-9522 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/12/CD-photo-300x187.jpg" alt="" width="300" height="187" srcset="/wp-content/uploads/2018/12/CD-photo-300x187.jpg 300w, /wp-content/uploads/2018/12/CD-photo-768x478.jpg 768w, /wp-content/uploads/2018/12/CD-photo-1024x638.jpg 1024w, /wp-content/uploads/2018/12/CD-photo.jpg 1459w" sizes="(max-width: 300px) 100vw, 300px" />La France, devant l’absence d’un successeur volontaire pour reprendre le rôle de co-président du sous-comité <em>Thematic leadership</em> a accepté de garder le poste jusqu’à ce qu’un autre pays se déclare volontaire.</p>
+<p style="text-align: justify;">Zuzana Wienk, Directrice de l’ONG Slovaque <em>Fair Play Alliance</em>, et co-présidente « société civile » du sous-comité <em>Thematic leadership </em>a présenté les derniers partenariats que le PGO avait noué avec des organisations telles que Transparency International, World Vision International.</p>
+<p style="text-align: justify;">Une discussion en petit groupe a ensuite au lieu sur trois thèmes qui avait été demandés par le Comité directeur : le registre des bénéficiaires effectifs, le rôle des femmes dans le gouvernement ouvert et les risques de la technologie pour la démocratie</p>
+<p style="text-align: justify;">L&rsquo;échange sur « les risques de la technologie pour le gouvernement ouvert », animé par Etalab, a permis de structurer le thème autour de <a href="https://staging.etalab.gouv.fr/wp-content/uploads/2018/12/20181207_Tech-democracy-SC-mapping-and-dicussion-entry-point.docx" class="broken_link">quatre grandes catégories,</a> qui pourront évoluer : « protection de la vie privée » (gestion des données personnelles, surveillance&#8230;) ; l’éthique dans les algorithmes et l’intelligence artificielle publics (redevabilié, transparence, auditabilité&#8230;) ; les droits de l’homme en ligne et la cyberdémocratie (désinformation, « fake news », manipulation des élections&#8230;)  ; les opportunités des technologies pour la démocratie (civic tech, consultation en ligne&#8230;) .</p>
+<p style="text-align: justify;">Sachant que ces sujets sont déjà discutés dans de nombreux partenariats et instances internationaux, il a été convenu de ne se concentrer que sur les sujets sur lesquels : des membres du Partenariat avaient une expertise ; les valeurs de transparence, de redevabilité et de participation citoyenne étaient au cœur des problématiques.</p>
+<p style="text-align: justify;">Ainsi, le sujet de la transparence et redevabilité des algorithmes publics et de l’intelligence artificielle utilisée par l’État est ressorti comme étant un sujet sur lequel le partenariat avait une vraie valeur ajoutée. Les travaux menés par Etalab ont été présentés et il a été convenu de monter un groupe de travail et d’en présenter les avancements lors du Sommet PGO à Ottawa en mai 2019.</p>
+<p style="text-align: justify;"><span style="color: #0000ff;"><strong> </strong></span></p>
+<h2><span style="color: #0000ff;">Retour sur les résultats phares du Partenariat pour un gouvernement ouvert en 2018 :</span></h2>
+<h3><em><span style="color: #000000;">Le rapport d&rsquo;activités du Secrétariat permanent du PGO en 2018 :</span></em></h3>
+<p style="text-align: justify;">Le Secrétariat permanent (SP) du PGO a souligné travailler prioritairement avec les nouveaux pays membres, tel que l’Équateur, avoir accompagné les pays qui avaient des difficultés pour l&rsquo;élaboration de leur Plan d&rsquo;action, et avoir pris contact avec tous les pays qui vivaient des changements de gouvernement, des élections, afin d’anticiper ces changements et d’en faire une force plutôt qu’un obstacle à la mise en œuvre des engagements des Plans d’action.</p>
+<p>Les activés du SP peuvent se résumer en quelques chiffres :</p>
+<ul>
+<li>59 Plans d&rsquo;action sont attendus pour 2018</li>
+<li>Le Secrétariat permanent du PGO a visité plus de 50, ont rencontré plus de 150 ministres, 15 chefs d&rsquo;Etat ou de gouvernement, 12 leaders de collectivités territoriales</li>
+<li>9 projets vont être financés par le Fonds Multi Bailleur du PGO</li>
+<li>86 rapports du mécanisme d’évaluation indépendant ont été publiés</li>
+<li>environ 50% des recommandations faites par le mécanisme d&rsquo;évaluation indépendant sur le Plans d&rsquo;action 2014-2016 ont été incorporées dans les Plans d&rsquo;action 2016-2018</li>
+<li>14% des engagements pris par les pays sont estimés comme ayant un potentiel de transformation important</li>
+<li>54% des engagements sont mis en oeuvre dans leur totalité</li>
+<li>7% (185) sont des engagements « phares »</li>
+<li>Il y a encore un effort à faire de la part des pays sur l&rsquo;organisation de Forums Multi-acteurs</li>
+<li>La réforme du mécanisme d&rsquo;évaluation du PGO avance bien</li>
+</ul>
+<p style="text-align: justify;">Pour plus d’information – <a href="https://www.opengovpartnership.org/about/ogp-steering-committee/meetings-minutes-and-communications">voir les minutes et document de préparation du Comité directeur de Washington</a></p>
+<p style="text-align: justify;">Le Secrétariat permanent a publié plusieurs rapports en 2018 dont « OGP Participation and Co-creation toolkit », « When More is More: Toward Higher Impact OGP Commitments » et « Star Reforms in OGP », rapport sur les engagements les plus ambitieux et impactant qui ont été pris par différents pays. Le cas de la France est cité pour son engagement sur la transparence de la commande publique : <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/12/Star-Reformes-map.pdf">Cartographie des réformes phares du PGO</a></p>
+<p>Le SP est aussi revenu sur les évènements de l&rsquo;année : le Sommet régional du PGO en Asie Pacifique qui a accueilli 600 participants à Séoul, le <a href="https://www.etalab.gouv.fr/le-gouvernement-ouvert-en-afrique-francophone-porte-par-une-communaute-active-et-engagee">séminaire régional du Programme d&rsquo;appui au gouvernement ouvert aux pays francophones</a>, organisé par Expertise France et CFi, la Semaine du Gouvernement ouvert à laquelle 49 pays ont participé, le Forum de Paris sur la Paix et  le <a href="https://www.etalab.gouv.fr/retour-sur-le-5e-sommet-mondial-du-partenariat-pour-un-gouvernement-ouvert-a-tbilissi">Sommet mondial du PGO en Géorgie </a></p>
+<p>&nbsp;</p>
+<p><span style="color: #ff0000;"><img loading="lazy" decoding="async" class="wp-image-9513 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/12/Image-trurst-fund-300x149.png" alt="" width="322" height="160" srcset="/wp-content/uploads/2018/12/Image-trurst-fund-300x149.png 300w, /wp-content/uploads/2018/12/Image-trurst-fund-768x382.png 768w, /wp-content/uploads/2018/12/Image-trurst-fund-1024x509.png 1024w, /wp-content/uploads/2018/12/Image-trurst-fund-239x118.png 239w, /wp-content/uploads/2018/12/Image-trurst-fund.png 1391w" sizes="(max-width: 322px) 100vw, 322px" /></span></p>
+<h3><em><span style="color: #000000;">Le Trust Fund du Partenariat pour un Gouvernement Ouvert :</span></em></h3>
+<p style="text-align: justify;">Le PGO est en train de finaliser un accord avec les agences de développement suédoises, SIDA, et anglaises, DFID, ce qui permettrait, en plus de la participation de l’Agence française de développement, d’arriver à un montant total de 12 millions de dollars pour 3 ans.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3><em><span style="color: #000000;">Le Conseil d’administration du Partenariat pour un Gouvernement Ouvert :</span></em></h3>
+<p style="text-align: justify;">Le Président du Conseil d’administration du PGO, Mark Robinson, est devenu directeur général de l’EITI. Il est donc nécessaire de le remplacer et de faire rentrer une personne de plus dans le Conseil d’Administration.</p>
+<p>&nbsp;</p>
+<h2><span style="color: #0000ff;">Le programme des collectivités territoriales au sein du PGO, point de situation et suite :</span></h2>
+<p style="text-align: justify;">Aujourd’hui, <a href="https://www.opengovpartnership.org/local">20 collectivités territoriales font parti du PGO</a>, dont la Ville de Paris. Le Secrétariat permanent (SP) propose d’en inclure 10 nouvelles, sélectionnées par un processus clair et transparent. Afin d’ouvrir d’avantage le PGO aux collectivités territoriales, le SP propose de compléter cette sélection par le lancement du programme OGPx/Franchise, qui permettrait à n’importe quelle collectivité territoriale de s’inscrire dans la dynamique du gouvernement ouvert, sans pour autant avoir accès aux « services » proposés par le SP aux membres du programme : accompagnement à la co-création du plan d’action, soutien pour la mise en œuvre des engagements, soutien spécifique sur certaine thématique etc. Cette proposition a entrainé beaucoup de questions sur l’intérêt d’avoir un programme à deux vitesses. Certes, il est important de pouvoir « garantir » que les collectivités territoriales respectent les valeurs du PGO pour pouvoir se déclarer membre, et il est difficile voire impossible de vérifier cela pour les 4000 collectivités qui pourraient devenir membre. Cependant, le programme de services spécifiques dédié aux 30 collectivités territoriales membres mobilise beaucoup de ressources pour un nombre restreint, ces ressources ne pourraient-elle pas être utilisées plus efficacement pour un nombre plus large d’acteur ? Il a donc été décidé que le SP mènerait une série d’entretien avant de revenir avec plus de propositions pour validation par le Comité directeur.</p>
+<h2></h2>
+<h2><span style="color: #0000ff;">Les révisions des articles de gouvernance :</span></h2>
+<p style="text-align: justify;">Le Partenariat pour un gouvernement ouvert a beaucoup grandi depuis sa création en 2011. Il est donc nécessaire de faire évoluter les articles de gouvernance. Le SP a proposé un certain nombre d’évolutions qui doit être adopté par le Comité directeur par retour de mail avant le 15 décembre, puis qui seront soumis à une consultation ouverte à tous les membres du PGO avant d’être validés début 2019.</p>
+<p style="text-align: justify;">Pour les articles qui concernent le mécanisme d’évaluation indépendant et l’organisation des Sommets, ces articles seront revus en détail en 2019. Le Sous-comité Critères et standards travaillera dessus et feront des propositions détaillées au Comité directeur en 2019.</p>
+<h3 style="text-align: justify;"><span style="color: #000000;"><em>Evolution spécifique sur les critères de sélection pour devenir membre du Partenariat : </em></span></h3>
+<p style="text-align: justify;">16 pays pourraient prétendre à l’éligibilité mais ne sont pas évalués dans l’étude « Varieties of Democracy » qui est utilisée par le PGO pour évaluer certains indicateurs sur la liberté de la société civile. Si ces pays expriment un jour la volonté de rejoindre le PGO, le Comité directeur propose de mettre en place un processus particulier qui consisterait à rechercher d’autres sources de données et si besoin à envoyer une équipe sur place pour faire l’évaluation. Il sera cependant nécessaire d’être très transparent sur la méthodologie utilisée.</p>
+<h2></h2>
+<h2><span style="color: #0000ff;">Révision du mécanisme de réponse rapide et résolution pour les pays placés sous observation</span></h2>
+<p><a href="https://www.opengovpartnership.org/about/rapid-response-mechanism">https://www.opengovpartnership.org/about/rapid-response-mechanism</a></p>
+<p style="text-align: justify;">En septembre 2018, le Comité directeur du PGO avait adopté un mécanisme de réponse rapide afin de pouvoir soutenir certaines organisations de la société civile qui donneraient l’alerte sur le comportement de leur gouvernement par rapport à la <a href="https://www.opengovpartnership.org/open-government-declaration">Déclaration du gouvernement ouvert</a> signée par tous les membres.</p>
+<p style="text-align: justify;">Ce mécanisme a été sollicité deux fois depuis septembre. Suivant les processus validés par le Comité directeur, le Canada s’est impliqué pour suivre le cas du <a href="https://www.opengovpartnership.org/about/rapid-response-mechanism/rapid-response-cases" class="broken_link">Guatemala</a>, et l’Argentine pour répondre à un appel d’associations géorgiennes. Cependant, dans les deux cas, il s’est avéré extrêmement compliqué pour le Canada et l’Argentine de mettre en œuvre ce processus, qui demande une réponse rapide et objective à des questions diplomatiques sensibles, ce que ne peuvent pas faire des directions qui ne sont pas responsables des relations internationales. Ainsi, ce mécanisme, qui est le seul levier de la société civile pour faire en sorte que leur pays respecte les principes de la Déclaration du gouvernement ouvert, doit être largement revu.</p>
+<h3>Les résolutions vis-à-vis des pays placés sous observation par le PGO :</h3>
+<p><em><u>Résolution sur la participation de la Bosnie-Herzégovine au PGO</u></em></p>
+<p style="text-align: justify;">Selon les règles du PGO, la Bosnie Herzégovine a été placée sous observation pour n’avoir pas publié de plan d’action depuis 2014. Cependant, depuis mai 2018, des progrès très significatifs ont été observés. Un comité PGO (« OGP Council ») qui rassemble les 4 niveaux de gouvernement (Etat central, les deux entités, le district de Brcko) et 4 organisations de la société civile, dont Transparency international a été mis en place en juin 2018, afin de préparer un plan d’action pour la Bosnie-Herzégovine. Il est prévu que ce plan d’action, qui rassemble les 4 plans d’actions des 4 niveaux de gouvernement concernés, soit validé par les différentes autorités concernées dans les semaines qui viennent.</p>
+<p style="text-align: justify;">Le Comité directeur a validé la mise en « inactivité » du la Bosnie-Herzégovine, tout en saluant les efforts qui ont été fait, en soulignant que les membres du PGO se tenaient prêts à accompagner la Bosnie-Herzégovine sur sa demande, et en précisant que le pays retrouverait son statut de membre actif dès que le Plan d’action national serait publié.</p>
+<p><em><u>Résolution sur la participation de Trinité et Tobago au PGO</u></em></p>
+<p style="text-align: justify;">Trinité-et-Tobago a rejoint le PGO en 2012 et a publié son premier plan d’action en 2014. Depuis, Trinité et Tobago n’a suivi aucune des procédures et recommandations du PGO sur lévalutio nde son plan d’action, l’organisation d’un Forum multi acteur et la publication de d’autres plan d’action. Trinité et Tobago a cependant envoyé une lettre la veille du Comité directeur du PGO pour souligner sa volonté de rester membre du Partenariat.</p>
+<p style="text-align: justify;">Ainsi,  le Comité directeur a validé la mise en « inactivité » du pays en précisant que le pays retrouverait son statut de membre actif dès que son Plan d’action national serait publié.</p>
+<p><em><u>Résolution sur la participation de l’Azerbaïdjan au PGO</u></em></p>
+<p style="text-align: justify;">Le Comité directeur du PGO a reconnu les annonces positives faites par l’Azerbaïdjan, notamment le nouvelle plateforme pour l’enregistrement simplifié des associations. Cependant, l’Azerbaïdjan n’a pas répondu aux principaux problèmes soulevés par la société civile <a href="https://www.opengovpartnership.org/about/news-and-events/azerbaijan-maintain-its-inactive-status-open-government-partnership" class="broken_link">dans la lettre adressée au PGO</a> en 2015 et n’a pas mis en œuvre la majorité des recommandations faites par le Comité directeur notamment sur la restriction des financements des ONG par des fonds étrangers, ce qui a considérablement affaibli la société civile azerbaïdjanaise.</p>
+<p style="text-align: justify;">Le Comité directeur a voté que l’Azerbaïdjan resterait en statut de membre inactif du Partenariat pour encore 2 ans, sous la condition de mettre en œuvre cinq recommandations (voir résolution).</p>
+<p><em><u>Le cas du Mexique</u></em></p>
+<p style="text-align: justify;">Suite à une lettre des ONG mexicaines qui composaient le Comité de pilotage du PGO au Mexique, dénonçant les écoutes mises en place par le gouvernement, le Comité directeur avait lancé une procédure de « réponse » : <a href="https://www.opengovpartnership.org/ogp-response-policy/response-policy-case-mexico">https://www.opengovpartnership.org/ogp-response-policy/response-policy-case-mexico</a></p>
+<p style="text-align: justify;">Le Mexique a été représenté au Comité directeur du PGO par Monsieur Jesus Robles Malool, Directeur du « <em>Social controler unit </em>» du Ministère de la Fonction publique, qui a assuré que le gouvernement mexicaine était décidé à fermer le processus de surveillance des organisations de la société civile et qu’ils allaient mettre en place un dispositif de dialogue et de rapprochement avec les associations pour rétablir des liens de confiance.</p>
+<p>&nbsp;[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>#OpenGov – Forum Open d’Etat #4 « data.gouv.fr et les algorithmes à l&#8217;épreuve de la médiation numérique. »</title>
+		<link>/opengov-forum-open-detat-4-cuisinez-les-algorithmes-un-outil-de-mediation-numerique</link>
+		
+		<dc:creator><![CDATA[Amélie Banzet]]></dc:creator>
+		<pubDate>Thu, 09 Aug 2018 17:07:25 +0000</pubDate>
+				<category><![CDATA[Annonces]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Ecosystème]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[Innovation ouverte / open innovation]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[Plan d'action national gouvernement ouvert]]></category>
+		<category><![CDATA[Forum Open d'Etat]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8604</guid>
+
+					<description><![CDATA[[:fr] Rendez-vous à Nantes le 13 septembre de 14h à 17h lors des rencontres Numérique en Commun[s]. En 2016, la loi pour une République Numérique introduit dans le code des relations entre le public et l’administration l’obligation pour les administrations d’informer chaque citoyen, lorsqu’une décision individuelle le concernant a été prise à son encontre à &#8230;<p class="read-more"> <a class="" href="/opengov-forum-open-detat-4-cuisinez-les-algorithmes-un-outil-de-mediation-numerique"> <span class="screen-reader-text">#OpenGov – Forum Open d’Etat #4 « data.gouv.fr et les algorithmes à l&#8217;épreuve de la médiation numérique. »</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<h2></h2>
+<h2></h2>
+<h2>Rendez-vous à Nantes le 13 septembre de 14h à 17h lors des rencontres Numérique en Commun[s].</h2>
+<p style="text-align: justify;">En 2016, la loi pour une République Numérique introduit dans le code des relations entre le public et l’administration l’obligation pour les administrations d’informer chaque citoyen, lorsqu’une décision individuelle le concernant a été prise à son encontre à l’aide d’un algorithme. Le citoyen obtient le droit d’obtenir la communication – sur demande – des « règles » et « principales caractéristiques de mise en œuvre » de ce programme informatique, au regard de sa situation individuelle.</p>
+<p style="text-align: justify;">L’actualité autour de Parcoursup a fait s’intensifier le débat sur la responsabilité et la loyauté des algorithmes, en raison de leur présence accrue dans la sphère privée (pour les algorithmes des GAFA) et publique. Les défis démocratiques posés par l’utilisation des algorithmes pour la conduite de l’action publique restent entiers et c’est ce qui fait l’objet de <a href="https://www.etalab.gouv.fr/plan-daction-national" target="_blank" rel="noopener noreferrer">l’engagement 6 du plan d’action national pour une action publique transparente et collaborative</a>, qui vise à « renforcer la transparence des algorithmes et des codes sources publics » en associant la société civile à l’étude des algorithmes publics pour identifier les enjeux en termes techniques, juridiques et organisationnels.</p>
+<p>Les infrastructures d’accès aux données joueront un rôle crucial dans cette montée à l’échelle de l’open data. L’engagement 4 du plan d’action prévoit de “poursuivre le développement de data.gouv.fr et y intégrer de nouvelles fonctionnalités” afin d’accroître l’utilité et l’impact des données ouvertes pour l’économie et la société. <span id="messageContent">La loi pour une République Numérique fixe aussi un objectif d’open data par défaut. A partir d’octobre 2017, la loi impose un principe d’ouverture des données par défaut à toutes les administrations, tous les acteurs investis d’une mission de service public et les collectivités locales de plus de 3500 habitants et 50 agents. Le périmètre concerné est très large, il comprend les “bases de données” et les données “dont la publication présente un intérêt économique, social, sanitaire ou environnemental” à partir d’octobre 2018. Rares sont les données publiques qui ne sont donc pas concernées par cette obligation d’ouverture.</span></p>
+<p style="text-align: justify;">Ce<strong> quatrième forum Open d’Etat</strong> s’intéressera aux engagements pris par la mission Etalab elle-même. En particulier, seront abordés l’engagement 6 cité ci-dessus mais également l’engagement 4 qui prévoit de « poursuivre le développement de data.gouv.fr et d’y intégrer de nouvelles fonctionnalités ».</p>
+<p style="text-align: justify;">Pour cette quatrième édition, les forums Open d’État se déplacent à Nantes, lors des rencontres <u><a href="https://www.numerique-en-commun.fr/" class="broken_link">Numérique en Commun[s]</a></u> organisées par <u><a href="https://societenumerique.gouv.fr/">la mission Société Numérique</a></u> de l’agence du Numérique et <a href="https://lamednum.coop/" target="_blank" rel="noopener noreferrer">la coopérative de la médiation numérique.</a></p>
+<p>L’inclusion de ce forum Open d’Etat au programme de Numérique en Commun[s] permettra de s’appuyer sur la contribution des professionnels de la médiation numérique pour répondre à ces enjeux.</p>
+<p>Les forums Open d’Etat durent 3h et reposent sur la participation active des participants.</p>
+<p>Plusieurs interventions inaugurent chaque forum, le détail de celles-ci sera annoncé prochainement. Elles introduisent progressivement les sujets des ateliers et renforcent la compréhension du sujet par le public, qui aura reçu préalablement un kit d’appropriation des enjeux.</p>
+<p><strong>À la suite, deux ateliers d’1h30 seront organisés :</strong></p>
+<ul>
+<li style="text-align: justify;"><strong>Atelier 1 – “Un algorithme c’est comme une recette de cuisine !”:</strong> à travers l’exemple du calcul de la taxe d’habitation nous testerons de nouvelles approches de médiation aux algorithmes. Comment faire que le public le plus large comprenne les enjeux techniques, juridiques et politiques d’un algorithme ? Comment décortiquer l’algorithme et lui donner du sens ? Cet atelier de “cuisine algorithmique” sera animé par Simon Chignard et Loup Cellard.</li>
+<li style="text-align: justify;"><strong>Atelier 2 – Faire de data.gouv.fr un outil pour la médiation numérique :</strong> comment faire pour que la plateforme data.gouv.fr s’adresse à un public plus large et appuie plus fortement la médiation numérique dans ses actions ? Comment mieux éditorialiser le portail pour rendre l’ouverture des données plus lisible par le plus grand nombre ? Quelles fonctionnalités manque-t-il pour élargir le public de l’ouverture des données ?</li>
+</ul>
+<p style="text-align: justify;">Cet atelier reprendra <u><a href="https://forum.etalab.gouv.fr/t/forum-open-detat-3-ouvrons-la-science-ateliers-outils-et-kit-dappropriation/4122">une méthode développée</a></u> lors d’un précédent forum pour faire émerger collaborativement des pistes d’amélioration.</p>
+<p style="text-align: justify;">Nous vous invitons donc à nous rejoindre le jeudi 13 septembre à Nantes pour cette nouvelle édition des Forums Open d’État, que vous participiez aux rencontres Numérique en Commun[s] ou non, le forum est ouvert à tout le monde.</p>
+<p>Pour vous inscrire =&gt; <a href="https://www.eventbrite.fr/e/billets-forum-open-detat-4-transparence-des-algorithmes-et-mediation-autour-des-donnees-48156645824?aff=ebapi">https://www.eventbrite.fr/e/billets-forum-open-detat-4-transparence-des-algorithmes-et-mediation-autour-des-donnees-48156645824?aff=ebapi</a></p>
+<p>Il n’y a que 40 places de disponibles ! Inscrivez-vous avant le 3 septembre et vous recevrez un mail de confirmation et un code pour prendre une place aux rencontres Numériques en commun[s] au plus tard le 6 septembre[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Retour sur le 5e Sommet mondial du Partenariat pour un gouvernement ouvert à Tbilissi</title>
+		<link>/retour-sur-le-5e-sommet-mondial-du-partenariat-pour-un-gouvernement-ouvert-a-tbilissi</link>
+		
+		<dc:creator><![CDATA[Amélie Banzet]]></dc:creator>
+		<pubDate>Tue, 31 Jul 2018 17:14:56 +0000</pubDate>
+				<category><![CDATA[Autour du monde]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Ecosystème]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[Innovation ouverte / open innovation]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[Plan d'action national gouvernement ouvert]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8546</guid>
+
+					<description><![CDATA[[:fr] Le 5e Sommet mondial du Partenariat pour un gouvernement ouvert (PGO) à Tbilissi, point culminant de la coprésidence géorgienne du PGO, a réuni 2000 participants, représentants des gouvernements et de la société civile issus des 80 pays et des 20 collectivités locales membres du PGO. Il a été l’occasion d’annoncer l’adhésion de 5 nouveaux &#8230;<p class="read-more"> <a class="" href="/retour-sur-le-5e-sommet-mondial-du-partenariat-pour-un-gouvernement-ouvert-a-tbilissi"> <span class="screen-reader-text">Retour sur le 5e Sommet mondial du Partenariat pour un gouvernement ouvert à Tbilissi</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<p style="text-align: justify;"><em>Le 5<sup>e</sup> Sommet mondial du Partenariat pour un gouvernement ouvert (PGO) à Tbilissi, point culminant de la coprésidence géorgienne du PGO, a réuni 2000 participants, représentants des gouvernements et de la société civile issus des 80 pays et des 20 collectivités locales membres du PGO. Il a été l’occasion d’annoncer l’adhésion de 5 nouveaux pays membres dont le Maroc et le Sénégal, rejoignant au rang des pays d’Afrique francophone la Tunisie, le Burkina Faso et la Côte d’Ivoire.</em></p>
+<p style="text-align: justify;"><em>La réunion du comité directeur du PGO, qui a précédé le Sommet, a </em><em>notamment </em><em>permis d’adopter une résolution de renouvellement de l’engagement de ses membres en faveur du gouvernement ouvert, et d&rsquo;élire l’Argentine pour la coprésidence du partenariat, après celle du Canada qui s&rsquo;ouvrira au deuxième semestre 2018. L’Argentine assurera ainsi la co-présidence du Partenariat en 2019-2020 au côté de l’ONG the <a href="http://www.bteam.org/">B-team.</a> Le Canada a annoncé l’organisation du prochain Sommet au printemps 2019 à Ottawa.</em></p>
+<p style="text-align: justify;"><em>Ce sommet a surtout été l’occasion d’échanger les bonnes pratiques, de partager les expériences et les outils pour concrétiser l’ouverture de l’action publique ainsi que d’approfondir les échanges et collaborations sur des sujets numériques avec des pays comme </em><em>l’Allemagne, </em><em>l’Argentine, </em><em>le Canada, l’Estonie et le Royaume-Uni.</em></p>
+<p><img loading="lazy" decoding="async" class=" wp-image-8553 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/07/OGP-georgia-signe-2-300x134.jpg" alt="" width="302" height="135" srcset="/wp-content/uploads/2018/07/OGP-georgia-signe-2-300x134.jpg 300w, /wp-content/uploads/2018/07/OGP-georgia-signe-2-768x344.jpg 768w, /wp-content/uploads/2018/07/OGP-georgia-signe-2-1024x459.jpg 1024w, /wp-content/uploads/2018/07/OGP-georgia-signe-2.jpg 1555w" sizes="(max-width: 302px) 100vw, 302px" /></p>
+<p>&nbsp;</p>
+<p style="text-align: justify;">La 5<sup>ème</sup> édition du Sommet mondial du Partenariat pour un Gouvernement Ouvert (PGO) a été accueillie par la Géorgie, au titre de sa co-présidence du partenariat en 2018, qu’elle partage avec Mukelani Dimba, de l’ONG <em>International School for Transparency</em>.</p>
+<p style="text-align: justify;">Les représentants <strong>d’Etalab, du ministère de l’Europe et des Affaires étrangères, de l’Agence française de développement, d’Expertise France, de CFi et de la Haute Autorité pour la transparence de la vie publique</strong> sont intervenus dans plusieurs sessions <strong>pour promouvoir l’action de la France et participer aux échanges internationaux, </strong>notamment sur des questions d’éthique et d’intelligence artificielle au sein des administrations publiques, sur la transparence et la redevabilité des algorithmes, la protection des données personnelles, la transparence des lobbies ou encore l’ouverture des administrations dans un monde de plus en plus numérique.</p>
+<p style="text-align: justify;">La <strong>Ville de Paris</strong> était aussi présente, représentée par <strong>Pauline Véron</strong>, adjointe chargée de la démocratie locale, la participation citoyenne, la vie associative et la jeunesse.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">&quot;<a href="https://twitter.com/hashtag/OpenGov?src=hash&amp;ref_src=twsrc%5Etfw">#OpenGov</a> community has been great at examining the promise of tech, but not the perils&quot; <a href="https://twitter.com/martintisne?ref_src=twsrc%5Etfw">@martintisne</a> Excited for <a href="https://twitter.com/hashtag/OGPGeorgia?src=hash&amp;ref_src=twsrc%5Etfw">#OGPGeorgia</a> data rights session starting now in tent. <a href="https://twitter.com/GusHosein?ref_src=twsrc%5Etfw">@GusHosein</a> <a href="https://twitter.com/laurelucchesi?ref_src=twsrc%5Etfw">@laurelucchesi</a> <a href="https://twitter.com/MelRobrt?ref_src=twsrc%5Etfw">@MelRobrt</a> <a href="https://twitter.com/mer__edith?ref_src=twsrc%5Etfw">@mer__edith</a> on AI ethics, <a href="https://twitter.com/hashtag/opendata?src=hash&amp;ref_src=twsrc%5Etfw">#opendata</a>, privacy/surveillance. <a href="https://t.co/hK5lQHwrUZ">pic.twitter.com/hK5lQHwrUZ</a></p>
+<p>&mdash; Reboot (@theReboot) <a href="https://twitter.com/theReboot/status/1019526642547548161?ref_src=twsrc%5Etfw">July 18, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2><span style="color: #3366ff;"><strong>Le Sommet du PGO : concrétiser le partage d’expérience et d’outils</strong></span></h2>
+<p style="text-align: justify;"><strong>Etalab, au côté de Datactivist, a <a href="https://twitter.com/Rebastion/status/1019550460712226817">présenté</a> les <em><a href="https://www.etalab.gouv.fr/les-rencontres-open-detat-le-forum-du-gouvernement-ouvert">Forums Open d’Etat</a></em></strong>, comme nouveaux formats de dialogue et de co-construction entre administrations et société civile. Les échanges avec l’Allemagne, l’Argentine et le Chili lors de cette table ronde ont été l&rsquo;occasion de confronter les différentes pratiques et expériences des échanges entre parties-prenantes.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Panel on multistakeholder forums, with <a href="https://twitter.com/cornejocaro?ref_src=twsrc%5Etfw">@cornejocaro</a> <a href="https://twitter.com/AmelieBanzet?ref_src=twsrc%5Etfw">@AmelieBanzet</a> <a href="https://twitter.com/miguelitoj89?ref_src=twsrc%5Etfw">@miguelitoj89</a> &amp; Co <a href="https://twitter.com/hashtag/OGPGeorgia?src=hash&amp;ref_src=twsrc%5Etfw">#OGPGeorgia</a> <a href="https://t.co/1Ekx3TpX5Q">pic.twitter.com/1Ekx3TpX5Q</a></p>
+<p>&mdash; Rebastion (@Rebastion) <a href="https://twitter.com/Rebastion/status/1019550460712226817?ref_src=twsrc%5Etfw">July 18, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p style="text-align: justify;"><a href="https://twitter.com/GavinHayman_GW/status/1019560895352115201">La table ronde</a> sur <strong>l’ouverture de la commande publique</strong> a permis de présenter les dernières activités du groupe de coopération <strong><a href="http://www.contracting5.org/fr/home-page-fr/" class="broken_link">Contracting 5 (C5)</a></strong>. Présidé par la France, et rassemblant 6 pays (Ukraine, Colombie, Mexique, Argentine, Royaume Uni et la France), le C5 vise à accélérer la transparence de la commande publique comme un levier essentiel d’efficacité de l’action publique et de lutte contre la corruption.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">“Contracts are not the easiest stories to tell&#8230;so we need to create an environment where open contracting is the expertise of many, not of the few. There is a need to pass the FOI law with an open contracting lens.” <a href="https://twitter.com/karolilagan?ref_src=twsrc%5Etfw">@karolilagan</a> <a href="https://twitter.com/PCIJdotOrg?ref_src=twsrc%5Etfw">@PCIJdotOrg</a> <a href="https://twitter.com/HivosROSEA?ref_src=twsrc%5Etfw">@HivosROSEA</a> <a href="https://twitter.com/hashtag/OGPGeorgia?src=hash&amp;ref_src=twsrc%5Etfw">#OGPGeorgia</a> <a href="https://t.co/lKOkx2wbD4">pic.twitter.com/lKOkx2wbD4</a></p>
+<p>&mdash; Vien (@daylightstalker) <a href="https://twitter.com/daylightstalker/status/1019559498971836416?ref_src=twsrc%5Etfw">July 18, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p style="text-align: justify;"><strong>L’Agence française de développement</strong> (AFD), au côté du Secrétariat permanent du Partenariat, a <a href="https://twitter.com/AFD_France/status/1019919550412881920">annoncé</a> le <strong>lancement officiel du <a href="https://www.opengovpartnership.org/about/ogp-multi-donor-trust-fund/call-expressions-of-interest-facilitating" class="broken_link">fonds multi bailleurs</a> du PGO</strong>, dont l’AFD est le premier contributeur, à hauteur d’un million d’euros pour la première année. Les agences de développement du Royaume-Uni et du Canada ont également contribué cette année à ce fonds pour atteindre un total de 7,5 millions d’euros disponibles. En début d&rsquo;année, un premier volet de 690 000 dollars avait été attribué pour financer l’appui aux processus de co-création dans les Etats membres du PGO. Le <a href="https://www.opengovpartnership.org/about/ogp-multi-donor-trust-fund/call-expressions-of-interest-facilitating" class="broken_link">deuxième volet a été annoncé lors du Sommet</a> et permettra de financer la mise en œuvre de projets sur des thématiques prioritaires.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">In partnership w/ <a href="https://twitter.com/AFD_France?ref_src=twsrc%5Etfw">@AFD_France</a> <a href="https://twitter.com/DFID_UK?ref_src=twsrc%5Etfw">@DFID_UK</a> <a href="https://twitter.com/GAC_Corporate?ref_src=twsrc%5Etfw">@GAC_Corporate</a>, we are pleased to announce the <a href="https://twitter.com/opengovpart?ref_src=twsrc%5Etfw">@opengovpart</a> Multi-Donor Trust Fund to support govts &amp; civil society, increase govt <a href="https://twitter.com/hashtag/transparency?src=hash&amp;ref_src=twsrc%5Etfw">#transparency</a>, accountability &amp; strengthen citizen engagement &amp; responsiveness! <a href="https://t.co/5iytf6HY89">https://t.co/5iytf6HY89</a> <a href="https://t.co/mgBjgC9qr0">pic.twitter.com/mgBjgC9qr0</a></p>
+<p>&mdash; World Bank (@WorldBank) <a href="https://twitter.com/WorldBank/status/1020429434191601669?ref_src=twsrc%5Etfw">July 20, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p style="text-align: justify;">Un atelier animé par l’Agence française de développement a permis un <strong>retour d’expérience sur l’action des bailleurs pour promouvoir les valeurs et principes du Gouvernement ouvert.</strong> L’AFD pilote le<strong> Programme d’appui aux gouvernements ouverts francophones</strong> (PAGOF), dont les activités ont été co-construites avec la société civile et les administrations des 3 pays qui sont aujourd’hui concernés par ce programme : le Burkina Faso, la Côte d’Ivoire et la Tunisie.</p>
+<p><img loading="lazy" decoding="async" class="size-medium wp-image-8549 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/07/Lancement-du-MDTF-Helene-Julien-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2018/07/Lancement-du-MDTF-Helene-Julien-300x225.jpg 300w, /wp-content/uploads/2018/07/Lancement-du-MDTF-Helene-Julien-768x576.jpg 768w, /wp-content/uploads/2018/07/Lancement-du-MDTF-Helene-Julien-1024x768.jpg 1024w, /wp-content/uploads/2018/07/Lancement-du-MDTF-Helene-Julien.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p style="text-align: justify;">Lors d’une session sur les outils de promotion et de mise en œuvre des principes du gouvernement ouvert, Etalab a <a href="https://twitter.com/shaghab/status/1019885716346634240">présenté</a> <strong><a href="https://openfisca.org/en/">OpenFisca </a></strong>et a appuyé l’Organisation de coopération et de développement économique (OCDE) dans le lancement de <strong>l&rsquo;« <em><a href="https://twitter.com/simsch23/status/1019931317981601793">open government toolkit </a></em>»</strong> qui est en cours de développement et qui aura vocation à faciliter le partage d’outils et de contenu sur le gouvernement ouvert au niveau mondial. Ce « kit d&rsquo;outils », issu des <em><a href="https://legalinstruments.oecd.org/fr/instruments/OECD-LEGAL-0438">recommandations du Conseil l&rsquo;OCDE sur le Gouvernement Ouvert </a></em>et des travaux du groupe d&rsquo;experts de l&rsquo;OCDE, sera  développé en collaboration avec le PGO et s’appuiera sur les produits existants tels que l’<a href="https://ogptoolbox.org/fr/">ogptoolbox.</a> L&rsquo;objectif de cette plateforme est d&rsquo;aider à naviguer dans la masse d’informations produite sur le gouvernement ouvert. Elle vient compléter <strong>le site <a href="https://www.ogpstories.org/">Citizengage</a> </strong>lancé par le Partenariat lors du Sommet.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">OpenFisca &#8211; turning law into software <a href="https://twitter.com/Etalab?ref_src=twsrc%5Etfw">@Etalab</a> <a href="https://twitter.com/CodeforPakistan?ref_src=twsrc%5Etfw">@CodeforPakistan</a> <a href="https://twitter.com/hashtag/OGPGeorgia?src=hash&amp;ref_src=twsrc%5Etfw">#OGPGeorgia</a> <a href="https://twitter.com/hashtag/France?src=hash&amp;ref_src=twsrc%5Etfw">#France</a> <a href="https://t.co/VP1DBmJxOF">pic.twitter.com/VP1DBmJxOF</a></p>
+<p>&mdash; Asim Ghaffar (@shaghab) <a href="https://twitter.com/shaghab/status/1019885716346634240?ref_src=twsrc%5Etfw">July 19, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">.<a href="https://twitter.com/KBlb111?ref_src=twsrc%5Etfw">@KBlb111</a> &amp; <a href="https://twitter.com/AmelieBanzet?ref_src=twsrc%5Etfw">@AmelieBanzet</a> present the new <a href="https://twitter.com/OECDgov?ref_src=twsrc%5Etfw">@OECDgov</a> <a href="https://twitter.com/hashtag/OpenGov?src=hash&amp;ref_src=twsrc%5Etfw">#OpenGov</a> toolkit and share lessons learned from previous experiences of <a href="https://twitter.com/Etalab?ref_src=twsrc%5Etfw">@Etalab</a> with the <a href="https://twitter.com/opengovpart?ref_src=twsrc%5Etfw">@opengovpart</a> Toolbox. <a href="https://twitter.com/hashtag/OGPGeorgia?src=hash&amp;ref_src=twsrc%5Etfw">#OGPGeorgia</a> <a href="https://twitter.com/hashtag/OECDOG?src=hash&amp;ref_src=twsrc%5Etfw">#OECDOG</a> <a href="https://t.co/WKPNDVZbcJ">https://t.co/WKPNDVZbcJ</a></p>
+<p>&mdash; Simon Schmitz (@simsch23) <a href="https://twitter.com/simsch23/status/1019931317981601793?ref_src=twsrc%5Etfw">July 19, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2></h2>
+<h2><span style="color: #3366ff;"><strong>Approfondir les collaborations avec les pays partenaires et la société civile</strong></span></h2>
+<p style="text-align: justify;">En marge du Sommet, Etalab a participé à la formation « <a href="http://www.cfi.fr/fr/projet/opendata-medias-2"><strong>opendata media 2</strong> »</a> sur l&rsquo;utilisation de la donnée pour les journalistes d’Afrique francophone, organisée par CFi. <strong>La présentation de data.gouv.fr et de udata</strong> (le moteur de la plateforme data.gouv) a notamment reçu un accueil très positif, qui débouchera sans doute sur des coopérations. Les participants à cette formation, <strong> <a href="https://www.cfi.fr/fr/actualites/lopen-data-africain-sinvite-tbilissi">des journalistes de 12 pays africains</a></strong> ont ensuite pu participer au Sommet du PGO et rencontrer différents acteurs qui sont engagés pour faire progresser la transparence, la redevabilité et la participation citoyenne dans leur pays.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="fr" dir="ltr">[<a href="https://twitter.com/hashtag/ODMedias?src=hash&amp;ref_src=twsrc%5Etfw">#ODMedias</a>] <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Des journalistes venus de 12 pays d&#39;Afrique francophone ont participé au sommet du Partenariat pour un Gouvernement Ouvert du 17 au 19 juillet 2018 à <a href="https://twitter.com/hashtag/Tbilisi?src=hash&amp;ref_src=twsrc%5Etfw">#Tbilisi</a>, en Géorgie.<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f1ec-1f1ea.png" alt="🇬🇪" class="wp-smiley" style="height: 1em; max-height: 1em;" />  <a href="https://twitter.com/hashtag/OGPGeorgia?src=hash&amp;ref_src=twsrc%5Etfw">#OGPGeorgia</a><br /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /><a href="https://t.co/wat9dsXVUr">https://t.co/wat9dsXVUr</a> <a href="https://t.co/EuHnSmBtio">pic.twitter.com/EuHnSmBtio</a></p>
+<p>&mdash; CFImedias (@CFImedias) <a href="https://twitter.com/CFImedias/status/1022760028904857603?ref_src=twsrc%5Etfw">July 27, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p style="text-align: justify;"><strong>L’équipe Etalab</strong> a aussi profité du rassemblement de cette communauté internationale du gouvernement ouvert pour <strong>échanger</strong> avec <strong>le Canada</strong> sur la future co-présidence du PGO et les sujets numériques au sein du PGO ; l’<strong>Estonie</strong> sur les politiques de gouvernance de la donnée et d’ouverture des données publiques ; l’<strong>Argentine</strong> sur la future coprésidence du PGO et les sujets numériques pour les prochaines réunions du G20 qui auront lieu à Buenos Aires ; le <strong>Royaume-Uni</strong> sur les coopérations numérique autour de l’ouverture de l&rsquo;action publique ; l’<strong>Allemagne</strong> sur son rôle au sein du PGO et la stratégie numérique ; et enfin les <strong>Etats-Unis</strong>, actuellement représentés au PGO par le secrétariat d&rsquo;Etat (<em>Department of State</em>), sur le positionnement du PGO en tant qu’outil diplomatique.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Exchanging experience around <a href="https://twitter.com/hashtag/opendata?src=hash&amp;ref_src=twsrc%5Etfw">#opendata</a> with our colleagues from Estonia at <a href="https://twitter.com/hashtag/OGPgeorgia?src=hash&amp;ref_src=twsrc%5Etfw">#OGPgeorgia</a> <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/23e9.png" alt="⏩" class="wp-smiley" style="height: 1em; max-height: 1em;" /> They’re invited to a workshop in Paris ! cc <a href="https://twitter.com/mounir?ref_src=twsrc%5Etfw">@mounir</a> <a href="https://twitter.com/DataGouv?ref_src=twsrc%5Etfw">@datagouv</a> <a href="https://twitter.com/_DINSIC?ref_src=twsrc%5Etfw">@_DINSIC</a> <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f1eb-1f1f7.png" alt="🇫🇷" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f1ea-1f1ea.png" alt="🇪🇪" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/YqSnNc9LtS">pic.twitter.com/YqSnNc9LtS</a></p>
+<p>&mdash; Etalab (@Etalab) <a href="https://twitter.com/Etalab/status/1019613180392366087?ref_src=twsrc%5Etfw">July 18, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p style="text-align: justify;">Le <a href="http://www.wri.org/" target="_blank" rel="noopener noreferrer"><em>World Resource Institute</em></a>, a aussi sollicité Etalab pour collaborer sur<strong> <a href="https://www.opengovpartnership.org/stories/open-data-key-unlocking-cities-potential-on-climate" class="broken_link">leur plateforme de publication des données sur l’environnement et le climat</a></strong>, au niveau des collectivités territoriales. Cette plateforme, en cours de développement, utilisera un certain nombre de jeu de données de <a href="https://www.data.gouv.fr/" target="_blank" rel="noopener noreferrer">data.gouv.fr</a></p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">How can we move towards a greener, more sustainable future? With <a href="https://twitter.com/hashtag/OpenData?src=hash&amp;ref_src=twsrc%5Etfw">#OpenData</a> of course. In their latest blog, <a href="https://twitter.com/WorldResources?ref_src=twsrc%5Etfw">@WorldResources</a> tell us about the many open data approaches cities can adopt to implement more evidence-based &amp; transparent action on climate change <a href="https://t.co/is4R3ABdRu">https://t.co/is4R3ABdRu</a> <a href="https://t.co/jTu6Ah48CY">pic.twitter.com/jTu6Ah48CY</a></p>
+<p>&mdash; Open Gov Partnership (@opengovpart) <a href="https://twitter.com/opengovpart/status/1022919575162290178?ref_src=twsrc%5Etfw">July 27, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h3></h3>
+<h2><strong><span style="color: #3366ff;">Cinq nouveaux pays et cinq nouvelles collectivités territoriales au sein du PGO </span> </strong></h2>
+<p>Le Sommet a été l’occasion pour le Secrétariat permanent du PGO d’annoncer les <strong>cinq nouveaux pays membres</strong> du Partenariat : le Maroc, le Sénégal, l’Equateur, le Kirghizstan et le Portugal ; ainsi que <strong>5 nouveaux gouvernements locaux</strong> qui ont rejoints le programme <em><a href="https://www.opengovpartnership.org/local">subnationals</a> </em>du PGO : département de Nariño (Colombie), Iasi (Roumanie), Etat de Kaduna (Nigéria), Cotabato du Sud (Philippines), et la Pays Basque (Espagne).</p>
+<p>&nbsp;</p>
+<h2><span style="color: #3366ff;"><strong>Le Comité directeur : coopérations internationales thématiques et futures perspectives</strong></span></h2>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Last week, the OGP Steering Committee discussed ways to leverage OGP’s reach, resources, &amp; leadership to better address <a href="https://twitter.com/hashtag/OpenGov?src=hash&amp;ref_src=twsrc%5Etfw">#OpenGov</a> issues like civic space, anti-corruption and open contracting policies, and delivery of public services. And elected the two incoming chairs! <a href="https://t.co/SsDXHLgPkV">pic.twitter.com/SsDXHLgPkV</a></p>
+<p>&mdash; Open Gov Partnership (@opengovpart) <a href="https://twitter.com/opengovpart/status/1022572317342359563?ref_src=twsrc%5Etfw">July 26, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p style="text-align: justify;">En amont du Sommet, les 16 et 17 juillet 2018, <strong>le Comité directeur du Partenariat pour un gouvernement ouvert s’est réuni</strong> au niveau opérationnel, avec les points de contact du Partenariat des onze pays membres et des onze organisations de la société civile, suivi le lendemain d’un comité directeur niveau ministre. L’Ambassadeur de France en Géorgie, M. Pascal Meunier, représentait la France au côté d’Etalab, point de contact du Partenariat. <strong>Le Comité directeur a été l’occasion d’adopter <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/07/20170717_OGP-SC-resolution.pdf">la résolution</a>,</strong> livrable du Sommet, qui renouvelle les engagements de la Déclaration du Partenariat pour un<a href="https://www.opengovpartnership.org/open-government-declaration" target="_blank" rel="noopener noreferrer"> gouvernement ouvert</a> et celle <a href="http://www.opengovpartnership.org/sites/default/files/OGP-Summit_PARIS-DECLARATION_FR.pdf" target="_blank" rel="noopener noreferrer">de Paris</a>, avec un accent particulier mis sur les libertés civiles. Le Comité directeur s&rsquo;y engage également à renforcer les liens du PGO avec le secteur privé et à nouer de nouveaux partenariats sur les thèmes prioritaires des co-présidences actuelles et futures.</p>
+<p style="text-align: justify;"><strong>Le comité directeur s’est attaché à mettre en valeur les avancées sur les différentes coopérations internationales ou « actions collectives </strong>» qui avaient été annoncées au Sommet de Paris, notamment au sujet de la transparence de la commande publique, et des registres des bénéficiaires effectifs. Outre son<strong> nouveau site <em>Citizengage</em></strong>, le PGO a aussi publié le « <a href="https://www.opengovpartnership.org/sites/default/files/SKEPTICS-GUIDE_20180710_0.pdf" class="broken_link">Sceptic guide </a>» ou le petit livre pour les sceptiques, qui compile des analyses sur l’impact de projets « <em>open gov</em> » mis en œuvre dans différents pays.</p>
+<p style="text-align: justify;">Le comité directeur a longuement échangé sur l’adoption d’un « <strong>mécanisme de réponse rapide </strong>», destiné à permettre une réponse plus adaptée et plus rapide en cas de violation des principes du PGO par un de ses membres. Le comité « critères et standards » a formulé une recommandation proposant la création d’un mécanisme permettant à toute partie prenante du PGO de faire une requête, dont la validité sera examinée par le secrétariat, puis soumise à une « task force » composée de représentants des co-présidents et du Secrétariat permanent. Des ajustements sur le mécanisme de réponse proposé doivent être fait d’ici septembre, afin d’être à nouveau discuté lors du prochain comité directeur de novembre 2018.</p>
+<p style="text-align: justify;"><strong>Le Canada, représenté par le ministre Scott Brison, Président du Conseil du Trésor et ministre chargé du numérique, a annoncé l’organisation du prochain Sommet à Ottawa au printemps 2019</strong> et a souligné les priorités de son mandat de co-président : le numérique dans le gouvernement ouvert, l’inclusion et l’égalité femme-homme. Par ailleurs, Scott Brison a également lancé l’initiative « <a href="https://www.idrc.ca/fr/nouvelles/nouvelle-initiative-gouvernement-ouvert-et-feministe" target="_blank" rel="noopener noreferrer" class="broken_link">Gouvernement ouvert et féministe</a> ». Le ministre argentin chargé de la modernisation, Andrès  Ibarra, a quant à lui présenté les 5 priorités de la candidature de son pays pour 2019-2020 : « l’Open State », le développement local, les objectifs de développement durable, l’ouverture des données publiques (<em>open data</em>), et l’innovation publique. <strong>Le Comité directeur a validé les candidatures de l’Argentine et de The B-Team comme coprésidents pour 2019-2020.</strong></p>
+<p style="text-align: justify;">La prochaine réunion du Comité directeur se tiendra en novembre. De nombreux évènements lui précéderont cette année : <a href="https://www.opengovpartnership.org/ogp-event-type/international-event" class="broken_link">le Sommet régional Asie-Pacifique</a> se tiendra du 5 au 6 novembre à Séoul ; le <strong>Sommet régional d’Afrique francophone à Tunis</strong> en novembre, ainsi que <strong>les évènements numériques qui auront lieu à Paris</strong> et pour lesquels une partie de la communauté du gouvernement ouvert compte participer : le <strong>Sommet GovTech</strong>, l&rsquo;édition 2018 du <strong>Forum pour la gouvernance de l&rsquo;Internet</strong> (<a href="http://www.intgovforum.org/multilingual/fr" target="_blank" rel="noopener noreferrer" class="broken_link"><em>Internet Governance Forum</em></a>) et le <strong><a href="https://parispeaceforum.org/fr/">Forum de Paris sur la Paix</a>,</strong> qui a été annoncé lors du Comité directeur.</p>
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Retour sur le colloque Franco-britannique sur le numérique</title>
+		<link>/retour-sur-le-colloque-franco-britannique-sur-le-numerique</link>
+		
+		<dc:creator><![CDATA[Niels Braley]]></dc:creator>
+		<pubDate>Wed, 25 Jul 2018 08:41:40 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[International]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8522</guid>
+
+					<description><![CDATA[Le 5 juillet dernier, la France a accueilli à Paris le « Digital colloque », Sommet franco-britannique sur le numérique. 400 participants ont discuté des grands enjeux de la coopération franco-britannique sur le numérique. Les ministres Mahjoubi et Hancock ont signé deux accords de coopération. Le premier, portant sur l’intelligence artificielle et la donnée, amplifie les coopérations existantes entre les &#8230;<p class="read-more"> <a class="" href="/retour-sur-le-colloque-franco-britannique-sur-le-numerique"> <span class="screen-reader-text">Retour sur le colloque Franco-britannique sur le numérique</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<blockquote><p><img loading="lazy" decoding="async" class="size-medium wp-image-8541 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/07/signature-MoUv2-300x224.jpg" alt="" width="300" height="224" srcset="/wp-content/uploads/2018/07/signature-MoUv2-300x224.jpg 300w, /wp-content/uploads/2018/07/signature-MoUv2.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />Le 5 juillet dernier, la France a accueilli à Paris le « Digital colloque », Sommet franco-britannique sur le numérique. 400 participants ont discuté des grands enjeux de la coopération franco-britannique sur le numérique. Les ministres Mahjoubi et Hancock ont signé deux accords de coopération. Le <a href="http://dataia.eu/actualites/signature-dun-accord-de-partenariat-entre-linstitut-dataia-et-alan-turing-institute">premier</a>, portant sur l’intelligence artificielle et la donnée, amplifie les coopérations existantes entre les instituts français <a href="http://dataia.eu/">DATAIA</a> et britannique <a href="https://www.turing.ac.uk/" class="broken_link">Alan Turing</a>. Le <a href="https://www.numerique.gouv.fr/files/files/20180705_MoU_UK%20France_signed.pdf" class="broken_link">deuxième</a>, intitulé « protocole d’accord sur l’administration numérique » concerne le développement de services publics numériques, l&rsquo;inclusion numérique, le soutien au développement de l&rsquo;économie numérique ainsi que la circulation de la donnée et la publication sous licence libre ou <em>open source </em> de solutions numériques.</p></blockquote>
+<h2>Des coopérations franco-britanniques sur le numérique</h2>
+<p>Ces accords sont un premier pas vers des coopérations approfondies, et donne suite au sommet Franco-britannique du 18 janvier 2018 entre le Président de la République, Emmanuel Macron et la Première-ministre britannique Theresa May, dont la déclaration conjointe avait exprimé la volonté commune des deux pays d’étendre leur coopération dans le domaine du numérique, de l’innovation, de l’intelligence artificielle, de la donnée et de l’administration numérique. Le protocole d’accord entre le Royaume-Uni et la France sur l’administration numérique entend capitaliser sur des travaux plus anciens, notamment la <a href="https://www.economie.gouv.fr/rapport-taskforce-franco-britannique-sur-innovation-par-donnees-implementation" class="broken_link">« task-force » franco-britannique sur l’économie de la donnée</a> &#8211; à laquelle <a href="https://www.etalab.gouv.fr/lavancement-de-la-taskforce-franco-britannique-sur-leconomie-de-la-donnee">Etalab a participé</a> –, l’utilisation de <em>logiciels libres</em> dans la sphère publique, l’ouverture des données publiques et la promotion d’un gouvernement ouvert.  Le protocole d&rsquo;accord mentionne quatre objectifs pour cette coopération :</p>
+<ul>
+<li>fournir de meilleurs services publics numériques, pleinement accessibles et facilitant leur utilisation par les usagers ;</li>
+<li>l’accompagnement de la montée en compétences numériques des citoyens ;</li>
+<li>la promotion de la croissance économique par la stimulation des jeunes entreprises et des PME, notamment en encourageant l’usage des nouvelles technologies, des différentes innovations et de l’intelligence artificielle dans le développement des futurs services publics ;</li>
+<li>l’engagement à utiliser des standards ouverts concernant l’information, les données, les algorithmes et les logiciels ainsi que le développement de solutions numériques interopérables ouvertes et librement réutilisables (ou <em>open source</em>).</li>
+</ul>
+<p>Depuis la <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033202746&amp;dateTexte=20180723" target="_blank" rel="noopener noreferrer">loi du 7 octobre 2016 pour une République numérique</a>, le code source de tout logiciel développé par une administration constitue un document administratif pouvant être spontanément ouvert, sauf exceptions.  La Direction interministérielle du numérique et des systèmes d’information et de communication de l’Etat (DINSIC) a par ailleurs <a href="https://www.etalab.gouv.fr/publication-de-la-politique-de-contribution-de-letat-aux-logiciels-libres">publié</a> une <a href="https://disic.github.io/politique-de-contribution-open-source/">politique de contribution aux logiciels libres de l’Etat</a>, qui détaille les principes d’ouverture des codes sources, les bonnes pratiques de développement, et encourage chaque ministère à instancier sa propre politique de contribution.</p>
+<h2><strong>Synthèse des échanges sur l&rsquo;open source</strong></h2>
+<p>Après l’ouverture du colloque par les deux ministres, où ils ont eu l’occasion de rappeler l’importance pour deux pays partageant les mêmes valeurs sur les suites à donner à la révolution numérique de travailler ensemble, 4 tables rondes et un panel ont été organisés dans la matinée. Ces différentes sessions ont porté respectivement sur l’<em>open source</em>, l’intelligence artificielle, la diversité et l’inclusion dans la technologie ainsi que la régulation du numérique.</p>
+<p><img loading="lazy" decoding="async" class="size-medium wp-image-8524 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/07/photo-panel-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2018/07/photo-panel-300x225.jpg 300w, /wp-content/uploads/2018/07/photo-panel.jpg 484w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Co-organisée par Etalab et modérée par Bastien Guerry, <strong>la table ronde sur la thématique <em>open source</em> </strong>a donné un bel exemple de la convergence de vues entre les représentants britannique et français sur le sujet. Liam Maxwell, conseiller national à la technologie du gouvernement britannique et Henri Verdier, directeur interministériel du numérique et du système d’information et de communication de l’Etat intervenaient aux côtés de Mme Amandine Le Pape, responsable des opérations de l&rsquo;entreprise franco-britannique <em>New Vector</em> et de M. Rufus Pollock, universitaire et président de <em>Open Knowledge international</em>.</p>
+<p>Liam Maxwell a débuté la session en rappelant que l’ouverture des données (<em>open data</em>) était au cœur de la transformation de l&rsquo;administration britannique, et que les administrations aujourd&rsquo;hui, n&rsquo;avaient pas d&rsquo;autres choix que d&rsquo;utiliser des logiciels en <em>open source</em>. Il a précisé que contrairement à deux entreprises produisant des biens ou services similaires, deux gouvernements produisant des solutions numériques interopérables de service public ne sont pas concurrents mais ont plutôt tout intérêt à collaborer ensemble pour augmenter leurs capacités de développement et leurs retours d’expérience. Les logiciels libres permettent à deux gouvernements de travailler en bonne intelligence sur des « briques » numériques avec pour objectif un meilleur service rendu aux usagers.</p>
+<p>M. Verdier a rappelé l’importance de penser stratégiquement l’utilisation de l’<em>open source </em>en termes d’Etat-plateforme. Il appartient à l’Etat de développer des alternatives publiques et ouvertes aux innovations face aux offres « propriétaires » fermées de grands opérateurs économiques du secteur numérique. Le bouton de connexion <a href="https://franceconnect.gouv.fr/" target="_blank" rel="noopener noreferrer"><em>F</em><em>r</em><em>ance</em><em> connect</em></a>, la solution de messagerie cryptée de l’Etat Tchap, ou encore la solution numérique de paiement de la Direction générale des finances publiques en sont des exemples importants. Le rôle de l’Etat étant notamment ici de permettre d’ouvrir l’innovation à de nouveaux acteurs sans qu’ils soient soumis à la permission des grandes entreprises déjà en place pour exercer leur activité.</p>
+<blockquote><p>« Au cœur de cette stratégie, l’ouverture des données, des codes sources, des solutions et le développement de biens communs numériques sont ainsi les meilleurs alliés dans la poursuite de l’intérêt général. » &#8211; Henri Verdier</p></blockquote>
+<p>Plus avant, M. Verdier a également mentionné le fait que l’ouverture des codes des solutions numériques publiques s’articule avec la politique de gouvernement ouvert menée par la France, et notamment dans le cadre de son deuxième plan d’action pour une action publique transparence et collaborative, en cela qu’elle participe à répondre à la question « pouvons-nous ouvrir la source du pouvoir comme nous ouvrons les codes sources ? »</p>
+<p>Mme Le Pape, qui collabore avec les services de la DINSIC sur le développement de Tchap, a souligné l’extraordinaire occasion que représente le développement de solutions ouvertes et librement réutilisables dans les services publics numériques, rappelant qu’elle était heureuse d’y prendre part. Elle a également mis en avant la difficulté réelle de sensibilisation des acteurs non techniques, notamment des contribuables et des décideurs, à l’intérêt de l’open source dans la société et à la distribution du coût de développement que permettent ces solutions.</p>
+<p>Alertant sur l’action de fermeture des marchés menée par ce qu’il appelle les « dictateurs technologiques », c’est-à-dire certains géants des industries technologiques, M. Pollock a rappelé qu’il n’existait pas réellement de modèle économique pour une pure gratuité des logiciels libres. Quelqu’un doit payer pour les importants coûts fixes de développement nécessaires à la mise en œuvre de solutions efficientes. Cette contribution ayant tout intérêt à être centralisée, avec un rôle important devant être joué par les Etats pris individuellement ou collectivement dans les différents espaces de collaboration. M. Pollock a souligné l&rsquo;urgence de la situation et l&rsquo;importance de passer à la vitesse supérieure. Il a notamment proposé une solution de financement centralisé de l&rsquo;open source public.</p>
+<p><span style="text-decoration: underline;">Pour aller plus loin</span> :</p>
+<ul>
+<li><a href="https://www.numerique.gouv.fr/files/files/20180705_Joint%20Statement_signed.pdf" target="_blank" rel="noopener noreferrer" class="broken_link">communiqué conjoint franco-britannique</a> ;</li>
+<li><a href="https://www.numerique.gouv.fr/europe-et-international/colloque-digital-france-uk" target="_blank" rel="noopener noreferrer" class="broken_link">présentation du colloque</a> sur le site du secrétariat d’Etat chargé du numérique ;</li>
+<li>le <a href="https://www.gov.uk/government/speeches/matt-hancock-speaking-at-the-digital-colloque-in-paris" target="_blank" rel="noopener noreferrer">script du discours</a> de M. Matt Hancock en ouverture du colloque.</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

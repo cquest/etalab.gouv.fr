@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Alexis Eidelman &#8211; Etalab</title>
+	<atom:link href="/author/alexis/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 18 Jun 2019 08:49:37 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Alexis Eidelman &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Billet technique : Comment rapprocher deux bases de données</title>
+		<link>/rapprocher-deux-bases-donnees</link>
+		
+		<dc:creator><![CDATA[Alexis Eidelman]]></dc:creator>
+		<pubDate>Tue, 22 Nov 2016 15:57:23 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[base de données]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10687</guid>
+
+					<description><![CDATA[Le rapprochement de bases de données est un sujet technique et délicat qui dépasse le cadre de l’activité de l’OCLTI, il se pose à chaque fois que l’on veut comparer et étudier des bases de données partageant de l’information mais ne respectant pas la mème nomenclature. C’est un cas très courant et le fait de &#8230;<p class="read-more"> <a class="" href="/rapprocher-deux-bases-donnees"> <span class="screen-reader-text">Billet technique : Comment rapprocher deux bases de données</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Le rapprochement de bases de données est un sujet technique 
+et délicat qui dépasse le cadre de l’activité de l’OCLTI, il se pose à 
+chaque fois que l’on veut comparer et étudier des bases de données 
+partageant de l’information mais ne respectant pas la mème nomenclature.
+ C’est un cas très courant et le fait de pouvoir associer deux bases de 
+données construites séparément fait partie de la richesse du mouvement 
+actuel autour de l’utilisation des données. Deux bases peuvent par 
+exemple apporter une information complémentaire sur une liste 
+d’individus, il est intéressant de fusionner ces deux bases. Cependant, 
+un mème individu peut ètre écrit de plusieurs façons : M. Vincent 
+Durrand ; Monsieur Durrand V. ; Vincent (Thomas) Durant ; Durrand 
+Vincent Thomas. Si les bases de données sont de tailles raisonnables et 
+les nomenclatures assez proches, une analyse humaine sera suffisante 
+mais dans certains cas, le temps d’analyse manuel sera très long et 
+s’accompagnera inévitablement d’erreurs.</p>
+
+
+
+<p>L’utilisation <strong>d’algorithmes de matching de chaînes de caractères</strong> peut alors apporter une réponse à ce problème. L’équipe de l’Administrateur général des données a décidé d’utiliser la <a href="https://dedupe.readthedocs.io/en/latest/">librairie python Dedupe</a> pour le traiter.</p>
+
+
+
+<h3 class="wp-block-heading" id="le-problème-technique">Le problème technique</h3>
+
+
+
+<p>Rapprocher deux bases de données est un exercice souvent plus 
+compliqué qu’il n’y paraît. Il faut un peu de virtuosité pour faire en 
+sorte qu’une machine repère les noms similaires aussi bien qu’un ètre 
+humain.</p>
+
+
+
+<p>En effet, mème si elles traitent de sujets communs et ont une 
+variable commune (un nom de département, un label, un nom, etc.) très 
+souvent, aucun référentiel commun est appliqué, cette variable commune 
+n’est pas codifiée de la mème façon dans les deux bases. Parfois, il 
+n’existe pas de référence suffisamment légitime et chacun utilise sa 
+propre nomenclature. Parfois, c’est lors de la saisie des données que 
+des erreurs se produisent.</p>
+
+
+
+<p>Par exemple, la fusion de deux bases de données avec des noms de 
+départements français sera un travail plus conséquent si les 
+départements ont été écrits avec un nom en minuscule précédé par le 
+numéro du département et un trait d’union dans l’une des bases (ex. 
+65-Hautes-Pyrénées) et avec des noms en majuscule sans accent et sans 
+traits d’unions dans l’autre (HAUTES PYRENEES). Cet exemple est résolu 
+rapidement par un petit algorithme mais il demande une opération 
+spécifique.</p>
+
+
+
+<p>Cette opération peut s’avérer bien plus complexe lorsque l’on doit 
+utiliser une base de données agrégeant plusieurs sources. Par exemple, 
+une base de données avec des contenus de médicaments comme la <a href="https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle/">base publique des médicaments</a>
+ mèlera plusieurs habitudes dans les champs littéraux. Le label “Une 
+boite de six comprimés” utilisera parfois pour “comprimés” des 
+abréviations qui seront variées suivant les lignes (“comp”, “comp.”, 
+“comps”, “cp”, et”c.”). Autant un ètre humain (XXXrèdéXXX) est capable 
+de comprendre que “Une boite de six comprimés” et “1 bte; 6 comp” 
+désignent la mème chose, autant cela peut troubler un programme 
+informatique qui doit traiter des milliers de lignes. Comment exprimer à
+ une machine que l’on souhaite obtenir la liste exhaustive de tous les 
+médicaments vendus en boites de six comprimés.</p>
+
+
+
+<p>À ces différences de notation, s’ajoute le fait que lorsque l’on 
+n’utilise pas un référentiel dès la saisie des données, des erreurs 
+humaines peuvent s’introduire et l’on peut voir apparaître des 
+“comprime”, ou des “coprimés”. Enfin, les données numériques que l’on 
+peut manipuler sont parfois issues d’une opération de numérisation au 
+cours de laquelle des erreurs peuvent aussi ètre commises. Lors de 
+l’utilisation d’une méthode d’<a href="https://agd.data.gouv.fr/2016/11/22/rapprocher-deux-bases-donnees/OCR" class="broken_link">https://fr.wikipedia.org/wiki/Reconnaissance_optique_de_caract%C3%A8res</a> : la lettre “i” peut ètre interprétée comme une lettre “l”, un “4” comme un “6”, etc.</p>
+
+
+
+<h3 class="wp-block-heading" id="un-cas-concret-pour-moderniser-ladministration">Un cas concret pour moderniser l’administration</h3>
+
+
+
+<p>Dans le cadre de sa mission d’aide é la décision des agents publics, 
+l’équipe de datascientists de l’Administrateur général des données a 
+travaillé très concrètement sur réquisition judiciaire avec l’Office 
+Central de Lutte contre le Travail Illégal (OCLTI) sur cet aspect 
+technique.</p>
+
+
+
+<p><a href="http://www.gendarmerie.interieur.gouv.fr/Notre-Institution/Nos-missions/Police-judiciaire/Travail-illegal-OCLTI">L’Office Central de Lutte contre le Travail Illégal (OCLTI)</a>
+ a pour mission de lutter contre le travail illégal, la traite des ètres
+ humains aux fins d’exploitation au travail et la fraude en matière 
+sociale dont des fraudes au détachement intra-européen de travailleurs 
+qui peuvent concerner des centaines et parfois des milliers de 
+travailleurs.</p>
+
+
+
+<p>Dans plusieurs de ses dossiers, l’OCLTI doit rapprocher des bases de 
+données pour identifier des victimes de fraude transnationale. Par 
+exemple, à partir d’un listing de salarié, l’OCLTI est amené à vérifier 
+si les employés sont bien inscrits à la sécurité sociale en cherchant le
+ nom de ces salariés dans les bases de la sécurité sociale.</p>
+
+
+
+<p>Cette collaboration s’est faite concernant deux études. Pour la première, les deux bases étaient :</p>
+
+
+
+<ul><li>une extraction de la base SIRDAR (système informatiseI? de 
+recherche des détachements autorisés et réguliers du CLEISS) qui 
+répertorie les formulaires de sécurité sociale délivrés à des individus 
+détachés temporairement en France (environ 8000 noms).</li><li>une base composée d’individus victimes établies par les enquèteurs (environ 800 noms).</li></ul>
+
+
+
+<p>Ces deux bases étant construites indépendamment, des individus 
+peuvent ètre reportés différemment, des erreurs peuvent avoir été 
+commises (Faute de frappe/d’orthographe ; Noms é rallonge enregistrés 
+partiellement ; Deuxième prénom reporté ou non, etc.).</p>
+
+
+
+<p>Cela empèche de rapprocher les deux bases de données de faéon exacte 
+et aisée. Pendant 3 semaines, l’équipe de l’OCLTI a rapproché é l’aide 
+d’un tableur ces deux bases de données et a identifié 91 personnes 
+présentes dans les deux bases.</p>
+
+
+
+<p>Le besoin exprimé par l’OCLTI est de créer un outil automatique et 
+efficace de matching de noms d’individus (chaéne de caractères) entre 
+deux bases. Deux indicateurs permettent de juger des bénéfices des 
+méthodes mises en éuvre par Etalab : le temps de calcul et le taux de 
+détection. Le taux de détection de référence pour ce premier jeu de 
+donnés est celui de l’OCLTI, ce qui permet d’évaluer le résultat obtenu 
+par Etalab.</p>
+
+
+
+<p>Nous avons répliqué en tant que personne qualifiée ce travail en utilisant la librairie Python intitulée <a href="https://github.com/datamade/dedupe">Dedupe</a>,
+ qui automatise la déduplication inexacte. Avant d’utiliser 
+l’algorithme, une étape de nettoyage des données a été menée : 
+suppression des majuscules, des accents, des parenthèses, etc.</p>
+
+
+
+<p>L’identification dans ce type de problème se fait é partir des 
+variables communes aux deux bases (nom, prénom, date de naissance ‘). 
+Chaque variable caractérisant un individu peut ètre vu comme une chaéne 
+de caractères. Pour chaque couple d’individus et pour chaque variable, 
+il est possible de calculer une distance entre ces chaénes de 
+caractères. Il en existe plusieurs, les plus répandues étant :</p>
+
+
+
+<ul><li>la distance de Levenshtein : nombre minimum de caractères é modifier dans la chaéne 1 pour arriver é la chaéne 2.</li><li>la distance de Hamming : nombre de caractère différents entre les chaénes 1 et 2.</li></ul>
+
+
+
+<p>Il s’agit de cette deuxième distance qui est utilisée par défaut par 
+Dedupe. Pour calculer une distance ééglobaleéé entre deux noms, il faut 
+agréger les distances associées é chaque variable. La clef de 
+répartition permettant d’agréger ces distances est calculée 
+automatiquement par la librairie Dedupe. En effet, cette librairie 
+choisit l’importance de chaque variable en interrogeant l’utilisateur : 
+elle demande pour différents couples d’individus s’il s’agit bien de 
+duplicatas ou non. Le temps de calcul est presque immédiat (pour des 
+bases de données de taille raisonnable &lt; 100k).</p>
+
+
+
+<p>En ce qui concerne le cas concret de l’OCLTI, le gain en terme de 
+temps de calcul est donc considérable (plusieurs jours contre quelques 
+secondes). Le gain en termes de détection est également intéressant : 
+Dedupe détecte 120 individus potentiellement présents dans les deux 
+bases. Sur les 91 détectés par l’OCLTI, 85 le sont également par 
+l’algorithme. Les six personnes non identifiées ont échappé é 
+l’algorithme car les noms étaient très différents et l’OCLTI les avait 
+détectés grèce é une connaissance approfondie des bases de données. Nous
+ pensons qu’en intégrant l’ensemble des données disponibles, la méthode 
+ééDedupeéé n’aurait eu aucun mal é identifier ces six cas. C’est l’une 
+des améliorations é prévoir. Parmi les 35 duplicata potentiels détectés 
+par Dedupe, 7 sont des duplicata qui semblent avoir échappé é l’OCLTI. 
+Le résultat global est donc très positif : le temps diminue de faéon 
+conséquente pour des résultats en amélioration. Ces bénéfices sont 
+d’autant plus importants que cette tèche pourrait ètre répétée par 
+l’OCLTI ou ses partenaires de la lutte contre le travail illégal 
+plusieurs fois par an (de l’ordre d’une cinquantaine), ce qui n’est fait
+ aujourd’hui que rarement par manque de moyens.</p>
+
+
+
+<p>Les travaux se poursuivent pour encore améliorer la solution qui intéresse d’autres services de contrèle du travail illégal.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>De l&#8217;arrêté ministériel aux coordonnées géographiques</title>
+		<link>/de-larrete-ministeriel-au-fichier-geojson</link>
+		
+		<dc:creator><![CDATA[Alexis Eidelman]]></dc:creator>
+		<pubDate>Mon, 31 Oct 2016 16:03:23 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[géographique]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10692</guid>
+
+					<description><![CDATA[L’Administrateur général des données a récemment été saisi d’une intéressante question concernant les contours des nouvelles zones touristiques internationale sur Paris. Cela a donné lieu à un travail qui mérite d’ètre partagé. Un tracé apparaissait sur cette page du ministère de l’économie. http://www.economie.gouv.fr/vous-orienter/entreprise/commerce/creation-des-zones-touristiques-internationales-a-paris. Cependant, le format de diffusion en pdf rendait impossible la réutilisation. De &#8230;<p class="read-more"> <a class="" href="/de-larrete-ministeriel-au-fichier-geojson"> <span class="screen-reader-text">De l&#8217;arrêté ministériel aux coordonnées géographiques</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>L’Administrateur général des données a récemment été saisi 
+d’une intéressante question concernant les contours des nouvelles zones 
+touristiques internationale sur Paris. Cela a donné lieu à un travail 
+qui mérite d’ètre partagé.</p>
+
+
+
+<p>Un tracé apparaissait sur cette page du ministère de l’économie. <a href="http://www.economie.gouv.fr/vous-orienter/entreprise/commerce/creation-des-zones-touristiques-internationales-a-paris" class="broken_link">http://www.economie.gouv.fr/vous-orienter/entreprise/commerce/creation-des-zones-touristiques-internationales-a-paris.</a>
+ Cependant, le format de diffusion en pdf rendait impossible la 
+réutilisation. De plus le tracé n’englobait pas autant qu’il l’aurait pu
+ les adresses alors que la possibilité de faire le lien adresse – zone 
+est important pour la réutilisation.</p>
+
+
+
+<p>Plutôt que de répondre sur un principe général, l’équipe a donc décidé de proposer une solution concrète au problème.</p>
+
+
+
+<p>A partir du texte des arrêtés, (<a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031223582">un exemple</a>) seul document faisant foi, le tracé a été effectué à partir de l’outil <a href="https://josm.openstreetmap.de/wiki/Fr%3AWikiStart">JOSM</a>. Les limites ont été calée afin que les positions des <a href="https://opendata.paris.fr/explore/dataset/adresse_paris/table/">adresses de la Ville de Paris</a> et de la <a href="http://openstreetmap.fr/bano" class="broken_link">BANO</a> disponibles en opendata soient correctement intégrées ou non dans la zone touristique internationale.</p>
+
+
+
+<p>Les arrêtés contiennent quelques petites ambiguïtés mais elles sont 
+suffisamment légères pour que les choix qui ont été opérés ne prètent 
+pas à contestation. A titre d’exemple, dans la zone «&nbsp;Marais&nbsp;», l’arrêté
+ cite «&nbsp;rue de Poitou, dans sa partie comprise entre la rue des Archives
+ et la rue de Turenne&nbsp;» mais la rue de Poitou et la rue des Archives ne 
+se croisent pas puisque la rue de Poitou devient rue Pastourelle avant 
+l’intersection.</p>
+
+
+
+<p>On peut les visionner les données sur: <a href="http://overpass-turbo.eu/s/hw1">http://overpass-turbo.eu/s/hw1</a>{.moz-txt-link-freetext}
+ et le bouton «&nbsp;Exporter&nbsp;» permet de récupérer dans différents formats. 
+Le format en geojson est accessible sur <a href="https://www.data.gouv.fr/fr/datasets/zones-touristiques-internationales-a-paris/">data.gouv.fr</a>{.moz-txt-link-freetext} et sur <a href="http://opendata.paris.fr/explore/dataset/zones-touristiques-internationales/information/">le site Open Data de la mairie de Paris</a></p>
+
+
+
+<p>Les Parisiens sauront donc où trouver (et ne pas trouver) les touristes ! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>Si vous avez été intéressé par cet article vous aurez peut-être envie de participer au <a href="https://www.etalab.gouv.fr/cadastreelectoral-un-open-data-camp-pour-analyser-la-localisation-des-bureaux-de-vote">data camp sur le cadastre électoral</a> qui se déroulera le 5 novembre à Créteil. C’est l’occasion de faire et d’apprendre plein de choses et il reste des places ! (<a href="https://rdv.etalab.gouv.fr/e/11/open-data-camp-cadastre-electoral" class="broken_link">inscriptions sur ce lien</a>)</p>
+
+
+
+<p>Note : Le procédé utiliser pour établir le tracé utilise des données 
+OpenStreetMap et de BANO. Ces données sont publiées sous licence ODbL, 
+aussi le jeu de données produit est-il diffusé sous cette mème licence.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Deux challenges sur des données publiques</title>
+		<link>/deux-challenges-sur-des-donnees-publiques</link>
+		
+		<dc:creator><![CDATA[Alexis Eidelman]]></dc:creator>
+		<pubDate>Thu, 08 Sep 2016 15:06:47 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[données]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10695</guid>
+
+					<description><![CDATA[L’ouverture des données par les administrations publiques permet à des jeunes datascientists d’exercer leurs talents. Des exemples récents le montrent. L’objectif peut avoir une dominante pédagogique et ludique mais peut aussi servir à montrer ce qu’il est possible de faire et suggérer des propositions d’amélioration pour les services publics. En mai dernier, l’association FrenchData a &#8230;<p class="read-more"> <a class="" href="/deux-challenges-sur-des-donnees-publiques"> <span class="screen-reader-text">Deux challenges sur des données publiques</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>L’ouverture des données par les administrations publiques 
+permet à des jeunes datascientists d’exercer leurs talents. Des exemples
+ récents le montrent. L’objectif peut avoir une dominante pédagogique et
+ ludique mais peut aussi servir à montrer ce qu’il est possible de faire
+ et suggérer des propositions d’amélioration pour les services publics.</p>
+
+
+
+<p>En mai dernier, l’association <a href="http://frenchdata.fr/" class="broken_link">FrenchData</a>
+ a organisé le temps d’une soirée un challenge appelé «&nbsp;Le meilleur 
+datascientist de France&nbsp;» à l’école 42. L’objectif du challenge est de 
+déterminer le prix d’un médicament à partir de ses caractéristiques. Les
+ données utilisées sont des données ouvertes celles de la <a href="https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle/">Base Publique des Médicaments</a>. Ce challenge a été prolongé au-delà de soirée et sera ouvert jusqu’au 31 octobre 2016 sur la plateforme <a href="https://www.datascience.net/fr/challenge/25/details" class="broken_link">Datascience.net</a>.
+ Lors de la soirée de lancement, des tutoriels en R et en Python 
+permettaient de prédire le prix d’un médicament avec en moyenne une 
+erreur de 60%. Aujourd’hui, les meilleurs résultats atteignent les 10% 
+d’erreur.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/09/anap_challenge.jpg"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/09/anap_challenge-300x79.jpg" alt="anap_challenge" class="wp-image-729"/></a></figure></div>
+
+
+
+<p>Aujourd’hui c’est un <a href="https://www.datascience.net/fr/challenge/28/details" class="broken_link">nouveau challenge</a> qui démarre avec données publiques. Cette fois-ci, il est organisé directement par une agence publique : <a href="http://www.anap.fr/accueil/">l’Agence Nationale d’Appui à la Performance des établissements de santé et médico-sociaux</a> (ANAP) et l’<a href="http://www.atih.sante.fr/">Agence technique de l’information sur l’hospitalisation</a>
+ (ATIH) mettent aux défis les datascientists de prédire les performances
+ des établissements selon 5 composantes : qualité des soins, pratiques 
+professionnelles, organisation des soins, ressources humaines et 
+finances. A partir de données ouvertes les particpants ont jusqu’à début
+ septembre pour montrer leur talent et peut-être remporter les 
+récompenses promises aux trois premiers.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Un marché pour accompagner les administrations dans leurs projets de datasciences</title>
+		<link>/un-marche-pour-accompagner-les-administrations-dans-leurs-projets-de-datasciences</link>
+		
+		<dc:creator><![CDATA[Alexis Eidelman]]></dc:creator>
+		<pubDate>Tue, 14 Jun 2016 15:31:24 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[datasciences]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10717</guid>
+
+					<description><![CDATA[Le SGMAP vient de notifier un marché cadre de datasciences. Les ministères peuvent désormais s’appuyer sur dix spécialistes de la donnée pour conduire des projets susceptibles d’améliorer leurs pratiques métier. En complément des compétences internes des datascientists de l’AGD, ce marché permettra d’accroître l’appui fourni par le SGMAP aux administrations. Anoncé dans le premier rapport &#8230;<p class="read-more"> <a class="" href="/un-marche-pour-accompagner-les-administrations-dans-leurs-projets-de-datasciences"> <span class="screen-reader-text">Un marché pour accompagner les administrations dans leurs projets de datasciences</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong><em>Le SGMAP vient de notifier un marché cadre de datasciences. Les
+ministères peuvent désormais s’appuyer sur dix spécialistes de la
+donnée pour conduire des projets susceptibles d’améliorer leurs
+pratiques métier.</em></strong></p>
+
+
+
+<p>En complément des compétences internes des datascientists de l’AGD, ce
+marché permettra d’accroître l’appui fourni par le SGMAP aux
+administrations. Anoncé dans <a href="http://www.modernisation.gouv.fr/sites/default/files/rapport_agd_decembre2015.pdf" class="broken_link">le premier rapport de l’Administrateur
+Général des
+Données</a>,
+cet appui couvrira différents aspects&nbsp;: recherche et exploration de
+données, analyse de données, modèles prédictifs, détection de signaux
+faibles, classifications et restitution des résultats adaptés selon le
+besoin (tableaux de bord, outils d’aide à la décision,
+datavisualisation).</p>
+
+
+
+<p>Le dépouillement des nombreuses offres reçues a été réalisé par le
+SGMAP avec le concours de plusieurs ministères et de l’Agence
+nationale pour la sécurité des systèmes d’information (ANSSI) qui
+interviendra également dans la rédaction et l’attribution des marchés
+subséquents.</p>
+
+
+
+<p>La sélection s’est opérée sur les compétences techniques des
+entreprises et sur leur caractère innovant.  Considérées comme des
+vecteurs de réussites de l’appui de la DINSIC en matière de science
+des données, la capacité à travailler en mode agile ainsi que la
+garantie que les entreprises sauront transférer leurs compétences ont
+aussi été des critères de sélection.</p>
+
+
+
+<p>Les prestataires seront systématiquement pilotés par les équipes de la
+DINSIC, qui apporteront leur expérience des projets de modernisation
+par la donnée.  Un cadre sécurisant pour les administrations et pour
+les citoyens a également été établi à cette fin (notamment en matière
+de protection des données).</p>
+
+
+
+<p>Sur saisine du ministère concerné, toute administration pourra
+solliciter la DINSIC qui examinera l’opportunité de l’appui en
+fonction de la nature du projet et du nombre de demandes reçues.</p>
+
+
+
+<p>Les services intéressés pourront contacter Alexis Eidelman,
+responsable de ce marché, afin de travailler à la rédaction d’un
+marché subséquent.</p>
+
+
+
+<p>Les prestataires retenus ont été publiés au
+<a href="http://www.boamp.fr/avis/detail/16-62538/0">BOAMP</a>, il s’agit de
+(sans ordre) :</p>
+
+
+
+<ul><li>Quantmetry</li><li>Data Publica</li><li>Datastorm</li><li>Sia Partners</li><li>Trexia</li><li>Conix</li><li>Fast-Connect</li><li>Octo</li><li>Ikayros</li><li>Equancy</li></ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]La Base Transparence-Santé sur data.gouv.fr [:]</title>
+		<link>/la-base-transparence-sante-sur-data-gouv-fr</link>
+		
+		<dc:creator><![CDATA[Alexis Eidelman]]></dc:creator>
+		<pubDate>Tue, 24 May 2016 09:01:13 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4368</guid>
+
+					<description><![CDATA[[:fr]La base de données des liens d&#8217;intérêts entre les industries de santé et les autres acteurs du monde de la santé (professionnels de santé, étudiants, sociétés savantes, associations, médias) depuis 2012 est désormais disponible en téléchargement sur data.gouv.fr. Ces données sont nominatives, le nom des professionnels de santé y apparait en clair. La possibilité de &#8230;<p class="read-more"> <a class="" href="/la-base-transparence-sante-sur-data-gouv-fr"> <span class="screen-reader-text">[:fr]La Base Transparence-Santé sur data.gouv.fr [:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]La base de données des liens d&rsquo;intérêts entre les industries de santé et les autres acteurs du monde de la santé (professionnels de santé, étudiants, sociétés savantes, associations, médias) depuis 2012 est désormais disponible en téléchargement sur <a href="https://www.data.gouv.fr/fr/datasets/transparence-sante-1/">data.gouv.fr</a>. Ces données sont nominatives, le nom des professionnels de santé y apparait en clair. La possibilité de réutiliser de telles données est exceptionnelle, <strong>cet article rappelle l&rsquo;historique ayant conduit à la création de la base et les modalités de sa réutilisation.</strong></p>
+<p><span style="text-decoration: underline;"><strong>Etape 1 : collecter les données</strong></span></p>
+<p>Le 29 décembre 2011, la loi relative au renforcement de la sécurité sanitaire du médicament et des produits de santé est promulguée. Cette loi garantit l’indépendance et l’impartialité des décisions prises en matière de santé et impose la transparence des relations entre les professionnels de santé et les industries. Cette première étape permet au ministère de la santé d&rsquo;obliger les industries à transmettre les informations concernant les avantages concédés aux professionnels de santé et d&rsquo;en constituer une base de données.</p>
+<p><span style="text-decoration: underline;"><strong>Etape 2 : les rendre consultables</strong></span></p>
+<p>L&rsquo;esprit du législateur était ainsi de permettre aux citoyens de pouvoir connaître les liens d&rsquo;intérêt des professionnels de santé qu&rsquo;ils côtoient, afin de préserver la nécessaire relation de confiance entretenue avec les multiples acteurs du système de santé. C&rsquo;est ainsi qu&rsquo;en mai 2014, le ministère de la santé met en ligne le <a href="https://www.transparence.sante.gouv.fr/">site Transparence &#8211; Santé</a>. Ce site permet de prendre connaissance des relations d’intérêts que les entreprises entretiennent avec les autres acteurs du monde de la santé, notamment de faire des requêtes sur un professionnel de santé pour connaître ses liens avec les entreprises du secteur.</p>
+<p>On peut alors parler de transparence mais pas encore d&rsquo;ouverture de données dans la mesure où seule la consultation est possible.</p>
+<p><span style="text-decoration: underline;"><strong>Etape 3 : rendre possible la réutilisation</strong></span></p>
+<p>La loi française accorde une grande importance au respect de la vie privée. Le jeu de données « Transparence Santé » est à ce titre une exception. C&rsquo;est en effet l&rsquo;un des rares cas où le législateur a considéré que la vie privée des professionnels de santé, dans la seule partie qui concerne les avantages qu&rsquo;ils reçoivent des entreprises, méritait d&rsquo;être divulguée au profit du droit à l&rsquo;information des citoyens. Pour qu&rsquo;il soit juridiquement permis de les réutiliser, une disposition légale spécifique a été introduite, le 28 janvier 2016, par le biais de l&rsquo;<a href="https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=D95D261C9EA916747BC6A159701DCA9C.tpdila18v_2?cidTexte=JORFTEXT000031912641&amp;dateTexte=20160318#LEGIARTI000031916228">article 178 de la loi de santé</a> qui modifie <a href="https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=D95D261C9EA916747BC6A159701DCA9C.tpdila18v_2?idArticle=LEGIARTI000032263228&amp;cidTexte=LEGITEXT000006072665&amp;categorieLien=id&amp;dateTexte=">le texte régulant cette base de données</a>. C&rsquo;est cette disposition qui permet aujourd&rsquo;hui le téléchargement des données et leur réutilisation par l&rsquo;ensemble des citoyens.</p>
+<p><span style="text-decoration: underline;"><strong>La plus grande ouverture possible</strong></span></p>
+<p>Dans la mesure où toutes les réutilisations ne sont pas permises, on ne peut pas parler d&rsquo;Open Data au sens le plus strict du terme. Le Conseil d&rsquo;Etat a en effet précisé que la finalité de la réutilisation du jeu de données devait être la même que celle qui a présidé à sa constitution. Les données ne peuvent par exemple pas être utilisées à des fins de marketing. C&rsquo;est pour cette raison que la direction générale de la santé et Etalab ont développé une licence spécifique adaptée de la licence ouverte.</p>
+<p><span style="text-decoration: underline;"><strong>Des données à caractère personnel, qu&rsquo;est-ce que ça change ?</strong></span></p>
+<p>Même mises à disposition, la base « Transparence-Santé » conserve un caractère personnel. Toute réutilisation de ces données doit donc faire l&rsquo;objet d&rsquo;une déclaration à la CNIL. Bien que cette procédure soit facilement réalisable via <a href="https://www.cnil.fr/fr/declarer-un-fichier">ce lien</a>, l&rsquo;administrateur général des données travaille actuellement à la création d&rsquo;une version « anonymisée » de ce fichier, afin que les réutilisateurs dont les projets peuvent se passer du caractère personnel de la base n&rsquo;aient pas besoin de faire cette déclaration.</p>
+<p><span style="text-decoration: underline;"><strong>A vous de jouer !</strong></span></p>
+<p>Cette base de données qui contient actuellement plus de 2 millions de lignes va maintenant pouvoir être réutilisée. Elle pourra être croisée avec d&rsquo;autres données relatives au secteur de la santé. Vous pourrez trouver sur <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a> des jeux de données sur des professionnels de santé particuliers, par exemple <a href="https://www.data.gouv.fr/fr/datasets/medecins-accredites-par-la-has/">les médecins accrédités par la Haute Autorité de Santé,</a> et sur les <a href="https://www.data.gouv.fr/fr/datasets/extraction-du-fichier-national-des-etablissements-sanitaires-et-sociaux-finess-par-etablissements/" class="broken_link">établissements sanitaires</a>. Vous trouverez aussi des information sur les médicaments comme la base <a href="https://www.data.gouv.fr/fr/datasets/open-medic-base-complete-sur-les-depenses-de-medicaments-interregimes/">OpenMedic</a> qui fournit les volumes prescrits, la <a href="https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle/">base de données publique du médicament</a> qui les décrit ou encore <a href="https://www.data.gouv.fr/fr/datasets/etude-sur-l-evolution-du-prix-des-produits-d-automedication-non-remboursables-en-france/">les données de vente des produits d&rsquo;automédication</a>.[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Les premières saisines de l&#8217;AGD : où en est-on ?</title>
+		<link>/les-premieres-saisines-de-lagd-ou-en-est-on</link>
+		
+		<dc:creator><![CDATA[Alexis Eidelman]]></dc:creator>
+		<pubDate>Wed, 27 Jan 2016 16:41:28 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[AGD]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10719</guid>
+
+					<description><![CDATA[Le décret du 16 septembre 2014 instituant un administrateur général des données (AGD) prévoyait que celui-ci puisse être saisi par toute personne de toute question portant sur la circulation des données. Depuis la parution du décret, un peu plus d’un an s’est écoulé. Retour sur cette première année de saisines. Après avoir mis en place &#8230;<p class="read-more"> <a class="" href="/les-premieres-saisines-de-lagd-ou-en-est-on"> <span class="screen-reader-text">Les premières saisines de l&#8217;AGD : où en est-on ?</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Le <a href="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029463482&amp;categorieLien=id">décret du 16 septembre 2014</a>
+ instituant un administrateur général des données (AGD) prévoyait que 
+celui-ci puisse être saisi par toute personne de toute question portant 
+sur la circulation des données. Depuis la parution du décret, un peu 
+plus d’un an s’est écoulé. Retour sur cette première année de saisines.</em></p>
+
+
+
+<p>Après avoir mis en place la procédure par le biais de son blog, 
+l’Administrateur général des données (AGD) a reçu sa première saisine en
+ juin 2015. De juin à décembre, c’est 13 saisines au total qui ont été 
+reçues.</p>
+
+
+
+<p>##Quelles ont été les saisines ?##</p>
+
+
+
+<p>8 des 13 saisines ont été effectuées par des particuliers, les 5 autres par des agents des administrations publiques.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/01/ImageAGD1.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/01/ImageAGD1-300x131.png" alt="" class="wp-image-482"/></a></figure></div>
+
+
+
+<p>Du fait du caractère encore relativement confidentiel de cette 
+nouvelle procédure, ces saisines sont toutes des demandes pointues 
+issues de personnes averties. Elles permettent d’avoir un premier aperçu
+ de la sollicitation des données détenues par le service public.</p>
+
+
+
+<p>Logiquement, les administrations qui saisissent l’AGD affichent un 
+objectif d’efficacité de l’action publique. Elles veulent généralement 
+accéder à des jeux de données spécifiques, qui leur permettraient 
+d’optimiser leur action. Accéder à la liste des interventions des 
+pompiers permet par exemple d’identifier des zones à risque du point de 
+vue de la salubrité des bâtiments. Les particuliers, eux, sont souvent 
+des porteurs de projets innovants : ils ont besoin de jeux de données 
+dans le cadre de leur start-up, du lancement d’une application… Des 
+chercheurs ont aussi saisi l’AGD dans le cadre d’un projet de recherche.
+ L’AGD a par exemple reçu deux saisines portant sur des projets de 
+recherche en santé. Enfin, les autres saisines répondent à un souci de 
+transparence. Il peut s’agir de la publication en open data de la liste 
+des récipiendaires de l’ordre des Arts et des Lettres, de l’ouverture 
+des résultats des contrôles sanitaires des restaurants…</p>
+
+
+
+<p>##Quel premier bilan de l’action de l’administrateur général des données ?##</p>
+
+
+
+<p>L’administrateur général des données se place en facilitateur de la 
+relation entre citoyen et administration, ou entre deux administrations.
+ Son but ? Améliorer la circulation des données afin de favoriser la 
+transparence et l’innovation et de permettre des politiques publiques 
+plus efficaces car orientées par la donnée. Il intervient en proposant 
+son expertise aux administrations afin de les aider sur les questions 
+juridiques et techniques.</p>
+
+
+
+<p>Les saisines reçues font appel à des administrations variées et 
+parfois à des notions extrêmement fines du droit. Cela peut entraîner de
+ longs temps de traitement. Ainsi, sur les 13 saisines reçues, 8 
+saisines ont été entièrement traitées ; 3 sont en cours de traitement ; 
+et 2 sont encore non-traitées.</p>
+
+
+
+<p>Si certaines saisines ont conduit à la transmission de données au 
+saisisseur, cela n’a pas été possible dans tous les cas. Pour autant, la
+ procédure de saisine permet de faire remonter les problèmes rencontrés 
+par les citoyens et les agents publics, et d’alerter les administrations
+ concernées. Suite à leur échange avec l’AGD, toutes les administrations
+ concernées ont ainsi engagé une réflexion en interne et ont intégré le 
+problème soulevé à leur feuille de route. Jusqu’à présent, le traitement
+ des saisines n’a pas permis la mise à disposition de nouveaux jeux de 
+données sur la plateforme data.gouv.fr mais nous continuons à avancer 
+sur plusieurs sujets qui pourraient déboucher sur l’ouverture de jeux de
+ données.</p>
+
+
+
+<p>##A votre tour de saisir l’AGD##</p>
+
+
+
+<p>Pour continuer à faciliter la circulation des données et leur 
+exploitation, notamment à des fins d’amélioration des politiques 
+publiques et de stimulation de la recherche et de l’innovation, nous 
+vous encourageons à poursuivre vos saisines. Il vous suffit de remplir 
+le <a href="https://agd.data.gouv.fr/saisines-de-lagd/formulaire-de-saisine/" class="broken_link">formulaire</a> en ligne disponible sur le site de l’AGD.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Les Allocations familiales organisent leur premier hackathon</title>
+		<link>/les-allocations-familiales-organisent-leur-premier-hackathon</link>
+		
+		<dc:creator><![CDATA[Alexis Eidelman]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2015 16:01:57 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Événements]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3562</guid>
+
+					<description><![CDATA[Les Allocations familiales organisent leur premier hackathon Les 2 et 3 octobre prochains, les Allocations Familiales organisent, aux Docks de Paris (Saint-Denis, 93), un concours autour de leurs données publiques. C’est une première pour les Allocations familiales. L’Hackathon des allocs devrait réunir une centaine de personnes organisées en équipes (développeurs, codeurs, graphistes, datascientists, chercheurs …), pendant &#8230;<p class="read-more"> <a class="" href="/les-allocations-familiales-organisent-leur-premier-hackathon"> <span class="screen-reader-text"><!--:fr-->Les Allocations familiales organisent leur premier hackathon<!--:--></span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr--><strong>Les Allocations familiales organisent leur premier hackathon</strong></p>
+<p><em>Les 2 et 3 octobre prochains, les Allocations Familiales organisent, aux Docks de Paris (Saint-Denis, 93), un concours autour de leurs données publiques.</em></p>
+<p>C’est une première pour les Allocations familiales. L’<em>Hackathon des allocs </em>devrait réunir une centaine de personnes organisées en équipes (développeurs, codeurs, graphistes, datascientists, chercheurs …), pendant 2 journées non-stop, aux portes de Paris.</p>
+<p>La règle du jeu est simple : les participants devront concevoir et réaliser des projets à partir des jeux de données mis à leur disposition par les Allocations familiales.</p>
+<p>Parlons données, nous aurons :</p>
+<ul>
+<li>les données déjà disponibles sur Cafdata</li>
+<li>celles qui seront publiées le 30 septembre sur ce même site</li>
+</ul>
+<p>mais aussi des données spécialement mises à disposition pour l&rsquo;occasion :</p>
+<ul>
+<li>sur les allocataires : plus de 11 millions de lignes, une par foyer allocataire, couvrant plus de 30 millions d&rsquo;individus</li>
+<li>sur les interactions entre les Caf et les usagers : web, rendez-vous en agence, contact téléphonique</li>
+<p>sur le suivi des pièces constituant les dossiers des allocataires&#8230;</ul>
+<p>&nbsp;</p>
+<p>Chaque équipe pourra aussi enrichir son projet d’autres données.</p>
+<p>Cette initiative s’inscrit dans le prolongement direct de la démarche Open data lancée par la branche Famille, le 30 juin 2015. Les données numériques publiques utilisées par les Allocations familiales sont ainsi mises à disposition des citoyens, des entreprises, des chercheurs, des associations afin d’en permettre l’appropriation et la réutilisation. Ces données sont consultables sur <a href="http://www.data.caf.fr/" class="broken_link">data.caf.fr</a>, le site étant progressivement enrichi.</p>
+<p>L<em>’Hackathon des allocs </em>est organisé sous le haut-patronage de Marisol Touraine, ministre des affaires sociales, de la santé et des droits des femmes, et en collaboration avec la Mission Etalab en charge de la politique d’ouverture des données publiques sous l’autorité du Premier ministre.</p>
+<p>A l’issue de la compétition, le jury se déterminera sur la valeur ajoutée apportée par chaque projet (application, service, visualisation de données…) selon quatre critères : originalité de la contribution, qualité des prototypes et de la présentation, faisabilité technique des projets, pertinence de la réutilisation des données ouvertes mises à disposition.</p>
+<p>Les trois premières équipes seront récompensées. La participation est gratuite et une restauration sur place est offerte aux équipes pendant les deux jours.</p>
+<p>Si vous souhaitez participer à l’<em>Hackathon des allocs</em>, n’attendez plus et <a href="https://www.weezevent.com/l-hackathon-des-allocs">inscrivez-vous vite</a>.</p>
+<p>&nbsp;<!--:--></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Les Allocations familiales organisent leur premier hackathon</title>
+		<link>/les-allocations-familiales-organisent-leur-premier-hackathon-2</link>
+		
+		<dc:creator><![CDATA[Alexis Eidelman]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2015 16:01:57 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Événements]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3562</guid>
+
+					<description><![CDATA[Les Allocations familiales organisent leur premier hackathon Les 2 et 3 octobre prochains, les Allocations Familiales organisent, aux Docks de Paris (Saint-Denis, 93), un concours autour de leurs données publiques. C’est une première pour les Allocations familiales. L’Hackathon des allocs devrait réunir une centaine de personnes organisées en équipes (développeurs, codeurs, graphistes, datascientists, chercheurs …), pendant &#8230;<p class="read-more"> <a class="" href="/les-allocations-familiales-organisent-leur-premier-hackathon-2"> <span class="screen-reader-text">Les Allocations familiales organisent leur premier hackathon</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr--><strong>Les Allocations familiales organisent leur premier hackathon</strong><br />
+<em>Les 2 et 3 octobre prochains, les Allocations Familiales organisent, aux Docks de Paris (Saint-Denis, 93), un concours autour de leurs données publiques.</em><br />
+C’est une première pour les Allocations familiales. L’<em>Hackathon des allocs </em>devrait réunir une centaine de personnes organisées en équipes (développeurs, codeurs, graphistes, datascientists, chercheurs …), pendant 2 journées non-stop, aux portes de Paris.<br />
+La règle du jeu est simple : les participants devront concevoir et réaliser des projets à partir des jeux de données mis à leur disposition par les Allocations familiales.<br />
+Parlons données, nous aurons :</p>
+<ul>
+<li>les données déjà disponibles sur Cafdata</li>
+<li>celles qui seront publiées le 30 septembre sur ce même site</li>
+</ul>
+<p>mais aussi des données spécialement mises à disposition pour l&rsquo;occasion :</p>
+<ul>
+<li>sur les allocataires : plus de 11 millions de lignes, une par foyer allocataire, couvrant plus de 30 millions d&rsquo;individus</li>
+<li>sur les interactions entre les Caf et les usagers : web, rendez-vous en agence, contact téléphonique</li>
+<p>sur le suivi des pièces constituant les dossiers des allocataires&#8230;</ul>
+<p>&nbsp;<br />
+Chaque équipe pourra aussi enrichir son projet d’autres données.<br />
+Cette initiative s’inscrit dans le prolongement direct de la démarche Open data lancée par la branche Famille, le 30 juin 2015. Les données numériques publiques utilisées par les Allocations familiales sont ainsi mises à disposition des citoyens, des entreprises, des chercheurs, des associations afin d’en permettre l’appropriation et la réutilisation. Ces données sont consultables sur <a href="http://www.data.caf.fr/" class="broken_link">data.caf.fr</a>, le site étant progressivement enrichi.<br />
+L<em>’Hackathon des allocs </em>est organisé sous le haut-patronage de Marisol Touraine, ministre des affaires sociales, de la santé et des droits des femmes, et en collaboration avec la Mission Etalab en charge de la politique d’ouverture des données publiques sous l’autorité du Premier ministre.<br />
+A l’issue de la compétition, le jury se déterminera sur la valeur ajoutée apportée par chaque projet (application, service, visualisation de données…) selon quatre critères : originalité de la contribution, qualité des prototypes et de la présentation, faisabilité technique des projets, pertinence de la réutilisation des données ouvertes mises à disposition.<br />
+Les trois premières équipes seront récompensées. La participation est gratuite et une restauration sur place est offerte aux équipes pendant les deux jours.<br />
+Si vous souhaitez participer à l’<em>Hackathon des allocs</em>, n’attendez plus et <a href="https://www.weezevent.com/l-hackathon-des-allocs">inscrivez-vous vite</a>.<br />
+&nbsp;<!--:--></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Un accord-cadre pour les entreprises de data-sciences</title>
+		<link>/un-accord-cadre-pour-les-entreprises-de-data-sciences</link>
+		
+		<dc:creator><![CDATA[Alexis Eidelman]]></dc:creator>
+		<pubDate>Tue, 01 Sep 2015 07:19:20 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3577</guid>
+
+					<description><![CDATA[Dans le cadre de sa mission visant à coordonner les administrations dans la gouvernance et l&#8217;exploitation de ses données, l&#8217;Administrateur général des données souhaite établir un accord-cadre qui a pour vocation de sélectionner des entreprises de data-sciences pour pouvoir lancer rapidement des appuis aux administrations qui en ont besoin. Quelles sont les compétences requises ? &#8230;<p class="read-more"> <a class="" href="/un-accord-cadre-pour-les-entreprises-de-data-sciences"> <span class="screen-reader-text"><!--:fr-->Un accord-cadre pour les entreprises de data-sciences<!--:--></span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->Dans le cadre de sa mission visant à coordonner les administrations dans la gouvernance et l&rsquo;exploitation de ses données, <a href="https://agd.data.gouv.fr/">l&rsquo;Administrateur général des données</a> souhaite établir un accord-cadre qui a pour vocation de sélectionner des entreprises de data-sciences pour pouvoir lancer rapidement des appuis aux administrations qui en ont besoin.</p>
+<h2>Quelles sont les compétences requises ?</h2>
+<p>L&rsquo;appel à candidatures porte sur trois grandes catégories de besoins des administrations :</p>
+<ul>
+<li>L&rsquo;utilisation de datascience</li>
+<li>La mise en forme ou la constitution de base de données</li>
+<li>Le développement de visualisations de données interactives ou de dashboards</li>
+</ul>
+<p>Si votre entreprise maîtrise au moins l&rsquo;une de ces compétences, n&rsquo;hésitez pas à postuler à l&rsquo;accord-cadre.</p>
+<h2>Comment postuler ?</h2>
+<p>Vous pouvez soumettre votre candidature sur la <a href="https://www.marches-publics.gouv.fr/?page=entreprise.EntrepriseAdvancedSearch&amp;AllCons&amp;refConsultation=262787&amp;orgAcronyme=d2v">plateforme des achats de l&rsquo;État</a> jusqu&rsquo;au 30 septembre 2015.</p>
+<p>Vous trouverez plus d&rsquo;informations sur le <a href="http://www.boamp.fr/avis/detail/15-118709">Bulletin officiel des annonces de marchés publics</a>.<!--:--></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Un accord-cadre pour les entreprises de data-sciences</title>
+		<link>/un-accord-cadre-pour-les-entreprises-de-data-sciences-3</link>
+		
+		<dc:creator><![CDATA[Alexis Eidelman]]></dc:creator>
+		<pubDate>Tue, 01 Sep 2015 07:19:20 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3577</guid>
+
+					<description><![CDATA[Dans le cadre de sa mission visant à coordonner les administrations dans la gouvernance et l&#8217;exploitation de ses données, l&#8217;Administrateur général des données souhaite établir un accord-cadre qui a pour vocation de sélectionner des entreprises de data-sciences pour pouvoir lancer rapidement des appuis aux administrations qui en ont besoin. Quelles sont les compétences requises ? &#8230;<p class="read-more"> <a class="" href="/un-accord-cadre-pour-les-entreprises-de-data-sciences-3"> <span class="screen-reader-text">Un accord-cadre pour les entreprises de data-sciences</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->Dans le cadre de sa mission visant à coordonner les administrations dans la gouvernance et l&rsquo;exploitation de ses données, <a href="https://agd.data.gouv.fr/">l&rsquo;Administrateur général des données</a> souhaite établir un accord-cadre qui a pour vocation de sélectionner des entreprises de data-sciences pour pouvoir lancer rapidement des appuis aux administrations qui en ont besoin.</p>
+<h2>Quelles sont les compétences requises ?</h2>
+<p>L&rsquo;appel à candidatures porte sur trois grandes catégories de besoins des administrations :</p>
+<ul>
+<li>L&rsquo;utilisation de datascience</li>
+<li>La mise en forme ou la constitution de base de données</li>
+<li>Le développement de visualisations de données interactives ou de dashboards</li>
+</ul>
+<p>Si votre entreprise maîtrise au moins l&rsquo;une de ces compétences, n&rsquo;hésitez pas à postuler à l&rsquo;accord-cadre.</p>
+<h2>Comment postuler ?</h2>
+<p>Vous pouvez soumettre votre candidature sur la <a href="https://www.marches-publics.gouv.fr/?page=entreprise.EntrepriseAdvancedSearch&amp;AllCons&amp;refConsultation=262787&amp;orgAcronyme=d2v">plateforme des achats de l&rsquo;État</a> jusqu&rsquo;au 30 septembre 2015.<br />
+Vous trouverez plus d&rsquo;informations sur le <a href="http://www.boamp.fr/avis/detail/15-118709">Bulletin officiel des annonces de marchés publics</a>.<!--:--></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

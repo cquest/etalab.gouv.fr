@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Commentaires sur : Découvrez le jury de Dataconnexions 5 !	</title>
+	<atom:link href="/decouvrez-le-jury-de-dataconnexions-5-2/feed" rel="self" type="application/rss+xml" />
+	<link>/decouvrez-le-jury-de-dataconnexions-5-2</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Mon, 08 Dec 2014 09:02:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>
+		Par : La quinzaine des Données Ouvertes #86 (open data)		</title>
+		<link>/decouvrez-le-jury-de-dataconnexions-5-2#comment-1151</link>
+
+		<dc:creator><![CDATA[La quinzaine des Données Ouvertes #86 (open data)]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2014 09:02:04 +0000</pubDate>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=2562#comment-1151</guid>
+
+					<description><![CDATA[[&#8230;] » Pour lire la suite, rendez-vous Etalab [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] » Pour lire la suite, rendez-vous Etalab [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Par : simpleNewz - Le blog de la mission Etalab RSS Feed for 2014-12-06		</title>
+		<link>/decouvrez-le-jury-de-dataconnexions-5-2#comment-1150</link>
+
+		<dc:creator><![CDATA[simpleNewz - Le blog de la mission Etalab RSS Feed for 2014-12-06]]></dc:creator>
+		<pubDate>Sun, 07 Dec 2014 11:10:05 +0000</pubDate>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=2562#comment-1150</guid>
+
+					<description><![CDATA[[&#8230;] Découvrez le jury de Dataconnexions 5 ! [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Découvrez le jury de Dataconnexions 5 ! [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Par : D&#233;couvrez le jury de Dataconnexions 5 ! ...		</title>
+		<link>/decouvrez-le-jury-de-dataconnexions-5-2#comment-1149</link>
+
+		<dc:creator><![CDATA[D&#233;couvrez le jury de Dataconnexions 5 ! ...]]></dc:creator>
+		<pubDate>Wed, 03 Dec 2014 09:00:40 +0000</pubDate>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=2562#comment-1149</guid>
+
+					<description><![CDATA[[&#8230;] &#160; [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] &nbsp; [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

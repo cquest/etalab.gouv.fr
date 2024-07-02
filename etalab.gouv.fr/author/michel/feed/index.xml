@@ -1,0 +1,1280 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Michel Blancard &#8211; Etalab</title>
+	<atom:link href="/author/michel/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 15 Oct 2019 08:41:01 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Michel Blancard &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ouverture du code du calcul de l&#8217;impôt sur le revenu, années 2010 à 2015</title>
+		<link>/ouverture-du-code-du-calcul-de-limpot-sur-le-revenu</link>
+		
+		<dc:creator><![CDATA[Michel Blancard]]></dc:creator>
+		<pubDate>Thu, 14 Sep 2017 14:41:07 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=7548</guid>
+
+					<description><![CDATA[[:fr] La Direction générale des Finances publiques (DGFiP) avait publié l&#8217;an dernier le code source permettant le calcul des impôts sur les revenus de l&#8217;année 2014. C&#8217;est maintenant chose faite sur l&#8217;ensemble des années de 2010 à 2015. Etalab se réjouit d&#8217;avoir contribué à cette ouverture marquante pour l&#8217;open-data et la transparence de l&#8217;action publique. Le &#8230;<p class="read-more"> <a class="" href="/ouverture-du-code-du-calcul-de-limpot-sur-le-revenu"> <span class="screen-reader-text">Ouverture du code du calcul de l&#8217;impôt sur le revenu, années 2010 à 2015</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]
+<p style="text-align: justify;"><em>La <a href="https://www.economie.gouv.fr/dgfip" class="broken_link">Direction générale des Finances publiques (DGFiP)</a> avait publié l&rsquo;an dernier le code source permettant le calcul des impôts sur les revenus de l&rsquo;année 2014. C&rsquo;est maintenant chose faite sur l&rsquo;ensemble des années de 2010 à 2015. Etalab se réjouit d&rsquo;avoir contribué à cette ouverture marquante pour l&rsquo;open-data et la transparence de l&rsquo;action publique.</em></p>
+<p style="text-align: justify;">Le <a href="https://github.com/etalab/calculette-impots-m-source-code">code source de la calculatrice de l&rsquo;impôt sur le revenu</a> est utilisé par la DGFiP pour calculer le montant dû par chaque foyer fiscal. Il s&rsquo;agit donc d&rsquo;une implémentation en langage informatique, exhaustive et rigoureuse, du <a href="http://bofip.impots.gouv.fr/">BOFIP</a>. La DGFiP met à disposition de tous depuis plusieurs années un <a href="https://www3.impots.gouv.fr/simulateur/calcul_impot/2016/index.htm">simulateur en ligne</a>. L&rsquo;ouverture du code source permet maintenant à chacun d&rsquo;examiner le calcul pour toute situation fiscale au niveau de détail le plus fin.</p>
+<p style="text-align: justify;">Le code de la calculette est écrit dans un <a href="https://fr.wikipedia.org/wiki/Langage_d%C3%A9di%C3%A9">langage dédié</a> développé au sein de la DGFiP, le langage M. Ce langage correspond aux besoins spécifiques de la DGFiP en matière de calcul des impôts mais il ne dispose pas de l&rsquo;écosystème qui entoure les langages généralistes couramment utilisés (compilateur, interpréteur, éditeur, débuggeur&#8230;). <strong>Pour permettre de faciliter l&rsquo;utilisation du code source, <a href="https://github.com/etalab/calculette-impots-m-language-parser">l&rsquo;équipe Etalab a développé un parseur</a> (<a href="https://fr.wikipedia.org/wiki/Analyse_syntaxique">analyseur syntaxique</a>) capable de transformer le code original en données JSON, utilisables par n&rsquo;importe quel langage de programmation.</strong></p>
+<p style="text-align: justify;">Pour faciliter la réutilisation du code source publié, des <a href="https://github.com/etalab/calculette-impots-exemples/blob/master/notebooks/exemples.ipynb">notebooks contenant</a> <a href="https://github.com/etalab/calculette-impots-exemples/blob/master/notebooks/diachronie.ipynb">des exemples d&rsquo;utilisations</a> ont été ajoutés. Par exemple, nous indiquons comment calculer, pour les années 2010 à 2015, le montant de l&rsquo;impôt dû par une personne seule, en fonction de ses revenus nets (figure 1). Les revenus sont en abscisse, le montant de l&rsquo;impôt est en ordonnée. (La courbe de l&rsquo;année 2010 n&rsquo;est pas visible car elle est cachée par la courbe de l&rsquo;année 2011.)</p>
+<figure id="attachment_7550" aria-describedby="caption-attachment-7550" style="width: 385px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" class="wp-image-7550 size-full" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/09/evolution_IR.png" alt="" width="385" height="252" srcset="/wp-content/uploads/2017/09/evolution_IR.png 385w, /wp-content/uploads/2017/09/evolution_IR-300x196.png 300w" sizes="(max-width: 385px) 100vw, 385px" /><figcaption id="caption-attachment-7550" class="wp-caption-text">Figure 1</figcaption></figure>
+<p style="text-align: justify;">Cette ouverture s&rsquo;inscrit également dans <strong>la mise en œuvre de la <a href="https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=D0B84C23BEBF3D6C577C7E803E01A7FD.tpdila12v_2?cidTexte=JORFTEXT000033202746&amp;categorieLien=id">Loi pour un République numérique,</a></strong> qui a ajouté à l&rsquo;article <a href="https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&amp;idArticle=LEGIARTI000031367689&amp;dateTexte=29990101&amp;categorieLien=cid">Article L300-2 du Code des Relations entre le Public et l&rsquo;Administration (CRPA)</a> la mention de codes sources comme documents administratifs.</p>
+[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Building an open solar power map</title>
+		<link>/building-an-open-solar-power-map</link>
+		
+		<dc:creator><![CDATA[Michel Blancard]]></dc:creator>
+		<pubDate>Mon, 06 Mar 2017 15:57:20 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10682</guid>
+
+					<description><![CDATA[espite the introduction of financial incentives for developing production of photovoltaic (solar) power systems since 2000, France ranks only 15th out of 28 in Europe for photovoltaic production per inhabitant. As a comparison, Germany sets an example with production per inhabitant five times higher. Concerns about the selectiveness of the subsidies, and the increasing burden &#8230;<p class="read-more"> <a class="" href="/building-an-open-solar-power-map"> <span class="screen-reader-text">Building an open solar power map</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>espite the introduction of financial incentives for developing 
+production of photovoltaic (solar) power systems since 2000, France 
+ranks only 15th out of 28 in Europe for photovoltaic production per 
+inhabitant.</p>
+
+
+
+<p>As a comparison, Germany sets an example with production per 
+inhabitant five times higher. Concerns about the selectiveness of the 
+subsidies, and the increasing burden on finances, led to a reduction in 
+the incentives after 2010.</p>
+
+
+
+<p>While Germany and other countries developed solar cadastres (public 
+registers of property) to assess the potential of candidate roofs for 
+solar panel installations, such initiatives are still limited to a few 
+cities in France, Brest and Paris being the most successful examples. 
+These cadastres often use a three-dimensional model of a city, requiring
+ expensive data collection and treatments, and, consequently, are used 
+mostly for highly populated areas.</p>
+
+
+
+<p>An open solar cadastre, assessing the potential of roofs for solar 
+panels covering the whole territory, would not only benefit public 
+authorities but also a whole community comprising energy providers, 
+panel installers, consulting companies and homeowners.</p>
+
+
+
+<p>The Etalab team used an innovative, cost-efficient approach combining
+ open data and open algorithms, relying on external contributions to 
+build a nationwide solar cadastre.</p>
+
+
+
+<p>The French land cadastre provides the contours of every structure. 
+The shape of the roof is still uncertain and visual analysis is required
+ to distinguish a ridge going west to east (suitable for solar 
+installations) from one going north to south. So, satellite and aerial 
+images covering the whole French territory with sufficient precision for
+ most situations are used.</p>
+
+
+
+<p>Etalab took advantage of a hackathon to design and set up a 
+crowdsourcing platform with the help of enthusiastic developers. The 
+platform displays the image of a roof and the user is invited to provide
+ its orientation. The platform, being fun and somewhat addictive, 
+received 100,000 contributions in a three-week span by word of mouth. 
+This allowed us to classify 10,000 roofs with confidence. We identified 
+just one case of vandalism, which was easily spotted and discarded.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="1000" height="577" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/06/image-agd11.png" alt="" class="wp-image-10683" srcset="/wp-content/uploads/2019/06/image-agd11.png 1000w, /wp-content/uploads/2019/06/image-agd11-300x173.png 300w, /wp-content/uploads/2019/06/image-agd11-768x443.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption>     opensolarmap.org : Crowdsourcing platform, displaying a roof image and 4 possible orientation choices   </figcaption></figure>
+
+
+
+<p>     </p>
+
+
+
+<p>This is a small sample compared to the 50 million buildings in 
+France, but it is enough to programme an automated classifier. Using 
+standard techniques in image processing, namely logistic regression and 
+deep neural networks, we obtained a classifier that was correct 80% of 
+the time. Later, we found the automated results to be comparable 
+toéhuman contributions in accuracy. Run on standard hardware, the 
+classifier takes one second to make a decision on an image.</p>
+
+
+
+<p>This classification challenge was later taken on by a hundred teams 
+during the Data Science Game, an international data science competition.
+ The winning team, using newer neural networks and advanced techniques 
+like data augmentation, fine tuning and ensemble learning, achieved a 
+30% lower error rate.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Solution and action</strong></h2>
+
+
+
+<p>The nationwide map of roof orientation shows differences between 
+regions affected unequally by wind and topography. For example, most 
+roofs in Brittany have a favourable orientation, whereas the opposite is
+ the case in the éRhène Valley. This map is of great importance to 
+assess the relevance of solar incentives at a local level. It is worth 
+comparing with the solar exposure to evaluate solar potential.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2017/02/orientation_mid_res.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2017/02/orientation_mid_res-1024x957.png" alt="" class="wp-image-841"/></a><figcaption>     Roof orientation map. Regions with a high number of favourably orientated roofs are displayed in red.   </figcaption></figure>
+
+
+
+<p>The solar cadastre doesn’t take into account shades or the angle of 
+inclination of roofs, and it discards roofs with complex shapes. 
+However, it is intended to be completed by more precise, possibly local 
+and expensive, data to deliver a better result. <a href="https://www.data.gouv.fr/fr/organizations/opensolarmap/">All the data</a>, <a href="https://github.com/opensolarmap/">as well as the code</a>éused
+ and produced in this project, is open and documented. Therefore, it is 
+easy for éanyone working in this field, whether from the public or 
+private sector, to quickly build an improved solar cadastre on top of 
+ours or to replicate it in another country.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2017/02/G_opt_FR.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2017/02/G_opt_FR-725x1024.png" alt="" class="wp-image-842"/></a></figure>
+
+
+
+<p>
+    Horizontal irradiation – France. Source: PVGIS é European Union, 2001-2012 (Copyright: 2011 GeoModel Solar s.r.o.)
+  </p>
+
+
+
+<h2 class="wp-block-heading" id="learnings">Learnings</h2>
+
+
+
+<p>As a government service attached to the Prime Minister, Etalab 
+prefers inclusive approaches to closed ones. Machine learning projects 
+like this one seem particularly suited to public participation. Every 
+citizen, regardless of their skills and expertise, can offer their help 
+using a crowdsourcing platform.</p>
+
+
+
+<p>Calling on public participation is also a natural way to communicate and advertise the goals of the project.</p>
+
+
+
+<p>The Etalab team benefited from voluntary contributions during the 
+development of the crowdsourcing platform, the construction of the 
+training set and the building of automated classifiers. Additionally, we
+ rooted our project in open data and open source tools. In this way, a 
+team of two people managed to develop this project within a few months, 
+for negligible hardware costs. Although projects using machine learning 
+are often termed é?Big Data’, it would be a misnomer in this case, since
+ we systematically favoured small-scale, quick and cost-effective 
+methods, involving manageable amounts of data.</p>
+
+
+
+<p>This approach lays the foundation for tools facilitating the work of 
+public decision-makers involved in energy policies. It could be easily 
+replicated for similar issues; for example, detection of bus lanes and 
+pedestrian crossings, for land-use classification, and so on.</p>
+
+
+
+<p>We demonstrated the application of state-of-the-art, free, 
+open-source, well-packaged machine learning solutions outside of a 
+research context. Engineers and developers can now extract value from 
+images without having to be specialists in image processing or deep 
+learning. It is probable that such tools will become increasingly 
+widespread and eventually find their way into the general IT engineer’s 
+toolbox.</p>
+
+
+
+<p><a href="https://quarterly.blog.gov.uk/2017/02/07/building-an-open-solar-power-map/">This blogpost was originally published on the British Civil Service Quarterly.</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Les techniques standards appliquées é OpenSolarMap (1/3)</title>
+		<link>/les-techniques-standards-appliquees-a-opensolarmap-13</link>
+		
+		<dc:creator><![CDATA[Michel Blancard]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2016 15:23:28 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[OpenSolarMap]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10710</guid>
+
+					<description><![CDATA[Lorsqu’un algorithme simple ne convient pas, la deuxième étape d’un projet de machine learning est d’essayer des «&#160;grands classiques&#160;». Ces algorithmes sont plus complexes d’un point de vue théorique, mais des implémentations toutes prêtes existent et cette étape est généralement rapide à mettre en oeuvre. Régression logistique La régression logistique porte un nom déroutant puisque &#8230;<p class="read-more"> <a class="" href="/les-techniques-standards-appliquees-a-opensolarmap-13"> <span class="screen-reader-text">Les techniques standards appliquées é OpenSolarMap (1/3)</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Lorsqu’un algorithme simple ne convient pas, la 
+deuxième étape d’un projet de machine learning est d’essayer des 
+«&nbsp;grands classiques&nbsp;». Ces algorithmes sont plus complexes d’un point de
+ vue théorique, mais des implémentations toutes prêtes existent et cette
+ étape est généralement rapide à mettre en oeuvre.</strong></p>
+
+
+
+<h1 class="wp-block-heading" id="régression-logistique">Régression logistique</h1>
+
+
+
+<p>La <a href="https://fr.wikipedia.org/wiki/R%C3%A9gression_logistique">régression logistique</a>
+ porte un nom déroutant puisque cette méthode est utilisée autant pour 
+des problèmes de régression que de classification. De plus, le choix par
+ Pierre François Verhulst du terme «&nbsp;logistique&nbsp;» est aujourd’hui un 
+mystère. Pourtant, la régression logistique est sans doute la méthode la
+ plus répandue pour traiter des problèmes de classification comme c’est 
+le cas ici.</p>
+
+
+
+<p>Il existe une multitude d’implémentations de la régression logistique. La méthode utilisée pour OpenSolarMap est celle de <a href="http://scikit-learn.org/">Scikit-Learn</a>. Scikit-Learn est un ensemble d’implémentation en <a href="https://www.python.org/">langage Python</a> d’algorithmes courants. Cette librairie maintenue par l’INRIA est très populaire partout dans le monde. <a href="http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html">Voir la documentation de l’implémentation</a>.</p>
+
+
+
+<p>Entraîner puis tester un modèle de régression logistique requiert d’écrire un peu de code :</p>
+
+
+
+<pre class="wp-block-preformatted">train_data, val_data, test_data = load.load_all_data(train_ids, val_ids, test_ids, l, color)
+model = sklearn.linear_model.LogisticRegression(penalty='l2', C=1e10)
+model.fit(train_data, train_labels)
+predictions = model.predict(val_data)
+err = (predictions != val_labels).sum() / len(val_labels)
+</pre>
+
+
+
+<p>Passons en revue chaque ligne :</p>
+
+
+
+<ol><li>Les données sont chargées dans les variables <code>train_data</code>, <code>val_data</code> et <code>test_data</code>. La fonction <code>load.load_all_data()</code>, spécifique a notre problème, prend en paramètre la liste des identifiants de toits à charger, la taille <code>l</code>
+ des images voulue et le nombre de canaux de couleur voulu (rouge, vert 
+et bleu ou noir et blanc). Les images de toitures sont séparées en 3 
+échantillons :
+    <ul><li>Un échantillon d’apprentissage ;</li><li>Un échantillon de test ;</li><li>Un échantillon de validation.</li></ul>
+  </li><li>Un objet python encapsulant un modèle de régression linéaire est créé. Les paramètres <code>penalty</code> et <code>C</code> configurent la régularisation. La <a href="https://en.wikipedia.org/wiki/Regularization_(mathematics)">régularisation</a>
+ est utile lorsque le nombre de features est comparable à la taille de 
+l’échantillon. Ici, il y a plusieurs milliers d’exemples dans 
+l’échantillon d’apprentissage et quelques centaines de features tout au 
+plus. Pour simplifier, le paramètre <code>C</code> a une valeur très élevée (<code>1e10 = 10.000.000.000</code>) ce qui correspond à une régularisation négligeable.</li><li>Le modèle est entraîné sur l’échantillon d’apprentissage. Le modèle a accès aux features (<code>train_data</code>) mais aussi aux labels (<code>train_labels</code>) pour pouvoir se corriger et s’améliorer.</li><li>Le modèle fait des prédictions sur l’échantillon de test. Maintenant le modèle n’a pas accès aux labels.</li><li>Le taux d’erreurs de la prédiction du modèle est calculé comme le quotient du nombre d’erreurs sur la taille de l’échantillon.</li></ol>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/lr.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/lr-300x209.png" alt="lr" class="wp-image-598"/></a></figure>
+
+
+
+<p>
+    Figure 1 : choix des hyperparamètres pour la régression logistique
+  </p>
+
+
+
+<p>On choisit la taille des images <code>l</code>
+ et le choix de couleurs (rouge, vert et bleu ou noir et blanc) en 
+essayant plusieurs combinaison. La figure 1 montre que la taille qui 
+donne les meilleurs résultats est de 6 pixels par 6 pixels. Le fait de 
+tester successivement plusieurs hyper-paramètres (les paramètres comme <code>l</code>, qui sont extérieurs au modèle de régression logistique et définis par le data-scientist) peut provoquer un phénomène appelé <a href="https://fr.wikipedia.org/wiki/Surapprentissage">surapprentissage</a>.
+ Il est nécessaire de valider la performance sur un échantillon qui n’a 
+été utilisé ni durant l’apprentissage ni durant la phase de test, l’<a href="https://en.wikipedia.org/wiki/Test_set#Validation_set">échantillon de validation</a>. Dans notre situation, le taux d’erreur sur l’échantillon de validation est de 12.5%.</p>
+
+
+
+<p>##Support Vector Machines</p>
+
+
+
+<p>Si la régression logistique a été développée dans la fin des années 
+60 par le statisticien David Cox et elle est maintenant considérée comme
+ un outil de statistique classique, les «&nbsp;machines à vecteurs de 
+support&nbsp;» sont développées depuis les années 90 et constituent encore un
+ domaine de recherche très actif. Cette différence d’âge, ainsi que le 
+fait que l’analyse mathématique de ces deux méthodes est très différente
+ fait souvent oublier que les performances, tant en prédiction qu’en 
+temps de calcul, sont souvent très semblables.</p>
+
+
+
+<p>Passer de la régression logistique au <a href="http://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html">Support Vector Classifier (SVC)</a> est presque immédiat, il faut remplacer la ligne</p>
+
+
+
+<pre class="wp-block-preformatted">model = sklearn.linear_model.LogisticRegression(penalty='l2', C=1e10)
+</pre>
+
+
+
+<p>par la ligne</p>
+
+
+
+<pre class="wp-block-preformatted">model = sklearn.svm.LinearSVC(penalty='l2', C=1e10, dual=False)
+</pre>
+
+
+
+<p>Le paramètre <code>dual=False</code> 
+commande à la librairie Scikit-Learn de ne pas utiliser l’implémentation
+ «&nbsp;duale&nbsp;», qui est appropriée dans les cas où le nombre de features est
+ plus important que la taille de l’échantillon.</p>
+
+
+
+<p>Le meilleur résultat est toujours obtenu avec une taille de 6 pixels 
+par 6 pixels, mais cette fois-ci en couleurs (rouge, vert et bleu). Le 
+résultat de l’étape de la validation est aussi de 12.5%.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/svm.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/svm-300x213.png" alt="svm" class="wp-image-599"/></a></figure>
+
+
+
+<p>
+    Figure 2 : choix des hyperparamètres pour la SVM
+  </p>
+
+
+
+<h1 class="wp-block-heading" id="quels-sont-les-grands-classiques-">Quels sont les grands classiques ?</h1>
+
+
+
+<p>Pour beaucoup de problèmes de machine learning, il existe un ou 
+plusieurs algorithmes classiques à essayer en priorité. Pour aider à 
+faire ce choix, le projet Scikit-Learn a édité un <a href="http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html">arbre de décision</a> très pratique :</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/ml_map.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/ml_map-1024x638.png" alt="ml_map" class="wp-image-600"/></a></figure></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>OpenSolarMap côté data-sciences (0/3)</title>
+		<link>/opensolarmap-cote-data-sciences-03</link>
+		
+		<dc:creator><![CDATA[Michel Blancard]]></dc:creator>
+		<pubDate>Fri, 17 Jun 2016 15:26:18 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[datasciences]]></category>
+		<category><![CDATA[OpenSolarMap]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10713</guid>
+
+					<description><![CDATA[Le projet OpenSolarMap démontre comment il est possible d’améliorer la connaissance du territoire français en utilisant astucieusement les ressources de la multitude et des data-sciences. Son objectif concret est de classifier les toitures en quatre catégories : orientation nord/sud; orientation est/ouest&#160;; toit plat&#160;; autre ou indéterminé. Cela permet, par exemple, d’évaluer le potentiel d’installation de &#8230;<p class="read-more"> <a class="" href="/opensolarmap-cote-data-sciences-03"> <span class="screen-reader-text">OpenSolarMap côté data-sciences (0/3)</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Le projet <a href="https://www.etalab.gouv.fr/opensolarmap">OpenSolarMap</a>
+démontre comment il est possible d’améliorer la connaissance du
+territoire français en utilisant astucieusement les ressources de la
+multitude et des data-sciences. Son objectif concret est de classifier
+les toitures en quatre catégories : orientation nord/sud; orientation
+est/ouest&nbsp;; toit plat&nbsp;; autre ou indéterminé. Cela permet, par
+exemple, d’évaluer le potentiel d’installation de panneaux solaires ou
+la possibilité de végétaliser.  Quelques milliers d’exemples ont été
+recueillis grâce à une <a href="http://opensolarmap.org/" class="broken_link">plateforme
+de crowdsourcing</a>. Puis, des algorithmes ont été utilisés pour
+couvrir l’ensemble du territoire. Une <a href="https://www.etalab.gouv.fr/opensolarmap">présentation générale
+du projet</a> est accessible sur le blog d’Etalab.</strong></p>
+
+
+
+<p><strong>Cet article est le premier d’une série qui présente la partie
+data-science du projet. C’est l’occasion de brosser à grands traits la
+démarche du data-scientist et de faire le tour de quelques techniques
+fréquemment utilisées. La série vise avant tout un public technique
+mais non spécialiste. Des références permettent d’approfondir les
+notions survolées.</strong></p>
+
+
+
+<p>Le code source écrit pour le projet OpenSolarMap est accessible sur la
+plateforme <a href="https://github.com/opensolarmap/">GitHub</a>. La
+partie data-sciences est contenue dans le repository <a href="https://github.com/opensolarmap/solml/">solml</a>.</p>
+
+
+
+<h1 class="wp-block-heading" id="analyse-des-contributions">Analyse des contributions</h1>
+
+
+
+<p>Nous avons voulu tout d’abord procéder à une analyse des contributions
+faites sur l’interface <a href="http://opensolarmap.org/" class="broken_link">opensolarmap.org</a>. Au 21 décembre
+2014, nous disposions de 130.374 contributions, sur 38.553 bâtiments,
+permettant de classifier avec confiance 10.771 bâtiments par un
+système de vote. Ces <a href="https://www.data.gouv.fr/fr/organizations/opensolarmap/#datasets">contributions</a>
+sont accessibles sur la plateforme <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a>.</p>
+
+
+
+<p>L’interface de contribution ne connaît le contributeur que par son
+adresse IP. Cette adresse IP est ensuite hashée pour préserver
+l’anonymat. Les contributions proviennent de 1081 utilisateurs.</p>
+
+
+
+<h2 class="wp-block-heading" id="mauvaises-contributions">Mauvaises contributions</h2>
+
+
+
+<p>Certaines contributions portent sur des bâtiments dont on ne connait
+pas encore avec certitude la vraie classe. Pour faire une analyse des
+erreurs, il ne faut garder que les prédictions qui portent sur les
+bâtiments déjà classifiés. Ces contributions, dont on peut dire si
+elles sont justes ou fausses, sont au nombre de 60.436.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/scatterplot_users.png" alt="scatterplot_users" class="wp-image-574"/></figure>
+
+
+
+<p>Figure 1</p>
+
+
+
+<p>Parmi ces contributions, il y a 1.998 erreurs. Cela représente 3.3%
+des contributions.  Il faut cependant noter que les bâtiments
+classifiés avec certitude sont en moyenne plus faciles à classifier
+que les autres.  Les contributions sur ces bâtiments sont donc moins
+susceptibles d’ètre erronées. Le taux d’erreurs réel est donc sans
+doute plus élevé que cette valeur observée.</p>
+
+
+
+<p>La figure 1 montre la répartition des utilisateurs suivant leur
+  nombre de contributions et leur taux de contributions correctes. On
+  ranger les contributeurs en plusieurs catégories :
+
+
+  des contributeurs ayant un nombre de contributions élevé et un un taux
+ de contributions correctes proche de 1. Dans cette catégorie, on 
+remarque un contributeur ayant environ 8.000 contributions à lui seul : 
+c&rsquo;est Christian Quest !
+
+
+  des contributeurs ayant un nombre faible de contributions et un taux 
+de contributions correctes faible. On peut faire l&rsquo;hypothèse que ce sont
+ des contributeurs n&rsquo;ayant pas compris comment utiliser l&rsquo;interface de 
+contribution.
+
+
+  un contributeur a quelques centaines de contributions et un taux 
+faible, proche de 55%. L&rsquo;analyse de ses contributions montrent qu&rsquo;il 
+s&rsquo;agit sans doute d&rsquo;un comportement malveillant. On peut ètre étonné de 
+rencontrer ici un comportement malveillant, mais comme on va le voir 
+tout de suite, il est très facile de s&rsquo;en prévenir.
+
+
+</p>
+
+
+
+<p>En ignorant les contributions des utilisateurs ayant un taux observé 
+de contributions correctes de 70%, on peut éliminer 191 contributeurs 
+pour 725 erreurs, c’est-à-dire plus d’un tiers des erreurs.</p>
+
+
+
+<h2 class="wp-block-heading" id="influences-sur-le-taux-de-contributions-correctes">Influences sur le taux de contributions correctes</h2>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/fatigue.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/fatigue.png" alt="fatigue" class="wp-image-579"/></a></figure>
+
+
+
+<p>
+    Figure 2
+  </p>
+
+
+
+<p>On peut se demander s’il existe des facteurs qui influencent le taux de contributions correctes.</p>
+
+
+
+<p>Existe-t-il un effet de fatigue avec un taux de contributions 
+correctes qui baisserait d’autant que le contributeur a contribué au 
+cours de 20 dernières minutes ? La figure 2 indiquerait plutèt le 
+contraire.</p>
+
+
+
+<p>Quelle est l’influence du temps de réponse sur le taux de 
+contributions correctes ? La figure 3 montre que ce taux est optimal 
+entre 1 et 3 secondes environ. En dessous d’une seconde, il chute 
+rapidement à 93% pour un temps d’environ 0.5 seconde. Dans ces cas, le 
+contributeur n’a peut-ètre pas pris assez de temps pour répondre 
+précisément. Au delà de 3 secondes il chute aussi. Le contributeur a 
+peut-ètre hésité face à un bètiment plus difficile à classifier que la 
+moyenne.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/response_time.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/response_time.png" alt="response_time" class="wp-image-580"/></a></figure>
+
+
+
+<p>
+    Figure 3
+  </p>
+
+
+
+<h1 class="wp-block-heading" id="entraéner-un-classifieur-automatique">Entraéner un classifieur automatique</h1>
+
+
+
+<p>L’ensemble des bâtiments dont on connaét l’orientation grèce aux
+contributeurs est bien plus petit que le nombre total de bâtiments
+construits sur le territoire franéais. Mais il est possible
+d’automatiser une tache de classification, à la condition d’avoir un
+nombre suffisant d’exemples préalablement classifiés.</p>
+
+
+
+<p>Pour simplifier le problème, on ne va s’attaquer dans un premier temps
+qu’aux deux premières classes :
+
+
+  les toitures orientées au nord et au sud
+
+
+  les toitures orientées à l&rsquo;est et à l&rsquo;ouest
+
+
+</p>
+
+
+
+<p>De plus, ces deux classes seront de tailles égales, ce qui ne
+correspond pas à la réalité.</p>
+
+
+
+<p>On verra dans plus tardécomment généraliser une solution à deux
+classes pour distinguer quatre classes de tailles inégales.</p>
+
+
+
+<h1 class="wp-block-heading" id="flux-de-données">Flux de données</h1>
+
+
+
+<p>Voici la description du flux des données traitées, depuis les
+informations requètées depuis l’extérieur vers le résultat de la
+classification :
+
+
+  Le cadastre est consulté via la base de donnée d&rsquo;OpenStreetMap. Le 
+cadastre contient le contour des murs extérieurs. Ce contour est 
+simplifié en un rectangle. Le bètiment n&rsquo;est pas examiné davantage si la
+ toiture n&rsquo;est pas susceptible d&rsquo;ètre orientée au sud, c&rsquo;est-é-dire si 
+l&rsquo;orientation du rectangle s&rsquo;écarte trop des directions cardinales.
+
+
+  L&rsquo;image satellite des toits est requètée avec <a href="http://www.gdal.org/">GDAL</a>ésur l&rsquo;API de <a href="https://www.mapbox.com/">Mapbox</a>.
+ GDAL est une excellente librairie de traitement d&rsquo;images géospaciales. 
+Dans ce projet, toutes les conversions entre référentiels géographiques 
+et référentiels cartographiques sont gérées par GDAL. GDAL permet 
+également d&rsquo;aller chercher les images satellite des toits à partir des 
+coordonnées voulues, et gère de manière transparente le requètage par 
+internet, le découpage parétuiles et le cache.
+
+
+  Après cette étape de téléchargement, les images satellites des toits 
+sont stockées localement au format jpg. Une image est une grille de 
+pixels de tailleévariableésouvent proche de 100 par 100. Chaque pixel 
+est composée de 3 valeurs entières comprises entre 0 et 255 pour coder 
+l&rsquo;intensité des couleurs rouge, vert et bleu.
+
+
+  Les images subissent une réduction de la taille et/ou un passage en 
+noir et blanc suivant les besoins du classifieur. A l&rsquo;issue de ce 
+prétraitement, les images ont toutes la mème taille et le classifieur 
+pourra traiter l&rsquo;image comme un tableau numérique de taille fixée. Une 
+image pourra ètre vue selon les cas comme un tableau à deux dimensions 
+auquel cas la géométrie de l&rsquo;image est préservée, ou comme un tableau à 
+une dimension (un vecteur). Dans ce cas les valeurs de chaque pixel sont
+ dépliées sur une seule dimension. On parle de «&nbsp;features&nbsp;» pour 
+désigner ces valeurs numériques caractérisant une image.
+
+
+  Un classifieur automatique intervient ici pour produireéun avis pour 
+chaque toit. Cet avis se compose de l&rsquo;indice de la classe jugée la plus 
+probable et d&rsquo;un indice de confiance.
+
+
+  Ce score peut ensuite ètre reversé dans la base OpenStreetMap.
+
+
+</p>
+
+
+
+<h1 class="wp-block-heading" id="un-premier-algorithme-très-simple">Un premier algorithme très simple</h1>
+
+
+
+<p>Par principe, nous commençons toujours nos analyses par un algorithme
+extrèmement simple. Cette étape est très importante pour ces raisons :
+
+
+  Si ce premier algorithme, aussi simple qu&rsquo;il soit, répond complètement
+ au besoin initial, il n&rsquo;y a pas de temps perdu à développer un autre 
+modèle plus complexe. De manière générale, un algorithme est d&rsquo;autant 
+mieux accepté, rapide d&rsquo;implémentation et d&rsquo;exécution, maintenable et 
+robuste qu&rsquo;il est simple.
+
+
+  Sinon, il fournit une base de comparaison pour d&rsquo;autres algorithmes plus sophistiqués.
+
+
+  En cas de calendrier serré ou de délai non anticipé durant le 
+développement d&rsquo;un algorithme mieux adapté, il constitue une solution de
+ substitution immédiatement utilisable.
+
+
+</p>
+
+
+
+<p>OpenSolarMap ne déroge pas à la règle. Une image de toit est divisée
+en 4 parties égales comme représenté sur le figure 4. Pour chacune de
+ces zones, on somme la valeur de chaque couleur de chaque pixel. On va
+noter ces sommes S1, S2, S3 et S4.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/dummy.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/dummy.png" alt="dummy" class="wp-image-586"/></a></figure>
+
+
+
+<p>
+    Figure 4
+  </p>
+
+
+
+<p>Puis à partir de ces sommes on calcule la différence entre la partie
+droite et la partie gauche de l’image, puis entre la partie haute et
+la partie base de l’image.</p>
+
+
+
+<p>
+  I�NS = |(S1+S2) &lsquo; (S3+S4)|<br> I�EW = |(S1+S3) &lsquo; (S2+S4)|
+</p>
+
+
+
+<p>On peut s’attendre à ce que la première différence soit plus
+importante pour les toitures orientées est-ouest alors que la seconde
+différence soit plus importante pour les toitures orientées
+nord-sud. Calculons donc la différence entre ces deux différences :</p>
+
+
+
+<p>
+  Y = I�NS – I�EW + c
+</p>
+
+
+
+<p>La constante c est introduite pour prendre en compte l’asymétrie
+causée par la position du soleil, toujours au sud, et de l’ombre,
+toujours au nord. Sa valeur est fixée pour maximiser la performance du
+modèle.</p>
+
+
+
+<p>Le résultat de l’algorithme est le signe de Y.  Si Y est positif,
+l’algorithme prédit une orientation nord-sud, si le signe est négatif
+il prédit une orientation est-ouest. Avec une valeur deéc optimale, le
+taux d’erreur est de 38%. C’est mieux que le classifieur aléatoire,
+qui répond 0 ou 1 avec une probabilité égale et qui a donc un taux
+d’erreur de 50%.  Mais ce n’est pas satisfaisant.  Il faut donc
+chercher un algorithme plus compliqué.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Un réseau de neurones pour OpenSolarMap (2/3)</title>
+		<link>/un-reseau-de-neurones-pour-opensolarmap-23</link>
+		
+		<dc:creator><![CDATA[Michel Blancard]]></dc:creator>
+		<pubDate>Tue, 14 Jun 2016 15:19:33 +0000</pubDate>
+				<category><![CDATA[Administrateur général des données]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[OpenSolarMap]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10707</guid>
+
+					<description><![CDATA[Après avoir essayé un algorithme très simple, puis un ou plusieurs algorithmes classiques, il est parfois (mais pas toujours) nécessaire de mettre en place un algorithme spécialisé dans le problème à résoudre. Les réseaux de neurones sont une catégorieéd’algorithmes qui ont fait leurs preuves de manière spectaculaire dans le domaine du traitement d’images. Introduction Au &#8230;<p class="read-more"> <a class="" href="/un-reseau-de-neurones-pour-opensolarmap-23"> <span class="screen-reader-text">Un réseau de neurones pour OpenSolarMap (2/3)</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Après avoir essayé un algorithme très simple, puis un ou plusieurs
+algorithmes classiques, il est parfois (mais pas toujours) nécessaire
+de mettre en place un algorithme spécialisé dans le problème à
+résoudre. Les réseaux de neurones sont une catégorieéd’algorithmes qui
+ont fait leurs preuves de manière spectaculaire dans le domaine du
+traitement d’images.</strong></p>
+
+
+
+<h1 class="wp-block-heading" id="introduction">Introduction</h1>
+
+
+
+<p>Au delà de l’effet de mode dont ils bénéficient, les réseaux de
+neurones constituent bel et bien une avancée majeure en traitement
+d’images et dans bien d’autres domaines. Ce champ de recherche
+représente une proportion importante des articles parues dans les
+revues de référence en machine learning : <a href="https://nips.cc/Conferences/2015/AcceptedPapers">NIPS</a> et <a href="http://jmlr.org/proceedings/papers/v37/" class="broken_link">ICML</a>. Le domaine
+jouit également d’une pleine reconnaissance académique comme
+l’illustre la chaire annuelle de l’INRIA au Collège de France en <a href="http://www.college-de-france.fr/site/yann-lecun/">«&nbsp;Informatique
+et sciences numériques&nbsp;»</a> consacrée par Yann LeCun aux réseaux
+neuronaux.  Cette chaire, cours et séminaires inclus, constitue
+d’ailleurs une excellente introduction aux techniques des réseaux
+neuronaux, parmi les multiples ressources disponibles librement sur
+Internet.</p>
+
+
+
+<p>Les réseaux de neurones sont étudiés depuis les années 50 avec
+l’invention du <a href="https://fr.wikipedia.org/wiki/Perceptron">perceptron</a>. Mais
+ceux qui bouleversent la communauté du machine learning depuis 2011 se
+dénomment plus précisément «&nbsp;réseaux de neurones profonds à
+convolution&nbsp;» («&nbsp;deep convolutional neural networks&nbsp;», abrégé parfois
+en CNN pour Convolutional Neural Networks ou encore ConvNets) :<strong>neurone</strong> : Même s&rsquo;il y a une lointaine analogie
+entre les neurones biologiques et les neurones informatiques, ils
+constituent deux domaines d&rsquo;étude à ne pas confondre. Un neurone
+informatique prend en entrée plusieurs valeurs numériques et
+applique une fonction à ces entrées. Le résultat numérique de cette
+fonction constitue l&rsquo;unique sortie du neurone. Le neurone <a href="https://en.wikipedia.org/wiki/Rectifier_(neural_networks)">Rectified
+Linear Unit</a>é(ReLU)éest majoritairement employé : chaque entrée
+estémultipliée par un coefficient (ou poids) puis cette somme est
+renvoyée si elle est positive, zéro est renvoyé sinon. 
+</p>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/neurone-1.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/neurone-1.png" alt="neurone" class="wp-image-681"/></a></figure>
+
+
+
+<p>
+Figure 1 : neurone de type ReLU à 3 entrées.
+
+
+
+&lt;/li&gt; 
+
+ <strong>réseau</strong> : Les
+neurones sont disposés en un réseau qui prend la forme de plusieurs
+couches successives. La première couche prend en entrée les valeurs de
+l&rsquo;image (ou d&rsquo;un autre type d&rsquo;entrée comme du texte ou du son). Les
+sorties de la première couche constituent les entrées de la deuxième
+couche, etc. Les sorties de la dernière couche sont les sorties du
+réseau, mais les valeurs numériques qui transitent entre les couches
+sont cachées à l&rsquo;utilisateur. De là vient en partie leur réputation
+d&rsquo;être des «&nbsp;boîtes noires&nbsp;». 
+<a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/réseau.png">
+</a></p>
+
+
+
+<p>
+Figure 2 : réseau de neurones à 3 couches
+
+&lt;/li&gt; 
+
+ <strong>convolution
+</strong><em>(paragraphe technique à lire en seconde lecture)</em> :
+Les <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network">réseaux
+à convolution</a> opèrent généralement sur des images. La première
+couche de neurones est de la même forme que l&rsquo;image en entrée. La
+sortie de cette première couche, comme toutes les sorties
+intermédiaires, forment des images. Au sein d&rsquo;une couche de neurones,
+les paramètres de chaque neurones sont choisis de telle sorte que la
+couche applique un filtrage linéaire puis une rectification. Un
+filtrage linéaire est la convolution entre une image d&rsquo;entrée et un
+filtre linéaire. Un filtre linéaire, dans le cas du traitement
+d&rsquo;images, se représente come une petite image, typiquement de taille 3
+par 3 pixels ou 5 par 5. Les réseaux à convolution ont l&rsquo;avantage de
+tirer partie de la structure géométrique de l&rsquo;image d&rsquo;entrée. De plus,
+chaque couche de neurones est paramétrée par un filtre linéaire qui
+est beaucoup plus simple à apprendre que dans le cas général. Par
+exemple, pour une image d&rsquo;entrée de 224 par 224 pixel en noir et
+blanc, une couche de neurones de la même taille est composé de 224&#215;224
+neurones et si chaque neurone est connecté à chaque pixel d&rsquo;entrée, il
+y a 222&#215;224 paramètres par neurones. Cela fait un total de
+224x224x224x224 = 2.517.630.976 paramètres pour cette seule couche. Il
+faudrait donc des milliards d&rsquo;images pour faire apprendre correctement
+un tel réseau. En comparaison, paramétrer la couche de neurones par un
+filtre de 3&#215;3 pixels ne requiert d&rsquo;apprendre que 9 valeurs
+numériques. Concrètement, cela revient à mettre la majorité des poids
+des neurones à zéro, et à partager tous les poids restants entre les
+neurones de la couche. Dans un réseau à convolution, des étapes de
+réduction de la taille de l&rsquo;image s&rsquo;intercalent entre les couches de
+neurones. Pour le réseau LeNet 5, deux étapes de réduction, appelées
+«&nbsp;subsampling&nbsp;» alternent avec les deux étapes de convolution. Les
+dernières couchent perdent la structure géométrique en dépliant
+l&rsquo;image sur une dimension, mais le nombre de paramètres à apprendre
+est raisonnable du fait de la petite taille des images.  Enfin, il
+faut préciser que, de la même manière qu&rsquo;une image d&rsquo;entrée peut
+contenir plusieurs canaux de couleur (rouge, vert et bleu par
+exemple), les images intermédiaires se composent de plusieurs
+canaux. Dans le cas de LeNet 5, les images intermédiaires se composent
+de 6 puis de 16 canaux. Au fil de l&rsquo;apprentissage du réseau, chaque
+canal va se spécialiser dans la reconnaissance d&rsquo;une forme géométrique
+particulière.
+
+ <strong>profond</strong> : Les
+réseaux de neurones traditionnels, étudiés dans les années 70,
+utilisaient entre 1 et 3 couches de neurones. On parle de réseaux
+profonds pour parler des architectures avec un nombre élevés de
+couches qui peut dépasser la centaine ! Les couches proches de l&rsquo;image
+d&rsquo;entrée se spécialisent dans la détection de features géométriques
+très simples (des coins, des lignes) alors les couches finales
+détectent des features abstraites qui dépendent de l&rsquo;usage du réseau
+(des lettres pour un réseau de reconnaissance d&rsquo;écriture, des objets,
+des espèces d&rsquo;animaux).   &lt;/ul&gt;
+
+
+</p>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/lenet5.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/lenet5.png" alt="lenet5" class="wp-image-604"/></a></figure>
+
+
+
+<p>
+Fgure 3 : réseau de neurones LeNet 5
+</p>
+
+
+
+<p> Comme tous les algorithmes dits
+supervisés, les réseaux de neurones sont «&nbsp;appris&nbsp;» sur un échantillon
+de données d&rsquo;exemples labellisés. La méthode d&rsquo;apprentissage utilisée,
+nommée <a href="https://en.wikipedia.org/wiki/Backpropagation">backpropagation</a>,
+va modifier petit à petit les paramètres de chaque couche pour
+augmenter la qualité des prédictions jusqu&rsquo;à atteindre une situation
+(localement) optimale. Une fois la phase d&rsquo;apprentissage terminée, le
+réseauéest capable de faire des prédictions sur de nouvelles images.
+</p>
+
+
+
+<p>Les réseaux de neurones présentent des
+performances spectaculaires et inattendues.  Une des enjeux théorique
+actuel est de comprendre ces performances et de les confirmer par des
+garanties théoriques.  C&rsquo;est par exemple l&rsquo;objet des recherches
+actuelle de Stéphane Mallat qui travaille sur la <a href="http://www.di.ens.fr/data/scattering/math/">méthode de
+scattering</a>, apparentée aux réseaux de neurones.  </p>
+
+
+
+<h1 class="wp-block-heading">
+Librairie, réseau et code utilisés
+</h1>
+
+
+
+<h2 class="wp-block-heading">
+Librairie de deep-learning
+</h2>
+
+
+
+<p>
+Les librairies de deep-learning <a href="http://deeplearning.net/software_links/" class="broken_link">ne manquent pas</a>. La
+difficulté est de choisir l&rsquo;outil qui répond le mieux aux besoins du
+projet. Pour répondre aux besoins d&rsquo;OpenSolarMap, l&rsquo;outil idéal
+devra :
+</p>
+
+
+
+<ul><li>
+être utilisable facilement et rapidement, c&rsquo;est-é-dire gérer lui-même la totalité des calculs
+</li><li>
+laisser la possibilité de faire des modifications simples sur le réseau utilisé
+</li><li>
+être en open source pour pouvoir être essayéédans l&rsquo;heure (et passer à un autre outil s&rsquo;il ne correspond pas parfaitement)
+</li><li>
+proposer une API en python car c&rsquo;est le langage que nous utilisons majoritairement à l&rsquo;AGD
+</li><li>
+rassembler une communauté active, pour disposer d&rsquo;exemples d&rsquo;utilisation, pour disposer de nombreuses questions/réponses suré<a href="http://stackoverflow.com/">stackoverflow.com</a>, pour pouvoir compter sur l&rsquo;aide de la communauté en dernier recours
+</li><li>
+en bonus, pouvoir utiliser la <a href="https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units">puissance de calcul des GPU</a>.
+</li></ul>
+
+
+
+<p> Parmi d&rsquo;autres solutions qui auraient
+satisfait ces critères, j&rsquo;ai choisi <a href="http://keras.io/">Keras</a>ésur les recommandations d&rsquo;un
+confrère data-scientist. Je n&rsquo;ai pas eu à regretter ce choix, mais si
+Keras n&rsquo;avait pas convenu, j&rsquo;aurais sans doute testé les outils <a href="http://caffe.berkeleyvision.org/">Caffe</a>, <a href="https://github.com/Lasagne/Lasagne">Lasagne</a>éou le très
+populaire <a href="http://torch.ch/">Torch</a>émême s&rsquo;il est écrit en
+<a href="https://fr.wikipedia.org/wiki/Lua">lua</a>.  </p>
+
+
+
+<h2 class="wp-block-heading">
+Réseau de neurones VGG16
+</h2>
+
+
+
+<p> Concevoir un réseau de neurones est
+une tèche compliquée qui nécessite une expérience approfondie. En
+revanche, utiliser une réseau de neurones déjà prêt est beaucoup plus
+simple et rapide à mettre en éuvre. Le «&nbsp;transfer learning&nbsp;» une
+technique standard expliquée dans cesé<a href="http://cs231n.github.io/transfer-learning/">notes</a>édu <a href="http://vision.stanford.edu/teaching/cs231n/">cours de vision
+CS231n de Standford</a>.  </p>
+
+
+
+<p> Il y a déjà de nombreux réseaux
+pré-entraînés disponibles. Le projet <a href="https://github.com/BVLC/caffe/wiki/Model-Zoo">Model-Zoo</a> de
+l&rsquo;université de Berkeley est une liste de ces réseaux qui est d&rsquo;un
+grand usage pour faire ce choix. Les réseaux listés par Model-Zoo sont
+proposés en Caffe, mais la plupart des modèles sont directement
+utilisables avec d&rsquo;autres librairies. J&rsquo;ai choisi arbitrairement le
+célèbre <a href="http://www.robots.ox.ac.uk/~vgg/research/very_deep/">réseau à 16
+couches VGG16</a>édu <a href="http://www.robots.ox.ac.uk/~vgg/">Visual
+Geometry Group</a> de l&rsquo;université d&rsquo;Oxford utilisé lors de la
+competitioné<a href="http://www.image-net.org/challenges/LSVRC/2014/">ILSVRC de
+2014</a> (ImageNet 2014). Il s&rsquo;agit d&rsquo;un réseau généraliste. D&rsquo;autres
+réseaux auraient pu convenir aussi bien et peut-être même mieux. Ce
+réseau est directement utilisable avec Keras en utilisant le GitHub
+Gist suivant : <a href="https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3">https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3</a>
+</p>
+
+
+
+<pre class="wp-block-preformatted">model = Sequential()
+model.add(ZeroPadding2D((1,1),input_shape=(3,224,224)))
+model.add(Convolution2D(64, 3, 3, activation='relu'))
+model.add(ZeroPadding2D((1,1)))
+model.add(Convolution2D(64, 3, 3, activation='relu'))
+model.add(MaxPooling2D((2,2), strides=(2,2)))
+
+model.add(ZeroPadding2D((1,1)))
+model.add(Convolution2D(128, 3, 3, activation='relu'))
+model.add(ZeroPadding2D((1,1)))
+model.add(Convolution2D(128, 3, 3, activation='relu'))
+model.add(MaxPooling2D((2,2), strides=(2,2)))
+
+model.add(ZeroPadding2D((1,1)))
+model.add(Convolution2D(256, 3, 3, activation='relu'))
+model.add(ZeroPadding2D((1,1)))
+model.add(Convolution2D(256, 3, 3, activation='relu'))
+model.add(ZeroPadding2D((1,1)))
+model.add(Convolution2D(256, 3, 3, activation='relu'))
+model.add(MaxPooling2D((2,2), strides=(2,2)))
+
+model.add(ZeroPadding2D((1,1)))
+model.add(Convolution2D(512, 3, 3, activation='relu'))
+model.add(ZeroPadding2D((1,1)))
+model.add(Convolution2D(512, 3, 3, activation='relu'))
+model.add(ZeroPadding2D((1,1)))
+model.add(Convolution2D(512, 3, 3, activation='relu'))
+model.add(MaxPooling2D((2,2), strides=(2,2)))
+
+model.add(ZeroPadding2D((1,1)))
+model.add(Convolution2D(512, 3, 3, activation='relu'))
+model.add(ZeroPadding2D((1,1)))
+model.add(Convolution2D(512, 3, 3, activation='relu'))
+model.add(ZeroPadding2D((1,1)))
+model.add(Convolution2D(512, 3, 3, activation='relu'))
+model.add(MaxPooling2D((2,2), strides=(2,2)))
+
+model.add(Flatten())
+model.add(Dense(4096, activation='relu'))
+model.add(Dropout(0.5))
+model.add(Dense(4096, activation='relu'))
+model.add(Dropout(0.5))
+model.add(Dense(1000, activation='softmax'))
+</pre>
+
+
+
+<p> La première ligne définit un modèle
+séquentiel. D&rsquo;autre architectures plus compliquées existent, mais le
+réseau VGG16 est un empilement de couches dont chaque couche prend en
+entrée le résultat de la couche précédente. Les lignes </p>
+
+
+
+<pre class="wp-block-preformatted">model.add(Convolution2D(xxx, 3, 3, activation='relu'))
+</pre>
+
+
+
+<p> définissent des couches de neurones
+ReLU avec une taille de filtre de 3 par 3 pixels et un nombre de
+canaux de 34, 128, 256 ou 512. Les lignes </p>
+
+
+
+<pre class="wp-block-preformatted">model.add(MaxPooling2D((2,2), strides=(2,2)))
+</pre>
+
+
+
+<p> définissent les étapes de réduction
+de la taille de l&rsquo;image le long du réseau. La méthode Max Pooling est
+utilisée et chaque étape divise par 2 la taille. Les lignes </p>
+
+
+
+<pre class="wp-block-preformatted">model.add(ZeroPadding2D((1,1)))
+</pre>
+
+
+
+<p> sont un détail d&rsquo;implémentation. Pour
+compenser la taille du filtre de 3 pixels, une bordure de 1 pixel est
+ajouté à l&rsquo;image d&rsquo;entrée avant chaque convolution pour que la sortie
+de la convolution soit de même taille. Enfin, le dernier bloc définit
+3 couches de neurones fully-connected.  </p>
+
+
+
+<p> La taille d&rsquo;entrée spécifiée est 224
+par 224 pixels (par 3 canaux). Chaque couple Zero Padding /
+Convolution ne modifie pas la taille (éventuellement le nombre de
+canaux) et chaque Max Pooling divise la taille par 2 (sans modifier le
+nombre de canaux). On peut en déduire que l&rsquo;opération Flatten prend en
+entrée une image de 7 par 7 pixels avec 512 canaux et renvoie un
+vecteur de taille 25.088. Les deux couches suivantes comptent 4096
+neurones puis la dernière en compte 1000, qui correspondent aux <a href="http://image-net.org/challenges/LSVRC/2014/browse-synsets">1000
+classes à prédire pour la compétition ImageNet</a>.  </p>
+
+
+
+<h1 class="wp-block-heading">
+Modification du réseau
+</h1>
+
+
+
+<p> Le réseau a été entraîné pour classer
+une image parmi 1000 classes de la compétition ImageNet et non pas
+pour distinguer l&rsquo;orientation des toitures. Mais une propriété des
+réseaux de neurones est qu&rsquo;il sont également très efficaces pour
+s&rsquo;adapter à des problèmes voisins.  Seules les dernières couches sont
+spécialisées dans la tèche à accomplir tandis que les premières
+couches résolvent des problèmes de détection très généraux. Le
+transfert learning utilise cet avantage pour utiliser très rapidement
+un réseau pour une nouvelle tèche. La méthode la plus simple, sans
+fine-tuning, a été utilisée pour OpenSolarMap.  </p>
+
+
+
+<h2 class="wp-block-heading">
+Changement de la taille d&rsquo;entrée
+</h2>
+
+
+
+<p> Le réseau VGG16 prend en entrée des
+images de taille 224 par 224, or les images de toits ont une taille
+moyenne de 95 par 93 pixels (voir figure 4). On a le choix d&rsquo;agrandir
+les images avant d&rsquo;appliquer le réseau, ou de changer la taille
+d&rsquo;entrée du réseau vers une valeur plus proche de la taille
+moyenne. La première approche fournirait des images majoritairement
+floues au réseau, c&rsquo;est pourquoi j&rsquo;ai choisi la seconde approche. La
+taille de 96 par 96 est idéale, car après les 5 étapes de réduction,
+la taille de l&rsquo;image intermédiaire tombe «&nbsp;juste&nbsp;» sur 3 par 3 pixels.
+</p>
+
+
+
+<p>
+La ligne 2 du gist est remplacée par :
+</p>
+
+
+
+<pre class="wp-block-preformatted">model.add(ZeroPadding2D((1,1),input_shape=(3,96,96)))
+</pre>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/size.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/size-300x298.png" alt="size" class="wp-image-610"/></a></figure>
+
+
+
+<p>
+Figure 4 : répartition des images de toits par taille (x, y)
+</p>
+
+
+
+<h2 class="wp-block-heading">
+Transfer learning
+</h2>
+
+
+
+<p> Les dernières couches sont
+spécifiques au concours ImagetNet et ne sont pas d&rsquo;utilité ici. Ils
+sont donc retirés et le dernier bloc est remplacé par </p>
+
+
+
+<pre class="wp-block-preformatted">model.add(Flatten())
+</pre>
+
+
+
+<p> Le choix d&rsquo;enlever 3 couches est
+arbitraire. La seule contrainte à respecter est de conserver un nombre
+de features raisonnables, inférieur à 10.000. Avec ce choix, on compte
+alors 3 x 3 x 512 = 4608 featutres en sortie du réseau. Ce n&rsquo;est pas
+une prédiction de la classe, mais ces features peuvent être utilisées
+par un classifieur comme une régression linéaire.  </p>
+
+
+
+<h1 class="wp-block-heading">
+Résultats
+</h1>
+
+
+
+<p> Les 4608 features calculées par le
+réseau alimentent un modèle de régression logistique, régularisé cette
+fois. Le paramètre de régularisation varie et le taux d&rsquo;erreur (figure
+5) affiche une classique courbe en U du <a href="https://fr.wikipedia.org/wiki/Dilemme_biais-variance">dilemme
+biais-variance</a>. C&rsquo;est la valeur qui donne le meilleur résultat qui
+est retenue. La force de la régularisation est un hyperparamètre, donc
+il est indispensable de calculer la performance sur un échantillon de
+validation. Le taux d&rsquo;erreur sur cet échantillon est de 7%.  </p>
+
+
+
+<figure class="wp-block-image"><a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/regul_cnn_lr.png"><img decoding="async" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/regul_cnn_lr-300x213.png" alt="regul_cnn_lr" class="wp-image-611"/></a></figure>
+
+
+
+<p>
+Figure 5 : taux d&rsquo;erreur en fonction de la force de la régularisation
+</p>
+
+
+
+<p> Ce taux d&rsquo;erreur est bien moins bon
+que ce qu&rsquo;il serait possible d&rsquo;obtenir avec des méthodes
+«&nbsp;state-of-the-art&nbsp;». Tout d&rsquo;abord, il faudrait tester d&rsquo;autres
+réseaux que le VGG16, essayer différents choix de couches à enlever
+voire faire du fine-tuning&#8230; Ici, il s&rsquo;agissait surtout de démontrer
+qu&rsquo;il est possible d&rsquo;arriver très rapidement à des résultats
+satisfaisants, en utilisant un réseau, une librairie et du code déjà
+prêts à l&#8217;emploi.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]OpenSolarMap : l&#8217;alliance du crowdsourcing et des data-sciences au service de la connaissance géographique[:]</title>
+		<link>/opensolarmap</link>
+		
+		<dc:creator><![CDATA[Michel Blancard]]></dc:creator>
+		<pubDate>Fri, 10 Jun 2016 05:45:40 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[Réutilisations]]></category>
+		<category><![CDATA[Un peu de technique]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4685</guid>
+
+					<description><![CDATA[[:fr] Quel est le potentiel d&#8217;installation de panneaux solaires du parc immobilier français ? Quel est le pourcentage de toitures qui présentent une surface plate susceptible d&#8217;être végétalisée ?&#8230; : de nombreuses questions, liées à des enjeux économiques majeurs, bénéficieraient d&#8217;une connaissance précise du territoire français qui n&#8217;existe pas toujours.  Le projet OpenSolarMap, visant notamment à &#8230;<p class="read-more"> <a class="" href="/opensolarmap"> <span class="screen-reader-text">[:fr]OpenSolarMap : l&#8217;alliance du crowdsourcing et des data-sciences au service de la connaissance géographique[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<p style="text-align: justify;"><em><strong>Quel est le potentiel d&rsquo;installation de panneaux solaires du parc immobilier français ? Quel est le pourcentage de toitures qui présentent une surface plate susceptible d&rsquo;être végétalisée ?&#8230; : de nombreuses questions, liées à des enjeux économiques majeurs, bénéficieraient d&rsquo;une connaissance précise du territoire français qui n&rsquo;existe pas toujours. </strong></em></p>
+<p style="text-align: justify;"><em><strong>Le <span style="color: #000000;">projet OpenSolarMap,</span> visant notamment à calculer le potentiel énergétique des bâtiments et développé de façon itérative, est la preuve que cette information peut être enrichie avec des moyens modestes, en combinant astucieusement les leviers du crowdsourcing et des data-sciences.</strong></em></p>
+<p style="text-align: justify;"><img decoding="async" class="wp-image-5001 size-thumbnail alignright" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/opensolarmap-150x150.png" alt="opensolarmap" width="150" height="150" srcset="/wp-content/uploads/2016/05/opensolarmap-150x150.png 150w, /wp-content/uploads/2016/05/opensolarmap-300x300.png 300w, /wp-content/uploads/2016/05/opensolarmap-80x80.png 80w, /wp-content/uploads/2016/05/opensolarmap-118x118.png 118w, /wp-content/uploads/2016/05/opensolarmap-239x239.png 239w, /wp-content/uploads/2016/05/opensolarmap.png 401w" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<p style="text-align: justify;"><a href="https://www.openstreetmap.org/">OpenStreetMap</a> est un projet de cartographie collaborative amélioré chaque jour par des milliers de contributeurs bénévoles. La couverture du territoire français est déjà excellente pour les éléments géographiques et les infrastructures les plus importants, mais certaines informations sont encore très incomplètes. C&rsquo;est par exemple le cas de la forme et de l&rsquo;orientation des toitures des bâtiments.</p>
+<p style="text-align: justify;">Ces données, via l&rsquo;évaluation du potentiel en énergie solaire, sont susceptibles d&rsquo;intéresser toute la filière de l&rsquo;énergie solaire. OpenSolarMap présente le moyen, entièrement constitué de code libre, de produire cette information.</p>
+<h1>Classer les toitures en quatre catégories</h1>
+<p style="text-align: justify;">Afin d&rsquo;identifier le bâti propice à l&rsquo;installation de panneaux solaires, il s&rsquo;est agi de classer les toitures dans l&rsquo;une des quatre catégories suivantes:</p>
+<ul>
+<li style="text-align: justify;">toiture orientée au nord et au sud</li>
+<li style="text-align: justify;">toiture orientée à l&rsquo;est et à l&rsquo;ouest</li>
+<li style="text-align: justify;">toiture plate</li>
+<li style="text-align: justify;">toiture complexe ou difficile à classifier</li>
+</ul>
+<p>Le point de départ a été l&rsquo;analyse spatiale des emprises de bâtiments présents dans OpenStreetMap. Les toitures qui n&rsquo;ont pas une orientation alignée avec les points cardinaux sont éliminées par un premier filtre utilisant les données du cadastre. En effet, le cadastre donne la position des murs extérieurs mais pas la position du faîte. Puis c&rsquo;est l&rsquo;image satellite du territoire gracieusement fournie par <a href="https://www.mapbox.com/">Mapbox</a> qui permet d&rsquo;attribuer un bâtiment dans une des quatre classes.</p>
+<p><figure id="attachment_4939" aria-describedby="caption-attachment-4939" style="width: 438px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-4939 size-full" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/classes.png" width="438" height="236" srcset="/wp-content/uploads/2016/05/classes.png 438w, /wp-content/uploads/2016/05/classes-300x162.png 300w" sizes="(max-width: 438px) 100vw, 438px" /><figcaption id="caption-attachment-4939" class="wp-caption-text">Figure 1 : exemples pour chaque classe</figcaption></figure></p>
+<h1>Une interface de crowdsourcing addictive</h1>
+<p style="text-align: justify;">Une telle tâche se prête bien à la <a href="https://fr.wikipedia.org/wiki/Ludification">ludification</a>. Christian Quest, d&rsquo;OpenStreetMap France, imagine alors une interface de contribution simple d&rsquo;utilisation et ouverte à tout le monde.</p>
+<p style="text-align: justify;">L&rsquo;idée plaît au jury du concours Open PACA qui lui accorde le prix de la catégorie « Idée / Concept » en septembre 2015. Il concrétise l&rsquo;idée lors du Climate Change Challenge en novembre 2015, avec l&rsquo;aide d&rsquo;un développeur rencontré lors de l&rsquo;événement : <a href="http://opensolarmap.org/" class="broken_link">opensolarmap.org</a>.</p>
+<p style="text-align: justify;">Avec plus de 100.000 contributions recueillies en moins de 3 semaines, un système de vote permet de <strong>classer avec certitude plus de 10.000 bâtiments</strong>. Les contributions anonymisées sont librement accessibles <a href="https://www.data.gouv.fr/fr/organizations/opensolarmap/#datasets">sur la plateforme data.gouv.fr</a>.</p>
+<p><figure id="attachment_5000" aria-describedby="caption-attachment-5000" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-5000" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/05/example_OpenSolarMap.png" alt="example_OpenSolarMap" width="600" height="460" srcset="/wp-content/uploads/2016/05/example_OpenSolarMap.png 1019w, /wp-content/uploads/2016/05/example_OpenSolarMap-300x230.png 300w, /wp-content/uploads/2016/05/example_OpenSolarMap-768x589.png 768w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-5000" class="wp-caption-text">Figure 2 : plateforme opensolarmap.org</figcaption></figure></p>
+<h1>Un réseau de neurones pour les 99% restants</h1>
+<p style="text-align: justify;"><strong>Cet échantillon recueilli à partir des contributions crowdsourcées a alors permis d&rsquo;entraîner un classifieur automatique : </strong>un programme informatique qui, une fois entraîné sur un nombre suffisant d&rsquo;exemples, est capable de rendre des avis corrects sur de nouveaux cas.</p>
+<p style="text-align: justify;">Parmi les nombreux types de classifieurs adaptés aux images, Michel Blancard, Datascientist chez Etalab, a alors choisi d&rsquo;utiliser un réseau de neurones. Les réseaux de neurones sont une méthode d&rsquo;apprentissage automatique qui donne d&rsquo;excellentes performances sur un large domaine de problèmes et plus particulièrement en traitement d&rsquo;images. Il en existe de nombreuses implémentations libres, rapides à prendre en main et efficaces. Pour ces raisons, les réseaux de neurones constituent souvent une solution idéale, tant pour obtenir rapidement des résultats satisfaisants que pour élaborer soigneusement une solution repoussant l&rsquo;état de l&rsquo;art.</p>
+<p style="text-align: justify;">Au prix d&rsquo;un modification mineure du réseau de neurones <a href="http://www.robots.ox.ac.uk/~vgg/research/very_deep/">VGG16 (Université d&rsquo;Oxford)</a>, les résultats obtenus sont corrects dans 80% des cas. Une estimation de la certitude des résultats permet d&rsquo;ignorer au besoin les résultats trop incertains. <strong>Le code du réseau de neurone adapté est lui aussi libre</strong>, <a href="https://github.com/opensolarmap/solml">accessible sur github</a>, ce qui permet à chacun de repartir de ce travail pour proposer une amélioration des résultats actuels.</p>
+<p><figure id="attachment_4763" aria-describedby="caption-attachment-4763" style="width: 806px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-4763 size-large" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/04/convnet-1024x490.jpeg" alt="convnet" width="806" height="386" srcset="/wp-content/uploads/2016/04/convnet-1024x490.jpeg 1024w, /wp-content/uploads/2016/04/convnet-300x144.jpeg 300w, /wp-content/uploads/2016/04/convnet-768x368.jpeg 768w, /wp-content/uploads/2016/04/convnet.jpeg 1255w" sizes="(max-width: 806px) 100vw, 806px" /><figcaption id="caption-attachment-4763" class="wp-caption-text">Figure 3 : un réseau de neurones applique des transformations successives à une image (voir <a href="http://cs231n.github.io/convolutional-networks/">http://cs231n.github.io/convolutional-networks/</a>)</figcaption></figure></p>
+<p style="text-align: justify;">Le temps de traitement pour une image de toit est d&rsquo;environ une seconde pour un processeur. Pour traiter les 48 millions de toitures référencées par le cadastre, le temps de calcul est donc de 4 mois sur un ordinateur personnel disposant de 4 cœurs ou de 2 semaines sur un ordinateur puissant disposant de 32 cœurs. Nul besoin de disposer de matériel spécialisé pour profiter des dernières avancées en data-sciences ! De plus, avec une carte graphique il serait possible de réduire de beaucoup ce temps de calcul.</p>
+<p style="text-align: justify;">Ces résultats seront reversés sur le projet <a href="http://openstreetmap.fr/">OpenStreetMap</a> afin d&rsquo;être librement accessibles à tous. Le code source de la plateforme de crowdsourcing et du classifieur automatique est hébergé sur la plateforme <a href="https://github.com/opensolarmap">GitHub</a>. Il est possible d&rsquo;en savoir plus sur la partie datasciences du projet <a href="https://agd.data.gouv.fr/2016/06/17/opensolarmap-cote-data-sciences-03/">sur le blog de l&rsquo;AGD</a>.</p>
+<p style="text-align: justify;">Ces méthodes sont susceptibles d&rsquo;être répliquées dans toute un variété de cas pour compléter la connaissance de l&rsquo;information géographique, et d&rsquo;améliorer ainsi certaines politiques publiques : classification à partir d&rsquo;images des toitures pour des emplacements pour panneaux de solaires, pour jardins urbains, optimisation dans le domaine des transports en ville (zebra de bus&#8230;)</p>
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

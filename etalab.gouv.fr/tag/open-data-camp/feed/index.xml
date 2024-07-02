@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>open data camp &#8211; Etalab</title>
+	<atom:link href="/tag/open-data-camp/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Thu, 08 Sep 2016 15:03:53 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>open data camp &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[:fr]#OpenAsso le 10 septembre : découvrez données ouvertes et associations participantes[:]</title>
+		<link>/openasso-le-10-septembre-decouvrez-donnees-ouvertes-et-associations-participantes</link>
+		
+		<dc:creator><![CDATA[Claire-Marie Foulquier-Gazagnes]]></dc:creator>
+		<pubDate>Tue, 06 Sep 2016 15:47:58 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[Ecosystème]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[associations]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data camp]]></category>
+		<category><![CDATA[openasso]]></category>
+		<guid isPermaLink="false">/?p=5365</guid>
+
+					<description><![CDATA[[:fr] Le 10 septembre, Etalab organise le premier open data camp autour de données ouvertes par des associations : #OpenAsso. Cette journée permettra de diffuser la culture de la donnée dans le monde associatif et faire se rencontrer activistes et geeks. 7 associations ouvrent leurs données et proposent des défis autour de celles-ci. Experts de &#8230;<p class="read-more"> <a class="" href="/openasso-le-10-septembre-decouvrez-donnees-ouvertes-et-associations-participantes"> <span class="screen-reader-text">[:fr]#OpenAsso le 10 septembre : découvrez données ouvertes et associations participantes[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]
+<p style="text-align: justify;">Le 10 septembre, Etalab organise le <a href="/openasso-le-10-septembre-aidez-les-associations-a-ouvrir-leurs-donnees">premier open data camp autour de données ouvertes par des associations</a> : #OpenAsso. Cette journée permettra de diffuser la culture de la donnée dans le monde associatif et faire se rencontrer activistes et geeks. 7 associations ouvrent leurs données et proposent des défis autour de celles-ci. Experts de la donnée, venez mettre vos compétences au service d&rsquo;une bonne cause le temps d&rsquo;une journée en vous <a href="https://rdv.etalab.gouv.fr/e/3/openasso-aidez-les-associations-a-ouvrir-leurs-donnees">inscrivant ici</a>.</p>
+<p style="text-align: justify;"><span id="more-5365"></span></p>
+<p>En préparation d&rsquo;#OpenAsso, les 6 associations partenaires ouvrent sur <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a> leurs données et proposent aux participants à la journée du 10 septembre des défis fondés sur les données.</p>
+<h4><span style="color: #000080;">Transparency France</span></h4>
+<p style="text-align: justify;">La <a href="https://transparency-france.org/">branche française de Transparency International</a> vient de publier la <a href="https://www.data.gouv.fr/fr/datasets/affaires-de-corruption-en-france-par-transparency-international-france-1/">base de données du site www.visualiserlacorruption.fr</a>. Cette base, crowdsourcée par des volontaires, recense les condamnations pour corruption ou autres atteintes à la probité parue dans la presse.<br />
+<strong>Le défi </strong>: Comment automatiser l&rsquo;anonymisation des condamnation et l&rsquo;extraction de données issues de la presse ? Comment mieux représenter les données sur une carte ?</p>
+<div data-udata-dataset-id="579a327388ee385e59d73ff6"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<h4><span style="color: #000080;">Oxfam France</span></h4>
+<p>En mars dernier, <a href="https://www.oxfamfrance.org/">Oxfam France</a> a publié des <a href="/publication-sur-data-gouv-fr-de-donnees-comptables-sur-les-cinq-grandes-banques-francaises-par-oxfam-france">données comptables sur les 5 plus grandes banques françaises</a>. Ces données avaient été collectées pendant de nombreux mois auprès des banques, parfois à la main. Elles avaient servi de base au rapport « <a href="https://www.data.gouv.fr/s/resources/en-quete-de-transparence-sur-la-piste-des-banques-francaises-dans-les-paradis-fiscaux/20160323-144336/Rapport_Sur_la_piste_des_banques_francaises_def_Oxfam_CCFD_Secours_Catholique.pdf">En quête de transparence</a>« .<br />
+<strong>Le défi </strong>: Comment s&rsquo;inspirer des données déjà ouvertes pour préparer le nouveau rapport d&rsquo;Oxfam sur un champ européen ? Comment automatiser au maximum l&rsquo;extraction de données issues de rapports bancaires en PDF ?</p>
+<div data-udata-dataset-id="56f29b4fc751df683f53faef"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<h4><span style="color: #000080;">Croix Rouge française<br />
+</span></h4>
+<p style="text-align: justify;">La <a href="http://www.croix-rouge.fr/">Croix Rouge française</a> met depuis 2014 des données à disposition sur data.gouv.fr. Elle y a ajouté des données inédites sur ses <a href="https://www.data.gouv.fr/fr/datasets/liste-des-benevoles-actifs-de-la-croix-rouge-francaise/">bénévoles actifs</a>, ses <a href="https://www.data.gouv.fr/fr/datasets/liste-des-actions-des-delegations-de-la-croix-rouge-francaise-1/">actions</a> et une <a href="https://www.data.gouv.fr/fr/datasets/liste-des-structures-de-la-croix-rouge-francaise/">liste actualisée de ses structures</a>.<br />
+<strong>Les défis</strong> : Comment optimiser l’implantation de la Croix-Rouge sur le territoire au regard des indicateurs socio-économiques ? Comment optimiser l’engagement des bénévoles dans les structures Croix-Rouge ?</p>
+<div data-udata-dataset-id="57cec0f788ee380ddbb627a9"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<div data-udata-dataset-id="57cebf6188ee380b7db627a9"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<div data-udata-dataset-id="57cebed888ee380992b627a9"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<h4><span style="color: #000080;">World Resources Institute</span></h4>
+<p>L&rsquo;ONG <a href="http://www.wri.org/">World Resources Institute</a> produit un grand nombre de données, notamment climatiques. Ils mettent désormais à disposition sur data.gouv.fr des données sur les <a href="https://www.data.gouv.fr/fr/datasets/cait-country-greenhouse-gas-emissions-data/">émissions à effet de serre pour 186 pays</a> et leurs <a href="https://www.data.gouv.fr/fr/datasets/cait-paris-contributions-data/">engagements pris dans le cadre de la COP21</a>.<br />
+<strong>Le défi</strong> : Comment représenter les engagements de la COP21 par rapport aux émissions effectives ?</p>
+<div data-udata-dataset-id="57c6dff7c751df24c697bae5"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<div data-udata-dataset-id="57c6de60c751df225897bae5"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<h4><span style="color: #000080;">WikiMedia France </span></h4>
+<p><a href="http://www.wikimedia.fr/">WikiMedia France</a> a publié en mars dernier les <a href="https://www.data.gouv.fr/fr/datasets/subdivisions-administratives-francaises-issues-de-wikidata/">subdivisions administratives françaises, telles qu&rsquo;issues de WikiData</a>. Elles sont maintenant enrichies d&rsquo;une <a href="https://www.data.gouv.fr/fr/datasets/listes-de-personnalites-issues-de-wikidata-1/">extraction des députés français</a>.<br />
+<strong>Le défi</strong> : Quels nouveaux liens imaginer entre WikiData et data.gouv.fr ? Comment nettoyer des données WikiData pour constituer une base de donnée fiable, par exemple dans le cas des communes françaises ?</p>
+<div data-udata-dataset-id="57cd85dec751df33bf97bae5"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<div data-udata-dataset-id="56ec468e88ee38265ee1a643"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<h4><span style="color: #000080;">La Quadrature du Net</span></h4>
+<p style="text-align: justify;">La <a href="https://www.laquadrature.net/fr">Quadrature du Net</a> avec le projet <a href="http://www.memopol.org/">Memopol </a>collecte des données sur les votes des parlementaires européens et des parlementaires des pays membres de l&rsquo;Union européenne sur des sujets liés aux libertés sur internet.<br />
+<strong>Le défi</strong> : Comment crowdsourcer des données dans la presse sur les positions publiques des élus ? Comment rapprocher les positions des élus et les points de vue des utilisateurs dans une application utilisant les principes des sites de rencontre ?</p>
+<p style="text-align: justify;"><em><strong>Pour participer à la résolution de ces défis proposés par les associations, <a href="https://rdv.etalab.gouv.fr/e/3/openasso-aidez-les-associations-a-ouvrir-leurs-donnees">merci de vous inscrire ici</a>. L&rsquo;événement est organisé au SenseCube en partenariat avec MakeSense, Ecole des données et Data for Good.</strong><br />
+</em></p>
+[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]#OpenAsso le 10 septembre : aidez les associations à ouvrir leurs données[:]</title>
+		<link>/openasso-le-10-septembre-aidez-les-associations-a-ouvrir-leurs-donnees</link>
+		
+		<dc:creator><![CDATA[Claire-Marie Foulquier-Gazagnes]]></dc:creator>
+		<pubDate>Wed, 22 Jun 2016 14:20:25 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[associations]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data camp]]></category>
+		<category><![CDATA[openasso]]></category>
+		<guid isPermaLink="false">/?p=5060</guid>
+
+					<description><![CDATA[[:fr] Depuis 2013, le portail www.data.gouv.fr accueille les données ouvertes par les administrations, mais aussi par les entreprises,  citoyens et associations. Le 10 septembre 2016, un open data camp accompagnera pour la première fois les associations dans leurs ouvertures de données. Vous souhaitez partager vos compétences en collecte, analyse et visualisation de données avec les &#8230;<p class="read-more"> <a class="" href="/openasso-le-10-septembre-aidez-les-associations-a-ouvrir-leurs-donnees"> <span class="screen-reader-text">[:fr]#OpenAsso le 10 septembre : aidez les associations à ouvrir leurs données[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]
+<p style="text-align: justify;">Depuis 2013, le portail <a href="https://www.data.gouv.fr/fr/">www.data.gouv.fr</a> accueille les données ouvertes par les administrations, mais aussi par les entreprises,  citoyens et associations. Le 10 septembre 2016, un open data camp accompagnera pour la première fois les associations dans leurs ouvertures de données. Vous souhaitez partager vos compétences en collecte, analyse et visualisation de données avec les associations ? Les inscriptions sont ouvertes ci-dessous.</p>
+<p><span id="more-5060"></span></p>
+<h4>Un premier open data camp autour des données ouvertes par les associations</h4>
+<p style="text-align: justify;">Le portail <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a> rassemble des données associatives d&rsquo;intérêt général comme la <a href="https://www.data.gouv.fr/fr/organizations/croix-rouge-francaise/#datasets">géolocalisation des unités de la Croix rouge</a>, les <a href="https://www.data.gouv.fr/fr/datasets/delai-d-attente-rendez-vous-pediatre-0/">délais d&rsquo;attente chez le pédiatre d&rsquo;après UFC que choisir</a>, ou plus récemment des <a href="https://www.data.gouv.fr/fr/datasets/transparence-donnees-comptables-pays-par-pays-des-5-plus-grandes-banques-francaises/">données comptables concernant les banques françaises collectées par Oxfam France</a>.</p>
+<p style="text-align: justify;">Le 10 septembre, ces associations et d&rsquo;autres comme <a href="https://transparency-france.org/">Transparency France</a>, <a href="https://www.one.org/fr/">ONE Franc</a>e et le <a href="http://www.wri.org/">World Resources Institute</a> ouvriront de nouvelles données. Pour tirer le meilleur parti de ces jeux de données, qui concerneront des sujets aussi divers que les condamnations pour faits de corruption ou les engagements de la COP21, ces associations comptent sur les communautés de spécialistes de la collecte, analyse et visualisation de données.</p>
+<p><strong>Un appel à compétence pour résoudre les défis data des associations</strong></p>
+<p style="text-align: justify;">Organisé à <a href="http://www.sensespace.cc/">SenseSpace</a>, un lieu dédié à entrepreneuriat social (<span class="_Xbe">11 Rue Biscornet, 75012 Paris</span>) le 10 septembre, l&rsquo;open data camp #OpenAsso débutera à 9h30 par des courtes présentations des associations qui proposeront leurs défis dans le traitement et la visualisation des données qu&rsquo;elles collectent. Autour de ces défis, des petits groupes de spécialistes de la données et de membres des associations seront formés. Ils seront accompagnés dans leurs travaux par les équipes d&rsquo;Etalab, mais aussi de <a href="https://www.makesense.org/">MakeSense</a>, <a href="http://www.bayesimpact.org/">Data for Good</a> et <a href="http://ecoledesdonnees.org/">L&rsquo;école des données</a>, partenaires de l&rsquo;événement. A 17h, les restitutions permettront aux équipes de présenter leurs réutilisations de données aux responsables associatifs, avant un verre convivial.</p>
+<p style="text-align: justify;">Vous savez collecter, analyser, traiter ou visualiser des données ? N&rsquo;hésitez pas à vous inscrire pour aider les associations durant une journée à réutiliser leurs données ouvertes.</p>
+<h3 style="text-align: center;">&gt;&gt;&gt; <span style="text-decoration: underline;"><span style="color: #0000ff;"><a style="color: #0000ff; text-decoration: underline;" href="https://rdv.etalab.gouv.fr/e/3/openasso-aidez-les-associations-a-ouvrir-leurs-donnees">INSCRIPTION</a> </span></span>&lt;&lt;&lt;</h3>
+[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]18-25 ans : postulez à l&#8217;Open Data Youth Camp &#8211; Saison 2[:]</title>
+		<link>/18-25-ans-postulez-a-lopen-data-youth-camp-saison-2</link>
+		
+		<dc:creator><![CDATA[Claire-Marie Foulquier-Gazagnes]]></dc:creator>
+		<pubDate>Mon, 20 Jun 2016 09:31:30 +0000</pubDate>
+				<category><![CDATA[Autour du monde]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[Réutilisations]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data camp]]></category>
+		<guid isPermaLink="false">/?p=5040</guid>
+
+					<description><![CDATA[[:fr] En 2015, 3 jeunes français, accompagnés d&#8217;une experte, avaient participé à l&#8217;Open Data Youth Camp en Croatie pour découvrir l&#8217;open data. Ils en étaient revenu avec une conviction « l’accès aux données est un droit, et l’open data en est l’outil«  et des « exemples concrets d’utilisation de l’open data au service des citoyens » testés dans &#8230;<p class="read-more"> <a class="" href="/18-25-ans-postulez-a-lopen-data-youth-camp-saison-2"> <span class="screen-reader-text">[:fr]18-25 ans : postulez à l&#8217;Open Data Youth Camp &#8211; Saison 2[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]
+<p style="text-align: justify;">En 2015, 3<a href="/les-jeunes-et-lopen-data"> jeunes français, accompagnés d&rsquo;une experte</a>, avaient participé à l&rsquo;<em>Open Data Youth Camp</em> en Croatie pour découvrir l&rsquo;open data. Ils en étaient revenu avec une conviction « <a href="/la-nouvelle-generation-de-lopen-data-retours-dexperience-de-lopen-data-youth-camp">l’accès aux données est un droit, et l’open data en est l’outil</a><em>« </em> et des « <a href="/la-nouvelle-generation-de-lopen-data-retours-dexperience-de-lopen-data-youth-camp">exemples concrets d’utilisation de l’open data au service des citoyens</a> » testés dans le cadre de « <a href="/la-nouvelle-generation-de-lopen-data-retours-dexperience-de-lopen-data-youth-camp">projets collectifs</a>« . Cette année, avec le soutien renouvelé de l&rsquo;<a href="http://www.ambafrance-hr.org/">Ambassade de France en Croatie</a> et du <a href="https://vlada.gov.hr/en">gouvernement croate</a>, plusieurs jeunes français pourront participer à cette seconde édition.</p>
+<p style="text-align: justify;"><span id="more-5040"></span></p>
+<p style="text-align: justify;">Vous avez entre 18 et 25 ans, un intérêt pour les données ouvertes et vous parlez anglais ? Le <a href="https://vlada.gov.hr/en">gouvernement de Croatie</a>, l’<a href="http://www.ambafrance-hr.org/">ambassade de France en Croatie</a> et <a href="http://www.modernisation.gouv.fr/le-sgmap/organisation/etalab">Etalab</a> vous invitent à postuler ci-dessous à l’<em>Open Data Youth Camp </em><span style="color: #000000;"><strong>avant le 29 juin 16h</strong>.</span></p>
+<p style="text-align: justify;">Du 28 août au 3 septembre, cet Open Data Youth Camp initiera aux données ouvertes une quarantaine de jeunes participants venus de Croatie, du Royaume-Uni, du Canada, de Serbie, de Bosnie-Herzégovine, du Montenegro, du Kosovo et de France. Formés puis répartis en équipes, ils développeront pendant une semaine un projet fondé sur les données ouvertes. Des experts venus de ces huit pays accompagneront les groupes. À la suite de cet <em>Open Data Youth Camp</em>, les participants français seront invités à partager leur expérience sur le <a href="/la-nouvelle-generation-de-lopen-data-retours-dexperience-de-lopen-data-youth-camp">blog d’Etalab</a>.</p>
+<p style="text-align: justify;">La semaine se déroulera à <strong><a href="https://fr.wikipedia.org/wiki/Rovinj">Rovinj</a> en Croatie du 28 août au 3 septembre</strong>. Le transport depuis une ville de France métropolitaine, le logement et les repas seront pris en charge par l’ambassade de France en Croatie et le gouvernement croate. L’anglais sera la langue de travail.</p>
+<p style="text-align: justify;">Les finalistes seront sélectionnés par l&rsquo;ambassade de France en Croatie et Etalab à partir du questionnaire ci-dessous et contactés le <span style="color: #000000;">30 juin</span>.</p>
+<p style="text-align: justify;">Cette coopération entre la France et la Croatie sur le sujet des données ouvertes est un exemple d’échanges entre pairs permis par le <a href="http://www.opengovpartnership.org/">Partenariat pour un gouvernement ouvert</a>, dont <a href="/la-france-presidera-le-partenariat-pour-un-gouvernement-ouvert">la France prendra la présidence en octobre 2016</a>. Ces échanges seront mis en avant lors du <a href="https://fr.ogpsummit.org/osem/conference/ogp-summit">Sommet Mondial du Partenariat, organisé à Paris du 7 au 9 décembre 2016</a>.</p>
+<p>&gt;&gt;&gt; <strong>La date limite de candidature est dépassée. Réponse aux candidats le 30 juin en fin de journée. </strong>&lt;&lt;&lt;[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]#HackFrancophonie Jour 2 &#8211; Open Data Camp autour des données ouvertes dans la Francophonie [:]</title>
+		<link>/hackfrancophonie-jour-2-open-data-camp-autour-des-donnees-ouvertes-dans-la-francophonie</link>
+		
+		<dc:creator><![CDATA[Claire-Marie Foulquier-Gazagnes]]></dc:creator>
+		<pubDate>Wed, 24 Feb 2016 10:44:35 +0000</pubDate>
+				<category><![CDATA[Événements]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[hackfrancophonie]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data camp]]></category>
+		<guid isPermaLink="false">/?p=4394</guid>
+
+					<description><![CDATA[Revivez l'open data camp #HackFrancophonie réunissant +8 pays de la Francophonie, le 19 février 2016 à Paris ]]></description>
+										<content:encoded><![CDATA[[:fr]
+<p style="text-align: justify;">Après la <a href="/hackfrancophonie-jour-1-ateliers-sur-louverture-des-donnees-entre-gouvernements-francophones">journée de partage d&rsquo;expérience entre gouvernements et société civile</a>, l&rsquo;open data camp #HackFrancophonie se tenait au <a href="https://paris.numa.co/">NUMA </a>le 19 février. Organisé par Etalab, <a href="http://www.anptic.gov.bf/index.php/actualites/news/94-burkina-open-data-initiative-bodi" target="_blank">Burkina Open Data Initiative</a> (BODI), la <a href="http://donnees.banquemondiale.org/" target="_blank">Banque Mondiale</a> et <a href="http://www.cfi.fr/">CFI</a>, cette journée de travail collaboratif visait à développer des projets sur les données ouvertes par des pays francophones. En plus des gouvernements et organisations de la société civile venus de toute la Francophonie, l&rsquo;écosystème parisien s&rsquo;est fortement mobilisé. Plus d&rsquo;une centaine de participants ont contribué à la réussite de l&rsquo;événement ! Neuf projets en ont découlé, dont certains devraient se prolonger dans les mois à venir.</p>
+<p style="text-align: justify;"><span id="more-4394"></span></p>
+<p><strong><span style="color: #808080;">Les données ouvertes dans les pays francophones comme matière première</span><br />
+</strong></p>
+<p style="text-align: justify;">Les participants à l&rsquo;open data camp ont conçu leurs projets en lien avec les données ouvertes dans les pays francophones. Si le Burkina Faso a développé le <a href="http://data.gov.bf/" target="_blank">premier portail de données ouvertes d’Afrique francophone</a>, beaucoup de pays de la région n&rsquo;en sont pas encore dotés. C&rsquo;est pourquoi les participants et l&rsquo;équipe d&rsquo;Etalab ont recensé en amont de l&rsquo;événement les données ouvertes au <a class="internal present" href="https://github.com/etalab/HackFrancophonie/wiki/B%C3%A9nin">Bénin</a>, <a class="internal present" href="https://github.com/etalab/HackFrancophonie/wiki/Burkina-Faso">Burkina Faso</a>, <a class="internal present" href="https://github.com/etalab/HackFrancophonie/wiki/C%C3%B4te-d%27Ivoire">Côte d&rsquo;Ivoire</a>, <a class="internal present" href="https://github.com/etalab/HackFrancophonie/wiki/Ha%C3%AFti">Haïti</a>, <a class="internal present" href="https://github.com/etalab/HackFrancophonie/wiki/Ile-Maurice">Ile Maurice</a>, <a class="internal present" href="https://github.com/etalab/HackFrancophonie/wiki/Mali">Mali</a> et <a class="internal present" href="https://github.com/etalab/HackFrancophonie/wiki/S%C3%A9n%C3%A9gal">Sénégal</a> sur les thèmes suivants : <a href="https://github.com/etalab/HackFrancophonie/wiki/Cartographie">Cartographie</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/D%C3%A9mocratie">Démocratie</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/Economie">Economie</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/Education">Education</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/Population">Population</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/S%C3%A9curit%C3%A9">Sécurité</a> et <a href="https://github.com/etalab/HackFrancophonie/wiki/Sant%C3%A9">Santé</a>.  Ces données, souvent éparses, ont été trouvées sur les sites des instituts statistiques nationaux ou sur des portails dédiés émanant de la société civile. Un <a href="https://github.com/etalab/HackFrancophonie/wiki">wiki #HackFrancophonie librement consultable et éditable</a> a été créé pour les centraliser.</p>
+<p style="text-align: justify;"><strong><span style="color: #808080;">Des équipes aux compétences et origines mixtes</span><br />
+</strong></p>
+<p style="text-align: justify;">Formées autour de projets présentés par leurs porteurs le matin de l&rsquo;open data camp, les équipes mélangeaient des membres des gouvernements et de la société civile venues de 8 pays francophones et 3 continents, notamment <a href="http://www.africtivistes.org/!/">Africtivistes</a>, <a href="https://www.facebook.com/CitoyenBalayeur">le Balai Citoyen</a>, <a href="http://jokkolabs.net/">Jokkolabs</a>, <a href="http://openstreetmapmali.org/">OpenStreetMap Mali</a>, l<a href="http://lefaso.net/">efaso.net</a>, <a href="http://www.wanep.org/">WANEP</a>, <a href="http://savanefm.radio.fr/">Savane FM</a> et <a href="http://www.socialjustice-ci.net/">Social Justice</a>. Des acteurs du développement français, comme l&rsquo;<a href="http://www.afd.fr/home">AFD</a>, l&rsquo;<a href="http://institut.inra.fr/">INRA</a> ou le <a href="http://www.diplomatie.gouv.fr/fr/">Ministère des affaires étrangères</a>, ou internationaux, comme <a href="http://www.paris21.org/fr">Paris21</a>, l&rsquo;<a href="http://www.paris21.org/fr">IFC</a>, l&rsquo;<a href="http://www.francophonie.org/">OIF</a> ou <a href="http://www.godan.info/">GODAN</a>, ont participé. L&rsquo;écosystème français, représenté entre autres par <a href="https://www.opendatasoft.com/fr/">OpenDataSoft</a>, par des acteurs de la cartographie, comme <a href="http://openstreetmap.fr/">OpenStreetMap France</a>, <a href="https://www.cartong.org/fr">CartONG</a>, <a href="https://hotosm.org/projects/espace_osm_francophone_0">OSM Espace Francophone</a> et <a href="http://urbacongo.info/">UrbaCongo</a>, ou par des ONGs comme <a href="http://republiquecitoyenne.fr/">République Citoyenne</a>, s&rsquo;est également mobilisé.</p>
+<p style="text-align: justify;"><img class="alignleft wp-image-4430 size-full" src="/wp-content/uploads/2016/02/CblXV3WVIAA9CMH.jpg-large.jpg" alt="CblXV3WVIAA9CMH.jpg large" width="2048" height="529" srcset="/wp-content/uploads/2016/02/CblXV3WVIAA9CMH.jpg-large.jpg 2048w, /wp-content/uploads/2016/02/CblXV3WVIAA9CMH.jpg-large-300x77.jpg 300w, /wp-content/uploads/2016/02/CblXV3WVIAA9CMH.jpg-large-768x198.jpg 768w, /wp-content/uploads/2016/02/CblXV3WVIAA9CMH.jpg-large-1024x265.jpg 1024w, /wp-content/uploads/2016/02/CblXV3WVIAA9CMH.jpg-large-150x38.jpg 150w" sizes="(max-width: 2048px) 100vw, 2048px" /></p>
+<p>&nbsp;</p>
+<p><strong><span style="color: #808080;">En une journée, les participants ont initiés des projets cartographiques&#8230;</span><br />
+</strong></p>
+<p style="text-align: justify;"><a href="http://julienjego.github.io/hackfrancophonie/"><img loading="lazy" class="alignleft wp-image-4407 size-thumbnail" src="/wp-content/uploads/2016/02/2016-02-23-16_46_58-Mozilla-Firefox-150x150.png" alt="2016-02-23 16_46_58-Mozilla Firefox" width="150" height="150" srcset="/wp-content/uploads/2016/02/2016-02-23-16_46_58-Mozilla-Firefox-150x150.png 150w, /wp-content/uploads/2016/02/2016-02-23-16_46_58-Mozilla-Firefox-80x80.png 80w, /wp-content/uploads/2016/02/2016-02-23-16_46_58-Mozilla-Firefox-118x118.png 118w, /wp-content/uploads/2016/02/2016-02-23-16_46_58-Mozilla-Firefox-239x239.png 239w" sizes="(max-width: 150px) 100vw, 150px" /></a>Le projet « <a href="https://github.com/etalab/HackFrancophonie/wiki/Cartographie-des-r%C3%A9seaux-urbains-de-bus">Cartographie des réseaux de bus</a>« , porté par <a href="https://www.cartong.org/fr">CartONG</a>, a transposé un projet réalisé à <a href="http://rutas.mapanica.net/">Managua (Nicaragua)</a> à Antananarivo (Madagascar). A partir de la base OpenStreetMap, les données locales des trajets de bus ont pu être extraites et <a href="http://julienjego.github.io/hackfrancophonie/">visualisées dans la journée</a>. La prochaine étape du projet serait d&rsquo;imprimer et de distribuer des plans papiers aux riverains.</p>
+<p style="text-align: justify;"><span style="color: #ffffff;">_____</span></p>
+<p style="text-align: justify;"><span style="color: #ffffff;">&#8211;</span></p>
+<p style="text-align: justify;"><a href="http://tasks.hotosm.org/project/1075"><img loading="lazy" class="alignleft wp-image-4408 size-thumbnail" src="/wp-content/uploads/2016/02/2016-02-23-16_52_50-OSM-Tasking-Manager-1075-Bamako-Mali-150x150.png" alt="2016-02-23 16_52_50-OSM Tasking Manager - #1075 - Bamako (Mali)" width="150" height="150" srcset="/wp-content/uploads/2016/02/2016-02-23-16_52_50-OSM-Tasking-Manager-1075-Bamako-Mali-150x150.png 150w, /wp-content/uploads/2016/02/2016-02-23-16_52_50-OSM-Tasking-Manager-1075-Bamako-Mali-80x80.png 80w, /wp-content/uploads/2016/02/2016-02-23-16_52_50-OSM-Tasking-Manager-1075-Bamako-Mali-118x118.png 118w, /wp-content/uploads/2016/02/2016-02-23-16_52_50-OSM-Tasking-Manager-1075-Bamako-Mali-239x239.png 239w" sizes="(max-width: 150px) 100vw, 150px" /></a>Le projet « Co-construire une souveraineté cartographique » s&rsquo;est employé à <a href="http://tasks.hotosm.org/project/1075">cartographier à distance la ville de Bamako (Mali)</a>. Grâce au <a href="http://tasks.hotosm.org/">gestionnaire de tâche d&rsquo;OpenStreetMap</a>, des participants sur le terrain ont pu se joindre aux efforts de l&rsquo;équipe parisienne sur la « tâche 1075 ». A cette occasion, plusieurs participants à l&rsquo;open data camp ont pu s&rsquo;initier à la cartographie à distance, aiguillés par des membres d&rsquo;<a href="http://openstreetmapmali.org/">OpenStreetMap Mali</a> et de l&rsquo;<a href="https://hotosm.org/projects/espace_osm_francophone_0">Espace OSM Francophone</a>.</p>
+<p>&nbsp;</p>
+<p><strong><br />
+<span style="color: #808080;">&#8230;des projets éducatifs </span> </strong></p>
+<p style="text-align: justify;"><a href="http://nendo.data.gov.bf/appli_accueil.php"><img loading="lazy" class="alignleft size-thumbnail wp-image-4413" src="/wp-content/uploads/2016/02/NENDO-150x150.png" alt="NENDO" width="150" height="150" srcset="/wp-content/uploads/2016/02/NENDO-150x150.png 150w, /wp-content/uploads/2016/02/NENDO-80x80.png 80w, /wp-content/uploads/2016/02/NENDO-118x118.png 118w, /wp-content/uploads/2016/02/NENDO-239x239.png 239w" sizes="(max-width: 150px) 100vw, 150px" /></a>Les porteurs du projet « <a href="http://nendo.data.gov.bf/appli_accueil.php">Nos Ecoles, Nos Données</a> V2&Prime;, créé par la <a href="http://www.anptic.gov.bf/index.php/actualites/news/94-burkina-open-data-initiative-bodi" target="_blank">Burkina Open Data Initiative</a>, ont développé une seconde version de l&rsquo;application lors de la journée. Celle-ci permet, pour le gouvernement, une meilleure planification de l&rsquo;implantation d&rsquo;établissements scolaires et, pour les parents d&rsquo;élèves, un choix de scolarisation informé. Une localisation plus fine des établissements burkinabè et un moteur de recherche ont pu être élaborés et devraient être prochainement déployés sur la plateforme.</p>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><a href="http://nbviewer.jupyter.org/format/slides/url/www.stats4dev.com/prez/Presentation_Hackfrancophonie.ipynb#/11"><img loading="lazy" class="alignleft size-thumbnail wp-image-4416" src="/wp-content/uploads/2016/02/2016-02-23-17_34_12-Jupyter-Notebook-Viewer-150x150.png" alt="2016-02-23 17_34_12-Jupyter Notebook Viewer" width="150" height="150" srcset="/wp-content/uploads/2016/02/2016-02-23-17_34_12-Jupyter-Notebook-Viewer-150x150.png 150w, /wp-content/uploads/2016/02/2016-02-23-17_34_12-Jupyter-Notebook-Viewer-80x80.png 80w, /wp-content/uploads/2016/02/2016-02-23-17_34_12-Jupyter-Notebook-Viewer-118x118.png 118w, /wp-content/uploads/2016/02/2016-02-23-17_34_12-Jupyter-Notebook-Viewer-239x239.png 239w" sizes="(max-width: 150px) 100vw, 150px" /></a>Le projet « <a href="http://nbviewer.jupyter.org/format/slides/url/www.stats4dev.com/prez/Presentation_Hackfrancophonie.ipynb#/">Ecole au Mali : où investir ?</a> » a utilisé les <a href="https://github.com/etalab/HackFrancophonie/wiki/Mali">données ouvertes du Mali</a> pour identifier les zones géographiques dans lesquelles implanter des écoles, afin de résoudre les inégalités d’accès à l’éducation. Des premiers enseignements ont pu être tirés en identifiant, avec une granularité territoriale fine, les zones dans lesquelles un déficit d&rsquo;enseignants par école est constaté. Ces travaux pourraient guider les choix des décideurs publics maliens en matière d&rsquo;aménagement territorial.</p>
+<p>&nbsp;</p>
+<p><strong><span style="color: #808080;">&#8230;des projets démocratiques</span><br />
+</strong></p>
+<p><img loading="lazy" class="alignleft size-thumbnail wp-image-4421" src="/wp-content/uploads/2016/02/2016-02-23-17_47_44-Conseil-des-ministres-leFaso-150x150.png" alt="2016-02-23 17_47_44-Conseil des ministres - leFaso" width="150" height="150" srcset="/wp-content/uploads/2016/02/2016-02-23-17_47_44-Conseil-des-ministres-leFaso-150x150.png 150w, /wp-content/uploads/2016/02/2016-02-23-17_47_44-Conseil-des-ministres-leFaso-80x80.png 80w, /wp-content/uploads/2016/02/2016-02-23-17_47_44-Conseil-des-ministres-leFaso-118x118.png 118w, /wp-content/uploads/2016/02/2016-02-23-17_47_44-Conseil-des-ministres-leFaso-239x239.png 239w" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<p style="text-align: justify;">Le projet « <a href="https://github.com/AlexisEidelman/ConseilMinistreBurkina">Fais GAF &#8211; Gouvernance Accès Facile</a> » a exploité les <a href="http://lefaso.net/spip.php?rubrique64">données collectées par le site d&rsquo;information le.faso.net</a> sur les décisions prises lors du Conseil des ministres du Burkina Faso, afin d&rsquo;assurer une meilleure redevabilité de celles-ci. Il peut s&rsquo;agir de nominations, mais aussi d&rsquo;attributions de marchés publics. Lors de la journée, l&rsquo;équipe a pu transformer les compte-rendus en base de données. La prochaine étape du projet serait l&rsquo;élaboration d&rsquo;un moteur de recherche et un système d’alerte sur ces données.</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="alignleft size-thumbnail wp-image-4418" src="/wp-content/uploads/2016/02/data-village-150x150.png" alt="data village" width="150" height="150" srcset="/wp-content/uploads/2016/02/data-village-150x150.png 150w, /wp-content/uploads/2016/02/data-village-80x80.png 80w, /wp-content/uploads/2016/02/data-village-118x118.png 118w, /wp-content/uploads/2016/02/data-village-239x239.png 239w" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<p style="text-align: justify;">Le projet « <a href="http://403debc4-bffb-4f28-bba4-56289f6bb953.pub.cloud.scaleway.com/">Data Village</a> » a proposé un espace de discussion autour des données locales, couplé à <a href="https://datavillageofficiel.opendatasoft.com/explore/dataset/donnees-data-village/map/?location=7,7.29164,-5.64148">une plateforme de données ouvertes</a>. Le forum se centre sur la question de la gestion des collectivités décentralisées de Côte d&rsquo;Ivoire (conseils municipaux et régionaux) et cherche à promouvoir les meilleures pratiques en matière de démocratie participative et de gouvernance locale. Il est <a href="http://403debc4-bffb-4f28-bba4-56289f6bb953.pub.cloud.scaleway.com/t/bienvenue-sur-le-forum-data-village/8">ouvert aux contributions</a>.</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="alignleft size-thumbnail wp-image-4422" src="/wp-content/uploads/2016/02/2016-02-23-17_58_57-HackFrancophonie-150x150.png" alt="2016-02-23 17_58_57-#HackFrancophonie" width="150" height="150" srcset="/wp-content/uploads/2016/02/2016-02-23-17_58_57-HackFrancophonie-150x150.png 150w, /wp-content/uploads/2016/02/2016-02-23-17_58_57-HackFrancophonie-80x80.png 80w, /wp-content/uploads/2016/02/2016-02-23-17_58_57-HackFrancophonie-118x118.png 118w, /wp-content/uploads/2016/02/2016-02-23-17_58_57-HackFrancophonie-239x239.png 239w" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<p style="text-align: justify;">Le projet « <a href="https://github.com/etalab/HackFrancophonie/wiki/Democratie-2.0-au-S%C3%A9n%C3%A9gal">Parlement 2.0</a> » s&rsquo;est inspiré de la démarche de Regards Citoyens avec <a href="http://www.nosdeputes.fr/">nosdeputes.fr</a> en France afin de décliner un portail de suivi de l&rsquo;activité parlementaire au Sénégal. Lors de la journée, l&rsquo;équipe a identifié des sources de données exploitables ainsi que des stratégies de mobilisation des citoyens, notamment par SMS, et des outils d&rsquo;analyse de données. La prochaine étape du projet serait le développement d&rsquo;un portail ad-hoc pour la sous-région.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><span style="color: #808080;">&#8230;et des projets économiques et financiers</span><br />
+</strong></p>
+<p><img loading="lazy" class="alignleft size-thumbnail wp-image-4409" src="/wp-content/uploads/2016/02/2016-02-23-17_01_01-HackFrancophonie-150x150.png" alt="2016-02-23 17_01_01-#HackFrancophonie" width="150" height="150" srcset="/wp-content/uploads/2016/02/2016-02-23-17_01_01-HackFrancophonie-150x150.png 150w, /wp-content/uploads/2016/02/2016-02-23-17_01_01-HackFrancophonie-80x80.png 80w, /wp-content/uploads/2016/02/2016-02-23-17_01_01-HackFrancophonie-118x118.png 118w, /wp-content/uploads/2016/02/2016-02-23-17_01_01-HackFrancophonie-239x239.png 239w" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<p style="text-align: justify;">Le projet « <a href="https://github.com/etalab/HackFrancophonie/wiki/Atelier-Fili%C3%A8re-Coton">Filière coton</a>« , notamment soutenu par l&rsquo;<a href="http://institut.inra.fr/">INRA</a>, l&rsquo;<a href="http://www.paris21.org/fr">IFC</a> et <a href="http://www.godan.info/">GODAN</a>, a défini une stratégie d&rsquo;utilisation de la donnée ouverte pour améliorer la productivité du coton au Burkina Faso. Des données d&rsquo;humidité des sols et météorologiques ont été analysées à cet effet. Un hackathon prolongeant cette thématique pourrait voir le jour localement.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="alignleft size-thumbnail wp-image-4412" src="/wp-content/uploads/2016/02/2016-02-23-17_07_46-HackFrancophonie-150x150.png" alt="2016-02-23 17_07_46-#HackFrancophonie" width="150" height="150" srcset="/wp-content/uploads/2016/02/2016-02-23-17_07_46-HackFrancophonie-150x150.png 150w, /wp-content/uploads/2016/02/2016-02-23-17_07_46-HackFrancophonie-80x80.png 80w, /wp-content/uploads/2016/02/2016-02-23-17_07_46-HackFrancophonie-118x118.png 118w, /wp-content/uploads/2016/02/2016-02-23-17_07_46-HackFrancophonie-239x239.png 239w" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<p style="text-align: justify;">Le projet « <a href="https://github.com/etalab/HackFrancophonie/wiki/Transparence-budget-%3A-crise-Ebola">Transparence financière Ebola</a> » a suivi les flux de dépenses liées au système de santé malien lors de l&rsquo;épidémie Ebola. L&rsquo;équipe a montré le potentiel d&rsquo;une étude d&rsquo;impact des aides accordées à la suite de crises sanitaires. Les participants se sont confrontés à un manque de normalisation des données financières et d&rsquo;insuffisance de leur mise à jour, compliquant leurs analyses.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="color: #808080;"><strong>Retrouvez les restitutions des neuf projets développés lors de #HackFrancophonie</strong></span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://www.slideshare.net/slideshow/embed_code/key/4afQRO3FwbiI5a" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> </p>
+<div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/Etalab/hackfrancophonie-58605439" title="#HackFrancophonie" target="_blank">#HackFrancophonie</a> </strong> from <strong><a href="https://www.slideshare.net/Etalab" target="_blank">Etalab</a></strong> </div>
+<p><strong><span style="color: #808080;">Revivez le déroulé de l&rsquo;open data camp #HackFrancophonie</span><br />
+</strong></p>
+<p>https://storify.com/etalab/hackfrancophonie[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]#HackFrancophonie Jour 1 &#8211; Ateliers sur l&#8217;ouverture des données entre gouvernements francophones [:]</title>
+		<link>/hackfrancophonie-jour-1-ateliers-sur-louverture-des-donnees-entre-gouvernements-francophones</link>
+		
+		<dc:creator><![CDATA[Guillaume Thibault]]></dc:creator>
+		<pubDate>Mon, 22 Feb 2016 18:20:55 +0000</pubDate>
+				<category><![CDATA[Événements]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[hackfrancophonie]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data camp]]></category>
+		<guid isPermaLink="false">/?p=4371</guid>
+
+					<description><![CDATA[[:fr] Pour le premier jour de #HackFrancophonie, Etalab accueillait le 18 février 2016 une quinzaine de représentants de sept pays francophones : Burkina Faso, Belgique, Côte d’Ivoire, Haïti, Ile Maurice, Mali et Sénégal. Organisée en partenariat avec la Banque Mondiale et le Partenariat pour un gouvernement ouvert, cette journée visait à échanger les meilleures pratiques de &#8230;<p class="read-more"> <a class="" href="/hackfrancophonie-jour-1-ateliers-sur-louverture-des-donnees-entre-gouvernements-francophones"> <span class="screen-reader-text">[:fr]#HackFrancophonie Jour 1 &#8211; Ateliers sur l&#8217;ouverture des données entre gouvernements francophones [:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]
+<p style="text-align: justify;">Pour le premier jour de <a href="/hackfrancophonie-un-open-data-camp-autour-des-donnees-ouvertes-par-les-pays-francophones">#HackFrancophonie</a>, Etalab accueillait le 18 février 2016 une quinzaine de représentants de sept pays francophones : Burkina Faso, Belgique, Côte d’Ivoire, Haïti, Ile Maurice, Mali et Sénégal. Organisée en partenariat avec la <a href="http://donnees.banquemondiale.org/" target="_blank">Banque Mondiale</a> et le <a href="http://www.opengovpartnership.org/">Partenariat pour un gouvernement ouvert</a>, cette journée visait à échanger les meilleures pratiques de politique d&rsquo;ouverture des données. Les participants ont également préparé l&rsquo;open data camp du lendemain en recensant données et projets.</p>
+<p style="text-align: justify;">En parallèle, <a href="http://www.cfi.fr/">CFI</a> formait dans ses locaux les représentants des sociétés civiles francophones, venus de ces mêmes pays et du Bénin, à l&rsquo;open data, avec la participation d&rsquo;Etalab, <a href="https://hotosm.org/fr" target="_blank">Humanitarian OpenStreetMap</a>, <a href="https://www.regardscitoyens.org/" target="_blank">Regards citoyens</a> et <a href="http://www.aef.info/developpement-durable" target="_blank">AEF Développement durable</a>.</p>
+<p style="text-align: justify;"><span id="more-4371"></span></p>
+<p style="text-align: justify;"><span style="color: #808080;"><strong>Des ateliers d&rsquo;échange de bonnes pratiques animés par Etalab<br />
+</strong></span></p>
+<p style="text-align: justify;">La matinée était consacrée à une rotation par petits groupes entre six ateliers de trente minutes sur des thèmes variés, animés par l&rsquo;équipe d&rsquo;Etalab : mise en œuvre d&rsquo;un portail de données ouvertes, animation d&rsquo;un écosystème de ré-utilisateurs de données, fondements juridiques de l&rsquo;open data et production participative de données géographiques sur l&rsquo;exemple de la <a href="https://adresse.data.gouv.fr/">Base adresse nationale</a>. Les participants ont profité de ce format convivial pour multiplier les retours d’expérience et les débats.</p>
+<p style="text-align: justify;"><img loading="lazy" class="aligncenter size-full wp-image-4373" src="/wp-content/uploads/2016/02/CbfIk4CWwAAJeUR.jpg" alt="CbfIk4CWwAAJeUR" width="600" height="600" srcset="/wp-content/uploads/2016/02/CbfIk4CWwAAJeUR.jpg 600w, /wp-content/uploads/2016/02/CbfIk4CWwAAJeUR-150x150.jpg 150w, /wp-content/uploads/2016/02/CbfIk4CWwAAJeUR-300x300.jpg 300w, /wp-content/uploads/2016/02/CbfIk4CWwAAJeUR-80x80.jpg 80w, /wp-content/uploads/2016/02/CbfIk4CWwAAJeUR-118x118.jpg 118w, /wp-content/uploads/2016/02/CbfIk4CWwAAJeUR-239x239.jpg 239w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p style="text-align: justify;">Ils ont pu bénéficier de la présence de deux correspondants open data, venus du Ministère de l’Environnement, de l&rsquo;Energie et de la Mer  et du Ministère de l’Intérieur pour échanger sur leur rôle et leur mission d&rsquo;ouverture de données au sein de leurs administrations. De leur côté les équipes du Partenariat pour un gouvernement ouvert ont animé un atelier sur les procédures d’adhésion au Partenariat, que la Côte d&rsquo;Ivoire vient de rejoindre. Ces deux ateliers témoignent de l’importance de la collaboration dans les politiques d’ouverture de données.</p>
+<p style="text-align: justify;"><span style="color: #808080;"><strong>Les réalisations du Burkina Faso mises à l’honneur</strong></span></p>
+<p style="text-align: justify;">Dans l’après-midi, les équipes du <a href="http://www.anptic.gov.bf/index.php/actualites/news/94-burkina-open-data-initiative-bodi" target="_blank">Burkina Open Data Initiative</a> (BODI), soutenues par la Banque Mondiale, ont présenté leurs travaux. En plus du développement du <a href="http://data.gov.bf/" target="_blank">premier portail de données ouvertes d’Afrique francophone</a>, le BODI a présenté deux de ses projets emblématiques : <a href="http://nendo.data.gov.bf/" target="_blank">Nos écoles, nos données</a>, une plateforme collaborative de recensement d’information sur les établissements scolaires, et <a href="http://www.burkina2015.bf/" target="_blank">Open Elections</a>, une mise à disposition en temps réel des résultats électoraux. Ce dernier projet constitue une réussite exemplaire dans une région où les résultats peuvent faire l’objet de contestations. Le Burkina a exprimé son souhait d&rsquo;avancer le développement de ces projets, avec l&rsquo;aide des autres participants, lors de l&rsquo;open data camp.</p>
+<p style="text-align: justify;"><img loading="lazy" class="aligncenter size-full wp-image-4374" src="/wp-content/uploads/2016/02/CbgD8kTXEAAh9uX.jpg-large.jpg" alt="CbgD8kTXEAAh9uX.jpg large" width="1024" height="448" srcset="/wp-content/uploads/2016/02/CbgD8kTXEAAh9uX.jpg-large.jpg 1024w, /wp-content/uploads/2016/02/CbgD8kTXEAAh9uX.jpg-large-300x131.jpg 300w, /wp-content/uploads/2016/02/CbgD8kTXEAAh9uX.jpg-large-768x336.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p style="text-align: justify;"><span style="color: #808080;"><strong>Un temps de préparation de l&rsquo;open data camp<br />
+</strong></span></p>
+<p style="text-align: justify;">Pour conclure cette journée, les équipes d’Etalab et les participants ont réalisé un dernier sprint pour recenser sur <a href="https://github.com/etalab/HackFrancophonie/wiki" target="_blank">le wiki collaboratif de #HackFrancophonie</a> un maximum de jeux de données disponibles dans les pays francophones, portant leur nombre à près d’une centaine, sur des thèmes aussi variés que <a href="https://github.com/etalab/HackFrancophonie/wiki/Education" target="_blank">l’éducation</a>, la <a href="https://github.com/etalab/HackFrancophonie/wiki/Démocratie" target="_blank">démocratie</a> ou la <a href="https://github.com/etalab/HackFrancophonie/wiki/Justice" target="_blank">justice</a>.</p>
+<p style="text-align: justify;">En permettant aux acteurs de l’open data francophone de se rassembler et d&rsquo;échanger, Etalab et ses partenaires veulent donner une nouvelle impulsion à la Francophonie des données, sous le signe de la collaboration concrète. Un premier effort avait été initié dans la session « <a href="/la-francophonie-nouvelle-frontiere-des-donnees-ouvertes">La Francophonie, nouvelle frontière des données ouvertes</a> » organisée lors de la 3ème Conférence Internationale sur les données ouvertes. Dans la perspective du la présidence française du <a href="http://www.opengovpartnership.org/" target="_blank">Partenariat pour un gouvernement ouvert</a>, d&rsquo;autres initiatives pourraient voir le jour dans les prochains mois.</p>
+<ul>
+<li><strong>Article à venir : Hackfrancophonie Jour 2 &#8211; La journée collaborative</strong></li>
+</ul>
+<p><em>Retrouvez le Storify de la journée ci-dessous :</em></p>
+<p><a href="https://storify.com/etalab/hackfrancophonie-jour-1" target="_blank"><img loading="lazy" class="aligncenter wp-image-4389 " src="/wp-content/uploads/2016/02/2016-02-22-19_17_32-Modifier-l’article-‹-Le-blog-de-la-mission-Etalab-—-WordPress.png" alt="2016-02-22 19_17_32-Modifier l’article ‹ Le blog de la mission Etalab — WordPress" width="738" height="489" srcset="/wp-content/uploads/2016/02/2016-02-22-19_17_32-Modifier-l’article-‹-Le-blog-de-la-mission-Etalab-—-WordPress.png 916w, /wp-content/uploads/2016/02/2016-02-22-19_17_32-Modifier-l’article-‹-Le-blog-de-la-mission-Etalab-—-WordPress-300x199.png 300w, /wp-content/uploads/2016/02/2016-02-22-19_17_32-Modifier-l’article-‹-Le-blog-de-la-mission-Etalab-—-WordPress-768x509.png 768w" sizes="(max-width: 738px) 100vw, 738px" /></a>[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]#HackFrancophonie : contribuez au wiki recensant les données ouvertes francophones [:]</title>
+		<link>/hackfrancophonie-contribuez-au-wiki-recensant-les-donnees-ouvertes-francophones</link>
+		
+		<dc:creator><![CDATA[Guillaume Thibault]]></dc:creator>
+		<pubDate>Mon, 08 Feb 2016 18:29:11 +0000</pubDate>
+				<category><![CDATA[Données]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[hackfrancophonie]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data camp]]></category>
+		<guid isPermaLink="false">/?p=4312</guid>
+
+					<description><![CDATA[[:fr] Dans deux semaines, l&#8217;open data camp #HackFrancophonie rassemblera à Paris les acteurs de l’ouverture de données venus de huit pays francophones. Dans une démarche de co-construction, il vous est possible de participer au recensement des données ouvertes dans les pays francophones sur un  wiki. Ce wiki servira de matière première à l&#8217;open data camp &#8230;<p class="read-more"> <a class="" href="/hackfrancophonie-contribuez-au-wiki-recensant-les-donnees-ouvertes-francophones"> <span class="screen-reader-text">[:fr]#HackFrancophonie : contribuez au wiki recensant les données ouvertes francophones [:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]
+<p style="text-align: justify;">Dans deux semaines, l&rsquo;open data camp <a href="/hackfrancophonie-un-open-data-camp-autour-des-donnees-ouvertes-par-les-pays-francophones" target="_blank">#HackFrancophonie</a> rassemblera à Paris les acteurs de l’ouverture de données venus de huit pays francophones. Dans une démarche de co-construction, il vous est possible de participer au recensement des données ouvertes dans les pays francophones sur un  <a href="https://github.com/etalab/HackFrancophonie/wiki" target="_blank">wik</a>i. Ce wiki servira de matière première à l&rsquo;open data camp du 19 février.</p>
+<p style="text-align: justify;"><span id="more-4312"></span></p>
+<p style="text-align: justify;">Mis à disposition par Etalab dans <a href="https://github.com/etalab/HackFrancophonie" target="_blank">un répertoire Github,</a> ce wiki a pour but de recenser les jeux de données disponibles dans les pays francophones participants. Les jeux de données sont classés :</p>
+<ul style="text-align: justify;">
+<li>par pays participant : <a href="https://github.com/etalab/HackFrancophonie/wiki/B%C3%A9nin">Bénin</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/Burkina-Faso">Burkina Faso</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/Cote-d%27Ivoire">Côte d&rsquo;Ivoire</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/Ha%C3%AFti">Haïti</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/Ile-Maurice">Ile Maurice</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/Mali">Mali</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/R%C3%A9publique-D%C3%A9mocratique-du-Congo">RDC</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/S%C3%A9n%C3%A9gal">Sénégal</a></li>
+<li style="text-align: justify;">par catégorie : à ce jour, <a href="https://github.com/etalab/HackFrancophonie/wiki/Cartographie">Cartographie</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/D%C3%A9mocratie">Démocratie</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/Economie">Economie</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/Education">Education</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/Population">Population</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/S%C3%A9curit%C3%A9">Sécurité</a>, <a href="https://github.com/etalab/HackFrancophonie/wiki/Sant%C3%A9">Santé</a></li>
+</ul>
+<p style="text-align: justify;">Ils proviennent de producteurs de données officiels, comme les agences statistiques nationales ou la Banque Mondiale, ainsi que d&rsquo;initiatives open data portés par des acteurs de la société civile comme OpenStreetMap ou Open Knowledge.</p>
+<p style="text-align: justify;">Les contributeurs intéressés sont invités à s&rsquo;inscrire sur Github. La <a href="https://github.com/etalab/HackFrancophonie/wiki">page d&rsquo;accueil du wiki HackFrancophonie</a> décrit les trois étapes d&rsquo;ajout d&rsquo;un jeu des données dans le wiki, sous un <a href="https://github.com/etalab/HackFrancophonie/wiki/Jeu-de-donn%C3%A9es-%C3%A0-prendre-pour-mod%C3%A8le">format normalisé</a> (informations sur sa fréquence, sa licence, son producteur, sa couverture géographique etc). Il est également possible de référencer des sources externes de données (portails de données ouvertes, site web, compte Git&#8230;) qui rassembleraient d&rsquo;autres ressources intéressantes.</p>
+<p style="text-align: justify;">Cette approche participative permet à tous de mieux se familiariser avec les données disponibles pour proposer des projets à développer au cours de la <a href="/hackfrancophonie-un-open-data-camp-autour-des-donnees-ouvertes-par-les-pays-francophones">journée du 19 février</a>. Via le wiki, les participants peuvent désormais rajouter des <a href="https://github.com/etalab/HackFrancophonie/wiki/Id%C3%A9es-d%27ateliers-potentiels">idées d&rsquo;ateliers</a> qu&rsquo;ils aimeraient proposer lors de l&rsquo;open data camp. L&rsquo;équipe d&rsquo;Open Data Burkina Faso propose par exemple des projets sur la <a href="https://github.com/etalab/HackFrancophonie/wiki/Transparence-des-%C3%A9lections" target="_blank">transparence des élections</a> ou la <a href="https://github.com/etalab/HackFrancophonie/wiki/Nos-%C3%89coles,-Nos-Donn%C3%A9es" target="_blank">cartographie des écoles</a>.</p>
+<p style="text-align: justify;">A la fin de l&rsquo;open data camp du 19 février, les réalisations seront rendues disponibles sur le Github pour permettre à tous de les découvrir et de contribuer à l&rsquo;avancée des projets.</p>
+<p style="text-align: justify;"><em><a href="https://www.eventbrite.fr/e/billets-hackfrancophonie-20421875379">HackFrancophonie</a> aura lieu le 19 février au <a href="https://paris.numa.co/">NUMA,</a> à l&rsquo;initiative d&rsquo;Etalab et d&rsquo;<a href="http://data.gov.bf/" target="_blank">Open Data Burkina Faso</a>, en partenariat avec la <a href="http://donnees.banquemondiale.org/" target="_blank">Banque Mondiale</a>, <a href="http://www.cfi.fr/" target="_blank">CFI Medias</a> et le <a href="/ogp" target="_blank">Partenariat pour un gouvernement ouvert. </a> L&rsquo;événement vise à contribuer à des projets de réutilisations de données ouvertes pour le développeement. <a href="https://github.com/etalab/HackFrancophonie/wiki/Liste-des-participants">Seront rassemblés</a> des acteurs institutionnels de l&rsquo;open data dans les pays francophones, avec la présence des équipes open data du Sénégal, de la Côte d&rsquo;Ivoire et de la Belgique tout comme des responsables de l&rsquo;innovation de l&rsquo;Île Maurice ou du Mali ainsi que des statisticiens d&rsquo;Haïti. La société civile sera également représentée, par des responsables d&rsquo;ONGs et d&rsquo;association comme <a href="http://jokkolabs.net/" target="_blank">Jokkolabs</a>, <a href="http://www.africtivistes.org/">Africtivistes</a>, <a href="http://www.socialjustice-ci.net/">Social Justice</a> ou du <a href="https://fr-fr.facebook.com/CitoyenBalayeur">Balai Citoyen</a>, des journalistes de <a href="http://lefaso.net/">lefaso.net</a> de <a href="http://www.savanefm.net/">SavanneFM</a> et des web-journalistes.<br />
+</em></p>
+[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]#HackFrancophonie, un open data camp autour des données ouvertes par les pays francophones [:]</title>
+		<link>/hackfrancophonie-un-open-data-camp-autour-des-donnees-ouvertes-par-les-pays-francophones</link>
+		
+		<dc:creator><![CDATA[Claire-Marie Foulquier-Gazagnes]]></dc:creator>
+		<pubDate>Mon, 11 Jan 2016 19:16:00 +0000</pubDate>
+				<category><![CDATA[Événements]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[hackfrancophonie]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data camp]]></category>
+		<guid isPermaLink="false">/?p=4158</guid>
+
+					<description><![CDATA[[:fr] Parce qu&#8217;elles deviennent le nouveau langage du 21ème siècle, les pays francophones, comme la France ou le Burkina Faso, ouvrent leurs données. Pour en révéler tout le potentiel, Etalab et Open Data Burkina Faso, en partenariat avec la Banque Mondiale, CFI Medias et le Partenariat pour un gouvernement ouvert, organisent le 19 février avec &#8230;<p class="read-more"> <a class="" href="/hackfrancophonie-un-open-data-camp-autour-des-donnees-ouvertes-par-les-pays-francophones"> <span class="screen-reader-text">[:fr]#HackFrancophonie, un open data camp autour des données ouvertes par les pays francophones [:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]
+<div style="text-align: justify;">Parce qu&rsquo;elles deviennent le nouveau langage du 21ème siècle, les pays francophones, comme la France ou le Burkina Faso, ouvrent leurs données. Pour en révéler tout le potentiel, Etalab et <a href="http://data.gov.bf/">Open Data Burkina Faso</a>, en partenariat avec la <a href="http://donnees.banquemondiale.org/">Banque Mondiale</a>, <a href="http://www.cfi.fr/">CFI Medias</a> et le <a href="/ogp">Partenariat pour un gouvernement ouvert</a>, organisent le 19 février avec et au <a href="http://paris.numa.co/">NUMA</a> (Paris) un <a href="http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/video-un-open-data-camp-c-est-quoi">open data camp</a> : #HackFrancophonie.</div>
+<p style="text-align: justify;"><span id="more-4158"></span></p>
+<p style="text-align: justify;">Plus de 8 pays de la Francophonie et 3 continents seront représentés par les équipes gouvernementales et les associations locales travaillant sur les données ouvertes. Elles viendront avec leurs projets concrets de réutilisation de données ouvertes, à des stades différents d&rsquo;avancement, leur connaissance du terrain et leurs compétences techniques. Les participants mettront au service du développement des pays francophones leurs techniques de traitement mais aussi de production collaborative de données (ex: crowdsourcing de données géospatiales) et partageront leurs ressources en données et en logiciel libre (ex : data.gouv.fr).</p>
+<p style="text-align: justify;">Co-organisatrise de l&rsquo;événement avec Etalab, l&rsquo;équipe gouvernementale du Burkina Faso en charge de l&rsquo;open data cherchera par exemple à approfondir ses projets de géolocalisation des écoles, de réutilisation des données électorales et d&rsquo;adaptation au changement climatique de la filière coton. Des associations, comme le <a href="https://fr-fr.facebook.com/CitoyenBalayeur">Balai citoyen</a> ou <a href="http://www.socialjustice-ci.net/">Social Justice</a>, explorerons les applications des données ouvertes, par exemple électorales ou extractives, pour une meilleure redevabilité des gouvernements et information des citoyens.</p>
+<p style="text-align: justify;">Organisée le 19 février au <a href="http://paris.numa.co/">NUMA</a> (Paris), cette journée de travail collaboratif sera divisée en deux temps :</p>
+<ul style="text-align: justify;">
+<li>De 9h à 17h : après une présentation en 2 minutes de chaque personne souhaitant proposer un axe de travail pour la journée, les participants se répartiront en une dizaine d&rsquo;équipes et développeront leurs projets durant la journée, en apportant leurs compétences en développement informatique, analyse et visualisation de données, ou expertise du secteur.</li>
+<li>De 17h à 19h : les équipes restitueront l&rsquo;avancée des projets, en présentant par exemple les idées, applications et data-visualisations réalisées au cours de la journée, en présence d&rsquo;acteurs majeurs du développement international, et un cocktail permettra de poursuivre les échanges.</li>
+</ul>
+<p style="text-align: justify;">Les inscriptions à cet événement public sont ouvertes <a href="https://www.eventbrite.fr/e/billets-hackfrancophonie-20421875379">ICI pour la journée entière ou pour uniquement les restitutions</a>.</p>
+<div style="text-align: justify;">
+<p style="text-align: justify;">En faisant travaillant ensemble des acteurs aux compétences et horizons divers, HackFrancophonie permettra un partage pratique de compétences autour de projets fondés sur les données ouvertes. Les réalisations de cette journée contribueront à démontrer en quoi l&rsquo;open data est un puissant instrument pour le développement des pays francophones et, à terme, à créer une véritable Francophonie des données ouvertes.</p>
+</div>
+<div style="text-align: justify;"></div>
+<div style="text-align: justify;"><img loading="lazy" class="aligncenter wp-image-4169 size-medium" src="/wp-content/uploads/2016/01/Capture1-300x227.png" alt="Capture(1)" width="300" height="227" srcset="/wp-content/uploads/2016/01/Capture1-300x227.png 300w, /wp-content/uploads/2016/01/Capture1-768x582.png 768w, /wp-content/uploads/2016/01/Capture1.png 804w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Open Data Camp : la vie quotidienne en données &#8211; 17/10[:]</title>
+		<link>/open-data-camp-la-vie-quotidienne-en-donnees</link>
+		
+		<dc:creator><![CDATA[Paula Forteza]]></dc:creator>
+		<pubDate>Fri, 02 Oct 2015 16:45:59 +0000</pubDate>
+				<category><![CDATA[Données]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[Hackathon]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data camp]]></category>
+		<guid isPermaLink="false">/?p=3766</guid>
+
+					<description><![CDATA[[:fr]S’engager, se déplacer, se former, s’alimenter… : l’open data investit la vie quotidienne lors de la Semaine de l’innovation publique. A cette occasion, Etalab organise un open data camp qui met les données ouvertes au cœur de notre vie de tous les jours. L’évènement aura lieu samedi 17 octobre, de 9 : 30 à 19 &#8230;<p class="read-more"> <a class="" href="/open-data-camp-la-vie-quotidienne-en-donnees"> <span class="screen-reader-text">[:fr]Open Data Camp : la vie quotidienne en données &#8211; 17/10[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]<strong>S’engager, se déplacer, se former, s’alimenter</strong>… : l’open data investit la vie quotidienne lors de <a href="http://www.modernisation.gouv.fr/la-semaine-de-linnovation-publique">la Semaine de l’innovation publique.</a> A cette occasion, Etalab organise un open data camp qui met les données ouvertes au cœur de notre vie de tous les jours. L’évènement aura lieu <strong>samedi 17 octobre</strong>, de <strong>9 : 30 à 19 :00</strong> à l’<a href="http://anticafe.eu/cafe/AntiCaf@InnovationFactory">AntiCafé Innovation Factory </a>(59 Rue Nationale, M° Olympiades – 14).</p>
+<p>Durant cette journée, porteurs de projets et réutilisateurs de données se retrouveront pour poursuivre ou proposer des initiatives élaborées à partir de données ouvertes, afin d&rsquo;analyser un sujet, de développer un service ou de résoudre un problème. Agents publics, datascientists, chercheurs, codeurs, designers et associations travailleront ensemble. Chaque participant peut dès à présent <a href="https://mensuel.framapad.org/p/OpenDataCamp">proposer un sujet ici</a>.</p>
+<p>Les 20 000 séries de données de data.gouv.fr vous attendent. Parmi elles, quelques exemples de données, notamment parmi celles publiées récemment, et de thématiques de la vie quotidienne susceptibles de vous inspirer :</p>
+<p><strong>S’engager</strong><br />
+&#8211; <a href="/le-ministere-de-linterieur-ouvre-les-donnees-des-resultats-electoraux-par-bureaux-de-vote-depuis-1999">21 jeux de données sur les résultats des élections par bureaux de vote depuis 1999 </a><em>(récent)</em><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/organizations/ministere-des-finances-et-des-comptes-publics/">Les comptes des collectivités locales</a> <em>(récent)</em><br />
+&#8211; Les données de la Direction de l’information légale et administrative : les bases <a href="https://www.data.gouv.fr/fr/datasets/cass/">CASS</a>, <a href="https://www.data.gouv.fr/fr/datasets/inca/">INCA</a>, <a href="https://www.data.gouv.fr/fr/datasets/capp/">CAPP</a>, <a href="https://www.data.gouv.fr/fr/datasets/jade/">JADE</a>, <a href="https://www.data.gouv.fr/fr/datasets/bodacc/">BODACC</a>, <a href="https://www.data.gouv.fr/fr/datasets/boamp/">BOAMP</a> et <a href="https://www.data.gouv.fr/fr/datasets/balo/">BALO</a> <em>(récent)</em><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/organizations/assemblee-nationale/">Données de l’Assemblée Nationale</a> <em>(récent)</em><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/organizations/sciences-po/">Historique des résultats des élections depuis 1965</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/datasets/associations/">Données du Journal officiel des associations, associations syndicales de propriétaires et fondations d’entreprise</a></p>
+<p><strong>Se déplacer</strong><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/organizations/openstreetmap/">Données géographiques d&rsquo;Open Street Map France</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/datasets/base-de-donnees-accidents-corporels-de-la-circulation/">Base de données des accidents corporels de la circulation</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/organizations/regie-autonome-des-transports-parisiens-ratp/">Données RATP</a></p>
+<p><strong>Se former<br />
+&#8211;</strong> <a href="https://www.data.gouv.fr/fr/datasets/effectifs-des-ecoles-du-premier-degre-public-et-prive-sous-tutelle-du-ministere-en-charge-de-leducation-nationale/">Effectif des établissements du premier degré</a> et <a href="https://www.data.gouv.fr/fr/datasets/effectifs-des-etablissements-du-second-degre-public-et-prive-sous-tutelle-du-ministere-en-charge-de-leducation-nationale/">du second degré </a><em>(récent)</em><strong><em><br />
+</em></strong>&#8211; <a href="https://www.data.gouv.fr/fr/organizations/education-nationale/">Autres données de l&rsquo;Education nationale du Ministère de l’Education nationale, de l’Enseignement et de la Recherche</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/organizations/enseignement-superieur-et-recherche/#datasets">Données sur l&rsquo;enseignement supérieur et la recherche du Ministère de l’Education nationale, de l’Enseignement et de la Recherche</a><br />
+&#8211;<a href="https://www.data.gouv.fr/fr/organizations/office-national-d-information-sur-les-enseignements-et-les-professions/">Données ONISEP sur les listes d&rsquo;établissements de l&rsquo;enseignement supérieur, secondaire, formations et métiers</a></p>
+<p><strong>S’alimenter<br />
+&#8211; </strong><a href="https://www.data.gouv.fr/fr/datasets/experimentation-de-la-mise-en-transparence-des-resultats-des-controles-officiels-en-restauration-commerciale-a-paris-et-avignon/">Expérimentation de la mise en transparence des résultats des contrôles officiels en restauration commerciale à Paris et Avignon</a> <em>(récent)</em><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/datasets/statistiques-viti-vinicoles-releves-annuels-des-stocks-et-des-recoltes/">Statistiques viti-vinicoles des douanes françaises </a><em>(récent)</em><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/datasets/statistiques-nationales-du-commerce-exterieur/">Statistiques nationales du commerce extérieur, qui comprend des produits alimentaires </a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/datasets/statistiques-regionales-et-departementales-du-commerce-exterieur/">Statistiques régionales et départementales du commerce extérieur, qui comprend des produits alimentaires </a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/datasets/produits-alimentaires-ingredients-nutrition-labels/">Données d&rsquo;Open Food Facts sur les produits alimentaires</a></p>
+<p>&#8230;</p>
+<p>A l’issue de la journée de travail, chaque groupe présentera les réutilisations de données et les analyses qu’ils auront pu imaginer. Cette restitution sera suivie d’un cocktail de clôture.</p>
+<p>Pour participer à l’évènement, merci de <a href="https://www.eventbrite.fr/e/billets-open-data-camp-semaine-de-linnovation-publique-18610553667">vous inscrire ici</a>.[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Les jeunes et l&#8217;Open Data</title>
+		<link>/les-jeunes-et-lopen-data</link>
+					<comments>/les-jeunes-et-lopen-data#comments</comments>
+		
+		<dc:creator><![CDATA[Paula Forteza]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2015 08:43:48 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data camp]]></category>
+		<guid isPermaLink="false">/?p=3481</guid>
+
+					<description><![CDATA[Une étude de marché sur l’industrie du jeu vidéo, un mémoire sur la localisation des industries culturelles et créatives dans le 13ème arrondissement de Paris, un projet de réutilisation de données sur le gaspillage alimentaire dans les cantines, le rêve d’ouvrir une école de programmation informatique en Auvergne, une opération de sensibilisation à la sortie &#8230;<p class="read-more"> <a class="" href="/les-jeunes-et-lopen-data"> <span class="screen-reader-text"><!--:fr-->Les jeunes et l&#8217;Open Data<!--:--></span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->Une étude de marché sur l’industrie du jeu vidéo, un mémoire sur la localisation des industries culturelles et créatives dans le 13ème arrondissement de Paris, un projet de réutilisation de données sur le gaspillage alimentaire dans les cantines, le rêve d’ouvrir une école de programmation informatique en Auvergne, une opération de sensibilisation à la sortie des stations de métro, un inconfort face aux inégalités femmes-hommes : <strong>les jeunes français se saisissent de l’open data pour nourrir leur projets, et soutenir leurs aspirations et leurs questionnements</strong>.</p>
+<p>La sélection des participants à l’<a href="http://odbc.codeforcroatia.org/">Open Data Youth Camp</a>, qui aura lieu du 29 août au 2 septembre en Croatie, nous a amenés à prendre connaissance des réponses au questionnaire (<a href="/appel-a-candidature-pour-les-15-25-ans-open-data-youth-camp-en-croatie">présenté ici</a>) et du rapport à l’open data de <strong>28 jeunes âgés de 15 à 25 ans</strong>, passionnés de donnée. A l’issue de cette étape, qui a pris en considération la compréhension exprimée des enjeux de l’open data, la justification des choix de données et de réutilisations favoris et le lien avec leurs parcours personnels et professionnels, nous félicitons les trois candidats sélectionnés:</p>
+<ul>
+<li><strong> Jordanne Monseau</strong>, 24 ans, élève avocate à Toulouse spécialisée en droit des nouvelles technologies pour qui « l’accessibilité des données juridiques est la première étape pour offrir aux individus les outils nécessaires à leur citoyenneté et à leur défense juridique ».</li>
+<li><strong>Brice Le Borgne</strong>, 22 ans, étudiant à Sciences Po Lille, en formation pour devenir data-journaliste, pour qui « l’un des services que peut rendre l’open data est de rendre l’information accessible aux citoyens pour qu’ils se saisissent de leur démocratie ».</li>
+<li><strong>Jonathan Williet</strong>, 23 ans, étudiant à l&rsquo;EM Lyon Business School spécialisé en entrepreneuriat et stratégie d&rsquo;entreprise, qui  « aspire à travailler plus tard dans une entreprise innovante ou au gouvernement français pour œuvrer au développement de la liberté de la connaissance, fondement d&rsquo;internet et des logiciels libres ».</li>
+</ul>
+<p>Les trois jeunes participants seront accompagnés par une experte:</p>
+<ul>
+<li><strong>Awa Ndiaye</strong>, Chef de Projet Open Innovation à la Mairie de Paris, spécialiste en Open Data.</li>
+</ul>
+<p>Il n’a pas été aisé de départager les candidatures, du fait de la richesse des dossiers et de la motivation de tous les candidats. Ces réponses méritent d’être en partie partagées ici, car elles illustrent l’intérêt porté et l’usage démontré des données par les jeunes candidats au fil de leurs expériences professionnelles et de leurs engagements personnels. Une sensibilité particulière à <strong>l’impact de l’Open Data</strong> dans les domaines suivants a notamment été relevée : la création d’entreprise, la vie associative et démocratique, la culture et la ville.</p>
+<p><strong>Lors du lancement de leurs projets entrepreneuriaux ou de leurs stages en start-up</strong>, les jeunes ont identifié des opportunités d’améliorer ou de créer des services, de surmonter l’asymétrie d’accès à l’information et de mieux connaitre leur concurrence ou leurs clients potentiels grâce à l’Open Data. Quelques exemples de données ou de réutilisations cités sont :</p>
+<ul>
+<li><a href="http://www.data.gouv.fr/fr/organizations/regie-autonome-des-transports-parisiens-ratp/">les jeux de données publiés par la RATP </a>, tels que les horaires de métro et le trafic entrant par station;</li>
+<li>le jeu de donnée <a href="https://www.data.gouv.fr/fr/datasets/espaces-de-co-working/">« Espaces de co-working »</a> proposés par la Communauté d&rsquo;agglomération Grand Paris Seine Ouest (GPSO);</li>
+<li>la réutilisation <a href="https://commoprices.com/">CommoPrices.com</a>, portail de référencement du prix de plus de 1600 matières premières construit sur <a href="http://www.douane.gouv.fr/services/datadouane">l’ouverture des datas des douanes françaises.</a></li>
+</ul>
+<p>Les réponses des candidats ont par ailleurs fait ressortir <strong>l’intérêt de la donnée pour la stimulation de la vie associative et démocratique</strong>, grâce à une meilleure information des citoyens ou à la conception de nouveaux outils pour donner force à leur engagement démocratique et social. Voici quelques jeux de données et réutilisations jugées utiles par les répondants :</p>
+<ul>
+<li>le jeu de donnée <a href="https://www.data.gouv.fr/fr/datasets/elections-presidentielles-1965-2012-1/">« Elections présidentielles 1965-2012 »</a> publié par Sciences Po sur <a href="http://data.gouv.fr/">data.gouv</a>;</li>
+<li>la réutilisation <a href="https://www.data.gouv.fr/fr/reuses/associer-les-habitants-aux-decisions-de-la-collectivite/">« Associer les habitants aux décisions de la collectivité »</a> construite à partir de la démarche d’Open Data de la Commune de Brocas;</li>
+<li>la réutilisation <a href="http://www.lemonde.fr/politique/visuel/2013/07/01/associations-a-qui-profitent-les-subventions_3430228_823448.html">« Associations : à qui profitent les subventions ? »</a> Par Jules Bonnard, Samuel Laurent et Jonathan Parienté pour Le Monde.</li>
+</ul>
+<p>La <strong>culture</strong> a également été identifiée un domaine d’intérêt particulier. Les jeunes se sont montrés désireux non seulement d’accéder facilement à l’offre d’activités culturelles disponible (musées, expositions et spectacles), mais aussi de comprendre l’organisation du secteur en tant que tel (acteurs, ressources et enjeux), en mentionnant :</p>
+<ul>
+<li>le jeu de données <a href="https://www.data.gouv.fr/fr/datasets/liste-des-organismes-publics-culturels-geolocalises-idf/">« Liste des organismes publics culturels géolocalisés »</a>, publié par la Région Île-de-France;</li>
+<li>la réutilisation <a href="https://www.data.gouv.fr/fr/reuses/parite-et-culture-ou-en-sommes-nous/">« Parité et culture: où en sommes-nous ? »</a>, réalisé par Fragil;</li>
+<li>la réutilisation <a href="http://www.iartmap.com/">« Liste des expositions d’art dans les musées de l’Île-de-France </a>» de Iartmap.</li>
+</ul>
+<p>Enfin, les candidats ont fait part d’une utilisation de l’open data afin de <strong>connaître et d’améliorer collectivement les services de leur ville</strong>. Ils cherchent non seulement à consulter des jeux de données à titre informatif, mais aussi et surtout, à utiliser des applications leur permettant de s’impliquer et participer activement à la vie de leur ville, si possible de façon ludique. Voici quelques exemples :</p>
+<ul>
+<li>la réutilisation <a href="https://www.data.gouv.fr/fr/reuses/mon-quartier-ideal-a-paris/">« Mon quartier idéal à Paris »</a>, de Benjamin Poss;</li>
+<li>la réutilisation <a href="https://www.data.gouv.fr/en/reuses/tellmycity/">« Tell My City »</a>, une application citoyenne qui permet de signaler un dysfonctionnement dans une municipalité;</li>
+<li>la réutilisation <a href="https://www.data.gouv.fr/en/reuses/pari-ouvert/">« Pari ouvert »</a>, un jeu en ligne qui propose de parier sur le quotidien de la ville.</li>
+</ul>
+<p>Ces 28 réponses constituent un témoignage utile et encourageant sur l’usage et les impacts potentiels de l’ouverture des données. Merci au <a href="https://vlada.gov.hr/en"><span style="color: #0088cc;">gouvernement de Croatie</span></a>, à l’<a href="http://www.ambafrance-hr.org/"><span style="color: #0088cc;">ambassade de France en Croatie</span></a> et à tous les candidats, continuez à nous surprendre et rendez-vous en septembre pour un retour d’expérience des candidats retenus !<!--:--></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/les-jeunes-et-lopen-data/feed</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Les jeunes et l&#8217;Open Data</title>
+		<link>/les-jeunes-et-lopen-data-2</link>
+					<comments>/les-jeunes-et-lopen-data-2#comments</comments>
+		
+		<dc:creator><![CDATA[Paula Forteza]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2015 08:43:48 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data camp]]></category>
+		<guid isPermaLink="false">/?p=3481</guid>
+
+					<description><![CDATA[Une étude de marché sur l’industrie du jeu vidéo, un mémoire sur la localisation des industries culturelles et créatives dans le 13ème arrondissement de Paris, un projet de réutilisation de données sur le gaspillage alimentaire dans les cantines, le rêve d’ouvrir une école de programmation informatique en Auvergne, une opération de sensibilisation à la sortie &#8230;<p class="read-more"> <a class="" href="/les-jeunes-et-lopen-data-2"> <span class="screen-reader-text">Les jeunes et l&#8217;Open Data</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->Une étude de marché sur l’industrie du jeu vidéo, un mémoire sur la localisation des industries culturelles et créatives dans le 13ème arrondissement de Paris, un projet de réutilisation de données sur le gaspillage alimentaire dans les cantines, le rêve d’ouvrir une école de programmation informatique en Auvergne, une opération de sensibilisation à la sortie des stations de métro, un inconfort face aux inégalités femmes-hommes : <strong>les jeunes français se saisissent de l’open data pour nourrir leur projets, et soutenir leurs aspirations et leurs questionnements</strong>.<br />
+La sélection des participants à l’<a href="http://odbc.codeforcroatia.org/">Open Data Youth Camp</a>, qui aura lieu du 29 août au 2 septembre en Croatie, nous a amenés à prendre connaissance des réponses au questionnaire (<a href="/appel-a-candidature-pour-les-15-25-ans-open-data-youth-camp-en-croatie">présenté ici</a>) et du rapport à l’open data de <strong>28 jeunes âgés de 15 à 25 ans</strong>, passionnés de donnée. A l’issue de cette étape, qui a pris en considération la compréhension exprimée des enjeux de l’open data, la justification des choix de données et de réutilisations favoris et le lien avec leurs parcours personnels et professionnels, nous félicitons les trois candidats sélectionnés:</p>
+<ul>
+<li><strong> Jordanne Monseau</strong>, 24 ans, élève avocate à Toulouse spécialisée en droit des nouvelles technologies pour qui « l’accessibilité des données juridiques est la première étape pour offrir aux individus les outils nécessaires à leur citoyenneté et à leur défense juridique ».</li>
+<li><strong>Brice Le Borgne</strong>, 22 ans, étudiant à Sciences Po Lille, en formation pour devenir data-journaliste, pour qui « l’un des services que peut rendre l’open data est de rendre l’information accessible aux citoyens pour qu’ils se saisissent de leur démocratie ».</li>
+<li><strong>Jonathan Williet</strong>, 23 ans, étudiant à l&rsquo;EM Lyon Business School spécialisé en entrepreneuriat et stratégie d&rsquo;entreprise, qui  « aspire à travailler plus tard dans une entreprise innovante ou au gouvernement français pour œuvrer au développement de la liberté de la connaissance, fondement d&rsquo;internet et des logiciels libres ».</li>
+</ul>
+<p>Les trois jeunes participants seront accompagnés par une experte:</p>
+<ul>
+<li><strong>Awa Ndiaye</strong>, Chef de Projet Open Innovation à la Mairie de Paris, spécialiste en Open Data.</li>
+</ul>
+<p>Il n’a pas été aisé de départager les candidatures, du fait de la richesse des dossiers et de la motivation de tous les candidats. Ces réponses méritent d’être en partie partagées ici, car elles illustrent l’intérêt porté et l’usage démontré des données par les jeunes candidats au fil de leurs expériences professionnelles et de leurs engagements personnels. Une sensibilité particulière à <strong>l’impact de l’Open Data</strong> dans les domaines suivants a notamment été relevée : la création d’entreprise, la vie associative et démocratique, la culture et la ville.<br />
+<strong>Lors du lancement de leurs projets entrepreneuriaux ou de leurs stages en start-up</strong>, les jeunes ont identifié des opportunités d’améliorer ou de créer des services, de surmonter l’asymétrie d’accès à l’information et de mieux connaitre leur concurrence ou leurs clients potentiels grâce à l’Open Data. Quelques exemples de données ou de réutilisations cités sont :</p>
+<ul>
+<li><a href="http://www.data.gouv.fr/fr/organizations/regie-autonome-des-transports-parisiens-ratp/">les jeux de données publiés par la RATP </a>, tels que les horaires de métro et le trafic entrant par station;</li>
+<li>le jeu de donnée <a href="https://www.data.gouv.fr/fr/datasets/espaces-de-co-working/">« Espaces de co-working »</a> proposés par la Communauté d&rsquo;agglomération Grand Paris Seine Ouest (GPSO);</li>
+<li>la réutilisation <a href="https://commoprices.com/">CommoPrices.com</a>, portail de référencement du prix de plus de 1600 matières premières construit sur <a href="http://www.douane.gouv.fr/services/datadouane">l’ouverture des datas des douanes françaises.</a></li>
+</ul>
+<p>Les réponses des candidats ont par ailleurs fait ressortir <strong>l’intérêt de la donnée pour la stimulation de la vie associative et démocratique</strong>, grâce à une meilleure information des citoyens ou à la conception de nouveaux outils pour donner force à leur engagement démocratique et social. Voici quelques jeux de données et réutilisations jugées utiles par les répondants :</p>
+<ul>
+<li>le jeu de donnée <a href="https://www.data.gouv.fr/fr/datasets/elections-presidentielles-1965-2012-1/">« Elections présidentielles 1965-2012 »</a> publié par Sciences Po sur <a href="http://data.gouv.fr/">data.gouv</a>;</li>
+<li>la réutilisation <a href="https://www.data.gouv.fr/fr/reuses/associer-les-habitants-aux-decisions-de-la-collectivite/">« Associer les habitants aux décisions de la collectivité »</a> construite à partir de la démarche d’Open Data de la Commune de Brocas;</li>
+<li>la réutilisation <a href="http://www.lemonde.fr/politique/visuel/2013/07/01/associations-a-qui-profitent-les-subventions_3430228_823448.html">« Associations : à qui profitent les subventions ? »</a> Par Jules Bonnard, Samuel Laurent et Jonathan Parienté pour Le Monde.</li>
+</ul>
+<p>La <strong>culture</strong> a également été identifiée un domaine d’intérêt particulier. Les jeunes se sont montrés désireux non seulement d’accéder facilement à l’offre d’activités culturelles disponible (musées, expositions et spectacles), mais aussi de comprendre l’organisation du secteur en tant que tel (acteurs, ressources et enjeux), en mentionnant :</p>
+<ul>
+<li>le jeu de données <a href="https://www.data.gouv.fr/fr/datasets/liste-des-organismes-publics-culturels-geolocalises-idf/">« Liste des organismes publics culturels géolocalisés »</a>, publié par la Région Île-de-France;</li>
+<li>la réutilisation <a href="https://www.data.gouv.fr/fr/reuses/parite-et-culture-ou-en-sommes-nous/">« Parité et culture: où en sommes-nous ? »</a>, réalisé par Fragil;</li>
+<li>la réutilisation <a href="http://www.iartmap.com/">« Liste des expositions d’art dans les musées de l’Île-de-France </a>» de Iartmap.</li>
+</ul>
+<p>Enfin, les candidats ont fait part d’une utilisation de l’open data afin de <strong>connaître et d’améliorer collectivement les services de leur ville</strong>. Ils cherchent non seulement à consulter des jeux de données à titre informatif, mais aussi et surtout, à utiliser des applications leur permettant de s’impliquer et participer activement à la vie de leur ville, si possible de façon ludique. Voici quelques exemples :</p>
+<ul>
+<li>la réutilisation <a href="https://www.data.gouv.fr/fr/reuses/mon-quartier-ideal-a-paris/">« Mon quartier idéal à Paris »</a>, de Benjamin Poss;</li>
+<li>la réutilisation <a href="https://www.data.gouv.fr/en/reuses/tellmycity/">« Tell My City »</a>, une application citoyenne qui permet de signaler un dysfonctionnement dans une municipalité;</li>
+<li>la réutilisation <a href="https://www.data.gouv.fr/en/reuses/pari-ouvert/">« Pari ouvert »</a>, un jeu en ligne qui propose de parier sur le quotidien de la ville.</li>
+</ul>
+<p>Ces 28 réponses constituent un témoignage utile et encourageant sur l’usage et les impacts potentiels de l’ouverture des données. Merci au <a href="https://vlada.gov.hr/en"><span style="color: #0088cc;">gouvernement de Croatie</span></a>, à l’<a href="http://www.ambafrance-hr.org/"><span style="color: #0088cc;">ambassade de France en Croatie</span></a> et à tous les candidats, continuez à nous surprendre et rendez-vous en septembre pour un retour d’expérience des candidats retenus !<!--:--></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/les-jeunes-et-lopen-data-2/feed</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Marion Paclot &#8211; Etalab</title>
+	<atom:link href="/author/mpaclot/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 13 Aug 2019 13:09:38 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Marion Paclot &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ce que nous avons appris en allant plus loin que la simple mise en ligne de données sur les transactions immobilières</title>
+		<link>/ce-que-nous-avons-appris-avec-dvf</link>
+		
+		<dc:creator><![CDATA[Marion Paclot]]></dc:creator>
+		<pubDate>Mon, 13 May 2019 10:33:09 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Données]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10291</guid>
+
+					<description><![CDATA[Le 24 avril 2019, la direction générale des finances publiques a mis en ligne des données sur les transactions immobilières, sous la forme de fichiers réutilisables au format texte (.txt). Pour que les données de Bercy puissent être visualisées sur une carte sans qu’il soit nécessaire de les télécharger, ou de les manipuler, nous avons &#8230;<p class="read-more"> <a class="" href="/ce-que-nous-avons-appris-avec-dvf"> <span class="screen-reader-text">Ce que nous avons appris en allant plus loin que la simple mise en ligne de données sur les transactions immobilières</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Le 24 avril 2019, la direction générale des finances publiques a mis en ligne des données sur les transactions immobilières, sous la forme de </em><a href="https://www.data.gouv.fr/fr/datasets/5c4ae55a634f4117716d5656/"><em>fichiers réutilisables au format texte</em></a><em> (.txt). Pour que les données de Bercy puissent être visualisées sur une carte sans qu’il soit nécessaire de les télécharger, ou de les manipuler, nous avons développé </em><a href="https://app.dvf.etalab.gouv.fr/"><em>app.dvf.etalab.gouv.fr</em></a><em>, une petite application web.</em></p>
+
+
+
+<p>Le site <a href="https://app.dvf.etalab.gouv.fr/">app.dvf.etalab.gouv.fr</a> a été mis en ligne le 24 avril, soit le même jour que les données sur les <a href="https://www.data.gouv.fr/fr/datasets/5c4ae55a634f4117716d5656/">demandes de valeurs foncières</a> (DVF) rendues publiques par Bercy. La suite ? Contre toute attente, notre application web <a href="https://twitter.com/datagouvfr/status/1125663668245606402">a reçu plus d’un million de visites en moins de deux semaines</a>. À la fois surpris et satisfaits par ce succès, nous souhaitons aujourd’hui revenir sur les semaines qui viennent de s’écouler, pour vous parler de la genèse du projet et de la suite que nous pensons donner à <a href="https://app.dvf.etalab.gouv.fr/">app.dvf.etalab.gouv.fr</a>.</p>
+
+
+
+<h2 class="wp-block-heading">La genèse du projet</h2>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="1024" height="683" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/05/2019-04-24-cover-dvf-1024x683.png" alt="" class="wp-image-10301" srcset="/wp-content/uploads/2019/05/2019-04-24-cover-dvf-1024x683.png 1024w, /wp-content/uploads/2019/05/2019-04-24-cover-dvf-300x200.png 300w, /wp-content/uploads/2019/05/2019-04-24-cover-dvf-768x512.png 768w, /wp-content/uploads/2019/05/2019-04-24-cover-dvf.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>L’ouverture de <a href="https://www.data.gouv.fr/fr/datasets/5c4ae55a634f4117716d5656/">la base Demandes de Valeurs Foncières</a> (DVF), annoncée depuis plusieurs mois, a fait l’objet <a href="https://www.legifrance.gouv.fr/eli/decret/2018/12/28/CPAE1830580D/jo/texte">d’un décret publié le 28 décembre 2018</a>. C’est la base de données elle-même qui a concentré notre attention ces derniers mois, les données brutes. Et pour cause, Etalab administre <a href="https://www.data.gouv.fr/">data.gouv.fr</a>, la plateforme ouverte des données publiques de l’État et des administrations. Nous avons donc pour habitude d’exploiter et publier des bases de données.</p>
+
+
+
+<h3 class="wp-block-heading">Passer des données brutes à leur visualisation sur une carte</h3>
+
+
+
+<p>Comme la base DVF est conséquente — elle pèse plusieurs centaines de Mo et tend à faire planter Excel — nous avons estimé qu’elle ne pourrait pas être manipulée par un large public. Or, les données qu’elle contient concernent un public large. Nous avons donc décidé de développer, en peu de temps et avec peu de personnes, une application web pour permettre de visualiser les données DVF sur une carte. De cette manière, nous espérions toucher un public plus large que la communauté de l’<em>open data</em>. Et cette application, c’est <a href="https://app.dvf.etalab.gouv.fr/">app.dvf.etalab.gouv.fr</a>.</p>
+
+
+
+<h3 class="wp-block-heading">L’organisation de notre équipe</h3>
+
+
+
+<p>Au sein d’Etalab, nous disposons de compétences en <em>data-science</em>, développement, système d’information géographique (SIG), et gestion de projet. L’équipe qui travaille sur <a href="https://geo.data.gouv.fr/fr/">geo.data.gouv.fr</a> développe notamment des API qui permettent d’obtenir les contours des communes, mais aussi le cadastre vectorisé et à jour, autant d’éléments qui ont été utiles pour créer <a href="https://app.dvf.etalab.gouv.fr/">app.dvf.etalab.gouv.fr</a>.</p>
+
+
+
+<h3 class="wp-block-heading">Les technologies utilisées</h3>
+
+
+
+<p>En matière de technologies, nous avons opté pour du JavaScript (notamment Vue.js) pour le front-end, avec un back-end Python, et un stockage dans une base de données PostgreSQL. Dans la mesure du possible, nous avons rendu notre code public, en <a href="https://github.com/etalab/DVF-app">le publiant sur Github sous une licence Apache</a>. Après moins d’un mois de développement — correspondant au travail d’une personne — nous avions un produit qui, sans être parfait, était présentable et tenait la route.</p>
+
+
+
+<h3 class="wp-block-heading">La mise en ligne et le hackathon de lancement</h3>
+
+
+
+<p>Le hackathon du 24 avril, qui s’est tenu à Bercy, lors de la journée consacrée à l’ouverture de la base DVF, fut l’occasion d’échanger des idées avec un public plus large : entrepreneurs, spécialistes de l’aménagement du territoire, de l’immobilier, des administrations, membres de la société civile, ou du secteur privé.</p>
+
+
+
+<p>Le petit groupe de travail constitué autour le l&rsquo;app DVF a décidé qu’il pouvait être utile d’ajouter un bouton « Votre avis nous intéresse », en haut à droite de l’application, menant à <a href="https://framaforms.org/demande-de-valeur-fonciere-dvf-votre-avis-nous-interesse-1556111586" class="broken_link">un court questionnaire anonyme de satisfaction</a>. Par ce canal, nous avons recueilli environ 1 800 avis d’utilisateurs variés — avis que nous ne pouvons pas publier car certaines personnes y ont laissé des données personnelles. D’autres propositions ont été faites, par exemple la possibilité de signaler une erreur dans les données affichées. Cependant nous ne sommes pas le producteur de la base DVF et nous avons eu peur de brouiller davantage les pistes en ajoutant cette fonction à notre application.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="1024" height="683" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/05/2019-05-13-dvf-revue-presse-1-1024x683.jpg" alt="" class="wp-image-10341" srcset="/wp-content/uploads/2019/05/2019-05-13-dvf-revue-presse-1-1024x683.jpg 1024w, /wp-content/uploads/2019/05/2019-05-13-dvf-revue-presse-1-300x200.jpg 300w, /wp-content/uploads/2019/05/2019-05-13-dvf-revue-presse-1-768x512.jpg 768w, /wp-content/uploads/2019/05/2019-05-13-dvf-revue-presse-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Puis la couverture presse — <a href="https://www.lci.fr/immobilier/immobilier-on-a-teste-la-nouvelle-appli-de-bercy-pour-connaitre-les-prix-de-vente-reels-a-cote-de-chez-vous-cadastre-data-gouv-fr-dvf-2119439.html">LCI</a>, <a href="https://immobilier.lefigaro.fr/article/decouvrez-le-prix-des-biens-vendus-depuis-5-ans-dans-votre-quartier_507a1814-6829-11e9-886f-2e1105865bd6/">Le Figaro</a>, <a href="https://www.lemonde.fr/economie/article/2019/05/03/immobilier-la-transparence-des-prix-va-t-elle-faire-evoluer-les-pratiques-du-marche_5457610_3234.html">Le Monde</a>, <a href="https://www.ouest-france.fr/economie/immobilier/immobilier-une-application-gratuite-permet-de-connaitre-le-prix-des-biens-pres-de-chez-vous-6323581" class="broken_link">Ouest-France</a>, entre autres — a amené un public plus large sur l’application ; un public venu chercher des informations sur ses propres transactions, dans le cadre d’un projet immobilier, ou simplement curieux des prix pratiqués dans certains quartiers. Et les avis d’utilisateurs se sont multipliés, nous amenant à apporter encore de nombreuses modifications à l’application.</p>
+
+
+
+<h2 class="wp-block-heading">Ce que nous avons appris</h2>
+
+
+
+<h3 class="wp-block-heading">Les visualisations touchent plus de monde que les données brutes</h3>
+
+
+
+<p>Alors que <a href="https://app.dvf.etalab.gouv.fr/">app.dvf.etalab.gouv.fr</a> a été développé comme un complément à <a href="https://www.data.gouv.fr/fr/datasets/5c4ae55a634f4117716d5656/">la base des demandes de valeurs foncières</a>, l’application a vite attiré plus de visiteurs que les données DVF elles-mêmes — publiées quant à elles sur <a href="https://www.data.gouv.fr/">data.gouv.fr</a>. Le site qui devait introduire les données brutes s’y est donc rapidement substitué. Parallèlement, ce qui n’était qu’une petite application développée en peu de temps et avec peu de moyens au sein d’Etalab, a souvent été présenté dans la presse comme le produit principal de cette opération.</p>
+
+
+
+<h3 class="wp-block-heading">Bien configurer un serveur n’est jamais une mauvaise idée</h3>
+
+
+
+<p>Il est possible de gérer un afflux conséquent de visiteurs sans se ruiner. Nous avons ainsi pu accueillir plus de 180 000 personnes sur l’application lors de la seule journée du vendredi 4 mai, sur un serveur relativement modeste, et en limitant les rejets grâce à des choix technologiques prudents. Si les configurations NGINX vous intéressent, Antoine Augusti, membre d’Etalab, a commenté le sujet en détails <a href="https://blog.antoine-augusti.fr/2019/05/discovering-content-caching-with-nginx-proxy-cache/">sur son blog</a>.</p>
+
+
+
+<h3 class="wp-block-heading">Documenter n’est pas une perte de temps</h3>
+
+
+
+<p>Pour donner un peu de contexte aux visiteurs, et répondre aux questions qui revenaient souvent à nos oreilles, nous avons mis en ligne une FAQ (Foire Aux Questions) quelques heures après la publication de l’application. Hélas, notre FAQ n’a été lue que par une petite proportion de visiteurs… sans doute parce que nous ne l’avions pas appelée « FAQ » mais « À propos ». La <a href="https://app.dvf.etalab.gouv.fr/faq.html">page en question</a> a pourtant été enrichie à plusieurs reprises et à mesure que des questions se révélaient récurrentes.</p>
+
+
+
+<h3 class="wp-block-heading">Recueillir des avis permet d’améliorer l’expérience utilisateur</h3>
+
+
+
+<p>En plus des problèmes de compatibilité de l’application avec certains navigateurs, la mise en place du questionnaire « Votre avis nous intéresse » nous a permis d’identifier d’autres problèmes : nous nous sommes ainsi rendu compte que plusieurs utilisateurs ne comprenaient pas vraiment comment marchait l’application.</p>
+
+
+
+<p>Comme l’interface n’invitait pas explicitement les utilisateurs à cliquer sur la carte pour agrandir les zones visualisées, certaines personnes restaient bloquées devant la carte de l’hexagone, sans que rien ne se passe de leur côté. D’autres n’accèdaient pas au détail de chaque transaction, car l’interface ne les invitait pas à le faire là non plus. Nous en avons retenu que nous ne sommes pas nos utilisateurs et que rien ne remplace les avis de personnes venues de l’extérieur.</p>
+
+
+
+<h3 class="wp-block-heading">Rendre le code public le rend meilleur</h3>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="1024" height="683" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/05/2019-05-13-dvf-marion-1024x683.png" alt="" class="wp-image-10302" srcset="/wp-content/uploads/2019/05/2019-05-13-dvf-marion-1024x683.png 1024w, /wp-content/uploads/2019/05/2019-05-13-dvf-marion-300x200.png 300w, /wp-content/uploads/2019/05/2019-05-13-dvf-marion-768x512.png 768w, /wp-content/uploads/2019/05/2019-05-13-dvf-marion.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Mettre le code d’une application en cours de développement sur GitHub, dans un dépôt public, revient à exposer un travail inachevé, encore loin d’être parfait. Mais la publication du code nous a aussi permis d’obtenir des avis très utiles. Plusieurs contributeurs externes <a href="https://github.com/etalab/DVF-app">ont ainsi fait des <em>« pull requests</em></a> » (sorte de contributions) dans le but d’améliorer l’application : par exemple pour corriger des bugs ou rendre plus élégant le code qui crée la base de données. D’autres contributeurs <a href="https://github.com/etalab/DVF-app/issues">ont ouvert des <em>issues</em></a> (sorte de tickets techniques) pour nous signaler des problèmes, ou suggérer de nouvelles fonctionnalités. Nous n’avons certes pas attendu ce projet pour <a href="https://github.com/etalab">publier notre code sur GitHub</a>, mais disons que cela conforte notre choix et nous encourage à poursuivre dans cette voie.</p>
+
+
+
+<h3 class="wp-block-heading">Les critiques font partie du jeu</h3>
+
+
+
+<p>Si nous avons reçu des félicitations, nous avons aussi reçu quelques critiques. Certaines critiques étaient constructives, d’autres l’étaient un peu moins. De notre côté, nous savions que notre application étaient loin d’être parfaite. Nous avons donc capitalisé sur les critiques utiles, celles qui nous tiraient vers le haut, sans nous attarder sur les autres.</p>
+
+
+
+<h2 class="wp-block-heading">La suite pour app.dvf.etalab.gouv.fr</h2>
+
+
+
+<p>Un million de visites plus tard, quelle suite donner à ce qui n’était au départ qu’un petit projet ? Une chose semble désormais sûre : alors que 70 000 visites sont encore enregistrées chaque jour sur le site, le moment de le fermer n’est pas encore venu.</p>
+
+
+
+<p>Certes, le volume de visites va baisser inexorablement dans les mois qui viennent, mais nous tenons à continuer de proposer une façon simple de visualiser les données DVF, surtout pour les personnes qui ne peuvent pas mettre les mains dans les données brutes.</p>
+
+
+
+<h3 class="wp-block-heading">De nouvelles fonctionnalités à venir ?</h3>
+
+
+
+<p>Des fonctionnalités intéressantes ont été proposées, notamment la possibilité de retrouver les transactions effectuées autour d’une adresse postale donnée — ce qui n’est pas encore possible. Nous allons avant tout concentrer nos efforts sur la correction des bugs et la maintenance.</p>
+
+
+
+<p>La maintenance justement, parlons-en : elle a été chiffrée à quelques jours par an, car nous avons automatisé le maximum de tâches. Il restera à récupérer les nouvelles données DVF à chaque fois que Bercy les mettra à jour, c’est-à-dire tous les 6 mois. Le cadastre et les couches géographiques sont déjà entretenus par Etalab, ce qui ne devrait donc pas occasionner de tâches supplémentaires.</p>
+
+
+
+<h3 class="wp-block-heading">Croiser les données DVF avec d’autres données</h3>
+
+
+
+<p>À plus long-terme, l’avenir nous dira si les données DVF peuvent être croisées avec d’autres données, par exemple les diagnostics de performance énergétique — dans les limites légales visant à empêcher la réidentification des acheteurs et vendeurs.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nous avons épluché l’annuaire administratif pour voir si la parité était respectée à tous les étages</title>
+		<link>/ou-en-est-la-parite-dans-la-haute-fonction-publique</link>
+		
+		<dc:creator><![CDATA[Marion Paclot]]></dc:creator>
+		<pubDate>Fri, 08 Mar 2019 16:03:31 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=9776</guid>
+
+					<description><![CDATA[À l’occasion de la journée internationale des droits des femmes, la mission Etalab a voulu mesurer où en était la parité dans les têtes d’équipe de la haute fonction publique d’État. L’annuaire du service public (lannuaire.service-public.fr), dont nous avons parcouru automatiquement toutes les pages, nous a permis de réaliser l’infographie que vous trouverez plus bas &#8230;<p class="read-more"> <a class="" href="/ou-en-est-la-parite-dans-la-haute-fonction-publique"> <span class="screen-reader-text">Nous avons épluché l’annuaire administratif pour voir si la parité était respectée à tous les étages</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>À l’occasion de la journée internationale des droits des femmes, la mission Etalab a voulu mesurer où en était la parité dans les têtes d’équipe de la haute fonction publique d’État.</p>
+<p>L’annuaire du service public (<a href="https://lannuaire.service-public.fr/">lannuaire.service-public.fr</a>), dont nous avons parcouru automatiquement toutes les pages, nous a permis de réaliser l’infographie que vous trouverez plus bas dans cet article.</p>
+<p><figure id="attachment_9777" aria-describedby="caption-attachment-9777" style="width: 2880px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="size-full wp-image-9777" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/03/Capture-décran-2019-03-08-16.55.45.png" alt="Page de l’annuaire du service public." width="2880" height="1800" srcset="/wp-content/uploads/2019/03/Capture-décran-2019-03-08-16.55.45.png 2880w, /wp-content/uploads/2019/03/Capture-décran-2019-03-08-16.55.45-300x188.png 300w, /wp-content/uploads/2019/03/Capture-décran-2019-03-08-16.55.45-768x480.png 768w, /wp-content/uploads/2019/03/Capture-décran-2019-03-08-16.55.45-1024x640.png 1024w" sizes="(max-width: 2880px) 100vw, 2880px" /><figcaption id="caption-attachment-9777" class="wp-caption-text">Page de l’annuaire du service public.</figcaption></figure></p>
+<h2>Plus de 5 000 entités ministérielles analysées</h2>
+<p>Nous avons choisi de regarder la structure de 5 076 pages, correspondant chacune à une entité ministérielle. Ces pages nous renseignent sur l’organisation hiérarchique ainsi que sur la personne à la tête de l’entité. Le code permettant de reproduire ce travail est disponible <a href="https://github.com/marion-paclot/scrapAnnuaireSP" target="_blank" rel="noopener noreferrer">sur Github</a>.</p>
+<p><figure id="attachment_9778" aria-describedby="caption-attachment-9778" style="width: 1218px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="size-full wp-image-9778" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/03/image3_shrink.png" alt="Capture écran montrant du code informatique" width="1218" height="683" srcset="/wp-content/uploads/2019/03/image3_shrink.png 1218w, /wp-content/uploads/2019/03/image3_shrink-300x168.png 300w, /wp-content/uploads/2019/03/image3_shrink-768x431.png 768w, /wp-content/uploads/2019/03/image3_shrink-1024x574.png 1024w" sizes="(max-width: 1218px) 100vw, 1218px" /><figcaption id="caption-attachment-9778" class="wp-caption-text">Un aperçu du code utilisé pour compiler les données issues de l’annuaire.</figcaption></figure></p>
+<h2>Les 5 plus hauts niveaux hiérarchiques examinés</h2>
+<p>En haut de la pyramide hiérarchique figurent les ministres d’État, avec un gouvernement paritaire si on ne compte pas le Premier ministre. À ces ministres peuvent être rattachés d’autres ministres (par exemple, les transports sont placés auprès du ministre de la transition écologique et solidaire), des secrétaires d’État, une direction générale, divers opérateurs, dont dépendent des sous-directions et services prenant des noms divers. Nous sommes descendus jusqu’à 5 niveaux hiérarchiques successifs, avec à chaque niveau entre 500 et 1 500 services rattachés.</p>
+<h2>Comment nous déduisons le genre à partir du prénom</h2>
+<p>Concernant la personne à la tête de l’équipe, seul le premier nom apparaissant sur la page a été retenu. Nous disposons le plus souvent d’une identité avec un prénom, un nom, ainsi qu’une fonction — féminisée lorsqu’elle est occupée par une femme. À l’aide de la base des prénoms de l’INSEE (<a href="https://www.insee.fr/fr/statistiques/fichier/2540004/nat2017_txt.zip" target="_blank" rel="noopener noreferrer" class="broken_link">téléchargeable au format .zip</a>) nous pouvons déterminer le genre associé à chaque prénom. Lorsque le prénom est épicène (Camille, Claude, Dominique) ou non recensé par l’INSEE car trop rare, la fonction nous permet de trancher.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-9779" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/03/image2_shrink.png" alt="" width="819" height="478" srcset="/wp-content/uploads/2019/03/image2_shrink.png 819w, /wp-content/uploads/2019/03/image2_shrink-300x175.png 300w, /wp-content/uploads/2019/03/image2_shrink-768x448.png 768w" sizes="(max-width: 819px) 100vw, 819px" /></p>
+<p>Ainsi, nous disposons d’une liste recensant les personnes dirigeant chaque service ainsi que leur genre et le niveau hiérarchique du service, le plus haut niveau étant celui des ministres d’État. Il est alors possible de faire des statistiques sur la place des femmes à la tête des équipes en fonction du niveau de l’équipe.</p>
+<h2>Plus il y a de responsabilités et moins elles sont exercées par des femmes — sauf au niveau ministériel</h2>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-9785" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/03/EgaliteHF1.png" alt="" width="2220" height="2892" srcset="/wp-content/uploads/2019/03/EgaliteHF1.png 2220w, /wp-content/uploads/2019/03/EgaliteHF1-230x300.png 230w, /wp-content/uploads/2019/03/EgaliteHF1-768x1000.png 768w, /wp-content/uploads/2019/03/EgaliteHF1-786x1024.png 786w" sizes="(max-width: 2220px) 100vw, 2220px" /></p>
+<p>Il est frappant de constater que si les femmes occupent la majorité des postes de catégorie A (fonction de conception, direction et encadrement supérieur), représentant 62% de l’effectif, les postes à responsabilité au sein de la haute fonction publique restent encore majoritairement occupés par des hommes. La parité de la fonction publique d’État peut encore progresser.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[Témoignage] Peut-on (re)coder la loi ? L’exemple de la taxe d’habitation</title>
+		<link>/temoignage-peut-on-recoder-la-loi-lexemple-de-la-taxe-dhabitation</link>
+					<comments>/temoignage-peut-on-recoder-la-loi-lexemple-de-la-taxe-dhabitation#comments</comments>
+		
+		<dc:creator><![CDATA[Marion Paclot]]></dc:creator>
+		<pubDate>Fri, 28 Sep 2018 14:09:58 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[algorithme]]></category>
+		<category><![CDATA[dgfip]]></category>
+		<category><![CDATA[explicabilité]]></category>
+		<category><![CDATA[taxe d'habitation]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8676</guid>
+
+					<description><![CDATA[[:fr]Marion Paclot est data scientist au sein de l’équipe Etalab, dont une des missions est la promotion de la transparence de l’action publique. Elle partage dans ce billet son retour d’expérience sur la possibilité de recoder la loi — en l&#8217;occurrence une partie de la fiscalité locale consacrée à la taxe d’habitation — à partir &#8230;<p class="read-more"> <a class="" href="/temoignage-peut-on-recoder-la-loi-lexemple-de-la-taxe-dhabitation"> <span class="screen-reader-text">[Témoignage] Peut-on (re)coder la loi ? L’exemple de la taxe d’habitation</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]<i>Marion Paclot est data scientist au sein de l’équipe Etalab, dont une des <a href="https://www.etalab.gouv.fr/qui-sommes-nous">missions</a> est la promotion de la transparence de l’action publique. Elle partage dans ce billet son retour d’expérience sur la possibilité de recoder la loi — en l&rsquo;occurrence une partie de la fiscalité locale consacrée à la taxe d’habitation — à partir des documents officiels et des données disponibles sur data.gouv.fr.</i></p>
+<p>La documentation fiscale produite par la direction générale des Finances publiques est particulièrement riche et détaillée. Est-elle cependant assez précise et complète pour qu’un citoyen motivé puisse comprendre le calcul de sa taxe d’habitation à l’euro près ? C’est l’expérience que j’ai souhaité mener et qui a permis de mettre en ligne une application à vocation pédagogique :<a href="http://taxehabitation.etalab.studio/"> http://taxehabitation.etalab.studio/</a> .</p>
+<h2>Le code et la loi</h2>
+<p>L’<a href="https://www.legifrance.gouv.fr/eli/loi/2016/10/7/2016-1321/jo/article_2">article 2</a> de la loi pour une République numérique a ajouté les codes sources produits par l’Etat à la listes des documents administratifs. Un code source devient alors communicable à une personne qui en ferait la demande et c’est dans ce contexte que le code de la taxe d’habitation a été publié par la direction générale des Finances publiques. Cependant, comprendre ce type de travaux nécessite des prérequis en informatique que tout le monde n’a pas. Il est donc important que le mécanisme de calcul de la taxe reste accessible sous une forme plus littéraire et intelligible. Par ailleurs, les initiatives consistant à recoder la loi, comme le fait <a href="http://openfisca.org/fr/">OpenFisca</a>, doivent pouvoir s’appuyer sur ces documents, et aboutir à un résultat exact.</p>
+<h2>Quelles sources pour l’expérience ?</h2>
+<p>Mon point de départ a été les feuilles d’imposition que reçoit chaque contribuable assujetti à la taxe d’imposition. Si ce document contient la plupart des éléments chiffrés nécessaires au calcul, certaines informations pourtant non personnelles qui y figurent ne sont pas encore disponibles de manière consolidée et ouverte au public. Cela devrait changer avec l’entrée prochaine en vigueur du principe d’ouverture spontanée des données publiques.</p>
+<p>J’ai analysé la <a href="https://www.impots.gouv.fr/portail/www2/fichiers/documentation/brochure/idl_2017/files/assets/basic-html/page-I.html#">documentation d’une vingtaine de pages</a> sur la taxe d’habitation disponible dans le guide de la fiscalité locale sur le site<a href="https://www.impots.gouv.fr/portail/www2/fichiers/documentation/brochure/idl_2017/files/assets/basic-html/page-I.html"> impots.gouv.fr</a>, ainsi que le fichier du recensement des éléments d’imposition à la fiscalité locale (REI) disponible sur le site<a href="https://www.data.gouv.fr/fr/datasets/impots-locaux-fichier-de-recensement-des-elements-dimposition-a-la-fiscalite-directe-locale-rei-3/"> data.gouv.fr</a>. Le code source produit par la direction générale des Finances publiques pour le calcul de la taxe n’est donc pas utilisé, car l’objectif n’est pas de réaliser un contrôle de conformité de ce code.</p>
+<hr />
+<h2>Un outil pour comprendre votre taxe d’habitation</h2>
+<p><a href="http://taxehabitation.etalab.studio/">http://taxehabitation.etalab.studio/</a></p>
+<p>La conception d’un outil m’est apparu comme un bon moyen de restituer ce que j’avais appris de la taxe, notamment sur le rôle des différentes collectivités territoriales, et sur l’influence de variables personnelles (situation personnelle et familiale, revenus, …) sur le montant final de la taxe.</p>
+<p>Une personne souhaitant comprendre son propre avis d’imposition peut y rentrer ses informations et obtenir le détail du calcul : pourquoi suis-je exonéré de l’impôt ? pourquoi un abattement m’est-il accordé quand un autre ne l’est pas ? pourquoi ce taux est-il appliqué ? pourquoi ai-je droit au plafonnement ? à qui va le montant de l’impôt ? Ce simulateur permet par ailleurs d’évaluer l’effet d’un changement dans sa situation personnelle, par exemple avec l’arrivée d’un enfant, une hausse importante de revenu ou un divorce.</p>
+<p>Le code de l’application est disponible sur<a href="https://github.com/marion-paclot/TH"> github.com</a> (il ne s’agit pas du code source publié par la direction générale des Finances publiques). Certains cas, notamment lorsqu’on parle d’hébergement collectif, ne sont pas forcément codés, de même que le plafonnement, mécanisme en plusieurs temps nécessitant un grand nombre de données qu’il aurait fallu entrer manuellement dans lle moteur de calcul. Cette application n’est donc ni exhaustive, ni toujours exacte, mais nous semblait utile au contribuable curieux de mieux comprendre son avis d’imposition.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-large wp-image-8680" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/09/page_detail-1024x170.png" alt="Capture écran de l’application de calcul de la taxe d’habitation" width="806" height="134" srcset="/wp-content/uploads/2018/09/page_detail-1024x170.png 1024w, /wp-content/uploads/2018/09/page_detail-300x50.png 300w, /wp-content/uploads/2018/09/page_detail-768x127.png 768w, /wp-content/uploads/2018/09/page_detail.png 1823w" sizes="(max-width: 806px) 100vw, 806px" /></p>
+<hr />
+<h2>Quels enseignements ?</h2>
+<p>La documentation révèle une taxe proche de la couture sur mesure, avec de nombreux cas particuliers, et beaucoup d’éléments imbriqués, si bien qu’en première approche, certaines règles peuvent sembler complexes. Par exemple, le revenu fiscal de référence intervient à plusieurs étapes, comparés à divers seuils dépendant à la fois du département et du nombre de parts fiscales. Il faut toutefois préciser que ces différentes règles visent à traiter un grand nombre de cas différents : chaque contribuable n’est individuellement concerné que par un petit nombre de règles.</p>
+<p>L’avis d’imposition, dans sa forme 2017, contient beaucoup d’informations différentes. Certaines sont utilisées pour le calcul, d’autres sont données à titre d’information et sont sans incidence sur le montant de la taxe (le rappel des taux et montants pour l’année précédente). Des données personnelles et non personnelles sont mélangées, de même que des valeurs historiques et actuelles, des taux et montants.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-8681" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/09/exemple_avis.png" alt="Exemple d’avis d’imposition" width="954" height="857" srcset="/wp-content/uploads/2018/09/exemple_avis.png 954w, /wp-content/uploads/2018/09/exemple_avis-300x269.png 300w, /wp-content/uploads/2018/09/exemple_avis-768x690.png 768w" sizes="(max-width: 954px) 100vw, 954px" /></p>
+<p><i>Exemple d’avis d’imposition pour un appartement situé à Paris</i></p>
+<p>Le calcul des cotisations se comprend sans difficulté à la lecture de l’avis d’imposition. Mais pour ce qui est du calcul des frais de gestion, du prélèvement pour base élevée, et du plafonnement selon le revenu, il faut se référer à la documentation officielle, ce que tous les contribuables n’auront pas forcément le réflexe de faire.</p>
+<p>À l’issue de ce travail, nous sommes en mesure de lister une série de données non personnelles, nécessaires dans certains cas au calcul de la taxe, et dont la publication en open data serait utile, dans une prochaine version du REI :</p>
+<ul>
+<li>Les contribuables résidant dans un département d’outre-mer peuvent être exonérés de taxe d’habitation sur leur habitation principale si la valeur locative de ce bien est inférieure à 40 % de la valeur locative moyenne de la commune. Cependant, les communes peuvent décider de porter ce taux à 50 %. Or, il n’y a aucune information sur le taux effectivement appliqué par chaque commune dans le REI. L’application se borne donc à conserver ce seuil de 40 % même si certaines communes sont plus généreuses.</li>
+<li>Le taux de majoration pour les résidences secondaires appliqué par les communes, lorsqu’elles ont décidé d’une majoration. L’application demande à l’utilisateur de l’entrer manuellement faute d’en disposer en open data.</li>
+<li>Le calcul du dégrèvement lié au plafonnement obéit à une formule de calcul qui n’est pas simple, nécessitant les taux de cotisations en 2000 et les taux d’abattement de 2003 (ou 2014 pour Mayotte) . La documentation officielle l’illustre avec plusieurs cas variés.</li>
+</ul>
+<p>Par ailleurs, dans le cas où le foyer ne coïncide pas avec le ménage (c’est notamment le cas d’une colocation d’après les quelques feuilles auxquelles nous avons eu accès), l’avis d’imposition ne contiendra pas deux informations essentielles : le revenu fiscal de référence et le nombre de parts-année. En effet, prenons le cas simple de deux colocataires ayant chacun un revenu annuel de 20 000 €. Si on indique sur l’avis que le revenu fiscal de référence du ménage est de 40 000 €, alors chaque colocataire connaissant son propre revenu, il peut déduire le revenu de l’autre. Renseigner le revenu du ménage revient donc à divulguer indirectement une information personnelle, ce que l’administration ne fait donc pas.</p>
+<h2>La question de la valeur locative brute</h2>
+<p>Enfin, le calcul de la taxe d’habitation a pour pierre angulaire la valeur locative brute (aussi appelée valeur locative cadastrale), définie sur le site des impôts comme « le loyer théorique annuel que le bien serait susceptible de produire dans des conditions normales à une date de référence ». Pourtant, dans mon propre cas, cette valeur n’est pas dans le même ordre de grandeur que mon loyer, qu’il soit annuel ou mensuel.</p>
+<p>On trouve en ligne des informations sur cette valeur, notamment qu’elle dépend d’une surface pondérée multipliée par une valeur au m<sup>2</sup>, et le <a href="https://www.impots.gouv.fr/portail/formulaire/6650/impots-locaux-locaux-dhabitation">cerfa 6650</a> (<a href="https://www.impots.gouv.fr/portail/files/formulaires/6650/2018/6650_19.pdf" class="broken_link">pdf 2018</a>) donne une idée des éléments pris en compte pour sa détermination : le niveau de confort du logement, sa localisation, son année de construction, etc. On sait par ailleurs que cette valeur est actualisée chaque année à partir d’un coefficient que l’on trouve dans la documentation sur la taxe d’habitation. Cependant, mon avis d’imposition ne contient que le résultat du calcul, mais rien sur l’algorithme ou les paramètres retenus pour établir ma valeur locative cadastrale.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-8682" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/09/extrait_cerfa.png" alt="Extrait d’un formulaire CERFA" width="995" height="799" srcset="/wp-content/uploads/2018/09/extrait_cerfa.png 995w, /wp-content/uploads/2018/09/extrait_cerfa-300x241.png 300w, /wp-content/uploads/2018/09/extrait_cerfa-768x617.png 768w, /wp-content/uploads/2018/09/extrait_cerfa-252x201.png 252w, /wp-content/uploads/2018/09/extrait_cerfa-104x84.png 104w" sizes="(max-width: 995px) 100vw, 995px" /></p>
+<p><i>Extrait du CERFA Maison individuelle pour les impôts locaux. Il donne une idée des éléments pris en compte dans la détermination de la valeur locative.</i></p>
+<h2>Oui, il est possible de recoder la loi</h2>
+<p>On disait le calcul de la taxe d’habitation complexe ; c’est donc sans surprise que j’ai découvert une documentation détaillant de nombreux cas particuliers et exceptions. Il faut de plus avoir quelques bases de fiscalité des collectivités territoriales, par exemple la différence entre une collectivité à fiscalité propre ou sans fiscalité propre. Cependant, cette expérience démontre que l’accès à une brochure pratique permet de comprendre le calcul de sa propre taxe d’habitation. Par ailleurs, quasiment toutes les données non personnelles sont accessibles en open data, à l’exception de celles nécessaires au calcul du plafonnement et quelques autres, qui sont alors renseignées sur la feuille du contribuable.</p>
+<p>Dans le cas particulier de la taxe d’habitation, il est donc possible de re-coder la loi et il semble qu’il n’y ait pas de règle ou de paramètre auquel le citoyen n’ait accès.[:]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/temoignage-peut-on-recoder-la-loi-lexemple-de-la-taxe-dhabitation/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

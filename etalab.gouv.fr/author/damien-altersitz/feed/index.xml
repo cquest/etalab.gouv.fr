@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Damien Altersitz &#8211; Etalab</title>
+	<atom:link href="/author/damien-altersitz/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 15 Oct 2019 08:42:49 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Damien Altersitz &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>#PlanOpenGov : synthèse de la consultation « idéation »</title>
+		<link>/planopengov-synthese-de-la-consultation-ideation</link>
+		
+		<dc:creator><![CDATA[Damien Altersitz]]></dc:creator>
+		<pubDate>Wed, 31 May 2017 13:59:41 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=6935</guid>
+
+					<description><![CDATA[[:fr] La France a initié la mise à jour de son Plan d&#8217;action national pour une action publique transparente et collaborative, prévu dans le cadre du Partenariat pour un gouvernement ouvert (PGO). Conformément aux principes du Partenariat, celui-ci est élaboré en lien avec la société civile. Une première consultation (idéation) a été menée en ligne, &#8230;<p class="read-more"> <a class="" href="/planopengov-synthese-de-la-consultation-ideation"> <span class="screen-reader-text">#PlanOpenGov : synthèse de la consultation « idéation »</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]
+<h4><img fetchpriority="high" decoding="async" class="alignleft wp-image-6653 size-full" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/03/PAN2ter-e1493737101570.jpg" width="1000" height="251" /></h4>
+<h4></h4>
+<h4 style="text-align: justify;"></h4>
+<h4 style="text-align: justify;">La France a initié la mise à jour de son Plan d&rsquo;action national <strong>pour une action publique transparente et collaborative, prévu </strong>dans le cadre du Partenariat pour un gouvernement ouvert (PGO). <strong>Conformément aux principes du Partenariat, celui-ci est élaboré en lien avec la société civile.</strong> Une <a style="color: #0000ee;" href="https://gouvernement-ouvert.etalab.gouv.fr/" target="_blank" rel="noopener noreferrer">première consultation (idéation) a été menée en ligne, recueillant plus de 80 contributions</a>.</h4>
+<h4 style="text-align: justify;"><strong>Etalab publie la synthèse de ces contributions. Ce document préfigure les engagements que les ministères et administrations publiques sont invités à prendre pour la période 2017-2019. </strong></h4>
+<blockquote>
+<h3 style="text-align: center;"><em>&gt;&gt;  <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.etalab.gouv.fr/wp-content/uploads/2017/05/20170531-OGP-Plan-daction-2017-2019-Synth%C3%A8se-contributions-phase-id%C3%A9ation-version-web.pdf" target="_blank" rel="noopener noreferrer" class="broken_link">Accéder à la synthèse</a> </span>&lt;&lt;</em></h3>
+</blockquote>
+<hr />
+<h3><span style="color: #00ccff;"><span style="color: #008080;"><span style="color: #00aaff;">Une mobilisation de la communauté</span></span><span style="color: #00aaff;"> <em>OpenGov</em></span></span></h3>
+<p style="text-align: justify;">Organisée du 15 mars au 21 avril 2017 par Etalab, la consultation « idéation » est la première phase de l’élaboration du deuxième plan d&rsquo;action de la France « Pour une action publique transparente et collaborative» pour la période 2017-2019.</p>
+<p style="text-align: justify;">La consultation a mobilisé une diversité d&rsquo;acteurs :</p>
+<table style="height: 123px;" width="519">
+<tbody>
+<tr>
+<td>Organisations de la société civile</td>
+<td>45% des contributions</td>
+</tr>
+<tr>
+<td>Représentants du secteur du numérique</td>
+<td>24% des contributions</td>
+</tr>
+<tr>
+<td>Contributions individuelles</td>
+<td>22% des contributions</td>
+</tr>
+<tr>
+<td>Secteur public</td>
+<td style="text-align: left;">9% des contributions</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: justify;">Plus de 80 contributions ont été soumises et sont disponibles en open data sur la plateforme <em><a href="https://www.data.gouv.fr/fr/datasets/contributions-a-la-consultation-plan-daction-gouvernement-ouvert-2017-2019-ideation-2/" target="_blank" rel="noopener noreferrer">data.gouv.fr </a>.</em></p>
+<p style="text-align: justify;">Ces contributions sont réparties en fonction des axes de consultation :</p>
+<table style="height: 123px;" width="519">
+<tbody>
+<tr>
+<td><a href="https://gouvernement-ouvert.etalab.gouv.fr/topic/58a6d4a1551aa25e8301506c" target="_blank" rel="noopener noreferrer">Présentation de la consultation</a></td>
+<td>3 contributions</td>
+</tr>
+<tr>
+<td><a href="https://gouvernement-ouvert.etalab.gouv.fr/topic/58b7ef19de66ce9b9dc93e2c" target="_blank" rel="noopener noreferrer">Rendre des comptes</a></td>
+<td>19 contributions</td>
+</tr>
+<tr>
+<td><a href="https://gouvernement-ouvert.etalab.gouv.fr/topic/58b7fad2de66ce9b9dc93e46" target="_blank" rel="noopener noreferrer">Consulter, concerter, co-produire</a></td>
+<td>24 contributions</td>
+</tr>
+<tr>
+<td><a href="https://gouvernement-ouvert.etalab.gouv.fr/topic/58b7fb5bde66ce9b9dc93e52" target="_blank" rel="noopener noreferrer">Ouvrir et partager des ressources numériques</a></td>
+<td>16 contributions</td>
+</tr>
+<tr>
+<td><a href="https://gouvernement-ouvert.etalab.gouv.fr/topic/58b7fc13de66ce9b9dc93e5d" target="_blank" rel="noopener noreferrer">Ouvrir et transformer l&rsquo;administration</a><u> </u></td>
+<td style="text-align: left;">15 contributions</td>
+</tr>
+<tr>
+<td><a href="https://gouvernement-ouvert.etalab.gouv.fr/topic/58b7fc51de66ce9b9dc93e68" target="_blank" rel="noopener noreferrer">Contribution libre</a></td>
+<td>4 contributions</td>
+</tr>
+</tbody>
+</table>
+<p><em>NB : Ce tableau ne comptabilise pas les commentaires réalisés sur des contributions spécifiques.</em></p>
+<h3><span style="color: #00aaff;">Transparence budgétaire et financière, intégrité de la vie publique, open data et Etat-plateforme, innovation publique, territoires : des premiers axes d&rsquo;engagements se dessinent<br />
+</span></h3>
+<p style="text-align: justify;">La synthèse reprend la structure de la consultation « idéation ». Les regroupements thématiques réalisés traduisent à la fois le souhait des contributeurs d&rsquo;approfondir les actions initiées par le Plan d&rsquo;action 2015-2017 et d&rsquo;en engager de nouvelles.</p>
+<p style="text-align: justify;">Voici un aperçu, non exhaustif, des premiers axes d&rsquo;engagements qui se dégagent de cette consultation :</p>
+<ul style="text-align: justify;">
+<li><strong>« Rendre des comptes » &#8211; Transparence budgétaire et financière </strong></li>
+</ul>
+<p style="text-align: justify;">Les contributions suggèrent d&rsquo;approfondir la transparence budgétaire et financière, tant au niveau du fonctionnement de l’Etat que de celui des collectivités territoriales et de leurs relations avec l’administration centrale. Il est par exemple proposé d&rsquo;ouvrir la base de données de l&rsquo;outil de comptabilité CHORUS en open data, qui compte parmi les bases à ouvrir selon l&rsquo;<a href="https://index.okfn.org/place/fr/budget/" target="_blank" rel="noopener noreferrer">Open Data Index</a>. Une meilleure connaissance des flux financiers entre l&rsquo;Etat et les collectivités territoriales est suggérée &#8211; de la dotation globale de fonctionnement, au fonds de soutien à l&rsquo;investissement public local, au fonds d&rsquo;aménagement et des développement des territoires. Il est également proposé de multiplier la pratique des budgets participatifs, y compris au niveau national.</p>
+<blockquote>
+<p style="text-align: left;">« La publication des données brutes sur ces flux financiers permettrait d’objectiver ce débat en donnant le maximum d’éléments concrets et vérifiables aux élus, media et citoyens. » (issue d&rsquo;une contribution en ligne)</p>
+</blockquote>
+<ul>
+<li><strong>« Rendre des comptes » &#8211; Transparence de la vie publique et politique</strong></li>
+</ul>
+<p style="text-align: justify;">Pour garantir plus de confiance dans la vie politique, l&rsquo;accès à l&rsquo;information et la redevabilité des responsables publics est demandée, via diverses actions : publication des données relatives à l&rsquo;indemnité de représentation de frais de mandat des parlementaires, publication des agendas des élus et responsables d&rsquo;autorités publiques, accès aux comptes des candidats et partis politiques, accès aux données des déclarations d&rsquo;intérêts et de patrimoine.</p>
+<ul>
+<li><strong>Consulter, concerter, co-produire &#8211; Améliorer la fabrique de la loi</strong></li>
+</ul>
+<p style="text-align: justify;">Inclure davantage les citoyens dans le débat public et rendre plus transparentes les étapes d&rsquo;élaboration de la loi, deux priorités qui résument de nombreuses actions proposées, dont : la création d&rsquo;une plateforme d&rsquo;amendement citoyen des projets et propositions de lois, un meilleur référencement de l&rsquo;ensemble des consultations publiques, la création d&rsquo;espaces physiques de participation citoyenne ou encore l&rsquo;instauration d&rsquo;une empreinte normative afin de mieux suivre la procédure législative.</p>
+<ul>
+<li><strong>Ouvrir et partager des ressources numériques &#8211; Poursuivre l&rsquo;ouverture et la circulation des données publiques</strong></li>
+</ul>
+<blockquote>
+<p dir="LTR" align="LEFT">« La question qui se pose ici est la généralisation et la normalisation des logiques de publication afin que le niveau des données publiques accessibles soit homogène quel que soit le territoire et les structures publiques produisant les données. » (issue d&rsquo;une contribution en ligne)</p>
+</blockquote>
+<p style="text-align: justify;">En complément d&rsquo;une gouvernance plus efficace et distribuée des politiques publiques d&rsquo;ouverture et de circulation des données (meilleure qualité des données, référentiels de publication, procédures de saisines), de nombreuses demandes d&rsquo;ouverture de données sectorielles sont exprimées, par exemple : publication en open data des données des contours des bureaux de vote, ouverture des ressources éducatives produites à 50% sur fonds publics, accès à des nombreuses données environnementales et agricoles.</p>
+<ul>
+<li style="text-align: justify;"><strong>Ouvrir et transformer l&rsquo;administration &#8211; Les collectivités locales, laboratoires du gouvernement ouvert</strong></li>
+</ul>
+<p>L&rsquo;échelle locale est largement sollicitée dans les contributions. La création d&rsquo;un poste d' »Administrateur territorial des données » est proposée, tout comme la nécessité d&rsquo;accompagner davantage les collectivités territoriales dans leur transformation numérique.</p>
+<blockquote><p>« La gouvernance du numérique devrait être plus systématiquement intégrée au niveau des directeurs d&rsquo;administration dans les effectifs des collectivités afin de porter une vision globale et faire émerger une culture du numérique dans les services. » (issue d&rsquo;une contribution en ligne)</p></blockquote>
+<h3><span style="color: #00aaff;">Les prochaines étapes dans la rédaction du Plan d&rsquo;action</span></h3>
+<p style="text-align: justify;">Sur la base des propositions qui ont été faites lors de la consultation en ligne, des « <strong>fiches engagements</strong> » (sur la base du <a href="https://www.etalab.gouv.fr/wp-content/uploads/2017/05/Plan-daction-2017-2019_Modèle-dengagement.odt">Modèle d&rsquo;engagement</a> suivant) vont être <strong>adressées aux différents acteurs</strong> susceptibles de porter les futurs engagements du Plan d&rsquo;action. Ces « fiches engagements », qui feront l&rsquo;objet de validations interministérielles, seront ensuite soumises à une <strong>nouvelle consultation en ligne d&rsquo;ici l&rsquo;été 2017</strong>. Des réunions thématiques pourront avoir lieu entre les administrations et les représentants de la société civile souhaitant approfondir conjointement des actions.</p>
+<h4 style="text-align: justify;">Ressources :</h4>
+<ul>
+<li style="text-align: justify;">Retrouver <a href="https://www.data.gouv.fr/fr/datasets/contributions-a-la-consultation-plan-daction-gouvernement-ouvert-2017-2019-ideation-2/" target="_blank" rel="noopener noreferrer">l&rsquo;ensemble des contributions publié en open data</a></li>
+<li style="text-align: justify;"><a href="https://www.etalab.gouv.fr/wp-content/uploads/2017/05/20170531-OGP-Plan-daction-2017-2019-Synth%C3%A8se-contributions-phase-id%C3%A9ation-version-web.pdf" target="_blank" rel="noopener noreferrer" class="broken_link">Accéder à la synthèse</a></li>
+<li style="text-align: justify;"><a href="https://gouvernement-ouvert.etalab.gouv.fr/" target="_blank" rel="noopener noreferrer">Accéder à la plateforme de consultation</a></li>
+</ul>
+<p style="text-align: justify;">Contact : <a href="mailto:gouvernement-ouvert@etalab.gouv.fr">gouvernement-ouvert@etalab.gouv.fr</a></p>
+[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

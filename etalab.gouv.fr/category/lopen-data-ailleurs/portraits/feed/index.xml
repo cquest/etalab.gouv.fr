@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rencontres &amp; Portraits &#8211; Etalab</title>
+	<atom:link href="/category/lopen-data-ailleurs/portraits/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Wed, 17 Sep 2014 08:40:32 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Rencontres &amp; Portraits &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dataconnexions #4 : Entretien avec Frédéric Mazzella, Fondateur de BlablaCar et Président du Jury</title>
+		<link>/dataconnexions4entretienavecfredericmazzellafondateurdeblablacaretpresidentdujury</link>
+		
+		<dc:creator><![CDATA[Etalab]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2013 23:00:00 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[Rencontres & Portraits]]></category>
+		<category><![CDATA[BlaBlaCar]]></category>
+		<category><![CDATA[Dataconnexions]]></category>
+		<guid isPermaLink="false">http://www.etalab.gouv.fr/article-dataconnexions-4-entretien-avec-frederic-mazzella-fondateur-de-blablacar-et-president-du-jury-121351107-comments.html</guid>
+
+					<description><![CDATA[Pour cette 4e édition du concours Dataconnexions, Frédéric Mazzella, Fondateur du service de co-voiturage en ligne BlaBlaCar, a pris la présidence ! Il revient pour nous sur l’importance du digital pour développer de nouveaux services et sur les apports de l’open data comme moteur de développement des jeunes pousses françaises. Découvrez l&#8217;entretien et venez le rencontrer le 4 &#8230;<p class="read-more"> <a class="" href="/dataconnexions4entretienavecfredericmazzellafondateurdeblablacaretpresidentdujury"> <span class="screen-reader-text">Dataconnexions #4 : Entretien avec Frédéric Mazzella, Fondateur de BlablaCar et Président du Jury</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Pour cette 4e édition du concours Dataconnexions, <strong>Frédéric Mazzella</strong>, Fondateur du service de co-voiturage en ligne <a href="http://www.covoiturage.fr/">BlaBlaCar</a>, a pris la présidence !</p>
+<p style="text-align: justify;">Il revient pour nous sur l’importance du digital pour développer de nouveaux services et sur les apports de l’open data comme moteur de développement des jeunes pousses françaises.</p>
+<p style="text-align: justify;"><strong><a href="http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/concours-dataconnexions4-entretien-avec-frederic-mazzella-president-du-jury" class="broken_link">Découvrez l&rsquo;entretien</a></strong> et <strong>venez le rencontrer le 4 décembre </strong><strong>à la <a href="http://fr.amiando.com/QJNTMLU.html" class="broken_link">Cérémonie de Clôture</a></strong><strong><a href="http://fr.amiando.com/QJNTMLU.html" class="broken_link"> de Dataconnexions #4 !</a></strong></p>
+<p style="text-align: justify;">C&rsquo;est <strong>mercredi prochain</strong>, n&rsquo;oubliez pas de <strong><a href="http://fr.amiando.com/QJNTMLU.html" class="broken_link">vous inscrire</a></strong> pour recevoir votre invitation !</p>
+<div class="clear" style="text-align: justify;"></div>
+<div class="clear" style="text-align: justify;"></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

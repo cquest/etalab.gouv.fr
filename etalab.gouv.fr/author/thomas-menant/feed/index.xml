@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Thomas Menant &#8211; Etalab</title>
+	<atom:link href="/author/thomas-menant/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 15 Oct 2019 08:44:28 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Thomas Menant &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[:fr]Le 14 mai, venez tester le « legal design » appliqué aux licences open data[:]</title>
+		<link>/le-14-mai-venez-tester-le-legal-design-applique-aux-licences-open-data</link>
+		
+		<dc:creator><![CDATA[Thomas Menant]]></dc:creator>
+		<pubDate>Tue, 24 Apr 2018 13:44:58 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Ecosystème]]></category>
+		<category><![CDATA[Réutilisations]]></category>
+		<category><![CDATA[licences open data]]></category>
+		<category><![CDATA[open law]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8264</guid>
+
+					<description><![CDATA[[:fr] Etalab s&#8217;associe à Open Law et vous invitent à participer, lundi 14 mai de 17 h 00 à 20 h 00, à une démarche de legal design pour expliciter, sous la meilleure forme possible, les droits et devoirs des réutilisateurs de données publiques. Ce cycle autour de l&#8217;open data et des licences durera jusqu’en &#8230;<p class="read-more"> <a class="" href="/le-14-mai-venez-tester-le-legal-design-applique-aux-licences-open-data"> <span class="screen-reader-text">[:fr]Le 14 mai, venez tester le « legal design » appliqué aux licences open data[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]
+<p style="text-align: left;">Etalab s&rsquo;associe à <a href="http://openlaw.fr/">Open Law</a> et vous invitent à participer,<strong> lundi 14 mai de 17 h 00 à 20 h 00,</strong> à une démarche de <em>legal design</em> pour expliciter, sous la meilleure forme possible, les droits et devoirs des réutilisateurs de données publiques. Ce cycle autour de l&rsquo;open data et des licences durera jusqu’en octobre 2018 ; il sera composé de trois ateliers.</p>
+<blockquote><p><img decoding="async" class="alignleft " src="http://openlaw.fr/sites/default/files/LogoOpenLaw.png" width="110" height="110" />Open Law est une association qui vise à réunir l’ensemble des acteurs du monde du droit prêts à innover. Leurs actions aboutissent à la production de ressources communes (référentiels, ontologies, livres blancs, modèles de statuts, cahiers des charges, bases de données, développements Open Source, etc.), qui, à plus long terme, alimentent tous ceux qui cherchent à innover et développer de nouveaux services ou concepts.</p>
+<p>Le legal design est une démarche exploratoire visant à apporter les méthodes du design dans la sphère juridique. <a href="https://medium.com/@thinkled.openlaw">Retrouvez le blog du Think LeD.</a></p></blockquote>
+<p>&nbsp;</p>
+<h3>Les objectifs de ce premier atelier :</h3>
+<p>Le 14 mai, nous vous proposons de venir :</p>
+<ul>
+<li>Faciliter<strong> la compréhension de l’open data</strong>, à la fois pour les administrations qui doivent ouvrir leurs données (et leurs codes-sources) et pour ceux, nombreux, qui ont vocation à réutiliser ces données.</li>
+<li>Mettre en œuvre une démarche de <em>legal design</em> pour expliciter, sous la meilleure forme possible, les licences ouvertes.</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Où et quand nous rejoindre ?</h3>
+<p>Cet atelier est collaboratif et pluridisciplinaire. Il est ouvert à tous : usagers, designers, juristes, développeurs, entrepreneurs&#8230;</p>
+<p><strong>Il se déroulera au 137 boulevard de Magenta à Paris.</strong></p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-medium wp-image-8265" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/04/openlaw-264x300.png" alt="" width="264" height="300" srcset="/wp-content/uploads/2018/04/openlaw-264x300.png 264w, /wp-content/uploads/2018/04/openlaw.png 351w" sizes="(max-width: 264px) 100vw, 264px" /></p>
+<h6 style="text-align: center;"><a href="https://www.meetup.com/fr-FR/Open-Law/events/249704631/"><button><em>Inscription</em></button></a></h6>
+[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Licence ouverte : une nouvelle version pour anticiper le cadre légal à venir</title>
+		<link>/licence-ouverte-une-nouvelle-mouture-pour-anticiper-le-cadre-legal-a-venir</link>
+		
+		<dc:creator><![CDATA[Thomas Menant]]></dc:creator>
+		<pubDate>Mon, 20 Mar 2017 17:54:59 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[droit]]></category>
+		<category><![CDATA[licence ouverte]]></category>
+		<category><![CDATA[loi]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[République numérique]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=6663</guid>
+
+					<description><![CDATA[[:fr] L’adoption successive des lois n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public et n° 2016-1321 du 7 octobre 2016 pour une République numérique, le code des relations entre le public et l’administration a largement modifié le cadre juridique de la réutilisation &#8230;<p class="read-more"> <a class="" href="/licence-ouverte-une-nouvelle-mouture-pour-anticiper-le-cadre-legal-a-venir"> <span class="screen-reader-text">Licence ouverte : une nouvelle version pour anticiper le cadre légal à venir</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]
+<p style="text-align: justify;">L’adoption successive des <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031701525&amp;categorieLien=id">lois n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public</a> et <a href="https://www.legifrance.gouv.fr/eli/loi/2016/10/7/ECFI1524250L/jo/texte">n° 2016-1321 du 7 octobre 2016 pour une République numérique</a><strong>,</strong> <a href="https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000032255214&amp;idSectionTA=LEGISCTA000032255212&amp;cidTexte=LEGITEXT000031366350&amp;dateTexte=20160915">le code des relations entre le public et l’administration</a> a largement modifié le cadre juridique de la réutilisation des informations publiques [<a href="https://www.etalab.gouv.fr/ce-que-le-projet-de-loi-pour-une-republique-numerique-change-pour-la-donnee">voir notre article sur le sujet</a>].</p>
+<p style="text-align: justify;">Désormais la réutilisation des informations publiques à titre gratuit peut donner lieu à l&rsquo;établissement d&rsquo;une licence. <strong>Cette licence est alors choisie parmi celles figurant sur une liste fixée par décret.</strong><span id="more-6663"></span></p>
+<p><img decoding="async" class="size-medium aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Logo_Licence_Ouverte_bleu_blanc_rouge.png" width="645" height="276" /></p>
+<p style="text-align: justify;">Dans ce contexte, Etalab a conçu une nouvelle version de la <strong>« Licence Ouverte / Open Licence »</strong>. Elle figurera bien évidemment dans la liste publiée par décret très prochainement.</p>
+<p>Elle conserve les principales caractéristiques de la « Licence Ouverte / Open Licence » de 2011 :</p>
+<blockquote>
+<ul>
+<li><strong>Une grande liberté de réutilisation des informations : </strong></li>
+</ul>
+<ol>
+<ul>
+<li>La licence ouverte, libre et gratuite, apporte la sécurité juridique nécessaire aux producteurs et aux réutilisateurs des données publiques ;</li>
+<li>La licence promeut la réutilisation la plus large en autorisant la reproduction, la redistribution, l’adaptation et l’exploitation commerciale des données ;</li>
+<li>La licence s’inscrit dans un contexte international en étant compatible avec les standards des licences Open Data développées à l’étranger et notamment celles du gouvernement britannique (Open Government Licence) ainsi que les autres standards internationaux (ODC-BY, CC-BY).</li>
+</ul>
+</ol>
+<ul>
+<li><strong>Une exigence forte de transparence de la donnée et de qualité des sources en rendant obligatoire la mention de la paternité</strong>.</li>
+</ul>
+<ul>
+<li><strong>Une opportunité de mutualisation pour les autres données publiques en mettant en place un standard utilisé par l&rsquo;ensemble des administrations pour l&rsquo;ouverture des données publiques.</strong></li>
+</ul>
+</blockquote>
+<p style="text-align: justify;">Elle prend désormais en compte la réutilisation des informations publiques comportant de données à caractère personnel. En effet, la loi pour une République numérique a supprimé l’exigence selon laquelle <em>« les </em><em>informations publiques comportant des données à caractère personnel peuvent faire l&rsquo;objet d&rsquo;une réutilisation soit lorsque la personne intéressée y a consenti, soit si l&rsquo;autorité détentrice est en mesure de les rendre anonymes ou, à défaut d&rsquo;anonymisation, si une disposition législative ou réglementaire le permet »</em>.</p>
+<p style="text-align: justify;">La  « Licence ouverte » s’adapte ainsi au nouveau cadre juridique en vigueur et rappelle que la réutilisation d&rsquo;informations publiques comportant des données à caractère personnel est subordonnée au respect des dispositions de <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000886460">la loi n° 78-17 du 6 janvier 1978 relative à l&rsquo;informatique, aux fichiers et aux libertés</a>.</p>
+<p style="text-align: justify;">Dès la publication du décret prévu à l’article <a href="https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=54EBC17F03CE7A866D73CF1E66B9B45A.tpdila17v_1?idArticle=LEGIARTI000033219073&amp;cidTexte=LEGITEXT000031366350&amp;dateTexte=20170315">L. 323-2</a> du code des relations entre le public et l’administration, <strong>la « Licence Ouverte / Open Licence » s’appliquera par défaut à l’ensemble des réutilisations gratuites de données publiques issues des administrations.</strong> Elle a pour vocation de remplacer la précédente Licence ouverte pour l&rsquo;ensemble des réutilisateurs <strong>sans aucune conséquence juridique.</strong> Cette licence est compatible avec toutes les licences prévoyant au moins la mention de paternité dans l&rsquo;ensemble de leurs versions.</p>
+<p style="text-align: center;"><a href="https://www.etalab.gouv.fr/wp-content/uploads/2017/03/Licence-Ouverte-Administrations.pdf"><strong>Télécharger la Licence Ouverte Administrations</strong></a></p>
+<p style="text-align: left;"><span style="color: #ff0000;"><strong>NB : Un correctif à cet article a été apporté dans le <a style="color: #ff0000;" href="https://www.etalab.gouv.fr/nouvelle-licence-pour-la-reutilisation-des-informations-publiques-elements-de-clarification">billet suivant du 24 mars 2017</a></strong></span></p>
+[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

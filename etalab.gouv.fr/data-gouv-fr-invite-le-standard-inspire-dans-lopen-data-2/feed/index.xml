@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Commentaires sur : Data.gouv.fr invite le standard Inspire dans l&#8217;open data	</title>
+	<atom:link href="/data-gouv-fr-invite-le-standard-inspire-dans-lopen-data-2/feed" rel="self" type="application/rss+xml" />
+	<link>/data-gouv-fr-invite-le-standard-inspire-dans-lopen-data-2</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Mon, 13 Apr 2015 09:59:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>
+		Par : OpenData France &#187; La quinzaine des Données Ouvertes #94 (open data)		</title>
+		<link>/data-gouv-fr-invite-le-standard-inspire-dans-lopen-data-2#comment-1168</link>
+
+		<dc:creator><![CDATA[OpenData France &#187; La quinzaine des Données Ouvertes #94 (open data)]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2015 09:59:07 +0000</pubDate>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3084#comment-1168</guid>
+
+					<description><![CDATA[[&#8230;] » Pour lire la suite, rendez-vous Etalab [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] » Pour lire la suite, rendez-vous Etalab [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

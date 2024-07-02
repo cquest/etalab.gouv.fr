@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Données &#8211; Etalab</title>
+	<atom:link href="/category/data-gouv/donnees/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 16 Feb 2021 17:22:46 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Données &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rétrospective 2020 #3/6 : Les données publiques au service de la gestion de crise et du pilotage des politiques publiques</title>
+		<link>/les-donnees-publiques-au-service-de-la-gestion-de-crise-et-du-pilotage-des-politiques-publiques</link>
+		
+		<dc:creator><![CDATA[Antonin Garrone]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2021 17:00:34 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[Open data]]></category>
+		<category><![CDATA[Réutilisations]]></category>
+		<category><![CDATA[covid-19]]></category>
+		<category><![CDATA[open data]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14953</guid>
+
+					<description><![CDATA[Ce blogpost fait partie d&#8217;une série de rétrospectives de l’année 2020 autour d’axes de travail d’Etalab : utiliser la science des données et l’intelligence artificielle pour l’administration, accompagner l’administration dans l’utilisation de logiciels libres et la publication de codes sources, ouvrir et faire circuler les données publiques, accompagner les administrations à travers le programme EIG, &#8230;<p class="read-more"> <a class="" href="/les-donnees-publiques-au-service-de-la-gestion-de-crise-et-du-pilotage-des-politiques-publiques"> <span class="screen-reader-text">Rétrospective 2020 #3/6 : Les données publiques au service de la gestion de crise et du pilotage des politiques publiques</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p><em>Ce blogpost fait partie d&rsquo;une série de rétrospectives de l’année 2020 autour d’axes de travail d’Etalab : <a href="https://www.etalab.gouv.fr/retrospective-2020-1-6-lab-ia-datascience-et-intelligence-artificielle-pour-ladministration">utiliser la science des données et l’intelligence artificielle pour l’administration</a>, <a href="https://www.etalab.gouv.fr/retrospective-2020-2-6-laccompagnement-a-louverture-des-codes-sources-et-lutilisation-de-logiciels-libres">accompagner l’administration dans l’utilisation de logiciels libres et la publication de codes sources</a>, ouvrir et faire circuler les données publiques, accompagner les administrations à travers le programme EIG, accompagner les administrations sur l’explicabilité et la redevabilité des algorithmes.</em></p></blockquote>
+
+
+
+<h3 class="wp-block-heading">L&rsquo;open data au coeur de la gestion de crise</h3>
+
+
+
+<p>L&rsquo;année 2020 a été une année très particulière pour l&rsquo;open data. La fréquentation de data.gouv.fr a atteint un record absolu avec un pic au <strong>mois de novembre 2020 lors duquel la plateforme a accueilli 2 305 255 visiteurs uniques</strong>.</p>
+
+
+
+<p>Ces chiffres s&rsquo;expliquent en grande partie par l&rsquo;intérêt du public pour les données et les réutilisations relatives au COVID-19.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="2500" height="900" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/newplot-28.png" alt="" class="wp-image-14959"/></figure>
+
+
+
+<p>Les usages de la plateforme ont également connu une hausse importante. De nombreux jeux de données et réutilisations ont été publiés en 2020.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="2500" height="900" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/newplot-29.png" alt="Jeux de données et réutilisations publiés sur data.gouv.fr en 2020" class="wp-image-14958"/></figure>
+
+
+
+<p>Si l&rsquo;attention a été porté sur les <a href="https://www.data.gouv.fr/fr/pages/donnees-coronavirus" class="broken_link">données relatives à l&rsquo;épidémie de COVID-19</a> afin de répondre aux exigences de transparence et de pilotage informé de la crise sanitaire, l&rsquo;année 2020 représente également un tournant pour l&rsquo;open data des données environnementales en particulier grâce au travail de l&rsquo;<a href="https://www.data.gouv.fr/fr/organizations/ademe/">ADEME</a>.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Pour en savoir plus sur l&rsquo;activité de la plateforme nationale de données en 2020, rendez-vous sur le <a href="https://www.data.gouv.fr/fr/posts/retour-sur-les-activites-de-data-gouv-fr-en-2020/">bilan 2020 de data.gouv.fr</a>.</p></blockquote>
+
+
+
+<h3 class="wp-block-heading">L&rsquo;open data au service de l&rsquo;information et du pilotage des politiques publiques</h3>
+
+
+
+<p>Nous avons également assisté en 2020 à une accélération des services numériques fondés sur les données ouvertes.</p>
+
+
+
+<h4 class="wp-block-heading">Un tableau de bord pour suivre l&rsquo;épidémie de COVID-19</h4>
+
+
+
+<p>Afin de rendre les données relatives à la COVID-19 accessibles et compréhensibles pour le plus grand nombre, un <a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees">tableau de bord développé par Etalab a été publié sur gouvernement.fr</a>. Celui-ci permet de visualiser l’ensemble des indicateurs de suivi de l’épidémie.</p>
+
+
+
+<p>La mise à disposition et la visualisation de ces données permettent d&rsquo;assurer la juste information du public et de faire acte de transparence sur les informations fondant les prises de décisions du gouvernement.</p>
+
+
+
+<figure class="wp-block-image alignfull"><img decoding="async" src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_9773f67bf6296fc43478899c2840bbd1.png" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees">Consulter le tableau de bord</a></p></blockquote>
+
+
+
+<h4 class="wp-block-heading">Le tableau de bord des aides aux entreprises</h4>
+
+
+
+<p>De la même manière, un tableau de bord permettant de mettre à la disposition les données sur les aides versées à destination des entreprises affectées par la crise sanitaire a été développé par Etalab.</p>
+
+
+
+<p>Ces données, détaillées par secteur d’activité et par zone géographique, permettent non seulement aux citoyens de suivre de façon transparente l&rsquo;action de l&rsquo;État, mais apporte également aux décideurs une visibilité claire, en temps réel, de la mise en oeuvre des mesures. Ceci permet notamment d&rsquo;identifier plus rapidement les adaptations nécessaires et les futures actions à mettre en oeuvre.</p>
+
+
+
+<figure class="wp-block-image alignfull"><img decoding="async" src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_7744763c2bb81ecd13b1d0fdc330aaca.png" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://aides-entreprises.data.gouv.fr/" class="broken_link">Consulter le tableau de bord</a></p></blockquote>
+
+
+
+<h4 class="wp-block-heading">Le baromètre des résultats de l&rsquo;action publique</h4>
+
+
+
+<p>L&rsquo;année 2020 est aussi l&rsquo;année de la publication du baromètre des résultats de l’action publique. <a href="https://www.gouvernement.fr/les-actions-du-gouvernement">Accessible en ligne sur le site gouvernement.fr</a>, le baromètre permet à chaque citoyen et décideur de suivre l’action du Gouvernement, politique par politique, territoire par territoire.</p>
+
+
+
+<p>Ce tableau de bord participe à l&rsquo;amélioration du pilotage des politiques publiques en les inscrivant dans une perspective de résultats et de transparence du service rendu à l&rsquo;usager.</p>
+
+
+
+<figure class="wp-block-image alignfull"><img decoding="async" src="https://static.data.gouv.fr/images/9c/07f40f654c470ab563d274ff883780.jpg" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://aides-entreprises.data.gouv.fr/" class="broken_link">Consulter le tableau de bord</a></p></blockquote>
+
+
+
+<h4 class="wp-block-heading">L&rsquo;annuaire des entreprises</h4>
+
+
+
+<p>En 2020, Etalab a également développé avec la DGE, le site <a href="https://annuaire-entreprises.data.gouv.fr/">annuaire-entreprises</a>. L&rsquo;ambition de ce portail est de devenir la référence dans la consultation des données relatives aux personnes morales.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_02da9878bff0b94f8460d16c61fa62ff.png" alt=""/></figure>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://annuaire-entreprises.data.gouv.fr/" rel="sponsored nofollow">Voir l&rsquo;Annuaire des Entreprises</a></p></blockquote>
+
+
+
+<h3 class="wp-block-heading">La publication du rapport sur la politique publique de la donnée, des algorithmes et des codes sources</h3>
+
+
+
+<p>L&rsquo;année 2020 est aussi celle de la <a href="https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources">remise au Premier ministre du rapport sur la politique publique de la donnée, des algorithmes et des codes sources</a>. </p>
+
+
+
+<p>En six mois, la mission conduite par le député Eric Bothorel a réalisé plus de 250 auditions et a conduit une <a href="https://www.mission-open-data.fr/">consultation en ligne</a>, à laquelle ont contribué plus de 500 personnes et organisations.</p>
+
+
+
+<p>Le rapport propose notamment une dizaine d’études de cas comme les données de la délinquance, les modèles épidémiologiques de l’Institut Pasteur, l’ouverture de la base Sirene ou encore des exemples étrangers.</p>
+
+
+
+<p>A l&rsquo;issue de ces travaux, le gouvernement a annoncé des dispositions en matière de données à l&rsquo;occasion du <a href="https://www.modernisation.gouv.fr/transformation-publique/comites-interministeriels-de-la-transformation-publique/article-citp" class="broken_link">5e Comité Interministériel pour la Transformation Publique</a>.</p>
+
+
+
+<p>Le gouvernement a notamment pris l&rsquo;engagement suivant :</p>
+
+
+
+<blockquote class="wp-block-quote"><p>« Une politique publique de la donnée ambitieuse sera mise en œuvre par tous les ministères pour mieux exploiter, ouvrir, partager et valoriser les données publiques, au bénéfice de la transparence et de l’efficacité de l’action publique. »</p></blockquote>
+
+
+
+<p>Chaque ministère sera ainsi chargé de décliner une feuille de route ambitieuse en matière de valorisation des données de son périmètre, en s’appuyant sur une gouvernance renouvelée et plus efficace. L&rsquo;État prendra également une charte d’engagement sur le traitement des demandes de données des chercheurs, et renforcera sa politique de ressources humaines dans le domaine de la donnée.</p>
+
+
+
+<p>Dans ce cadre, de nouvelles bases de données, API et codes sources publics seront ouverts d&rsquo;ici la fin 2021, parmi lesquels :</p>
+
+
+
+<ul><li>les données de la carte scolaire des collèges ;</li><li>les données librement accessibles du répertoire opérationnel de ressources qui recense l&rsquo;ensemble de l&rsquo;offre sanitaire et du médico-social ;</li><li>les données sur les auto-écoles ayant reçu un agrément préfectoral ;</li><li>les données sur l&rsquo;agriculture biologique à la maille communale ;</li><li>les données de mise en oeuvre du plan de relance ;</li><li>les données des permis de construire des personnes physiques.</li></ul>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://www.mission-open-data.fr/uploads/decidim/attachment/file/36/Mission_Bothorel_Rapport.pdf">Lire le rapport sur la politique publique de la donnée, des algorithmes et des codes sources</a>.</p><p><a href="https://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/dp_citp_vdef_1.pdf" class="broken_link">En savoir plus sur les annonces du 5e Comité Interministériel pour la Transformation Publique</a>.</p></blockquote>
+
+
+
+<h3 class="wp-block-heading">La France reste leader en matière d&rsquo;open data en Europe</h3>
+
+
+
+<p>La France conserve sa place sur le podium des pays leader en matière d&rsquo;open data en Europe selon l&rsquo;<a href="https://www.europeandataportal.eu/en/dashboard/2020">Open Data Maturity Index</a> de la Commission Européenne.</p>
+
+
+
+<p>La Commission accorde la première place à la France pour son cadre politico-légal et pour son portail national data.gouv.fr. En revanche, en ce qui concerne la qualité des données et l&rsquo;impact, la France se situe, respectivement, à la cinquième et sixième place.</p>
+
+
+
+<figure class="wp-block-image alignfull"><img decoding="async" src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_31d140ae53955dd995c52667ff8768c5.png" alt=""/></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Faire l&#8217;inventaire des algorithmes publics : point d&#8217;étape sur les actions d&#8217;Etalab</title>
+		<link>/faire-linventaire-des-algorithmes-publics-point-detape-sur-les-actions-detalab</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Wed, 03 Feb 2021 11:05:10 +0000</pubDate>
+				<category><![CDATA[Données]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[algorithme]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14863</guid>
+
+					<description><![CDATA[Au cours du dernier trimestre 2020, Soizic Pénicaud et Simon Chignard d’Etalab ont animé un groupe de travail restreint réunissant des collectivités et des ministères. L’objectif : mettre en œuvre l’inventaire des algorithmes publics, l’une des trois obligations issues de la Loi pour une République numérique. Retour sur la démarche, ses principaux résultats et les &#8230;<p class="read-more"> <a class="" href="/faire-linventaire-des-algorithmes-publics-point-detape-sur-les-actions-detalab"> <span class="screen-reader-text">Faire l&#8217;inventaire des algorithmes publics : point d&#8217;étape sur les actions d&#8217;Etalab</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Au cours du dernier trimestre 2020, Soizic Pénicaud et Simon Chignard d’Etalab ont animé un groupe de travail restreint réunissant des collectivités et des ministères. L’objectif : mettre en œuvre l’inventaire des algorithmes publics, l’une des trois obligations issues de la Loi pour une République numérique. Retour sur la démarche, ses principaux résultats et les prochaines étapes.</em></p>
+
+
+
+<p>Le sujet des algorithmes publics a gagné en visibilité en 2020. L’échéance du 1er juillet dernier (et le risque de sanction en cas d’absence de la mention explicite prévue par la loi) a permis une prise de conscience des enjeux et des obligations, prise de conscience facilitée aussi par la <a href="https://www.lagazettedescommunes.com/692382/les-algorithmes-vont-ils-prendre-le-pouvoir/?abo=1">presse</a>. Signe d’un intérêt croissant, le premier <a href="https://www.etalab.gouv.fr/transparence-des-algorithmes-publics-regardez-le-webinaire-a-lintention-des-administrations">webinaire</a> organisé en juin 2020 par Etalab a accueilli plus d’une centaine de participants, soucieux d’en connaître davantage sur les enjeux juridiques et pratiques d’une plus grande transparence des algorithmes.&nbsp;</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Etalab organise un second webinaire consacré cette fois-ci à l&rsquo;inventaire des algorithmes publics le 11 février 2021 à 10h. <a href="https://app.livestorm.co/etalab-donnees/comment-faire-linventaire-des-algorithmes-publics" target="_blank" rel="noreferrer noopener" class="broken_link">Inscrivez-vous !</a></p></blockquote>
+
+
+
+<p>Notre pays est l’un des premiers à s’être doté, dès 2016, d’un corpus législatif cohérent sur le sujet, avec d’une part la loi pour une République numérique et d’autre part l’adaptation du règlement général sur la protection des données à caractère personnel (RGPD). Cependant, on constate souvent que les administrations ont besoin d’accompagnement pour appliquer le cadre juridique existant. Dès lors, il nous a semblé indispensable <strong>d’aller plus loin</strong> que le rappel voire l’explication des lois, comme cela est déjà le cas avec le <a href="https://guides.etalab.gouv.fr/algorithmes/guide/#_1-a-quoi-servent-les-algorithmes-publics">guide des algorithmes publics</a>. C’est de cette volonté qu’est née l&rsquo;idée d’un groupe de travail informel réunissant quelques administrations volontaires autour d’un objectif commun: progresser sur l<strong>’inventaire des algorithmes publics</strong>.</p>
+
+
+
+<p><strong>Un groupe restreint et informel pour avancer ensemble</strong> </p>
+
+
+
+<p>Mi-2020, Etalab a sollicité un petit nombre d’administrations pour participer à un groupe de travail informel, en ciblant en priorité celles qui avaient manifesté leur intérêt pour le sujet des algorithmes. Nous avons fait le pari d’animer un groupe mêlant des ministères et des collectivités locales dans une même démarche. Ainsi, d’octobre à décembre 2020, nous avons animé cinq sessions de travail. Autour de la table (ou plutôt, de l’écran, crise sanitaire oblige) : <strong>Maryse Le Bras</strong>, du Ministère de l’Education nationale, <strong>Cécile Le Guen</strong>, de la Direction des douanes et des droits indirects, <strong>Anthony Claverie</strong> de la Ville d’Antibes et <strong>Nathalie Vernus Prost</strong> de la Métropole de Lyon. Tous ont accepté de partager leurs réalisations, leurs interrogations et parfois aussi leurs doutes pendant ce trimestre. Qu’elles et il en soient ici remerciés.</p>
+
+
+
+<p>Le point de départ de nos travaux était l’<strong>article du Code des relations entre le public et l’administration</strong> qui évoque l’inventaire des algorithmes publics. Voilà ce qui dit le texte: les administrations sont tenues de publier en ligne “<em>les règles définissant les principaux traitements algorithmiques utilisés dans l’accomplissement de leurs missions lorsqu’ils fondent des décisions individuelles”</em>.</p>
+
+
+
+<p>Le point d’arrivée est un <strong>modèle d’inventaire des algorithmes</strong> publics en <strong>version beta</strong>, que nous allons prochainement mettre en débat pour amélioration et commentaires. Ce modèle, une fois consolidé, pourra être adopté par toute administration souhaitant publier son propre inventaire et se mettre ainsi en conformité avec la loi. La ville d’Antibes a d’ailleurs récemment publié une <a href="https://www.antibes-juanlespins.com/administration/acces-aux-documents-administratifs" class="broken_link">première version</a> de cet inventaire à l’aide de ce modèle. Au cours de ce trimestre de travail, nous avons aussi été inspirés par plusieurs initiatives d’inventaire des algorithmes publics, par exemple de <a href="https://data.nantesmetropole.fr/pages/algorithmes_nantes_metropole/">Nantes Métropole</a>, d’<a href="https://algoritmeregister.amsterdam.nl/en/ai-register/">Amsterdam</a> et d’<a href="https://ai.hel.fi/en/ai-register/">Helsinki</a>. Parallèlement à ce groupe de travail, l’équipe d’Etalab a aussi échangé avec plusieurs pays, dont le Canada, le Royaume-Uni, les Pays-Bas et la Nouvelle-Zélande dans le cadre des travaux du groupe « <a href="https://www.opengovpartnership.org/topic/open-algorithms-blog-series/">Open Algorithms</a> » du Partenariat pour le Gouvernement ouvert (PGO).</p>
+
+
+
+<p><strong>Ce que nous avons appris en chemin</strong></p>
+
+
+
+<p>En préparant ce modèle d’inventaire, nous avons identifié plusieurs enjeux qui méritent d’être partagés.</p>
+
+
+
+<p>Il faut tout d’abord souligner la proximité, <em>de fait et de droit</em>, entre le sujet de l’open data et la question des algorithmes. De fait, les agents des administrations mobilisés sur cette dernière question sont aussi ceux qui le sont pour l’ouverture des données publiques. De droit, ensuite: la plupart des dispositions liées aux algorithmes et à l’open data apparaissent dans le même Code des relations entre le public et l&rsquo;administration.                                                                                                                                                                                                                                                                                                                             Les difficultés rencontrées sont identiques, avec notamment un très fort enjeu d’acculturation et de pédagogie en interne au sein des administrations.&nbsp;</p>
+
+
+
+<p><em>Comment parler des algorithmes ?</em> Pas facile! La discussion a fait ressortir le besoin d’illustrations, d’exemples d’algorithmes dans le secteur public. Le terme même d’algorithme est souvent mal compris. Les frontières de l’algorithme et son tropisme numérique font aussi l’objet de discussion, et la confusion règne parfois entre algorithme, traitement automatisé et code source, trois notions qui cohabitent dans les textes juridiques.&nbsp;</p>
+
+
+
+<p>C’est bien souvent à partir d’exemples que les services métiers se saisissent de la question, plutôt que par la définition. Ainsi, la bonne question à poser en interne n’est pas tant “<em>quels sont les algorithmes que vous utilisez ?</em>” mais plutôt “<em>quelles sont les décisions que vous prenez, par exemple envers les administrés</em> ?”. Il est parfois plus aisé de commencer par identifier les décisions administratives pour arriver ensuite aux outils qui aident à prendre ces décisions, et non l’inverse.</p>
+
+
+
+<p><em>Qui doit réaliser cet inventaire ?</em> La gouvernance des algorithmes publics, au sens large, est encore largement à construire. À coup sûr, elle doit faire intervenir de nombreux intervenants dans l’organisation: direction métiers, direction du numérique, délégués à la protection des données, personnes en charge de l’accès aux documents administratifs (<a href="https://www.cada.fr/administration/le-role-de-la-prada">PRADA</a>). Dans les administrations que nous avons rencontrées, c’est souvent la personne chargée de l’ouverture des données qui joue le rôle de chef d’orchestre de la transparence des algorithmes. On notera d&rsquo;ailleurs avec intérêt que le <a href="https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources">rapport</a> remis par le député Eric Bothorel au Premier ministre propose d’élargir le périmètre des administrateurs des données en leur confiant aussi les sujets d’algorithmes et de codes sources.</p>
+
+
+
+<p><em>Un inventaire, pour qui ?</em> <em>Un inventaire pour quoi ?</em> La question des cibles de cet inventaire est étroitement liée à celle des usages… et des moyens disponibles. On l’aura compris, réaliser un tel inventaire est une obligation légale. Mais rien n’interdit aussi de s’interroger sur les objectifs à atteindre et sur les publics cibles. Dans l’esprit du législateur, cet inventaire est l’une des trois composantes de la transparence des algorithmes, avec la mention explicite et le droit à l’information individuelle. En ce sens, l’inventaire contribue à rendre visible à la société des systèmes qui sont parfois invisibles. Cette mise en visibilité n’est que la première étape, c’est un moyen mais surtout pas une fin. Le travail de médiation à réaliser reste essentiel, pour permettre à chacun de s’emparer de ces informations.&nbsp;</p>
+
+
+
+<p><strong>Pour aller plus loin</strong></p>
+
+
+
+<p><em>Comment réaliser cet inventaire ? Que doit-il contenir ? Où le publier ? </em>Pour répondre à ces questions, Etalab organise le <strong>11 février 2021 à 10h</strong> un webinaire en ligne sur l’inventaire des algorithmes publics, avec le témoignage des participants à ce groupe de travail. <a href="https://app.livestorm.co/etalab-donnees/comment-faire-linventaire-des-algorithmes-publics" class="broken_link">Inscription gratuite et obligatoire</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Comment les administrations ont collaboré à l&#8217;ouverture des données du Coronavirus : le cas français</title>
+		<link>/comment-les-administrations-ont-collabore-a-louverture-des-donnees-du-coronavirus-le-cas-francais</link>
+		
+		<dc:creator><![CDATA[Anne-Laure Fréant]]></dc:creator>
+		<pubDate>Tue, 09 Jun 2020 13:42:13 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[base de données]]></category>
+		<category><![CDATA[crise sanitaire]]></category>
+		<category><![CDATA[données]]></category>
+		<category><![CDATA[gouvernement]]></category>
+		<category><![CDATA[open data]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14073</guid>
+
+					<description><![CDATA[La crise du Coronavirus a mobilisé simultanément les administrations et la société civile, le monde académique et les médias partout dans le monde autour de la collecte, de la consolidation, de la vérification et de la mise en valeur des données. Le besoin de données précises et exhaustives a été critique dès le début de &#8230;<p class="read-more"> <a class="" href="/comment-les-administrations-ont-collabore-a-louverture-des-donnees-du-coronavirus-le-cas-francais"> <span class="screen-reader-text">Comment les administrations ont collaboré à l&#8217;ouverture des données du Coronavirus : le cas français</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>La crise du Coronavirus a mobilisé simultanément les administrations et la société civile, le monde académique et les médias partout dans le monde autour de la collecte, de la consolidation, de la vérification et de la mise en valeur des données. Le besoin de données précises et exhaustives a été critique dès le début de l’épidémie, autour des enjeux de gestion de crise, de transparence et d’information du public. Cet article relate comment les administrations ont collaboré pour ouvrir les données relatives à l’épidémie de COVID-19 en France.</em></p>
+
+
+
+<h3 class="wp-block-heading"><strong>Récolter et publier les données de santé à l’échelle nationale : le défi des administrations</strong></h3>
+
+
+
+<p>Pour les administrations situées en première ligne, comme<strong> le ministère des Solidarités et de la Santé, Santé publique France (SPF)</strong> et <strong>les Agences Régionales de Santé (ARS)</strong>, le défi a été de parvenir à collecter et à consolider d’importants volumes de données issues de sources différentes.<br><br>Si des systèmes d’informations nationaux existaient déjà, il a cependant été nécessaire de les adapter pour réaliser un suivi spécifique des patients atteints de Covid-19. Par ailleurs, les différents acteurs de la santé (services hospitaliers, services d’appels d’urgence, équipes de SOS médecins&#8230;) s’appuient au quotidien sur des systèmes d’informations qui sont propres à leur métier. Ces derniers proposent différents modes des saisies et souvent, différentes structures de données.<br><br>L’exercice était d’autant plus difficile que ces données devaient être collectées et mises à jour à une échelle nationale dans des délais particulièrement courts.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Collecter, consolider, nettoyer et ouvrir les données relatives à l’épidémie</strong></h3>
+
+
+
+<h4 class="wp-block-heading">Pour observer la propagation de l’épidémie</h4>
+
+
+
+<p>L’accélération de la propagation de l’épidémie dans le monde a intensifié le besoin d’identifier le plus rapidement possible les personnes infectées au Covid-19. Très vite, de premières données ont été mises à disposition à l’échelle mondiale, européenne et nationale : les <a href="https://coronavirus.jhu.edu/map.html#_blank"><u>données l’université John Hopkins</u></a>, les <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/#_blank"><u>données de l’organisation mondiale de la santé</u></a> ou encore celles du <a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide#_blank"><u>Centre Européen de prévention et de contrôle des maladies</u></a>.</p>
+
+
+
+<p>En France, les données concernant le nombre de cas, de personnes hospitalisées ainsi que de personnes décédées étaient publiées dans <a href="https://www.santepubliquefrance.fr/recherche/#search=COVID%2019%20%20%20point%20epidemiologique&amp;publications=donn%C3%A9es&amp;regions=National&amp;sort=date"><u><strong>des point épidémiologiques par Santé publique France</strong></u></a> et consultables sur un <u><strong><a rel="noreferrer noopener" href="https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde#block-242818" target="_blank">tableau de bord</a></strong></u> pour les données nationales.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="789" height="532" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/04/tableau_spf.png" alt="" class="wp-image-14319" srcset="/wp-content/uploads/2020/04/tableau_spf.png 789w, /wp-content/uploads/2020/04/tableau_spf-300x202.png 300w, /wp-content/uploads/2020/04/tableau_spf-768x518.png 768w" sizes="(max-width: 789px) 100vw, 789px" /><figcaption><em>Le tableau de bord disponible sur </em><a href="https://www.santepubliquefrance.fr/"><em><u>le site de Santé publique France </u></em></a><em>début mars</em> 2020</figcaption></figure></div>
+
+
+
+<p>Afin d’apporter une vision à l’échelle des régions et départements de la situation, l’initiative<a href="https://github.com/opencovid19-fr/#_blank"></a><a href="https://github.com/opencovid19-fr/#_blank"><u><strong>« OpenCOVID19 »</strong></u></a>, menée par la société civile, a consolidé de manière collaborative les données issues (entre autres sources) des bulletins de Santé publique France, des Agences Régionales de Santé, des préfectures et des interventions de la Direction générale de la santé (DGS).</p>
+
+
+
+<h4 class="wp-block-heading">Pour évaluer la mise en tension du système de santé</h4>
+
+
+
+<p>Alors que l’épidémie continuait de se propager sur le territoire, il est devenu urgent d’établir une image précise et actualisée de la mise en tension du milieu hospitalier.</p>
+
+
+
+<p>Le ministère des Solidarités et de la Santé et Santé publique France ont réalisé un travail considérable de collecte et d’agrégation des données. Grâce à l’export et la consolidation de données issues de différents systèmes d’informations, Santé Publique France publie depuis le 18 mars des données relatives à l’épidémie sur <a href="https://geodes.santepubliquefrance.fr/#c=home"><u>Geodes, l’observatoire cartographique de Santé publique France</u></a> et<a href="https://www.data.gouv.fr/fr/organizations/sante-publique-france/#_blank"> sur la plateforme de données publiques data.gouv.fr</a>. Les données sont mises à jour quotidiennement et améliorées par les contributeurs. Elles comportent&nbsp;:</p>
+
+
+
+<ul><li><strong> </strong>les <a href="https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/#_blank">données hospitalières</a>,</li><li>les <a href="https://www.data.gouv.fr/fr/datasets/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/#_blank">données des urgences et de SOS médecins</a>,</li><li>les <a href="https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-transferts-de-patients-atteints-de-covid-19/#_blank">données concernant les transferts de patients</a>,</li><li>les <a href="https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-tests-de-depistage-de-covid-19-realises-en-laboratoire-de-ville/#_blank">données relatives aux tests</a> (en laboratoire de ville),</li><li>les <a href="https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-tests-de-depistage-de-covid-19-realises-en-laboratoire-de-ville/#_blank">niveaux d’excès de mortalité standardisés durant l’épidémie de COVID19…</a></li></ul>
+
+
+
+<p>Etalab a collaboré directement avec <a href="https://www.data.gouv.fr/fr/organizations/sante-publique-france/">Santé publique France</a>, notamment sur l’éditorialisation et la documentation des données en vue de faciliter leur réutilisation, mais aussi sur la mise en place d’un protocole de mise à disposition automatisé des données<strong>.</strong></p>
+
+
+
+<p>Par ailleurs, la collecte et l’agrégation de données produites sur le terrain peuvent entrainer des anomalies dans certains fichiers. Afin d’identifier et de faire remonter les éventuelles anomalies, Etalab a mis en place un rapport quotidien d’analyse qualité des données. Ce rapport d’anomalie est publié sur data.gouv.fr dans le but d’accompagner les réutilisateurs dans la prise en main des données (les liens vers les rapports sont disponibles sur la page des jeux de données correspondants).</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="753" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/06/spf_datagouv-1024x753.jpg" alt="" class="wp-image-14320" srcset="/wp-content/uploads/2020/06/spf_datagouv-1024x753.jpg 1024w, /wp-content/uploads/2020/06/spf_datagouv-300x221.jpg 300w, /wp-content/uploads/2020/06/spf_datagouv-768x565.jpg 768w, /wp-content/uploads/2020/06/spf_datagouv.jpg 1187w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.data.gouv.fr/fr/organizations/sante-publique-france/#_blank">La page de l’organisation Santé publique France sur data.gouv.fr</a></figcaption></figure>
+
+
+
+<h4 class="wp-block-heading">Pour observer l’implication de l’État<strong> </strong>dans le soutien de l’économie française</h4>
+
+
+
+<p>Le confinement des populations, la fermeture des commerces et l’arrêt de la production a impacté directement les entreprises. Afin de soutenir l’économie française, l’État a mis en place dès mars 2020 un ensemble d’aides pour les entreprises affectées par la crise.</p>
+
+
+
+<p>Au-delà des montants globaux octroyés dans le cadre des aides aux entreprises, le Ministère de l’Économie et des Finances a souhaité apporter davantage de visibilité sur la répartition des sommes versées en fonction du secteur d’activité (<a href="https://www.insee.fr/fr/information/2406147">code NAF</a>) et des territoires. Les équipes d’Etalab ont collaboré avec les ministères économiques et financiers afin de consolider et mettre à disposition les données relatives à différentes aides&nbsp;:</p>
+
+
+
+<ul><li><a href="https://www.data.gouv.fr/fr/datasets/donnees-relatives-au-fonds-de-solidarite-mis-en-place-dans-le-cadre-de-lepidemie-de-covid-19/">Données relatives au fonds de solidarité mis en place dans le cadre de l&rsquo;épidémie de COVID-19</a></li><li><a href="https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-prets-garantis-par-letat-dans-le-cadre-de-lepidemie-de-covid-19/">Données relatives aux prêts garantis par l’Etat dans le cadre de l’épidémie de COVID-19</a></li><li><a href="https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-reports-decheances-fiscales-accordes-dans-le-cadre-de-lepidemie-de-covid-19/">Données relatives aux reports d&rsquo;échéances fiscales accordés dans le cadre de l’épidémie de COVID-19</a></li></ul>
+
+
+
+<h3 class="wp-block-heading">Faciliter la compréhension des données pour l’ensemble des citoyens</h3>
+
+
+
+<p>Afin de faciliter la prise en main et la compréhension des données publiées sur <a href="http://www.data.gouv.fr/">www.data.gouv.fr</a>, Etalab a développé différents tableaux de bord qui apportent une première lecture des données. Ces tableaux de bord ont pour cible les publics qui ne disposent pas de compétences techniques approfondies et qui souhaitent s’informer sur l’épidémie.</p>
+
+
+
+<h4 class="wp-block-heading">Le tableau de bord de suivi de l’épidémie</h4>
+
+
+
+<p>Afin de poursuivre les efforts entrepris par la société civile dans le <a href="https://github.com/opencovid19-fr">cadre de l’initiative «&nbsp;OpenCOVID19&nbsp;»,</a> l’équipe d’Etalab a travaillé à <a href="https://dashboard.covid19.data.gouv.fr/#_blank">la construction d’un tableau de bord</a> permettant de centraliser et de visualiser l’ensemble des données officielles relatives à l’épidémie de COVID-19.</p>
+
+
+
+<p>Le service de communication et d’information du gouvernement (SIG) s’est associé au projet afin que l’ensemble des citoyens puissent accéder à des informations. Suite à une collaboration étroite entre Santé publique France, le SIG et d’Etalab, le tableau de bord a pu être <a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees#_blank"><u>intégré au site du gouvernement</u></a> le 28 mars 2020.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="900" height="446" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/06/tableaudebord_covid19_gov.jpg" alt="" class="wp-image-14324" srcset="/wp-content/uploads/2020/06/tableaudebord_covid19_gov.jpg 900w, /wp-content/uploads/2020/06/tableaudebord_covid19_gov-300x149.jpg 300w, /wp-content/uploads/2020/06/tableaudebord_covid19_gov-768x381.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /><figcaption><a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees#_blank"><em><u>Le tableau de bord publié sur gouvernement.fr</u></em></a></figcaption></figure></div>
+
+
+
+<p>L’ouverture des données et la publication du tableau de bord ont été valorisées durant le point presse quotidien du directeur national de la santé, Jérôme Salomon, le 28 mars, qui a rappelé à cette occasion l’importance de l’open data en ces termes :</p>
+
+
+
+<blockquote class="wp-block-quote"><p>« Le libre accès aux données relatives à l’épidémie, ce qu’on appelle l’open data, assure la confiance des citoyens dans les éléments qui leur sont communiqués, favorise les actions de prévention contre la propagation du virus et facilite la prise de décision.<br>La diffusion et l’exploitation de ces données ont été rendues possibles grâce à une collaboration étroite entre plusieurs administrations et la société civile.»</p><cite><em>J. Salomon, directeur national de la santé, point presse coronavirus du 28 mars 2020</em></cite></blockquote>
+
+
+
+<p>Alors que le déconfinement se préparait, le gouvernement s’est appuyé sur les données publiées sur data.gouv.fr pour élaborer <a href="https://www.data.gouv.fr/fr/datasets/indicateurs-dactivite-epidemique-covid-19-par-departement/">des indicateurs de suivi épidémique</a>. Ces derniers ont été publiés le 30 avril 2020 sur data.gouv.fr et présentés dans un onglet dédié du tableau de bord de suivi de l’épidémie. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1000" height="438" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/06/carte_deconfinement.jpg" alt="" class="wp-image-14326" srcset="/wp-content/uploads/2020/06/carte_deconfinement.jpg 1000w, /wp-content/uploads/2020/06/carte_deconfinement-300x131.jpg 300w, /wp-content/uploads/2020/06/carte_deconfinement-768x336.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption><em>La carte de synthèse de suivi de l’activité épidémique <a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees#_blank">publiée sur le site du gouvernement</a></em> <em>(onglet « Carte de vigilance »)</em></figcaption></figure>
+
+
+
+<h4 class="wp-block-heading">Le tableau de bord des données des aides aux entreprises</h4>
+
+
+
+<p>À partir des données mises à disposition par les ministères économiques et financiers, les équipes d’Etalab ont développé <strong><a href="https://aides-entreprises.data.gouv.fr/#_blank" class="broken_link">un tableau de bord permettant de consulter et de visualiser les différentes aides accordées par l’état aux entreprises.</a></strong></p>
+
+
+
+<p>Ce tableau de bord, dont <a href="https://github.com/etalab/dashboard-aides-entreprises">le code source est libre</a>, a pu être rapidement mis en place grâce à la réutilisation de briques de codes développées dans le cadre du développement du tableau de bord du suivi de l’épidémie. <a href="https://twitter.com/GDarmanin/status/1262312671518613504">Valorisé par Gérald Darmanin</a>, Ministre de l’Action et des Comptes Publics ainsi que par Bruno Le Maire, Ministre de l’Économie et des Finances, il est désormais accessible <a href="https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-fonds-solidarite" class="broken_link">sur le site du Ministère de l&rsquo;Économie et des Finances.</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1000" height="488" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/06/dashboard_entreprises.png" alt="" class="wp-image-14327" srcset="/wp-content/uploads/2020/06/dashboard_entreprises.png 1000w, /wp-content/uploads/2020/06/dashboard_entreprises-300x146.png 300w, /wp-content/uploads/2020/06/dashboard_entreprises-768x375.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption><em>Le tableau de bord de suivi des aides aux entreprises dans le cadre de la crise sanitaire du COVID19</em></figcaption></figure></div>
+
+
+
+<h3 class="wp-block-heading">Comprendre l’impact de la crise du Covid-19 et se préparer à y répondre grâce aux données</h3>
+
+
+
+<p>Les données ont beaucoup à nous apprendre de la crise actuelle. Elles permettent d’accompagner la prise de décision, d’éclairer le débat public, de favoriser la gouvernance au sein des administrations et d’engager le dialogue avec les citoyens, <a href="https://www.data.gouv.fr/fr/posts/suivi-des-sorties-avril-2020/">de plus en plus nombreux à s’approprier les données pour produire des analyses et des visualisations</a>.</p>
+
+
+
+<p>Etalab continuera dans les semaines et les mois à venir à accompagner les administrations pour ouvrir de nouvelles données relatives au Covid-19. Ces données pourront couvrir différentes thématiques&nbsp;: sanitaire, économique, social, environnemental, etc. Par ailleurs, la réutilisation des données a bénéficié à des réutilisateurs aux profils et aux objectifs variés. Etalab reviendra dans les prochaines semaines sur les usages et impacts des données relatives à l’épidémie.</p>
+
+
+
+<p>Pour rester informé.e.s des prochaines publications de données sur data.gouv.fr et suivre l’actualité de l’open data, n’hésitez pas à vous abonner à<a href="https://infolettres.etalab.gouv.fr/subscribe/r1aq92xnj#_blank" class="broken_link"> l’infolettre de data.gouv.fr</a>&nbsp;!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ce que nous avons appris en allant plus loin que la simple mise en ligne de données sur les transactions immobilières</title>
+		<link>/ce-que-nous-avons-appris-avec-dvf</link>
+		
+		<dc:creator><![CDATA[Marion Paclot]]></dc:creator>
+		<pubDate>Mon, 13 May 2019 10:33:09 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Données]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10291</guid>
+
+					<description><![CDATA[Le 24 avril 2019, la direction générale des finances publiques a mis en ligne des données sur les transactions immobilières, sous la forme de fichiers réutilisables au format texte (.txt). Pour que les données de Bercy puissent être visualisées sur une carte sans qu’il soit nécessaire de les télécharger, ou de les manipuler, nous avons &#8230;<p class="read-more"> <a class="" href="/ce-que-nous-avons-appris-avec-dvf"> <span class="screen-reader-text">Ce que nous avons appris en allant plus loin que la simple mise en ligne de données sur les transactions immobilières</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Le 24 avril 2019, la direction générale des finances publiques a mis en ligne des données sur les transactions immobilières, sous la forme de </em><a href="https://www.data.gouv.fr/fr/datasets/5c4ae55a634f4117716d5656/"><em>fichiers réutilisables au format texte</em></a><em> (.txt). Pour que les données de Bercy puissent être visualisées sur une carte sans qu’il soit nécessaire de les télécharger, ou de les manipuler, nous avons développé </em><a href="https://app.dvf.etalab.gouv.fr/"><em>app.dvf.etalab.gouv.fr</em></a><em>, une petite application web.</em></p>
+
+
+
+<p>Le site <a href="https://app.dvf.etalab.gouv.fr/">app.dvf.etalab.gouv.fr</a> a été mis en ligne le 24 avril, soit le même jour que les données sur les <a href="https://www.data.gouv.fr/fr/datasets/5c4ae55a634f4117716d5656/">demandes de valeurs foncières</a> (DVF) rendues publiques par Bercy. La suite ? Contre toute attente, notre application web <a href="https://twitter.com/datagouvfr/status/1125663668245606402">a reçu plus d’un million de visites en moins de deux semaines</a>. À la fois surpris et satisfaits par ce succès, nous souhaitons aujourd’hui revenir sur les semaines qui viennent de s’écouler, pour vous parler de la genèse du projet et de la suite que nous pensons donner à <a href="https://app.dvf.etalab.gouv.fr/">app.dvf.etalab.gouv.fr</a>.</p>
+
+
+
+<h2 class="wp-block-heading">La genèse du projet</h2>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/05/2019-04-24-cover-dvf-1024x683.png" alt="" class="wp-image-10301" srcset="/wp-content/uploads/2019/05/2019-04-24-cover-dvf-1024x683.png 1024w, /wp-content/uploads/2019/05/2019-04-24-cover-dvf-300x200.png 300w, /wp-content/uploads/2019/05/2019-04-24-cover-dvf-768x512.png 768w, /wp-content/uploads/2019/05/2019-04-24-cover-dvf.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>L’ouverture de <a href="https://www.data.gouv.fr/fr/datasets/5c4ae55a634f4117716d5656/">la base Demandes de Valeurs Foncières</a> (DVF), annoncée depuis plusieurs mois, a fait l’objet <a href="https://www.legifrance.gouv.fr/eli/decret/2018/12/28/CPAE1830580D/jo/texte">d’un décret publié le 28 décembre 2018</a>. C’est la base de données elle-même qui a concentré notre attention ces derniers mois, les données brutes. Et pour cause, Etalab administre <a href="https://www.data.gouv.fr/">data.gouv.fr</a>, la plateforme ouverte des données publiques de l’État et des administrations. Nous avons donc pour habitude d’exploiter et publier des bases de données.</p>
+
+
+
+<h3 class="wp-block-heading">Passer des données brutes à leur visualisation sur une carte</h3>
+
+
+
+<p>Comme la base DVF est conséquente — elle pèse plusieurs centaines de Mo et tend à faire planter Excel — nous avons estimé qu’elle ne pourrait pas être manipulée par un large public. Or, les données qu’elle contient concernent un public large. Nous avons donc décidé de développer, en peu de temps et avec peu de personnes, une application web pour permettre de visualiser les données DVF sur une carte. De cette manière, nous espérions toucher un public plus large que la communauté de l’<em>open data</em>. Et cette application, c’est <a href="https://app.dvf.etalab.gouv.fr/">app.dvf.etalab.gouv.fr</a>.</p>
+
+
+
+<h3 class="wp-block-heading">L’organisation de notre équipe</h3>
+
+
+
+<p>Au sein d’Etalab, nous disposons de compétences en <em>data-science</em>, développement, système d’information géographique (SIG), et gestion de projet. L’équipe qui travaille sur <a href="https://geo.data.gouv.fr/fr/">geo.data.gouv.fr</a> développe notamment des API qui permettent d’obtenir les contours des communes, mais aussi le cadastre vectorisé et à jour, autant d’éléments qui ont été utiles pour créer <a href="https://app.dvf.etalab.gouv.fr/">app.dvf.etalab.gouv.fr</a>.</p>
+
+
+
+<h3 class="wp-block-heading">Les technologies utilisées</h3>
+
+
+
+<p>En matière de technologies, nous avons opté pour du JavaScript (notamment Vue.js) pour le front-end, avec un back-end Python, et un stockage dans une base de données PostgreSQL. Dans la mesure du possible, nous avons rendu notre code public, en <a href="https://github.com/etalab/DVF-app">le publiant sur Github sous une licence Apache</a>. Après moins d’un mois de développement — correspondant au travail d’une personne — nous avions un produit qui, sans être parfait, était présentable et tenait la route.</p>
+
+
+
+<h3 class="wp-block-heading">La mise en ligne et le hackathon de lancement</h3>
+
+
+
+<p>Le hackathon du 24 avril, qui s’est tenu à Bercy, lors de la journée consacrée à l’ouverture de la base DVF, fut l’occasion d’échanger des idées avec un public plus large : entrepreneurs, spécialistes de l’aménagement du territoire, de l’immobilier, des administrations, membres de la société civile, ou du secteur privé.</p>
+
+
+
+<p>Le petit groupe de travail constitué autour le l&rsquo;app DVF a décidé qu’il pouvait être utile d’ajouter un bouton « Votre avis nous intéresse », en haut à droite de l’application, menant à <a href="https://framaforms.org/demande-de-valeur-fonciere-dvf-votre-avis-nous-interesse-1556111586" class="broken_link">un court questionnaire anonyme de satisfaction</a>. Par ce canal, nous avons recueilli environ 1 800 avis d’utilisateurs variés — avis que nous ne pouvons pas publier car certaines personnes y ont laissé des données personnelles. D’autres propositions ont été faites, par exemple la possibilité de signaler une erreur dans les données affichées. Cependant nous ne sommes pas le producteur de la base DVF et nous avons eu peur de brouiller davantage les pistes en ajoutant cette fonction à notre application.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/05/2019-05-13-dvf-revue-presse-1-1024x683.jpg" alt="" class="wp-image-10341" srcset="/wp-content/uploads/2019/05/2019-05-13-dvf-revue-presse-1-1024x683.jpg 1024w, /wp-content/uploads/2019/05/2019-05-13-dvf-revue-presse-1-300x200.jpg 300w, /wp-content/uploads/2019/05/2019-05-13-dvf-revue-presse-1-768x512.jpg 768w, /wp-content/uploads/2019/05/2019-05-13-dvf-revue-presse-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Puis la couverture presse — <a href="https://www.lci.fr/immobilier/immobilier-on-a-teste-la-nouvelle-appli-de-bercy-pour-connaitre-les-prix-de-vente-reels-a-cote-de-chez-vous-cadastre-data-gouv-fr-dvf-2119439.html">LCI</a>, <a href="https://immobilier.lefigaro.fr/article/decouvrez-le-prix-des-biens-vendus-depuis-5-ans-dans-votre-quartier_507a1814-6829-11e9-886f-2e1105865bd6/">Le Figaro</a>, <a href="https://www.lemonde.fr/economie/article/2019/05/03/immobilier-la-transparence-des-prix-va-t-elle-faire-evoluer-les-pratiques-du-marche_5457610_3234.html">Le Monde</a>, <a href="https://www.ouest-france.fr/economie/immobilier/immobilier-une-application-gratuite-permet-de-connaitre-le-prix-des-biens-pres-de-chez-vous-6323581" class="broken_link">Ouest-France</a>, entre autres — a amené un public plus large sur l’application ; un public venu chercher des informations sur ses propres transactions, dans le cadre d’un projet immobilier, ou simplement curieux des prix pratiqués dans certains quartiers. Et les avis d’utilisateurs se sont multipliés, nous amenant à apporter encore de nombreuses modifications à l’application.</p>
+
+
+
+<h2 class="wp-block-heading">Ce que nous avons appris</h2>
+
+
+
+<h3 class="wp-block-heading">Les visualisations touchent plus de monde que les données brutes</h3>
+
+
+
+<p>Alors que <a href="https://app.dvf.etalab.gouv.fr/">app.dvf.etalab.gouv.fr</a> a été développé comme un complément à <a href="https://www.data.gouv.fr/fr/datasets/5c4ae55a634f4117716d5656/">la base des demandes de valeurs foncières</a>, l’application a vite attiré plus de visiteurs que les données DVF elles-mêmes — publiées quant à elles sur <a href="https://www.data.gouv.fr/">data.gouv.fr</a>. Le site qui devait introduire les données brutes s’y est donc rapidement substitué. Parallèlement, ce qui n’était qu’une petite application développée en peu de temps et avec peu de moyens au sein d’Etalab, a souvent été présenté dans la presse comme le produit principal de cette opération.</p>
+
+
+
+<h3 class="wp-block-heading">Bien configurer un serveur n’est jamais une mauvaise idée</h3>
+
+
+
+<p>Il est possible de gérer un afflux conséquent de visiteurs sans se ruiner. Nous avons ainsi pu accueillir plus de 180 000 personnes sur l’application lors de la seule journée du vendredi 4 mai, sur un serveur relativement modeste, et en limitant les rejets grâce à des choix technologiques prudents. Si les configurations NGINX vous intéressent, Antoine Augusti, membre d’Etalab, a commenté le sujet en détails <a href="https://blog.antoine-augusti.fr/2019/05/discovering-content-caching-with-nginx-proxy-cache/">sur son blog</a>.</p>
+
+
+
+<h3 class="wp-block-heading">Documenter n’est pas une perte de temps</h3>
+
+
+
+<p>Pour donner un peu de contexte aux visiteurs, et répondre aux questions qui revenaient souvent à nos oreilles, nous avons mis en ligne une FAQ (Foire Aux Questions) quelques heures après la publication de l’application. Hélas, notre FAQ n’a été lue que par une petite proportion de visiteurs… sans doute parce que nous ne l’avions pas appelée « FAQ » mais « À propos ». La <a href="https://app.dvf.etalab.gouv.fr/faq.html">page en question</a> a pourtant été enrichie à plusieurs reprises et à mesure que des questions se révélaient récurrentes.</p>
+
+
+
+<h3 class="wp-block-heading">Recueillir des avis permet d’améliorer l’expérience utilisateur</h3>
+
+
+
+<p>En plus des problèmes de compatibilité de l’application avec certains navigateurs, la mise en place du questionnaire « Votre avis nous intéresse » nous a permis d’identifier d’autres problèmes : nous nous sommes ainsi rendu compte que plusieurs utilisateurs ne comprenaient pas vraiment comment marchait l’application.</p>
+
+
+
+<p>Comme l’interface n’invitait pas explicitement les utilisateurs à cliquer sur la carte pour agrandir les zones visualisées, certaines personnes restaient bloquées devant la carte de l’hexagone, sans que rien ne se passe de leur côté. D’autres n’accèdaient pas au détail de chaque transaction, car l’interface ne les invitait pas à le faire là non plus. Nous en avons retenu que nous ne sommes pas nos utilisateurs et que rien ne remplace les avis de personnes venues de l’extérieur.</p>
+
+
+
+<h3 class="wp-block-heading">Rendre le code public le rend meilleur</h3>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/05/2019-05-13-dvf-marion-1024x683.png" alt="" class="wp-image-10302" srcset="/wp-content/uploads/2019/05/2019-05-13-dvf-marion-1024x683.png 1024w, /wp-content/uploads/2019/05/2019-05-13-dvf-marion-300x200.png 300w, /wp-content/uploads/2019/05/2019-05-13-dvf-marion-768x512.png 768w, /wp-content/uploads/2019/05/2019-05-13-dvf-marion.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Mettre le code d’une application en cours de développement sur GitHub, dans un dépôt public, revient à exposer un travail inachevé, encore loin d’être parfait. Mais la publication du code nous a aussi permis d’obtenir des avis très utiles. Plusieurs contributeurs externes <a href="https://github.com/etalab/DVF-app">ont ainsi fait des <em>« pull requests</em></a> » (sorte de contributions) dans le but d’améliorer l’application : par exemple pour corriger des bugs ou rendre plus élégant le code qui crée la base de données. D’autres contributeurs <a href="https://github.com/etalab/DVF-app/issues">ont ouvert des <em>issues</em></a> (sorte de tickets techniques) pour nous signaler des problèmes, ou suggérer de nouvelles fonctionnalités. Nous n’avons certes pas attendu ce projet pour <a href="https://github.com/etalab">publier notre code sur GitHub</a>, mais disons que cela conforte notre choix et nous encourage à poursuivre dans cette voie.</p>
+
+
+
+<h3 class="wp-block-heading">Les critiques font partie du jeu</h3>
+
+
+
+<p>Si nous avons reçu des félicitations, nous avons aussi reçu quelques critiques. Certaines critiques étaient constructives, d’autres l’étaient un peu moins. De notre côté, nous savions que notre application étaient loin d’être parfaite. Nous avons donc capitalisé sur les critiques utiles, celles qui nous tiraient vers le haut, sans nous attarder sur les autres.</p>
+
+
+
+<h2 class="wp-block-heading">La suite pour app.dvf.etalab.gouv.fr</h2>
+
+
+
+<p>Un million de visites plus tard, quelle suite donner à ce qui n’était au départ qu’un petit projet ? Une chose semble désormais sûre : alors que 70 000 visites sont encore enregistrées chaque jour sur le site, le moment de le fermer n’est pas encore venu.</p>
+
+
+
+<p>Certes, le volume de visites va baisser inexorablement dans les mois qui viennent, mais nous tenons à continuer de proposer une façon simple de visualiser les données DVF, surtout pour les personnes qui ne peuvent pas mettre les mains dans les données brutes.</p>
+
+
+
+<h3 class="wp-block-heading">De nouvelles fonctionnalités à venir ?</h3>
+
+
+
+<p>Des fonctionnalités intéressantes ont été proposées, notamment la possibilité de retrouver les transactions effectuées autour d’une adresse postale donnée — ce qui n’est pas encore possible. Nous allons avant tout concentrer nos efforts sur la correction des bugs et la maintenance.</p>
+
+
+
+<p>La maintenance justement, parlons-en : elle a été chiffrée à quelques jours par an, car nous avons automatisé le maximum de tâches. Il restera à récupérer les nouvelles données DVF à chaque fois que Bercy les mettra à jour, c’est-à-dire tous les 6 mois. Le cadastre et les couches géographiques sont déjà entretenus par Etalab, ce qui ne devrait donc pas occasionner de tâches supplémentaires.</p>
+
+
+
+<h3 class="wp-block-heading">Croiser les données DVF avec d’autres données</h3>
+
+
+
+<p>À plus long-terme, l’avenir nous dira si les données DVF peuvent être croisées avec d’autres données, par exemple les diagnostics de performance énergétique — dans les limites légales visant à empêcher la réidentification des acheteurs et vendeurs.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>40 ans d’avis CADA en 5 graphiques</title>
+		<link>/graphiques-40-ans-cada-data-gouv-fr</link>
+					<comments>/graphiques-40-ans-cada-data-gouv-fr#comments</comments>
+		
+		<dc:creator><![CDATA[Brice Boulesteix]]></dc:creator>
+		<pubDate>Fri, 05 Oct 2018 16:35:12 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Données]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8720</guid>
+
+					<description><![CDATA[[:fr] À l’occasion des 40 ans de la commission d’accès aux documents administratifs (CADA), nous avons mis à jour cada.data.gouv.fr, le site qui permet de consulter les avis émis par la CADA lorsqu’elle est saisie. Cette démarche s’inscrit dans le cadre plus large du principe d’ouverture spontanée des données publiques. Comme de juste, les avis &#8230;<p class="read-more"> <a class="" href="/graphiques-40-ans-cada-data-gouv-fr"> <span class="screen-reader-text">40 ans d’avis CADA en 5 graphiques</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]<img loading="lazy" decoding="async" class="alignnone size-full wp-image-8721" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/10/2018-10-05-quarante-ans-cada.md_shrink.png" alt="Image de couverture de l’article" width="1200" height="800" srcset="/wp-content/uploads/2018/10/2018-10-05-quarante-ans-cada.md_shrink.png 1200w, /wp-content/uploads/2018/10/2018-10-05-quarante-ans-cada.md_shrink-300x200.png 300w, /wp-content/uploads/2018/10/2018-10-05-quarante-ans-cada.md_shrink-768x512.png 768w, /wp-content/uploads/2018/10/2018-10-05-quarante-ans-cada.md_shrink-1024x683.png 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>À l’occasion des 40 ans de la commission d’accès aux documents administratifs (CADA), nous avons mis à jour <a href="https://cada.data.gouv.fr/">cada.data.gouv.fr</a>, le site qui permet de consulter les avis émis par la CADA lorsqu’elle est saisie. Cette démarche s’inscrit dans le cadre plus large du <a href="https://www.etalab.gouv.fr/comment-etalab-aide-les-administrations-a-ouvrir-leurs-donnees">principe d’ouverture spontanée des données publiques</a>. Comme de juste, les avis consultables sur <a href="https://cada.data.gouv.fr/">cada.data.gouv.fr</a> sont par ailleurs <a href="https://www.data.gouv.fr/fr/datasets/53698f37a3a729239d2036a0">publiés dans un format ouvert sur data.gouv.fr</a>.</p>
+<h2>Qu’est-ce que la CADA et à quoi sert-elle ?</h2>
+<p>Pour le dire vite, la CADA est une autorité administrative indépendante, qui a été créée en 1978, par la loi à laquelle elle a donné son nom : <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000339241">la loi CADA</a>. Cette loi avait pour objectif d’améliorer les relations entre les administrations, qui produisent ou reçoivent des documents, et le public, qui peut demander à consulter certains documents administratifs.</p>
+<p>Par exemple, si un patient demande à un hôpital de lui transmettre son dossier médical et que ce dernier refuse, le patient peut saisir la CADA pour obtenir un avis indépendant, un regard neutre. La CADA se prononce alors comme favorable ou défavorable à ce que le dossier médical en question soit communiqué au patient. L’hôpital peut ensuite tenir compte de l’avis émis par la CADA et s’en servir pour revenir sur son refus initial — mais rien ne l’y contraint.</p>
+<h2>Le site cada.data.gouv.fr</h2>
+<p>À ce jour, la CADA a rendu plus de 31 000 avis. Ces avis sont ouverts, c’est-à-dire qu’ils sont consultables sur <a href="https://cada.data.gouv.fr/">cada.data.gouv.fr</a> — un projet développé par Etalab et la CADA dans le but d’explorer les avis de cette dernière.</p>
+<p>Aujourd’hui, <a href="https://cada.data.gouv.fr/">cada.data.gouv.fr</a>, c’est :</p>
+<ul>
+<li>plus de 31 000 avis consultables gratuitement en ligne ;</li>
+<li>des archives ouvertes qui remontent jusqu’en 1984 ;</li>
+<li>une <a href="https://cada.data.gouv.fr/api/">API documentée</a> (qui sert du JSON).</li>
+</ul>
+<h2>40 ans d’avis CADA</h2>
+<p>Les 14 personnes qui travaillent à la CADA traitent chaque année plus de 5 000 demandes, comme le montre le graphique qui suit.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-8726" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/10/graphics-001_shrink.png" alt="Demandes d’accès traitées chaque année par la CADA entre 2013 et 2017" width="1440" height="1080" srcset="/wp-content/uploads/2018/10/graphics-001_shrink.png 1440w, /wp-content/uploads/2018/10/graphics-001_shrink-300x225.png 300w, /wp-content/uploads/2018/10/graphics-001_shrink-768x576.png 768w, /wp-content/uploads/2018/10/graphics-001_shrink-1024x768.png 1024w" sizes="(max-width: 1440px) 100vw, 1440px" /></p>
+<p>Quand la CADA reçoit une demande, c’est-à-dire quand elle est saisie par un citoyen, elle rend un avis qui peut-être :</p>
+<ul>
+<li><strong>favorable</strong> : par exemple, quand la CADA estime que le document pour lequel elle a été saisie gagnerait à être communiqué par l’administration au citoyen qui en a fait la demande ;</li>
+<li><strong>défavorable</strong> : par exemple, lorsque la CADA estime que la préservation d’un secret commercial ou industriel justifie la non-communication du document demandé par le citoyen ;</li>
+<li><strong>sans objet</strong> : par exemple, quand les documents pour lesquels la CADA est saisie n’existent pas ou quand ils on déjà été communiqués au demandeur ;</li>
+<li><strong>irrecevable</strong> : par exemple, quand la CADA manque d’éléments pour rendre un avis, soit parce que la demande du citoyen est trop imprécise pour identifier les documents à transmettre, soit parce que le document en question a déjà été diffusé publiquement ;</li>
+<li><strong>incompétente</strong> : par exemple, quand la CADA estime que ce que demande le citoyen à l’administration ne correspond pas à un document mais à un renseignement, c’est-à-dire une question plus large, plus ouverte, dont la nature excède le domaine de compétence de la CADA.</li>
+</ul>
+<p>Le graphique ci-dessous montre que les avis émis par la CADA sont majoritairement favorables, c’est-à-dire qu’ils encouragent dans la plupart des cas les administrations à communiquer des documents aux citoyens qui en font la demande.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-8722" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/10/graphics-002_shrink.png" alt="Répartition des types d’avis émis par la CADA entre mars 1984 et septembre 2018" width="1440" height="1080" srcset="/wp-content/uploads/2018/10/graphics-002_shrink.png 1440w, /wp-content/uploads/2018/10/graphics-002_shrink-300x225.png 300w, /wp-content/uploads/2018/10/graphics-002_shrink-768x576.png 768w, /wp-content/uploads/2018/10/graphics-002_shrink-1024x768.png 1024w" sizes="(max-width: 1440px) 100vw, 1440px" /></p>
+<p>Le graphique suivant montre que la position globalement favorable de la CADA a été constante au cours des cinq dernières années.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-8723" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/10/graphics-003_shrink.png" alt="Part relative des types d’avis émis par la CADA entre 2013 et 2017" width="1440" height="1080" srcset="/wp-content/uploads/2018/10/graphics-003_shrink.png 1440w, /wp-content/uploads/2018/10/graphics-003_shrink-300x225.png 300w, /wp-content/uploads/2018/10/graphics-003_shrink-768x576.png 768w, /wp-content/uploads/2018/10/graphics-003_shrink-1024x768.png 1024w" sizes="(max-width: 1440px) 100vw, 1440px" /></p>
+<p>Quelles sont les administrations ou les services publics qui sont à l’origine du plus grand nombre de demandes CADA ? Pour répondre à cette question, nous avons isolé les 10 premiers organismes qui ont engendré des saisines de la CADA.</p>
+<p>Le graphique ci-dessous montre par exemple que plusieurs patients ont saisi la CADA après avoir demandé la communication de leur dossier médical aux hôpitaux de Paris et avoir essuyé un refus — ou constaté une absence de réponse de leur part.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-8724" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/10/graphics-004_shrink.png" alt="Les 10 organismes qui font l’objet du plus grand nombre de demandes CADA" width="1440" height="1080" srcset="/wp-content/uploads/2018/10/graphics-004_shrink.png 1440w, /wp-content/uploads/2018/10/graphics-004_shrink-300x225.png 300w, /wp-content/uploads/2018/10/graphics-004_shrink-768x576.png 768w, /wp-content/uploads/2018/10/graphics-004_shrink-1024x768.png 1024w" sizes="(max-width: 1440px) 100vw, 1440px" /></p>
+<p>Combien de temps met la CADA pour rendre un avis une fois qu’elle a été saisie ? Le graphique ci-dessous montre qu’elle a mis un peu moins de 4 mois, cette année (2018), dans la moitié des cas (notion de médiane), et un peu moins de 70 jours dans un quart des cas (notion de 25<sup>ème</sup> percentile). La tendance longue montre un allongement des délais de réponse, notamment depuis 2013 — ce qui s’explique en partie par un accroissement du nombre de saisines sur la même période.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-8725" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/10/graphics-005_shrink.png" alt="Temps de réponse médian de la CADA constatés entre 1998 et septembre 2018" width="1440" height="1080" srcset="/wp-content/uploads/2018/10/graphics-005_shrink.png 1440w, /wp-content/uploads/2018/10/graphics-005_shrink-300x225.png 300w, /wp-content/uploads/2018/10/graphics-005_shrink-768x576.png 768w, /wp-content/uploads/2018/10/graphics-005_shrink-1024x768.png 1024w" sizes="(max-width: 1440px) 100vw, 1440px" /></p>
+<h2>Les 40 prochaines années</h2>
+<p>Le site <a href="https://cada.data.gouv.fr/">cada.data.gouv.fr</a> est en constante évolution. Nous l’enrichissons régulièrement, ce qui nous permet de travailler sur des gros volumes de fichiers au format texte. Mais notre vision pour les textes juridiques s’étend au-delà des avis CADA. Nous réfléchissons actuellement à la façon la plus élégante de rendre certaines décision de justice consultables en ligne. Pour suivre notre réflexion à mesure qu’elle avance, <a href="http://![header/ image](https://res.cloudinary.com/bboulesteix/image/upload/v1538755146/2018-10-05-quarante-ans-cada.md.png) À l’occasion des 40 ans de la commission d’accès aux documents administratifs (CADA), nous avons mis à jour [cada.data.gouv.fr](https://cada.data.gouv.fr),/ le site qui permet de consulter les avis émis par la CADA lorsqu’elle est saisie. Cette démarche s’inscrit dans le cadre plus large du [principe d’ouverture spontanée des données publiques](https://www.etalab.gouv.fr/comment-etalab-aide-les-administrations-a-ouvrir-leurs-donnees). Comme de juste, les avis consultables sur [cada.data.gouv.fr](https://cada.data.gouv.fr)/ sont par ailleurs [publiés dans un format ouvert sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/53698f37a3a729239d2036a0). ## Qu’est-ce que la CADA et à quoi sert-elle ? Pour le dire vite, la CADA est une autorité administrative indépendante, qui a été créée en 1978, par la loi à laquelle elle a donné son nom : [la loi CADA](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000339241). Cette loi avait pour objectif d’améliorer les relations entre les administrations, qui produisent ou reçoivent des documents, et le public, qui peut demander à consulter certains documents administratifs. Par exemple, si un patient demande à un hôpital de lui transmettre son dossier médical et que ce dernier refuse, le patient peut saisir la CADA pour obtenir un avis indépendant, un regard neutre. La CADA se prononce alors comme favorable ou défavorable à ce que le dossier médical en question soit communiqué au patient. L’hôpital peut ensuite tenir compte de l’avis émis par la CADA et s’en servir pour revenir sur son refus initial — mais rien ne l’y contraint. ## Le site cada.data.gouv.fr À ce jour, la CADA a rendu plus de 31 000 avis. Ces avis sont ouverts, c’est-à-dire qu’ils sont consultables sur [cada.data.gouv.fr](https://cada.data.gouv.fr)/ — un projet développé par Etalab et la CADA dans le but d’explorer les avis de cette dernière. Aujourd’hui, [cada.data.gouv.fr](https://cada.data.gouv.fr),/ c’est : * plus de 31 000 avis consultables gratuitement en ligne ; * des archives ouvertes qui remontent jusqu’en 1984 ; * une [API documentée](https://cada.data.gouv.fr/api/) (qui sert du JSON). ## 40 ans d’avis CADA Les 14 personnes qui travaillent à la CADA traitent chaque année plus de 5 000 demandes, comme le montre le graphique qui suit. ![graphique time](https://res.cloudinary.com/bboulesteix/image/upload/v1538749924/graphics.001.png) Quand la CADA reçoit une demande, c’est-à-dire quand elle est saisie par un citoyen, elle rend un avis qui peut-être : * **favorable** : par exemple, quand la CADA estime que le document pour lequel elle a été saisie gagnerait à être communiqué par l’administration au citoyen qui en a fait la demande ; * **défavorable** : par exemple, lorsque la CADA estime que la préservation d&#039;un secret commercial ou industriel justifie la non-communication du document demandé par le citoyen ; * **sans objet** : par exemple, quand les documents pour lesquels la CADA est saisie n’existent pas ou quand ils on déjà été communiqués au demandeur ; * **irrecevable** : par exemple, quand la CADA manque d’éléments pour rendre un avis, soit parce que la demande du citoyen est trop imprécise pour identifier les documents à transmettre, soit parce que le document en question a déjà été diffusé publiquement ; * **incompétente** : par exemple, quand la CADA estime que ce que demande le citoyen à l’administration ne correspond pas à un document mais à un renseignement, c’est-à-dire une question plus large, plus ouverte, dont la nature excède le domaine de compétence de la CADA. Le graphique ci-dessous montre que les avis émis par la CADA sont majoritairement favorables, c’est-à-dire qu’ils encouragent dans la plupart des cas les administrations à communiquer des documents aux citoyens qui en font la demande. ![graphique pie](https://res.cloudinary.com/bboulesteix/image/upload/v1538749924/graphics.002.png) Le graphique suivant montre que la position globalement favorable de la CADA a été constante au cours des cinq dernières années. ![graphique rel](https://res.cloudinary.com/bboulesteix/image/upload/v1538749924/graphics.003.png) Quelles sont les administrations ou les services publics qui sont à l’origine du plus grand nombre de demandes CADA ? Pour répondre à cette question, nous avons isolé les 10 premiers organismes qui ont engendré des saisines de la CADA. Le graphique ci-dessous montre par exemple que plusieurs patients ont saisi la CADA après avoir demandé la communication de leur dossier médical aux hôpitaux de Paris et avoir essuyé un refus — ou constaté une absence de réponse de leur part. ![graphique top 10](https://res.cloudinary.com/bboulesteix/image/upload/v1538749924/graphics.004.png) Combien de temps met la CADA pour rendre un avis une fois qu’elle a été saisie ? Le graphique ci-dessous montre qu’elle a mis un peu moins de 4 mois, cette année (2018), dans la moitié des cas. La tendance longue montre un allongement des délais de réponse, notamment depuis 2013 — ce qui s’explique en partie par un accroissement du nombre de saisines sur la même période. ![graphique délais réponse](https://res.cloudinary.com/bboulesteix/image/upload/v1538749924/graphics.005.png) ## Les 40 prochaines années Le site [cada.data.gouv.fr](https://cada.data.gouv.fr)/ est en constante évolution. Nous l’enrichissons régulièrement, ce qui nous permet de travailler sur des gros volumes de fichiers au format texte. Mais notre vision pour les textes juridiques s’étend au-delà des avis CADA. Nous réfléchissons actuellement à la façon la plus élégante de rendre certaines décision de justice consultables en ligne. Pour suivre notre réflexion à mesure qu’elle avance, [abonnez-vous à @etalab sur Twitter](https://twitter.com/Etalab). Joyeux anniversaire à la CADA ainsi qu’à celles et ceux qui y travaillent ou y ont travaillé." target="_blank" rel="noopener noreferrer" class="broken_link">abonnez-vous au compte @etalab sur Twitter</a>.</p>
+<p>Joyeux anniversaire à la CADA ainsi qu’à celles et ceux qui y travaillent ou y ont travaillé.[:]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/graphiques-40-ans-cada-data-gouv-fr/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Service public de la donnée: les données du cadastre sont maintenant disponibles sur data.gouv.fr[:]</title>
+		<link>/service-public-de-la-donnee-les-donnees-du-cadastre-sont-maintenant-disponibles-sur-data-gouv-fr</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Mon, 02 Oct 2017 09:26:07 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[cadastre]]></category>
+		<category><![CDATA[service public de la donnée]]></category>
+		<category><![CDATA[spd]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=7680</guid>
+
+					<description><![CDATA[[:fr] La Direction Générale des Finances Publiques (DGFiP) et la mission Etalab mettent en ligne ce lundi 2 octobre, les données du plan cadastral informatisé (PCI). Le cadastre est l’une des neuf bases de données de référence du « service public de la donnée ».   La base comprend les données* sur les parcelles et les emprises &#8230;<p class="read-more"> <a class="" href="/service-public-de-la-donnee-les-donnees-du-cadastre-sont-maintenant-disponibles-sur-data-gouv-fr"> <span class="screen-reader-text">[:fr]Service public de la donnée: les données du cadastre sont maintenant disponibles sur data.gouv.fr[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<div></div>
+<blockquote>
+<h3 id="magicdomid86" class="ace-line"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu" style="color: #333333;">La Direction Générale des Finances Publiques (DGFiP) et la mission Etalab mettent en ligne ce lundi 2 octobre, les<strong> données du plan cadastral informatisé</strong> (PCI). Le cadastre est l’une des neuf bases de données de référence du « service public de la donnée ».</span></h3>
+</blockquote>
+<div id="magicdomid9" class=""><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> </span></div>
+<div id="magicdomid75" class="ace-line" style="text-align: justify;"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">La base comprend les données* sur les <strong>parcelles et les emprises des bâtiments</strong> dans plus de 32800 communes françaises. La version « PCI vecteur » aujourd’hui mise en ligne correspond à </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">plus de </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">556 000 feuilles cadastrales. <strong>La DGFiP met à disposition le cadastre (PCI vecteur) <a href="http://www.data.gouv.fr/fr/datasets/pci-vecteur-plan-cadastral-informatise/" class="broken_link">au format EDIGEO</a></strong>. </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">Trois</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> millésimes sont proposés </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">dès maintenant </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">: </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">février, mai et juillet 2017</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">. Ces données seront mises à jour par leur administration productrice </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">trimestriellement</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">.</span></div>
+<div></div>
+<div class="ace-line" style="text-align: justify;"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">L’objectif premier du service public de la mise à disposition des données de référence est d’en faciliter la réutilisation. Dans cette optique et conformément aux textes organisant ce nouveau service public, Etalab propose aussi aux réutilisateurs une <strong>version </strong></span><strong><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">des principaux éléments du plan cadastral </span><a href="http://www.data.gouv.fr/fr/datasets/cadastre/"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">au format </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">Geo</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">JSON </span></a></strong><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">dans</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> un système de coordonnées géographiques WGS84. Ces fichiers ne contiennent aucune donnée sur les propriétaires et plus généralement aucune donnée à caractère personnel.</span></div>
+<div></div>
+<h2><b><strong><span style="color: #0000ff;">Une mise à disposition très attendue</span> </strong></b></h2>
+<div id="magicdomid174" class="ace-line" style="text-align: justify;"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">La mise en ligne </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">des données </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">du plan cadastral informatisé représente une <strong>nouvelle étape dans la constitution d’une infrastructure </strong></span><strong><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">informationnelle</span></strong><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">. Le cadastre est une donnée de référence. Au-delà de son utilisation première par les services fiscaux, </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">il</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> intéresse l’ensemble des acteurs qui ont besoin de connaître la localisation des bâtiments et leurs emprises. Sa mise en ligne </span><span class="author-a-7z65zcz65zz66zz69zkz90z77z90znz70zaz74z4">avec les millésimes les plus récents </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">était très attendue par les collectivités, mais </span></div>
+<p><img loading="lazy" decoding="async" class="wp-image-7692 alignright" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/09/cadastre.png" alt="" width="230" height="158" srcset="/wp-content/uploads/2017/09/cadastre.png 1207w, /wp-content/uploads/2017/09/cadastre-300x206.png 300w, /wp-content/uploads/2017/09/cadastre-768x527.png 768w, /wp-content/uploads/2017/09/cadastre-1024x703.png 1024w" sizes="(max-width: 230px) 100vw, 230px" /></p>
+<div id="magicdomid174" class="ace-line" style="text-align: justify;"><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">aussi par nombre d’entreprises et d&rsquo;institutions dans le domaine de l’aménagement du ter</span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">ritoire, de l&rsquo;urbanisme ou de l&rsquo;environnement. Un cadastre performant est considéré par nombre d’observateurs comme l’un des facteurs clés de développement d’un pays. En facilitant sa circulation et sa réutilisation par le plus grand nombre, la France poursuit son engagement en faveur d’une plus grande ouverture des données, engagement pris notamment dans le cadre du Partenariat pour le gouvernement ouvert. </span></div>
+<div>
+<h2 style="text-align: justify;"><span style="color: #0000ff;"><b><strong>A propos du service public de la donnée</strong></b><em> </em></span></h2>
+<div id="magicdomid174" class="ace-line" style="text-align: justify;">
+<p><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu">Le service public de mise à disposition des données de référence (« service public de la donnée ») a été crée par <a href="https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&amp;type=general&amp;legislature=14">la loi pour une République numérique</a>. Il est à ce jour composé de neuf bases de données de référence. Depuis son entrée en vigueur en avril 2017, les bases de données déjà disponibles sur l’espace dédié </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu url"><a href="http://www.data.gouv.fr/reference">www.data.gouv.fr/reference</a></span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> ont fait l’objet de plus de 48 000 téléchargements.</span></p>
+<div id="magicdomid19" class=""><em><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"> </span><span class="author-a-6xez81zz88zz84zz81z1lz84zkz66zz70zjz67zu"><strong>*</strong> la consultation et la délivrance d’extraits des plans cadastraux au format PDF restent possibles sur le site cadastre.gouv.fr mis en place par la DGFiP.</span></em></div>
+</div>
+</div>
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]#OpenAsso le 10 septembre : découvrez données ouvertes et associations participantes[:]</title>
+		<link>/openasso-le-10-septembre-decouvrez-donnees-ouvertes-et-associations-participantes</link>
+		
+		<dc:creator><![CDATA[Claire-Marie Foulquier-Gazagnes]]></dc:creator>
+		<pubDate>Tue, 06 Sep 2016 15:47:58 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[Ecosystème]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[associations]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data camp]]></category>
+		<category><![CDATA[openasso]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=5365</guid>
+
+					<description><![CDATA[[:fr] Le 10 septembre, Etalab organise le premier open data camp autour de données ouvertes par des associations : #OpenAsso. Cette journée permettra de diffuser la culture de la donnée dans le monde associatif et faire se rencontrer activistes et geeks. 7 associations ouvrent leurs données et proposent des défis autour de celles-ci. Experts de &#8230;<p class="read-more"> <a class="" href="/openasso-le-10-septembre-decouvrez-donnees-ouvertes-et-associations-participantes"> <span class="screen-reader-text">[:fr]#OpenAsso le 10 septembre : découvrez données ouvertes et associations participantes[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<p style="text-align: justify;">Le 10 septembre, Etalab organise le <a href="https://www.etalab.gouv.fr/openasso-le-10-septembre-aidez-les-associations-a-ouvrir-leurs-donnees">premier open data camp autour de données ouvertes par des associations</a> : #OpenAsso. Cette journée permettra de diffuser la culture de la donnée dans le monde associatif et faire se rencontrer activistes et geeks. 7 associations ouvrent leurs données et proposent des défis autour de celles-ci. Experts de la donnée, venez mettre vos compétences au service d&rsquo;une bonne cause le temps d&rsquo;une journée en vous <a href="https://rdv.etalab.gouv.fr/e/3/openasso-aidez-les-associations-a-ouvrir-leurs-donnees" class="broken_link">inscrivant ici</a>.</p>
+<p style="text-align: justify;"><span id="more-5365"></span></p>
+<p>En préparation d&rsquo;#OpenAsso, les 6 associations partenaires ouvrent sur <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a> leurs données et proposent aux participants à la journée du 10 septembre des défis fondés sur les données.</p>
+<h4><span style="color: #000080;">Transparency France</span></h4>
+<p style="text-align: justify;">La <a href="https://transparency-france.org/">branche française de Transparency International</a> vient de publier la <a href="https://www.data.gouv.fr/fr/datasets/affaires-de-corruption-en-france-par-transparency-international-france-1/">base de données du site www.visualiserlacorruption.fr</a>. Cette base, crowdsourcée par des volontaires, recense les condamnations pour corruption ou autres atteintes à la probité parue dans la presse.<br />
+<strong>Le défi </strong>: Comment automatiser l&rsquo;anonymisation des condamnation et l&rsquo;extraction de données issues de la presse ? Comment mieux représenter les données sur une carte ?</p>
+<div data-udata-dataset-id="579a327388ee385e59d73ff6"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<h4><span style="color: #000080;">Oxfam France</span></h4>
+<p>En mars dernier, <a href="https://www.oxfamfrance.org/">Oxfam France</a> a publié des <a href="https://www.etalab.gouv.fr/publication-sur-data-gouv-fr-de-donnees-comptables-sur-les-cinq-grandes-banques-francaises-par-oxfam-france">données comptables sur les 5 plus grandes banques françaises</a>. Ces données avaient été collectées pendant de nombreux mois auprès des banques, parfois à la main. Elles avaient servi de base au rapport « <a href="https://www.data.gouv.fr/s/resources/en-quete-de-transparence-sur-la-piste-des-banques-francaises-dans-les-paradis-fiscaux/20160323-144336/Rapport_Sur_la_piste_des_banques_francaises_def_Oxfam_CCFD_Secours_Catholique.pdf">En quête de transparence</a>« .<br />
+<strong>Le défi </strong>: Comment s&rsquo;inspirer des données déjà ouvertes pour préparer le nouveau rapport d&rsquo;Oxfam sur un champ européen ? Comment automatiser au maximum l&rsquo;extraction de données issues de rapports bancaires en PDF ?</p>
+<div data-udata-dataset-id="56f29b4fc751df683f53faef"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<h4><span style="color: #000080;">Croix Rouge française<br />
+</span></h4>
+<p style="text-align: justify;">La <a href="http://www.croix-rouge.fr/">Croix Rouge française</a> met depuis 2014 des données à disposition sur data.gouv.fr. Elle y a ajouté des données inédites sur ses <a href="https://www.data.gouv.fr/fr/datasets/liste-des-benevoles-actifs-de-la-croix-rouge-francaise/">bénévoles actifs</a>, ses <a href="https://www.data.gouv.fr/fr/datasets/liste-des-actions-des-delegations-de-la-croix-rouge-francaise-1/">actions</a> et une <a href="https://www.data.gouv.fr/fr/datasets/liste-des-structures-de-la-croix-rouge-francaise/">liste actualisée de ses structures</a>.<br />
+<strong>Les défis</strong> : Comment optimiser l’implantation de la Croix-Rouge sur le territoire au regard des indicateurs socio-économiques ? Comment optimiser l’engagement des bénévoles dans les structures Croix-Rouge ?</p>
+<div data-udata-dataset-id="57cec0f788ee380ddbb627a9"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<div data-udata-dataset-id="57cebf6188ee380b7db627a9"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<div data-udata-dataset-id="57cebed888ee380992b627a9"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<h4><span style="color: #000080;">World Resources Institute</span></h4>
+<p>L&rsquo;ONG <a href="http://www.wri.org/">World Resources Institute</a> produit un grand nombre de données, notamment climatiques. Ils mettent désormais à disposition sur data.gouv.fr des données sur les <a href="https://www.data.gouv.fr/fr/datasets/cait-country-greenhouse-gas-emissions-data/">émissions à effet de serre pour 186 pays</a> et leurs <a href="https://www.data.gouv.fr/fr/datasets/cait-paris-contributions-data/">engagements pris dans le cadre de la COP21</a>.<br />
+<strong>Le défi</strong> : Comment représenter les engagements de la COP21 par rapport aux émissions effectives ?</p>
+<div data-udata-dataset-id="57c6dff7c751df24c697bae5"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<div data-udata-dataset-id="57c6de60c751df225897bae5"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<h4><span style="color: #000080;">WikiMedia France </span></h4>
+<p><a href="http://www.wikimedia.fr/">WikiMedia France</a> a publié en mars dernier les <a href="https://www.data.gouv.fr/fr/datasets/subdivisions-administratives-francaises-issues-de-wikidata/">subdivisions administratives françaises, telles qu&rsquo;issues de WikiData</a>. Elles sont maintenant enrichies d&rsquo;une <a href="https://www.data.gouv.fr/fr/datasets/listes-de-personnalites-issues-de-wikidata-1/">extraction des députés français</a>.<br />
+<strong>Le défi</strong> : Quels nouveaux liens imaginer entre WikiData et data.gouv.fr ? Comment nettoyer des données WikiData pour constituer une base de donnée fiable, par exemple dans le cas des communes françaises ?</p>
+<div data-udata-dataset-id="57cd85dec751df33bf97bae5"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<div data-udata-dataset-id="56ec468e88ee38265ee1a643"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script></p>
+<h4><span style="color: #000080;">La Quadrature du Net</span></h4>
+<p style="text-align: justify;">La <a href="https://www.laquadrature.net/fr">Quadrature du Net</a> avec le projet <a href="http://www.memopol.org/" class="broken_link">Memopol </a>collecte des données sur les votes des parlementaires européens et des parlementaires des pays membres de l&rsquo;Union européenne sur des sujets liés aux libertés sur internet.<br />
+<strong>Le défi</strong> : Comment crowdsourcer des données dans la presse sur les positions publiques des élus ? Comment rapprocher les positions des élus et les points de vue des utilisateurs dans une application utilisant les principes des sites de rencontre ?</p>
+<p style="text-align: justify;"><em><strong>Pour participer à la résolution de ces défis proposés par les associations, <a href="https://rdv.etalab.gouv.fr/e/3/openasso-aidez-les-associations-a-ouvrir-leurs-donnees" class="broken_link">merci de vous inscrire ici</a>. L&rsquo;événement est organisé au SenseCube en partenariat avec MakeSense, Ecole des données et Data for Good.</strong><br />
+</em></p>
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Le service d&#8217;information du Gouvernement (SIG) met à disposition les audiences quotidiennes des principaux sites web gouvernementaux[:]</title>
+		<link>/le-service-dinformation-du-gouvernement-sig-met-a-disposition-les-audiences-quotidiennes-des-principaux-sites-web-gouvernementaux</link>
+		
+		<dc:creator><![CDATA[Romain Tales]]></dc:creator>
+		<pubDate>Thu, 28 Jul 2016 10:12:17 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[gouvernement]]></category>
+		<category><![CDATA[open data]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=5202</guid>
+
+					<description><![CDATA[[:fr]La France a été désignée par les Nations Unies en 2014 comme le pays le plus avancé en Europe et le 4eme dans le monde en matière d&#8217; « e-gouvernement ». Fort de ce constat, la France s&#8217;est engagée à travers son plan d&#8217;action national dans le cadre du Partenariat pour un Gouvernement Ouvert à &#8230;<p class="read-more"> <a class="" href="/le-service-dinformation-du-gouvernement-sig-met-a-disposition-les-audiences-quotidiennes-des-principaux-sites-web-gouvernementaux"> <span class="screen-reader-text">[:fr]Le service d&#8217;information du Gouvernement (SIG) met à disposition les audiences quotidiennes des principaux sites web gouvernementaux[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]La France a été désignée par les Nations Unies en 2014 comme le pays le plus avancé en Europe et le 4eme dans le monde en matière d&rsquo; « e-gouvernement ».</p>
+<p>Fort de ce constat, la France s&rsquo;est engagée à travers son plan d&rsquo;action national dans le cadre du Partenariat pour un Gouvernement Ouvert à mieux interagir avec l&rsquo;usager et améliorer les services publics grâce à l&rsquo;administration numérique (engagement numéro 18).</p>
+<p>Cet engagement se traduit par le renforcement de la mesure de satisfaction des services publics numériques et la transparence des données, la prise en compte des retours des usagers ainsi que l&rsquo;association des parties prenantes à la conception et à l&rsquo;évolution des services.</p>
+<p>Dans ce contexte, le SIG publie ce jour les audiences quotidiennes des principaux sites web gouvernementaux sur la plateforme data.gouv.fr dans un format ouvert.</p>
+<p>Pour chaque site web, les statistiques d&rsquo;audience sont fournies quotidiennement:</p>
+<ul>
+<li>de visites, de visiteurs, nombre de pages vues, temps passé sur le site, taux de rebond (visite d&rsquo;une seule page) pour &lsquo;ensemble du site (TOTAL)</li>
+<li>mêmes indicateurs pour les 50 pages les plus consultées dans la journée (URL de la page indiquée, voir ci-dessous)</li>
+<li>mêmes indicateurs pour les 50 sites référents (REFERRER)</li>
+<li>mêmes indicateurs en fonction du type de source (SOURCE)</li>
+<li>mêmes indicateurs en fonction du support utilisé pour consulter le site (SUPPORT)</li>
+</ul>
+<p>Les URL ne sont disponibles globalement que depuis le printemps 2016, pour les données antérieures elle est remplacée par « UNAVAILABLE » si absente.</p>
+<p>Pour plus d&rsquo;informations cliquez <a href="http://www.siglab.fr/fr/opendata-du-gouvernementfr-les-donnees-daudience-du-web-gouvernemental-la-disposition-des-citoyens" class="broken_link">ici</a></p>
+<div data-udata-dataset-id="578e7bb9c751df316ffa6070"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]scanR : le moteur et les données de la recherche[:]</title>
+		<link>/scanr-le-moteur-et-les-donnees-de-la-recherche</link>
+		
+		<dc:creator><![CDATA[Clémentine Désigaud]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2016 10:01:54 +0000</pubDate>
+				<category><![CDATA[Données]]></category>
+		<category><![CDATA[Réutilisations]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=5155</guid>
+
+					<description><![CDATA[[:fr]Le ministère de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche dévoile aujourd’hui scanR, le moteur de la recherche et de l’innovation. Il se présente comme une application web d’aide à la caractérisation des structures de recherche publiques (unités de recherche, institutions publiques) et privées (entreprises), quels que soient leur discipline ou leur secteur. &#8230;<p class="read-more"> <a class="" href="/scanr-le-moteur-et-les-donnees-de-la-recherche"> <span class="screen-reader-text">[:fr]scanR : le moteur et les données de la recherche[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]Le ministère de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche dévoile aujourd’hui <strong><a href="https://scanr.enseignementsup-recherche.gouv.fr/">scanR, le moteur de la recherche et de l’innovation</a>. </strong>Il se présente comme une application web d’aide à la caractérisation des structures de recherche publiques (unités de recherche, institutions publiques) et privées (entreprises), quels que soient leur discipline ou leur secteur.</p>
+<p><strong>scanR</strong> combine des informations extraites des sites web des structures de recherche et des données ouvertes enrichies, concernant <strong>près de 17 000 acteurs de la recherche implantés en France</strong> : publications et thèses, implication dans des projets de recherche collaborative, essaimage d’entreprises, brevets…</p>
+<p>Grâce à son moteur de recherche qui indexe l’ensemble des sources de données, scanR permet aux utilisateurs <strong>d’identifier des acteurs français travaillant sur une problématique de recherche spécifique</strong>. Cette application constitue donc un point d’entrée privilégié et unifié vers un ensemble de ressources, qui permettent de caractériser l’implication dans la recherche et l’innovation des différents acteurs français et les relations qui les unissent.</p>
+<p><a href="https://scanr.enseignementsup-recherche.gouv.fr/"><img loading="lazy" decoding="async" class="wp-image-5157 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/07/scanR2.png" alt="scanR2" width="485" height="265" srcset="/wp-content/uploads/2016/07/scanR2.png 608w, /wp-content/uploads/2016/07/scanR2-300x164.png 300w" sizes="(max-width: 485px) 100vw, 485px" /></a></p>
+<p>Le mode d’alimentation en données de scanR ne permet pas de garantir l’exhaustivité du référencement des publications, brevets, thèses et financements, et <strong>s’accompagne donc d’un mécanisme de contribution collaborative (crowdsourcing)</strong>. L’application permet en effet à chaque utilisateur de faire remonter de façon simple des remarques et des erreurs ou de proposer des enrichissements directement sur les pages des structures de recherche.</p>
+<p>Le ministère de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche rend <strong>également disponibles les données associées à l’application scanR</strong>. Ces données sont publiées sur le <a href="http://data.enseignementsup-recherche.gouv.fr/explore/?sort=modified">portail open data de l’enseignement supérieur et à la recherche</a> et sur le portail <a href="https://www.data.gouv.fr/fr/apidoc/">data.gouv.fr</a>.</p>
+<p>Les jeux de données suivants sont disponibles :</p>
+<ul>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-recherche-publiques-actives/">Structures de recherche publiques actives </a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/repertoire-national-des-structures-de-recherche/">Répertoire national des structures de recherche</a></li>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-repertoire-national-structures-recherche-historique-annuel/">Répertoire national des structures de recherche &#8211; Historique annuel</a></li>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-etablissements-publics-prives-impliques-recherche-developpement/">Établissements publics et privés impliqués dans la recherche et le développement</a></li>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-scanr-publications-scientifiques/">Publications scientifiques recensées dans scanR</a></li>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-aap-anr-projets-retenus-participants-identifies/">Appels à projets ANR &#8211; Projets retenus et participants identifiés</a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/appels-a-projets-7eme-pcrdt-projets-retenus-et-participants-identifies/">Appels à projets du 7e PCRDT &#8211; Projets retenus et participants identifiés</a></li>
+<li><a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-laureats-concours-national-i-lab/">Lauréats I-LAB &#8211; Concours national d&rsquo;aide à la création d&rsquo;entreprises de technologies innovantes </a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/finalistes-et-laureats-du-concours-ma-these-en-180-secondes-france/">Finalistes et lauréats du concours « Ma thèse en 180 secondes » France</a></li>
+</ul>
+<p>L’application scanR, comme le portail open data de l’enseignement supérieur et de la recherche, sont deux exemples des avancées du ministère de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche en matière d’ouverture des données publiques et de gouvernement ouvert.</p>
+<p>Ces avancées s’inscrivent dans le cadre des engagements internationaux pris par la France : ouverture des données de la recherche (engagement pris lors de la signature de la <a href="http://www.etalab.gouv.fr/leschefsdetatdug8signentunechartepourlouverturedesdonneespubliques">Charte Open Data du G8</a>), renforcement de la politique d’ouverture et de circulation des données (engagement 15 du <a href="https://www.etalab.gouv.fr/plan-daction-national">Plan d’action national</a> de la France au sein du Partenariat pour un gouvernement ouvert).[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]#OpenAsso le 10 septembre : aidez les associations à ouvrir leurs données[:]</title>
+		<link>/openasso-le-10-septembre-aidez-les-associations-a-ouvrir-leurs-donnees</link>
+		
+		<dc:creator><![CDATA[Claire-Marie Foulquier-Gazagnes]]></dc:creator>
+		<pubDate>Wed, 22 Jun 2016 14:20:25 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[associations]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data camp]]></category>
+		<category><![CDATA[openasso]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=5060</guid>
+
+					<description><![CDATA[[:fr] Depuis 2013, le portail www.data.gouv.fr accueille les données ouvertes par les administrations, mais aussi par les entreprises,  citoyens et associations. Le 10 septembre 2016, un open data camp accompagnera pour la première fois les associations dans leurs ouvertures de données. Vous souhaitez partager vos compétences en collecte, analyse et visualisation de données avec les &#8230;<p class="read-more"> <a class="" href="/openasso-le-10-septembre-aidez-les-associations-a-ouvrir-leurs-donnees"> <span class="screen-reader-text">[:fr]#OpenAsso le 10 septembre : aidez les associations à ouvrir leurs données[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<p style="text-align: justify;">Depuis 2013, le portail <a href="https://www.data.gouv.fr/fr/">www.data.gouv.fr</a> accueille les données ouvertes par les administrations, mais aussi par les entreprises,  citoyens et associations. Le 10 septembre 2016, un open data camp accompagnera pour la première fois les associations dans leurs ouvertures de données. Vous souhaitez partager vos compétences en collecte, analyse et visualisation de données avec les associations ? Les inscriptions sont ouvertes ci-dessous.</p>
+<p><span id="more-5060"></span></p>
+<h4>Un premier open data camp autour des données ouvertes par les associations</h4>
+<p style="text-align: justify;">Le portail <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a> rassemble des données associatives d&rsquo;intérêt général comme la <a href="https://www.data.gouv.fr/fr/organizations/croix-rouge-francaise/#datasets">géolocalisation des unités de la Croix rouge</a>, les <a href="https://www.data.gouv.fr/fr/datasets/delai-d-attente-rendez-vous-pediatre-0/">délais d&rsquo;attente chez le pédiatre d&rsquo;après UFC que choisir</a>, ou plus récemment des <a href="https://www.data.gouv.fr/fr/datasets/transparence-donnees-comptables-pays-par-pays-des-5-plus-grandes-banques-francaises/">données comptables concernant les banques françaises collectées par Oxfam France</a>.</p>
+<p style="text-align: justify;">Le 10 septembre, ces associations et d&rsquo;autres comme <a href="https://transparency-france.org/">Transparency France</a>, <a href="https://www.one.org/fr/">ONE Franc</a>e et le <a href="http://www.wri.org/">World Resources Institute</a> ouvriront de nouvelles données. Pour tirer le meilleur parti de ces jeux de données, qui concerneront des sujets aussi divers que les condamnations pour faits de corruption ou les engagements de la COP21, ces associations comptent sur les communautés de spécialistes de la collecte, analyse et visualisation de données.</p>
+<p><strong>Un appel à compétence pour résoudre les défis data des associations</strong></p>
+<p style="text-align: justify;">Organisé à <a href="http://www.sensespace.cc/">SenseSpace</a>, un lieu dédié à entrepreneuriat social (<span class="_Xbe">11 Rue Biscornet, 75012 Paris</span>) le 10 septembre, l&rsquo;open data camp #OpenAsso débutera à 9h30 par des courtes présentations des associations qui proposeront leurs défis dans le traitement et la visualisation des données qu&rsquo;elles collectent. Autour de ces défis, des petits groupes de spécialistes de la données et de membres des associations seront formés. Ils seront accompagnés dans leurs travaux par les équipes d&rsquo;Etalab, mais aussi de <a href="https://www.makesense.org/">MakeSense</a>, <a href="http://www.bayesimpact.org/">Data for Good</a> et <a href="http://ecoledesdonnees.org/">L&rsquo;école des données</a>, partenaires de l&rsquo;événement. A 17h, les restitutions permettront aux équipes de présenter leurs réutilisations de données aux responsables associatifs, avant un verre convivial.</p>
+<p style="text-align: justify;">Vous savez collecter, analyser, traiter ou visualiser des données ? N&rsquo;hésitez pas à vous inscrire pour aider les associations durant une journée à réutiliser leurs données ouvertes.</p>
+<h3 style="text-align: center;">&gt;&gt;&gt; <span style="text-decoration: underline;"><span style="color: #0000ff;"><a style="color: #0000ff; text-decoration: underline;" href="https://rdv.etalab.gouv.fr/e/3/openasso-aidez-les-associations-a-ouvrir-leurs-donnees" class="broken_link">INSCRIPTION</a> </span></span>&lt;&lt;&lt;</h3>
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>etalabadm &#8211; Etalab</title>
+	<atom:link href="/author/etalabadm/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 15 Oct 2019 08:46:03 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>etalabadm &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>OpenFisca au Hackathon sur la fiscalité de Dakar</title>
+		<link>/openfisca-au-hackathon-sur-la-fiscalite-de-dakar</link>
+		
+		<dc:creator><![CDATA[etalabadm]]></dc:creator>
+		<pubDate>Mon, 14 Nov 2016 08:33:42 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=5999</guid>
+
+					<description><![CDATA[[:fr]Les 3 et 4 novembre derniers s&#8217;est tenu à Dakar un hackathon dont le thème était « Innovation et Collaboration pour le système des impôts sénégalais ». L&#8217;événement était organisé par le Fonds Monétaire International et le Ministère de l&#8217;Économie, des Finances et du Plan du Sénégal, avec l&#8217;appui de MakeSense. Était notamment présente la &#8230;<p class="read-more"> <a class="" href="/openfisca-au-hackathon-sur-la-fiscalite-de-dakar"> <span class="screen-reader-text">OpenFisca au Hackathon sur la fiscalité de Dakar</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]Les 3 et 4 novembre derniers s&rsquo;est tenu à Dakar un <a href="http://www.imf.org/en/News/Events/Hackathon-Technological-Innovation-for-the-Senegalese-Tax-Administration" class="broken_link">hackathon </a>dont le thème était « <em>Innovation et Collaboration pour le système des impôts sénégalais</em> ».</p>
+<p>L&rsquo;événement était organisé par le <a href="https://www.imf.org/" class="broken_link">Fonds Monétaire International</a> et le <a href="http://www.finances.gouv.sn/" class="broken_link">Ministère de l&rsquo;Économie, des Finances et du Plan du Sénégal</a>, avec l&rsquo;appui de <a href="https://www.makesense.org/fr" class="broken_link">MakeSense</a>. Était notamment présente la <a href="http://www.impotsetdomaines.gouv.sn/">Direction Générale des Impôts et des Domaines du Sénégal (DGID)</a>.</p>
+<p style="text-align: justify;"><a href="https://github.com/cbenz">Christophe Benz</a>, l&rsquo;un des développeurs du projet <a href="https://www.openfisca.fr/">OpenFisca</a> travaillant à Etalab, y a participé, ainsi qu&rsquo;<a href="http://www.amse-aixmarseille.fr/users/pacifico" class="broken_link">Adrien Pacifico</a>, doctorant résident de l&rsquo;<a href="http://www.amse-aixmarseille.fr/">école d&rsquo;économie d&rsquo;Aix-Marseille</a>.</p>
+<p style="text-align: justify;">Cette journée visait à identifier des pistes d&rsquo;amélioration pour la collecte des impôts au Sénégal, susceptibles de renforcer le consentement à l&rsquo;impôt, et à améliorer les services en ligne de l&rsquo;administration fiscale.</p>
+<p style="text-align: justify;">Onze ateliers ont été répartis sur trois thèmes : relation entre l&rsquo;administration fiscale et les citoyens, relation entre l&rsquo;administration fiscale et les entreprises, et l&rsquo;évaluation des exonérations fiscales.</p>
+<p style="text-align: justify;"><img fetchpriority="high" decoding="async" class="size-large" src="http://i1.wp.com/senegal7.com/wp-content/uploads/2016/11/DSC_1654.jpg?w=1512" alt="Un atelier de travail du hackathon à Dakar" width="1512" height="1008" /></p>
+<p style="text-align: justify;">OpenFisca a participé à l&rsquo;atelier sur l&rsquo;évaluation des exonérations fiscales. L&rsquo;enjeu était de proposer un modèle logiciel de la législation socio-fiscale sénégalaise, sur lequel l&rsquo;administration fiscale pourrait construire des analyses.</p>
+<p style="text-align: justify;">OpenFisca étant un logiciel adapté à ces besoins, ayant déjà modélisé une bonne partie du <a href="https://legislation.openfisca.fr/graph/">système socio-fiscal français</a>, l&rsquo;équipe, rejointe notamment par un inspecteur des impôts de l&rsquo;administration fiscale sénégalaise, a pu initier cette simulation. OpenFisca étant conçu pour ne pas être lié à un pays en particulier, un projet vide <a href="https://github.com/openfisca/senegal/tree/151dcc3fabc13a56e000cd983725344ed521ce2c"><code>OpenFisca-Sénégal</code></a> dans lequel aucune formule n&rsquo;existe au préalable a ainsi été initialisé.</p>
+<p style="text-align: justify;">Puis nous sommes partis du <a href="http://www.gouv.sn/IMG/pdf/cgi2013.pdf" class="broken_link">code général des impôts sénégalais</a>. Le temps imparti étant relativement court, nous avons choisi comme première réalisation la modélisation du barême de l&rsquo;impôt (article 173 page 71).</p>
+<p><img decoding="async" class="size-large wp-image-6001 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/11/article_173_cgi_senegal-1024x361.png" alt="article_173_cgi_senegal" width="806" height="284" srcset="/wp-content/uploads/2016/11/article_173_cgi_senegal-1024x361.png 1024w, /wp-content/uploads/2016/11/article_173_cgi_senegal-300x106.png 300w, /wp-content/uploads/2016/11/article_173_cgi_senegal-768x271.png 768w, /wp-content/uploads/2016/11/article_173_cgi_senegal.png 1514w" sizes="(max-width: 806px) 100vw, 806px" /></p>
+<p style="text-align: justify;">Nous avons traduit le tableau des tranches de l&rsquo;impôt en données OpenFisca. Nous avons eu le temps d&rsquo;implémenter également une réduction d&rsquo;impôts pour charge de famille (article 174 page 71 du <a href="http://www.gouv.sn/IMG/pdf/cgi2013.pdf" class="broken_link">code général des impôts sénégalais</a>).</p>
+<p>L&rsquo;ensemble du travail réalisé pendant l&rsquo;atelier est disponible sur un <a href="https://github.com/openfisca/senegal">dépôt Git</a>, sous licence libre <a href="https://github.com/openfisca/senegal/blob/master/LICENSE">AGPL-3</a> comme tout le code source d&rsquo;OpenFisca.</p>
+<p>L&rsquo;essentiel du travail est visible dans un notebook <a href="http://jupyter.org/">Jupyer</a> disponible <a href="https://github.com/openfisca/senegal/blob/master/notebooks/Senegalese%20tax%20and%20benefit%20system%20from%20scratch.ipynb">ici</a>.</p>
+<p>Ce début de modèle sénégalais a permis d&rsquo;étudier et de grapher le gain fiscal du premier enfant pour une personne seule :</p>
+<p><img decoding="async" class="size-large wp-image-6002 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/11/graphe-gain-enfant.png" alt="graphe-gain-enfant" width="725" height="509" srcset="/wp-content/uploads/2016/11/graphe-gain-enfant.png 725w, /wp-content/uploads/2016/11/graphe-gain-enfant-300x211.png 300w" sizes="(max-width: 725px) 100vw, 725px" /></p>
+<p style="text-align: justify;">Ce projet n&rsquo;est bien sûr qu&rsquo;un début et la législation est modélisée de façon très partielle pour l&rsquo;instant. Il pourra être poursuivi afin de préciser ou corriger les résultats. Des tests pourront être ajoutés à la manière des <a href="https://github.com/openfisca/openfisca-france/blob/master/openfisca_france/tests/formulas/irpp.yaml" class="broken_link">tests sur OpenFisca-France</a>.<br />
+Cette méthodologie permet, lorsque l&rsquo;on soupçonne une erreur, de réaliser le calcul à la main une fois pour toutes, et de le comparer au résultat d&rsquo;OpenFisca, détectant ainsi toute régression lors des mises à jour.</p>
+<p>L&rsquo;exercice a séduit les membres de l&rsquo;équipe sénégalaise, qui y ont vu un moyen de faciliter leur travail au quotidien dans l&rsquo;évaluation fiscale.<br />
+Cependant OpenFisca n&rsquo;est pas un outil clé en main : il nécessite une connaissance préalable des technologies actuelles comme le langage Python, et des pratiques de développement en usage dans le logiciel libre.</p>
+<p style="text-align: justify;">L&rsquo;ouverture du code source dès le début du projet apporte de nombreux avantages comme le contrôle citoyen ou le renforcement du consentement à payer l&rsquo;impôt.</p>
+<p style="text-align: justify;">L&rsquo;utilisation des technologies à l&rsquo;état de l&rsquo;art permet une montée en compétence d&rsquo;un plus grand nombre de développeurs de la société civile, mais aussi d&rsquo;économistes dont les nouvelles générations se voient enseigner des langages de programmation tels que Python.</p>
+<p>Le projet OpenFisca-Sénégal sera poursuivi lors du hackathon se tenant pendant le Sommet mondial du Partenariat pour un Gouvernement Ouvert : voir <a href="https://hackathon.ogpsummit.org/projects/5820bc9fea3393203facf65c" class="broken_link">la fiche de l&rsquo;atelier</a>.</p>
+<p>Voir aussi :</p>
+<ul>
+<li><a href="http://www.finances.gouv.sn/index.php/actualites/326-hackathon2" class="broken_link">http://www.finances.gouv.sn/index.php/actualites/326-hackathon2</a></li>
+<li><a href="http://senegal7.com/photos-discours-ceremonie-de-cloture-du-hackathon-03-04-novembre-2016-a-dakar/">http://senegal7.com/photos-discours-ceremonie-de-cloture-du-hackathon-03-04-novembre-2016-a-dakar/</a></li>
+<li><a href="http://www.lesoleil.sn/2016-03-22-23-21-32/item/57300-hackathon-dans-l-administration-des-ameliorations-attendues-dans-la-collecte-des-recettes.html" class="broken_link">http://www.lesoleil.sn/2016-03-22-23-21-32/item/57300-hackathon-dans-l-administration-des-ameliorations-attendues-dans-la-collecte-des-recettes.html</a></li>
+</ul>
+[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Allocution du Président de la République à New-York devant l&#8217;Open Government Partnership[:]</title>
+		<link>/allocution-du-president-de-la-republique-devant-lopen-government-partnership</link>
+					<comments>/allocution-du-president-de-la-republique-devant-lopen-government-partnership#comments</comments>
+		
+		<dc:creator><![CDATA[etalabadm]]></dc:creator>
+		<pubDate>Mon, 29 Sep 2014 07:51:40 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[François Hollande]]></category>
+		<category><![CDATA[gouvernement ouvert]]></category>
+		<category><![CDATA[OGP]]></category>
+		<category><![CDATA[ONU]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[Open Gov]]></category>
+		<guid isPermaLink="false">http://www.etalab.gouv.fr/?p=2155</guid>
+
+					<description><![CDATA[[:fr] A l’issue de la réunion du Conseil de Sécurité de l’ONU du 24 septembre 2014, le Président de la République François Hollande a rejoint le sommet de l’Open Government Partnership, où la France siège désormais au Comité Directeur. Organisé en marge de la 69e Assemblée générale des Nations-Unies, cet événement a rassemblé dix Chefs d&#8217;Etats &#8230;<p class="read-more"> <a class="" href="/allocution-du-president-de-la-republique-devant-lopen-government-partnership"> <span class="screen-reader-text">[:fr]Allocution du Président de la République à New-York devant l&#8217;Open Government Partnership[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]
+<p style="text-align: justify;"><em><i>A l’issue de la réunion du Conseil de Sécurité de l’ONU du 24 septembre 2014,</i> le Président de la République François Hollande a rejoint le <strong>sommet de l’<a href="http://www.opengovpartnership.org/">Open Government Partnership,</a></strong> où la France siège désormais au Comité Directeur. </em></p>
+<p style="text-align: justify;"><em>Organisé en marge de la 69<sup>e</sup> Assemblée générale des Nations-Unies, cet événement a rassemblé <strong>dix Chefs d&rsquo;Etats et de gouvernement</strong> &#8211; parmi lesquels </em><em>Barack Obama, </em><em>Jacob Zuma et Enrique Peña Nieto &#8211; à l&rsquo;occasion des trois ans du Partenariat. </em></p>
+<p style="text-align: justify;"><em>La rencontre a également été l&rsquo;occasion de récompenser les meilleures initiatives mondiales en matière d’implication des citoyens.  A ce titre, un « <strong>Open Government Award »</strong> a été attribué à <span style="text-decoration: underline;">D</span><a href="http://data.gouv.fr/"><span style="text-decoration: underline;">a</span>ta.gouv.fr</a>, premier portail d’open data ouvert aux contributions citoyennes.</em></p>
+<p><em> </em>La vidéo de l’intégralité de la cérémonie est accessible <a href="http://www.opengovpartnership.org/ogp-high-level-event-september-24-new-york" class="broken_link">sur le site de l’Open Government Partnership</a>.</p>
+<p style="text-align: center;"><iframe loading="lazy" src="//www.dailymotion.com/embed/video/x26qp4c" width="480" height="270" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br />
+<a href="http://www.dailymotion.com/video/x26qp4c_allocution-du-president-de-la-republique-francois-hollande-a-l-ogp_news" target="_blank">Allocution du Président de la République&#8230;</a> <i>par <a href="http://www.dailymotion.com/etalab" target="_blank">etalab</a></i></p>
+<p>&nbsp;</p>
+<h4 style="text-align: center;"><strong>Allocution du Président de la République<br />
+</strong></h4>
+<h4 style="text-align: center;"><em><b>&#8211; New York, Nations Unies &#8211; le 24 Septembre 2014 &#8211;</b></em></h4>
+<p style="text-align: justify;">« Je salue tous les Chefs d’Etat et de gouvernements qui sont ici présents, et qui participent à cet événement. Car c’en est un.</p>
+<p style="text-align: justify;">Nous avons évoqué des sujets terribles tout au long de la journée. Notamment, nous sortons d’une réunion, présidée par Barack Obama, du Conseil de Sécurité sur la lutte contre le terrorisme.</p>
+<p style="text-align: justify;">Nous avons aussi abordé ici d’autres questions, qui vont permettre à la planète d’être plus propre, moins consommatrice d’énergie, et c’est toute la question de la Conférence sur le Climat qui se tiendra à Paris en décembre 2015.</p>
+<p style="text-align: justify;">Et puis, il y a ce forum, qui est aussi une exigence des peuples : avoir plus de transparence, avoir plus de coopération pour que les citoyens eux-mêmes puissent connaître davantage du fonctionnement des États. Pour que les administrations puissent rendre des comptes à ceux qui les ont ainsi désignées.</p>
+<p style="text-align: justify;">C’est une vieille revendication, en définitive, que vous portez, qui remonte pour nous à la Déclaration des Droits de l’Homme et du Citoyen, qui proclamait déjà que « <em>la société est en droit de demander des comptes à tout agent public de son administration </em>».</p>
+<p style="text-align: justify;">Vous voyez, vous n’inventez rien. Sauf que les technologies d’aujourd’hui font qu&rsquo;il devient possible de demander des comptes, et d’assurer la transparence.</p>
+<p style="text-align: justify;">La transparence, c’est aussi celle qui concerne ceux qui décident, c’est à dire les élus et les responsables publics. En France, nous avons crée une Haute Autorité pour la Transparence de la Vie Publique, pour connaître les patrimoines, l’origine des revenus des élus qui décident au nom du peuple français. Cela peut parfois avoir des conséquences assez dommageables pour ceux qui ont manqué à leur devoir. Et c’est bien le but.</p>
+<p style="text-align: justify;">De la même manière, nous souhaitons qu’il y ait une ouverture de toutes les données de ce qu’on appelle l’ « <em>e-gouvernement </em>». Nous souhaitons la simplification : que les citoyens puissent eux-mêmes participer à cette simplification de l’action publique.</p>
+<p style="text-align: justify;">Cette exigence de transparence doit mettre à la disposition des citoyens toutes les données. Toutes celles qui sont à vocation publique, pas celles qui sont d’ordre privé. Car plus on doit être transparent sur le plan de la vie publique, plus on doit protéger aussi la vie privée. C’est finalement cette coordination, cette conjugaison, cette harmonie de la transparence pour les données publiques et de la protection pour les données privées, qui fait que nous sommes dans une démarche démocratique.</p>
+<p style="text-align: justify;">Nous voulons aussi que la France soit partie prenante de cette exigence de régulation, de transparence à l’échelle de la planète. Pour lutter contre la fraude fiscale, pour lutter contre la corruption, pour lutter aussi contre les filières, contre les trafics, contre tout ce qui peut alimenter le terrorisme.</p>
+<p style="text-align: justify;">L’alliance entre les gouvernements &#8211; et ici vous en avez de toutes sortes &#8211; et la société civile est une nécessité. C’est ce qui fera que nous pourrons avancer. J’évoquais tout à l’heure l’enjeu du climat. Nous pourrons réussir le rendez-vous de la Conférence sur Climat s&rsquo;il y a transparence, s&rsquo;il y a coordination entre les gouvernements et les sociétés civiles.</p>
+<p style="text-align: justify;">La France a donc souhaité rejoindre l’initiative ambitieuse qu’est votre organisation, l’OGP, et s’engager dans son Comité Directeur. Nous voulons être un partenaire. Nous voulons être un acteur. Nous voulons coopérer avec vous.</p>
+<p style="text-align: justify;">Dans quelques jours, la France engagera une grande concertation publique sur le numérique, parce que nous voulons que l’Etat puisse être transformé par le numérique. Nous aurons un Plan d’Action National, que nous publierons au printemps prochain dans le cadre de l’OGP.</p>
+<p style="text-align: justify;">Votre organisation est un lieu unique pour concevoir les rôles et les responsabilités des gouvernements de demain.</p>
+<p style="text-align: justify;">Je suis heureux que vous ayez accepté que la France puisse être partie prenante de votre ambition de transparence, de démocratie et de liberté. Car il s’agit de liberté.»</p>
+<p style="text-align: justify;">[slideshare id=39684641&amp;doc=allocutiondupresidentdelarepublique-140929233633-phpapp01&amp;type=d]
+[:]
+]]></content:encoded>
+					
+					<wfw:commentRss>/allocution-du-president-de-la-republique-devant-lopen-government-partnership/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Christian Quest &#8211; Etalab</title>
+	<atom:link href="/author/christian/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 15 Oct 2019 08:43:29 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Christian Quest &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Etalab ouvre une instance mastodon pour les agents publics</title>
+		<link>/etalab-ouvre-une-instance-mastodon-pour-les-agents-publics</link>
+		
+		<dc:creator><![CDATA[Christian Quest]]></dc:creator>
+		<pubDate>Thu, 20 Apr 2017 16:48:16 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=6863</guid>
+
+					<description><![CDATA[[:fr]Vous avez peut-être entendu parler dernièrement de « mastodon« . Il s&#8217;agit d&#8217;un réseau social au fonctionnement relativement proche de Twitter, mais entièrement libre, respectueux de la vie privée (aucun tracker par défaut) et décentralisé. Il s&#8217;appuie sur un protocole ouvert, pré-existant: OStatus (GNU social). Bien que disponible depuis l&#8217;automne sur github, son développeur Eugen Rochko ne &#8230;<p class="read-more"> <a class="" href="/etalab-ouvre-une-instance-mastodon-pour-les-agents-publics"> <span class="screen-reader-text">Etalab ouvre une instance mastodon pour les agents publics</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]Vous avez peut-être entendu parler dernièrement de « <strong>mastodon</strong>« .</p>
+<p style="text-align: justify;">Il s&rsquo;agit d&rsquo;un réseau social au fonctionnement relativement proche de Twitter, mais entièrement libre, respectueux de la vie privée (aucun tracker par défaut) et décentralisé. Il s&rsquo;appuie sur un protocole ouvert, pré-existant: OStatus (GNU social).</p>
+<p><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-6864" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/04/C91_wHxXkAAPqlZ-300x169.jpg" alt="" width="300" height="169" srcset="/wp-content/uploads/2017/04/C91_wHxXkAAPqlZ-300x169.jpg 300w, /wp-content/uploads/2017/04/C91_wHxXkAAPqlZ-768x432.jpg 768w, /wp-content/uploads/2017/04/C91_wHxXkAAPqlZ.jpg 810w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Bien que disponible depuis l&rsquo;automne sur <a href="https://github.com/tootsuite/mastodon/">github</a>, son développeur <a href="https://hackernoon.com/welcome-to-mastodon-111d9227e56a">Eugen Rochko ne l&rsquo;a mis en avant que le premier avril dernier</a>.</p>
+<p style="text-align: justify;">En à peine deux semaines, près de 400.000 comptes ont été ouverts sur <a href="https://instances.mastodon.xyz/list" class="broken_link">un millier d&rsquo;instances</a>, avec un rythme au moment où nous écrivons de <a href="https://social.lou.lt/users/mastodonusercount/updates/23028" class="broken_link">200.000 nouveaux comptes par semaine</a>.</p>
+<p style="text-align: justify;">La communauté libriste française compte pour une bonne part dans ce démarrage sur les chapeaux de roue, puis ce sont les japonais qui se sont approprié ce nouvel outil et maintenant le phénomène semble prendre chez nos voisins espagnols. Du coup, le développement s&rsquo;est accéléré et les nouvelles versions se succèdent rapidement depuis une semaine. Le financement de ce projet libre est assuré <a href="https://www.patreon.com/user?u=619786">via patreon</a>, actuellement avec un peu plus de 3000$/mois. Mastodon est écrit en ruby et nodejs et s&rsquo;appuie sur postgres pour stocker les données ainsi que redis. nginx est utilisé en front pour gérer tout ce qui touche entre autres à https et à la sécurité.</p>
+<p style="text-align: justify;">Pour permettre aux agents de l&rsquo;État d&rsquo;expérimenter ce nouvel outil qui semble prometteur, Etalab a mis en place sa propre instance<strong> <a href="https://mastodon.etalab.gouv.fr/" class="broken_link">https://mastodon.etalab.gouv.fr/</a></strong><br />
+Pour cette première phase un peu expérimentale, tout agent avec une adresse en « .gouv.fr » (ainsi que les domaines que nous avons identifiés comme relevant du service public tels que insee.fr, senat.fr&#8230;) peut s&rsquo;ouvrir un compte. Ceci permet de garantir un minimum d&rsquo;authenticité dans les identités car aucun mécanisme de certification n&rsquo;existe actuellement sur mastodon.</p>
+<p>Les CGU sont identiques à <a href="https://forum.etalab.gouv.fr/tos">celles du forum Etalab</a>.</p>
+<p>Annoncé aujourd&rsquo;hui dans la matinée, il y a déjà plus de 170 comptes ouverts et ce n&rsquo;est sûrement qu&rsquo;un début.</p>
+<p><strong>Une discussion a été ouverte sur ce sujet sur le <a href="https://forum.etalab.gouv.fr/t/mastodon-le-reseau-social-libre-et-decentralise-en-plein-decollage/3538">Forum d&rsquo;Etalab.</a></strong>[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

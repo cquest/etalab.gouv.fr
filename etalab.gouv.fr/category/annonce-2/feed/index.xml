@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Annonces &#8211; Etalab</title>
+	<atom:link href="/category/annonce-2/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Mon, 06 Sep 2021 09:04:03 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Annonces &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Open data, codes sources, algorithmes : Etalab publie une série de guides pratiques pour vous accompagner</title>
+		<link>/open-data-codes-sources-algorithmes-etalab-publie-une-serie-de-guides-pratiques-pour-vous-accompagner</link>
+		
+		<dc:creator><![CDATA[Antoine Augusti]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2020 16:13:45 +0000</pubDate>
+				<category><![CDATA[Annonces]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=12456</guid>
+
+					<description><![CDATA[Etalab annonce aujourd&#8217;hui le lancement de guides.etalab.gouv.fr, une série de ressources pratiques, pédagogiques et contributives afin de vous accompagner dans la réalisation de projets relatifs aux données, algorithmes et codes sources. Édités par Etalab, ces guides couvrent des thématiques juridiques, techniques ou encore organisationnelles. Ils s&#8217;adressent à différents types de lecteurs &#8211; responsables d&#8217;initiatives ou &#8230;<p class="read-more"> <a class="" href="/open-data-codes-sources-algorithmes-etalab-publie-une-serie-de-guides-pratiques-pour-vous-accompagner"> <span class="screen-reader-text">Open data, codes sources, algorithmes : Etalab publie une série de guides pratiques pour vous accompagner</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Etalab annonce aujourd&rsquo;hui le lancement de <a href="https://guides.etalab.gouv.fr/">guides.etalab.gouv.fr</a>, une série de ressources pratiques, pédagogiques et contributives afin de vous accompagner dans la réalisation de projets relatifs aux données, algorithmes et codes sources.</strong></p>
+
+
+
+<p>Édités par Etalab, ces guides couvrent des thématiques juridiques, techniques ou encore organisationnelles. Ils s&rsquo;adressent à différents types de lecteurs  &#8211; responsables d&rsquo;initiatives ou de projets mobilisant des données, <em>chief data officer</em>s, juristes&#8230; ou encore agents publics ou simples curieux souhaitant découvrir ou approfondir leur connaissance des obligations légales et des modalités de mise en œuvre de l&rsquo;ouverture des données, des codes sources ou les dispositions concernant les algorithmes publics.</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Plusieurs guides disponibles</h2>
+
+
+
+<p>Pour le lancement, nous mettons en version beta cinq guides à disposition. À ce jour, trois sont dédiés à <strong>l&rsquo;ouverture et la circulation des données </strong>:</p>
+
+
+
+<ul><li>Comment préparer des données à l&rsquo;ouverture / la circulation ?</li><li>Quels jeux de données doivent être publiés en open data ?</li><li>Comment publier des jeux de données sur <a href="https://www.data.gouv.fr/">data.gouv.fr</a> ?</li></ul>
+
+
+
+<p>Un guide dédié aux <strong>algorithmes publics</strong> et un autre consacré aux <strong>codes sources de logiciels du secteur public.</strong></p>
+
+
+
+<h2 class="wp-block-heading">Un contenu évolutif</h2>
+
+
+
+<p>Des améliorations seront apportées au fil de l&rsquo;eau dans le courant de  l&rsquo;année 2020 et ces publications sont ouvertes à la contribution de tous.  Le contenu des guides a vocation à évoluer et à être amélioré grâce à vos retours et suggestions. N&rsquo;hésitez pas à <a href="https://github.com/etalab/guides">proposer des modifications</a> ou à <a href="https://www.etalab.gouv.fr/contact">rentrer en contact avec notre équipe</a>.  Nous espérons que ces guides vous aideront à réaliser vos missions !</p>
+
+
+
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="https://guides.etalab.gouv.fr/">Consulter les guides d&rsquo;Etalab</a></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Professionnels du numérique, quelles sont vos motivations pour rejoindre le service public ?</title>
+		<link>/professionnels-numerique-motivations-rejoindre-service-public</link>
+		
+		<dc:creator><![CDATA[Antoine Augusti]]></dc:creator>
+		<pubDate>Mon, 01 Jul 2019 07:58:02 +0000</pubDate>
+				<category><![CDATA[Annonces]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10987</guid>
+
+					<description><![CDATA[Etalab est amené à recruter des professionnels du numérique pour ses différentes missions, notamment via le programme Entrepreneurs d&#8217;Intérêt Général. Chaque année, plusieurs dizaines de talents sont recrutés pour relever des défis de transformation numérique de l’Etat. Nous avons à coeur de proposer des défis motivants et un environnement de travail adapté. Pour cela, nous &#8230;<p class="read-more"> <a class="" href="/professionnels-numerique-motivations-rejoindre-service-public"> <span class="screen-reader-text">Professionnels du numérique, quelles sont vos motivations pour rejoindre le service public ?</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Etalab est amené à recruter des professionnels du numérique pour ses différentes missions, notamment via le programme <a href="https://entrepreneur-interet-general.etalab.gouv.fr/">Entrepreneurs d&rsquo;Intérêt Général</a>. Chaque année, plusieurs dizaines de talents sont recrutés pour relever des défis de transformation numérique de l’Etat.</p>
+
+
+
+<p>Nous avons à coeur de proposer des défis motivants et un environnement de travail adapté. Pour cela, nous souhaiterions mieux connaître les motivations de futurs datascientists, designers, développeuses et développeurs à rejoindre le service public.</p>
+
+
+
+<p>Voici les questions que nous nous posons : quelles sont les thématiques qui vous intéressent ? Quelles sont vos attentes sur l’environnement de travail ? Où souhaitez-vous travailler ? Quelles sont vos prétentions salariales ?</p>
+
+
+
+<p>Nous avons réalisé un court sondage pour recueillir ces informations. Il ne demande aucune information personnelle. <strong>Il est ouvert du 1er juillet au 22 juillet 2019.</strong> Une semaine après la clôture du sondage, nous partagerons les résultats principaux dans un article et nous mettrons à disposition les données brutes des résultats.</p>
+
+
+
+<p>Afin d&rsquo;être le plus représentatif de la communauté, nous vous invitons à le relayer à vos connaissances.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p><strong>Ce sondage est désormais terminé. Les résultats sont <a href="https://www.etalab.gouv.fr/resultats-du-sondage-professionnels-du-numerique-vos-metiers-pour-rejoindre-le-service-public">disponibles dans un article récapitulatif</a>.</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Intelligence artificielle : administrations, proposez vos projets d’expérimentation</title>
+		<link>/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentation%e2%80%89</link>
+		
+		<dc:creator><![CDATA[Paul-Antoine Chevalier]]></dc:creator>
+		<pubDate>Tue, 02 Apr 2019 14:35:21 +0000</pubDate>
+				<category><![CDATA[Annonces]]></category>
+		<category><![CDATA[intelligence artificielle]]></category>
+		<category><![CDATA[AMI IA]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10333</guid>
+
+					<description><![CDATA[La DINSIC et la DITP lancent un second appel à manifestation d’intérêt pour expérimenter l&#8217;intelligence artificielle dans les administrations. Les administrations lauréates seront accompagnées par la DINSIC et la DITP pour développer un prototype fonctionnel et accompagner la transformation métier associée. Les administrations ont jusqu’au 31 mai 2019 pour déposer leur candidature.Administrations : téléchargez le &#8230;<p class="read-more"> <a class="" href="/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentation%e2%80%89"> <span class="screen-reader-text">Intelligence artificielle : administrations, proposez vos projets d’expérimentation</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p><em>La DINSIC et la DITP lancent un second appel à manifestation d’intérêt pour expérimenter l&rsquo;intelligence artificielle dans les administrations. Les administrations lauréates seront accompagnées par la DINSIC et la DITP pour développer un prototype fonctionnel et accompagner la transformation métier associée. Les administrations ont jusqu’au 31 mai 2019 pour déposer leur candidature.</em><a href="https://nextcloud.data.gouv.fr/s/BQJTqXaJQjPaaRa" class="broken_link">Administrations : téléchargez le cahier des charges</a> et <a href="https://www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle">candidatez en ligne</a>.</p></blockquote>
+
+
+
+<h3 class="wp-block-heading" id="Expérimenter-l’IA-pour-des-usages-concrets-d’amélioration-de-l’action-publique">Expérimenter l’IA pour des usages concrets d’amélioration de l’action publique</h3>
+
+
+
+<p>Mieux cibler les contrôles, faciliter le travail d&rsquo;inspection grâce à des algorithmes, extraire des informations structurées de textes en langage naturel pour détecter des tendances ou aider à la décision, détecter automatiquement des éléments identifiants dans un texte ou encore détecter automatiquement des éléments d&rsquo;intérêts dans des corpus d&rsquo;images : les usages de l&rsquo;intelligence artificielle dans l&rsquo;administration sont potentiellement nombreux. Suite au succès rencontré par le <a href="https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia">1er appel à manifestation d&rsquo;intérêt en 2018</a>, la DINSIC et la DITP lancent un second appel à manifestation d’intérêt auprès des administrations.</p>
+
+
+
+<p>Les lauréats bénéficieront d’un accompagnement technique piloté par la DINSIC pour développer un prototype fonctionnel et un accompagnement stratégique pour appréhender la transformation du métier associée aux technologies d’intelligence artificielle (diagnostic des impacts pour les agents dans leurs missions, puis accompagnement au changement) piloté par la DITP. Pour ce deuxième appel à manifestation d’intérêt, les projets techniquement plus exploratoires pourront bénéficier d’un accompagnement scientifique, via un partenariat avec un institut de recherche ou une entreprise innovante.</p>
+
+
+
+<h3 class="wp-block-heading" id="Sélection-des-projets--un-jury-et-des-critères-de-circulation-des-données-et-d’impact-peut-être-à-reformuler-mais-je-pense-qu’il-faut-éditorialiser">Sélection des projets : un jury et des critères d&rsquo;évaluation à la fois techniques et métier</h3>
+
+
+
+<p>Comme l’an passé, la DINSIC et la DITP mobiliseront un jury de personnalités pour auditionner et sélectionner les projets lauréats. Auparavant les équipes de la DINSIC et de la DITP procéderont à une présélection des projets. Le jury de personnalités qualifiées se réunira au début du mois de juillet et les lauréats seront annoncés à la mi- juillet.</p>
+
+
+
+<p><strong>Les projets seront évalués selon les sept critères suivants :</strong></p>
+
+
+
+<ul><li>Impact et bénéfices potentiels pour l’administration lauréate et ses usagers, liés à l’utilisation de l’IA sur le périmètre métier proposé ;</li><li>Pertinence de l’IA comme solution au problème identifié ;</li><li>Pertinence du défi technique ;</li><li>Composition de l’équipe d’agents publics impliqués dans le projet ;</li><li>Existence et accessibilité des données nécessaires ;</li><li>Intérêt de l’expérimentation pour tirer des enseignements qui dépassent le simple projet du candidat ;</li><li>Valeur ajoutée de l’accompagnement DINSIC DITP pour la réalisation du projet.</li></ul>
+
+
+
+<p><strong>La DINSIC et la DITP organisent une réunion d’information à destination des administrations le 16 avril 2019 à 14h00 au 20, avenue de Ségur.</strong></p>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://www.eventbrite.fr/e/billets-reunion-dinformation-ami-ia-experimenter-lia-dans-ladministration-59687455787" target="_blank" rel="noreferrer noopener">&gt;&gt; S&rsquo;inscrire à la réunion d’information du 16 avril &lt;&lt;</a></p></blockquote>
+
+
+
+<p>Pour toute question complémentaire, contactez l’équipe de l’AMI IA à l’adresse :</p>
+
+
+
+<p><a href="mailto:equipe-ami-ia@data.gouv.fr">equipe-ami-ia@data.gouv.fr</a></p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Un Lab IA positionné à la DINSIC</strong></p><p>Ce second appel à manifestation d&rsquo;intérêt constitue le première action du Lab IA annoncé lors du deuxième comité interministériel de la transformation publique (CITP) le 29 octobre 2018 pour accompagner les administrations dans le déploiement de leur projet d&rsquo;IA. Positionné au sein de la DINSIC, le Lab IA bénéficie d&rsquo;un financement du fonds transition numérique de l’Etat &#8211; modernisation de l’action publique (TNE-MAP) du programme d’investissement d’avenir (PIA) coordonné par le Secrétariat général pour l’investissement (SGPI) avec le concours financier de la Caisse des dépôts et consignations (CDC). Il sera présenté plus en détails dans les prochaines semaines.</p></blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Comment Etalab aide les administrations à ouvrir leurs données</title>
+		<link>/comment-etalab-aide-les-administrations-a-ouvrir-leurs-donnees</link>
+		
+		<dc:creator><![CDATA[Brice Boulesteix]]></dc:creator>
+		<pubDate>Wed, 03 Oct 2018 15:47:01 +0000</pubDate>
+				<category><![CDATA[Annonces]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[loi pour une République numérique]]></category>
+		<category><![CDATA[open data]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8705</guid>
+
+					<description><![CDATA[La loi pour une République numérique a créé un principe de mise en ligne spontanée de certains documents administratifs. Ce principe va être étendu à partir du 7 octobre 2018. À compter de cette date, la plupart des administrations devront publier certaines bases de données et certains documents — en plus de ce qu’elles étaient &#8230;<p class="read-more"> <a class="" href="/comment-etalab-aide-les-administrations-a-ouvrir-leurs-donnees"> <span class="screen-reader-text">Comment Etalab aide les administrations à ouvrir leurs données</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-8709" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/10/2018-10-01-cover-article-7-octobre_shrink-1.png" alt="Image de couverture de l’article consacré à l’entrée en application du principe d’ouverture spontanée des données" width="1200" height="800" srcset="/wp-content/uploads/2018/10/2018-10-01-cover-article-7-octobre_shrink-1.png 1200w, /wp-content/uploads/2018/10/2018-10-01-cover-article-7-octobre_shrink-1-300x200.png 300w, /wp-content/uploads/2018/10/2018-10-01-cover-article-7-octobre_shrink-1-768x512.png 768w, /wp-content/uploads/2018/10/2018-10-01-cover-article-7-octobre_shrink-1-1024x683.png 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>La loi pour une République numérique a créé un principe de mise en ligne <em>spontanée</em> de certains documents administratifs. Ce principe va être étendu à partir du 7 octobre 2018. À compter de cette date, la plupart des administrations devront publier certaines bases de données et certains documents — en plus de ce qu’elles étaient déjà tenues de mettre en ligne dans les répertoires d’informations publiques. Les documents rendus publics devront l’être gratuitement et dans un format à la fois ouvert et exploitable par une machine. Cette loi a pour objectif de faire de la circulation des données la règle, et non plus l’exception.</p>
+<p>La loi pour une république numérique — aussi appelée loi Lemaire — est en vigueur depuis le 7 octobre 2016, mais elle ne s’appliquera aux bases de données et documents d’intérêt économique, social, sanitaire ou environnemental, qu’à partir du 7 octobre 2018 (dimanche). Pour les aider à préparer au mieux cette échéance, nous avons reçu les ministères à la rentrée. Avec eux, nous avons identifié les bases de données et les jeux de données qui étaient susceptibles d’être mis en ligne à partir du 7 octobre.</p>
+<h2>Les dates importantes</h2>
+<p>L’ouverture des données publiques ne s’est pas faite en un jour. Elle a commencé en 1978, avec <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000339241">la loi CADA</a>, loi qui donnait à chaque citoyen le droit de solliciter une administration pour lui demander un document en sa possession. En 2016, la loi pour une République numérique est venue inverser les rôles définis par la loi CADA, puisqu’elle oblige désormais les administrations à ouvrir <em>spontanément</em> leurs données, sans attendre qu’un citoyen en fasse la demande.</p>
+<p>La loi pour une République numérique prévoyait 3 grandes échéances pour arriver progressivement à l’ouverture spontanée des données publiques.</p>
+<table>
+<colgroup>
+<col />
+<col /> </colgroup>
+<thead>
+<tr>
+<th>Date</th>
+<th>Documents à rendre publics à partir de cette date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07/04/2017</td>
+<td>Les documents communiqués à la suite d’une demande d’accès (CADA) et leurs mise à jour</td>
+</tr>
+<tr>
+<td>07/10/2017</td>
+<td>Les documents présents dans les répertoires d’informations publiques</td>
+</tr>
+<tr>
+<td>07/10/2018</td>
+<td>Les bases de données et tout document d’intérêt social, économique ou environnemental (et leurs mises à jour)</td>
+</tr>
+</tbody>
+</table>
+<p>Ces trois échéances s’appliquent à toutes les administrations de plus de 50 agents (ou salariés), sauf s’il s’agit de communes (ou municipalités) de moins de 3 500 habitants. L’obligation de publication concerne aussi les organismes privés qui assurent une mission de service public, comme la SNCF dans le domaine du transport.</p>
+<h2>Ce que les administrations doivent faire</h2>
+<p>Les documents produits ou reçus par les administrations dans le cadre de leur mission de service publics sont considérés comme des documents administratifs, et ce, quelle que soit leur forme. Concrètement, il peut s’agir de bases de données, de rapports, de circulaires, ou encore de codes sources. La loi dispose que ces documents administratifs doivent être mis en ligne :</p>
+<ul>
+<li>gratuitement, sans aucune barrière à l’entrée ;</li>
+<li>dans leur forme définitive, une fois achevés ;</li>
+<li>dans un format ouvert et manipulable par une machine ;</li>
+<li>après avoir été dépouillés des « secrets » et des données personnelles qu’ils contiennent (sauf rares exceptions).</li>
+</ul>
+<h3>Prévoir une licence est conseillé mais pas obligatoire</h3>
+<p>Pour définir ce que le public peut faire des données publiées, l’administration à l’origine des données peut prévoir une licence — chose souhaitable. Cette licence peut être ouverte, comme <a href="https://www.etalab.gouv.fr/licence-ouverte-open-licence">celle proposée par Etalab</a> ; mais elle peut aussi inclure une clause de réciprocité, si les données publiées répondent à un objectif d’intérêt général (cas de la licence OdBL).</p>
+<h3>Seuls les documents numériques sont concernés</h3>
+<p>Le principe d’ouverture spontanée s’applique à tous les documents administratifs qui existent sous une forme numérique, c’est-à-dire ceux qui n’ont pas besoin d’être passés au scanner ou sortis des archives pour être mis en ligne. La publication des documents peut se faire sur <a href="http://data.gouv.fr/">data.gouv.fr</a> ou sur le site de l’administration concernée.</p>
+<h2>Ce qu’Etalab peut faire pour aider les administrations</h2>
+<p>L’équipe d’Etalab est composée de juristes, développeurs et de spécialistes de la donnée (<em>data scientists</em>) qui peuvent aider une administration à :</p>
+<ul>
+<li>préparer un jeu de données en vue de le mettre en ligne ;</li>
+<li>répondre aux questions juridiques posées par l’ouverture des données ;</li>
+<li>consolider des bases de données pour en faciliter la lisibilité ;</li>
+<li>apporter un éclairage sur un algorithme ou un code source, <a href="https://www.etalab.gouv.fr/openapb-remise-et-publication-du-rapport-detalab-sur-les-conditions-douverture-dadmission-post-bac">comme nous l’avons fait avec Admission Post-Bac</a> (APB).</li>
+</ul>
+<h2>Ce que le public peut faire des données obtenues</h2>
+<p>La loi pour une République numérique oblige les administrations à ouvrir leurs données, sans préjuger de leur utilisation potentielle. Ce qu’il est possible de faire avec les données publiées dépend de la licence qui en régit l’utilisation, mais dans le cas d’une licence ouverte, les données peuvent alors être :</p>
+<ul>
+<li><strong>réutilisées</strong> : par exemple copier les données, les mettre en forme dans un tableau, ou sur un fond de carte ;</li>
+<li><strong>redistribuées</strong> : par exemple publier les données sur un blog, dans un livre, ou encore sur Twitter ;</li>
+<li><strong>adaptées</strong> : par exemple changer le titre d’une colonne dans un fichier CSV pour en faciliter la compréhension ;</li>
+<li><strong>exploitées commercialement</strong> : par exemple faire une carte à partir de données ouvertes, l’imprimer, et la vendre.</li>
+</ul>
+<p>Sous réserve de :</p>
+<ul>
+<li>mentionner la source des données réutilisées ;</li>
+<li>inclure la date de dernière mise à jour des données.</li>
+</ul>
+<h2>Comprendre l’ouverture des données</h2>
+<p>En plus d’apporter de l’aide aux administrations dans le cadre de la publication de leurs données, Etalab propose aussi des ressources sur le sujet de l’ouverture des données publiques (<em>open data</em>).</p>
+<p>Cela inclut les deux rapports au Premier ministre de l’<a href="https://agd.data.gouv.fr/">administrateur général des données</a> :</p>
+<ul>
+<li>2016-2017 : <a href="https://agd.data.gouv.fr/2018/04/10/rapport-2016-1017-de-ladministrateur-general-des-donnees-la-donnee-comme-infrastructure-essentielle/">La donnée comme infrastructure essentielle</a> ;</li>
+<li>2015 : <a href="https://agd.data.gouv.fr/2016/01/21/rapport-annuel-2015-mettre-les-donnees-au-service-de-la-transformation-de-laction-publique/">Mettre les données au service de la transformation de l’action publique</a>.</li>
+</ul>
+<h3>Le portail des données ouvertes data.gouv.fr</h3>
+<p>Nous développons aussi la plateforme <a href="http://data.gouv.fr/">data.gouv.fr</a>, qui est un peu le magasin général des données publiques. <a href="http://data.gouv.fr/">data.gouv.fr</a> permet à n’importe quelle administration ou collectivité locale de mettre en ligne ses données, gratuitement.</p>
+<p>La plateforme se décline aussi en sous-domaines, qui contiennent chacun des données plus spécifiques :</p>
+<ul>
+<li><a href="http://transport.data.gouv.fr/">transport.data.gouv.fr</a>, pour les données de transport ;</li>
+<li><a href="https://geo.data.gouv.fr/fr/">geo.data.gouv.fr</a>, pour les données géographiques ;</li>
+<li><a href="https://entreprise.data.gouv.fr/" class="broken_link">entreprise.data.gouv.fr</a>, pour les entreprises et les associations.</li>
+</ul>
+<h2>La suite</h2>
+<p>La date du 7 octobre n’est pas une date butoir à redouter mais une étape supplémentaire dans la longue marche vers l’ouverture des données publiques. Nous poursuivons notre travail avec les administrations et les collectivités locales dans le but de rendre l’action publique plus ouverte. Il nous reste encore bien du chemin à parcourir, c’est indéniable, et c’est aussi la raison pour laquelle nous recrutons. Si vous voulez être du voyage, jetez donc un œil à <a href="https://www.fonction-publique.gouv.fr/biep?idOffre=138877&amp;idOrigine=&amp;LCID=1036&amp;offerReference=2018-138877" class="broken_link">nos offres d’emploi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>#OpenGov – Forum Open d’Etat #4 « data.gouv.fr et les algorithmes à l&#8217;épreuve de la médiation numérique. »</title>
+		<link>/opengov-forum-open-detat-4-cuisinez-les-algorithmes-un-outil-de-mediation-numerique</link>
+		
+		<dc:creator><![CDATA[Amélie Banzet]]></dc:creator>
+		<pubDate>Thu, 09 Aug 2018 17:07:25 +0000</pubDate>
+				<category><![CDATA[Annonces]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Ecosystème]]></category>
+		<category><![CDATA[Événements]]></category>
+		<category><![CDATA[Innovation ouverte / open innovation]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[Plan d'action national gouvernement ouvert]]></category>
+		<category><![CDATA[Forum Open d'Etat]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8604</guid>
+
+					<description><![CDATA[[:fr] Rendez-vous à Nantes le 13 septembre de 14h à 17h lors des rencontres Numérique en Commun[s]. En 2016, la loi pour une République Numérique introduit dans le code des relations entre le public et l’administration l’obligation pour les administrations d’informer chaque citoyen, lorsqu’une décision individuelle le concernant a été prise à son encontre à &#8230;<p class="read-more"> <a class="" href="/opengov-forum-open-detat-4-cuisinez-les-algorithmes-un-outil-de-mediation-numerique"> <span class="screen-reader-text">#OpenGov – Forum Open d’Etat #4 « data.gouv.fr et les algorithmes à l&#8217;épreuve de la médiation numérique. »</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<h2></h2>
+<h2></h2>
+<h2>Rendez-vous à Nantes le 13 septembre de 14h à 17h lors des rencontres Numérique en Commun[s].</h2>
+<p style="text-align: justify;">En 2016, la loi pour une République Numérique introduit dans le code des relations entre le public et l’administration l’obligation pour les administrations d’informer chaque citoyen, lorsqu’une décision individuelle le concernant a été prise à son encontre à l’aide d’un algorithme. Le citoyen obtient le droit d’obtenir la communication – sur demande – des « règles » et « principales caractéristiques de mise en œuvre » de ce programme informatique, au regard de sa situation individuelle.</p>
+<p style="text-align: justify;">L’actualité autour de Parcoursup a fait s’intensifier le débat sur la responsabilité et la loyauté des algorithmes, en raison de leur présence accrue dans la sphère privée (pour les algorithmes des GAFA) et publique. Les défis démocratiques posés par l’utilisation des algorithmes pour la conduite de l’action publique restent entiers et c’est ce qui fait l’objet de <a href="https://www.etalab.gouv.fr/plan-daction-national" target="_blank" rel="noopener noreferrer">l’engagement 6 du plan d’action national pour une action publique transparente et collaborative</a>, qui vise à « renforcer la transparence des algorithmes et des codes sources publics » en associant la société civile à l’étude des algorithmes publics pour identifier les enjeux en termes techniques, juridiques et organisationnels.</p>
+<p>Les infrastructures d’accès aux données joueront un rôle crucial dans cette montée à l’échelle de l’open data. L’engagement 4 du plan d’action prévoit de “poursuivre le développement de data.gouv.fr et y intégrer de nouvelles fonctionnalités” afin d’accroître l’utilité et l’impact des données ouvertes pour l’économie et la société. <span id="messageContent">La loi pour une République Numérique fixe aussi un objectif d’open data par défaut. A partir d’octobre 2017, la loi impose un principe d’ouverture des données par défaut à toutes les administrations, tous les acteurs investis d’une mission de service public et les collectivités locales de plus de 3500 habitants et 50 agents. Le périmètre concerné est très large, il comprend les “bases de données” et les données “dont la publication présente un intérêt économique, social, sanitaire ou environnemental” à partir d’octobre 2018. Rares sont les données publiques qui ne sont donc pas concernées par cette obligation d’ouverture.</span></p>
+<p style="text-align: justify;">Ce<strong> quatrième forum Open d’Etat</strong> s’intéressera aux engagements pris par la mission Etalab elle-même. En particulier, seront abordés l’engagement 6 cité ci-dessus mais également l’engagement 4 qui prévoit de « poursuivre le développement de data.gouv.fr et d’y intégrer de nouvelles fonctionnalités ».</p>
+<p style="text-align: justify;">Pour cette quatrième édition, les forums Open d’État se déplacent à Nantes, lors des rencontres <u><a href="https://www.numerique-en-commun.fr/" class="broken_link">Numérique en Commun[s]</a></u> organisées par <u><a href="https://societenumerique.gouv.fr/">la mission Société Numérique</a></u> de l’agence du Numérique et <a href="https://lamednum.coop/" target="_blank" rel="noopener noreferrer">la coopérative de la médiation numérique.</a></p>
+<p>L’inclusion de ce forum Open d’Etat au programme de Numérique en Commun[s] permettra de s’appuyer sur la contribution des professionnels de la médiation numérique pour répondre à ces enjeux.</p>
+<p>Les forums Open d’Etat durent 3h et reposent sur la participation active des participants.</p>
+<p>Plusieurs interventions inaugurent chaque forum, le détail de celles-ci sera annoncé prochainement. Elles introduisent progressivement les sujets des ateliers et renforcent la compréhension du sujet par le public, qui aura reçu préalablement un kit d’appropriation des enjeux.</p>
+<p><strong>À la suite, deux ateliers d’1h30 seront organisés :</strong></p>
+<ul>
+<li style="text-align: justify;"><strong>Atelier 1 – “Un algorithme c’est comme une recette de cuisine !”:</strong> à travers l’exemple du calcul de la taxe d’habitation nous testerons de nouvelles approches de médiation aux algorithmes. Comment faire que le public le plus large comprenne les enjeux techniques, juridiques et politiques d’un algorithme ? Comment décortiquer l’algorithme et lui donner du sens ? Cet atelier de “cuisine algorithmique” sera animé par Simon Chignard et Loup Cellard.</li>
+<li style="text-align: justify;"><strong>Atelier 2 – Faire de data.gouv.fr un outil pour la médiation numérique :</strong> comment faire pour que la plateforme data.gouv.fr s’adresse à un public plus large et appuie plus fortement la médiation numérique dans ses actions ? Comment mieux éditorialiser le portail pour rendre l’ouverture des données plus lisible par le plus grand nombre ? Quelles fonctionnalités manque-t-il pour élargir le public de l’ouverture des données ?</li>
+</ul>
+<p style="text-align: justify;">Cet atelier reprendra <u><a href="https://forum.etalab.gouv.fr/t/forum-open-detat-3-ouvrons-la-science-ateliers-outils-et-kit-dappropriation/4122">une méthode développée</a></u> lors d’un précédent forum pour faire émerger collaborativement des pistes d’amélioration.</p>
+<p style="text-align: justify;">Nous vous invitons donc à nous rejoindre le jeudi 13 septembre à Nantes pour cette nouvelle édition des Forums Open d’État, que vous participiez aux rencontres Numérique en Commun[s] ou non, le forum est ouvert à tout le monde.</p>
+<p>Pour vous inscrire =&gt; <a href="https://www.eventbrite.fr/e/billets-forum-open-detat-4-transparence-des-algorithmes-et-mediation-autour-des-donnees-48156645824?aff=ebapi">https://www.eventbrite.fr/e/billets-forum-open-detat-4-transparence-des-algorithmes-et-mediation-autour-des-donnees-48156645824?aff=ebapi</a></p>
+<p>Il n’y a que 40 places de disponibles ! Inscrivez-vous avant le 3 septembre et vous recevrez un mail de confirmation et un code pour prendre une place aux rencontres Numériques en commun[s] au plus tard le 6 septembre[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Intelligence artificielle : administrations, proposez vos projets d’expérimentations</title>
+		<link>/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentations</link>
+		
+		<dc:creator><![CDATA[Paul-Antoine Chevalier]]></dc:creator>
+		<pubDate>Thu, 14 Jun 2018 12:54:27 +0000</pubDate>
+				<category><![CDATA[Annonces]]></category>
+		<category><![CDATA[AMI IA]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[Intelligence Artificielle]]></category>
+		<category><![CDATA[Lab IA]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8380</guid>
+
+					<description><![CDATA[La DINSIC et la DITP lancent un appel à manifestation d&#8217;intérêt ouvert jusqu’au 14 septembre sur l&#8217;intelligence artificielle. Les administrations lauréates seront accompagnées par la DITP et la DINSIC sur une durée de 10 mois à partir de novembre 2018 pour développer un prototype fonctionnel et accompagner la transformation métier associée. Candidatez en ligne et &#8230;<p class="read-more"> <a class="" href="/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentations"> <span class="screen-reader-text">Intelligence artificielle : administrations, proposez vos projets d’expérimentations</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p class="western" align="justify"><em>La DINSIC et la DITP lancent un appel à manifestation d&rsquo;intérêt ouvert jusqu’au 14 septembre sur l&rsquo;intelligence artificielle. Les administrations lauréates seront accompagnées par la DITP et la DINSIC sur une durée de 10 mois à partir de novembre 2018 pour développer un prototype fonctionnel et accompagner la transformation métier associée.</em></p>
+<blockquote>
+<p align="justify"><strong><a href="https://www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle">Candidatez en ligne</a> et <a href="http://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/cahier_des_charges_pia_ami_intelligence_artificielle.pdf" class="broken_link">téléchargez le cahier des charges</a></strong></p>
+<p align="justify">
+</blockquote>
+<p align="justify">L’intelligence artificielle, ses potentialités et ses risques interrogent la société dans son ensemble. Comme l’a souligné le Président de la République à l’occasion de la remise du rapport de la mission Villani, <a href="https://www.aiforhumanity.fr/pdfs/9782111457089_Rapport_Villani_accessible.pdf" class="broken_link"><i>Donner un sens à l’intelligence artificielle</i></a>, l’Etat doit pleinement se saisir de cette question. Il doit être en mesure d’intégrer l’intelligence artificielle pour la conduite des politiques publiques et de ses missions. « <em>L’Etat doit se positionner, pour ses propres besoins, comme premier utilisateur et acheteur de technologies d’IA</em> » affirme le député et mathématicien Cédric Villani.<a href="https://www.etalab.gouv.fr/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentations/villani" rel="attachment wp-att-8395"><img decoding="async" class="alignright size-medium wp-image-8395" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/06/Villani-200x300.png" alt="Couverture du rapport Villani" width="200" height="300" srcset="/wp-content/uploads/2018/06/Villani-200x300.png 200w, /wp-content/uploads/2018/06/Villani.png 603w" sizes="(max-width: 200px) 100vw, 200px" /></a></p>
+<p align="justify">Classification automatique d’images, reconnaissance d&rsquo;entités nommées dans des textes, extraction automatique d&rsquo;informations à partir de données non structurées, les technologies d&rsquo;IA peuvent avoir un impact important sur l&rsquo;action publique.</p>
+<blockquote>
+<p class="western" align="justify"><strong>L’intelligence artificielle déjà utilisée dans l’administration</strong></p>
+<p align="justify">A titre d’exemple, la Caisse nationale d&rsquo;assurance maladie (CNAM), en collaboration avec le centre de mathématiques appliquées de l&rsquo;école polytechnique, utilise des algorithmes pour détecter automatiquement les effets secondaires des traitements pharmacologiques en analysant les données du SNIIRAM (dépenses d&rsquo;assurance maladie).&nbsp;Pôle Emploi, en partenariat avec Etalab et l&rsquo;incubateur de startups d&rsquo;État, a développé <span style="color: #0563c1;"><u><a href="https://labonneboite.pole-emploi.fr/">La Bonne Boîte</a></u></span>, un service en ligne qui permet de réaliser des candidatures spontanées ciblées sur les entreprises qui ont une forte probabilité d&#8217;embauche.</p>
+</blockquote>
+<p align="justify">Pour initier ce mouvement, la DINSIC et la direction interministérielle de la transformation publique (DITP) lancent un <strong>appel à manifestation d&rsquo;intérêt pour expérimenter l&rsquo;usage des technologies d&rsquo;intelligence artificielle</strong> dans les administrations. Les lauréats bénéficieront d’un accompagnement d&rsquo;une durée de 10 mois sur les aspects techniques et organisationnels.<a href="https://www.etalab.gouv.fr/intelligence-artificielle-administrations-proposez-vos-projets-dexperimentations/img_1136" rel="attachment wp-att-8402"><img decoding="async" class="size-medium wp-image-8402 alignright" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/06/IMG_1136-300x200.jpg" alt="Réunion de lancement de l'AMI IA" width="300" height="200" srcset="/wp-content/uploads/2018/06/IMG_1136-300x200.jpg 300w, /wp-content/uploads/2018/06/IMG_1136-768x511.jpg 768w, /wp-content/uploads/2018/06/IMG_1136-1024x682.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<blockquote>
+<p align="justify">«<em> Avec cette expérimentation, nous montrons que l’État aussi est prêt à se saisir du potentiel de l’intelligence artificielle pour transformer l’administration en profondeur et libérer la créativité de ses agents, afin d’offrir aux citoyens un service public plus performant et proche de leurs besoins</em>. » a déclaré Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du numérique.</p>
+</blockquote>
+<p align="justify">L’enjeu est à la fois d’expérimenter concrètement une technologie d&rsquo;IA pour répondre à un besoin métier précis, et plus largement d‘engager une réflexion sur l&rsquo;impact potentiel de ces technologies sur la transformation du métier.</p>
+<p align="justify">Afin de s’assurer de la maîtrise des risques spécifiques à l’intelligence artificielle (biais des données d’apprentissage, exigence d’explicabilité des décisions individuelles…) une attention particulière sera apportée à la <strong>prise en compte de la dimension éthique dans les projets candidats.</strong></p>
+<p align="justify">Une réunion d&rsquo;information à destination des administrations aura lieu le 27 juin 2018 à 10h au 20, avenue de Ségur.</p>
+<blockquote>
+<p align="justify"><em><a href="https://www.eventbrite.fr/e/billets-reunion-dinformation-appel-a-manifestation-dinteret-intelligence-artificielle-47060279563"><strong>Inscrivez vous à la réunion d&rsquo;information</strong></a></em></p>
+</blockquote>
+<blockquote>
+<p align="justify"><em><strong>Pour toute question complémentaire, contactez nous à l&rsquo;adresse :<u> </u><span style="color: #0563c1;"><u><a href="mailto:ami-intelligence-artificielle@data.gouv.fr">ami-intelligence-artificielle@data.gouv.fr</a></u></span></strong></em></p>
+<p align="justify"><em><strong>&nbsp;</strong></em></p>
+</blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Publication de la politique de contribution de l&#8217;Etat aux logiciels libres</title>
+		<link>/publication-de-la-politique-de-contribution-de-letat-aux-logiciels-libres</link>
+		
+		<dc:creator><![CDATA[Mathilde Bras]]></dc:creator>
+		<pubDate>Tue, 15 May 2018 10:19:43 +0000</pubDate>
+				<category><![CDATA[Annonces]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Innovation ouverte / open innovation]]></category>
+		<category><![CDATA[codes ouverts]]></category>
+		<category><![CDATA[logiciel libre]]></category>
+		<category><![CDATA[loi pour une République numérique]]></category>
+		<category><![CDATA[open source]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8349</guid>
+
+					<description><![CDATA[Comment ouvrir ses codes sources ? Quelle licence choisir ? Comment un agent public peut-il contribuer à un logiciel libre existant ? Pour accompagner les administrations dans la production et l&#8217;ouverture de leurs codes sources, la direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC) publie sa politique de contribution aux logiciels libres. &#8230;<p class="read-more"> <a class="" href="/publication-de-la-politique-de-contribution-de-letat-aux-logiciels-libres"> <span class="screen-reader-text">Publication de la politique de contribution de l&#8217;Etat aux logiciels libres</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<h4><strong>Comment ouvrir ses codes sources ? Quelle licence choisir ? Comment un agent public peut-il contribuer à un logiciel libre existant ?</strong></h4>
+<blockquote><p>Pour accompagner les administrations dans la production et l&rsquo;ouverture de leurs codes sources, la direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC) publie sa politique de contribution aux logiciels libres.</p>
+<p style="text-align: center;"><a href="https://disic.github.io/politique-de-contribution-open-source/" target="_blank" rel="noopener noreferrer">&gt;&gt; Consulter la politique de contribution de l&rsquo;Etat aux logiciels libres &lt;&lt;</a></p>
+</blockquote>
+<p>Cette politique de contribution couvre les codes sources de tout nouveau logiciel développé en interne par l’administration ou par des prestataires externes pour le compte de l’administration. Les fonctions publiques hospitalières et territoriales sont hors périmètre de cette politique de contribution mais sont invitées à s’en inspirer librement.</p>
+<p><strong>Les objectifs poursuivis :<br />
+</strong></p>
+<ul style="text-align: justify;">
+<li>Guider les développeurs de la fonction publique (titulaires ou contractuels) et les prestataires de l&rsquo;Etat, dans l&rsquo;ouverture des codes sources</li>
+<li>Encourager les agents publics à contribuer à des logiciels libres dans le cadre de leurs missions.</li>
+</ul>
+<p style="text-align: justify;">Cette politique est le fruit d’un travail collaboratif entre gouvernement, communautés du libre, organisations non gouvernementales, organisations internationales, entreprises et chercheurs. Son élaboration a débuté en 2016 dans le cadre du Partenariat pour un gouvernement ouvert. Elle a fait l&rsquo;objet d&rsquo;un <a href="https://www.etalab.gouv.fr/ouverture-des-codes-sources-appel-a-commentaires-sur-la-politique-de-contribution-aux-logiciels-libres-de-letat" target="_blank" rel="noopener noreferrer">appel à commentaires publics</a> avant d’être validée par l’ensemble des DSI ministériels le 15 février 2018.</p>
+<p style="text-align: justify;">La DINSIC publiera dans un second temps une méthodologie pour accompagner les administrations dans l’ouverture de codes sources existants, conformément aux dispositions de la loi pour une République numérique.</p>
+<p style="text-align: justify;">La DINSIC souhaite ainsi faciliter l’ouverture des codes sources publics et renforcer la contribution de l’État aux biens communs numériques.</p>
+<p style="text-align: justify;">Ce document est publié sur <a href="https://github.com/DISIC/politique-de-contribution-open-source/raw/master/LICENSE.pdf" target="_blank" rel="noopener noreferrer">Github sous la Licence Ouverte 2.0</a>.</p>
+<p style="text-align: justify;">Consulter <a href="https://disic.github.io/politique-de-contribution-open-source/" target="_blank" rel="noopener noreferrer">la politique de contribution aux logiciels libres de la DINSIC</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Loi pour une République numérique: adoption du texte et lancement d&#8217;une consultation sur le service public de la donnée[:]</title>
+		<link>/loi-pour-une-republique-numerique-lancement-dune-consultation-sur-le-service-public-de-la-donnee</link>
+		
+		<dc:creator><![CDATA[Simon Chignard]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2016 15:07:06 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Annonces]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=5583</guid>
+
+					<description><![CDATA[[:fr] Le Sénat a adopté ce mercredi 28 septembre les conclusions de la Commission mixte paritaire sur le projet de loi République numérique. Cette adoption, qui intervient après celle par l&#8217;Assemblée nationale le 20 juillet dernier, ouvre la voie à la promulgation prochaine de la loi. La phase qui s&#8217;ouvre maintenant est celle de la &#8230;<p class="read-more"> <a class="" href="/loi-pour-une-republique-numerique-lancement-dune-consultation-sur-le-service-public-de-la-donnee"> <span class="screen-reader-text">[:fr]Loi pour une République numérique: adoption du texte et lancement d&#8217;une consultation sur le service public de la donnée[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<p style="text-align: justify;">Le Sénat a adopté ce mercredi 28 septembre les conclusions de la Commission mixte paritaire sur le projet de loi République numérique. Cette adoption, qui intervient après celle par l&rsquo;Assemblée nationale le 20 juillet dernier, ouvre la voie à la promulgation prochaine de la loi.</p>
+<p style="text-align: justify;">La phase qui s&rsquo;ouvre maintenant est celle de la rédaction des <strong>décrets d&rsquo;application</strong>. Conformément aux engagements pris par la France dans le cadre du Partenariat pour un gouvernement ouvert, la Secrétaire d&rsquo;Etat chargée du numérique Madame Axelle Lemaire a souhaité poursuivre la démarche de co-construction qui a déjà permis à de plus de 21 000 participants de contribuer à l&rsquo;élaboration et l&rsquo;amélioration du texte initial.</p>
+<h2 style="text-align: justify;"><span style="color: #0000ff;">Lancement d&rsquo;une consultation sur la mise en oeuvre du service public de la donnée (article 14)</span></h2>
+<p style="text-align: justify;">L&rsquo;article 14 de la loi pour une République numérique instaure un <strong>service public de la donné</strong>e, en charge de la mise à disposition des données de référence. Afin de préparer la rédaction du décret d&rsquo;application de cet article, et d&rsquo;en évaluer les impacts, la mission Etalab lance aujourd&rsquo;hui une consultation publique sur la mise en oeuvre du service public de la donnée.</p>
+<p style="text-align: justify;">Cette <strong>consultation est ouverte jusqu&rsquo;au 20 octobre</strong> prochain. Elle porte notamment sur le périmètre du service public de la donnée (la liste des données de référence), les conditions de mise à disposition de ces données et les critères de qualité applicables.</p>
+<p><span style="color: #3366ff;"><em><strong>&#8212;&#8211;&gt; Pour <a style="color: #3366ff;" href="https://www.etalab.gouv.fr/consultation-spd">contribuer à cette consultation</a> (clos)</strong></em></span></p>
+<p><span style="color: #3366ff;"><em><strong>&#8212;&#8211;&gt; (mise à jour) les résultats: <span style="text-decoration: underline;">http://www.etalab.gouv.fr/consultation-spd </span></strong></em></span></p>
+<h2><span style="color: #0000ff;">Les avancées de la loi République numérique pour l&rsquo;ouverture et la circulation des données publiques</span></h2>
+<p>Plus largement, le texte apportera, dès la promulgation de la loi, des évolutions majeures dans le domaine de la donnée publique en France :</p>
+<p><strong><span style="text-decoration: underline; color: #000000;">Circulation des données</span></strong></p>
+<ul>
+<li>Les administrations auront, pour l’accomplissement de leurs missions de service public, un droit d’accès aux données des autres administrations.</li>
+</ul>
+<p><span style="color: #000000;"><strong><span style="text-decoration: underline;">Relations entre les citoyens et les administrations :</span></strong></span></p>
+<ul>
+<li style="text-align: justify;">Les codes sources des administrations seront communicables.</li>
+<li style="text-align: justify;">Les citoyens seront informés des traitements algorithmiques mis en œuvre par les administrations. Leurs principales règles seront publiées et, quand ils fondent une décision individuelle, leur application sera précisée à la personne concernée qui le demande afin qu’elle sache comment l’algorithme a été mis en œuvre pour sa situation.</li>
+<li style="text-align: justify;">Les informations publiques, qui devaient auparavant faire l’objet d’une demande de communication des citoyens, feront désormais l’objet d’une diffusion publique par les administrations soit parce qu’un citoyen l’aura demandé, parce qu’il s’agit d’une base de données ou, de façon générale, parce que leur publication présente un intérêt économique, social, sanitaire ou environnemental.</li>
+<li style="text-align: justify;">Les règles relatives aux échanges d’information entre administrations pour simplifier les démarches des usagers (« dites-le-nous une fois »), et notamment celles portant sur la suppression des pièces justificatives, seront généralisées à l’ensemble des usagers de l’administration.</li>
+</ul>
+<p><span style="color: #000000;"><strong><span style="text-decoration: underline;">Des données supplémentaires seront accessibles et réutilisables:</span></strong></span></p>
+<ul>
+<li style="text-align: justify;">Les données des services publics industriels et commerciaux suivront le régime général et seront réutilisables comme toute autre information publique.</li>
+<li style="text-align: justify;">Le droit des producteurs de bases de données publics sera adapté pour ne plus permettre l’interdiction, par les administrations, de la réutilisation de leurs bases.</li>
+<li style="text-align: justify;">Les données d’énergie, de jurisprudence, d’immobilier ou celles portant sur les délégations de service public ou les subventions seront accessibles à tous.</li>
+<li style="text-align: justify;">Certaines informations publiques contenant des données à caractère personnel ne portant pas atteinte à la vie privée, pourront être publiées et réutilisées (ex. les organigrammes et annuaires des administrations).</li>
+</ul>
+<p><strong><span style="text-decoration: underline; color: #000000;">Licences</span></strong></p>
+<p style="text-align: justify;">Les licences à titre gratuit qui pourront être utilisées par les administrations seront fixées et listées par décret. Si elles ne figurent pas dans la liste, elles devront être homologuées par l’Etat.</p>
+<p><strong><span style="text-decoration: underline; color: #000000;">Un pas en avant pour le monde de la recherche</span></strong></p>
+<ul>
+<li style="text-align: justify;">Un canal d’accès sécurisé aux données pour ceux qui réalisent des recherches ou des études présentant un caractère d’intérêt public sera organisé avec l’avis, le cas échéant, du comité du secret statistique.</li>
+</ul>
+<p><strong><span style="text-decoration: underline; color: #000000;">Service public de la donnée</span></strong></p>
+<ul>
+<li style="text-align: justify;">Un service public de la donnée sera mis en œuvre pour assurer une large diffusion avec un haut degré de qualité et de disponibilité des données de référence.</li>
+</ul>
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]PGO : Consultation sur le rapport d&#8217;étape du Plan d&#8217;action national 2015-2017[:]</title>
+		<link>/pgo-consultation-sur-le-rapport-detape-du-plan-daction-national-2015-2017</link>
+		
+		<dc:creator><![CDATA[Mathilde Bras]]></dc:creator>
+		<pubDate>Mon, 13 Jun 2016 17:21:07 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Annonces]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Open Government Partnership]]></category>
+		<category><![CDATA[OGP]]></category>
+		<category><![CDATA[PGO]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4916</guid>
+
+					<description><![CDATA[[:fr] La France a publié en juillet 2015 son Plan d’action national pour une action publique transparente et collaborative. Co-construit avec la société civile de septembre 2014 à juillet 2015, ce plan comporte 26 engagements portés par 10 ministères, par la Haute autorité pour la transparence de la vie publique (HATVP) et par la Cour &#8230;<p class="read-more"> <a class="" href="/pgo-consultation-sur-le-rapport-detape-du-plan-daction-national-2015-2017"> <span class="screen-reader-text">[:fr]PGO : Consultation sur le rapport d&#8217;étape du Plan d&#8217;action national 2015-2017[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<p style="text-align: justify;" align="justify">La France a publié en juillet 2015 son <a href="http://www.modernisation.gouv.fr/laction-publique-se-transforme/en-ouvrant-les-donnees-publiques/gouvernement-ouvert-la-france-publie-son-plan-daction-national-ogp" target="_blank" class="broken_link">Plan d’action national pour une action publique transparente et collaborative</a>. Co-construit avec la société civile de septembre 2014 à juillet 2015, ce plan comporte 26 engagements portés par 10 ministères, par la Haute autorité pour la transparence de la vie publique (HATVP) et par la Cour des comptes.</p>
+<p style="text-align: justify;" align="justify">Après un an de mise en œuvre, la France publiera un rapport d&rsquo;étape à mi-parcours, rendant notamment compte de l&rsquo;avancement des engagements. Une première version de ce rapport est proposée sur <a href="https://suivi-gouvernement-ouvert.etalab.gouv.fr/fr" target="_blank" class="broken_link">suivi-gouvernement-ouvert.etalab.gouv.fr</a>. Elle peut également être consultée <a href="https://suivi-gouvernement-ouvert.etalab.gouv.fr/suivi-plan-ogp-2015-2017_fr.pdf" class="broken_link">sous forme d&rsquo;un fichier pdf. </a></p>
+<p style="text-align: justify;" align="justify">Afin de poursuivre dans cette démarche de co-construction, <a href="https://suivi-gouvernement-ouvert.etalab.gouv.fr/fr/" class="broken_link"><span style="text-decoration: underline;"><strong>une consultation est ouverte du 13 au 30 juin 2016</strong></span></a> sur le rapport d&rsquo;autoévaluation, qui sera publié dans sa version définitive mi-juillet 2016.</p>
+<h3 style="text-align: justify;">Comment participer à la consultation ?</h3>
+<p style="text-align: justify;">Plusieurs dispositifs de contribution sont proposés :</p>
+<ul style="text-align: justify;">
+<li><strong>Vous pouvez contribuer au suivi détaillé des engagements grâce à un forum intégré au rapport d&rsquo;autoévaluation</strong> :  sur chaque page, il vous est possible de commenter le contenu et de proposer des liens venant enrichir le suivi.</li>
+</ul>
+<ul style="text-align: justify;">
+<li><strong>Vous pouvez envoyer une contribution écrite</strong> sur le suivi des engagements et/ou sur la méthodologie à l&rsquo;adresse <a href="mailto:gouvernement-ouvert@etalab.gouv.fr" target="_blank">gouvernement-ouvert@etalab.gouv.fr</a> ou dans la section 7 : « <a href="https://suivi-gouvernement-ouvert.etalab.gouv.fr/fr/contribuer.html" target="_blank" class="broken_link">contribuer</a> » du rapport d&rsquo;autoévaluation.</li>
+</ul>
+<p style="text-align: justify;"><img loading="lazy" decoding="async" class=" wp-image-5013 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/06/image-contribuer-bis-1024x328.png" alt="image contribuer bis" width="775" height="248" srcset="/wp-content/uploads/2016/06/image-contribuer-bis-1024x328.png 1024w, /wp-content/uploads/2016/06/image-contribuer-bis-300x96.png 300w, /wp-content/uploads/2016/06/image-contribuer-bis-768x246.png 768w, /wp-content/uploads/2016/06/image-contribuer-bis.png 1191w" sizes="(max-width: 775px) 100vw, 775px" /></p>
+<p style="text-align: justify;">Cette démarche à plusieurs niveaux respectera les principes d&rsquo;une consultation ouverte :</p>
+<ul style="text-align: justify;">
+<li>Les contributions seront rendues publiques, et un retour sera réalisé sur la prise en compte des suggestions dans le rapport d&rsquo;autoévaluation enrichi. Les contributions sur la méthodologie générale seront également analysées ;</li>
+<li>Le code source du document est disponible sur <a href="https://framagit.org/etalab/suivi-plan-ogp-2015-2017/" target="_blank">Framagit</a>.</li>
+</ul>
+<h3 style="text-align: justify;">Une démarche complémentaire de dialogue et d&rsquo;amélioration continue grâce à « Ministère Ouvert »</h3>
+<p style="text-align: justify;">Par ailleurs, cette consultation se poursuivra de façon continue grâce aux événements « <strong><em>Ministère Ouvert</em></strong> » qui seront organisés par les ministères porteurs d&rsquo;engagements tout au long de la période juin 2016-juillet 2017. Cette démarche a pour objectif de nourrir les échanges entre les administrations déployant des actions du plan et les représentants de la société civile (associations, chercheurs, startups, fédérations, etc.), d&rsquo;accélérer leur mise en œuvre et d&rsquo;initier l&rsquo;élaboration du deuxième plan d&rsquo;action national, prévu pour juillet 2017.</p>
+<p style="text-align: justify;" align="justify">Un premier événement « Ministère ouvert » est organisé au Secrétariat d&rsquo;Etat chargé de la Réforme de l&rsquo;Etat et de la Simplification le 21 juin 2016 de 17h30 à 21h00. <a href="https://rdv.etalab.gouv.fr/e/2/ministere-ouvert-secretariat-detat-charge-de-la-reforme-de-letat-et-de-la-simplification" target="_blank" class="broken_link">Pour s&rsquo;inscrire</a>.</p>
+<p style="text-align: justify;" align="justify">La présidence française du Partenariat pour un gouvernement ouvert, qui débutera en septembre 2016, s&rsquo;attachera à renforcer les coopérations concrètes de coopération entre société civile et action publique, et de les valoriser au plan  international.</p>
+<p><span style="text-decoration: underline;"><em>Rappel du calendrier :</em> </span></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5028" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/06/calendrier-bis.png" alt="calendrier bis" width="1489" height="780" srcset="/wp-content/uploads/2016/06/calendrier-bis.png 1489w, /wp-content/uploads/2016/06/calendrier-bis-300x157.png 300w, /wp-content/uploads/2016/06/calendrier-bis-768x402.png 768w, /wp-content/uploads/2016/06/calendrier-bis-1024x536.png 1024w" sizes="(max-width: 1489px) 100vw, 1489px" /></p>
+<p>Contact : <a href="mailto:gouvernement-ouvert@etalab.gouv.fr" target="_blank">gouvernement-ouvert@etalab.gouv.fr</a></p>
+<p>&nbsp;[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]L&#8217;ouverture du répertoire SIRENE par l&#8217;INSEE au 1er janvier 2017, une avancée majeure pour l&#8217;open data[:en]Opening the SIRENE repository on January 1, 2017: a major breakthrough for Open Data    [:]</title>
+		<link>/louverture-du-repertoire-sirene-par-linsee-au-1er-janvier-2017-une-avancee-majeure-pour-lopen-data</link>
+		
+		<dc:creator><![CDATA[Laure Lucchesi]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2016 10:18:50 +0000</pubDate>
+				<category><![CDATA[Annonces]]></category>
+		<category><![CDATA[Autour du monde]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[Sirene]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4230</guid>
+
+					<description><![CDATA[[:fr] Le mardi 12 janvier, Axelle Lemaire a organisé à Bercy le #DataDay, une conférence débat sur la stratégie d’open data pour le développement de l’économie de la donnée, en présence de start-ups et grandes entreprises. Etaient notamment présents Data Publica et SNIPS, deux anciens lauréats du concours Dataconnexions. La Secrétaire d&#8217;État chargée du Numérique &#8230;<p class="read-more"> <a class="" href="/louverture-du-repertoire-sirene-par-linsee-au-1er-janvier-2017-une-avancee-majeure-pour-lopen-data"> <span class="screen-reader-text">[:fr]L&#8217;ouverture du répertoire SIRENE par l&#8217;INSEE au 1er janvier 2017, une avancée majeure pour l&#8217;open data[:en]Opening the SIRENE repository on January 1, 2017: a major breakthrough for Open Data    [:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<p style="text-align: justify;">Le mardi 12 janvier, Axelle Lemaire a organisé à Bercy le <a href="http://www.economie.gouv.fr/dataday-developper-economie-de-la-donnee" class="broken_link">#DataDay</a>, une conférence débat sur la stratégie d’open data pour le développement de l’économie de la donnée, en présence de start-ups et grandes entreprises. Etaient notamment présents Data Publica et SNIPS, deux anciens lauréats du concours <a href="https://www.etalab.gouv.fr/dataconnexions">Dataconnexions</a>. La Secrétaire d&rsquo;État chargée du Numérique a saisi l&rsquo;occasion pour <a href="https://twitter.com/_Bercy_/status/686861455010992128">annoncer l&rsquo;ouverture gratuite, en open data</a>, du <a href="https://www.sirene.fr/sirene/public/static/contenu-base-sirene">répertoire SIRENE</a>, géré par l&rsquo;INSEE, à compter du 1er janvier 2017. L&rsquo;ouverture de ce registre de référence devrait ouvrir des opportunités nouvelles pour le tissu économique, tant les possibilités de réutilisation et de croisement de ces données, sont importantes.</p>
+<p style="text-align: justify;"><span id="more-4230"></span></p>
+<p><em><span style="color: #000000;"><strong>« Le répertoire SIRENE » : la plus grande base de données existante sur l&rsquo;état-civil des entreprises</strong></span></em></p>
+<p style="text-align: justify;">Le répertoire SIRENE rassemble des informations économiques et juridiques relatives à environ 10 millions d’entreprises et d&rsquo;établissements, quel que soit leur secteur d’activité, situés en métropole ou dans les départements d’outre-mer. En moyenne, 10 000 modifications par jour sont enregistrées dans le répertoire. L&rsquo;INSEE travaille avec de nombreux organismes, comme les greffiers des tribunaux de commerce, qui récoltent les informations sur les immatriculations, les radiations et les modifications au répertoire. Les données de la base SIRENE, parmi les plus complètes au monde, comprennent des données d&rsquo;identification et des données économiques essentielles, notamment  :</p>
+<ul>
+<li><strong>L&rsquo;adresse</strong> des établissements et leur statut juridique;</li>
+<li><strong>Le numéro SIRET/SIREN</strong> : Le numéro SIREN est le numéro d&rsquo;identification unique attribué à chaque entreprise par l&rsquo;INSEE, ce numéro sert à identifier la personne juridique de sa création à sa dissolution. Le numéro SIRET est attribué à chaque établissement, il est composé du numéro SIRET de l&rsquo;entreprise et un numéro interne de classement (NIC). Avec ces deux codes, tous les établissements en France sont identifiés;</li>
+<li><strong>Le code APE</strong> : Toute entreprise et chacun de ses établissements possède un code caractérisant son activité principale par référence à la nomenclature d&rsquo;activités française Ce code permet des statistiques très précises sur la répartition des secteurs en France;</li>
+<li><strong>La base de données des effectifs par tranche</strong> pour les entreprises et les établissements&#8230;;</li>
+</ul>
+<p style="text-align: justify;">Parce qu&rsquo;elles sont susceptibles d’une utilisation fréquente par un grand nombre d’acteurs tant publics que privés et parce que leur qualité est essentielle pour ces utilisations, le répertoire SIRENE est susceptible de contribuer aux <a href="https://www.etalab.gouv.fr/ce-que-le-projet-de-loi-pour-une-republique-numerique-change-pour-la-donnee">données de référence</a>, au sens du projet de loi pour une République Numérique en discussion au Parlement.</p>
+<p style="text-align: justify;"><em><span style="color: #000000;"><strong>Un impact économique majeur<br />
+</strong></span></em></p>
+<p style="text-align: justify;"><span style="color: #999999;">Tous les acteurs, privés (entreprises, associations…) comme publics (administrations, collectivités territoriales&#8230;) pourront ainsi y accéder gratuitement. L&rsquo;ouverture de ce répertoire enrichira la l<a style="color: #999999;" href="http://www.insee.fr/fr/bases-de-donnees/default.asp?page=open-data/open-data-utilisation.htm">iste des données déjà mise en open data par l&rsquo;INSEE</a>, qui compte parmi <a style="color: #999999;" href="https://www.data.gouv.fr/fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/#datasets">les plus grands fournisseurs de données sur data.gouv.fr</a>. Elle viendra compléter la mise à disposition des données relatives aux entreprises produites par la DILA (<a style="color: #999999;" href="https://www.data.gouv.fr/fr/datasets/boamp/">Boamp</a>, <a style="color: #999999;" href="https://www.data.gouv.fr/fr/datasets/bodacc/">Bodacc</a> et <a style="color: #999999;" href="https://www.data.gouv.fr/fr/datasets/balo/">Balo</a>), l’<a style="color: #999999;" href="https://www.data.gouv.fr/fr/organizations/institut-national-de-la-propriete-industrielle-inpi/#datasets">INPI</a> (marques, brevets et dessins), <a style="color: #999999;" href="https://www.data.gouv.fr/fr/organizations/infogreffe/#datasets">Infogreffe</a>, ainsi que celles du Registre National du Commerce et des Sociétés (RNCS). </span></p>
+<p style="text-align: justify;">L&rsquo;impact économique attendu s&rsquo;annonce majeur grâce aux externalités positives associées à cette ouverture : mise à disposition de données pivot, fiabilisation d&rsquo;études et d&rsquo;estimation de potentiels de marché, efficacité des politiques publiques&#8230;</p>
+<p style="text-align: justify;">En ouvrant ces données, la France honore ses engagements pris dans le cadre de la Charte Open Data du G8, et pourrait ainsi devancer &#8211; grâce à la qualité et à la complétude de la base &#8211; le <a href="http://global.census.okfn.org/dataset/companies" class="broken_link">groupe des pays les plus en pointe</a> ayant déjà ouverts leurs registres des entreprises, dont le Royaume-Uni, l&rsquo;Australie, l&rsquo;Indonésie, la Norvège ou la Roumanie. Plus largement, de nombreux exemples démontrent les effets attendus <a href="#_ftn1" name="_ftnref1">[1]</a> d’une plus grande ouverture des données publiques:</p>
+<ul>
+<li>une <strong>progression très nette de la réutilisation des données</strong>, tant en nombre et diversité de réutilisateurs que de fréquence d’usage. En France, le passage à la gratuité du Référentiel à grande échelle de l’IGN pour les acteurs chargés d’une mission de service public s’est traduit par une <strong>multiplication par 20</strong> de l’usage des données,</li>
+<li>un <strong>rapport coûts / bénéfices</strong> très favorable, tant pour le secteur public que privé &#8211; de <strong>1 à 13 </strong>pour les données géo spatiales australiennes, parmi les premières à être ouvertes dès 2006,</li>
+<li>une <strong>dynamisation du marché aval des services</strong> fondés sur les données, avec l’apparition de nouveaux acteurs et une incitation plus forte à innover pour les acteurs historiques. Aux Etats-Unis, la décision du National Oceanic and Atmospheric Administration (NOOA) d’ouvrir leurs données a permis la création d’une industrie météorologique qui pèse aujourd’hui plusieurs milliards de dollars dans l’économie américaine <a href="#_ftn2" name="_ftnref2">[2]</a>,</li>
+<li>une <strong>réduction des coûts de transaction et de l’asymétrie d’information</strong> dont les bénéfices concernent tout autant les acteurs publics que privés. Le Danemark a ainsi calculé que 70% des bénéfices de l’ouverture des données d’adresses revenaient au secteur privé et 30% au secteur public, pour un retour sur investissement de 14 millions € de bénéfices contre un coût de 0,2 million € en 2010 <a href="#_ftn3" name="_ftnref3">[3]</a>,</li>
+<li>une <strong>lutte accrue contre la corruption et la fraude fiscale</strong> par la réduction des asymétries d’information. Au Canada en 2010, une fraude fiscale de 3,1 milliards de dollars a pu être identifiée grâce aux données ouvertes <a href="#_ftn4" name="_ftnref4">[4]</a>. En Ukraine, une fraude d’un 1.8 milliards de dollars a également été détectée <a href="#_ftn5" name="_ftnref5">[5]</a>.</li>
+</ul>
+<p><a href="#_ftnref1" name="_ftn1">[1]</a> Voir « Open Data for Economic Growth » (World Bank, 2014) et « The Generative Mechanisms of Open Government Data » (Jetzek Thorhildur, 2013), « Cost and benefits of data provision » (Victoria University, 2011).</p>
+<p><a href="#_ftnref2" name="_ftn2">[2]</a> http://www.nytimes.com/2008/07/07/business/media/07weather.html?_r=0</p>
+<p><a href="#_ftnref3" name="_ftn3">[3]</a> http://www.adresse-info.dk/Portals/2/Benefit/Value_Assessment_Danish_Address_Data_UK_2010-07-07b.pdf</p>
+<p><a href="#_ftnref4" name="_ftn4">[4]</a> http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/</p>
+<p><a href="#_ftnref5" name="_ftn5">[5]</a> http://rue89.nouvelobs.com/2015/11/02/demandez-a-quoi-sert-lopen-data-allez-voir-ukraine-261916</p>
+<p style="text-align: justify;">
+<p>[:en]</p>
+<p style="text-align: justify;">On January 12, 2016 Axelle Lemaire organized the <a href="http://www.economie.gouv.fr/dataday-developper-economie-de-la-donnee" class="broken_link">#DataDay</a>, a conference-debate on openness strategies in data economics, with big corporations and startups alike. Among them were Data Publica and SNIPS, two previous winners of the <a href="https://www.etalab.gouv.fr/dataconnexions">Dataconnexions</a> contest. The Minister of State for Digital Affairs seized the opportunity to announce the <a href="https://twitter.com/_Bercy_/status/686861455010992128" target="_blank">free opening, in open data</a> of the <a href="https://www.sirene.fr/sirene/public/static/contenu-base-sirene" target="_blank">SIRENE repository</a> managed by the national statistics institute INSEE, on January 1, 2017. The many possibilities of reuses and cross analysis offered by opening up this repository will create new economic opportunities.</p>
+<p style="text-align: justify;"><span style="color: #ffffff;">.</span></p>
+<p style="text-align: justify;"><!--more--></p>
+<p style="text-align: justify;"><strong><em><span style="color: #000000;">« Sirene Repository » The biggest database on company civil status</span> </em></strong></p>
+<p style="text-align: justify;">The SIRENE company register gathers economical and legal information on close to 10 million businesses and branches across all sectors of activity in metropolitan France and overseas departments. On average, 10,000 updates are submitted every day. The INSEE works with a lot of actors, like commercial courts clerks, gathering information on matriculations, radiations and changes made to the repository. This makes SIRENE among the world’s most complete databases, it contains essential economical information and identification, including:</p>
+<ul style="text-align: justify;">
+<li><span style="color: #808080;"><strong>The address </strong></span>of facilities and their legal status;</li>
+<li><span style="color: #000000;"><strong><span style="color: #808080;">The SIRET/SIREN ID Number:</span></strong></span> The SIREN number is a unique ID number assigned to each business by the INSEE. This number identifies a legal person from its creation until its termination. The SIRET number is assigned to each branch. It comprises the SIREN number and an internal ranking number (NIC). With those two codes, all the facilities in France are identified;</li>
+<li><span style="color: #808080;"><strong>The APE code:</strong></span> Every operating business has a code characterizing its major activity in reference to the classification of economic activities. This code allows precise statistics on activity sectors in France;</li>
+<li><span style="color: #000000;"><strong><span style="color: #808080;">The database for the size of the workforce by segment</span> </strong></span>for businesses and facilities…</li>
+</ul>
+<p style="text-align: justify;">SIREN ought to be amongst the « données de reference » (key databases used as a reference) defined in the Digital Republic Bill, currently discussed in the French parliament, as it is likely to be widely and frequently used by a great number of actors and its quality is essential for reuses.</p>
+<p style="text-align: justify;"><span style="color: #000000;"><strong><em>A major economic impact</em></strong></span></p>
+<p style="text-align: justify;">By opening this register, France honors its commitments in the G8 Open Data Charter and could join the leading countries that already opened their company registers like Norway, the UK, Australia, Indonesia or Romania.</p>
+<p style="text-align: justify;">All actors, public (administrations, territorial authorities…) and private (companies, non-profits…) will access the data free of charge. Opening the repository will enrich the list of databases already published in open data by the INSEE, one of data.gouv.fr’s largest data provider. It will complement company data released by the DILA (Boamp, Bodacc and Balo), the INPI (brands, patents, and drawings), Infogreffe and the National Register of Commerce and Companies <span style="color: #999999;">(RNCS).</span></p>
+<p style="text-align: justify;"><span style="color: #999999;">The awaited economic impact is massive, given the positive externalities associated with this opening: availability of key data, increasing reliability of studies and market researches, efficiency of public policies etc. Furthermore, a lot of examples demonstrate the awaited effects <a style="color: #999999;" name="_ftnref1"></a><a style="color: #999999;" href="https://www.etalab.gouv.fr/louverture-du-repertoire-sirene-par-linsee-au-1er-janvier-2017-une-avancee-majeure-pour-lopen-data#_ftn1">[1]</a>of Open Data:</span></p>
+<ul>
+<li style="text-align: justify;"><span style="color: #999999;">a <strong>clear increase in reuses </strong>in terms of volume, diversity and frequency. In France, the switch to gratuity of public service repertories for government entities from the national geographic institute (IGN) saw <strong>20 times</strong> more reuses,</span></li>
+<li style="text-align: justify;"><span style="color: #999999;">a very advantageous <strong>cost/benefit ratio </strong>both for the public and private sector &#8211; 1 to 13 for Australian geospatial data-,</span></li>
+<li style="text-align: justify;"><span style="color: #999999;">a <strong>revitalization of the data-based service industry</strong>, with new actors and a bigger innovation incentive for historic actors. In the US, the National Oceanic and Atmospheric Administration’s decision to open its data allowed the creation a multibillion meteorological industry.<a style="color: #999999;" name="_ftnref2"></a><a style="color: #999999;" href="https://www.etalab.gouv.fr/louverture-du-repertoire-sirene-par-linsee-au-1er-janvier-2017-une-avancee-majeure-pour-lopen-data#_ftn2">[2]</a>,</span></li>
+<li style="text-align: justify;"><span style="color: #999999;">a <strong>transaction cost reduction and information asymmetry reduction </strong>whose benefits could concern private and public actors. Denmark calculated that 70% of the benefits of open data would benefit private sector and 30% public sector, with a return on investment of €14 million in benefits for only €0,2 million in costs, in 2010<a style="color: #999999;" name="_ftnref3"></a><a style="color: #999999;" href="https://www.etalab.gouv.fr/louverture-du-repertoire-sirene-par-linsee-au-1er-janvier-2017-une-avancee-majeure-pour-lopen-data#_ftn3">[3]</a>,</span></li>
+<li style="text-align: justify;"><span style="color: #999999;">a <strong>strengthened effort against corruption and tax evasion </strong>thanks to information asymmetry reduction. In Canada in 2010, a tax evasion of $3,1 billion was identified thanks to open data. <a style="color: #999999;" name="_ftnref4"></a><a style="color: #999999;" href="https://www.etalab.gouv.fr/louverture-du-repertoire-sirene-par-linsee-au-1er-janvier-2017-une-avancee-majeure-pour-lopen-data#_ftn4">[4]</a>. In Ukraine, a $1,8 billion fraud was detected <a style="color: #999999;" name="_ftnref5"></a><a style="color: #999999;" href="https://www.etalab.gouv.fr/louverture-du-repertoire-sirene-par-linsee-au-1er-janvier-2017-une-avancee-majeure-pour-lopen-data#_ftn5">[5]</a>.</span></li>
+</ul>
+<p><a name="_ftn1"></a><a href="https://www.etalab.gouv.fr/louverture-du-repertoire-sirene-par-linsee-au-1er-janvier-2017-une-avancee-majeure-pour-lopen-data#_ftnref1">[1]</a> See « Open Data for Economic Growth » (World Bank, 2014) et « The Generative Mechanisms of Open Government Data » (Jetzek Thorhildur, 2013), « Cost and benefits of data provision » (Victoria University, 2011).</p>
+<p><a name="_ftn2"></a><a href="https://www.etalab.gouv.fr/louverture-du-repertoire-sirene-par-linsee-au-1er-janvier-2017-une-avancee-majeure-pour-lopen-data#_ftnref2">[2]</a> http://www.nytimes.com/2008/07/07/business/media/07weather.html?_r=0</p>
+<p><a name="_ftn3"></a><a href="https://www.etalab.gouv.fr/louverture-du-repertoire-sirene-par-linsee-au-1er-janvier-2017-une-avancee-majeure-pour-lopen-data#_ftnref3">[3]</a> http://www.adresse-info.dk/Portals/2/Benefit/Value_Assessment_Danish_Address_Data_UK_2010-07-07b.pdf</p>
+<p><a name="_ftn4"></a><a href="https://www.etalab.gouv.fr/louverture-du-repertoire-sirene-par-linsee-au-1er-janvier-2017-une-avancee-majeure-pour-lopen-data#_ftnref4">[4]</a> http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/</p>
+<p><a name="_ftn5"></a><a href="https://www.etalab.gouv.fr/louverture-du-repertoire-sirene-par-linsee-au-1er-janvier-2017-une-avancee-majeure-pour-lopen-data#_ftnref5">[5]</a> http://rue89.nouvelobs.com/2015/11/02/demandez-a-quoi-sert-lopen-data-allez-voir-ukraine-261916[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

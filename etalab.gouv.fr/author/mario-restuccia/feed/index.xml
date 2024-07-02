@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mario Restuccia &#8211; Etalab</title>
+	<atom:link href="/author/mario-restuccia/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Wed, 05 Jan 2022 09:31:52 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Mario Restuccia &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Retour sur l’Open Data Maturity Index 2021 : Politique &#038; Gouvernance de l’open data en France (1/4)</title>
+		<link>/retour-sur-lopen-data-maturity-index-2021-politique-gouvernance-de-lopen-data-en-france-1-4</link>
+		
+		<dc:creator><![CDATA[Mario Restuccia]]></dc:creator>
+		<pubDate>Mon, 03 Jan 2022 16:13:02 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Open data]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open data maturity index]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=16323</guid>
+
+					<description><![CDATA[En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&#160;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne. L’Open Data Maturity Report&#160;2021 évalue les progrès réalisés par les pays européens selon quatre &#8230;<p class="read-more"> <a class="" href="/retour-sur-lopen-data-maturity-index-2021-politique-gouvernance-de-lopen-data-en-france-1-4"> <span class="screen-reader-text">Retour sur l’Open Data Maturity Index 2021 : Politique &#038; Gouvernance de l’open data en France (1/4)</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>En 2021, la France a confirmé sa position de leader européen en matière d’open data, en atteste le classement de l’Open Data Maturity Report&nbsp;2021 de la Commission européenne, qui a placé la France à la première place devant l’Irlande et l’Espagne.</p>
+
+
+
+<p>L’Open Data Maturity Report&nbsp;2021 évalue les progrès réalisés par les pays européens selon quatre critères&nbsp;:</p>
+
+
+
+<ul><li>maturité des politiques publiques relatives à l’ouverture (<em>Policy</em>) ;</li><li>qualité de la mesure de l’impact de l’open data (<em>Impact</em>) ;</li><li>maturité du portail national d’open data (<em>Portal</em>) ;</li><li>qualité des données ouvertes (<em>Quality</em>).</li></ul>
+
+
+
+<p>Ce rapport constate les résultats du travail accompli par Etalab et l’ensemble de la communauté open data et permet de mesurer le chemin qu’il reste à parcourir. Pour comprendre quels sont nos points forts et nos points faibles et identifier nos axes d’amélioration, nous proposons une série d’articles portant chacun sur une des dimensions évaluées par le rapport.</p>
+
+
+
+<p>Aujourd’hui, nous nous penchons sur la dimension <em>Policy,</em> qui cherche à mesurer la maturité du cadre politique du pays. Il ne s’agit pas d’être exhaustif, mais de partager certains des aspects souvent salués en France et les axes d’améliorations les plus souvent évoqués.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Que cherche-t-on à mesurer ?</strong></h2>
+
+
+
+<p>Cette dimension se concentre sur la présence de politiques publiques et de stratégies spécifiques visant à encourager l’ouverture des données ouvertes au niveau national. Elle analyse également l’existence de structures de gouvernance qui permettent la participation d’acteurs du secteur privé ainsi que les mesures favorisant l’ouverture des données au niveau national, régional et local. En outre, la dimension <em>Policy</em> identifie les programmes de formation qui améliorent les compétences des agents publics en matière de données.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Les bonnes pratiques françaises</strong></h2>
+
+
+
+<h3 class="wp-block-heading"><strong>Une gouvernance interministérielle robuste</strong></h3>
+
+
+
+<p>Conformément à la <strong><a href="https://www.legifrance.gouv.fr/circulaire/id/45162">circulaire n°&nbsp;6264/SG du 27&nbsp;avril 2021 relative à la politique publique de la donnée, des algorithmes et des codes sources</a></strong>,&nbsp;<strong>15 administrateurs ministériels des données, des algorithmes et des codes sources (AMDAC) ont été nommés dans tous les ministères au 15&nbsp;mai 2021.</strong> Le directeur interministériel du numérique, en sa qualité d’Administrateur général des données, algorithmes et codes sources, assure la coordination de ce&nbsp;<strong>réseau</strong>, en s’appuyant sur le département Etalab. Chaque AMDAC a lui-même constitué et anime&nbsp;<strong>un réseau de correspondants</strong>&nbsp;au sein des directions métier de son périmètre. Au niveau territorial, un référent « données, algorithmes et codes sources » est également désigné auprès de chaque préfet de région pour accompagner les services déconcentrés de l&rsquo;État.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Une politique de la donnée ambitieuse</strong></h3>
+
+
+
+<p>Dans la suite de la nomination des AMDAC, <strong>chaque ministère</strong> a proposé en septembre 2021 <strong>une feuille de route de la donnée sur deux à trois ans.</strong> Sur chaque périmètre ministériel, chacune de ces stratégies met en lumière ce que la donnée peut améliorer dans les politiques publiques, les actions à mener et leur calendrier de réalisation, ainsi que la gouvernance mise en place pour en assurer la mise en œuvre. <strong>500 actions sont recensées</strong>&nbsp;dans ces <a href="https://www.data.gouv.fr/fr/datasets/liste-des-actions-prises-par-les-ministeres-dans-le-cadre-des-feuilles-de-routes-ministerielles/">15&nbsp;feuilles de route</a>.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Des ressources à la disposition des producteurs</strong></h3>
+
+
+
+<p>Afin d’améliorer la qualité des données, Etalab fait des efforts particuliers pour mieux accompagner les producteurs de données dans leurs démarches de publication. Cela passe notamment par la publication de <a href="https://guides.etalab.gouv.fr/">guides</a> qui couvrent des thèmes juridiques, techniques ou organisationnels.</p>
+
+
+
+<p>L’association OpenDataFrance met également à disposition des <a href="https://www.opendatafrance.net/ressources/documents-opendata-france/">ressources méthodologiques et pédagogiques</a> à destination des collectivités territoriales.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Des producteurs plus à l’écoute des besoins des réutilisateurs</strong></h3>
+
+
+
+<p>La prise en compte des besoins et des usages des réutilisateurs de données est de plus en plus importante chez les producteurs de données à mesure que ces derniers gagnent en maturité sur leur démarche d’ouverture. On peut citer par exemple les groupes de discussion organisés par Santé publique France avec les principaux réutilisateurs de données afin de partager des informations sur la manière dont les données sont collectées, la méthodologie des indicateurs et de donner l’opportunité aux réutilisateurs d’exprimer leurs besoins et attentes.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Des collectivités locales dynamiques</strong></h3>
+
+
+
+<p>L&rsquo;ouverture des données est également significativement soutenue par l’engagement des collectivités territoriales.</p>
+
+
+
+<p>À ce titre, l’<a href="https://agence-cohesion-territoires.gouv.fr/">Agence nationale de la cohésion des territoires (ANCT)</a> propose un accompagnement sur mesure aux collectivités en matière d’ouverture et circulation des données.</p>
+
+
+
+<p>Le rôle de l’association <a href="https://www.opendatafrance.net/">OpenDataFrance</a> de soutien et de coordination des collectivités territoriales est aussi précieux. Afin de renforcer son action d&rsquo;accompagnement et d&rsquo;outillage, l&rsquo;association a notamment été financée en 2021 par le dispositif France Relance.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img fetchpriority="high" decoding="async" width="810" height="474" src="https://www.etalab.gouv.fr/wp-content/uploads/2022/01/odm2021-policy.png" alt="" class="wp-image-16329" srcset="/wp-content/uploads/2022/01/odm2021-policy.png 810w, /wp-content/uploads/2022/01/odm2021-policy-300x176.png 300w, /wp-content/uploads/2022/01/odm2021-policy-768x449.png 768w" sizes="(max-width: 810px) 100vw, 810px" /></figure></div>
+
+
+
+<h1 class="wp-block-heading"><strong>Les axes d’améliorations</strong></h1>
+
+
+
+<h3 class="wp-block-heading"><strong>Un besoin d’améliorer les guides et de mettre en cohérence les ressources</strong></h3>
+
+
+
+<p>Si de nombreuses ressources sont mises à disposition des producteurs et des réutilisateurs de données, celles-ci doivent encore être complétées et mises en cohérence. L’enjeu est de mieux orienter les usagers vers la bonne ressource au bon moment dans leurs parcours de publication ou de réutilisation de données.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Enrichir l’offre de formation d’Etalab</strong></h3>
+
+
+
+<p>La formation opérationnelle des agents publics sur les enjeux de la donnée, des algorithmes et des codes source doit être renforcée afin que chaque acteur soit en capacité de s’approprier la politique de la donnée et sache évaluer ses activités quotidiennes. Une offre de formation interministérielle sera proposée par le <a href="https://www.transformation.gouv.fr/">Ministère de la transformation et de la fonction publiques</a>, avec le concours des administrateurs ministériels des données et proposera un ensemble de modules de formation adaptés aux agents.</p>
+
+
+
+<h3 class="wp-block-heading">P<strong>oursuivre les efforts de centralisation des données (moissonnage)</strong></h3>
+
+
+
+<p>Un des éléments du classement pour lesquels la France est en retard par rapport à d’autres pays est que l’ensemble des données publiques n’est pas référencé sur <a href="http://data.gouv.fr/">data.gouv.fr</a>. A titre d’exemple, les données de certains portails de données locaux ne sont pas encore référencées sur <a href="http://data.gouv.fr/">data.gouv.fr</a>. Ce constat s’explique par divers facteurs : richesse et dynamisme de l’écosystème français en termes d’open data, diversité des technologies employées, etc. Il s’agit de poursuivre les efforts pour tendre vers l’exhaustivité et faire de <a href="http://data.gouv.fr/">data.gouv.fr</a> un point d’entrée unique des données ouvertes en France.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

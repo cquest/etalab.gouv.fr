@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bastien.guerry &#8211; Etalab</title>
+	<atom:link href="/author/bastien-guerry/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Wed, 02 Jun 2021 13:38:25 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>bastien.guerry &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rétrospective 2020 #2/6 : l&#8217;accompagnement à l&#8217;ouverture des codes sources et à l&#8217;utilisation de logiciels libres</title>
+		<link>/retrospective-2020-2-6-laccompagnement-a-louverture-des-codes-sources-et-lutilisation-de-logiciels-libres</link>
+		
+		<dc:creator><![CDATA[bastien.guerry]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2021 14:34:57 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14920</guid>
+
+					<description><![CDATA[Ce blogpost fait partie d&#8217;une série de rétrospectives de l’année 2020 autour d’axes de travail d’Etalab : utiliser la science des données et l&#8217;intelligence artificielle pour l&#8217;administration, ouvrir et faire circuler les données publiques, accompagner les administrations à travers le programme EIG, organiser la production des données, accompagner les administrations sur l’explicabilité et la redevabilité &#8230;<p class="read-more"> <a class="" href="/retrospective-2020-2-6-laccompagnement-a-louverture-des-codes-sources-et-lutilisation-de-logiciels-libres"> <span class="screen-reader-text">Rétrospective 2020 #2/6 : l&#8217;accompagnement à l&#8217;ouverture des codes sources et à l&#8217;utilisation de logiciels libres</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Ce blogpost fait partie d&rsquo;une série de rétrospectives de l’année 2020 autour d’axes de travail d’Etalab</em> :<em> utiliser la science des données et l&rsquo;intelligence artificielle pour l&rsquo;administration, ouvrir et faire circuler les données publiques, accompagner les administrations à travers le programme EIG, organiser la production des données, accompagner les administrations sur l’explicabilité et la redevabilité des algorithmes</em>.</p>
+
+
+
+<h4 class="wp-block-heading">En 2020, Etalab a continué d&rsquo;<a href="https://www.etalab.gouv.fr/accompagnement-logiciels-libres">accompagner</a> l&rsquo;administration dans l&rsquo;utilisation de logiciels libres et la publication de codes sources.</h4>
+
+
+
+<ul><li>Le site <a href="https://code.etalab.gouv.fr/" class="broken_link">code.etalab.gouv.fr</a>, qui recense <strong>la liste des codes sources publiés par des organismes publics</strong>, comptait 3800 dépots de code ouverts fin 2019. Il en affiche désormais 7100, publiés par plus de 800 groupes ou comptes d&rsquo;organisation. Tous ces codes sources sont archivés grâce au projet <a href="https://www.softwareheritage.org/">Software Heritage</a>, auquel la DINUM a renouvelé son soutien. En 2021, nous continuerons de référencer les codes ouverts en mettant l&rsquo;accent sur leur valorisation auprès des administrations. Nous nous demanderons aussi comment rendre ce portail plus utile à ceux qui, dans le secteur public et ailleurs, cherchent des codes sources à réutiliser.</li></ul>
+
+
+
+<ul><li><strong>L&rsquo;accompagnement à l&rsquo;ouverture des codes sources</strong> s&rsquo;appuie aussi sur notre partenariat avec l&rsquo;<a href="https://adullact.org/">Adullact</a>, l’association des développeurs et utilisateurs de logiciels libres pour les administrations et les collectivités territoriales. Lorsqu&rsquo;une direction ne souhaite pas publier ses codes sources sur une forge appartenant à un acteur privé étranger ou lorsqu&rsquo;une collectivité souhaite être accompagnée dans son utilisation des logiciels libres, nous pouvons compter sur l&rsquo;appui de l&rsquo;Adullact. Cette relation de confiance s&rsquo;est réaffirmée lors de la cérémonie de remise du label « <a href="https://territoire-numerique-libre.org/">Territoire numérique libre</a> », au cours de laquelle le référent logiciels libres a eu le plaisir de présenter les actions de la DINUM.</li></ul>
+
+
+
+<ul><li>Le <a href="https://sill.etalab.gouv.fr/">Socle interministériel de logiciels libres</a> référence des solutions libres significativement utilisées dans l’administration. L’édition 2020, <a href="https://twitter.com/_dinum/status/1257606834225102848">annoncée en mai 2020</a>, a reçu un bel accueil : 34 nouveaux logiciels référencés au moment de l&rsquo;annonce et 19 autres depuis, portant l&rsquo;ensemble à 209 aujourd&rsquo;hui. Derrière ce catalogue, c&rsquo;est aussi <strong>la communauté interministérielle des référents SILL</strong> qui a grandi, avec une centaine d&rsquo;agents publics partageant désormais leur expertise.</li></ul>
+
+
+
+<ul><li>Du côté des communautés, nous avons regretté ne pas pouvoir organiser la suite du <a href="https://www.numerique.gouv.fr/actualites/retour-sur-le-premier-sprint-open-source-bluehats-administration/">premier sprint open source</a> ou participer, comme les années précédentes, au <a href="https://www.numerique.gouv.fr/agenda/journee-bluehats-dinum-paris-open-source-summit-2019/">Paris Open Source Summit</a>, car ces moments sont toujours des occasions de faire des rencontres utiles. Mais les <strong>#BlueHats sont restés très actifs</strong> : ils ont organisés une dizaine d&rsquo;ateliers à distance, portant sur des sujets aussi divers que <a href="https://sill.etalab.gouv.fr/fr/software?id=207">JOSM</a>, un outil d&rsquo;édition pour OpenStreetMap, <a href="https://sill.etalab.gouv.fr/fr/software?id=195">Scenari/Opale</a>, Geotrek/Geonature, <a href="https://sill.etalab.gouv.fr/fr/software?id=214">Xwiki</a>, Prodige, Atlasanté, Exodus Privacy, OpenMole, <a href="https://sill.etalab.gouv.fr/fr/software?id=210">Esup Pod</a> &#8211; et d&rsquo;autres encore. Pour suivre les annonces d&rsquo;ateliers à venir, vous pouvez <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" class="broken_link">vous inscrire à la gazette #BlueHats</a>, que nous avons continué de <a href="https://disic.github.io/gazette-bluehats/" class="broken_link">diffuser</a>, avec aujourd&rsquo;hui plus de 1200 inscrits, ou consulter <a href="http://github.com/blue-hats/ateliers/">ce dépôt</a>.</li></ul>
+
+
+
+<ul><li>Enfin, Etalab est venu en <strong>appui à la mission sur la Politique publique de la donnée</strong> confiée en juin 2020 au député Éric Bothorel, qui a <a href="https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources">remis son rapport</a> au Premier ministre fin décembre. Nous avons notamment aidé à opérer la plateforme de <a href="https://www.mission-open-data.fr/">la consultation publique</a> qui a eu lieu en octobre, et nous avons mené, avec l&rsquo;aide du groupe logiciels libres du <a href="https://www.ouvrirlascience.fr/">Comité pour la Science Ouverte</a>, une étude sur les pratiques de publication de codes sources dans l&rsquo;Enseignement Supérieur et la Recherche, étude que nous venons de <a href="https://www.etalab.gouv.fr/les-pratiques-de-publication-des-codes-sources-dans-lenseignement-superieur-et-la-recherche">publier</a>.</li></ul>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>État des lieux des pratiques de publication des codes sources dans l&#8217;Enseignement Supérieur et la Recherche</title>
+		<link>/les-pratiques-de-publication-des-codes-sources-dans-lenseignement-superieur-et-la-recherche</link>
+		
+		<dc:creator><![CDATA[bastien.guerry]]></dc:creator>
+		<pubDate>Thu, 04 Feb 2021 10:00:00 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14876</guid>
+
+					<description><![CDATA[Le 23 décembre 2020, le député Éric Bothorel a remis au Premier ministre son rapport sur la politique publique de la donnée, des algorithmes et des codes sources. Dans le cadre de l&#8217;appui que la DINUM a donné à cette mission, Etalab a confié au cabinet Inno³ une étude relative à l’ouverture des codes sources &#8230;<p class="read-more"> <a class="" href="/les-pratiques-de-publication-des-codes-sources-dans-lenseignement-superieur-et-la-recherche"> <span class="screen-reader-text">État des lieux des pratiques de publication des codes sources dans l&#8217;Enseignement Supérieur et la Recherche</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Le 23 décembre 2020, le député Éric Bothorel a remis au Premier ministre son <a href="https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources">rapport sur la politique publique de la donnée, des algorithmes et des codes sources</a>.  Dans le cadre de l&rsquo;appui que la DINUM a donné à cette mission, Etalab a confié au cabinet Inno³ une étude relative à l’ouverture des codes sources au sein de l’Enseignement Supérieur et de la Recherche.</p>
+
+
+
+<p>Inno³ a conçu un questionnaire qu’Etalab et le <a href="https://www.ouvrirlascience.fr/presentation-du-comite/">Comité pour la Science Ouverte</a> ont relayé en septembre 2020. Inno3 s’est appuyé sur les résultats de ce questionnaire et sur de nombreuses entrevues pour faire un état des lieux des pratiques de publication et de valorisation des codes sources dans l’ESR, ainsi qu’une liste de recommandations.</p>
+
+
+
+<p>Cette étude et les données associées sont aujourd’hui rendues publiques : l&rsquo;étude est publiée dans <a rel="noreferrer noopener" href="https://hal.archives-ouvertes.fr/hal-03125456" target="_blank">HAL</a> et sur <a rel="noreferrer noopener" href="https://opensource-esr.pubpub.org/" target="_blank">https://opensource-esr.pubpub.org/</a>, les données sur <a rel="noreferrer noopener" href="https://www.data.gouv.fr/fr/datasets/resultat-du-questionnaire-pratiques-de-publication-de-codes-sources-au-sein-de-lenseignement-superieur-et-de-la-recherche-esr/" target="_blank">data.gouv.fr</a> et il existe un dépôt sur <a rel="noreferrer noopener" href="https://framagit.org/inno3/open-source-esr" target="_blank">framagit</a> pour le code source ayant servi à l’analyse du questionnaire et à la production des graphiques.</p>
+
+
+
+<p>Ces éléments viennent prolonger une réflexion que le Comité pour la Science Ouverte avait initié en 2019 avec la publication d’une <a rel="noreferrer noopener" href="https://www.ouvrirlascience.fr/note-dopportunite-sur-la-valorisation-des-logiciels-issus-de-la-recherche/" target="_blank">note d’opportunité sur la valorisation des logiciels issus de la recherche</a> : le but de cette note et de cette étude est d’initier une discussion plus large autour de ces enjeux, désormais bien identifiés.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://hal.archives-ouvertes.fr/hal-03125456/document">Télécharger l&rsquo;étude</a> sur les pratiques de publication des codes sources dans l&rsquo;ESR</p><cite>Détails sur <a href="https://hal.archives-ouvertes.fr/hal-03125456">https://hal.archives-ouvertes.fr/hal-03125456</a></cite></blockquote>
+
+
+
+<p>Nous remercions Inno3 d’avoir mené à bien cette étude et d’avoir fait un travail de mise en forme qui, nous le souhaitons, contribuera à stimuler les échanges et les avancées à venir.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>code.etalab.gouv.fr : les codes sources de logiciels publiés par des organismes publics</title>
+		<link>/code-etalab-gouv-fr-les-codes-sources-de-logiciels-publies-par-des-organismes-publics</link>
+		
+		<dc:creator><![CDATA[bastien.guerry]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2019 03:12:55 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[code source]]></category>
+		<category><![CDATA[logiciel libre]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=12106</guid>
+
+					<description><![CDATA[Etalab publie aujourd'hui code.etalab.gouv.fr, un site permettant de parcourir la liste des codes sources publiés par des organismes publics.]]></description>
+										<content:encoded><![CDATA[
+<p>Etalab lance aujourd&rsquo;hui <a href="https://code.etalab.gouv.fr/" class="broken_link">code.etalab.gouv.fr</a>, un site permettant de parcourir la liste des codes sources publiés par des organismes publics.</p>
+
+
+
+<p>En mai 2018, la DINSIC a lancé la <a href="https://www.numerique.gouv.fr/publications/politique-logiciel-libre/">politique de contribution de l&rsquo;État aux logiciels libres</a> qui énonce deux principes forts :</p>
+
+
+
+<ol><li>Les <strong>agents publics </strong>qui le souhaitent peuvent <em>librement</em> contribuer à des logiciels libres existants, ils sont encouragés à le faire avec leur adresse professionnelle.</li><li>Les <strong>organismes publics </strong>doivent publier les codes sources des logiciels qu&rsquo;ils développent ou font développer, ces codes sources sont considérés depuis la loi pour une République numérique comme des « documents administratifs » et sont soumis aux mêmes obligations que les bases de données.</li></ol>
+
+
+
+<h4 class="wp-block-heading">Comment trouver les codes sources aujourd&rsquo;hui ouverts par l&rsquo;administration&nbsp;?</h4>
+
+
+
+<p>Dans la foulée de cette publication, nous avons commencé à recenser les comptes via lesquels les organismes publics ouvrent leurs codes, sur GitHub, GitLab, Framagit ou des forges dédiées.  Nous avons ainsi référencé à la main plus d&rsquo;une centaine de comptes d&rsquo;organisation, groupes ou forges publiques.</p>
+
+
+
+<p>Au sein d&rsquo;Etalab, Antoine Augusti a développé <a href="https://github.com/etalab/data-codes-sources-fr">un logiciel</a> qui rassemble les informations de ces dépôts de codes sources et nous avons publié <a href="https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/">cet inventaire des dépôts de code source sur data.gouv.fr</a>, permettant à chacun d&rsquo;analyser les données.  Antoine a aussi mis en place <a href="https://github.com/AntoineAugusti/api-codes-sources-fr">une API</a> qui donne accès à ces informations et Bastien Guerry a développé un site web pour permettre à chacun de les parcourir facilement.</p>
+
+
+
+<p>Voici la page avec la liste des dépôts de codes sources publics :</p>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="1024" height="579" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/10/code-etalab-gouv-fr-1-1024x579.png" alt="La page d'accueil de code.etalab.gouv.fr" class="wp-image-12199" srcset="/wp-content/uploads/2019/10/code-etalab-gouv-fr-1-1024x579.png 1024w, /wp-content/uploads/2019/10/code-etalab-gouv-fr-1-300x170.png 300w, /wp-content/uploads/2019/10/code-etalab-gouv-fr-1-768x434.png 768w, /wp-content/uploads/2019/10/code-etalab-gouv-fr-1.png 1884w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>La page d&rsquo;accueil de code.etalab.gouv.fr</figcaption></figure>
+
+
+
+<p>Vous remarquez une icône dans la colonne « Archive » : cet acronyme désigne le projet <a href="https://www.softwareheritage.org/">Software Heritage</a>, dont la mission est de sauvegarder tout le code source existant &#8211; oui, c&rsquo;est vaste ! En cliquant sur l’icône relative à chaque dépôt, vous trouverez le code source archivé par le projet Software Heritage.  À mesure que nous recensions des dépôts, nous faisions aussi en sorte de demander leur archivage&nbsp;: c&rsquo;est ainsi que nous avons aujourd&rsquo;hui atteint les 99% de dépôts de codes sources archivés sur Software Heritage, une garantie supplémentaire pour la pérennité de ces informations publiques.</p>
+
+
+
+<p>Voici maintenant la page présentant l&rsquo;ensemble des comptes d&rsquo;organisation et des projets référencés sur les différentes forges :</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="1024" height="584" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/10/code-etalab-gouv-fr-groupes-1024x584.png" alt="La liste des comptes d'organisation ou groupes" class="wp-image-12197" srcset="/wp-content/uploads/2019/10/code-etalab-gouv-fr-groupes-1024x584.png 1024w, /wp-content/uploads/2019/10/code-etalab-gouv-fr-groupes-300x171.png 300w, /wp-content/uploads/2019/10/code-etalab-gouv-fr-groupes-768x438.png 768w, /wp-content/uploads/2019/10/code-etalab-gouv-fr-groupes.png 1890w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>La liste des comptes d&rsquo;organisation ou groupes</figcaption></figure>
+
+
+
+<h4 class="wp-block-heading">En quoi cela peut-il vous être utile&nbsp;?</h4>
+
+
+
+<p>Le problème que nous voulons résoudre est celui de la visibilité des codes sources publics.  Un même organisme peut avoir plusieurs comptes d&rsquo;organisation sur plusieurs plateformes et il était jusque-là difficile d&rsquo;avoir une vue d&rsquo;ensemble des codes sources publiés. </p>
+
+
+
+<p><strong>Vous êtes responsable de l&rsquo;un de ces dépôts ?</strong> Le voir référencé ici vous incitera à ajouter une licence, améliorer votre description, archiver le dépôt s&rsquo;il est obsolète ou trier vos tickets (<em>issues</em>) pour faciliter les contributions extérieures au projet.</p>
+
+
+
+<p><strong>Vous vous apprêtez à faire développer un logiciel pour votre organisme public&nbsp;?</strong>  Pensez à parcourir la liste des dépôts de code source déjà ouverts pour voir s&rsquo;ils peuvent d&rsquo;une manière ou d&rsquo;une autre être utilisé pour votre projet.</p>
+
+
+
+<p><strong>Vous êtes développeur/data scientist/designer dans l&rsquo;administration&nbsp;?</strong>  Ce site vous donnera un aperçu de ce qui se développe ailleurs : n&rsquo;hésitez pas à suivre les codes sources qui vous intéressent et, si possible, à y contribuer.</p>
+
+
+
+<p><strong>Vous êtes citoyen et vous souhaitez contribuer aux logiciels libres de l&rsquo;administration&nbsp;?</strong>  Ce site est votre point d&rsquo;entrée : vous pourrez parcourir les dépôts de code par description, voir ceux qui sont le plus récemment mis à jour, les trier par langage de programmation, etc.  Et vous pouvez bien entendu proposer de faire évoluer cette plateforme en nous faisant part de vos idées <a href="https://github.com/etalab/codegouvfr" class="broken_link">via ce dépôt</a> ou <a href="mailto:opensource@data.gouv.fr">par email</a>.</p>
+
+
+
+<p>Pour maintenir une veille sur les derniers dépôts de code source ajoutés, vous pouvez vous abonner à <a href="https://code.etalab.gouv.fr/latest.xml" class="broken_link">ce flux RSS</a>.</p>
+
+
+
+<h4 class="wp-block-heading">Un travail en cours</h4>
+
+
+
+<p><strong>«&nbsp;Il manque les codes sources de mon organisme !&nbsp;»</strong> Oui : ce recensement n&rsquo;est ni automatique ni exhaustif. Si votre établissement publie des codes sources sur des comptes d&rsquo;organisation ou des forges qui ne sont pas référencés sur <a href="https://github.com/DISIC/politique-de-contribution-open-source/blob/master/comptes-organismes-publics">cette page</a>, <a href="https://github.com/DISIC/politique-de-contribution-open-source/issues">ouvrez un ticket</a> ou envoyez-nous <a href="mailto:opensource@data.gouv.fr">un mail</a> et nous ajouterons les informations nécessaires, vos dépôts apparaîtront dans la foulée.  </p>
+
+
+
+<p><strong>«&nbsp;Il manque une licence sur certains dépôts ! »</strong>  Oui : dans ce cas, le code est librement réutilisable dans les conditions fixées par le <a href="https://www.legifrance.gouv.fr/Droit-francais/Codification/Tables-de-concordance/Code-des-relations-entre-le-public-et-l-administration" class="broken_link">Code des relations entre le public et l&rsquo;administration</a>. Mais intégrer du code sans licence dans un autre logiciel libre crée une incertitude juridique pour les réutilisateurs. C&rsquo;est pourquoi  la politique de contribution de l&rsquo;État aux logiciels libres recommande fortement de publier le code sous <a href="https://www.data.gouv.fr/fr/licences">l&rsquo;une des licences homologuées</a>.</p>
+
+
+
+<h4 class="wp-block-heading">Un guide juridique pour l&rsquo;ouverture de vos codes sources</h4>
+
+
+
+<p>Pour vous aider à déterminer si les codes sources de votre organisme relèvent de l&rsquo;obligation de publication en open data, nous publions un <a href="https://guide-juridique-logiciel-libre.etalab.gouv.fr/">guide juridique</a>. Ce guide est un support pour répondre à certaines de vos questions&nbsp;: à la fin du guide interactif, vous pouvez cliquer sur l&rsquo;icone «&nbsp;message&nbsp;» pour nous envoyer un résumé de vos contraintes et solliciter une aide particulière d&rsquo;Etalab. </p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="1024" height="616" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/09/guide-logiciel-libre-1024x616.png" alt="Guide juridique interactif pour la publication des codes sources de l'administration" class="wp-image-12116" srcset="/wp-content/uploads/2019/09/guide-logiciel-libre-1024x616.png 1024w, /wp-content/uploads/2019/09/guide-logiciel-libre-300x181.png 300w, /wp-content/uploads/2019/09/guide-logiciel-libre-768x462.png 768w, /wp-content/uploads/2019/09/guide-logiciel-libre.png 1718w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">La suite avec #bluehats</h4>
+
+
+
+<p>#bluehats est un mouvement <a href="https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/">initié par la DINSIC</a> lors du <a href="https://www.numerique.gouv.fr/agenda/lancement-rejoignez-la-communaute-blue-hats-hackers-dinteret-general/">Paris Open Source Summit 2018</a> et qui rassemble toutes les bonnes volontés qui s&rsquo;intéressent au logiciel libre <em>dans</em> et <em>par</em> l&rsquo;administration publique. La DINSIC publie une gazette bimestrielle à laquelle vous pouvez vous <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" class="broken_link">inscrire ici</a> et dont les numéros précédents sont publiés sur <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" class="broken_link">ce dépôt</a>. Si vous êtes agent public et avez accès à l&rsquo;application Tchap, vous pouvez rejoindre le <a href="https://www.tchap.gouv.fr/#/room/#BlueHats21LW8XE:agent.dinum.tchap.gouv.fr">salon #bluehats</a>.</p>
+
+
+
+<p>La liste des codes sources publiés par l&rsquo;administration est une ressource importante pour tous ceux qui s&rsquo;intéressent au logiciel libre dans l&rsquo;administration. Nous espérons qu&rsquo;elle vous incitera à lancer ou accueillir des ateliers et des événements #bluehats dans vos administrations respectives ! La voie est longue, mais la route est libre&#8230;</p>
+
+
+
+<p>Rendez-vous donc sur <a href="https://code.etalab.gouv.fr/" class="broken_link">code.etalab.gouv.fr</a> : Etalab continuera de faire évoluer le site pour le rendre utile à tous, n&rsquo;hésitez pas à nous faire part de vos retours !</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Questions ouvertes : conversation avec Marion Paclot sur l’ouverture du code de app.dvf.etalab.gouv.fr</title>
+		<link>/questions-ouvertes-conversation-marion-paclot-ouverture-code</link>
+		
+		<dc:creator><![CDATA[bastien.guerry]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2019 07:49:58 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[logiciel libre]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[open source]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10443</guid>
+
+					<description><![CDATA[Le 24 avril 2019, la direction générale des finances publiques a mis en ligne des données sur les transactions immobilières, sous la forme de fichiers réutilisables au format texte (.txt).  À cette occasion, Etalab a développé une application web accessible à l'adresse app.dvf.etalab.gouv.fr, dont le code source est publié sous licence libre. Cette publication a permis de mesurer l'importance, pour une administration, d'ouvrir son travail, notamment pour recevoir des contributions de personnes extérieures.  Bastien Guerry, référent logiciels libres à la DINSIC, s'est entretenu avec Marion Paclot, développeuse principale de l'application ainsi que David Gautier, contributeur volontaire, pour mieux comprendre leur démarche et ce qu'ils en ont appris.]]></description>
+										<content:encoded><![CDATA[
+<p><em>Le 24 avril 2019, la direction générale des finances publiques a mis en ligne des données sur les transactions immobilières.  À cette occasion, Etalab a développé une application web, </em><a href="https://app.dvf.etalab.gouv.fr/"><em>app.dvf.etalab.gouv.fr</em></a><em>, dont le code source est <a href="https://github.com/etalab/DVF-app">publié sous licence libre</a>. Cette publication a permis de mesurer l&rsquo;importance, pour une administration, d&rsquo;ouvrir son travail, notamment pour recevoir des contributions de personnes extérieures.</em></p>
+
+
+
+<h2 class="wp-block-heading">Entretien avec Marion Paclot</h2>
+
+
+
+<p><em>Bastien Guerry, référent logiciels libres à la DINSIC, s&rsquo;est entretenu avec Marion Paclot, développeuse principale de l&rsquo;application, ainsi que David Gautier, contributeur volontaire, pour mieux comprendre leur démarche et ce qu&rsquo;ils en ont appris.  </em></p>
+
+
+
+<p><strong>Bastien Guerry. — Comment s&rsquo;est passé le développement de l’application DVF ?</strong></p>
+
+
+
+<p><strong>Marion Paclot</strong>. — Le développement de l&rsquo;application DVF a été réalisé dans un temps très court, moins d&rsquo;un mois. Il s&rsquo;agissait de mettre à disposition du grand public, pour lequel manipuler des gigaoctets de données n&rsquo;est pas envisageable, une interface de visualisation simple et facile à prendre en main.</p>
+
+
+
+<p>À quelques jours du lancement, j&rsquo;ai été rejointe sur le projet par des personnes ayant des compétences bien plus poussées que moi en développement, et qui ont consolidé mon travail en mettant en place des briques qui ont permis de <a href="https://blog.antoine-augusti.fr/2019/05/discovering-content-caching-with-nginx-proxy-cache/">gérer la charge serveur</a> et de traiter plus intelligemment les couches géographiques.</p>
+
+
+
+<p>Le jour du lancement, nous avions un produit fini présentable, mais pas parfait. Depuis le lancement, nous procédons régulièrement à des améliorations, soit parce qu&rsquo;il y a de petites erreurs, soit parce que nous avons changé la base géographique pour en faciliter la maintenance et décharger <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, ou encore parce que les retours utilisateurs nous on amené à revoir certaines choses. </p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="576" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/05/dvf-application-bouton-code-source-1024x576.png" alt="" class="wp-image-10445" srcset="/wp-content/uploads/2019/05/dvf-application-bouton-code-source-1024x576.png 1024w, /wp-content/uploads/2019/05/dvf-application-bouton-code-source-300x169.png 300w, /wp-content/uploads/2019/05/dvf-application-bouton-code-source-768x432.png 768w, /wp-content/uploads/2019/05/dvf-application-bouton-code-source.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>La page d&rsquo;accueil de l&rsquo;application DVF avec un bouton pour accéder à son code source.</figcaption></figure>
+
+
+
+<p><strong>Bastien Guerry. — Pourquoi l&rsquo;application est-elle ouverte et publiée sous licence libre ?</strong></p>
+
+
+
+<p><strong>Marion Paclot</strong>. — Au delà de l&rsquo;application de <a href="https://www.etalab.gouv.fr/comment-etalab-aide-les-administrations-a-ouvrir-leurs-donnees">la loi pour une République numérique</a>, je suis convaincue de l&rsquo;intérêt que peut apporter la publication du code sous licence libre. N&rsquo;étant pas développeuse, j&rsquo;ai pu bénéficier des conseils, sous forme de <em>pull requests</em>, c’est-à-dire des demandes de modifications effectuées directement sur github.com, de la part de développeurs plus expérimentés. La publication de son travail, qui plus est quand il est en cours de réalisation, n&rsquo;est pas forcément évidente. Les forums de développeurs sont pleins de gens prompts à critiquer. Mais là, j&rsquo;ai vu une très grande majorité de retours positifs.</p>
+
+
+
+<p>D&rsquo;autres se sont pris au jeu et ont proposé des
+améliorations que nous avions dans notre liste de choses à faire,
+et c&rsquo;est aussi notre pari : que certaines personnes prendront
+quelques minutes pour écrire les lignes qui ajouteront une
+fonctionnalité. 
+</p>
+
+
+
+<p>Nous avons aussi proposé les scripts d&rsquo;installation de la base de données et mis en place ce qu&rsquo;il fallait pour que les développeurs de la partie proprement web puissent se concentrer sur elle. Cela a demandé un peu de travail, notamment pour mettre au propre mon code, mais le jeu en vaut la chandelle.</p>
+
+
+
+<p><strong>Bastien Guerry. — Est-ce que cela change quelque chose que le code soit ouvert et visible par tous ?</strong>  </p>
+
+
+
+<p><strong>Marion Paclot</strong>. — Coder en sachant que tout sera public demande une discipline dont je n&rsquo;ai pas l&rsquo;habitude. Mais surtout, cela incite les gens qui ne sont pas contents à venir participer. Et c&rsquo;est la communauté des développeurs qui s&rsquo;est chargée de relayer le message. À une personne qui se plaignait sur Twitter que notre interface était « pourrie », un autre a répondu « le code est libre, vous n&rsquo;avez qu&rsquo;à participer », ce que je n&rsquo;aurais pas osé faire moi-même. Evidemment, dans la mesure où nous sommes une administration et que je suis payée par l&rsquo;Etat pour ce travail, il ne s&rsquo;agit pas de déléguer du développement à des personnes bénévoles, mais le fait que le code soit libre change le rapport que les personnes extérieures peuvent avoir aux sites et applications. En tout cas, je suis vraiment heureuse de voir que des anonymes se sont pris au jeu et nous ont aidé.  </p>
+
+
+
+<p>La plupart des sites de l&rsquo;État ne mettent pas de lien vers le code source ou vers un endroit où un contributeur pourrait signaler un problème ou proposer une amélioration, mais pour nous <a href="https://github.com/etalab/DVF-app">ce lien</a> fut très utile.  </p>
+
+
+
+<p><strong>Bastien Guerry. — Un conseil pour une autre administration publiant du code source ?</strong>  </p>
+
+
+
+<p><strong>Marion Paclot</strong>. — Se dire qu&rsquo;il vaut mieux publier imparfaitement que pas du tout et ne pas se laisser décontenancer par les réactions critiques.  </p>
+
+
+
+<h2 class="wp-block-heading">Entretien avec <strong>David Gautier</strong></h2>
+
+
+
+<p><em>Bastien Guerry a contacté David Gautier pour
+lui demander d&rsquo;expliquer quelques unes de ses motivations.</em> 
+</p>
+
+
+
+<p><strong>Bastien Guerry. — Comment avez-vous connu le dépôt de code de l&rsquo;application DVF ?</strong>  </p>
+
+
+
+<p><strong>David Gautier</strong>. — C&rsquo;est un collègue de travail qui m&rsquo;a envoyé le lien vers <a href="https://www.lemondeinformatique.fr/actualites/lire-bercy-met-en-open-data-les-ventes-foncieres-depuis-2014-75091.html">un article du Monde Informatique</a> car il savait que ce sujet (le prix des biens immobiliers) m&rsquo;intéressait.  </p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="576" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/05/dvf-github-1024x576.png" alt="" class="wp-image-10446" srcset="/wp-content/uploads/2019/05/dvf-github-1024x576.png 1024w, /wp-content/uploads/2019/05/dvf-github-300x169.png 300w, /wp-content/uploads/2019/05/dvf-github-768x432.png 768w, /wp-content/uploads/2019/05/dvf-github.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>La page d&rsquo;accueil du code source de l&rsquo;application DVF.</figcaption></figure>
+
+
+
+<p><strong>Bastien Guerry. — Qu&rsquo;est-ce qui vous a motivé à contribuer ?</strong>  </p>
+
+
+
+<p><strong>David Gautier</strong>. — Le sujet m&rsquo;intéresse et le projet étant Open Source il est possible de contribuer. Comme j&rsquo;ai constaté qu&rsquo;il manquait une procédure d&rsquo;installation, qui m&rsquo;aurait été utile lorsque j&rsquo;ai installé l&rsquo;application sur ma machine, j&rsquo;ai décidé d&rsquo;en faire profiter tout le monde.  </p>
+
+
+
+<p><strong>Bastien Guerry. — Sur quoi avez-vous contribué et comment s&rsquo;est passé l’interaction avec la développeuse d&rsquo;Etalab ?</strong>  </p>
+
+
+
+<p><strong>David Gautier</strong>. — Pour le moment ma contribution est modeste, j&rsquo;ai juste ajouté une procédure d&rsquo;installation au fichier <a href="https://github.com/etalab/DVF-app/blob/master/README.md">README</a> du projet. En informatique c&rsquo;est toujours très utile d&rsquo;en avoir au moins une qui fonctionne (ou qui a fonctionné) et qui indique les versions des logiciels requis. Et cela dès le début du projet, sinon on peut passer des heures à essayer de l&rsquo;installer quelques mois ou quelques années plus tard.  </p>
+
+
+
+<p>Les développeurs du projet sont très agréables
+et ne manquent pas de vous remercier même pour une petite
+contribution. 
+</p>
+
+
+
+<p><strong>Bastien Guerry.</strong> —<strong> Cela vous donne-t-il envie de contribuer à d&rsquo;autres dépôts de l&rsquo;administration ?</strong>  </p>
+
+
+
+<p><strong>David Gautier</strong>. — Pourquoi pas, celui-ci est le premier, mais sans doute pas le dernier !  </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Appel à participation à la journée Blue hats : hackers d&#8217;intérêt général &#8211; jeudi 6 décembre</title>
+		<link>/appel-a-participation-a-la-journee-blue-hats-hackers-dinteret-general-jeudi-6-decembre</link>
+		
+		<dc:creator><![CDATA[bastien.guerry]]></dc:creator>
+		<pubDate>Thu, 15 Nov 2018 09:57:50 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=9051</guid>
+
+					<description><![CDATA[[:fr] &#160; Le 6 décembre 2018, de 9h à 18h, à l&#8217;occasion du Paris Open Source Summit, événement majeur en Europe sur les logiciels libres, l&#8217;open source et le numérique ouvert, la DINSIC animera une journée de rencontres des hackers de l&#8217;administration. Vous souhaitez y participer et proposer des interventions ? Un appel à participation &#8230;<p class="read-more"> <a class="" href="/appel-a-participation-a-la-journee-blue-hats-hackers-dinteret-general-jeudi-6-decembre"> <span class="screen-reader-text">Appel à participation à la journée Blue hats : hackers d&#8217;intérêt général &#8211; jeudi 6 décembre</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<p style="text-align: justify;"><img loading="lazy" decoding="async" class="size-medium wp-image-9346 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/bluehats-hackers-dinteret-general-2-300x206.jpg" alt="" width="300" height="206" /></p>
+<p>&nbsp;</p>
+<p style="text-align: justify;">Le 6 décembre 2018, de 9h à 18h, à l&rsquo;occasion du <a href="https://www.opensourcesummit.paris/">Paris Open Source Summit</a>, événement majeur en Europe sur les logiciels libres, l&rsquo;<em>open source</em> et le numérique ouvert, la <a href="https://www.numerique.gouv.fr/dinsic/">DINSIC</a> animera une journée de rencontres des <em>hackers</em> de l&rsquo;administration.</p>
+<p>Vous souhaitez y participer et proposer des interventions ? <a href="https://framaforms.org/appel-a-participation-a-la-journee-du-6-decembre-hackers-dinteret-general-1542116861" target="_blank" rel="noopener noreferrer" class="broken_link">Un appel à participation est ouvert !</a></p>
+<h3></h3>
+<h3></h3>
+<h3><strong>Favoriser l&rsquo;émergence d&rsquo;une communauté autour des logiciels libres utilisés et produits par l&rsquo;administration</strong></h3>
+<p style="text-align: justify;">Cette journée de rencontres <em>« hackers d&rsquo;intérêt général »</em> a pour but de favoriser l&rsquo;émergence d&rsquo;une communauté autour des logiciels libres utilisés et produits par l&rsquo;administration. Ces rencontres seront un lieu d&rsquo;échange entre pairs pour débattre ensemble et surmonter les freins à la contribution sur les projets de l&rsquo;administration.</p>
+<p style="text-align: justify;"><strong>Au programme</strong> : tables de discussion, présentations éclairs, démonstrations, tables rondes/débats, et une présentation du mouvement Blue hats.</p>
+<h3 style="text-align: justify;"><strong>Comment participer ?</strong></h3>
+<p style="text-align: justify;">Vous souhaitez intervenir lors de cette journée ? Proposer une intervention courte, une démo, un sujet de débat ? L&rsquo;espace sera ouvert à toute personne intéressée par les projets libres et <em>open source</em> de l&rsquo;administration et souhaitant contribuer aux travaux collectifs en cours : développeurs, <em>designers ou </em>datascientistes travaillant au sein des organismes publics, prestataires contribuant à des projets ouverts utilisés par l&rsquo;administration publique, testeurs, traducteurs, utilisateurs, etc.</p>
+<p style="text-align: justify;"><strong>Pour nous faire part de vos idées et envies, <a href="https://framaforms.org/appel-a-participation-a-la-journee-du-6-decembre-hackers-dinteret-general-1542116861" class="broken_link">remplissez ce formulaire</a>!</strong></p>
+<p style="text-align: justify;"><em>Toute contribution est la bienvenue : n&rsquo;hésitez pas à partager toute thématique, tout projet ou tout format d&rsquo;intervention.</em></p>
+<blockquote>
+<p style="text-align: justify;">Inscrivez-vous <a href="https://www.opensourcesummit.paris/preinscription_154_204_p.html">ici</a> pour obtenir gratuitement un badge d&rsquo;accès au salon <a href="https://www.opensourcesummit.paris/">Paris Open Source Summit</a>, qui se tient au Dock Pullman, 87 avenue des magasins généraux à Aubervilliers, à 100 mètre du métro Porte de La Chapelle.</p>
+</blockquote>
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

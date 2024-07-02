@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Entrepreneurs d&rsquo;Intérêt Général &#8211; Etalab</title>
+	<atom:link href="/category/entrepreneurs-dinteret-general/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Thu, 18 Feb 2021 15:16:28 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Entrepreneurs d&rsquo;Intérêt Général &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rétrospective d&#8217;Etalab #5/6 : Accompagner la transformation numérique des administrations &#8211; les défis du programme EIG en 2020</title>
+		<link>/eig-2020</link>
+		
+		<dc:creator><![CDATA[Soizic Pénicaud]]></dc:creator>
+		<pubDate>Thu, 18 Feb 2021 15:16:26 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Ecosystème]]></category>
+		<category><![CDATA[Entrepreneurs d'Intérêt Général]]></category>
+		<category><![CDATA[Innovation ouverte / open innovation]]></category>
+		<category><![CDATA[L'équipe]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14972</guid>
+
+					<description><![CDATA[Ce blogpost fait partie d’une série de rétrospectives de l’année 2020 autour d’axes de travail d’Etalab : utiliser la science des données et l’intelligence artificielle pour l’administration, ouvrir et faire circuler les données publiques, accompagner l’administration dans l’utilisation de logiciels libres et la publication de codes sources, organiser la production des données et accompagner les &#8230;<p class="read-more"> <a class="" href="/eig-2020"> <span class="screen-reader-text">Rétrospective d&#8217;Etalab #5/6 : Accompagner la transformation numérique des administrations &#8211; les défis du programme EIG en 2020</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Ce blogpost fait partie d’une série de rétrospectives de l’année 2020 autour d’axes de travail d’Etalab : utiliser la science des données et l’intelligence artificielle pour l’administration, ouvrir et faire circuler les données publiques, accompagner l’administration dans l’utilisation de logiciels libres et la publication de codes sources, organiser la production des données et accompagner les administrations sur l’explicabilité et la redevabilité des algorithmes.</em></p>
+
+
+
+<p>Le programme&nbsp;<a href="https://entrepreneur-interet-general.etalab.gouv.fr/" target="_blank" rel="noreferrer noopener">Entrepreneurs d’Intérêt Général</a>, piloté par le pôle Accompagnement d&rsquo;Etalab, accompagne depuis 2016 les administrations dans leur transformation numérique en leur permettant d’accueillir des profils du numérique (data, développement, design).</p>
+
+
+
+<h2 class="wp-block-heading">Construire une promotion 4 diverse et résiliente</h2>
+
+
+
+<p>En 2020, le programme a continué à grandir. <strong>Le premier semestre a été consacré à la constitution de la quatrième promotion, qui est la plus grosse de l&rsquo;histoire du programme </strong>: 41 EIG (contre onze lors de la première promotion) ont rejoint l&rsquo;une des 17 administrations lauréates en septembre.</p>
+
+
+
+<p><strong>L&rsquo;appel à candidatures s&rsquo;est révélé un succès : plus de 800 candidatures</strong> ont été reçues, soit quatre fois plus que les promotions précédentes.</p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://www.etalab.gouv.fr/le-programme-entrepreneurs-dinteret-general-presente-sa-quatrieme-promotion" target="_blank">Cette promotion 4 est également la plus diverse</a>, à plusieurs niveaux : diversification des compétences d&rsquo;abord, avec une part beaucoup plus importante de designers que lors des promotions précédentes. <strong>Diversification des profils ensuite : cette promotion est la plus paritaire, avec 44% de femmes</strong> dans la promotion.  </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="https://github.com/entrepreneur-interet-general/site-eig/blob/master/img/blog/bootcamp/blogposteig4-promotion.jpg?raw=true" alt="Photo d'une quarantaine de jeunes personnes dans une cour. Elles sont masquées et se tiennent espacées les unes des autres. Elles sourient derrière leur masque."/><figcaption>La quatrième promotion EIG lors du séminaire d&#8217;embarquement en septembre 2020</figcaption></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img fetchpriority="high" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/07/genres-EIG-4-7.png" alt="Graphique qui présente la répartition des genres pour la quatrième promotion EIG. Sur un total de 41 personnes, 18 sont des femmes et 23 des hommes. Sur 14 designers, 8 sont des femmes et 6 des hommes. Sur 17 développeurs et développeuses, 7 sont des femmes et 10 des hommes. Sur 10 data scientists, 3 sont des femmes et 7 des hommes. " width="748" height="560"/><figcaption>Chiffres issus des données déclaratives de civilité renseignées dans les dossiers de candidature</figcaption></figure></div>
+
+
+
+<h2 class="wp-block-heading">Adapter les méthodes à la situation sanitaire</h2>
+
+
+
+<p><strong>Le programme repose beaucoup sur l’animation d’un collectif d’entraide, la création de liens entre projets et l’immersion des profils du numérique dans l’administration. </strong>Ainsi, la situation sanitaire a beaucoup compliqué l’organisation du programme.</p>
+
+
+
+<p>Des adaptations ont dû être inventées dès la constitution de la promotion, notamment lors de l’organisation des jurys (<a href="https://entrepreneur-interet-general.etalab.gouv.fr/blog/2020/04/01/retour-experience-jury-en-ligne.html" target="_blank" rel="noreferrer noopener" class="broken_link">lire notre retour d’expérience sur l’organisation du jury en ligne</a>).</p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/blog/2020/11/10/bootcamp-comment-collaborer-efficacement-equipe-interdisciplinaire.html" target="_blank" class="broken_link">La traditionnelle “semaine d’embarquement” des EIG </a>fut également hybride. Le mois de septembre fut, pour beaucoup d&rsquo;EIG, l&rsquo;unique opportunité de se rencontrer « en vrai » et d&rsquo;être réellement en immersion dans leur administration. </p>
+
+
+
+<p><strong>Les rituels d’animation ont été adaptés à du distanciel. </strong>L’outil open source <a rel="noreferrer noopener" href="https://bulletins.eig-forever.org/#screenshots" target="_blank">Bulletins</a> s’est révélé très utile pour continuer à partager des informations. Le distanciel a également été l&rsquo;occasion d&rsquo;innover, avec notamment l’organisation d’un séminaire en visioconférence en décembre 2020. Plusieurs expertes et experts d’Etalab, de beta.gouv, de la DINUM et du SIG ont apporté leur regard sur les projets EIG en cours.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="https://pbs.twimg.com/media/EpXHFHBXIAAZq7D?format=jpg&amp;name=large" alt="Capture d'écran d'un webinaire. 14 personnes (en webcam) sourient devant leur caméra. Un écran est partagé, avec une diapositive qui indique : &quot;Accessibilité - Anne-Sophie Tranchet, beta.gouv&quot; ; &quot;Intégrer une démarche utilisateurs - Raphaël Yharrassarry, beta.gouv&quot; ; &quot;Préparer des tests utilisateurs - Kheira Belkacem et Julien Leclerc, commando UX&quot; ; &quot;Data engineering - Geoffrey Aldebert, Etalab&quot; ; &quot;Code Review - Yannick François, beta.gouv&quot; ; &quot;Ouverture et documentation - Bastien Guerry, Etalab&quot; ; &quot;Data Science - Paul-Antoine Chevalier et Pavel Soriano, Etalab&quot; et &quot;Open Data - Antonin Garrone, Etalab&quot;"/><figcaption>Capture d&rsquo;écran lors du séminaire EIG de décembre 2020 (outil utilisé : instance Big Blue Button mise en place par beta.gouv.fr). </figcaption></figure></div>
+
+
+
+<p><strong>Malgré ces obstacles, les EIG sont parvenus à obtenir des résultats en seulement quelques mois. </strong>En décembre 2020, presque tous les défis avaient déjà réalisé des premiers prototypes, et plus de la moitié avait mené des démarches d&rsquo;acculturation au numérique dans leurs administrations.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="813" height="466" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/Capture-décran-2021-02-16-à-22.36.18.png" alt="Infographie indiquant les premiers retours des EIG 4.
+
+Les équipes se sentent : émoji très content de taille moyenne, émoji content de grande taille, émoji pas content de très petite taille.
+
+Accès au matériel : 70% Ordinateurs adéquats, 80% Serveurs à disposition, 50% Logiciels nécessaires, 40% Hébergements accessibles
+
+14 Semaines 
+Accompagnement : 5 jours de bootcamp et 2 sessions
+Un collectif : entraide, pair à pair 
+
+Compréhension des usagers : 
+9 défis ont rencontrés les usagers et les ont bien compris
+3 disent les connaître par coeur 
+2 disent que leurs usagers sont en partie identifiés
+1 demande &quot;qui ?...&quot;
+
+Tests auprès des usagers
+11 ont intégrés des tests auprès des usagers à la démarche
+5 ont rencontré des difficultés pour organiser ou mobiliser des usagers
+
+15 défis ont réalisé des protoypes (8 : premières ébauches, 5 : architectures fonctionnelles, 2 : solutions déployées) dont 9 codes sources en partie développés, 3 pipelines de données, 7 interfaces et 3 basés sur le design system de l'Etat
+
+Autour des défis : 
+10 ont organisé des présentations auprès des décideurs, 9 ont fait des apports stratégiques, 9 des démarches d'acculturation, 4 ont contribué à d'autres projets, 2 ont organisé des formations internes et 1 a fait de la diffusion de documentation." class="wp-image-14975"/><figcaption>Résumé graphique des premiers résultats EIG, en décembre 2020</figcaption></figure></div>
+
+
+
+<p><strong>Rendez-vous en juin 2021 pour les résultats finaux !</strong></p>
+
+
+
+<h2 class="wp-block-heading">Rester en lien avec l&rsquo;extérieur</h2>
+
+
+
+<p>Fidèle à ses valeurs d&rsquo;ouverture et d&rsquo;apprentissage continu, le programme a continué à entretenir des liens avec des organisations hors de l&rsquo;administration. Parmi elles, <a href="https://www.latitudes.cc/" target="_blank" rel="noreferrer noopener">l&rsquo;association Latitudes</a>, avec laquelle le programme a établi un partenariat tout au long de l&rsquo;année 2020. Des membres de Latitudes ont participé aux jurys de sélection des projets et des EIG, et des bénévoles ont également prêté main forte pour la partie présélection. Des membres de l&rsquo;équipe Etalab ont par ailleurs été membre d&rsquo;un jury d&rsquo;aiguillage de projets, un des dispositifs de Latitudes. La Nuit du code citoyen, un hackathon qui s&rsquo;annonçait comme l&rsquo;un des temps forts de l&rsquo;année, a malheureusement été décalé du fait de la situation sanitaire.</p>
+
+
+
+<p>Le programme a également créé des liens forts avec l&rsquo;organisation allemande <a rel="noreferrer noopener" href="https://tech.4germany.org/" target="_blank" class="broken_link">DigitalService4German</a><a rel="noreferrer noopener" href="https://tech.4germany.org/" target="_blank" class="broken_link">y</a>, qui propose différents programmes de<em> fellowships </em>similaires  à EIG au sein du gouvernement allemand. L&rsquo;équipe du programme EIG est notamment intervenue (à distance !) lors du séminaire hors-les-murs des fellows en septembre 2020.</p>
+
+
+
+<p>Plusieurs événements ont été co-organisés avec d&rsquo;autres structures, notamment la communauté du <a href="https://www.lelaptop.com/" target="_blank" rel="noreferrer noopener">Laptop</a> qui a mobilisé des EIG designers lors d&rsquo;un <a href="https://www.lelaptop.com/evenement/webinar-le-design-dinteret-general-a-lepreuve-de-la-pandemie/" target="_blank" rel="noreferrer noopener">webinaire sur « Le Design d&rsquo;Intérêt Général à l&rsquo;épreuve de la pandémie »</a>. </p>
+
+
+
+<p>Enfin, si vous vous demandez toujours quelle est la différence entre <a rel="noreferrer noopener" href="https://www.dailymotion.com/video/x7y0lbw" target="_blank">beta.gouv.fr et EIG</a>, nos équipes y ont répondu dans le cadre du Mois de l&rsquo;innovation publique. </p>
+
+
+
+<h2 class="wp-block-heading">Suivre les promotions précédentes</h2>
+
+
+
+<p>L&rsquo;année 2020 a également été l&rsquo;occasion de se pencher sur les suites des défis EIG 3, suite à la fin de la promotion en novembre 2019. L&rsquo;équipe a organisé un <a rel="noreferrer noopener" href="https://entrepreneur-interet-general.etalab.gouv.fr/blog/2021/01/05/evenement-mip-eig3.html" target="_blank" class="broken_link">webinaire sur la pérennisation de la transformation numérique</a> qui a mobilisé trois ex-mentors de la promotion.</p>
+
+
+
+<p>Les derniers défis de la promotion Designers d&rsquo;Intérêt Général se sont également achevés. <a href="https://www.dailymotion.com/video/x7xtjdr" target="_blank" rel="noreferrer noopener">Un webinaire de restitution de quatre défis a notamment été organisé, sur le thème de l&rsquo;environnement et de la biodiversité</a>.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/12/Capture-de%CC%81cran-2020-12-11-a%CC%80-08.55.00.png" alt="Sur la majeure partie de l'écran : une capture d'écran de portail en ligne montrant la France et les mers et océans qui l'entoure. Cette capture d'écran est collée sur un fond blanc où sont inscrites des annotations qui donnent des explications sur les différents choix d'interface du portail. En bas de l'image, en beaucoup plus petit, les vignettes vidéo de 5 personnes dont une en train de parler."/><figcaption>Cécile Canel présente les maquettes qu’elle a réalisées pour la refonte des portails cartographiques du Shom. La refonte est en train d’être mise en oeuvre.</figcaption></figure></div>
+
+
+
+<p>Par ailleurs, une évaluation est actuellement en cours sur les défis EIG 3 : un an après la fin du programme, les outils produits sont-ils toujours maintenus et utilisés ? Où en sont les EIG ? Qu&rsquo;en est-il de la transformation des anciennes administrations d&rsquo;accueil ? </p>
+
+
+
+<h2 class="wp-block-heading">Pérenniser le programme</h2>
+
+
+
+<p>En 2020, une étape importante a été franchie pour le programme. Financé par le programme d&rsquo;investissement d&rsquo;avenir pendant trois ans, <strong>il dispose désormais d&rsquo;un financement en loi de finances.</strong></p>
+
+
+
+<p>Le programme occupe également une place de choix dans le rapport <a href="https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/12/rapport_-_pour_une_politique_publique_de_la_donnee_-_23.12.2020__0.pdf" target="_blank" rel="noreferrer noopener">« Pour une politique publique de la donnée, des algorithmes et des codes sources »</a> remis au Premier ministre par le député Eric Bothorel. La mission y reconnaît l&rsquo;intérêt du dispositif pour attirer des profils rares dans l&rsquo;administration.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Recommandation n°21 du rapport : Passer à l’échelle et inscrire dans la durée le programme d’entrepreneurs d’intérêt général.</p></blockquote>
+
+
+
+<h2 class="wp-block-heading">2021 : se projeter vers la promotion 5</h2>
+
+
+
+<p><strong>L&rsquo;année 2021 commence déjà sur les chapeaux de roues : </strong><a href="https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general" target="_blank" rel="noreferrer noopener">l&rsquo;appel à projets auprès des administrations</a> pour la cinquième promotion du programme est en cours jusqu&rsquo;au 7 avril. Parmi les nouveautés, la recherche de juristes du numérique parmi les profils EIG.<br>L&rsquo;appel à candidatures pour recruter les profils du numérique sera, lui, lancé dans les prochains jours.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Administrations, <a href="https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general" target="_blank" rel="noreferrer noopener">répondez à l&rsquo;appel à projets pour la promotion 5</a>.</p><cite>Pour être au courant de l&rsquo;actualité du programme, <a href="https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio" target="_blank" rel="noreferrer noopener" class="broken_link">inscrivez-vous à notre liste de diffusion</a> et <a href="https://twitter.com/eigforever" target="_blank" rel="noreferrer noopener">suivez-nous sur Twitter</a>.</cite></blockquote>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

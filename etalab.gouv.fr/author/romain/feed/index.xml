@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Romain Tales &#8211; Etalab</title>
+	<atom:link href="/author/romain/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Wed, 02 Jun 2021 12:01:59 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Romain Tales &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rétrospective d&#8217;Etalab 2020 #4/6 : Les API au service de la simplification des démarches en ligne</title>
+		<link>/les-api-au-service-de-la-simplification-des-demarches-en-ligne</link>
+		
+		<dc:creator><![CDATA[Romain Tales]]></dc:creator>
+		<pubDate>Wed, 17 Feb 2021 16:18:40 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14961</guid>
+
+					<description><![CDATA[Le département Etalab au sein de la DINUM porte depuis 10 ans la politique d&#8217;ouverture des données publiques de la France (politique d&#8217;open data). Construire un cadre légal pérenne, mettre à disposition des outils, accompagner les administrations et les communautés de réutilisateurs dans l&#8217;ouverture et l&#8217;exploitation des données&#8230;autant d&#8217;actions qu&#8217;Etalab a initiées et continue de &#8230;<p class="read-more"> <a class="" href="/les-api-au-service-de-la-simplification-des-demarches-en-ligne"> <span class="screen-reader-text">Rétrospective d&#8217;Etalab 2020 #4/6 : Les API au service de la simplification des démarches en ligne</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Le département Etalab au sein de la DINUM porte depuis 10 ans la politique d&rsquo;ouverture des données publiques de la France (politique d&rsquo;open data). Construire un cadre légal pérenne, mettre à disposition des outils, accompagner les administrations et les communautés de réutilisateurs dans l&rsquo;ouverture et l&rsquo;exploitation des données&#8230;autant d&rsquo;actions qu&rsquo;Etalab a initiées et continue de mettre en oeuvre au service de l&rsquo;intérêt général.</p>
+
+
+
+<p>Nous avons souvent été confrontés aux limites de l&rsquo;open data avec notamment les données protégées par des secrets légaux et contenant des informations à caractère personnel. Cette limite n&rsquo;est pas une fin en soit mais plutôt le début d&rsquo;un nouveau cycle portant sur la circulation de la donnée entre administrations habilitées.</p>
+
+
+
+<p>Compte tenu des difficultés exprimées par les producteurs de données mais aussi par les administrations en charge de les exploiter dans le cadre de leur mission de service public, la DINUM a développé une expertise sur le développement des échanges de données entre administrations notamment à travers la mise en place d&rsquo;outils (catalogues, bouquets d&rsquo;API, gestion des habilitations) et d&rsquo;un accompagnement juridique et technique au plus près des besoins exprimés par les administrations.</p>
+
+
+
+<p>Dans cet article de blog, nous revenons sur les premiers résultats de cette nouvelle offre de service que nous continuerons de développer afin de simplifier la vie des citoyens et des administrations au service de l&rsquo;intérêt général.</p>
+
+
+
+<figure class="wp-block-embed-dailymotion wp-block-embed is-type-video is-provider-dailymotion wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Dites-le-nous une fois : la DINUM vous accompagne dans la mise en œuvre" frameborder="0" width="1091" height="613" src="https://www.dailymotion.com/embed/video/x7x5gkj" allowfullscreen allow="autoplay"></iframe>
+</div></figure>
+
+
+
+<h2 class="wp-block-heading">L&rsquo;offre du catalogue <a href="http://api.gouv.fr/">api.gouv.fr</a> augmente avec 36 nouvelles API</h2>
+
+
+
+<p><a href="http://api.gouv.fr/">API.gouv.fr</a> est un catalogue permettant de mettre en avant les API ouvertes ou sous habilitation proposées par les administrations publiques.</p>
+
+
+
+<p>Le nombre d&rsquo;API référencées a presque doublé en passant de quarante API en Janvier 2020, à 76 API en Janvier 2021 (+90%).</p>
+
+
+
+<p>A noter, parmi ces nouvelles API référencées :</p>
+
+
+
+<ul><li>25 nouvelles API en open data, grâce à la dynamique insufflée par nos collègues de <a href="http://data.gouv.fr/">data.gouv.fr</a></li><li>11 nouvelles API en accès restreint, sous habilitation</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1390" height="636" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/chartapi.png" alt="" class="wp-image-14965"/></figure>
+
+
+
+<p>Pour plus de détails, <a href="https://api.gouv.fr/statistiques" target="_blank" rel="noreferrer noopener">retrouvez toutes les statistiques sur notre page</a>. </p>
+
+
+
+<p>Aujourd&rsquo;hui, près de 20 000 visiteurs mensuels découvrent des API et des ressources mises à disposition gratuitement par le gouvernement.</p>
+
+
+
+<h2 class="wp-block-heading">Des collaborations réussies avec des fournisseurs de données</h2>
+
+
+
+<p>Une partie de notre mission est d&rsquo;accompagner des fournisseurs de données dans la mise à disposition par API de leurs données.</p>
+
+
+
+<p>Nous vous proposons un zoom sur notre collaboration avec la Direction Générale des Finances Publiques (DGFiP), administration avec laquelle nous avons collaboré étroitement tout au long de cette année 2020 sur le sujet des API.</p>
+
+
+
+<p>La DGFiP propose désormais trois API au catalogue <a href="http://api.gouv.fr/">api.gouv.fr</a> :</p>
+
+
+
+<ul><li>l&rsquo;API Impôt Particulier ;</li><li>l&rsquo;API Recherche de Personne Physique ;</li><li>l&rsquo;API Fichier des Comptes Bancaires et Assimilés.</li></ul>
+
+
+
+<p>Pour chacune de ces API, la DGFiP utilise DataPass : l&rsquo;outil de gestion des habilitations de la DINUM, conçu avec le pôle juridique d&rsquo;Etalab.</p>
+
+
+
+<p>2020 est aussi l&rsquo;année du début d&rsquo;industrialisation des demandes d&rsquo;habilitation à l&rsquo;API Impôt Particulier, une API donnant accès au revenu fiscal de référence d&rsquo;un citoyen. Deux exemples de démarches pour lesquelles disposer de cette donnée est crucial pour en simplifier le fonctionnement :</p>
+
+
+
+<ul><li>la vérification de l&rsquo;éligibilité au Livret d&rsquo;Epargne Populaire (LEP). Pour qu&rsquo;un citoyen puisse y accéder, il doit justifier d&rsquo;un revenu fiscal inférieur à un certain seuil : cette obligation bancaire devient vérifiable par API</li><li>la délivrance de titres de stationnement résidentiel (projet <a href="http://etatplateforme.modernisation.gouv.fr/actualite/calcul-du-quotient-familial-lyon-passe-a-la-vitesse-superieure-avec-franceconnect" target="_blank" rel="noreferrer noopener" class="broken_link">PALYMA</a>). Paris Lyon Marseille délivrent tous les mois des milliers de cartes de stationnement, l&rsquo;enjeu est d&rsquo;automatiser ce dispositif en récupérant par API le revenu fiscal d&rsquo;un français après de la DGFiP ainsi que des informations sur le véhicule auprès de l&rsquo;Agence Nationale des Titres Sécurisés (ANTS). Ce projet va être élargi à 5 nouvelles collectivités dans le cadre du <a href="https://www.modernisation.gouv.fr/transformation-publique/comites-interministeriels-de-la-transformation-publique/article-citp" target="_blank" rel="noreferrer noopener" class="broken_link">5ème Comité interministériel de la transformation publique (CITP)</a>.</li></ul>
+
+
+
+<p>Pour couronner cette belle année, la DGFiP a participé à un webinaire de mise en avant de ses données dans le cadre du mois de l&rsquo;innovation publique, en compagnie de la ville de Clamart et d&rsquo;Up (éditeur de logiciel équipant des Centres Communaux d&rsquo;Action Sociale (CCAS)). <a href="https://www.dailymotion.com/video/x7xsjgz" target="_blank" rel="noreferrer noopener">La rediffusion est disponible par ici</a>.</p>
+
+
+
+<h2 class="wp-block-heading">Des challenges autour de la délivrance d&rsquo;accès aux API restreintes</h2>
+
+
+
+<p>Pour les API à accès restreint qui véhiculent des données sensibles, il est essentiel de vérifier le cadre juridique avant de permettre aux données de circuler.</p>
+
+
+
+<ul><li>Qui souhaite accéder aux données ?</li><li>Quel est le cas d&rsquo;usage ?</li><li>Sur la base de quel cadre légal et sur quel périmètre de données ?</li></ul>
+
+
+
+<p>Notre enjeu au sein de l&rsquo;équipe API est que ces questions de conventionnement soient le plus efficaces possibles, et puissent notamment se faire de façon dématérialisée.</p>
+
+
+
+<p>C&rsquo;est la raison d&rsquo;être du produit DataPass : l&rsquo;outil de gestion des habilitations juridiques pour les données à accès restreint. Cet outil est mis à disposition des fournisseurs de données, pour faciliter le passage à l&rsquo;échelle dans la délivrance de Token.</p>
+
+
+
+<p><a href="https://datapass.api.gouv.fr/stats" target="_blank" rel="noreferrer noopener">Consulter les statistiques</a>.</p>
+
+
+
+<p>L&rsquo;outil est aujourd&rsquo;hui notamment utilisé par :</p>
+
+
+
+<ul><li>FranceConnect avec 540 demandes validées en 2020</li><li>API Entreprise avec 231 demandes validées en 2020</li><li>API Particulier avec 103 demandes validées en 2020</li></ul>
+
+
+
+<h2 class="wp-block-heading">Des cas d&rsquo;usages qui changent la vie des Français</h2>
+
+
+
+<h3 class="wp-block-heading">Industrialiser la demande d’aide aux entreprises dans le cadre de la crise COVID-19</h3>
+
+
+
+<p>Suite à la crise du COVID, un fond de solidarité à destination des entreprises a été lancé. En quelques mois, près de 5,4 millions de dossiers ont pu être traités en un temps record. L&rsquo;utilisation des données de l&rsquo;<a rel="noreferrer noopener" href="http://entreprise.api.gouv.fr/" target="_blank">API Entreprise</a> a été un élément clef de ce succès.</p>
+
+
+
+<p>Sans l&rsquo;API, une entreprise remplissant un dossier devait saisir toutes ses informations et un agent devait les vérifier à la main. Avec l&rsquo;API, les données sont pré-remplies et l&rsquo;agent reçoit des données certifiées à la source : le temps de traitement est divisé par 5.</p>
+
+
+
+<p>Cela a permis de verser <strong>8,6 milliards d&rsquo;euros d&rsquo;aide à près de 1,8 millions d&rsquo;entreprises bénéficiaires.</strong></p>
+
+
+
+<h3 class="wp-block-heading">Faciliter la tarification scolaire grâce au quotient familial dématérialisé dans les communes françaises</h3>
+
+
+
+<p>Chaque année, des milliers de familles doivent se rendre en mairie pour calculer le tarif des activités scolaires et péri-scolaires de leurs enfants (cantine, crèche, activités sportives etc.). Au cœur du calcul : le quotient familial, dont la famille doit apporter la preuve sous format papier. C&rsquo;est une démarche administrative pénible pour tous, agents et familles, que les API ont la capacité de simplifier !</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="2664" height="1154" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/02/tarificationscolaire.png" alt="" class="wp-image-14966"/></figure>
+
+
+
+<p>Aujourd&rsquo;hui, des villes innovantes comme Clamart, Nantes, Boulogne-Billancourt ont mis en place un parcours simplifié :</p>
+
+
+
+<ul><li>Quand 5000 dossiers prenaient auparavant 4 mois au guichet à plusieurs agents, ils sont désormais automatiques (les familles ne se déplacent plus) et le temps de traitement a été divisé par trois.</li><li>85% des familles passent par ce système dématérialisé, le guichet de la mairie reste ouvert pour accompagner ceux qui en ont besoin</li></ul>
+
+
+
+<h2 class="wp-block-heading">Les perspectives 2021</h2>
+
+
+
+<p>Comme vous avez pu le constater dans cet article de blog, plusieurs démarches en ligne sont devenues plus simples pour l&rsquo;usager à la suite de la mise en place des échanges de données. Nous souhaitons aller plus loin et généraliser le partage de données entre administrations au bénéfice de l&rsquo;usager, pour simplifier les démarches administratives. Cela implique de développer les connecteurs nécessaires (interfaces de partage de données, API) entre les systèmes d&rsquo;information des administrations.</p>
+
+
+
+<p>Nous souhaitons ainsi engager un changement de paradigme pour que l&rsquo;échange de données entre administrations devienne la règle et non plus l&rsquo;exception, en garantissant la protection des données personnelles afin de tendre vers un service public proactif vis à vis des citoyens et exploiter tout le potentiel des données pour simplifier la vie des usagers et des administrations.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bilan de l&#8217;appel à idée dans le cadre du mois de l&#8217;innovation publique</title>
+		<link>/bilan-de-lappel-a-idee-dans-le-cadre-du-mois-de-linnovation-publique</link>
+		
+		<dc:creator><![CDATA[Romain Tales]]></dc:creator>
+		<pubDate>Tue, 19 Jan 2021 14:18:11 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[données]]></category>
+		<category><![CDATA[opendata]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14792</guid>
+
+					<description><![CDATA[Etalab a pour mission historique d&#8217;accompagner les administrations dans l&#8217;ouverture des données publiques. Aujourd&#8217;hui, cette ouverture facilite la circulation des données et contribue ainsi à la simplification des démarches administratives des citoyens et des entreprises. Dans le cadre du mois de l&#8217;innovation publique, nous avons souhaité recueillir les demandes d&#8217;accès aux données publiques (ouvertes ou &#8230;<p class="read-more"> <a class="" href="/bilan-de-lappel-a-idee-dans-le-cadre-du-mois-de-linnovation-publique"> <span class="screen-reader-text">Bilan de l&#8217;appel à idée dans le cadre du mois de l&#8217;innovation publique</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-left">Etalab a pour mission historique d&rsquo;accompagner les administrations dans l&rsquo;ouverture des données publiques. Aujourd&rsquo;hui, cette ouverture facilite la circulation des données et contribue ainsi à la simplification des démarches administratives des citoyens et des entreprises.</p>
+
+
+
+<p class="has-text-align-left">Dans le cadre du mois de l&rsquo;innovation publique, nous avons souhaité recueillir les demandes d&rsquo;accès aux données publiques (ouvertes ou en accès restreint) et les idées de services à developper à travers ces données.</p>
+
+
+
+<p class="has-text-align-left">Porté par l&rsquo;équipe API d&rsquo;Etalab de la DINUM, l&rsquo;appel à idée avait vocation à nous permettre d&rsquo;identifier des données susceptibles de simplifier des démarches en ligne à destination des usagers ou d&rsquo;optimiser la mise en œuvre des politiques publiques à travers l&rsquo;exploitation des données sous forme de fichiers bruts ou d&rsquo;API.</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://api.gouv.fr/lp/mois-innovation">Lien vers la page de l&rsquo;appel à idées</a> sur <a href="http://api.gouv.fr/">API.gouv.fr</a></p>
+
+
+
+<h2 class="wp-block-heading">Un bon niveau de participation à l&rsquo;appel à idée</h2>
+
+
+
+<p>Nous nous étions fixé un objectif de 50 réponses. Avec 57 formulaires soumis en 1 mois, cet appel à idée est un succès par le volume de contributions.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1186" height="732" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/01/Untitled.png" alt="" class="wp-image-14795"/></figure>
+
+
+
+<h3 class="wp-block-heading">Les données récoltées dans le cadre du formulaire</h3>
+
+
+
+<p>La liste des données récoltées dans le cadre de l&rsquo;appel à idées est la suivante:</p>
+
+
+
+<ul><li>Date de soumission</li><li>Type d&rsquo;acteur : particulier / entreprise / association / administration / collectivité territoriale</li><li>Description de l&rsquo;idée de service : texte libre</li><li>Données publiques nécessaires : texte libre</li><li>Volonté de recevoir la synthèse : oui / non</li><li>Mail → données anonymisées non-transmises</li></ul>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://framaforms.org/quelles-donnees-publiques-revez-vous-davoir-appel-a-idees-1602761927" class="broken_link">Lien vers le questionnaire</a></p>
+
+
+
+<h3 class="wp-block-heading">Accéder aux données brutes anonymisées des résultats</h3>
+
+
+
+<p>Nous rendons l&rsquo;ensemble des contributions anonymisées disponibles en open data. Venez découvrir l’ensemble des réponses au 10 décembre 2020.</p>
+
+
+
+<p><a href="https://www.data.gouv.fr/fr/datasets/contributions-anonymisees-appel-a-idees-sur-la-mise-a-disposition-de-donnees-publiques-ouvertes-ou-en-acces-restreint/">Contributions anonymisées &#8211; Appel à idées sur la mise à disposition de données publiques (ouvertes ou en accès restreint) &#8211; data.gouv.fr</a></p>
+
+
+
+<h2 class="wp-block-heading">Quelques analyses</h2>
+
+
+
+<h3 class="wp-block-heading">Les particuliers et les collectivités territoriales fortement mobilisés</h3>
+
+
+
+<p>Au regard des contributions effectuées dans le cadre de l&rsquo;appel à idées, il apparaît que de nombreuses collectivités semblent concernées par le sujet des API (21 contributions sur 62 au total) avec notamment une forte implication de la Métropole du Grand Lyon avec 10 contributions.</p>
+
+
+
+<p>Par ailleurs, de nombreux particuliers se sont impliqués dans le cadre de cet appel à idée montrant l&rsquo;importance du sujet des données et des API pour la société civile.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1504" height="766" src="https://www.etalab.gouv.fr/wp-content/uploads/2021/01/Untitled-1.png" alt="" class="wp-image-14796"/></figure>
+
+
+
+<h3 class="wp-block-heading">Les thématiques abordées sont très diverses</h3>
+
+
+
+<ul><li>Mer : 9</li><li>Urbanisme : 9</li><li>Environnement : 6</li><li>Administration &amp; Finances Publiques 4</li><li>Emploi &amp; formation : 3</li><li>Geographie : 3</li><li>Santé, social et solidarité : 3</li><li>Territoire : 3</li><li>Transport : 3</li><li>Agriculture &amp; alimentation : 2</li><li>Logement : 2</li><li>Demographie : 1</li><li>Énergie / Logement : 1</li><li>Infrastructure &amp; Énergie : 1</li><li>Linguistique : 1</li><li>Sport : 1</li><li>Non-attribué : 4</li></ul>
+
+
+
+<h3 class="wp-block-heading">Comment nous travaillons les soumissions</h3>
+
+
+
+<p>Nous avons établi 4 points de sortie possibles :</p>
+
+
+
+<ul><li>16 soumissions concernent des données déjà disponibles : les données sont déjà entièrement ou partiellement disponibles, Etalab apportera de la visibilité sur les jeux de données concernés.</li><li>14 soumissions concernent des données à ouvrir en open data : les données ne sont pas accessibles librement alors même que le cadre légal le prévoit. Etalab prendra donc l&rsquo;attache des producteurs de données concernés afin de travailler à la mise à disposition en open data.</li><li>6 soumissions concernent des données à ouvrir en accès restreint : les données doivent être référencées mais par leur caractère sensible elles sont couvertes par le secret et ne seront disponibles qu&rsquo;en accès restreint à des acteurs dûment habilités.</li><li>21 soumissions doivent faire l&rsquo;objet d&rsquo;investigations : une recherche approfondie est nécessaire pour bien comprendre où est la donnée et ce qu&rsquo;il est envisageable d&rsquo;ouvrir en open data.</li></ul>
+
+
+
+<h2 class="wp-block-heading">L&rsquo;appel à idée, et après ?</h2>
+
+
+
+<p>Les différentes équipes vont revenir directement vers les participants à l&rsquo;appel à idées au 1er trimestre 2021. Nous contacterons un maximum de fournisseurs de données et avanceront dans la publication des données en open data ou en accès restreint.</p>
+
+
+
+<p>Les nouvelles données publiées seront mises en avant dans le cadre du suivi des sorties <a href="https://www.data.gouv.fr/fr/posts/suivi-des-sorties-novembre-2020-1/">https://www.data.gouv.fr/fr/posts/suivi-des-sorties-novembre-2020-1/</a>, publication mensuelle sur <a href="http://data.gouv.fr/">data.gouv.fr</a>. Quant aux nouvelles API ouvertes ou en accès restreint, elles seront référencées sur <a href="http://api.gouv.Fr/">api.gouv</a>.fr et feront l&rsquo;objet d&rsquo;une mise en avant dans une publication dédiée.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>La communauté des administrateurs ministériels des données se mobilise pour accélérer la mise en œuvre de la politique des données</title>
+		<link>/la-communaute-des-administrateurs-ministeriels-des-donnees-se-mobilise-pour-accelerer-la-mise-en-oeuvre-de-la-politique-des-donnees</link>
+		
+		<dc:creator><![CDATA[Romain Tales]]></dc:creator>
+		<pubDate>Fri, 19 Apr 2019 14:24:26 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=10320</guid>
+
+					<description><![CDATA[Le 27 mars 2019, la mission Etalab a réuni la communauté des administrateurs ministériels des données au Lab 110 bis pour une journée d’échanges et de travail. Qui sont les administrateurs ministériels des données (AMD) ? Nommés dans quelques ministères ou administrations pionnières, les administrateurs ministériels des données coordonnent les actions de leur organisation en &#8230;<p class="read-more"> <a class="" href="/la-communaute-des-administrateurs-ministeriels-des-donnees-se-mobilise-pour-accelerer-la-mise-en-oeuvre-de-la-politique-des-donnees"> <span class="screen-reader-text">La communauté des administrateurs ministériels des données se mobilise pour accélérer la mise en œuvre de la politique des données</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Le 27 mars 2019, la mission Etalab a réuni la communauté des administrateurs ministériels des données au <a href="https://www.education.gouv.fr/110bislab/cid130754/presentation-du-110-bis-lab-d-innovation-de-l-education-nationale.html#Informations_generales">Lab 110 bis</a> pour une journée d’échanges et de travail.</p>
+
+
+
+<h3 class="wp-block-heading">Qui sont les administrateurs ministériels des données (AMD) ?</h3>
+
+
+
+<p>Nommés dans quelques ministères ou administrations pionnières, les administrateurs ministériels des données coordonnent les actions de leur organisation en matière d’inventaire, de gouvernance, de production, de circulation et d’exploitation des données.</p>
+
+
+
+<p>Etalab accompagne la mise en place de ce réseau encore en développement. Nous partageons les axes stratégiques d’une politique de la donnée, animons la communauté, partageons les projets et expériences, mettons à disposition des outils et méthodes et accompagnons des expérimentations, notamment via les programmes <a href="https://entrepreneur-interet-general.etalab.gouv.fr/">Entrepreneurs d’Intérêt Général </a>et l’<a href="https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia">appel à manifestation d’intérêt sur l’intelligence artificielle</a>.</p>
+
+
+
+<p>Le séminaire s’est structuré en deux séquences complémentaires :</p>
+
+
+
+<ul><li>Le matin : une<strong> table ronde</strong> pour inspirer et explorer le rôle et les fonctions de “Chief Data Officer” au sein de différentes structures (publiques et privées);</li><li>L’après-midi : deux <strong>sessions d’ateliers participatifs</strong> pour aider les AMD à élaborer et/ou mettre en oeuvre une politique de la donnée au sein de leurs administrations.</li></ul>
+
+
+
+<h3 class="wp-block-heading">Table ronde : le rôle et les fonctions du Chief Data Officer (CDO)</h3>
+
+
+
+<p>Après une introduction de la journée par <strong>Marie-Anne Lévêque</strong>, secrétaire générale du ministère de l’Education nationale et de l’Enseignement supérieur, et <strong>Laure Lucchesi,</strong> Directrice d’Etalab, la matinée a été consacrée au rôle et aux missions de Chief Data Officer, sous la forme d’une table ronde.</p>
+
+
+
+<p><em>Quelles sont les missions d’un CDO ? Avec qui est-il en relation, au sein de son organisation et à l’extérieur ? De quelles compétences doit-il s’entourer ? </em></p>
+
+
+
+<p>Pour répondre à ces questions, nous avons invité trois Chief<strong> Data Officers (CDO) travaillant dans les secteurs public et privé :</strong></p>
+
+
+
+<ul><li>Nathalie Vernus Prost, Chief Data Officer de la Métropole Grand Lyon</li><li>Renaud Lacroix, Chief Data Officer de la Banque de France</li><li>Stéphanie Leplus, Chief Data Officer de Le Bon Coin</li></ul>
+
+
+
+<p>Animée par Simon Chignard, conseiller à Etalab, la table ronde a été l’occasion d’échanger autour des <strong>missions d’un CDO, de son périmètre d’action, de ses interactions, de ses réalisations mais également des obstacles qu’il rencontre au quotidien.</strong></p>
+
+
+
+<p><em>Comment devient-on CDO ?</em> Les trois témoins ont en commun d’avoir été nommés chief data officer par la voie de la promotion interne, que le poste préexiste ou qu’il soit nouvellement créé. La connaissance fine des équipes en place et des problématiques propres à l’organisation a été présentée comme un atout pour mener à bien les missions du CDO, en particulier quand il s’agit d’une création de poste.</p>
+
+
+
+<p><em>Comment la fonction est-elle positionnée dans l’organisation ?</em> Les positionnements varient significativement d’une organisation à l’autre, selon le niveau hiérarchique, l’autonomie de la fonction ou le rattachement à d’autres directions et notamment la direction des systèmes d’information.</p>
+
+
+
+<p><em>Quelles sont les missions du CDO ?</em> La table ronde a permis de mettre en lumière une grande diversité de postures : certains mettent l’accent sur l’animation d’un réseau interne (rôle de chef d’orchestre) ou sur le pilotage de ressources (analystes data, data scientists, …) mises à disposition de tiers. D’autres enfin représentent leur organisation vis-à-vis de l’extérieur (écosystèmes locaux, institutions nationales et internationales). Un point commun, cependant : l’importance de la dimension RH, tant au niveau du recrutement (attirer les talents) mais aussi de la formation interne des équipes (développer une culture de la donnée).</p>
+
+
+
+<p>Ces regards croisés ont contribué à orienter le cadre stratégique des AMD, à questionner les approches jusqu’ici adoptées et à fournir des éléments d’éclairage aux discussions de l’après-midi. L’intérêt de faire vivre une communauté plus large de CDO, ouverte à des Chief Data Officers de l’administration et du secteur privé a également émergé.</p>
+
+
+
+<h3 class="wp-block-heading">Retour sur les ateliers</h3>
+
+
+
+<p>Quatre ateliers ont été menés :</p>
+
+
+
+<h4 class="wp-block-heading">Atelier A : La place de l’administrateur ministériel des données dans l’organisation</h4>
+
+
+
+<p>Le rattachement d’un AMD diffère d’un ministère à l’autre, ce qui oriente ses missions, ses contraintes et/ou opportunités et ses interactions avec leurs différents services. A partir des retours d’expériences, plusieurs positionnements ont été identifiés : au sein du Secrétariat général, du Service statistique ministériel, d’une Direction des systèmes d’information ou d’une Direction du numérique.  Les participants ont également identifié les différents acteurs qui gravitent autour de la fonction d’administrateur ministériel des données. Ces acteurs peuvent être issus du ministère de l’AMD, de services interministériels ou encore de l’extérieur de l’administration.</p>
+
+
+
+<h4 class="wp-block-heading">Atelier B : L’administrateur ministériel des données au service de politiques publiques menées par la donnée</h4>
+
+
+
+<p>Les données peuvent aider à concevoir et mettre en oeuvre <em>autrement</em> les politiques publiques de l’Etat. L’atelier a débuté sur la restitution du défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/datajust.html" class="broken_link">DataJust</a>. Ce défi d’Entrepreneurs d’Intérêt Général a pour objectif d’analyser les données de la jurisprudence administrative et judiciaire sur l’indemnisation des préjudices corporels. A partir de l&rsquo;exploitation de ces données, un référentiel fiable de l&rsquo;indemnisation des préjudices corporels sera proposé à l’ensemble des parties prenantes, améliorant ainsi la mise en oeuvre de cette politique publique.</p>
+
+
+
+<p>Les participants se sont ensuite interrogés sur la notion de “politiques publiques fondées sur la donnée” en partageant leurs expériences respectives. Ces témoignages ont permis de dresser une première typologie : l’usage des données pour aider la décision publique et opérationnelle, pour légitimer une décision de politique publique, pour réguler et apporter de la transparence ou encore pour créer une infrastructure de données.</p>
+
+
+
+<h4 class="wp-block-heading">Atelier C : Les compétences de et autour de l’administrateur ministériel des données</h4>
+
+
+
+<p>Les administrateurs ministériels des données ont été nommés pro-activement dans certains ministères. En fonction de leur parcours et de leurs expériences, ils mobilisent différentes compétences pour mener à bien leurs projets.</p>
+
+
+
+<p>Bien que le profil et les compétences varient d’un AMD à l’autre, l’atelier a permis d’identifier quatre compétences clés : une connaissance du cadre juridique, des systèmes d’information, des données produites, des problématiques métiers.</p>
+
+
+
+<p>Afin de mener à bien leurs missions, les AMD peuvent solliciter :</p>
+
+
+
+<ul><li><strong>Des ressources en interne</strong> : les directions des systèmes d’information, les agents publics en charge de la production et de la gestion des données, les directions des affaires juridiques (connaissance de la loi pour une République numérique, contact avec le délégué à la protection des données)</li><li><strong>Des ressources en interministériel </strong>: plusieurs programmes pilotés par la DINSIC, comme <a href="https://entrepreneur-interet-general.etalab.gouv.fr/">Entrepreneurs d’Intérêt Général</a>, les <a href="https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia">appels à projets Intelligence Artificielle</a>, les <a href="https://beta.gouv.fr/startups/">startups d&rsquo;État,</a> permettent d’accélérer des projets de valorisation et d’exploitation des données. L’expertise d’Etalab en matière de données (production, ouverture, montée en qualité, circulation, exploitation) est également mobilisable.</li></ul>
+
+
+
+<h4 class="wp-block-heading">Atelier D : Le service public de la donnée</h4>
+
+
+
+<p>Comme le mentionne <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf">le rapport de l’Administrateur général des données (AGD)</a>, certaines données publiques constituent une infrastructure essentielle. C’est l’objet du service public de la donnée, qui a pour mission d’assurer la mise à disposition et la publication des données de référence. A ce jour, 9 bases de données sont reconnues par la loi comme des données de référence : <a href="https://www.data.gouv.fr/fr/reference">https://www.data.gouv.fr/fr/reference</a>.</p>
+
+
+
+<p>Les ministères jouent un rôle essentiel dans la mise en œuvre de ce service public de la donnée, à la fois comme producteurs de certaines données de référence (en propre ou via des opérateurs) et comme utilisateurs des données de référence produites par d’autres administrations.</p>
+
+
+
+<p>L’atelier a été l’occasion de revenir sur le cadre légal du service public de la donnée et de qualifier l’implication de l’administrateur ministériel des données dans la promotion des données de référence au sein des métiers.</p>
+
+
+
+<p>Une réflexion prospective a également été menée afin d’envisager un élargissement du service public de la donnée. Trois catégories de données ont été à ce stade identifiées :</p>
+
+
+
+<ul><li>Les données dont la circulation entre les administrations est indispensable mais qui n’ont pas vocation à être ouvertes en open data ;</li><li>Les données déjà publiées en open data mais dont le niveau de qualité est à ce jour insuffisant ;</li><li>Les données qui ne sont pas encore publiées en open data mais dont la publication avec un haut niveau de qualité aurait un fort impact.</li></ul>
+
+
+
+<p>La nomination proactive des administrateurs ministériels des données traduit la volonté de l’administration d’intégrer la dimension stratégique des données au cœur de la transformation de l’action publique. A travers son expertise et ses programmes, la mission Etalab accompagne la constitution de ce réseau et apporte une cohérence générale à la politique de la donnée.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hackathon #DataFin : venez exploiter tout le potentiel des données financières publiques</title>
+		<link>/hackathon-datafin-venez-exploiter-tout-le-potentiel-des-donnees-financieres-publiques</link>
+		
+		<dc:creator><![CDATA[Romain Tales]]></dc:creator>
+		<pubDate>Fri, 18 May 2018 16:43:46 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8355</guid>
+
+					<description><![CDATA[« La Société a le droit de demander compte à tout Agent public de son administration » (Art.15 de la Déclaration des Droits de l’Homme et du Citoyen de 1789). Le ministère de l’Action et des Comptes publics, l’Assemblée nationale et la Cour des comptes, avec le concours de la direction du Numérique et du Système d’information &#8230;<p class="read-more"> <a class="" href="/hackathon-datafin-venez-exploiter-tout-le-potentiel-des-donnees-financieres-publiques"> <span class="screen-reader-text">Hackathon #DataFin : venez exploiter tout le potentiel des données financières publiques</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: center;"><em>« La Société a le droit de demander compte à tout Agent public de son administration » (Art.15 de la Déclaration des Droits de l’Homme et du Citoyen de 1789).</em></p>
+<p><em>Le ministère de l’Action et des Comptes publics, l’Assemblée nationale et la Cour des comptes, avec le concours de la direction du Numérique et du Système d’information et de communication de l’État (DINSIC), organisent pour la première fois un hackathon commun consacré aux données financières publiques, les 15 et 16 juin 2018, à l’Assemblée nationale. </em></p>
+<p>Les données budgétaires et comptables et les grands équilibres des finances publiques souffrent d’un déficit de connaissance de la part du grand public, alors qu’une <strong>meilleure appropriation par les citoyens contribue à objectiver les débats sur les politiques publiques et sur leur financement</strong>.</p>
+<p>Venez participer à la valorisation des données financières publiques !</p>
+<p><strong>Quand ? </strong></p>
+<p>Les vendredi 15 et samedi 16 juin 2018</p>
+<p><strong>Où ? </strong></p>
+<p><strong>À</strong><strong> l’Assemblée nationale</strong></p>
+<p><strong>Pourquoi ?</strong></p>
+<p>Saisissez l’occasion de relever <strong>des défis qui porteront notamment sur l&rsquo;utilisation de l&rsquo;impôt, sur la mesure de l&rsquo;efficacité des politiques publiques </strong>ou encore sur l&rsquo;aide à la recherche au sein des données financières publiques.</p>
+<p><strong>Qui ?</strong></p>
+<p>Que vous soyez développeur, <em>data-scientist</em>, <em>designer,</em> chercheur, data-journaliste ou un citoyen curieux,</p>
+<p><strong><em>RETENEZ LA DATE !</em></strong></p>
+<p><strong>Données disponibles : </strong></p>
+<p>À cette occasion, la direction générale des Finances publiques publiera pour la première fois en open data les <strong>données permettant d&rsquo;établir le Compte général de l’État</strong> (CGE), c&rsquo;est à dire les données comptables par programme et par compte. Pour sa part, l’Assemblée nationale mettra également à disposition <strong>pour la première fois en open data les données relatives à l’exécution de son budget</strong> (données déjà rendues publiques sur le site internet de l’Assemblée).</p>
+<p>Ce sera aussi l’occasion de réutiliser les données déjà diffusées sur la plateforme <a href="http://www.data.gouv.fr/"><strong>www.data.gouv.fr</strong></a> comme :</p>
+<ul>
+<li>les <strong>données budgétaires et de performance</strong> (objectifs et indicateurs de résultat des politiques publiques de l’État) fournies par la direction du Budget et annexées aux lois de finances ;</li>
+<li>les <strong>amendements et les rapports de l’Assemblée sur la discussion de la loi de finances;</strong></li>
+<li>la <strong>jurisprudence des juridictions financières et les recommandations de la Cour des comptes</strong>.</li>
+</ul>
+<p>Vous pouvez d’ores et déjà <strong>consulter les </strong><a href="https://forum.etalab.gouv.fr/t/cartographie-des-donnees-disponibles-le-hackathon-hackegalitefh/3436/3"><strong>données disponibles pour le hackathon</strong></a><strong> et les premiers défis sur le site <u>datafin.fr</u>.</strong> N’hésitez pas à enrichir la liste de défis et à poser vos questions.</p>
+<p style="text-align: center;"><a href="https://secure2.assemblee-nationale.fr//visites/listeParticipants/evenement/MZFAd4X6VU"><strong><u>INSCRIVEZ-VOUS</u></strong></a></p>
+<p><strong>Fin des inscriptions et dans la limite des places disponibles : le lundi 11 juin 2018 à 12h00</strong></p>
+<p><strong><br />
+</strong><strong>Une confirmation d’inscription PAR MAIL vous sera adressée, validant votre participation </strong>(En conséquence merci d’indiquer votre adresse mail dans le formulaire d’inscription, champ « Contact »).</p>
+<p><strong> </strong><strong>Programme du Hackathon</strong></p>
+<ul>
+<li>1<sup>er</sup> jour, le vendredi 15 juin 2018 :</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>8h00 – 9h00 : accueil des participants</li>
+<li>9h00 – 10h15 : présentation du hackathon et des défis</li>
+<li>10h15 – 19h00 : constitution des équipes et travaux en groupe</li>
+<li>Clôture des portes : à 20h</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>2<sup>ème</sup> jour, le samedi 16 juin 2018 :</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>8h30 – 09h00 : accueil des participants</li>
+<li>9h – 17h : travaux de groupes</li>
+<li>17h-18h : restitutions des projets</li>
+<li>18h-19h30 : clôture et cocktail</li>
+</ul>
+</li>
+</ul>
+<p>Un buffet sera offert aux participants au cours des deux journées.[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>PIA : 11 lauréats du second appel à projets pour le « développement de l’open data au sein des territoires »</title>
+		<link>/un-second-appel-a-projets-pour-le-developpement-de-lopen-data-au-sein-des-territoires</link>
+		
+		<dc:creator><![CDATA[Romain Tales]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2017 10:23:16 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=7524</guid>
+
+					<description><![CDATA[[:fr] Le 9 juillet 2013, le Premier Ministre a mis en place un fonds pour la « transition numérique de l’Etat et la modernisation de l’action publique » dans le cadre du Programme d’Investissement d’Avenir (PIA). Après un premier volet dédié à l&#8217;open data ayant permis de financer 21 projets d&#8217;industrialisation de la mise à disposition de &#8230;<p class="read-more"> <a class="" href="/un-second-appel-a-projets-pour-le-developpement-de-lopen-data-au-sein-des-territoires"> <span class="screen-reader-text">PIA : 11 lauréats du second appel à projets pour le « développement de l’open data au sein des territoires »</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<p style="text-align: justify;">Le 9 juillet 2013, le Premier Ministre a mis en place un fonds pour la « <a href="http://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2017/02/aap-ouverture-des-donnees-open_data_vague_2_vf.pdf">transition numérique de l’Etat et la modernisation de l’action publique </a>» dans le cadre du Programme d’Investissement d’Avenir (PIA).</p>
+<p style="text-align: justify;">Après un premier volet dédié à l&rsquo;open data ayant permis de financer <a href="https://www.etalab.gouv.fr/lancement-dun-nouvel-appel-a-projets-opendata-dans-le-cadre-du-programme-dinvestissements-davenir-pia">21 projets d&rsquo;industrialisation de la mise à disposition de données publiques </a>(à hauteur de 3,03 M€, pour un budget global de 6,12 M€ en incluant les co-financements), <strong>un nouvel appel à projets a été lancé en 2017 afin de développer l’open data au sein des territoires.</strong></p>
+<p style="text-align: justify;"><strong>2 millions d’euros</strong> sont ainsi de nouveau consacrés au déploiement de nouvelles stratégies territoriales de gouvernance par/ de la donnée. Les entités porteuses de projet sont des ministères ou des territoires, épaulés par d’autres parties prenantes partenaires : autres ministères, services déconcentrés, opérateurs…. Sont également mobilisés des associations et des acteurs du secteur privé (entrepreneurs sociaux, start-up, chercheurs…).</p>
+<p style="text-align: justify;">Ce soutien s’inscrit dans le cadre de la mise en œuvre de la <a href="https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=AF36404243FFA14D7494D070994145DC.tpdila17v_1?cidTexte=JORFTEXT000033202746&amp;categorieLien=id">Loi pour une République Numérique</a>, qui introduit notamment l’obligation pour les collectivités de plus de 3 500 habitants d’ouvrir leurs données publiques (article 6 de <a href="https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=AF36404243FFA14D7494D070994145DC.tpdila17v_1?cidTexte=JORFTEXT000033202746&amp;categorieLien=id">la Loi pour une République Numérique</a>). Le nouvel appel à projets vise ainsi à permette aux territoires déjà engagés de développer de nouveaux outils et services (plateformes de données locales, intégration de nouvelles sources de données, recours au crowdsourcing, etc.).</p>
+<h3><strong><u>Les projets lauréats</u></strong></h3>
+<p>Au total, ce sont <strong>11 projets</strong> qui ont reçu un avis favorable du Comité d’experts.</p>
+<ul>
+<li><strong>DATACLIC</strong> (CGET) permettra de rendre intelligible par tous la donnée publique brute à travers plusieurs solutions techniques : UrbaClic permettra de compiler et articuler les données des permis de construire pour les restituer de manière didactique ; CartoSdaasap visera à développer une cartographie dynamique des services aux publics.</li>
+<li>Une équipe travaillera à la <strong>TRANSPARENCE DE LA COMMANDE PUBLIQUE </strong>(DGFIP en partenariat avec la Région Bretagne) et créera un flux unique des données des marchés publics. Ce projet s’inscrit dans les <a href="https://www.open-contracting.org/wp-content/uploads/2016/12/C5declaration.pdf">engagements pris par la France</a> en faveur de l’ouverture des données de la commande publique. De part une approche orientée vers les usagers, le projet ambitionne de dessiner la commande publique « as a platform ».</li>
+<li><strong>PERF ASSO</strong> (DJEPVA) œuvrera à améliorer la qualité des données sur les associations ouvertes récemment. Concevoir et expérimenter des processus permettant de collecter, consolider les données des associations, les extraire pour constater leurs imperfections, les étudier, les analyser, les parfaire… voici les objectifs de ce projet.</li>
+<li>Le<strong> projet SITE, </strong>Système d’Information Territoires d’Exception (du Ministère de la Transition Ecologique et Solidaire) vise à créer une plateforme de données autour des territoires d’exception. SITE est une plateforme qui permettra à travers une API à une communauté d’utilisateurs de visualiser, consulter et télécharger les données sur les sites et territoires d’exception et de susciter des développements à partir de ces données.</li>
+<li><strong>DB NOMICS</strong> (CEPREMAP/ France Stratégie) réalisera une plateforme libre de données économiques à l’aide des données recueillies sur les sites des instituts statistiques nationaux et internationaux. A terme, la plateforme réalisera trois objectifs : la mise en place d’une nouvelle architecture technique pour faciliter le développement de la plateforme, la création de nouvelles fonctionnalités pour la gestion du big data, et le renouveau de l’interface utilisateur pour atteindre de nouveaux publics.</li>
+<li><strong>DATALAKE ECOLOGIE</strong> (CGDD) vise à mettre en place un outil intelligence de stockage, de gestion et de diffusion de la donnée, qui soit interopérable, pour simplifier et organiser une mise à disposition cohérente des données publiques locales, produites par les services statistiques des ministères de l’écologie et du logement.</li>
+<li><strong>PIC’EAU</strong> (Département de Gironde) travaillera au développement d’API relatives aux données sur l’eau. La connaissance de l’eau et des milieux aquatiques est au centre de nombreux défis environnementaux et sociétaux (pollutions, partage de la ressource, changement climatique…). Organiser les données publiques et les diffuser pour répondre à ces défis est une mission majeure de l’Etat. Le projet PIC’EAU s’inscrit dans ce cadre, pour faciliter la diffusion et la valorisation des données sur l’eau.</li>
+<li>Rennes souhaite mettre en place le premier <strong>SERVICE PUBLIC METROPOLITAIN DE LA DONNEE</strong>. 4 axes préliminaires de travail sont définis : la collecte/ catalogage des données, le traitement de ces données (agrégation, anonymisation, analyse prédictive…), la normalisation des flux et la diffusion, et enfin la gouvernance par la donnée.</li>
+<li>Le <strong>SCOPE OCCITANIE</strong> (SGAR Occitanie) vise à être le point d’accès unique et dématérialisé pour la diffusion et l’échange des données de marché public sur la région Occitanie. Le but est d’ouvrir et de réutiliser un socle de données locales, consolidées pour stimuler leur diffusion et provoquer les échanges entre acheteurs, entreprises et citoyens.</li>
+<li>L’équipe de<strong> QUALIDATA</strong> (Toulouse Métropole) souhaite développer une plateforme de qualification de données locales. Le passage à l’échelle de l’ouverture des données opérée par la Loi pour une République Numérique présente un défi important : une plus grande quantité de données sera publiée mais la qualité sera-t-elle au rendez-vous ? Ce projet propose ainsi de créer une plateforme nationale capable de tester la qualité des données publiées au niveau local, de qualifier les sources et de permettre des exploitations cohérentes au niveau national.</li>
+<li><strong>Open Data CACL</strong> est un outil d’exploitation et de valorisation des données ouvertes de la Communauté d’Agglomération Centre Littoral de Guyane (CACL). Associé à la startup guyanaise Mobapi, spécialisée dans la collecte, la transformation et la publication de données, l’Agglomération réalisera la première plate-forme d’Open Data en Outre-Mer. Ce service en ligne, développé sur la base d’une plate-forme innovante de traitement de l’information, permettra à la CACL d’exploiter des données liées à ses différents champs de compétences et de les rendre accessibles à tous (administrés, agents, élus, partenaires et entreprises).</li>
+</ul>
+<h3><strong><u>Et après…</u></strong></h3>
+<p style="text-align: justify;">Sur la base de l’avis du comité d’experts, le comité de pilotage a sélectionné les projets susceptibles de bénéficier d’un co-financement. Suite à la décision d’attribution, les fonds seront versés par la Caisse des Dépôts à l’ensemble des porteurs de projets. Le suivi technique et l’accompagnement pratique seront assurés par Etalab en lien avec la Caisse des Dépôts qui assurera le suivi administratif et financier.</p>
+<p style="text-align: justify;">À l’issue du projet, un rapport reprenant l’ensemble des livrables sera fourni. Une revue finale permettra de présenter un bilan global du projet, sur les aspects administratifs, techniques, financiers, l’apport du projet à la modernisation de l’action publique, les nouvelles perspectives (en termes de généralisation ou d’intégration) ainsi que les éventuels autres bénéfices.</p>
+<p><a href="https://www.etalab.gouv.fr/lancement-dun-nouvel-appel-a-projets-opendata-dans-le-cadre-du-programme-dinvestissements-davenir-pia">Pour en savoir plus…</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Transparence de la commande publique : les enjeux et l&#8217;engagement de la France, du local à l&#8217;international</title>
+		<link>/la-transparence-de-la-commande-publique-se-transforme-au-service-de-lopen-data</link>
+		
+		<dc:creator><![CDATA[Romain Tales]]></dc:creator>
+		<pubDate>Wed, 07 Jun 2017 14:55:02 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[C5]]></category>
+		<category><![CDATA[commande publique]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[OGP]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[PGO]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=7064</guid>
+
+					<description><![CDATA[[:fr] 1. La transparence de la commande publique, un enjeu majeur La commande publique, véritable acte économique, constitue un levier de soutien et d’accompagnement des politiques économiques pour créer les conditions du rapprochement de l’offre et de la demande, soutenir la croissance, favoriser la compétitivité et l’emploi et stimuler l’innovation. En effet, au niveau national, &#8230;<p class="read-more"> <a class="" href="/la-transparence-de-la-commande-publique-se-transforme-au-service-de-lopen-data"> <span class="screen-reader-text">Transparence de la commande publique : les enjeux et l&#8217;engagement de la France, du local à l&#8217;international</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<h3><span style="color: #3366ff;"><em><strong>1. La transparence de la commande publique, un enjeu majeur</strong></em></span></h3>
+<p style="text-align: justify;">La commande publique, véritable acte économique, constitue un levier de soutien et d’accompagnement des politiques économiques pour créer les conditions du rapprochement de l’offre et de la demande, soutenir la croissance, favoriser la compétitivité et l’emploi et stimuler l’innovation. En effet, au niveau national, la commande publique est estimée à 15% du PIB. Si l’on se réfère au cas de la France en 2014, avec un PIB de 2 132 milliards d’euros, cela représente presque 320 milliards d’euros par an.</p>
+<p style="text-align: justify;"><strong>La transparence sur cette dépense doit encore progresser</strong> : elle est en effet autant un <strong>enjeu citoyen</strong>, témoignant de la bonne gestion des deniers publics, qu’un <strong>enjeu économique</strong>, en facilitant un juste accès des entreprises à la commande publique, et un <strong>enjeu d’efficacité de l’action publique, </strong>en permettant un pilotage efficient de cette politique par l’ensemble des responsables publics.</p>
+<h3><em><span style="color: #3366ff;"><strong>2. Des avancées du côté du cadre légal, en lien avec des standards techniques</strong></span></em></h3>
+<p style="text-align: justify;">L’ancien article 133 du code des marchés publics, qui prévoyait que l’acheteur publie la liste des marchés conclus l’année précédente, était gage de transparence quant à l’emploi des deniers publics. Toutefois, ces données n’étaient pas normées et publiées sur des supports très divers, ce qui rendait leur exploitation complexe et difficilement accessible aux citoyens.</p>
+<p style="text-align: justify;">C’est pourquoi, à l’occasion de la transposition des directives, l’article 56 de l’ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics a prévu l’obligation qui impose « au<em>x acheteurs publics de rendre public le choix de l&rsquo;offre retenue et de rendre accessible sous un format ouvert et librement réutilisable les données essentielles du marché public</em> ».</p>
+<p style="text-align: justify;">L’article 107 du décret n° 2016-360, l’article 34 du décret n°2016-86 et l’article 94 du décret n° 2016-361 prévoient ainsi que l’acheteur public doit offrir sur son profil d’acheteur un accès libre, direct et complet aux données essentielles des marchés publics, des marchés de défense ou de sécurité et des contrats de concessions, à l’exception des informations dont la divulgation serait contraire à l’ordre public.</p>
+<p style="text-align: justify;">Afin de créer un écosystème de données de la commande publique, il est apparu nécessaire de standardiser celles-ci pour faciliter leur mise à disposition dans un format exploitable et facilement réutilisable.</p>
+<p><a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000034492587&amp;categorieLien=id">L’arrêté du 14 avril 2017</a> précise la liste des données devant être publiées sur les profils d’acheteur ainsi que les modalités de leur publication à compter du 1er octobre 2018.</p>
+<p style="text-align: center;"><em><strong>L&rsquo;ouverture des données essentielles de marchés publics en infographie:</strong></em></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-7067" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/05/C-gW_LFXcAAKKZS1.jpg" alt="" width="937" height="1200" srcset="/wp-content/uploads/2017/05/C-gW_LFXcAAKKZS1.jpg 937w, /wp-content/uploads/2017/05/C-gW_LFXcAAKKZS1-234x300.jpg 234w, /wp-content/uploads/2017/05/C-gW_LFXcAAKKZS1-768x984.jpg 768w, /wp-content/uploads/2017/05/C-gW_LFXcAAKKZS1-800x1024.jpg 800w" sizes="(max-width: 937px) 100vw, 937px" /></p>
+<h3><strong><span style="color: #3366ff;">3.</span> <span style="color: #3366ff;"><em>Une communauté d’acteurs mobilisés, du local à l’international</em></span></strong></h3>
+<p style="text-align: justify;">La transparence de la commande publique constitue un enjeu majeur identifié dans le plan national pour un gouvernement ouvert. Cette thématique fait également l’objet d’échanges dans le cadre du programme de Développement concerté de l’administration numérique territoriale (DcANT), s’agissant de la recommandation n°3 relative à la préfiguration d’une commande publique simplifiée, dématérialisée et transparente, avec différents acteurs locaux.</p>
+<ul>
+<li><strong>Les collectivités territoriales, territoires d&rsquo;expérimentation impliqués dans cette démarche d&rsquo;ouverture</strong></li>
+</ul>
+<p style="text-align: justify;">La<strong> mission Etalab, la DGFIP, la DAJ ainsi que la région Bretagne</strong> souhaitent travailler conjointement à la mise en œuvre opérationnelle du cadre légal dont la mise en application est imminente. Accompagner l&rsquo;ensemble des acteurs impliqués dans la chaine de valeur de production et de diffusion des données et leur fournir les outils adaptés à leurs besoins sera un enjeu majeur. Par ailleurs, afin de s&rsquo;assurer de la mise en œuvre opérationnelle de cet ambitieux projet, l&rsquo;administration centrale va pouvoir compter sur la région Bretagne, déjà fortement engagée sur le sujet, afin de bénéficier d&rsquo;un territoire d&rsquo;expérimentation pour la production des données essentielles de la commande publique. <a href="https://www.etalab.gouv.fr/retour-sur-le-barcamp-la-commande-publique-augmentee-par-la-donnee">Un BarCamp avait déjà eu lieu à Rennes en mai 2016 </a><em>(<a href="https://forum.etalab.gouv.fr/t/restitution-des-travaux-et-productions-du-bar-camp-dedie-a-la-transparence-de-la-commande-publique/1182">voir les restitutions).</a> </em></p>
+<p style="text-align: justify;">D&rsquo;autres régions ont identifié le sujet de la transparence de la commande publique comme une enjeu majeur. La <strong>région Occitanie</strong> envisage la création d&rsquo;un observatoire régional de la commande publique, et la <strong>Bourgogne Franche Comté</strong> a déjà organisé un évènement spécifique à l&rsquo;ouverture des données de la commande publique au format des données essentielles, tel que publié dans l&rsquo;arrêté associé.</p>
+<p style="text-align: justify;">Au delà de la dimension de transparence, les différents acteurs administratifs impliqués dans cette démarche réfléchissent d&rsquo;ores et déjà aux usages potentiels pour les territoires. La <strong>mise en œuvre de politiques publiques d&rsquo;achats objectivées par la donnée</strong> permettrait notamment l&rsquo;identification des offres anormalement basses ou un meilleur accompagnement des acteurs économiques sur les différents territoires.</p>
+<ul>
+<li><strong>La transparence de la commande publique comme levier de lutte contre la corruption au niveau national et international</strong></li>
+</ul>
+<p style="text-align: justify;"><strong><a href="https://www.etalab.gouv.fr/retour-sur-le-4e-sommet-du-partenariat-pour-un-gouvernement-ouvert-pgo-a-paris-en-decembre-2016/logo-pgo-fondblanc-fr-2" rel="attachment wp-att-6939"><img loading="lazy" decoding="async" class="wp-image-6939 alignleft" src="https://www.etalab.gouv.fr/wp-content/uploads/2017/05/Logo-PGO-fondblanc-FR.png" alt="" width="351" height="120" srcset="/wp-content/uploads/2017/05/Logo-PGO-fondblanc-FR.png 1176w, /wp-content/uploads/2017/05/Logo-PGO-fondblanc-FR-300x103.png 300w, /wp-content/uploads/2017/05/Logo-PGO-fondblanc-FR-768x263.png 768w, /wp-content/uploads/2017/05/Logo-PGO-fondblanc-FR-1024x350.png 1024w" sizes="(max-width: 351px) 100vw, 351px" /></a><a href="https://github.com/etalab/plan-ogp-2015-2017/blob/master/fr/rendre-des-comptes/transparence-depense-et-comptes-publics/engagement-2.md">Intitulé « <em>Accroître la transparence de la commande publique</em> », l’engagement n°2 du Plan d’action national pour la France, </a></strong>pris dans le cadre du Partenariat pour un Gouvernement Ouvert (PGO), prévoit la mise à disposition des données des marchés publics en open data et dans un format standard. La France doit d’autant plus se montrer exemplaire dans le respect de cet engagement qu’elle a pris la présidence du PGO en octobre 2016 et qu’elle se positionne comme un acteur de référence en matière d’open data et d’open government.</p>
+<p style="text-align: justify;">La France a d&rsquo;ailleurs<a href="http://www.open-contracting.org/wp-content/uploads/2016/12/C5declaration.pdf"> officialisé en décembre 2016 son adhésion au<strong> « Contracting 5 »,</strong></a> <strong>organisation internationale regroupant cinq pays (France, Royaume Uni, Mexique, Ukraine, Colombie)</strong> afin de travailler conjointement à l&rsquo;ouverture et la mise à disposition des données relatives à la commande publique dans un standard international. L&rsquo;ouverture des données relatives aux marchés publics est un sujet mondial que de nombreux gouvernements mettent en œuvre, chacun à leur manière selon leur propre contexte. L&rsquo;initiative C5 vise à rassembler les gouvernements pour partager les connaissances et les bonnes pratiques et promouvoir ainsi la transparence de la commande publique sur la scène mondiale. Cela permet d&rsquo;améliorer l&rsquo;efficacité du gouvernement, d&rsquo;accroitre la transparence sur les marchés publics passés, de renforcer l&rsquo;intégrité, de créer une concurrence plus équitable et plus favorable pour les acteurs économiques et de favoriser l&rsquo;innovation pour l&rsquo;ensemble des acteurs impliqués. La France prendra la présidence de cette organisation en 2018 afin d&rsquo;impulser la démarche d&rsquo;ouverture et de mise à disposition des données relatives à la transparence de la commande publique.</p>
+<p style="text-align: justify;">Par ailleurs, lors du dernier sommet mondial du Partenariat pour un Gouvernement Ouvert (PGO), les pays membre de cette organisation internationale ont signé <a href="https://paris-declaration.ogpsummit.org/topic/58108b73b84f27e92318333d" class="broken_link">la déclaration de Paris,</a> qui prévoit notamment la mise en œuvre d&rsquo;actions collectives pour faire accélérer le mouvement du gouvernement ouvert et afin d’entretenir une dynamique de progrès dans les réformes et d’être une source d’inspiration pour l’écosystème du gouvernement ouvert. Les actions collectives proposées en soutien à cette déclaration établissent de nouvelles ambitions en matière de <strong>gouvernement ouvert</strong>, et contribuent à transformer durablement l’action publique à l’échelle internationale, nationale et locale en matière de : <strong>transparence</strong>, <strong>intégrité</strong> et lutte contre la corruption ; <strong>développement durable et changement climatique</strong> ; et d’outils et de ressources numériques. <a href="https://paris-declaration.ogpsummit.org/topic/58108b73b84f27e92318333d" class="broken_link">Une des actions collectives concerne l&rsquo;ouverture par défaut des données relatives à la commande publique</a> afin de permettre de lutter contre la corruption et de travailler avec des standards communs permettant de comparer les données au niveau national et international.</p>
+<ul>
+<li style="text-align: justify;"><strong>Prochaines étapes </strong></li>
+</ul>
+<p style="text-align: justify;">Le prochain grand rendez-vous international autour de la transparence de la commande publique se déroulera les 28 et 29 novembre prochain à Amsterdam et réunira les influenceurs et innovateurs d&rsquo;une douzaine de pays afin d&rsquo;identifier les prochains défis en matière d&rsquo;ouverture et de mise à disposition des données relatives à la transparence de la commande publique (<a href="http://www.open-contracting.org/events/#open-contracting-2017">plus d&rsquo;informations sur le site de l&rsquo;open contracting partnership</a>)</p>
+<p style="text-align: justify;">Cet évènement sera suivi d&rsquo;une réunion stratégique du Contracting 5 qui identifiera les prochains grands chantiers qui seront initiés par la France en qualité de pays président de l&rsquo;organisation pour l&rsquo;année 2018.</p>
+<p><span style="color: #ff0000;"><em> </em></span></p>
+<p>&nbsp;[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lancement d’un nouvel appel à projets OpenData dans le cadre du Programme d’Investissements d’Avenir (PIA)</title>
+		<link>/lancement-dun-nouvel-appel-a-projets-opendata-dans-le-cadre-du-programme-dinvestissements-davenir-pia</link>
+		
+		<dc:creator><![CDATA[Romain Tales]]></dc:creator>
+		<pubDate>Fri, 10 Mar 2017 09:46:13 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[appel à projets]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[PIA]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=6599</guid>
+
+					<description><![CDATA[[:fr]Bref retour sur le précédent appel à projets A la suite des annonces du Premier ministre du 9 juillet 2013, la loi de finances pour 2014 a institué, au titre du Programme d’investissements d’avenir (PIA), un fonds « Transition numérique de l’Etat et modernisation de l’action publique », doté alors de 126 M€ de crédits, &#8230;<p class="read-more"> <a class="" href="/lancement-dun-nouvel-appel-a-projets-opendata-dans-le-cadre-du-programme-dinvestissements-davenir-pia"> <span class="screen-reader-text">Lancement d’un nouvel appel à projets OpenData dans le cadre du Programme d’Investissements d’Avenir (PIA)</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]<strong>Bref retour sur le précédent appel à projets</strong></p>
+<p>A la suite des annonces du Premier ministre du 9 juillet 2013, la loi de finances pour 2014 a institué, au titre du Programme d’investissements d’avenir (PIA), un fonds « Transition numérique de l’Etat et modernisation de l’action publique », doté alors de 126 M€ de crédits, et porté par le <a href="http://www.gouvernement.fr/simplifier-transformer" class="broken_link">Secrétariat d’Etat à la réforme de l’Etat et à la simplification</a>, en lien avec le <a href="http://www.gouvernement.fr/investissements-d-avenir-cgi">Commissariat Général à l’Investissement</a>.</p>
+<p>Dans ce cadre, un premier appel à projets « Industrialisation de la mise à disposition des données ouvertes » (OpenData) a permis de <strong>financer 21 projets</strong>, à hauteur de <strong>3,03 M€ (pour un budget global de 6,12 M€ en incluant les co-financements)</strong>. Il s’agissait de soutenir des projets d’amorçage en laissant sa place à l’expérimentation et en assumant les risques de l’innovation.</p>
+<p>L’enjeu était pour les autorités publiques de <strong>simplifier les démarches</strong>, de <strong>rationaliser les infrastructures informatiques</strong> et d’<strong>expérimenter dans les technologies innovantes</strong>. L’appel à projets concernait en particulier la gouvernance de la donnée, les plateformes de mises à disposition des données, le design d’interfaces de programmation (API). Le projet <a href="http://fichiers.acteurspublics.com/redac/pdf/2015/juin/DP_PIA_Palmares_Appel_a_Projet_Vague1.pdf">OpenData Lab Occitanie</a>, ayant bénéficié d’un financement PIA, développe ainsi par exemple un portail OpenData pour les services déconcentrés de l’État. De même, le projet <a href="http://fichiers.acteurspublics.com/redac/pdf/2015/juin/DP_PIA_Palmares_Appel_a_Projet_Vague1.pdf">DataTourisme</a> développe une plateforme nationale permettant l’accès à l’ensemble des données touristiques produites et diffusées par un grand nombre d’acteurs communaux, départementaux, régionaux et nationaux.</p>
+<p>&nbsp;</p>
+<p><strong>Une nouvelle perspective<br />
+</strong></p>
+<p>&nbsp;</p>
+<p>Un nouvel appel à projets pour l’OpenData a été présenté le 9 mars dernier, lors d’une journée consacrée au retour d’expérience sur les actions précédemment menées dans le cadre de l’ensemble des programmes ayant bénéficié d’un financement PIA, et introduite par Monsieur Jean-Vincent Placé, Secrétaire d’Etat chargé de la réforme de l’Etat et à la simplification et Monsieur Louis SCHWEITZER, Commissaire Général à l’Investissement.</p>
+<p>Ce nouvel appel à projets, pour <strong>un total indicatif d’aides de 2 M€</strong>, sous le même intitulé de programme que le précédent – « L’industrialisation de la mise à disposition des données ouvertes » – comporte la nouveauté de s’<strong>adresser aussi aux territoires</strong> souhaitant être soutenus pour leurs démarches d’ouverture et de mise à disposition de données publiques, pour les <strong>collectivités de plus de 100 000 habitants exclusivement.</strong></p>
+<p>Ce soutien aux projets OpenData des collectivités s’inscrit dans le cadre de la mise en œuvre de la loi pour une République numérique, qui introduit notamment l<strong>’obligation d’ouverture des données publiques pour l’ensemble des collectivités de plus de 3 500 habitants</strong>. La mission Etalab collabore d’ailleurs étroitement avec l’association OpenDataFrance dans le cadre du projet OpenDataLocal sur lequel neuf territoires pilotes ont été retenus. Le nouvel appel à projets OpenData du PIA vise ainsi notamment à permette aux collectivités déjà engagées à passer un niveau en développant de nouveaux outils et services (plateformes de données locales, intégration de nouvelles sources de données, recours au crowdsourcing, etc.).</p>
+<p>Le nouvel appel à projets vise au total à faire naître des <strong>projets innovants</strong> portés par des acteurs publics, nationaux ou territoriaux, pour expérimenter et mettre en place de nouvelles stratégies de gouvernance de la donnée, de nouveaux modèles économiques fondés sur la diffusion gratuite des données, des plateformes de diffusion et de support à l’innovation, de nouveaux designs d&rsquo;interfaces de programmation (API) permettant la diffusion des données. Les projets financés sont, comme précédemment, des <strong>projets d’amorçage</strong>.</p>
+<p>Le montant total de chaque projet financé <strong>ne devra pas dépasser 500 000 euros</strong>. Le PIA propose un cofinancement à hauteur de 50% du montant du projet dans <strong>la limite de 250 000 euros</strong>, l’autre moitié restant à la charge de l’administration porteuse du projet.</p>
+<p><strong>La date limite de dépôt des appels à projet est prévue pour le 9 mai 2017</strong>, et les documents sont en ligne sur le site de consultation des investissements d’avenir de la Caisse des dépôts et consignations (la date limite de dépôts des dossiers du 20 mars 2017 figurant sur ce site va être prochainement actualisée) : <a href="https://empruntnational.achatpublic.com/sdm/ent/gen/ent_detail.do?selected=0&amp;PCSLID=CSL_2017_EVlcl5PqHD">https://empruntnational.achatpublic.com/sdm/ent/gen/ent_detail.do?selected=0&amp;PCSLID=CSL_2017_EVlcl5PqHD</a></p>
+<p>Une réunion d’information à destination de l’ensemble des porteurs de projet ainsi que la Caisse des Dépôts et le Secrétariat général pour la modernisation de l’action publique sera organisé le <strong>mardi 18 avril 2017, de 14h à 17h</strong>, au centre Pierre Mendès France à Bercy. Vous pouvez vous <a href="http://rdv.etalab.gouv.fr/e/21/reunion-dinformation-et-dechange-autour-du-programme-dinvestissement-davenir-pia-developpement-de-lopen-data-au-sein-des-territoires" class="broken_link">inscrire ici</a>.[:en]Bref retour sur le précédent appel à projets</p>
+<p>A la suite des annonces du Premier ministre du 9 juillet 2013, la loi de finances pour 2014 a institué, au titre du Programme d’investissements d’avenir (PIA), un fonds « Transition numérique de l’Etat et modernisation de l’action publique », doté alors de 126 M€ de crédits, et porté par le Secrétariat d’Etat à la réforme de l’Etat et à la simplification, en lien avec le Commissariat Général à l’Investissement.</p>
+<p>Dans ce cadre, un premier appel à projets « Industrialisation de la mise à disposition des données ouvertes » (OpenData) a permis de financer 21 projets, à hauteur de 3,03 M€ (pour un budget global de 6,12 M€ en incluant les co-financements). Il s’agissait de soutenir des projets d’amorçage en laissant sa place à l’expérimentation et en assumant les risques de l’innovation.</p>
+<p>L’enjeu était pour les autorités publiques de simplifier les démarches, de rationaliser les infrastructures informatiques et d’expérimenter dans les technologies innovantes. L’appel à projets concernait en particulier la gouvernance de la donnée, les plateformes de mises à disposition des données, le design d’interfaces de programmation (API). Le projet OpenData Lab Occitanie, ayant bénéficié d’un financement PIA, développe ainsi par exemple un portail OpenData pour les services déconcentrés de l’État. De même, le projet DataTourisme développe une plateforme nationale permettant l’accès à l’ensemble des données touristiques produites et diffusées par un grand nombre d’acteurs communaux, départementaux, régionaux et nationaux.</p>
+<p>Une nouvelle perspective</p>
+<p>Un nouvel appel à projets pour l’OpenData a été présenté le 9 mars dernier, lors d’une journée consacrée au retour d’expérience sur les actions précédemment menées dans le cadre de l’ensemble des programmes ayant bénéficié d’un financement PIA, et introduite par Monsieur Jean-Vincent Placé, Secrétaire d’Etat chargé de la réforme de l’Etat et à la simplification et Monsieur Louis SCHWEITZER, Commissaire Général à l’Investissement.</p>
+<p>Ce nouvel appel à projets, pour un total indicatif d’aides de 2 M€, sous le même intitulé de programme que le précédent – « L’industrialisation de la mise à disposition des données ouvertes » – comporte la nouveauté de s’adresser aussi aux territoires souhaitant être soutenus pour leurs démarches d’ouverture et de mise à disposition de données publiques, pour les collectivités de plus de 100 000 habitants exclusivement.</p>
+<p>Ce soutien aux projets OpenData des collectivités s’inscrit dans le cadre de la mise en œuvre de la loi pour une République numérique, qui introduit notamment l’obligation d’ouverture des données publiques pour l’ensemble des collectivités de plus de 3 500 habitants. La mission Etalab collabore d’ailleurs étroitement avec l’association OpenDataFrance dans le cadre du projet OpenDataLocal sur lequel neuf territoires pilotes ont été retenus. Le nouvel appel à projets OpenData du PIA vise ainsi notamment à permette aux collectivités déjà engagées à passer un niveau en développant de nouveaux outils et services (plateformes de données locales, intégration de nouvelles sources de données, recours au crowdsourcing, etc.).</p>
+<p>Le nouvel appel à projets vise au total à faire naître des projets innovants portés par des acteurs publics, nationaux ou territoriaux, pour expérimenter et mettre en place de nouvelles stratégies de gouvernance de la donnée, de nouveaux modèles économiques fondés sur la diffusion gratuite des données, des plateformes de diffusion et de support à l’innovation, de nouveaux designs d’interfaces de programmation (API) permettant la diffusion des données. Les projets financés sont, comme précédemment, des projets d’amorçage.</p>
+<p>Le montant total de chaque projet financé ne devra pas dépasser 500 000 euros. Le PIA propose un cofinancement à hauteur de 50% du montant du projet dans la limite de 250 000 euros, l’autre moitié restant à la charge de l’administration porteuse du projet.</p>
+<p>La date limite de dépôt des appels à projet est prévue pour le 9 mai 2017, et les documents sont en ligne sur le site de consultation des investissements d’avenir de la Caisse des dépôts et consignations (la date limite de dépôts des dossiers du 20 mars 2017 figurant sur ce site va être prochainement actualisée) : https://empruntnational.achatpublic.com/sdm/ent/gen/ent_detail.do?selected=0&#038;PCSLID=CSL_2017_EVlcl5PqHD</p>
+<p>Une réunion d’information à destination de l’ensemble des porteurs de projet ainsi que le Commissariat Général à l’Investissement, la Caisse des Dépôts et le Secrétariat général pour la modernisation de l’action publique sera organisé le jeudi 30 mars 2017, de 14h à 17h, dans un lieu qui vous sera communiqué prochainement.</p>
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Retour sur le Hackathon #Openfield16</title>
+		<link>/retour-sur-le-hackathon-openfield16</link>
+		
+		<dc:creator><![CDATA[Romain Tales]]></dc:creator>
+		<pubDate>Fri, 23 Dec 2016 15:39:30 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=6186</guid>
+
+					<description><![CDATA[[:fr] Soucieux de valoriser l’intérêt de ses données publiques, le ministère de la Ville, de la Jeunesse et des Sports organisait les 8 et 9 octobre 2016, en partenariat avec Etalab et NUMA, le hackathon #Openfield16. Ce concours d’innovation numérique était dédié à l’exploitation des données constituant l’écosystème du sport et des politiques sportives de &#8230;<p class="read-more"> <a class="" href="/retour-sur-le-hackathon-openfield16"> <span class="screen-reader-text">Retour sur le Hackathon #Openfield16</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]</p>
+<div class="crayon article-chapo-17796 ">
+<p>Soucieux de valoriser l’intérêt de ses données publiques, le ministère de la Ville, de la Jeunesse et des Sports organisait les 8 et 9 octobre 2016, en partenariat avec Etalab et NUMA, le hackathon #Openfield16.</p>
+<p>Ce concours d’innovation numérique était dédié à l’exploitation des données constituant l’écosystème du sport et des politiques sportives de l’Etat.</p>
+</div>
+<div class="crayon article-texte-17796 texte">
+<p>Pendant 2 jours, entrepreneurs, développeurs, designers, spécialistes des données et amoureux du sport se sont réunis pour imaginer en équipe des applications numériques innovantes pour la pratique sportive et les acteurs du sport.</p>
+<p>Pour l’occasion, la direction des sports à libéré 15 jeux de données et un logiciel d’optimisation de déplacements désormais téléchargeables par tous sur <a class="spip_out" href="http://www.data.gouv.fr/fr/datasets/?sort=-created&amp;organization=534fff95a3a7292c64a77fd8" rel="external">data.gouv.fr</a>, la Plateforme ouverte des données publiques françaises.</p>
+<p>Les participants étaient invités à challenger <strong>5 grands défis</strong> portés par la direction des sports :</p>
+<ul class="spip">
+<li>Défi n°1 : <a class="spip_in" href="http://www.sports.gouv.fr/IMG/pdf/openfield16_defi1.pdf" type="application/pdf">faciliter la pratique sportive pour le plus grand nombre</a></li>
+<li>Défi n°2 : <a class="spip_in" href="http://www.sports.gouv.fr/IMG/pdf/openfield16_defi2.pdf" type="application/pdf">maintenir le rang de la France parmi les grandes nations sportives</a></li>
+<li>Défi n°3 : <a class="spip_in" href="http://www.sports.gouv.fr/IMG/pdf/openfield16_defi3.pdf" type="application/pdf">contribuer à la lutte contre les comportements contraires aux valeurs du sport</a></li>
+<li>Défi n°4 : <a class="spip_in" href="http://www.sports.gouv.fr/IMG/pdf/openfield16_defi4.pdf" type="application/pdf">promouvoir et développer l’emploi sportif</a></li>
+<li>Défi n°5 : <a class="spip_in" href="http://www.sports.gouv.fr/IMG/pdf/openfield16_defi5.pdf" type="application/pdf">Intégrer le développement durable dans le sport</a></li>
+</ul>
+<p><strong>Schéma d’organisation du Hackathon #Openfield16</strong></p>
+<p><img decoding="async" src="http://www.sports.gouv.fr/IMG/jpg/imageorgopenfield16.jpg" alt="ImageOrOpenfield16" /><br />
+<strong>6 projets</strong> ont finalement vu le jour, et <strong>3 équipes </strong> ont été primées :</p>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td><img loading="lazy" decoding="async" class="alignleft" src="http://www.sports.gouv.fr/IMG/jpg/imagecityspot.jpg" alt="ImageCitySpot" width="595" height="335" /></td>
+<td><strong><big>1er prix : projet CitySpot</big></strong><big> </big><br />
+Plateforme d’optimisation de l’utilisation des installations sportives pour la pratique individuelle à destination des collectivité locales.<i>Equipe projet : Dounia Fergane, Ramith Benedict, Mehdi Maizate et Pirathaab Sritharan</i></td>
+</tr>
+<tr>
+<td><img loading="lazy" decoding="async" src="http://www.sports.gouv.fr/IMG/jpg/imageplayerz.jpg" alt="ImagePlayerz" width="598" height="370" /></td>
+<td><strong><big>2ème prix : projet Playerz</big></strong><big> </big><br />
+Plateforme communautaire à destination des supporters de football leur permettant de suivre et de commenter en direct les performances des équipes amateurs lors de rencontres locales.<i>Equipe projet : Sabine Caizergues et Ceulain Bansimba</i></td>
+</tr>
+<tr>
+<td><img loading="lazy" decoding="async" src="http://www.sports.gouv.fr/IMG/jpg/imagedlaballe.jpg" alt="ImageDlaballe" width="594" height="379" /></td>
+<td><strong><big>3ème prix : projet D’la Balle</big></strong><br />
+Plateforme communautaire qui permet de trouver une installation sportive, un club en prenant appui sur les recommandations des pratiquantsMock up sur <a class="spip_out broken_link" href="https://projects.invisionapp.com/share/PT8VSLED3#/screens" rel="external">https://projects.invisionapp.com/</a><i>Equipe projet : Gaëtan Guironnet, Simohamed Khabir, Gael Levavasseur et Cyril Zhao </i></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Les membres du jury :</strong></p>
+<ul class="spip">
+<li>Pascal Mossé, Membre du CA de l’ANDES &#8211; maire adjoint chargé des sports de la commun de de Viroflay (78)</li>
+<li>Sarah Ourahmoune, Sportive de haut-niveau</li>
+<li>Benjamin Carlier, Responsable du Tremplin, incubateur de startups dédiées au sport</li>
+<li>Jean-Baptiste Roger, CEO de La Fonderie, agence publique numérique d’Île-de-France</li>
+<li>Jean-Louis Frechin, Designer et architecte, spécialisé dans le design numérique et l’innovation</li>
+</ul>
+<p><strong> Vidéo des présentations des 6 projets devant le jury #openfield16</strong></p>
+<p><a href="http://www.dailymotion.com/video/x5481ys_openfield16_tech"><img decoding="async" src="http://www.sports.gouv.fr/IMG/jpg/imagevideoopenfield.jpg" alt="Vidéo présentation projets openfield16" /></a></p>
+<p><strong>Les données métiers mises à disposition :</strong></p>
+<ul class="spip">
+<li>Recensement des licences et clubs auprès des fédérations sportives</li>
+<li>Recensement des équipements sportifs, espaces et sites de pratiques</li>
+</ul>
+<ul class="spip">
+<li>Base des diplômés des métiers du sport 2015</li>
+<li>Base des Conseillers Techniques Sportifs</li>
+<li>Athlètes inscrits sur la liste des sportifs de haut niveau en 2015</li>
+<li>Médailles des sportifs français aux Jeux Olympiques et paralympiques de 2012 et de 2014</li>
+<li>Subventions Equipements sportifs allouées en 2015 dans le cadre de la DETR</li>
+<li>Subventions allouées en 2015 par le Centre National pour le Développement du Sport (CNDS)</li>
+<li>« Optimouv » : logiciel d’optimisation des déplacements dans l’organisation des rencontres sportives</li>
+<li>Référentiel d’indicateurs pour auto-évaluer l’éco-responsabilité d’événements sportifs</li>
+<li>Facteurs d’émissions d’équipements de sport</li>
+<li>Opération balle jaune de la FFT &#8211; Liste des structures bénéficiaires au 1er septembre 2016</li>
+<li>Liste des médicaments et des substances dopantes &#8211; AFLD</li>
+<li>Sentiers de randonnées d’Ile de France de la FFRandonnée</li>
+<li>Données de l’Observatoire des comportements de la FFF</li>
+<li>Emploi d’avenir et CUI &#8211; CAE dans les domaines du sport et de l’animation /Dares</li>
+</ul>
+<p><strong>En savoir plus :</strong></p>
+<ul class="spip">
+<li>Site de la société Numa : <a class="spip_url spip_out" href="https://paris.numa.co/" rel="nofollow external">https://paris.numa.co/</a></li>
+<li><a class="spip_in" href="http://www.sports.gouv.fr/IMG/pdf/arrete_jsv_2016_openfield16.pdf" type="application/pdf">Arrêté portant création et règlement du concours openfield16</a></li>
+</ul>
+</div>
+<p>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Le ministère de la Ville, de la Jeunesse et des Sports s&#8217;associe à Etalab et au NUMA dans le cadre du hackathon #openfield16 autour des données sportives[:]</title>
+		<link>/le-ministere-de-la-ville-de-la-jeunesse-et-des-sports-sassocie-a-etalab-et-au-numa-dans-le-cadre-du-hackathon-openfield16-autour-des-donnees-sportives</link>
+		
+		<dc:creator><![CDATA[Romain Tales]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2016 16:15:51 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=5425</guid>
+
+					<description><![CDATA[[:fr]Le ministère de la ville, de la jeunesse et des sports fête cette année les 10 ans de l’ouverture du site grand public du Recensement des Équipements Sportifs (RES) ! Soucieux de valoriser l’intérêt de ses données publiques, le ministère de la Ville, de la Jeunesse et des Sports organisera en partenariat avec Etalab et NUMA &#8230;<p class="read-more"> <a class="" href="/le-ministere-de-la-ville-de-la-jeunesse-et-des-sports-sassocie-a-etalab-et-au-numa-dans-le-cadre-du-hackathon-openfield16-autour-des-donnees-sportives"> <span class="screen-reader-text">[:fr]Le ministère de la Ville, de la Jeunesse et des Sports s&#8217;associe à Etalab et au NUMA dans le cadre du hackathon #openfield16 autour des données sportives[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]Le ministère de la ville, de la jeunesse et des sports fête cette année les 10 ans de l’ouverture du site grand public du <a href="http://www.res.sports.gouv.fr/">Recensement des Équipements Sportifs</a> (RES) !</p>
+<p>Soucieux de valoriser l’intérêt de ses données publiques, le ministère de la Ville, de la Jeunesse et des Sports organisera en partenariat avec Etalab et NUMA le hackathon #Openfield16. Ce hackathon sera dédié à l’exploitation des données constituant l’écosystème du sport et des politiques sportives de l’État. L’ensemble des données publiques de la direction des sports, dont celles du <a href="https://www.data.gouv.fr/fr/datasets/recensement-des-equipements-sportifs-espaces-et-sites-de-pratiques/">RES</a> notamment, sera mis à disposition des participants. Les données d’autres contributeurs seront également disponibles pour l’occasion.</p>
+<p>L’objectif de l’évènement sera d’imaginer des produits numériques innovants grâce au croisement des données publiques relatives au sport en France. Ces solutions pourront intéresser divers publics tel que l’État, les collectivités territoriales, les fédérations sportives mais aussi le grand public.</p>
+<p>Ainsi, entrepreneurs, développeurs, designers, spécialistes des données, amoureux du sport se réuniront les 7, 8 et 9 octobre 2016, dans les locaux de la direction des sports du ministère de la Ville, de la Jeunesse et des Sports d’abord, puis dans ceux de la société NUMA ensuite, autour d’une idée commune : offrir des solutions numériques innovantes aux sportifs et acteurs du sport dans le but d’améliorer les pratiques ainsi que leurs conditions.</p>
+<p>Au terme de ce hackathon, 3 équipes lauréates se verront remettre une dotation financière et seront invitées à valoriser leur projet durant le mardigital du 18 octobre 2016 organisé à Paris.</p>
+<p><strong>Les 5 défis</strong></p>
+<ul>
+<li><a href="https://forum.etalab.gouv.fr/t/defi-1-faciliter-la-pratique-sportive-pour-le-plus-grand-nombre/2832">La pratique sportive pour tous</a></li>
+<li><a href="https://forum.etalab.gouv.fr/t/defi-2-maintenir-le-rang-de-la-france-parmi-les-grandes-nations-sportives/2833" target="_blank">La France toujours parmi les meilleurs</a></li>
+<li><a href="https://forum.etalab.gouv.fr/t/defi-3-contribuer-a-la-lutte-contre-les-comportements-contraires-aux-valeurs-du-sport/2834" target="_blank">Le sport comme vecteur de valeurs sociales</a></li>
+<li><a href="https://forum.etalab.gouv.fr/t/defi-4-promouvoir-et-developper-lemploi-sportif/2835" target="_blank">L’emploi au cœur du sport</a></li>
+<li><a href="https://forum.etalab.gouv.fr/t/defi-5-sensibiliser-au-developpement-durable-dans-le-sport/2836" target="_blank">Le sport et l’environnement </a></li>
+</ul>
+<p><strong>Les données mises à disposition exclusivement pour le hackathon :<br />
+</strong></p>
+<ul>
+<li>Liste des athlètes inscrits sur la liste des sportifs de haut niveau en 2015</li>
+<li>Liste des médailles obtenues par des sportifs français aux Jeux Olympiques et paralympiques de 2012 et de 2014</li>
+<li>Base anonymisée de l’ensemble des éducateurs sportifs d’Ile-de-France bénéficiant d’une carte professionnelle en cours de validité</li>
+<li>Base des incidents comportementaux individuels survenus lors de la saison 2015-2016 et relevés par l’observatoire des comportements de la fédération française de football</li>
+<li>Base de signalements de problèmes 2013-2016 relevés par les pratiquants des sports de nature via le site<a href="http://sentinelles.sportsdenature.fr/"> http://sentinelles.sportsdenature.fr/</a></li>
+<li>Itinéraires de randonnée pédestre en Ile-de-France de la Fédération Française de Randonnée Pédestre</li>
+<li>Optimouv, logiciel d’optimisation des déplacements dans l’organisation des rencontres sportives</li>
+<li>Effectifs départementaux des créations d’établissements dans le domaine du sport par trimestre de 2005 à 2014 (REE/Sirene)</li>
+</ul>
+<p><strong>Les données disponibles en open data sur <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a> :<br />
+</strong></p>
+<ul>
+<li><a href="https://www.data.gouv.fr/fr/datasets/recensement-des-equipements-sportifs-espaces-et-sites-de-pratiques/">Recensement des équipements sportifs, espaces et sites de pratiques – 2016</a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/recensement-des-licences-et-clubs-aupres-des-federations-sportives-agreees-par-le-ministere-charge-d/" class="broken_link">Recensement des licences et clubs auprès des fédérations sportives – 2013</a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/relations-geographiques-distantes-des-licences-2013-des-federations-sportives-a-leur-club/">Relations géographiques distantes des licences 2013 des fédérations sportives à leur club</a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/recensement-des-equipements-sportifs-espaces-et-sites-de-pratiques/">Subventions 2015 du Centre National de Développement du Sport (CNDS)</a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/subventions-equipements-sportifs-allouees-en-2015-dans-le-cadre-de-la-dotation-dequipement-des-territoires-ruraux-detr/">Subventions « Équipements sportifs » allouées en 2015 dans le cadre de la Dotation d&rsquo;Équipement des Territoires Ruraux (DETR) 2015</a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/suivi-du-contrat-dobjectifs-des-federations-sportives-et-groupements-nationaux/" class="broken_link">Suivi des contrats d&rsquo;objectifs des fédérations sportives et groupements nationaux</a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/referentiel-dindicateurs-pour-auto-evaluer-leco-responsabilite-devenements-sportifs/">Référentiel d&rsquo;indicateurs pour auto-évaluer l&rsquo;éco-responsabilité d&rsquo;événements sportifs</a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/facteurs-demissions-dequipements-de-sport/">Facteurs d&rsquo;émissions d&rsquo;équipements de sport</a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/emploi-davenir-et-cui-cae-dans-les-domaines-du-sport-et-de-lanimation/">Emploi d’avenir et CUI &#8211; CAE dans les domaines du sport et de l’animation 2013 – 2015</a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/base-des-conseillers-techniques-sportifs/">Base anonymisée de l&rsquo;ensemble des missions exercées par les conseillers techniques sportifs (CTS) en 2015 auprès des fédérations sportives</a></li>
+<li><a href="https://www.data.gouv.fr/fr/datasets/base-des-diplomes-des-metiers-du-sport-2015/">Base anonymisée des individus ayant obtenu un diplôme ouvrant droit à exercer un des métiers du sport en 2015</a></li>
+</ul>
+<p>Pour plus de détails, nous vous invitons à découvrir le <a href="https://forum.etalab.gouv.fr/t/programme-du-hackathon/2891" target="_blank">programme de l&rsquo;évènement</a> ainsi que <a href="https://forum.etalab.gouv.fr/c/agenda/hackathon-openfield16-7-9-oct-2016" target="_blank">le détail des différents défis</a> sur le forum Etalab.</p>
+<p>Une catégorie dédiée a été créée sur la plateforme <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a> afin de centraliser l&rsquo;ensemble des données susceptibles d&rsquo;alimenter les réflexions des participants.</p>
+<p>Enfin, n&rsquo;oubliez pas de vous inscrire <a href="https://rdv.etalab.gouv.fr/e/6/hackathon-openfield16" class="broken_link">ici</a> à l&rsquo;évènement, dont le nombre de places est limité.[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Le service d&#8217;information du Gouvernement (SIG) met à disposition les audiences quotidiennes des principaux sites web gouvernementaux[:]</title>
+		<link>/le-service-dinformation-du-gouvernement-sig-met-a-disposition-les-audiences-quotidiennes-des-principaux-sites-web-gouvernementaux</link>
+		
+		<dc:creator><![CDATA[Romain Tales]]></dc:creator>
+		<pubDate>Thu, 28 Jul 2016 10:12:17 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[gouvernement]]></category>
+		<category><![CDATA[open data]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=5202</guid>
+
+					<description><![CDATA[[:fr]La France a été désignée par les Nations Unies en 2014 comme le pays le plus avancé en Europe et le 4eme dans le monde en matière d&#8217; « e-gouvernement ». Fort de ce constat, la France s&#8217;est engagée à travers son plan d&#8217;action national dans le cadre du Partenariat pour un Gouvernement Ouvert à &#8230;<p class="read-more"> <a class="" href="/le-service-dinformation-du-gouvernement-sig-met-a-disposition-les-audiences-quotidiennes-des-principaux-sites-web-gouvernementaux"> <span class="screen-reader-text">[:fr]Le service d&#8217;information du Gouvernement (SIG) met à disposition les audiences quotidiennes des principaux sites web gouvernementaux[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p>[:fr]La France a été désignée par les Nations Unies en 2014 comme le pays le plus avancé en Europe et le 4eme dans le monde en matière d&rsquo; « e-gouvernement ».</p>
+<p>Fort de ce constat, la France s&rsquo;est engagée à travers son plan d&rsquo;action national dans le cadre du Partenariat pour un Gouvernement Ouvert à mieux interagir avec l&rsquo;usager et améliorer les services publics grâce à l&rsquo;administration numérique (engagement numéro 18).</p>
+<p>Cet engagement se traduit par le renforcement de la mesure de satisfaction des services publics numériques et la transparence des données, la prise en compte des retours des usagers ainsi que l&rsquo;association des parties prenantes à la conception et à l&rsquo;évolution des services.</p>
+<p>Dans ce contexte, le SIG publie ce jour les audiences quotidiennes des principaux sites web gouvernementaux sur la plateforme data.gouv.fr dans un format ouvert.</p>
+<p>Pour chaque site web, les statistiques d&rsquo;audience sont fournies quotidiennement:</p>
+<ul>
+<li>de visites, de visiteurs, nombre de pages vues, temps passé sur le site, taux de rebond (visite d&rsquo;une seule page) pour &lsquo;ensemble du site (TOTAL)</li>
+<li>mêmes indicateurs pour les 50 pages les plus consultées dans la journée (URL de la page indiquée, voir ci-dessous)</li>
+<li>mêmes indicateurs pour les 50 sites référents (REFERRER)</li>
+<li>mêmes indicateurs en fonction du type de source (SOURCE)</li>
+<li>mêmes indicateurs en fonction du support utilisé pour consulter le site (SUPPORT)</li>
+</ul>
+<p>Les URL ne sont disponibles globalement que depuis le printemps 2016, pour les données antérieures elle est remplacée par « UNAVAILABLE » si absente.</p>
+<p>Pour plus d&rsquo;informations cliquez <a href="http://www.siglab.fr/fr/opendata-du-gouvernementfr-les-donnees-daudience-du-web-gouvernemental-la-disposition-des-citoyens" class="broken_link">ici</a></p>
+<div data-udata-dataset-id="578e7bb9c751df316ffa6070"></div>
+<p><script id="udata" src="https://www.data.gouv.fr/static/widgets.js" async="" defer="defer"></script>[:]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

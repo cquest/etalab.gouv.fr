@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dataconnexions &#8211; Etalab</title>
+	<atom:link href="/category/dataconnexions/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Wed, 05 Apr 2017 13:49:19 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Dataconnexions &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[:fr]Dataconnexions 6: Le palmarès [:]</title>
+		<link>/dataconnexions-6-decouvrez-les-laureats</link>
+		
+		<dc:creator><![CDATA[Paula Forteza]]></dc:creator>
+		<pubDate>Wed, 03 Feb 2016 17:31:07 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Dataconnexions]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[opendata]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4289</guid>
+
+					<description><![CDATA[[:fr]La Cérémonie de clôture de Dataconnexions 6, organisée mardi 2 février à l&#8217;Hôtel de la Métropole de Toulouse, a permis aux finalistes , de présenter leurs projets de réutilisation des données publiques (supports visuels disponibles ici) devant les membres du jury.  A l&#8217;issue de cette matinée, le Jury s&#8217;est réuni pour délibérer et a sélectionné &#8230;<p class="read-more"> <a class="" href="/dataconnexions-6-decouvrez-les-laureats"> <span class="screen-reader-text">[:fr]Dataconnexions 6: Le palmarès [:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]La Cérémonie de clôture de Dataconnexions 6, organisée mardi 2 février à l&rsquo;Hôtel de la Métropole de Toulouse, a permis aux <a href="https://www.etalab.gouv.fr/decouvrez-les-finalistes-du-concours-dataconnexions-6">finalistes</a> , <strong>de présenter leurs projets de réutilisation des données publiques </strong>(supports visuels disponibles<strong> <a href="http://fr.slideshare.net/Etalab/crmonie-dataconnexions-6-mardi-2-fvrier-2016-57839016">ici</a>) </strong>devant <a href="https://www.etalab.gouv.fr/decouvrez-le-jury-dataconnexions-6">les membres du jury. </a> A l&rsquo;issue de cette matinée, le Jury s&rsquo;est réuni pour délibérer et a sélectionné un palmarès de 4 lauréats pour cette 6ème édition:</p>
+<p>&nbsp;</p>
+<p><strong>Impact démocratique</strong></p>
+<p><em> Projets destinés à renforcer la transparence et la participation dans une logique de co-production pour un gouvernement ouvert.</em></p>
+<ul>
+<li>« <strong><a href="https://www.data.gouv.fr/fr/reuses/juriscommente/">Juris’commenté</a> </strong>», par Elsa Fabre et Grégory Combes</li>
+</ul>
+<p>Juris’commenté est une plateforme collaborative qui rend une partie du droit accessible à tous, la jurisprudence, en enrichissant collectivement l&rsquo;analyse des décisions de justice. La participation d&rsquo;une large communauté́ de professionnels du droit permet de générer de l&rsquo;intelligence collective. La synergie et la richesse des différents points de vue ont pour effet de créer un contenu réutilisable et en amélioration constante. La lecture est accessible à tous mais, pour plus d&rsquo;efficacité́, la majeure partie de la participation est réservée aux professionnels du droit.</p>
+<p><strong>Impact social et environnemental</strong></p>
+<p><em>Projets qui contribuent à la résolution de problématiques sociales (éducation, santé, emploi, pauvreté, exclusion) – ou environnementales.</em></p>
+<ul>
+<li>« <strong><a href="https://www.data.gouv.fr/fr/reuses/benevole-at-home-org/">BenevoleAtHome.org</a></strong> », par Gregory Molter</li>
+</ul>
+<p>1 enfant sur 5 est considéré comme pauvre selon l’Unicef, et près de 8 millions de Français sont considérés comme pauvres selon l’Insee. « Benevole at Home » propose un service de cartographie anonyme, mettant en relation directement les citoyens solidaires aux personnes les plus démunies. Avec pour priorité le bien-être et la protection des enfants. Cette carte a également pour vocation de servir aux Associations humanitaires ayant besoin de bénévoles sur certaines missions locales.</p>
+<p><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-4297" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/02/IMG_0758-1-300x200.jpg" alt="IMG_0758" width="300" height="200" srcset="/wp-content/uploads/2016/02/IMG_0758-1-300x200.jpg 300w, /wp-content/uploads/2016/02/IMG_0758-1-768x512.jpg 768w, /wp-content/uploads/2016/02/IMG_0758-1.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />                  <img decoding="async" class="alignnone size-medium wp-image-4293" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/02/IMG_0816-300x200.jpg" alt="IMG_0816" width="300" height="200" srcset="/wp-content/uploads/2016/02/IMG_0816-300x200.jpg 300w, /wp-content/uploads/2016/02/IMG_0816-768x512.jpg 768w, /wp-content/uploads/2016/02/IMG_0816.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><strong>Impact économique et scientifique</strong></p>
+<p><em>Projets créateurs de valeur économique ou scientifique à travers des nouveaux produits ou services qui visent le grand publique, le monde professionnel ou la recherche.</em></p>
+<ul>
+<li>«<strong> <a href="https://www.data.gouv.fr/fr/reuses/pakku-io-lopen-data-geolocalise-pour-tous/">Pakku.io</a> </strong>», par Pakku</li>
+</ul>
+<p>Basé sur un algorithme, Pakku génère des jeux de données géographiques dans divers formats, basés sur les bases de données OpenStreetMap et sous licence ODbL 1.0. Ainsi, il est possible de créer des sets comme « Bars en Ain », « Aéroports en Loire-Atlantique » en quelques secondes, dans les formats les plus utilisés (xml, json, geojson, bientôt shp &#8230;). Ces sets sont ensuite classés et distribués sur Pakku.io, via une interface simple d’utilisation. Chaque set dispose d’un aperçu et est bien documenté, pour que l’utilisateur sache immédiatement si les données sont intéressantes pour lui ou non. En un mot, Pakku est là pour encourager l’utilisation de l’open-data en vous simplifiant la vie.</p>
+<p><strong>Impact administratif et territorial</strong></p>
+<p><em> Projets qui renforcent l’efficacité, la visibilité et la mise en réseau des administrations, des collectivités et des communautés territoriales.</em></p>
+<ul>
+<li>« <strong><a href="https://www.data.gouv.fr/fr/reuses/cityzen-map/">CityZenMap</a></strong> », par Frédéric Oliveau</li>
+</ul>
+<p>CiTyZeN Map, est une application gratuite web/mobile d’animation territoriale qui permet aux collectivités locales de communiquer et d’échanger facilement avec les citoyens autour des projets d’aménagement (Immobilier, infrastructures, aménagement, etc.). CiTyZeN Map recense et géolocalise les projets d’aménagement et d’équipements, issus des appels d&rsquo;offres publics, et créé automatiquement et gratuitement une page dédiée pour chaque projet. La collectivité locale peut aussi créer des projets ou évènements de son choix.</p>
+<p>Des entreprises et organisations ont décidé d&rsquo;accompagner les lauréats en leurs apportant des soutiens concrets pour l&rsquo;année 2016. Il s&rsquo;agit de Makina Corpus, La Mêlée, Orange, Ambition Toulouse Métropole, Digital Place, Le groupe La Poste et SFR.</p>
+<p><img decoding="async" class="alignnone size-medium wp-image-4294" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/02/IMG_0875-300x200.jpg" alt="IMG_0875" width="300" height="200" srcset="/wp-content/uploads/2016/02/IMG_0875-300x200.jpg 300w, /wp-content/uploads/2016/02/IMG_0875-768x512.jpg 768w, /wp-content/uploads/2016/02/IMG_0875.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />           <img loading="lazy" decoding="async" class="alignnone size-medium wp-image-4299" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/02/IMG_0831-300x159.jpg" alt="IMG_0831" width="300" height="159" srcset="/wp-content/uploads/2016/02/IMG_0831-300x159.jpg 300w, /wp-content/uploads/2016/02/IMG_0831-768x406.jpg 768w, /wp-content/uploads/2016/02/IMG_0831.jpg 880w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Au-delà des catégories du concours, le jury a eu un <strong>coup de coeur</strong> pour un projet menée par une « intrapreneuse » de l&rsquo;administration:</p>
+<ul>
+<li>« <strong><a href="https://www.data.gouv.fr/fr/reuses/rdvpasseport-fr/" class="broken_link">Rdv.Passeport.fr</a></strong> », par Laetitia Henry</li>
+</ul>
+<p>Rdvpasseport.fr est le premier moteur de recherche de rendez-vous en ligne pour les demandes de passeport. La demande de passeport biométrique peut se faire dans n’importe quelle mairie dotée d’un dispositif de recueil d’empreintes. Rdvpasseport.fr recense tous les rendez-vous des communes d&rsquo;Ile de France et de Rhône-Alpes proposant des rendez-vous par internet. Afin de voir quels sont les créneaux disponibles le plus proche de chez soi, il suffit de lancer une recherche en délimitant la zone géographique souhaitée. Attention, le moteur de recherche ne recense que les villes rendant la prise de rendez-vous en ligne accessible, pour les autres il faudra les contacter directement.</p>
+<ul>
+<li>Par ailleurs, Toulouse Métropole a décerné son propre prix au projet <a href="https://www.data.gouv.fr/fr/reuses/openbikes/" class="broken_link">OpenBikes </a>développé par de jeunes étudiants toulousains.</li>
+</ul>
+<p>Ponctuée de ces remises de prix, l&rsquo;après-midi a également été l&rsquo;occasion de partager, autour de table-rondes et de <a href="https://www.etalab.gouv.fr/ceremonie-de-remise-des-prix-dataconnexions-6-reservez-votre-place">panels</a>, des points de vue sur l&rsquo;open data territorial, l&rsquo;open data youth camp, la donnée dans le sport, et l&rsquo;impact de l&rsquo;open data. La cérémonie a aussi été l&rsquo;occasion de rendre hommage aux  lauréats des dernières éditions du concours à travers une <a href="http://www.dailymotion.com/video/x3q8ity_dataconnexions-une-retrospective_tech">vidéo rétrospective</a>.</p>
+<p>Mme Clotilde Valter, Secrétaire d&rsquo;Etat en charge de la Réforme de l&rsquo;Etat et de la Simplification auprès du Premier ministre, était présente pour prendre la parole en clôture de cet événement et rencontrer les candidats et lauréats.</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-4304" src="https://www.etalab.gouv.fr/wp-content/uploads/2016/02/CaOX4XHXEAEIBXq.jpg-large.jpg" alt="CaOX4XHXEAEIBXq.jpg large" width="1024" height="768" srcset="/wp-content/uploads/2016/02/CaOX4XHXEAEIBXq.jpg-large.jpg 1024w, /wp-content/uploads/2016/02/CaOX4XHXEAEIBXq.jpg-large-300x225.jpg 300w, /wp-content/uploads/2016/02/CaOX4XHXEAEIBXq.jpg-large-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Découvrez les finalistes du concours Dataconnexions #6[:]</title>
+		<link>/decouvrez-les-finalistes-du-concours-dataconnexions-6</link>
+		
+		<dc:creator><![CDATA[Paula Forteza]]></dc:creator>
+		<pubDate>Wed, 06 Jan 2016 17:46:50 +0000</pubDate>
+				<category><![CDATA[Dataconnexions]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=4185</guid>
+
+					<description><![CDATA[[:fr]Au terme de trois mois de compétition (le 5 janvier à 12h), 49 projets se sont portés candidats à Dataconnexions, dont cette 6e édition est placée sous le thème de l’open data en action. Comme l’an dernier, le public a contribué à départager les candidatures, à travers les 1680 votes sur la plateforme data.gouv. Merci &#8230;<p class="read-more"> <a class="" href="/decouvrez-les-finalistes-du-concours-dataconnexions-6"> <span class="screen-reader-text">[:fr]Découvrez les finalistes du concours Dataconnexions #6[:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]Au terme de trois mois de compétition (le 5 janvier à 12h), <strong>49 projets se sont portés candidats à Dataconnexions, </strong>dont cette 6e édition est placée sous le thème de<strong><strong> <a href="https://www.etalab.gouv.fr/dataconnexions-6-lopen-data-en-action">l’open data en action</a></strong>. </strong></p>
+<p>Comme l’an dernier, le public a contribué à départager les candidatures, à travers les <strong>1680</strong> <strong>votes</strong> sur la plateforme <a href="http://www.data.gouv.fr/">data.gouv</a>. Merci aux votants, et <strong>félicitations à tous les candidats pour la qualité et la diversité des projets présentés, qui témoignent du dynamisme de l&rsquo;écosystème de l&rsquo;open data français.</strong></p>
+<p>Le 20% des projets ayant recueilli le plus grand nombre de votes par catégorie ont été sélectionnés comme finalistes du concours, quatre projets ont été repêchés. <strong>Voici donc la liste des 14 projets finalistes :</strong></p>
+<p><strong>Dans la catégorie impact démocratique</strong> :<br />
+<em>Projets destinés à renforcer la transparence et la participation dans une logique de co-production pour un gouvernement ouvert.</em><br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/evaluation-et-visualisation-dun-projet-de-decret-sur-laffichage-publicitaire/">Évaluation et visualisation d&rsquo;un projet de décret sur l&rsquo;affichage publicitaire</a> », par Paul Desgranges<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/juriscommente/">Juris’commenté </a>», par Elsa Fabre et Grégory Combes</p>
+<p><strong>Dans la catégorie impact social et environnemental</strong> :<br />
+<em>Projets qui contribuent à la résolution de problématiques sociales (éducation, santé, emploi, pauvreté, exclusion) – ou environnementales.</em><br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/frimake/" class="broken_link">Frimake</a> », par Alae Elhayyate<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/open-climat/" class="broken_link">Open Climat</a> », par Christophe Pacheco<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/openbikes/" class="broken_link">OpenBikes</a> », par OpenBikes<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/qui-dit-miam/">Qui dit miam!</a> », par Absolom Design<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/benevole-at-home-org/">BenevoleAtHome.org</a> », par Gregory Molter</p>
+<p><strong>Dans la catégorie impact économique et scientifique</strong> :<br />
+<em>Projets créateurs de valeur économique ou scientifique à travers des nouveaux produits ou services qui visent le grand public, le monde professionnel ou la recherche.</em><br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/nextalert-transport-public/">Next-Alert</a> », par Edith Nuss<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/pakku-io-lopen-data-geolocalise-pour-tous/">Pakku.io</a> », par Pakku<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/observatoire-des-prix-des-carburants/">Observatoire des prix des carburants</a> », par Emmanuel Frot<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/openlevelup/">Open Level Up</a> », par Adrien Pavie</p>
+<p><strong>Dans la catégorie impact administratif et territoria</strong>l :<br />
+<em>Projets qui renforceront l’efficacité, la visibilité et la mise en réseau des administrations, des collectivités et des communautés territoriales.</em><br />
+&#8211; « r<a href="https://www.data.gouv.fr/fr/reuses/rdvpasseport-fr/" class="broken_link">dvpasseport.fr</a> », par Laetitia Henry<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/cityzen-map/">CityZenMap</a> », par Frédéric oliveau<br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/cartopedago/">CartoPedago</a> », par Sopra Steria Secteur Public</p>
+<p><strong>Suite à cette pré-sélection, les finalistes seront invités à présenter leurs projets devant le <a href="https://www.etalab.gouv.fr/decouvrez-le-jury-dataconnexions-6">jury</a> lors de la cérémonie finale de Dataconnexions,</strong> qui aura lieu<strong> <a href="https://www.eventbrite.fr/e/billets-concours-dataconnexions-6-finale-ceremonie-19573273187">2 février 2016 à l’Hôtel de la Métropole de Toulouse.</a></strong> Le programme préliminaire de la journée, ainsi que le lien permettant de <a href="https://www.eventbrite.fr/e/billets-concours-dataconnexions-6-finale-ceremonie-19573273187">s’inscrire pour participer à la Cérémonie, sont déjà disponibles ici. Réservez votre place dès à présent.</a>[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Découvrez le jury Dataconnexions 6 ![:]</title>
+		<link>/decouvrez-le-jury-dataconnexions-6</link>
+		
+		<dc:creator><![CDATA[Paula Forteza]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2015 08:10:50 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Dataconnexions]]></category>
+		<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3915</guid>
+
+					<description><![CDATA[[:fr]À deux mois de la fermeture des inscriptions et de la fin de la prise en compte des votes du public sur la plateforme data.gouv.fr, nous sommes fiers de vous dévoiler le nouveau jury du Concours Dataconnexions 6 ! Comme toujours, ce jury joue un grand rôle dans l’aventure Dataconnexions, puisqu’il est chargé de sélectionner &#8230;<p class="read-more"> <a class="" href="/decouvrez-le-jury-dataconnexions-6"> <span class="screen-reader-text">[:fr]Découvrez le jury Dataconnexions 6 ![:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]À deux mois de la fermeture des inscriptions et de la fin de la prise en compte des votes du public sur la<a href="https://www.data.gouv.fr/fr/dataconnexions-6"> plateforme data.gouv.fr</a>, nous sommes fiers de vous dévoiler <strong>le nouveau jury du <a href="https://www.etalab.gouv.fr/dataconnexions-2" class="broken_link">Concours Dataconnexions </a>6</strong> !</p>
+<p>Comme toujours, ce jury joue un grand rôle dans l’aventure Dataconnexions, puisqu’il est chargé de sélectionner et de récompenser les projets les plus innovants de réutilisation de données publiques. Composé de personnalités de l’écosystème de l’open data et du numérique (entrepreneurs, investisseurs, experts de l&rsquo;open data et du numérique, personnalités politiques…), il peut également accompagner les candidats et les lauréats dans le développement de leurs projets</p>
+<p>Cette année, c’est <strong>Paul Duan</strong>, fondateur de <a href="http://www.bayesimpact.org/">Bayes Impact</a> et passionné de la data mise au service du bien commun, qui nous fait l’honneur de présider ce jury aux côtés de:</p>
+<p>&#8211; <strong>Awa Ndiaye</strong> (<a href="http://opendata.paris.fr/page/home/">Mairie de Paris</a>)<br />
+&#8211; <strong>Barbara Ubaldi</strong> (<a href="http://www.oecd.org/fr/gov/innovation-publique/opengovernmentdata.htm" class="broken_link">OCDE</a>)<br />
+&#8211; <strong>Bertrand Serp</strong> (<a href="http://www.toulouse-metropole.fr/">Toulouse Métropole</a>)<br />
+&#8211; <strong>Catherine Tillous</strong> (<a href="http://makina-corpus.com/">Makina Corpus</a>)<br />
+&#8211; <strong>Delphine Desgurse</strong> (<a href="http://legroupe.laposte.fr/Innovation">La Poste</a>)<br />
+&#8211; <strong>Edouard Forzy</strong> (<a href="http://www.lamelee.com/">La Mêlée</a>)<br />
+&#8211; <strong>Emmanuelle Jardat</strong> (<a href="http://www.orange.com/fr/accueil">Orange</a>)<br />
+&#8211; <strong>Gaetan Gueguen</strong> (Ambition Toulouse Métropole)<br />
+&#8211; <strong>Guillaume Fauré</strong> (<a href="https://www.sfr.fr/">SFR</a>)<br />
+&#8211; <strong>Jean-Baptiste Bini</strong> (<a href="http://www.capdigital.com/">Cap Digital</a>)<br />
+&#8211; <strong>Jordanne Monseau</strong> (<a href="https://www.etalab.gouv.fr/les-jeunes-et-lopen-data">Open Data Youth Camp</a>)<br />
+&#8211; <strong>Klara Peyre</strong> (<a href="http://www.lafrenchtech.com/">French Tech</a>)<br />
+&#8211; <strong>Nicolas Amar</strong> (<a href="http://www.igas.gouv.fr/">IGAS</a>)<br />
+&#8211; <strong>Olivier Jouan</strong> (<a href="http://portparallele.com/" class="broken_link">Port Parallèle</a>)<br />
+&#8211; <strong>Romain Crestey</strong> (<a href="http://ants.builders/" class="broken_link">Ants</a>, <a href="https://www.etalab.gouv.fr/dataconnexions-5-palmares-retour-en-images-sur-la-finale">Lauréat DC5 avec City</a>)<br />
+&#8211; <strong>Romain Pigenel</strong> (<a href="http://www.gouvernement.fr/service-d-information-du-gouvernement-sig">Service d’information du gouvernement</a>)<br />
+&#8211; <b>Pauline Roux</b> (<a href="http://www.elaia.com/">Elaia Partners</a>)<br />
+&#8211; <strong>Tony Marchand</strong> (<a href="http://www.digitalplace.fr/index.php/fr/">DigitalPlace</a>)</p>
+<p>D’abord présélectionnés par le vote du public sur la <a href="http://www.data.gouv.fr/">plateforme data.gouv.fr</a>, les finalistes auront la chance de « pitcher » leur projet devant ce jury le <strong>2 février</strong> lors de la cérémonie de remise des prix du concours. Le jury délibèrera dans la foulée et la remise des prix aura lieu l’après-midi.</p>
+<p><a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/11/16313547350_07f858c0df_z.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-3923" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/11/16313547350_07f858c0df_z-300x200.jpg" alt="16313547350_07f858c0df_z" width="300" height="200" srcset="/wp-content/uploads/2015/11/16313547350_07f858c0df_z-300x200.jpg 300w, /wp-content/uploads/2015/11/16313547350_07f858c0df_z.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><em>Le Jury Dataconnexions 5</em></p>
+<p>Nous remercions tous les membres du jury de leur engagement et vous donnons rendez-vous le <strong>2 février</strong> !</p>
+<p><strong>Codeurs, chercheurs, datascientists, acteurs publics, startups, associations, journalistes, réutilisateurs de données ouvertes : <span style="text-decoration: underline;">postulez sans plus attendre sur data.gouv.fr afin de rassembler un maximum de votes !</span></strong></p>
+<p>Retrouvez:</p>
+<ul>
+<li>La <a href="https://www.data.gouv.fr/fr/dataconnexions-6">page Dataconnexions 6 pour voter ou déposer un projet </a></li>
+<li>La <a href="https://www.etalab.gouv.fr/dataconnexions/faq" class="broken_link">FAQ pour participer</a></li>
+</ul>
+[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[:fr]Dataconnexions 6 : L’Open Data en action ![:]</title>
+		<link>/dataconnexions-6-lopen-data-en-action</link>
+		
+		<dc:creator><![CDATA[Paula Forteza]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2015 09:58:22 +0000</pubDate>
+				<category><![CDATA[Dataconnexions]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=3631</guid>
+
+					<description><![CDATA[[:fr]Les inscriptions à la 6ème édition du concours Dataconnexions sont ouvertes ! Si vous êtes porteur d’un projet qui prévoit la réutilisation d’au moins un jeu de données publiques issu de data.gouv ou d&#8217;un portail local, quel que soit votre cadre professionnel : startup, administration, association, média, étudiant, école ou même s’il s’agit d’un projet &#8230;<p class="read-more"> <a class="" href="/dataconnexions-6-lopen-data-en-action"> <span class="screen-reader-text">[:fr]Dataconnexions 6 : L’Open Data en action ![:]</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]Les inscriptions à la 6ème édition du concours Dataconnexions sont ouvertes !</p>
+<p>Si vous êtes porteur d’un projet qui prévoit la réutilisation d’au moins un jeu de données publiques issu de data.gouv ou d&rsquo;un portail local, quel que soit votre cadre professionnel : startup, administration, association, média, étudiant, école ou même s’il s’agit d’un projet personnel, candidatez du<strong> 15 septembre 2015 au 5 janvier 2016</strong>.</p>
+<p>Depuis la 5ème édition, les candidats publient leurs réutilisations de données sur « <a href="http://www.data.gouv.fr/">data.gouv.fr</a> » où le public est invité à voter pour sélectionner les projets finalistes. Découvrez <a href="https://www.etalab.gouv.fr/dataconnexions/faq" class="broken_link">ici </a>le processus de candidature.</p>
+<p>Cette année deux nouveautés vous attendent :</p>
+<p><span style="color: #3366ff;"><strong>1) Dataconnexions 6 se déroulera à Toulouse !</strong></span></p>
+<p><strong>L’open data des territoires déborde d’énergie.</strong> Toulouse en sera la capitale pour ce Dataconnexions qui conjuguera les initiatives nationales et locales. Pour la première fois, le concours ne sera pas seulement parisien puisqu’il associera Etalab à Toulouse Métropole. La cérémonie qui récompensera les projets lauréats se déroulera le <strong>mardi 2 février 2016 à l’Hôtel de la métropole de Toulouse.</strong></p>
+<p><span style="color: #3366ff;"><strong>2) L’open data en action !</strong></span></p>
+<p>Cette année, Dataconnexions mettra en valeur <strong>les résultats concrets de l’Open Data</strong>. Les <strong>histoires d’impact</strong> seront réparties entre les 4 catégories suivantes :</p>
+<p><strong>•</strong> <strong>Impact démocratique</strong> : pour les projets destinés à renforcer la transparence et la participation dans une logique de co-production pour un gouvernement ouvert.</p>
+<p><strong>• Impact social et environnemental</strong> : pour les projets qui contribuent à la résolution de problématiques sociales (éducation, santé, emploi, pauvreté, exclusion) &#8211; ou environnementales.</p>
+<p><strong>• Impact économique et scientifique</strong> : pour les projets créateurs de valeur économique ou scientifique à travers des nouveaux produits ou services qui visent le grand publique, le monde professionnel ou la recherche.</p>
+<p><strong>• Impact administratif et territorial</strong> : pour les projets qui renforceront l’efficacité, la visibilité et la mise en réseau des administrations, des collectivités et des communautés territoriales</p>
+<p>Chaque porteur de projet doit choisir de concourir dans une de ces catégories.</p>
+<p><span style="color: #3366ff;"><strong>Les dates clefs :</strong></span></p>
+<p><strong>15 septembre 2015</strong> : Ouverture des inscriptions et début de la prise en compte des votes</p>
+<p><strong>5 janvier 2016 à 12h</strong>: Fermeture des inscriptions et fin de la prise en compte des votes</p>
+<p><strong>2 février 2016</strong> : Cérémonie de remise des prix avec des présentations publiques des « Projets Finalistes » et désignation des « Projets Lauréats » par le Jury.</p>
+<p><span style="color: #3366ff;"><strong>Ressources</strong></span></p>
+<p><a href="https://www.etalab.gouv.fr/dataconnexions-6/reglement">Règlement</a> / <a href="https://www.etalab.gouv.fr/dataconnexions-6/inscription">Formulaire d&rsquo;inscription </a>/ <a href="https://www.etalab.gouv.fr/dataconnexions/faq" class="broken_link">FAQ</a> / <a href="https://www.etalab.gouv.fr/dataconnexions">Présentation des concours Dataconnexions</a> / <a href="https://www.data.gouv.fr/fr/dataconnexions">Page Dataconnexions sur data.gouv.fr</a></p>
+<p>Pour toute question : <a href="mailto:dataconnexions@etalab.gouv.fr">dataconnexions@etalab.gouv.fr</a></p>
+<p>Depuis 2012, les concours Dataconnexions sont organisés par Etalab afin de récompenser les projets de réutilisation de données publiques les plus innovants. Depuis 2012, Toulouse Métropole organise les Défis Numériques dans la même optique. Cette 6° édition des Dataconnexions est l&rsquo;occasion de faire se rencontrer les écosystèmes parisiens et des régions pour stimuler leur créativité.</p>
+<p>Les précédentes éditions de Dataconnexions ont permis de distinguer une soixantaine de projets : redécouvrez les lauréats de Dataconnexions <a href="http://www.etalab.gouv.fr/1errassemblementdataconnexions">#1</a>, <a href="http://www.etalab.gouv.fr/dataconnexions26projetsdouverturedesdonneespubliquesalhonneur">#2</a>, <a href="http://www.etalab.gouv.fr/les6laureatsdu3emeconcoursdataconnexions">#3</a>, <a href="http://www.etalab.gouv.fr/dataconnexions4decouvrezleshuitlaureatsdecetteedition">#4</a> et <a href="https://www.etalab.gouv.fr/dataconnexions-5-palmares-retour-en-images-sur-la-finale">#5</a>.[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dataconnexions #5 : Palmarès &#038; Retour en images sur la finale</title>
+		<link>/dataconnexions-5-palmares-retour-en-images-sur-la-finale</link>
+		
+		<dc:creator><![CDATA[Claire-Marie Foulquier-Gazagnes]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2015 16:48:51 +0000</pubDate>
+				<category><![CDATA[Dataconnexions]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=2937</guid>
+
+					<description><![CDATA[Le concours Dataconnexions#5 met à l’honneur les acteurs de l’open data. Pour cette 5e édition, 6 lauréats ont été désignés lors de la remise des prix du jeudi 5 février au Palais du Luxembourg. Pour la première fois le grand public a été directement associé au concours en étant à l’origine du choix des 20 &#8230;<p class="read-more"> <a class="" href="/dataconnexions-5-palmares-retour-en-images-sur-la-finale"> <span class="screen-reader-text"><!--:fr-->Dataconnexions #5 : Palmarès &#038; Retour en images sur la finale<!--:--></span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->Le concours Dataconnexions#5 met à l’honneur les acteurs de l’open data. Pour cette 5e édition, 6 lauréats ont été désignés lors de la remise des prix du jeudi 5 février au Palais du Luxembourg. Pour la première fois le grand public a été directement associé au concours en étant à l’origine du choix des <a href="https://www.etalab.gouv.fr/finalistesduconcoursdataconnexions">20 projets finalistes</a> sur <a href="https://www.data.gouv.fr/fr/dataconnexions" target="_blank">data.gouv.fr</a>. Le <a href="https://www.etalab.gouv.fr/decouvrez-le-jury-de-dataconnexions-5">jury</a>, présidé par Rand Hindi, ancien lauréat du concours et fondateur de la startup SNIPS, décernait les prix dans cinq catégories : Datadmin, Data2B, Data2C, Data-utile, et Data-journalisme.</p>
+<p>&nbsp;</p>
+<div id="stcpDiv">
+<div>
+<div>
+<div>
+<div>
+<div>
+<p><strong><em>Dans chaque catégorie, des projets innovants et originaux, à découvrir, à suivre ou à soutenir </em></strong></p>
+<p>Outre les 6 lauréats présentés ci-dessous, les 20 finalistes ouvraient chacun de nouveaux champs de réutilisation des données ouvertes. Revivez leurs présentations de 5 minutes sur la <a href="http://www.dailymotion.com/playlist/x3nlh7_etalab_finale-dataconnexions-5/1#video=x2hicqk">chaîne Dailymotion d&rsquo;Etalab</a> et sur le compte <a href="https://www.flickr.com/photos/71579099@N05/sets/72157650348770000/">Flickr d&rsquo;Etalab</a>.</p>
+<p><a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/02/2015-02-19-17_06_50-IMG_5716.jpg"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/02/2015-02-19-17_06_50-IMG_5716-300x199.jpg" alt="2015-02-19 17_06_50-IMG_5716" width="300" height="199" /></a><a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/02/2015-02-19-17_08_44-IMG_5670.jpg"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/02/2015-02-19-17_08_44-IMG_5670-300x200.jpg" alt="2015-02-19 17_08_44-IMG_5670" width="300" height="200" /></a></p>
+<p>Autres temps forts de la journée, les discours de <a href="http://www.dailymotion.com/video/x2hi9dg_finale-dataconnexions-5-discours-de-corinne-bouchoux-senatrice-de-maine-et-loire_tech">Corinne Bouchoux</a>, sénatrice, <a href="http://www.dailymotion.com/video/x2hi9rv_finale-dataconnexions-5-discours-de-michael-flowers-ancien-chief-analytics-officer-de-la-ville-new-y_tech">Mic</a><a href="http://www.dailymotion.com/video/x2hi9rv_finale-dataconnexions-5-discours-de-michael-flowers-ancien-chief-analytics-officer-de-la-ville-new-y_tech">haël Flowers</a>, ancien Chief Analytics Officer de New York, <a href="http://www.dailymotion.com/video/x2hicqk">Laure de la Bretèche</a>, Secrétaire générale pour la modernisation de l&rsquo;action publique, <a href="http://www.dailymotion.com/video/x2hi96e_finale-dataconnexions-5-discours-d-axelle-lemaire-secretaire-d-etat-chargee-du-numerique_tech">Axelle Lemaire</a>, Secrétaire d&rsquo;Etat chargée du numérique, <a href="http://www.dailymotion.com/video/x2hiaga_finale-dataconnexions-5-thierry-mandon-secretaire-d-etat-a-la-reforme-de-l-etat-et-a-la-simplificati_tech">Thierry Mandon</a>, Secrétaire d&rsquo;Etat à la réforme de l&rsquo;Etat et à la simplification, sont également disponibles.</p>
+<p><em><strong>6 lauréats Dataconnexions #5 récompensés, à encourager</strong></em></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<ul>
+<li><strong>Catégorie Datadmin : Commune de Brocas</strong></li>
+</ul>
+<p>La commune de Brocas associe les habitants aux décisions de la collectivité en créant une commission mixte composée de trois élus et cinq habitants, citoyens de la commune. Celle-ci a pour attribution d’émettre, en utilisant les données publiques, des avis sur des projets proposés par les élus et de préparer les documents nécessaires pour en informer les citoyens. <a href="http://www.dailymotion.com/video/x2hhtl8_finale-dataconnexions-5-commune-de-brocas-laureat-dataconnexions-datadmin_tech">Vidéo</a>.</p>
+<ul>
+<li><strong>Catégorie Data2B : GRF+</strong></li>
+</ul>
+<p>L&rsquo;application <a href="http://corporate.grouperf.com/application.php" target="_blank" class="broken_link">GRF+</a> de « papier connecté », gratuite sur iOS et Android, permet aux détenteurs du Code du Travail Annoté ou du Code du Travail (ou d&rsquo;autres ouvrages du groupe) de gagner un temps précieux dans l’accès aux informations les plus à jour. L’application garantit aussi une durée de vie plus longue aux ouvrages édités et une réactivité plus en phase avec les évolutions auxquelles les entreprises doivent faire face. <a href="http://www.dailymotion.com/video/x2hi8um_finale-dataconnexions-5-groupe-revue-fiduciere-grf-laureat-data2b_tech">Vidéo</a>.</p>
+<ul>
+<li><strong>Catégorie Data2C : medicat.io</strong></li>
+</ul>
+<p><a href="http://medicat.io/#/" target="_blank">medicat.io</a> a pour but d&rsquo;améliorer l&rsquo;accessibilité des informations liées aux médicaments disponibles en vente, afin d&rsquo;accompagner le consommateur dans sa démarche préliminaire et de l&rsquo;aider à mieux s&rsquo;informer avant d&rsquo;en discuter avec son pharmacien ou médecin. <a href="http://www.dailymotion.com/video/x2hi02y_finale-dataconnexions-5-medicat-io-laureat-dataconnexions-data2c_tech">Vidéo</a>.</p>
+<ul>
+<li><strong>Catégorie Data-utile : City</strong></li>
+</ul>
+<p><a href="https://bordeaux3d.ants.builders/" target="_blank" class="broken_link">City</a> est un site internet représentant la ville de Bordeaux en 3D avec différents services permettant de communiquer le plan local d&rsquo;urbanisme aux citoyens, cartographier les sous-sols pour faire des travaux plus efficaces, représenter les transports publics en temps réel, proposer une modification de sa maison&#8230; <a href="http://www.dailymotion.com/video/x2hi0ww_finale-dataconnexions-5-city-par-ants-laureat-dataconnexions-data-utile_tech">Vidéo</a>.</p>
+<ul>
+<li><strong>Catégorie Data-journalisme : Fin des crédits à l&rsquo;export pour le charbon : quels projets soutenus par l&rsquo;Etat français ?</strong></li>
+</ul>
+<p><a href="http://www.aef.info/depeche/libre/491137" target="_blank" class="broken_link">L&rsquo;idée</a> est de mesurer la portée de l&rsquo;annonce, faite lors de la Conférence environnement de novembre 2014,  de la fin des crédits export pour les projets liés au charbon voire toutes les énergies fossiles. A quelles entreprises bénéficient ces garanties à l&rsquo;export accordées par la Coface au nom de l’État français et qui est le grand gagnant ? Quelles parts ont représenté les centrales à charbon, et les énergies fossiles en général ? Pour quels montants ? Où sont situés ces projets dans le monde et quels sont-ils ? <a href="http://www.dailymotion.com/video/x2hi948_finale-dataconnexions-5-fin-des-credits-a-l-export-pour-le-charbon-quels-projets-soutenus-par-l-etat_tech">Vidéo </a></p>
+<ul>
+<li><strong>Coup de cœur du jury : Super Lachaise</strong></li>
+</ul>
+<p><a href="https://itunes.apple.com/fr/app/super-lachaise/id918263934?l=en&amp;mt=8" target="_blank" class="broken_link">Super Lachaise</a> est une application qui permet de se repérer au cimetière du Père Lachaise et consulter les fiches Wikipédia des résidents. <a href="http://www.dailymotion.com/video/x2hi0dr_finale-dataconnexions-5-super-lachaise-coup-de-coeur-du-jury-de-dataconnexions-data2c_tech">Vidéo</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><strong><em>Pour retrouver tous les contenus Dataconnexions #5 :</em></strong></p>
+<ul>
+<li>Photos : <a href="https://www.flickr.com/photos/71579099@N05/sets/72157650348770000/">www.flickr.com/photos/71579099@N05/sets/72157650348770000/</a></li>
+<li>Videos : <a href="http://www.dailymotion.com/playlist/x3nlh7_etalab_finale-dataconnexions-5/1#video=x2hicqk">www.dailymotion.com/playlist/x3nlh7_etalab_finale-dataconnexions-5/1#video=x2hicqk </a></li>
+<li>Communiqué de presse SGMAP : <a href="http://www.modernisation.gouv.fr/es/node/89467" class="broken_link">www.modernisation.gouv.fr/es/node/89467</a></li>
+</ul>
+<p><a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/02/2015-02-19-17_08_33-IMG_5939.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-2945" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/02/2015-02-19-17_08_33-IMG_5939-300x200.jpg" alt="2015-02-19 17_08_33-IMG_5939" width="300" height="200" srcset="/wp-content/uploads/2015/02/2015-02-19-17_08_33-IMG_5939-300x200.jpg 300w, /wp-content/uploads/2015/02/2015-02-19-17_08_33-IMG_5939-1024x682.jpg 1024w, /wp-content/uploads/2015/02/2015-02-19-17_08_33-IMG_5939.jpg 1330w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/02/2015-02-19-17_12_25-IMG_5980.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-2946" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/02/2015-02-19-17_12_25-IMG_5980-300x200.jpg" alt="2015-02-19 17_12_25-IMG_5980" width="300" height="200" srcset="/wp-content/uploads/2015/02/2015-02-19-17_12_25-IMG_5980-300x200.jpg 300w, /wp-content/uploads/2015/02/2015-02-19-17_12_25-IMG_5980-1024x683.jpg 1024w, /wp-content/uploads/2015/02/2015-02-19-17_12_25-IMG_5980.jpg 1338w" sizes="(max-width: 300px) 100vw, 300px" /></a><!--:--></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dataconnexions #5 : Palmarès &#038; Retour en images sur la finale</title>
+		<link>/dataconnexions-5-palmares-retour-en-images-sur-la-finale-2</link>
+		
+		<dc:creator><![CDATA[Claire-Marie Foulquier-Gazagnes]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2015 16:48:51 +0000</pubDate>
+				<category><![CDATA[Dataconnexions]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=2937</guid>
+
+					<description><![CDATA[Le concours Dataconnexions#5 met à l’honneur les acteurs de l’open data. Pour cette 5e édition, 6 lauréats ont été désignés lors de la remise des prix du jeudi 5 février au Palais du Luxembourg. Pour la première fois le grand public a été directement associé au concours en étant à l’origine du choix des 20 &#8230;<p class="read-more"> <a class="" href="/dataconnexions-5-palmares-retour-en-images-sur-la-finale-2"> <span class="screen-reader-text">Dataconnexions #5 : Palmarès &#38; Retour en images sur la finale</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->Le concours Dataconnexions#5 met à l’honneur les acteurs de l’open data. Pour cette 5e édition, 6 lauréats ont été désignés lors de la remise des prix du jeudi 5 février au Palais du Luxembourg. Pour la première fois le grand public a été directement associé au concours en étant à l’origine du choix des <a href="https://www.etalab.gouv.fr/finalistesduconcoursdataconnexions">20 projets finalistes</a> sur <a href="https://www.data.gouv.fr/fr/dataconnexions" target="_blank" rel="noopener">data.gouv.fr</a>. Le <a href="https://www.etalab.gouv.fr/decouvrez-le-jury-de-dataconnexions-5">jury</a>, présidé par Rand Hindi, ancien lauréat du concours et fondateur de la startup SNIPS, décernait les prix dans cinq catégories : Datadmin, Data2B, Data2C, Data-utile, et Data-journalisme.<br />
+&nbsp;</p>
+<div id="stcpDiv">
+<div>
+<div>
+<div>
+<div>
+<div>
+<strong><em>Dans chaque catégorie, des projets innovants et originaux, à découvrir, à suivre ou à soutenir </em></strong><br />
+Outre les 6 lauréats présentés ci-dessous, les 20 finalistes ouvraient chacun de nouveaux champs de réutilisation des données ouvertes. Revivez leurs présentations de 5 minutes sur la <a href="http://www.dailymotion.com/playlist/x3nlh7_etalab_finale-dataconnexions-5/1#video=x2hicqk">chaîne Dailymotion d&rsquo;Etalab</a> et sur le compte <a href="https://www.flickr.com/photos/71579099@N05/sets/72157650348770000/">Flickr d&rsquo;Etalab</a>.<br />
+<a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/02/2015-02-19-17_06_50-IMG_5716.jpg"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/02/2015-02-19-17_06_50-IMG_5716-300x199.jpg" alt="2015-02-19 17_06_50-IMG_5716" width="300" height="199" /></a><a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/02/2015-02-19-17_08_44-IMG_5670.jpg"><img loading="lazy" decoding="async" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/02/2015-02-19-17_08_44-IMG_5670-300x200.jpg" alt="2015-02-19 17_08_44-IMG_5670" width="300" height="200" /></a><br />
+Autres temps forts de la journée, les discours de <a href="http://www.dailymotion.com/video/x2hi9dg_finale-dataconnexions-5-discours-de-corinne-bouchoux-senatrice-de-maine-et-loire_tech">Corinne Bouchoux</a>, sénatrice, <a href="http://www.dailymotion.com/video/x2hi9rv_finale-dataconnexions-5-discours-de-michael-flowers-ancien-chief-analytics-officer-de-la-ville-new-y_tech">Mic</a><a href="http://www.dailymotion.com/video/x2hi9rv_finale-dataconnexions-5-discours-de-michael-flowers-ancien-chief-analytics-officer-de-la-ville-new-y_tech">haël Flowers</a>, ancien Chief Analytics Officer de New York, <a href="http://www.dailymotion.com/video/x2hicqk">Laure de la Bretèche</a>, Secrétaire générale pour la modernisation de l&rsquo;action publique, <a href="http://www.dailymotion.com/video/x2hi96e_finale-dataconnexions-5-discours-d-axelle-lemaire-secretaire-d-etat-chargee-du-numerique_tech">Axelle Lemaire</a>, Secrétaire d&rsquo;Etat chargée du numérique, <a href="http://www.dailymotion.com/video/x2hiaga_finale-dataconnexions-5-thierry-mandon-secretaire-d-etat-a-la-reforme-de-l-etat-et-a-la-simplificati_tech">Thierry Mandon</a>, Secrétaire d&rsquo;Etat à la réforme de l&rsquo;Etat et à la simplification, sont également disponibles.<br />
+<em><strong>6 lauréats Dataconnexions #5 récompensés, à encourager</strong></em>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<ul>
+<li><strong>Catégorie Datadmin : Commune de Brocas</strong></li>
+</ul>
+<p>La commune de Brocas associe les habitants aux décisions de la collectivité en créant une commission mixte composée de trois élus et cinq habitants, citoyens de la commune. Celle-ci a pour attribution d’émettre, en utilisant les données publiques, des avis sur des projets proposés par les élus et de préparer les documents nécessaires pour en informer les citoyens. <a href="http://www.dailymotion.com/video/x2hhtl8_finale-dataconnexions-5-commune-de-brocas-laureat-dataconnexions-datadmin_tech">Vidéo</a>.</p>
+<ul>
+<li><strong>Catégorie Data2B : GRF+</strong></li>
+</ul>
+<p>L&rsquo;application <a href="http://corporate.grouperf.com/application.php" target="_blank" rel="noopener" class="broken_link">GRF+</a> de « papier connecté », gratuite sur iOS et Android, permet aux détenteurs du Code du Travail Annoté ou du Code du Travail (ou d&rsquo;autres ouvrages du groupe) de gagner un temps précieux dans l’accès aux informations les plus à jour. L’application garantit aussi une durée de vie plus longue aux ouvrages édités et une réactivité plus en phase avec les évolutions auxquelles les entreprises doivent faire face. <a href="http://www.dailymotion.com/video/x2hi8um_finale-dataconnexions-5-groupe-revue-fiduciere-grf-laureat-data2b_tech">Vidéo</a>.</p>
+<ul>
+<li><strong>Catégorie Data2C : medicat.io</strong></li>
+</ul>
+<p><a href="http://medicat.io/#/" target="_blank" rel="noopener">medicat.io</a> a pour but d&rsquo;améliorer l&rsquo;accessibilité des informations liées aux médicaments disponibles en vente, afin d&rsquo;accompagner le consommateur dans sa démarche préliminaire et de l&rsquo;aider à mieux s&rsquo;informer avant d&rsquo;en discuter avec son pharmacien ou médecin. <a href="http://www.dailymotion.com/video/x2hi02y_finale-dataconnexions-5-medicat-io-laureat-dataconnexions-data2c_tech">Vidéo</a>.</p>
+<ul>
+<li><strong>Catégorie Data-utile : City</strong></li>
+</ul>
+<p><a href="https://bordeaux3d.ants.builders/" target="_blank" rel="noopener" class="broken_link">City</a> est un site internet représentant la ville de Bordeaux en 3D avec différents services permettant de communiquer le plan local d&rsquo;urbanisme aux citoyens, cartographier les sous-sols pour faire des travaux plus efficaces, représenter les transports publics en temps réel, proposer une modification de sa maison&#8230; <a href="http://www.dailymotion.com/video/x2hi0ww_finale-dataconnexions-5-city-par-ants-laureat-dataconnexions-data-utile_tech">Vidéo</a>.</p>
+<ul>
+<li><strong>Catégorie Data-journalisme : Fin des crédits à l&rsquo;export pour le charbon : quels projets soutenus par l&rsquo;Etat français ?</strong></li>
+</ul>
+<p><a href="http://www.aef.info/depeche/libre/491137" target="_blank" rel="noopener" class="broken_link">L&rsquo;idée</a> est de mesurer la portée de l&rsquo;annonce, faite lors de la Conférence environnement de novembre 2014,  de la fin des crédits export pour les projets liés au charbon voire toutes les énergies fossiles. A quelles entreprises bénéficient ces garanties à l&rsquo;export accordées par la Coface au nom de l’État français et qui est le grand gagnant ? Quelles parts ont représenté les centrales à charbon, et les énergies fossiles en général ? Pour quels montants ? Où sont situés ces projets dans le monde et quels sont-ils ? <a href="http://www.dailymotion.com/video/x2hi948_finale-dataconnexions-5-fin-des-credits-a-l-export-pour-le-charbon-quels-projets-soutenus-par-l-etat_tech">Vidéo </a></p>
+<ul>
+<li><strong>Coup de cœur du jury : Super Lachaise</strong></li>
+</ul>
+<p><a href="https://itunes.apple.com/fr/app/super-lachaise/id918263934?l=en&amp;mt=8" target="_blank" rel="noopener" class="broken_link">Super Lachaise</a> est une application qui permet de se repérer au cimetière du Père Lachaise et consulter les fiches Wikipédia des résidents. <a href="http://www.dailymotion.com/video/x2hi0dr_finale-dataconnexions-5-super-lachaise-coup-de-coeur-du-jury-de-dataconnexions-data2c_tech">Vidéo</a>.
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><strong><em>Pour retrouver tous les contenus Dataconnexions #5 :</em></strong></p>
+<ul>
+<li>Photos : <a href="https://www.flickr.com/photos/71579099@N05/sets/72157650348770000/">www.flickr.com/photos/71579099@N05/sets/72157650348770000/</a></li>
+<li>Videos : <a href="http://www.dailymotion.com/playlist/x3nlh7_etalab_finale-dataconnexions-5/1#video=x2hicqk">www.dailymotion.com/playlist/x3nlh7_etalab_finale-dataconnexions-5/1#video=x2hicqk </a></li>
+<li>Communiqué de presse SGMAP : <a href="http://www.modernisation.gouv.fr/es/node/89467" class="broken_link">www.modernisation.gouv.fr/es/node/89467</a></li>
+</ul>
+<p><a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/02/2015-02-19-17_08_33-IMG_5939.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-2945" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/02/2015-02-19-17_08_33-IMG_5939-300x200.jpg" alt="2015-02-19 17_08_33-IMG_5939" width="300" height="200" srcset="/wp-content/uploads/2015/02/2015-02-19-17_08_33-IMG_5939-300x200.jpg 300w, /wp-content/uploads/2015/02/2015-02-19-17_08_33-IMG_5939-1024x682.jpg 1024w, /wp-content/uploads/2015/02/2015-02-19-17_08_33-IMG_5939.jpg 1330w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/02/2015-02-19-17_12_25-IMG_5980.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-2946" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/02/2015-02-19-17_12_25-IMG_5980-300x200.jpg" alt="2015-02-19 17_12_25-IMG_5980" width="300" height="200" srcset="/wp-content/uploads/2015/02/2015-02-19-17_12_25-IMG_5980-300x200.jpg 300w, /wp-content/uploads/2015/02/2015-02-19-17_12_25-IMG_5980-1024x683.jpg 1024w, /wp-content/uploads/2015/02/2015-02-19-17_12_25-IMG_5980.jpg 1338w" sizes="(max-width: 300px) 100vw, 300px" /></a><!--:--></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title> Concours Dataconnexions #5 : Finale et Cérémonie du 5/02</title>
+		<link>/concours-dataconnexions-5-finale-et-ceremonie-du-502</link>
+		
+		<dc:creator><![CDATA[Site par défaut]]></dc:creator>
+		<pubDate>Tue, 20 Jan 2015 18:01:45 +0000</pubDate>
+				<category><![CDATA[Dataconnexions]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=2782</guid>
+
+					<description><![CDATA[Le 5 février 2015, Etalab vous donne rendez-vous au Palais du Luxembourg pour la finale et la cérémonie de remise des prix de la 5ème édition du concours Dataconnexions. Pour la première fois, la finale et la cérémonie de remise des prix s&#8217;enchaîneront au cours de la même journée. Dans la matinée (10h-12h30), les 20 finalistes, &#8230;<p class="read-more"> <a class="" href="/concours-dataconnexions-5-finale-et-ceremonie-du-502"> <span class="screen-reader-text"><!--:fr--> Concours Dataconnexions #5 : Finale et Cérémonie du 5/02<!--:--></span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr--></p>
+<p style="text-align: justify;">Le <strong>5 février 2015</strong>, Etalab vous donne rendez-vous au Palais du Luxembourg pour la<strong> finale </strong>et la c<strong>érémonie de remise des prix de la 5<sup>ème</sup> édition du concours Dataconnexions. </strong></p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">Pour la première fois, la <strong>finale</strong> et la c<strong>érémonie de remise des prix </strong>s&rsquo;enchaîneront au cours de la même journée.</p>
+<p style="text-align: justify;"><strong>Dans la matinée</strong> (10h-12h30), <a href="https://www.etalab.gouv.fr/finalistesduconcoursdataconnexions">les 20 finalistes</a>, que vous avez contribué à présélectionner par vos 2698 votes sur <a href="https://www.data.gouv.fr/fr/dataconnexions">data.gouv.fr</a>, pourront<strong> présenter leur projet</strong> devant le <a href="https://www.etalab.gouv.fr/decouvrez-le-jury-de-dataconnexions-5">jury</a>. Le jury délibérera pendant la pause au cours de laquelle vous sera offert un <strong>déjeuner </strong>(12h30-14h).</p>
+<p style="text-align: justify;"><strong>Dans l&rsquo;après-midi </strong>(14h-18h), la cérémonie, qui permettra de dévoiler et de récompenser les lauréats, sera ponctuée d’<strong>échanges et d’interventions consacrées à l’open data</strong>, à l’économie numérique et aux parcours des précédents lauréats.</p>
+<p style="text-align: justify;">Interviendront notamment la sénatrice <strong>Mme Corinne Bouchoux,</strong> la Secrétaire générale à la modernisation de l&rsquo;action publique <strong>Laure de la Bretèche</strong>, l&rsquo;ancien Chief Analytics Officer de la ville de New York <strong>Michael Flowers,</strong> le président du jury et co-fondateur de Snips<strong> Rand Hindi</strong>, des <strong>anciens lauréats</strong> de Dataconnexions (Joul, Voxe et OpenDataSoft), des étudiants de la <strong>chaire Business Strategic Analytics de l&rsquo;ESSEC&#8230;</strong></p>
+<p style="text-align: justify;">La cérémonie sera ouverte à 10h par <strong>Mme Axelle Lemaire</strong>, secrétaire d&rsquo;Etat chargée du numérique, et conclue à 17h par <strong>M. Thierry Mandon</strong>, secrétaire d&rsquo;Etat à la modernisation de l&rsquo;Etat et à la simplification.</p>
+<p style="text-align: justify;">A l’issue de la cérémonie, un <strong>cocktail </strong>réunira les lauréats et finalistes du concours, les <a href="https://www.etalab.gouv.fr/decouvrez-le-jury-de-dataconnexions-5">membres du jury</a>, les participants, les intervenants et des professionnels de l’écosystème open data et économie numérique.</p>
+<p style="text-align: justify;">A distance, vous pourrez suivre l’événement sur Twitter #Dataconnexions, consulter les projets sur <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a> et retrouver les pitchs quelques jours après sur la <a href="http://www.dailymotion.com/etalab">chaîne Dailymotion d&rsquo;Etalab</a>.</p>
+<p style="text-align: justify;"><strong>Inscription</strong></p>
+<p style="text-align: justify;"><a href="https://www.eventbrite.fr/e/billets-concours-dataconnexions-5-finale-ceremonie-15174676867">Invitation et inscription obligatoire sur Eventbrite</a></p>
+<p style="text-align: justify;"><strong>Ressources</strong></p>
+<p style="text-align: justify;"><a href="http://www.etalab.gouv.fr/dataconnexions">Présentation des concours Dataconnexions</a> / <a href="https://www.data.gouv.fr/fr/dataconnexions">Page Dataconnexions sur data.gouv.fr</a><br />
+Pour toute question : <a href="mailto:%20dataconnexions@etalab.gouv.fr">dataconnexions@etalab.gouv.fr </a></p>
+<p><!--:--></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Concours Dataconnexions #5 : Finale et Cérémonie du 5/02</title>
+		<link>/concours-dataconnexions-5-finale-et-ceremonie-du-502-2</link>
+		
+		<dc:creator><![CDATA[Site par défaut]]></dc:creator>
+		<pubDate>Tue, 20 Jan 2015 18:01:45 +0000</pubDate>
+				<category><![CDATA[Dataconnexions]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=2782</guid>
+
+					<description><![CDATA[Le 5 février 2015, Etalab vous donne rendez-vous au Palais du Luxembourg pour la finale et la cérémonie de remise des prix de la 5ème édition du concours Dataconnexions. Pour la première fois, la finale et la cérémonie de remise des prix s&#8217;enchaîneront au cours de la même journée. Dans la matinée (10h-12h30), les 20 finalistes, &#8230;<p class="read-more"> <a class="" href="/concours-dataconnexions-5-finale-et-ceremonie-du-502-2"> <span class="screen-reader-text">Concours Dataconnexions #5 : Finale et Cérémonie du 5/02</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr--></p>
+<p style="text-align: justify;">Le <strong>5 février 2015</strong>, Etalab vous donne rendez-vous au Palais du Luxembourg pour la<strong> finale </strong>et la c<strong>érémonie de remise des prix de la 5<sup>ème</sup> édition du concours Dataconnexions. </strong></p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">Pour la première fois, la <strong>finale</strong> et la c<strong>érémonie de remise des prix </strong>s&rsquo;enchaîneront au cours de la même journée.</p>
+<p style="text-align: justify;"><strong>Dans la matinée</strong> (10h-12h30), <a href="https://www.etalab.gouv.fr/finalistesduconcoursdataconnexions">les 20 finalistes</a>, que vous avez contribué à présélectionner par vos 2698 votes sur <a href="https://www.data.gouv.fr/fr/dataconnexions">data.gouv.fr</a>, pourront<strong> présenter leur projet</strong> devant le <a href="https://www.etalab.gouv.fr/decouvrez-le-jury-de-dataconnexions-5">jury</a>. Le jury délibérera pendant la pause au cours de laquelle vous sera offert un <strong>déjeuner </strong>(12h30-14h).</p>
+<p style="text-align: justify;"><strong>Dans l&rsquo;après-midi </strong>(14h-18h), la cérémonie, qui permettra de dévoiler et de récompenser les lauréats, sera ponctuée d’<strong>échanges et d’interventions consacrées à l’open data</strong>, à l’économie numérique et aux parcours des précédents lauréats.</p>
+<p style="text-align: justify;">Interviendront notamment la sénatrice <strong>Mme Corinne Bouchoux,</strong> la Secrétaire générale à la modernisation de l&rsquo;action publique <strong>Laure de la Bretèche</strong>, l&rsquo;ancien Chief Analytics Officer de la ville de New York <strong>Michael Flowers,</strong> le président du jury et co-fondateur de Snips<strong> Rand Hindi</strong>, des <strong>anciens lauréats</strong> de Dataconnexions (Joul, Voxe et OpenDataSoft), des étudiants de la <strong>chaire Business Strategic Analytics de l&rsquo;ESSEC&#8230;</strong></p>
+<p style="text-align: justify;">La cérémonie sera ouverte à 10h par <strong>Mme Axelle Lemaire</strong>, secrétaire d&rsquo;Etat chargée du numérique, et conclue à 17h par <strong>M. Thierry Mandon</strong>, secrétaire d&rsquo;Etat à la modernisation de l&rsquo;Etat et à la simplification.</p>
+<p style="text-align: justify;">A l’issue de la cérémonie, un <strong>cocktail </strong>réunira les lauréats et finalistes du concours, les <a href="https://www.etalab.gouv.fr/decouvrez-le-jury-de-dataconnexions-5">membres du jury</a>, les participants, les intervenants et des professionnels de l’écosystème open data et économie numérique.</p>
+<p style="text-align: justify;">A distance, vous pourrez suivre l’événement sur Twitter #Dataconnexions, consulter les projets sur <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a> et retrouver les pitchs quelques jours après sur la <a href="http://www.dailymotion.com/etalab">chaîne Dailymotion d&rsquo;Etalab</a>.</p>
+<p style="text-align: justify;"><strong>Inscription</strong></p>
+<p style="text-align: justify;"><a href="https://www.eventbrite.fr/e/billets-concours-dataconnexions-5-finale-ceremonie-15174676867">Invitation et inscription obligatoire sur Eventbrite</a></p>
+<p style="text-align: justify;"><strong>Ressources</strong></p>
+<p style="text-align: justify;"><a href="http://www.etalab.gouv.fr/dataconnexions">Présentation des concours Dataconnexions</a> / <a href="https://www.data.gouv.fr/fr/dataconnexions">Page Dataconnexions sur data.gouv.fr</a><br />
+Pour toute question : <a href="mailto:%20dataconnexions@etalab.gouv.fr">dataconnexions@etalab.gouv.fr </a></p>
+<p><!--:--></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Les finalistes du concours Dataconnexions #5</title>
+		<link>/finalistesduconcoursdataconnexions</link>
+					<comments>/finalistesduconcoursdataconnexions#comments</comments>
+		
+		<dc:creator><![CDATA[Claire-Marie Foulquier-Gazagnes]]></dc:creator>
+		<pubDate>Thu, 15 Jan 2015 22:20:05 +0000</pubDate>
+				<category><![CDATA[Dataconnexions]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=2831</guid>
+
+					<description><![CDATA[Au terme de deux mois et demi de compétition, 63 projets open data se sont portés candidats à la cinquième édition du concours Dataconnexions. C&#8217;est un record. Nous tenons à féliciter tous les candidats pour la qualité et la diversité des projets présentés. Ils témoignent du dynamisme de la réutilisation des données publiques et de la diversité des champs d&#8217;application de la &#8230;<p class="read-more"> <a class="" href="/finalistesduconcoursdataconnexions"> <span class="screen-reader-text"><!--:fr-->Les finalistes du concours Dataconnexions #5<!--:--></span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->Au terme de deux mois et demi de compétition, <strong><a href="https://www.data.gouv.fr/fr/dataconnexions">63 projets open data </a></strong>se sont portés candidats à la cinquième édition du <a href="https://www.etalab.gouv.fr/dataconnexions">concours Dataconnexions<span style="text-decoration: underline;">. </span></a>C&rsquo;est un record. Nous tenons à féliciter tous les candidats pour la <strong>qualité</strong> et la <strong>diversité</strong> des projets présentés. Ils témoignent du dynamisme de la réutilisation des données publiques et de la diversité des champs d&rsquo;application de la politique d&rsquo;ouverture des données.</p>
+<p>Nouveauté de cette 5ème édition, les projets candidats devaient récolter les votes du public sur la <a href="https://www.data.gouv.fr/fr/dataconnexions">plateforme data.gouv</a> pour être sélectionnés comme finalistes et présentés au jury. Au total, <strong>2698 votes</strong> ont été comptabilisés avant le 14 janvier 2015 à 16h, heure de la clôture. Merci à tous les votants qui ont permis une première identification de projets prometteurs.</p>
+<p>En fonction des votes comptabilisés à 16h le 14 janvier 2015, les 25% des projets ayant recueillis le plus grand nombre de votes dans chaque catégorie ont été sélectionnés comme finalistes, ainsi que deux projets repêchés. Voici la liste des 20 projets finalistes, qui seront présentés au <a href="https://www.etalab.gouv.fr/decouvrez-le-jury-de-dataconnexions-5">jury</a> le 5 février au matin :</p>
+<p><strong>Dans la catégorie Datadmin</strong> :<br />
+<em>Projets portés par un acteur public (administration centrale ou déconcentrée, collectivité&#8230;) qui a utilisé l’open data pour améliorer son action, pour résoudre un problème&#8230;</em></p>
+<p>&#8211; <a href="https://www.data.gouv.fr/fr/reuses/associer-les-habitants-aux-decisions-de-la-collectivite/" class="broken_link">« Associer les habitants aux décisions de la collectivité » par la commune de Brocas</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/data-visualisation-des-depenses-de-sante-de-la-region-paca-en-dynamique-sur-les-exercices-2011-2012-et-2013/">« Data visualisation des dépenses de santé de la région PACA » par l&rsquo;ARS PACA </a></p>
+<p><strong>Dans la catégorie Data2B</strong> :<br />
+<em>Projets destinés à un usage professionnel</em></p>
+<p>&#8211; <a href="https://www.data.gouv.fr/fr/reuses/grf-application-papier-connecte-et-le-code-du-travail/">« GRF+ : application papier connecté et le Code du Travail » par le Groupe Revue Fiduciaire  </a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/commoprices-le-portail-des-cours-de-matieres-premieres/">« CommoPrices &#8211; Le portail du cours des matières premières » par Victor Gross</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/contracteo/" class="broken_link">« Contracteo » par Malik Boudemagh </a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/splayce-le-traitement-de-texte-juridique/">« Splayce, le traitement de texte juridique » par Imaginatio</a> (ex aequo)<br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/50-1-dis-moi-ou-tu-habites-je-te-dirai-pour-qui-tu-votes/">« 50+1 : dis moi où tu habites, je te dirai pour qui tu votes » par Liegey Muller Pons </a>(ex aequo)<br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/corto/">« Corto » par Spallian</a></p>
+<p><strong>Dans la catégorie Data2C</strong> :<br />
+<em>Projets destinés au grand public</em></p>
+<p>&#8211; <a href="https://www.data.gouv.fr/fr/reuses/okazou-famille/" class="broken_link">« OKAZOU Famille » par Christian Leroy</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/troubadour-story/">« Troubadour Story » par Cyril Traore</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/globalbiker/">« GlobalBikers » par GlobalBikers</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/medicat-io/" class="broken_link">« Medicat.io » par Studio Pik</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/super-lachaise/">« Super Lachaise » par Maxime Le Moine</a></p>
+<p><strong>Dans la catégorie Data-utile </strong>:<br />
+<em>Projets d’intérêt général, engagés par exemple dans les champs de la solidarité, du développement durable ou de la lutte contre les discriminations, ou portés par une association, une ONG, une entreprise sociale, un entrepreneur social ou un citoyen.</em></p>
+<p>&#8211; <a href="https://www.data.gouv.fr/fr/reuses/datafrance/" class="broken_link">« DataFrance » par DataFrance</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/sharepa-paris-accessible/">« SharePA &#8211; Paris accessible » par L&rsquo;Express et Sébastien Angèle </a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/city/">« City » par ANTS</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/openbudget-fr-le-budget-un-outil-de-la-democratie/">« OpenBudget.fr &#8211; Le budget, un outil de démocratie » par Florent André</a></p>
+<p><strong>Dans la catégorie Data-journalisme :<br />
+</strong><em>Projets s’inscrivants dans la thématique du journalisme de données.</em></p>
+<p>&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/comprendre-lancrage-du-fn-en-alsace-en-cinq-cartes/">Comprendre l&rsquo;ancrage du FN en Alsace en cinq cartes » par Raphaël da Silva (Rue89 Strasbourg)<br />
+</a>&#8211; <a href="https://www.data.gouv.fr/fr/reuses/fin-des-credits-a-lexport-pour-le-charbon-quels-projets-soutenus-par-letat-francais/">« Fin des crédits à l&rsquo;export pour le charbon : quels projets soutenus par l&rsquo;Etat français » par Ana Lutzky (AEF Développement durable)<br />
+</a>&#8211; <a href="https://www.data.gouv.fr/fr/reuses/memoire-de-france-entre-1914-et-1919/">« Mémoire de la France entre 1914 et 1919 » par WeMap</a></p>
+<p>Les finalistes ci-dessus seront contactés prochainement pour présenter devant le public et <a href="https://www.etalab.gouv.fr/decouvrez-le-jury-de-dataconnexions-5">le jury</a> leur projet lors de la finale de Dataconnexions qui aura lieu 5 février 2015 au Palais du Luxembourg.</p>
+<p>Les projets non retenus sur cette édition contribuent eux aussi à illustrer les promesses de l&rsquo;open data et nous réfléchissons à des événements complémentaires qui permettront de mettre en valeur ces différentes initiatives.</p>
+<p>Nous publierons prochainement sur le blog de la mission Etalab le programme de la journée du 5 février et le lien d&rsquo;inscription permettant d&rsquo;y participer&#8230;</p>
+<p>Bravo à tous les projets.</p>
+<p><a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/01/Candidats-Dataconnexions.jpg"><img loading="lazy" decoding="async" class=" size-medium wp-image-2849 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/01/Candidats-Dataconnexions-300x300.jpg" alt="Candidats Dataconnexions" width="300" height="300" srcset="/wp-content/uploads/2015/01/Candidats-Dataconnexions-300x300.jpg 300w, /wp-content/uploads/2015/01/Candidats-Dataconnexions-150x150.jpg 150w, /wp-content/uploads/2015/01/Candidats-Dataconnexions.jpg 1024w, /wp-content/uploads/2015/01/Candidats-Dataconnexions-80x80.jpg 80w, /wp-content/uploads/2015/01/Candidats-Dataconnexions-118x118.jpg 118w, /wp-content/uploads/2015/01/Candidats-Dataconnexions-239x239.jpg 239w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;<!--:--></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/finalistesduconcoursdataconnexions/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Les finalistes du concours Dataconnexions #5</title>
+		<link>/finalistesduconcoursdataconnexions-2</link>
+					<comments>/finalistesduconcoursdataconnexions-2#comments</comments>
+		
+		<dc:creator><![CDATA[Claire-Marie Foulquier-Gazagnes]]></dc:creator>
+		<pubDate>Thu, 15 Jan 2015 22:20:05 +0000</pubDate>
+				<category><![CDATA[Dataconnexions]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=2831</guid>
+
+					<description><![CDATA[Au terme de deux mois et demi de compétition, 63 projets open data se sont portés candidats à la cinquième édition du concours Dataconnexions. C&#8217;est un record. Nous tenons à féliciter tous les candidats pour la qualité et la diversité des projets présentés. Ils témoignent du dynamisme de la réutilisation des données publiques et de la diversité des champs d&#8217;application de la &#8230;<p class="read-more"> <a class="" href="/finalistesduconcoursdataconnexions-2"> <span class="screen-reader-text">Les finalistes du concours Dataconnexions #5</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><!--:fr-->Au terme de deux mois et demi de compétition, <strong><a href="https://www.data.gouv.fr/fr/dataconnexions">63 projets open data </a></strong>se sont portés candidats à la cinquième édition du <a href="https://www.etalab.gouv.fr/dataconnexions">concours Dataconnexions<span style="text-decoration: underline;">. </span></a>C&rsquo;est un record. Nous tenons à féliciter tous les candidats pour la <strong>qualité</strong> et la <strong>diversité</strong> des projets présentés. Ils témoignent du dynamisme de la réutilisation des données publiques et de la diversité des champs d&rsquo;application de la politique d&rsquo;ouverture des données.<br />
+Nouveauté de cette 5ème édition, les projets candidats devaient récolter les votes du public sur la <a href="https://www.data.gouv.fr/fr/dataconnexions">plateforme data.gouv</a> pour être sélectionnés comme finalistes et présentés au jury. Au total, <strong>2698 votes</strong> ont été comptabilisés avant le 14 janvier 2015 à 16h, heure de la clôture. Merci à tous les votants qui ont permis une première identification de projets prometteurs.<br />
+En fonction des votes comptabilisés à 16h le 14 janvier 2015, les 25% des projets ayant recueillis le plus grand nombre de votes dans chaque catégorie ont été sélectionnés comme finalistes, ainsi que deux projets repêchés. Voici la liste des 20 projets finalistes, qui seront présentés au <a href="https://www.etalab.gouv.fr/decouvrez-le-jury-de-dataconnexions-5">jury</a> le 5 février au matin :<br />
+<strong>Dans la catégorie Datadmin</strong> :<br />
+<em>Projets portés par un acteur public (administration centrale ou déconcentrée, collectivité&#8230;) qui a utilisé l’open data pour améliorer son action, pour résoudre un problème&#8230;</em><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/associer-les-habitants-aux-decisions-de-la-collectivite/" class="broken_link">« Associer les habitants aux décisions de la collectivité » par la commune de Brocas</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/data-visualisation-des-depenses-de-sante-de-la-region-paca-en-dynamique-sur-les-exercices-2011-2012-et-2013/">« Data visualisation des dépenses de santé de la région PACA » par l&rsquo;ARS PACA </a><br />
+<strong>Dans la catégorie Data2B</strong> :<br />
+<em>Projets destinés à un usage professionnel</em><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/grf-application-papier-connecte-et-le-code-du-travail/">« GRF+ : application papier connecté et le Code du Travail » par le Groupe Revue Fiduciaire  </a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/commoprices-le-portail-des-cours-de-matieres-premieres/">« CommoPrices &#8211; Le portail du cours des matières premières » par Victor Gross</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/contracteo/" class="broken_link">« Contracteo » par Malik Boudemagh </a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/splayce-le-traitement-de-texte-juridique/">« Splayce, le traitement de texte juridique » par Imaginatio</a> (ex aequo)<br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/50-1-dis-moi-ou-tu-habites-je-te-dirai-pour-qui-tu-votes/">« 50+1 : dis moi où tu habites, je te dirai pour qui tu votes » par Liegey Muller Pons </a>(ex aequo)<br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/corto/">« Corto » par Spallian</a><br />
+<strong>Dans la catégorie Data2C</strong> :<br />
+<em>Projets destinés au grand public</em><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/okazou-famille/" class="broken_link">« OKAZOU Famille » par Christian Leroy</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/troubadour-story/">« Troubadour Story » par Cyril Traore</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/globalbiker/">« GlobalBikers » par GlobalBikers</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/medicat-io/" class="broken_link">« Medicat.io » par Studio Pik</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/super-lachaise/">« Super Lachaise » par Maxime Le Moine</a><br />
+<strong>Dans la catégorie Data-utile </strong>:<br />
+<em>Projets d’intérêt général, engagés par exemple dans les champs de la solidarité, du développement durable ou de la lutte contre les discriminations, ou portés par une association, une ONG, une entreprise sociale, un entrepreneur social ou un citoyen.</em><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/datafrance/" class="broken_link">« DataFrance » par DataFrance</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/sharepa-paris-accessible/">« SharePA &#8211; Paris accessible » par L&rsquo;Express et Sébastien Angèle </a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/city/">« City » par ANTS</a><br />
+&#8211; <a href="https://www.data.gouv.fr/fr/reuses/openbudget-fr-le-budget-un-outil-de-la-democratie/">« OpenBudget.fr &#8211; Le budget, un outil de démocratie » par Florent André</a><br />
+<strong>Dans la catégorie Data-journalisme :<br />
+</strong><em>Projets s’inscrivants dans la thématique du journalisme de données.</em><br />
+&#8211; « <a href="https://www.data.gouv.fr/fr/reuses/comprendre-lancrage-du-fn-en-alsace-en-cinq-cartes/">Comprendre l&rsquo;ancrage du FN en Alsace en cinq cartes » par Raphaël da Silva (Rue89 Strasbourg)<br />
+</a>&#8211; <a href="https://www.data.gouv.fr/fr/reuses/fin-des-credits-a-lexport-pour-le-charbon-quels-projets-soutenus-par-letat-francais/">« Fin des crédits à l&rsquo;export pour le charbon : quels projets soutenus par l&rsquo;Etat français » par Ana Lutzky (AEF Développement durable)<br />
+</a>&#8211; <a href="https://www.data.gouv.fr/fr/reuses/memoire-de-france-entre-1914-et-1919/">« Mémoire de la France entre 1914 et 1919 » par WeMap</a><br />
+Les finalistes ci-dessus seront contactés prochainement pour présenter devant le public et <a href="https://www.etalab.gouv.fr/decouvrez-le-jury-de-dataconnexions-5">le jury</a> leur projet lors de la finale de Dataconnexions qui aura lieu 5 février 2015 au Palais du Luxembourg.<br />
+Les projets non retenus sur cette édition contribuent eux aussi à illustrer les promesses de l&rsquo;open data et nous réfléchissons à des événements complémentaires qui permettront de mettre en valeur ces différentes initiatives.<br />
+Nous publierons prochainement sur le blog de la mission Etalab le programme de la journée du 5 février et le lien d&rsquo;inscription permettant d&rsquo;y participer&#8230;<br />
+Bravo à tous les projets.<br />
+<a href="https://www.etalab.gouv.fr/wp-content/uploads/2015/01/Candidats-Dataconnexions.jpg"><img loading="lazy" decoding="async" class=" size-medium wp-image-2849 aligncenter" src="https://www.etalab.gouv.fr/wp-content/uploads/2015/01/Candidats-Dataconnexions-300x300.jpg" alt="Candidats Dataconnexions" width="300" height="300" srcset="/wp-content/uploads/2015/01/Candidats-Dataconnexions-300x300.jpg 300w, /wp-content/uploads/2015/01/Candidats-Dataconnexions-150x150.jpg 150w, /wp-content/uploads/2015/01/Candidats-Dataconnexions.jpg 1024w, /wp-content/uploads/2015/01/Candidats-Dataconnexions-80x80.jpg 80w, /wp-content/uploads/2015/01/Candidats-Dataconnexions-118x118.jpg 118w, /wp-content/uploads/2015/01/Candidats-Dataconnexions-239x239.jpg 239w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<!--:--></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/finalistesduconcoursdataconnexions-2/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Anne-Laure Fréant &#8211; Etalab</title>
+	<atom:link href="/author/annelaure-freant/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 09 Jun 2020 13:54:38 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Anne-Laure Fréant &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Comment les administrations ont collaboré à l&#8217;ouverture des données du Coronavirus : le cas français</title>
+		<link>/comment-les-administrations-ont-collabore-a-louverture-des-donnees-du-coronavirus-le-cas-francais</link>
+		
+		<dc:creator><![CDATA[Anne-Laure Fréant]]></dc:creator>
+		<pubDate>Tue, 09 Jun 2020 13:42:13 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Données]]></category>
+		<category><![CDATA[base de données]]></category>
+		<category><![CDATA[crise sanitaire]]></category>
+		<category><![CDATA[données]]></category>
+		<category><![CDATA[gouvernement]]></category>
+		<category><![CDATA[open data]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=14073</guid>
+
+					<description><![CDATA[La crise du Coronavirus a mobilisé simultanément les administrations et la société civile, le monde académique et les médias partout dans le monde autour de la collecte, de la consolidation, de la vérification et de la mise en valeur des données. Le besoin de données précises et exhaustives a été critique dès le début de &#8230;<p class="read-more"> <a class="" href="/comment-les-administrations-ont-collabore-a-louverture-des-donnees-du-coronavirus-le-cas-francais"> <span class="screen-reader-text">Comment les administrations ont collaboré à l&#8217;ouverture des données du Coronavirus : le cas français</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><em>La crise du Coronavirus a mobilisé simultanément les administrations et la société civile, le monde académique et les médias partout dans le monde autour de la collecte, de la consolidation, de la vérification et de la mise en valeur des données. Le besoin de données précises et exhaustives a été critique dès le début de l’épidémie, autour des enjeux de gestion de crise, de transparence et d’information du public. Cet article relate comment les administrations ont collaboré pour ouvrir les données relatives à l’épidémie de COVID-19 en France.</em></p>
+
+
+
+<h3 class="wp-block-heading"><strong>Récolter et publier les données de santé à l’échelle nationale : le défi des administrations</strong></h3>
+
+
+
+<p>Pour les administrations situées en première ligne, comme<strong> le ministère des Solidarités et de la Santé, Santé publique France (SPF)</strong> et <strong>les Agences Régionales de Santé (ARS)</strong>, le défi a été de parvenir à collecter et à consolider d’importants volumes de données issues de sources différentes.<br><br>Si des systèmes d’informations nationaux existaient déjà, il a cependant été nécessaire de les adapter pour réaliser un suivi spécifique des patients atteints de Covid-19. Par ailleurs, les différents acteurs de la santé (services hospitaliers, services d’appels d’urgence, équipes de SOS médecins&#8230;) s’appuient au quotidien sur des systèmes d’informations qui sont propres à leur métier. Ces derniers proposent différents modes des saisies et souvent, différentes structures de données.<br><br>L’exercice était d’autant plus difficile que ces données devaient être collectées et mises à jour à une échelle nationale dans des délais particulièrement courts.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Collecter, consolider, nettoyer et ouvrir les données relatives à l’épidémie</strong></h3>
+
+
+
+<h4 class="wp-block-heading">Pour observer la propagation de l’épidémie</h4>
+
+
+
+<p>L’accélération de la propagation de l’épidémie dans le monde a intensifié le besoin d’identifier le plus rapidement possible les personnes infectées au Covid-19. Très vite, de premières données ont été mises à disposition à l’échelle mondiale, européenne et nationale : les <a href="https://coronavirus.jhu.edu/map.html#_blank"><u>données l’université John Hopkins</u></a>, les <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/#_blank"><u>données de l’organisation mondiale de la santé</u></a> ou encore celles du <a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide#_blank"><u>Centre Européen de prévention et de contrôle des maladies</u></a>.</p>
+
+
+
+<p>En France, les données concernant le nombre de cas, de personnes hospitalisées ainsi que de personnes décédées étaient publiées dans <a href="https://www.santepubliquefrance.fr/recherche/#search=COVID%2019%20%20%20point%20epidemiologique&amp;publications=donn%C3%A9es&amp;regions=National&amp;sort=date"><u><strong>des point épidémiologiques par Santé publique France</strong></u></a> et consultables sur un <u><strong><a rel="noreferrer noopener" href="https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde#block-242818" target="_blank">tableau de bord</a></strong></u> pour les données nationales.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img fetchpriority="high" decoding="async" width="789" height="532" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/04/tableau_spf.png" alt="" class="wp-image-14319" srcset="/wp-content/uploads/2020/04/tableau_spf.png 789w, /wp-content/uploads/2020/04/tableau_spf-300x202.png 300w, /wp-content/uploads/2020/04/tableau_spf-768x518.png 768w" sizes="(max-width: 789px) 100vw, 789px" /><figcaption><em>Le tableau de bord disponible sur </em><a href="https://www.santepubliquefrance.fr/"><em><u>le site de Santé publique France </u></em></a><em>début mars</em> 2020</figcaption></figure></div>
+
+
+
+<p>Afin d’apporter une vision à l’échelle des régions et départements de la situation, l’initiative<a href="https://github.com/opencovid19-fr/#_blank"></a><a href="https://github.com/opencovid19-fr/#_blank"><u><strong>« OpenCOVID19 »</strong></u></a>, menée par la société civile, a consolidé de manière collaborative les données issues (entre autres sources) des bulletins de Santé publique France, des Agences Régionales de Santé, des préfectures et des interventions de la Direction générale de la santé (DGS).</p>
+
+
+
+<h4 class="wp-block-heading">Pour évaluer la mise en tension du système de santé</h4>
+
+
+
+<p>Alors que l’épidémie continuait de se propager sur le territoire, il est devenu urgent d’établir une image précise et actualisée de la mise en tension du milieu hospitalier.</p>
+
+
+
+<p>Le ministère des Solidarités et de la Santé et Santé publique France ont réalisé un travail considérable de collecte et d’agrégation des données. Grâce à l’export et la consolidation de données issues de différents systèmes d’informations, Santé Publique France publie depuis le 18 mars des données relatives à l’épidémie sur <a href="https://geodes.santepubliquefrance.fr/#c=home"><u>Geodes, l’observatoire cartographique de Santé publique France</u></a> et<a href="https://www.data.gouv.fr/fr/organizations/sante-publique-france/#_blank"> sur la plateforme de données publiques data.gouv.fr</a>. Les données sont mises à jour quotidiennement et améliorées par les contributeurs. Elles comportent&nbsp;:</p>
+
+
+
+<ul><li><strong> </strong>les <a href="https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/#_blank">données hospitalières</a>,</li><li>les <a href="https://www.data.gouv.fr/fr/datasets/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/#_blank">données des urgences et de SOS médecins</a>,</li><li>les <a href="https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-transferts-de-patients-atteints-de-covid-19/#_blank">données concernant les transferts de patients</a>,</li><li>les <a href="https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-tests-de-depistage-de-covid-19-realises-en-laboratoire-de-ville/#_blank">données relatives aux tests</a> (en laboratoire de ville),</li><li>les <a href="https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-tests-de-depistage-de-covid-19-realises-en-laboratoire-de-ville/#_blank">niveaux d’excès de mortalité standardisés durant l’épidémie de COVID19…</a></li></ul>
+
+
+
+<p>Etalab a collaboré directement avec <a href="https://www.data.gouv.fr/fr/organizations/sante-publique-france/">Santé publique France</a>, notamment sur l’éditorialisation et la documentation des données en vue de faciliter leur réutilisation, mais aussi sur la mise en place d’un protocole de mise à disposition automatisé des données<strong>.</strong></p>
+
+
+
+<p>Par ailleurs, la collecte et l’agrégation de données produites sur le terrain peuvent entrainer des anomalies dans certains fichiers. Afin d’identifier et de faire remonter les éventuelles anomalies, Etalab a mis en place un rapport quotidien d’analyse qualité des données. Ce rapport d’anomalie est publié sur data.gouv.fr dans le but d’accompagner les réutilisateurs dans la prise en main des données (les liens vers les rapports sont disponibles sur la page des jeux de données correspondants).</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="753" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/06/spf_datagouv-1024x753.jpg" alt="" class="wp-image-14320" srcset="/wp-content/uploads/2020/06/spf_datagouv-1024x753.jpg 1024w, /wp-content/uploads/2020/06/spf_datagouv-300x221.jpg 300w, /wp-content/uploads/2020/06/spf_datagouv-768x565.jpg 768w, /wp-content/uploads/2020/06/spf_datagouv.jpg 1187w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://www.data.gouv.fr/fr/organizations/sante-publique-france/#_blank">La page de l’organisation Santé publique France sur data.gouv.fr</a></figcaption></figure>
+
+
+
+<h4 class="wp-block-heading">Pour observer l’implication de l’État<strong> </strong>dans le soutien de l’économie française</h4>
+
+
+
+<p>Le confinement des populations, la fermeture des commerces et l’arrêt de la production a impacté directement les entreprises. Afin de soutenir l’économie française, l’État a mis en place dès mars 2020 un ensemble d’aides pour les entreprises affectées par la crise.</p>
+
+
+
+<p>Au-delà des montants globaux octroyés dans le cadre des aides aux entreprises, le Ministère de l’Économie et des Finances a souhaité apporter davantage de visibilité sur la répartition des sommes versées en fonction du secteur d’activité (<a href="https://www.insee.fr/fr/information/2406147">code NAF</a>) et des territoires. Les équipes d’Etalab ont collaboré avec les ministères économiques et financiers afin de consolider et mettre à disposition les données relatives à différentes aides&nbsp;:</p>
+
+
+
+<ul><li><a href="https://www.data.gouv.fr/fr/datasets/donnees-relatives-au-fonds-de-solidarite-mis-en-place-dans-le-cadre-de-lepidemie-de-covid-19/">Données relatives au fonds de solidarité mis en place dans le cadre de l&rsquo;épidémie de COVID-19</a></li><li><a href="https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-prets-garantis-par-letat-dans-le-cadre-de-lepidemie-de-covid-19/">Données relatives aux prêts garantis par l’Etat dans le cadre de l’épidémie de COVID-19</a></li><li><a href="https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-reports-decheances-fiscales-accordes-dans-le-cadre-de-lepidemie-de-covid-19/">Données relatives aux reports d&rsquo;échéances fiscales accordés dans le cadre de l’épidémie de COVID-19</a></li></ul>
+
+
+
+<h3 class="wp-block-heading">Faciliter la compréhension des données pour l’ensemble des citoyens</h3>
+
+
+
+<p>Afin de faciliter la prise en main et la compréhension des données publiées sur <a href="http://www.data.gouv.fr/">www.data.gouv.fr</a>, Etalab a développé différents tableaux de bord qui apportent une première lecture des données. Ces tableaux de bord ont pour cible les publics qui ne disposent pas de compétences techniques approfondies et qui souhaitent s’informer sur l’épidémie.</p>
+
+
+
+<h4 class="wp-block-heading">Le tableau de bord de suivi de l’épidémie</h4>
+
+
+
+<p>Afin de poursuivre les efforts entrepris par la société civile dans le <a href="https://github.com/opencovid19-fr">cadre de l’initiative «&nbsp;OpenCOVID19&nbsp;»,</a> l’équipe d’Etalab a travaillé à <a href="https://dashboard.covid19.data.gouv.fr/#_blank">la construction d’un tableau de bord</a> permettant de centraliser et de visualiser l’ensemble des données officielles relatives à l’épidémie de COVID-19.</p>
+
+
+
+<p>Le service de communication et d’information du gouvernement (SIG) s’est associé au projet afin que l’ensemble des citoyens puissent accéder à des informations. Suite à une collaboration étroite entre Santé publique France, le SIG et d’Etalab, le tableau de bord a pu être <a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees#_blank"><u>intégré au site du gouvernement</u></a> le 28 mars 2020.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="900" height="446" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/06/tableaudebord_covid19_gov.jpg" alt="" class="wp-image-14324" srcset="/wp-content/uploads/2020/06/tableaudebord_covid19_gov.jpg 900w, /wp-content/uploads/2020/06/tableaudebord_covid19_gov-300x149.jpg 300w, /wp-content/uploads/2020/06/tableaudebord_covid19_gov-768x381.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /><figcaption><a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees#_blank"><em><u>Le tableau de bord publié sur gouvernement.fr</u></em></a></figcaption></figure></div>
+
+
+
+<p>L’ouverture des données et la publication du tableau de bord ont été valorisées durant le point presse quotidien du directeur national de la santé, Jérôme Salomon, le 28 mars, qui a rappelé à cette occasion l’importance de l’open data en ces termes :</p>
+
+
+
+<blockquote class="wp-block-quote"><p>« Le libre accès aux données relatives à l’épidémie, ce qu’on appelle l’open data, assure la confiance des citoyens dans les éléments qui leur sont communiqués, favorise les actions de prévention contre la propagation du virus et facilite la prise de décision.<br>La diffusion et l’exploitation de ces données ont été rendues possibles grâce à une collaboration étroite entre plusieurs administrations et la société civile.»</p><cite><em>J. Salomon, directeur national de la santé, point presse coronavirus du 28 mars 2020</em></cite></blockquote>
+
+
+
+<p>Alors que le déconfinement se préparait, le gouvernement s’est appuyé sur les données publiées sur data.gouv.fr pour élaborer <a href="https://www.data.gouv.fr/fr/datasets/indicateurs-dactivite-epidemique-covid-19-par-departement/">des indicateurs de suivi épidémique</a>. Ces derniers ont été publiés le 30 avril 2020 sur data.gouv.fr et présentés dans un onglet dédié du tableau de bord de suivi de l’épidémie. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1000" height="438" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/06/carte_deconfinement.jpg" alt="" class="wp-image-14326" srcset="/wp-content/uploads/2020/06/carte_deconfinement.jpg 1000w, /wp-content/uploads/2020/06/carte_deconfinement-300x131.jpg 300w, /wp-content/uploads/2020/06/carte_deconfinement-768x336.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption><em>La carte de synthèse de suivi de l’activité épidémique <a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees#_blank">publiée sur le site du gouvernement</a></em> <em>(onglet « Carte de vigilance »)</em></figcaption></figure>
+
+
+
+<h4 class="wp-block-heading">Le tableau de bord des données des aides aux entreprises</h4>
+
+
+
+<p>À partir des données mises à disposition par les ministères économiques et financiers, les équipes d’Etalab ont développé <strong><a href="https://aides-entreprises.data.gouv.fr/#_blank" class="broken_link">un tableau de bord permettant de consulter et de visualiser les différentes aides accordées par l’état aux entreprises.</a></strong></p>
+
+
+
+<p>Ce tableau de bord, dont <a href="https://github.com/etalab/dashboard-aides-entreprises">le code source est libre</a>, a pu être rapidement mis en place grâce à la réutilisation de briques de codes développées dans le cadre du développement du tableau de bord du suivi de l’épidémie. <a href="https://twitter.com/GDarmanin/status/1262312671518613504">Valorisé par Gérald Darmanin</a>, Ministre de l’Action et des Comptes Publics ainsi que par Bruno Le Maire, Ministre de l’Économie et des Finances, il est désormais accessible <a href="https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-fonds-solidarite" class="broken_link">sur le site du Ministère de l&rsquo;Économie et des Finances.</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1000" height="488" src="https://www.etalab.gouv.fr/wp-content/uploads/2020/06/dashboard_entreprises.png" alt="" class="wp-image-14327" srcset="/wp-content/uploads/2020/06/dashboard_entreprises.png 1000w, /wp-content/uploads/2020/06/dashboard_entreprises-300x146.png 300w, /wp-content/uploads/2020/06/dashboard_entreprises-768x375.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption><em>Le tableau de bord de suivi des aides aux entreprises dans le cadre de la crise sanitaire du COVID19</em></figcaption></figure></div>
+
+
+
+<h3 class="wp-block-heading">Comprendre l’impact de la crise du Covid-19 et se préparer à y répondre grâce aux données</h3>
+
+
+
+<p>Les données ont beaucoup à nous apprendre de la crise actuelle. Elles permettent d’accompagner la prise de décision, d’éclairer le débat public, de favoriser la gouvernance au sein des administrations et d’engager le dialogue avec les citoyens, <a href="https://www.data.gouv.fr/fr/posts/suivi-des-sorties-avril-2020/">de plus en plus nombreux à s’approprier les données pour produire des analyses et des visualisations</a>.</p>
+
+
+
+<p>Etalab continuera dans les semaines et les mois à venir à accompagner les administrations pour ouvrir de nouvelles données relatives au Covid-19. Ces données pourront couvrir différentes thématiques&nbsp;: sanitaire, économique, social, environnemental, etc. Par ailleurs, la réutilisation des données a bénéficié à des réutilisateurs aux profils et aux objectifs variés. Etalab reviendra dans les prochaines semaines sur les usages et impacts des données relatives à l’épidémie.</p>
+
+
+
+<p>Pour rester informé.e.s des prochaines publications de données sur data.gouv.fr et suivre l’actualité de l’open data, n’hésitez pas à vous abonner à<a href="https://infolettres.etalab.gouv.fr/subscribe/r1aq92xnj#_blank" class="broken_link"> l’infolettre de data.gouv.fr</a>&nbsp;!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

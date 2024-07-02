@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Brice Boulesteix &#8211; Etalab</title>
+	<atom:link href="/author/brice/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Politique publique de la donnée</description>
+	<lastBuildDate>Tue, 13 Aug 2019 13:08:24 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2014/07/cropped-cropped-cropped-aa9eee178642d58b458d01f5f5c739e581e7679497608b57e987b60abc937e-32x32.jpg</url>
+	<title>Brice Boulesteix &#8211; Etalab</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Open Data Day : les membres d’Etalab présentent leurs jeux de données préférés</title>
+		<link>/open-data-day-etalab</link>
+		
+		<dc:creator><![CDATA[Brice Boulesteix]]></dc:creator>
+		<pubDate>Sat, 02 Mar 2019 08:56:04 +0000</pubDate>
+				<category><![CDATA[A la une]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=9749</guid>
+
+					<description><![CDATA[Nous célébrons aujourd’hui la journée de l’open data, aussi appelée Open Data Day. Pour l’occasion, nous avons demandé aux membres d’Etalab, le service en charge de l’ouverture des données publiques, de nous citer leur jeu de données préféré. Voici leurs réponses. Laure Lucchesi Responsable de la mission Etalab J’ai choisi de mettre en valeur les &#8230;<p class="read-more"> <a class="" href="/open-data-day-etalab"> <span class="screen-reader-text">Open Data Day : les membres d’Etalab présentent leurs jeux de données préférés</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-9750" src="https://www.etalab.gouv.fr/wp-content/uploads/2019/03/2019-03-01-cover-article-opendataday.png" alt="image de couverture pour l’article sur la journée mondiale des données ouvertes" width="1200" height="800" srcset="/wp-content/uploads/2019/03/2019-03-01-cover-article-opendataday.png 1200w, /wp-content/uploads/2019/03/2019-03-01-cover-article-opendataday-300x200.png 300w, /wp-content/uploads/2019/03/2019-03-01-cover-article-opendataday-768x512.png 768w, /wp-content/uploads/2019/03/2019-03-01-cover-article-opendataday-1024x683.png 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p><em>Nous célébrons aujourd’hui la journée de l’open data, aussi appelée <a href="https://opendataday.org/">Open Data Day</a>. Pour l’occasion, nous avons demandé aux membres d’Etalab, le service en charge de l’ouverture des données publiques, de nous citer leur jeu de données préféré. Voici leurs réponses.</em></p>
+<hr />
+<h2>Laure Lucchesi</h2>
+<p><strong>Responsable de la mission Etalab</strong></p>
+<p>J’ai choisi de mettre en valeur les données ouvertes dans le cadre du Grand Débat, afin de souligner l’importance de la mise à disposition en <em>open data</em> des données anonymisées parallèlement aux démarches de consultations. La publication de ces données permet d’analyser en profondeur les dynamiques à l’oeuvre dans les consultations, d’en favoriser la loyauté, d’y détecter des anomalies, et permet à la société civile ou aux chercheurs d’apporter des éclairages utiles.</p>
+<p>Une première ouverture de données de consultation avait eu lieu <a href="https://www.etalab.gouv.fr/consultation-republique-numerique-les-donnees-en-open-data-sur-data-gouv">lors de l’élaboration de la Loi pour une République</a>, un hackathon avait même été organisé pour explorer les données ainsi recueillies.</p>
+<p>Les données des réunions locales et de la plateforme de contribution en ligne <a href="https://granddebat.fr/" class="broken_link">granddebat.fr</a>, dont l’ampleur est inédite, ont été publiées par le <a href="https://www.data.gouv.fr/en/organizations/service-d-information-du-gouvernement/">Service d&rsquo;Information du Gouvernement</a>, et permettent déjà de voir émerger des <a href="https://www.data.gouv.fr/en/reuses/contributions-rapportees-a-la-population-par-departement-sur-granddebat-fr/">analyses sur la géographie des contributions</a> par exemple, ou des outils citoyens d&rsquo;annotation collaborative comme le projet « <a href="https://grandeannotation.fr/">Grande Annotation »</a>.</p>
+<p><a href="https://www.data.gouv.fr/en/datasets/donnees-ouvertes-du-grand-debat-national/">Voir les données du Grand Débat National</a></p>
+<h2>Paul-Antoine Chevalier</h2>
+<p><strong>Data Scientist</strong></p>
+<p>Publiées pour la première fois en 2018, par la direction générale des finances publiques, les données du compte général de l’État donnent une vision fine de la comptabilité de l’État. Elles permettent notamment de croiser la nomenclature comptable de l’État, les ministères porteurs, et les programmes budgétaires. On y apprend pa exemple combien l’État dépense pour son électricité, son eau, ses fournitures de bureaux, et ce à l’Euro près. C’est très précis. Bien qu’elles aient fait l’objet d’un <em>hackathon</em> (Datafin en juin 2018), ces données gagneraient à être plus souvent exploitées selon moi.</p>
+<p><a href="https://www.data.gouv.fr/fr/datasets/donnees-de-comptabilite-generale-de-letat/">Voir les données du compte général de l’État</a></p>
+<h2>Bastien Guerry</h2>
+<p><strong>Référent logiciels libres</strong></p>
+<p>Mon jeu de données préféré contient une liste des dépôts de codes sources publiés par des organismes publics. Ce jeu de données me plaît car il montre que l’administration publie déjà beaucoup de code. Avec les métadonnées collectées sur ces dépôts, on peut déjà proposer des analyses intéressantes : c’est ce qu’a fait Antoine Augusti, ancien <a href="https://entrepreneur-interet-general.etalab.gouv.fr/">Entrepreneur d’intérêt général</a>, dans un <a href="https://blog.antoine-augusti.fr/2019/01/analyse-statistique-des-repertoires-de-code-des-organismes-publics-en-france/">article publié sur son blog</a>.</p>
+<p><a href="https://www.data.gouv.fr/fr/datasets/inventaire-des-depots-de-code-source-des-organismes-publics/">Voir la liste des codes sources</a></p>
+<h2>Antoine Augusti</h2>
+<p><strong>Software Engineer (développeur)</strong></p>
+<p>En matière d’ouverture des données, je trouve l’initiative de la SNCF intéressante. D’abord, parce que la SNCF est un EPIC, c’est-à-dire un Établissement Public Industriel et Commercial, ensuite, parce que leur site d’open data contient des données sur le personnel de la SNCF, comme la rémunération, l’âge, ou les congés. Il y a même un jeu de données sur les objets trouvés, mis-à-jour plusieurs fois par jour. On peut compter le nombre de doudous perdus. Ça change.</p>
+<p><a href="https://data.sncf.com/explore/?sort=modified&amp;refine.keyword=Ressources+humaines">Voir l’initiative de la SNCF</a></p>
+<h2>Romain Tales</h2>
+<p><strong>Responsable du pôle données</strong></p>
+<p>Mon jeu de données préféré est le fichier de recensement des éléments d’imposition à la fiscalité directe locale (REI). Dit comme ça, c’est à peine excitant. Mais ce jeu de données offre un panorama de la fiscalité directe locale, pour plusieurs taxes (taxe d’habitation, cotisation foncière des entreprises) et pour plusieurs niveaux de collectivités bénéficiaires (commune, département, région). J’aime assez ce jeu de données car il permet de se rendre compte des impôts payés à l’échelle locale.</p>
+<p><a href="https://www.data.gouv.fr/fr/datasets/impots-locaux-fichier-de-recensement-des-elements-dimposition-a-la-fiscalite-directe-locale-rei-3/">Voir les données de la fiscalité directe locale</a></p>
+<h2>Simon Chignard</h2>
+<p><strong>Conseiller stratégique</strong></p>
+<p>Mon jeu de données préféré c’est celui des interventions d’assistance et de sauvetage coordonnées par les CROSS (Centres régionaux opérationnels de surveillance et de sauvetage).</p>
+<p>J’aime ce jeu de données pour de nombreuses raisons :</p>
+<ol>
+<li>La première est la thématique : le secours en mer, et plus généralement l’activité maritime, un sujet qui me parle compte tenu de mes origines familiales et géographiques.</li>
+<li>La seconde est liée à la richesse et à la qualité des données et de leur mise à disposition : le jeu de données est accompagné d’une documentation complète qui indique aussi bien le contexte de production des données que le modèle de données de manière détaillée.</li>
+<li>Enfin, il me semble que ce jeu de données illustre bien l’intérêt de la démarche EIG et du travail « en mode ouvert ». Il a été construit dans le cadre du projet Prédisauvetage et est remis à disposition de chacun pour être réutilisé. La presse régionale a d’ailleurs déjà commencé à s’en saisir…</li>
+<li>Une carte permet de rendre compte visuellement des données : <a href="https://carte.snosan.fr/" class="broken_link">carte.snosan.fr</a>.</li>
+<li>Les données sont mises à jour quotidiennement, sans intervention humaine. Concrètement, si le CROSS intervient aujourd’hui pour un sauvetage en mer, l’intervention sera indiquée dès demain dans le jeu de données.</li>
+</ol>
+<p><a href="https://www.data.gouv.fr/fr/datasets/operations-coordonnees-par-les-cross/">Voir les données des opérations de sauvetage</a></p>
+<h2>Brice Boulesteix</h2>
+<p><strong>Data Editor (data.gouv.fr)</strong></p>
+<p>J’aime bien l’histoire et les trains, je ne peux donc qu’apprécier les archives de la SNCF, puisqu’elle se situent à l’intersection des deux. On y trouve d’anciennes <a href="http://openarchives.sncf.com/archive/0238lm00171-8">cartes ferroviaires</a>, de <a href="http://openarchives.sncf.com/archive/trsardo1662">vieilles photographies</a> qui sentent bon la vapeur, mais aussi des <a href="http://openarchives.sncf.com/archive/trsardo1679">affiches</a>, des <a href="http://openarchives.sncf.com/archive/trsardo1772">grilles de tarifs</a>, des <a href="http://openarchives.sncf.com/archive/trsardo1261">vidéos</a> et même des <a href="http://openarchives.sncf.com/archive/trsardo1341">sons</a>. Toutes les archives sont rangées, classées, organisées par thèmes, ce qui permet d’y naviguer facilement et de faire des recherches par mots-clefs.</p>
+<p><a href="http://openarchives.sncf.com/">Voir les archives de la SNCF</a></p>
+<h2>Mathilde Bras</h2>
+<p><strong>Responsable du programme EIG</strong></p>
+<p>J’ai un faible pour la liste des gares européennes publiée par <a href="https://www.trainline.fr/open">Trainline</a>. Ce jeu de données me plaît, car j’aime prendre le train. Je suis fascinée par ce moyen de transport, à la fois écologique et scénique, puisqu’il permet de vivre le voyage au travers de paysages et de moments toujours inédits. Au-delà des trains, les gares sont aussi pour moi des endroits fabuleux, chargés d’histoire, d’architecture, et qui réunissent des personnes tous les jours (sans qu’elles ne s’en rendent toujours compte). J’aime aussi ces données parce qu’elles montrent que des acteurs privés (Trainline n’est pas une entreprise publique) peuvent rentrer dans une démarche d’ouverture de données — et contribuer ainsi à l’intérêt général.</p>
+<p><a href="https://www.data.gouv.fr/en/datasets/trainline-libere-les-gares-europeennes/">Voir la liste des gares européennes</a></p>
+<hr />
+<p>Explorez plus de 30 000 jeux de données sur <a href="https://www.data.gouv.fr/">data.gouv.fr</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ce que nous avons appris lors des journées de l’open data par principe</title>
+		<link>/ce-que-nous-avons-appris-lors-des-journees-de-lopen-data-par-defaut</link>
+		
+		<dc:creator><![CDATA[Brice Boulesteix]]></dc:creator>
+		<pubDate>Thu, 18 Oct 2018 14:00:07 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8827</guid>
+
+					<description><![CDATA[[:fr] La semaine dernière, Etalab a participé aux journées de l’open data par principe. Nous avons organisé trois ateliers : le premier portait sur l’élargissement du service public de la donnée, le second traitait de l’aspect éditorial de data.gouv.fr, et le dernier était consacré au futur de la plateforme data.gouv.fr. Ces ateliers nous ont permis &#8230;<p class="read-more"> <a class="" href="/ce-que-nous-avons-appris-lors-des-journees-de-lopen-data-par-defaut"> <span class="screen-reader-text">Ce que nous avons appris lors des journées de l’open data par principe</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]<img decoding="async" class="alignnone size-full wp-image-8828" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/10/IMG_0041_shrink.jpg" alt="Photo prise à la fondation Mozilla lors de l’atelier consacré à data.gouv.fr" width="1280" height="960" srcset="/wp-content/uploads/2018/10/IMG_0041_shrink.jpg 1280w, /wp-content/uploads/2018/10/IMG_0041_shrink-300x225.jpg 300w, /wp-content/uploads/2018/10/IMG_0041_shrink-768x576.jpg 768w, /wp-content/uploads/2018/10/IMG_0041_shrink-1024x768.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p>La semaine dernière, Etalab a participé aux <a href="https://www.etalab.gouv.fr/journees-open-data-par-principe">journées de l’open data par principe</a>. Nous avons organisé trois ateliers : le premier portait sur l’élargissement du service public de la donnée, le second traitait de l’aspect éditorial de <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a>, et le dernier était consacré au futur de la plateforme <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a>.</p>
+<p>Ces ateliers nous ont permis d’aller à la rencontre des producteurs de données, des administrations, des journalistes, des utilisateurs, des membres d’associations et des citoyens. Merci à celles et ceux qui ont fait le déplacement pour venir échanger des idées avec nous.</p>
+<h2>Retour sur les trois ateliers</h2>
+<h3>Élargissement du service public de la donnée</h3>
+<p>Nous avons demandé aux participants de réfléchir aux jeux de données qui pourraient intégrer le service public de la donnée, qui compte aujourd’hui <a href="https://www.data.gouv.fr/fr/reference">9 jeux de données de de référence</a>.</p>
+<p>La discussion a permis de répertorier plus d’une cinquantaine de jeux de données importants, potentiellement essentiels. Mais, parmi ceux-ci, seule une petite dizaine remplissait les trois critères qui permettent de parler de <em>données de référence</em>, critères définis dans la loi pour une République numérique :</p>
+<ul>
+<li>des données qui servent à identifier ou nommer ;</li>
+<li>des données fréquemment utilisées par des tiers ;</li>
+<li>des données dont la qualité et la disponibilité est critique.</li>
+</ul>
+<p>Voici les jeux de données qui remplissent <em>a priori</em> les trois critères évoqués plus haut :</p>
+<ol>
+<li>La base FINESS (fichier national des établissements sanitaires et sociaux) ;</li>
+<li>Base de référence des bâtiments (à constituer) ;</li>
+<li>Base des équipements sportifs (RES) ;</li>
+<li>Répertoire national des établissements (RNE) avec code UAI ;</li>
+<li>Base des numéros internationaux normalisés du livre (ISBN) ;</li>
+<li>Codes banques et guichets ;</li>
+<li>Données essentielles de la commande publique (DECP) ;</li>
+<li>Répertoire national des élus (RNE) ;</li>
+<li>Annuaire des services publics locaux produits par la DILA ;</li>
+<li>Système d’immatriculation des véhicules (SIV) ;</li>
+<li>Codes UPC/ GTIN (codes barres).</li>
+</ol>
+<p>Nous avons aussi évoqué la possibilité d’intégrer dans le programme du service public de la donnée, des données qui ne répondent qu’à 2 des 3 critères établis par la loi. Une des pistes serait de développer un « incubateur de données », c’est-à-dire un programme d’accompagnement qui viserait à rendre ces jeux de données davantage réutilisables en travaillant sur plusieurs aspects : formats, documentation, interfaces de visualisation et téléchargement, croisement et enrichissement avec les neuf premières données de référence, et ainsi de suite…</p>
+<h3>L’aspect éditorial de data.gouv.fr</h3>
+<p>Nous avons sondé les participants pour savoir ce qu’ils espéraient trouver dans la description d’un jeu de données et quelles étaient les informations qui leur permettaient de gagner du temps dans leurs réutilisations.</p>
+<p>Au terme de la présentation introductive, la discussion a tourné autour des thèmes suivants :</p>
+<ul>
+<li>les fonctionnalités qui permettraient de mieux décrire les données (bien définir les titres des colonnes par exemple) ;</li>
+<li>la difficulté de séparer le bon grain de l’ivraie dans le stock de données de data.gouv.fr ;</li>
+<li>les idées pour inciter les réutilisateurs à référencer leurs créations sur data.gouv.fr (simplifier la démarche) ;</li>
+<li>l’importance de montrer aux producteurs que leur données sont réutilisées par d’autres acteurs ;</li>
+<li>les différents moyens de faire connaître des jeux de données peu utilisés (les mettre en avant selon l’actualité).</li>
+</ul>
+<h3>L’avenir de data.gouv.fr</h3>
+<p>Nous avons présenté l’architecture de data.gouv.fr, nos différentes façons de collecter des données à différents endroits. Puis les participants ont formé trois groupes pour parler des territoires, des schémas de données et des formats de données exotiques.</p>
+<p>Après le diaporama de présentation de <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a>, les questions qui sont revenues le plus souvent concernaient :</p>
+<ul>
+<li>la collecte et la traçabilité des données ;</li>
+<li>les schémas de données et leur structuration ;</li>
+<li>les obligations des territoires en matière d’open data ;</li>
+<li>le rôle d’Etalab vis-à-vis des collectivités ;</li>
+<li>la publication des codes sources.</li>
+</ul>
+<p><img decoding="async" class="alignnone size-full wp-image-8829" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/10/IMG_0043_shrink.jpg" alt="Photo prise à la fondation Mozilla lors de l’atelier consacré à data.gouv.fr" width="1280" height="960" srcset="/wp-content/uploads/2018/10/IMG_0043_shrink.jpg 1280w, /wp-content/uploads/2018/10/IMG_0043_shrink-300x225.jpg 300w, /wp-content/uploads/2018/10/IMG_0043_shrink-768x576.jpg 768w, /wp-content/uploads/2018/10/IMG_0043_shrink-1024x768.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<h2>Ce que nous avons appris</h2>
+<p>Lors des ateliers, des thèmes nous ont semblé revenir de manière assez récurrente. Les voici.</p>
+<h3>L’importance de l’accompagnement</h3>
+<p>Il n’est pas toujours évident de savoir par où commencer en matière d’ouverture des données publiques. Le sujet est vaste, il concerne les ministères comme les mairies, les développeurs comme les journalistes, les chercheurs comme les entrepreneurs, les experts comme les curieux. Une documentation claire autour de l’open data permettrait à ce sujet de toucher davantage de personnes, à l’intérieur mais aussi à l’extérieur des administrations, quelle que soit leur taille.</p>
+<p>Par exemple, certaines municipalités aimeraient publier des données sur <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a>, mais elles ne savent pas par où commencer, elles auraient besoin d’être guidées, formées.</p>
+<h3>Les liens entre producteurs et réutilisateurs</h3>
+<p>Le site <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a> met en relation des producteurs de données et des utilisateurs de données, en ce sens il est une plateforme. Pour que cette plateforme fonctionne, il faut que les deux parties qu’elle met en relation (producteurs et réutilisateurs) puissent s’entendre sur ce qu’ils attendent les uns des autres. L’open data est un succès quand les producteurs mettent leurs données en ligne, pas uniquement pour respecter la loi, mais aussi pour en favoriser l’utilisation par des tiers — ce qui implique incontestablement un effort supplémentaire.</p>
+<p>Par exemple, nombre de réutilisateurs de données publiques aimeraient avoir plus de contexte sur les données mises en ligne : d’où viennent-elles ? comment ont-elles été collectées ? la nomenclature utilisée correspond elle à un standard ? qui contacter en cas de question ?</p>
+<h2>Les ateliers ont déjà débouché sur des nouveautés</h2>
+<p>Du côté de <a href="https://www.data.gouv.fr/fr/">data.gouv.fr</a>, nous avons dépoussiéré <a href="https://github.com/etalab/data.gouv.fr">le dépôt GitHub</a> qui permet aux utilisateurs de nous signaler un bug ou de proposer une idée de fonctionnalité au moyen de tickets, sorte de messages qui nous permettent de déterminer ce sur quoi nous devons encore progresser.</p>
+<p>Deux modèles de tickets ont été ajoutés, qui vous permettent de nous écrire sans rien avoir à improviser, comme si vous remplissiez un petit formulaire. Pour créer un ticket, vous n’avez besoin que d’un compte Github, dont la création est gratuite.</p>
+<ul>
+<li><a href="https://github.com/etalab/data.gouv.fr/issues/new?template=signaler-un-bug.md">Signaler un bug ou un problème</a></li>
+<li><a href="https://github.com/etalab/data.gouv.fr/issues/new?template=proposer-une-am-lioration.md">Proposer une nouvelle fonctionnalité</a></li>
+</ul>
+<h2>Comment rattraper si vous n’avez pas pu assister aux ateliers</h2>
+<p>Si vous n’étiez pas dans les parages la semaine dernière, vous pouvez tout de même vous faire une idée de ce qui s’est raconté. Nous avons <a href="https://github.com/etalab/etalab/blob/master/presentations.md">publié les diaporamas de nos présentations sur GitHub</a>.</p>
+<p>Vous pouvez aussi suivre <a href="https://twitter.com/datagouvfr">@datagouvfr</a> et <a href="https://twitter.com/etalab">@etalab</a> sur Twitter pour garder un œil sur notre prochains ateliers.[:]
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>40 ans d’avis CADA en 5 graphiques</title>
+		<link>/graphiques-40-ans-cada-data-gouv-fr</link>
+					<comments>/graphiques-40-ans-cada-data-gouv-fr#comments</comments>
+		
+		<dc:creator><![CDATA[Brice Boulesteix]]></dc:creator>
+		<pubDate>Fri, 05 Oct 2018 16:35:12 +0000</pubDate>
+				<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[Données]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8720</guid>
+
+					<description><![CDATA[[:fr] À l’occasion des 40 ans de la commission d’accès aux documents administratifs (CADA), nous avons mis à jour cada.data.gouv.fr, le site qui permet de consulter les avis émis par la CADA lorsqu’elle est saisie. Cette démarche s’inscrit dans le cadre plus large du principe d’ouverture spontanée des données publiques. Comme de juste, les avis &#8230;<p class="read-more"> <a class="" href="/graphiques-40-ans-cada-data-gouv-fr"> <span class="screen-reader-text">40 ans d’avis CADA en 5 graphiques</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]<img loading="lazy" decoding="async" class="alignnone size-full wp-image-8721" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/10/2018-10-05-quarante-ans-cada.md_shrink.png" alt="Image de couverture de l’article" width="1200" height="800" srcset="/wp-content/uploads/2018/10/2018-10-05-quarante-ans-cada.md_shrink.png 1200w, /wp-content/uploads/2018/10/2018-10-05-quarante-ans-cada.md_shrink-300x200.png 300w, /wp-content/uploads/2018/10/2018-10-05-quarante-ans-cada.md_shrink-768x512.png 768w, /wp-content/uploads/2018/10/2018-10-05-quarante-ans-cada.md_shrink-1024x683.png 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>À l’occasion des 40 ans de la commission d’accès aux documents administratifs (CADA), nous avons mis à jour <a href="https://cada.data.gouv.fr/">cada.data.gouv.fr</a>, le site qui permet de consulter les avis émis par la CADA lorsqu’elle est saisie. Cette démarche s’inscrit dans le cadre plus large du <a href="https://www.etalab.gouv.fr/comment-etalab-aide-les-administrations-a-ouvrir-leurs-donnees">principe d’ouverture spontanée des données publiques</a>. Comme de juste, les avis consultables sur <a href="https://cada.data.gouv.fr/">cada.data.gouv.fr</a> sont par ailleurs <a href="https://www.data.gouv.fr/fr/datasets/53698f37a3a729239d2036a0">publiés dans un format ouvert sur data.gouv.fr</a>.</p>
+<h2>Qu’est-ce que la CADA et à quoi sert-elle ?</h2>
+<p>Pour le dire vite, la CADA est une autorité administrative indépendante, qui a été créée en 1978, par la loi à laquelle elle a donné son nom : <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000339241">la loi CADA</a>. Cette loi avait pour objectif d’améliorer les relations entre les administrations, qui produisent ou reçoivent des documents, et le public, qui peut demander à consulter certains documents administratifs.</p>
+<p>Par exemple, si un patient demande à un hôpital de lui transmettre son dossier médical et que ce dernier refuse, le patient peut saisir la CADA pour obtenir un avis indépendant, un regard neutre. La CADA se prononce alors comme favorable ou défavorable à ce que le dossier médical en question soit communiqué au patient. L’hôpital peut ensuite tenir compte de l’avis émis par la CADA et s’en servir pour revenir sur son refus initial — mais rien ne l’y contraint.</p>
+<h2>Le site cada.data.gouv.fr</h2>
+<p>À ce jour, la CADA a rendu plus de 31 000 avis. Ces avis sont ouverts, c’est-à-dire qu’ils sont consultables sur <a href="https://cada.data.gouv.fr/">cada.data.gouv.fr</a> — un projet développé par Etalab et la CADA dans le but d’explorer les avis de cette dernière.</p>
+<p>Aujourd’hui, <a href="https://cada.data.gouv.fr/">cada.data.gouv.fr</a>, c’est :</p>
+<ul>
+<li>plus de 31 000 avis consultables gratuitement en ligne ;</li>
+<li>des archives ouvertes qui remontent jusqu’en 1984 ;</li>
+<li>une <a href="https://cada.data.gouv.fr/api/">API documentée</a> (qui sert du JSON).</li>
+</ul>
+<h2>40 ans d’avis CADA</h2>
+<p>Les 14 personnes qui travaillent à la CADA traitent chaque année plus de 5 000 demandes, comme le montre le graphique qui suit.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-8726" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/10/graphics-001_shrink.png" alt="Demandes d’accès traitées chaque année par la CADA entre 2013 et 2017" width="1440" height="1080" srcset="/wp-content/uploads/2018/10/graphics-001_shrink.png 1440w, /wp-content/uploads/2018/10/graphics-001_shrink-300x225.png 300w, /wp-content/uploads/2018/10/graphics-001_shrink-768x576.png 768w, /wp-content/uploads/2018/10/graphics-001_shrink-1024x768.png 1024w" sizes="(max-width: 1440px) 100vw, 1440px" /></p>
+<p>Quand la CADA reçoit une demande, c’est-à-dire quand elle est saisie par un citoyen, elle rend un avis qui peut-être :</p>
+<ul>
+<li><strong>favorable</strong> : par exemple, quand la CADA estime que le document pour lequel elle a été saisie gagnerait à être communiqué par l’administration au citoyen qui en a fait la demande ;</li>
+<li><strong>défavorable</strong> : par exemple, lorsque la CADA estime que la préservation d’un secret commercial ou industriel justifie la non-communication du document demandé par le citoyen ;</li>
+<li><strong>sans objet</strong> : par exemple, quand les documents pour lesquels la CADA est saisie n’existent pas ou quand ils on déjà été communiqués au demandeur ;</li>
+<li><strong>irrecevable</strong> : par exemple, quand la CADA manque d’éléments pour rendre un avis, soit parce que la demande du citoyen est trop imprécise pour identifier les documents à transmettre, soit parce que le document en question a déjà été diffusé publiquement ;</li>
+<li><strong>incompétente</strong> : par exemple, quand la CADA estime que ce que demande le citoyen à l’administration ne correspond pas à un document mais à un renseignement, c’est-à-dire une question plus large, plus ouverte, dont la nature excède le domaine de compétence de la CADA.</li>
+</ul>
+<p>Le graphique ci-dessous montre que les avis émis par la CADA sont majoritairement favorables, c’est-à-dire qu’ils encouragent dans la plupart des cas les administrations à communiquer des documents aux citoyens qui en font la demande.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-8722" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/10/graphics-002_shrink.png" alt="Répartition des types d’avis émis par la CADA entre mars 1984 et septembre 2018" width="1440" height="1080" srcset="/wp-content/uploads/2018/10/graphics-002_shrink.png 1440w, /wp-content/uploads/2018/10/graphics-002_shrink-300x225.png 300w, /wp-content/uploads/2018/10/graphics-002_shrink-768x576.png 768w, /wp-content/uploads/2018/10/graphics-002_shrink-1024x768.png 1024w" sizes="(max-width: 1440px) 100vw, 1440px" /></p>
+<p>Le graphique suivant montre que la position globalement favorable de la CADA a été constante au cours des cinq dernières années.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-8723" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/10/graphics-003_shrink.png" alt="Part relative des types d’avis émis par la CADA entre 2013 et 2017" width="1440" height="1080" srcset="/wp-content/uploads/2018/10/graphics-003_shrink.png 1440w, /wp-content/uploads/2018/10/graphics-003_shrink-300x225.png 300w, /wp-content/uploads/2018/10/graphics-003_shrink-768x576.png 768w, /wp-content/uploads/2018/10/graphics-003_shrink-1024x768.png 1024w" sizes="(max-width: 1440px) 100vw, 1440px" /></p>
+<p>Quelles sont les administrations ou les services publics qui sont à l’origine du plus grand nombre de demandes CADA ? Pour répondre à cette question, nous avons isolé les 10 premiers organismes qui ont engendré des saisines de la CADA.</p>
+<p>Le graphique ci-dessous montre par exemple que plusieurs patients ont saisi la CADA après avoir demandé la communication de leur dossier médical aux hôpitaux de Paris et avoir essuyé un refus — ou constaté une absence de réponse de leur part.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-8724" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/10/graphics-004_shrink.png" alt="Les 10 organismes qui font l’objet du plus grand nombre de demandes CADA" width="1440" height="1080" srcset="/wp-content/uploads/2018/10/graphics-004_shrink.png 1440w, /wp-content/uploads/2018/10/graphics-004_shrink-300x225.png 300w, /wp-content/uploads/2018/10/graphics-004_shrink-768x576.png 768w, /wp-content/uploads/2018/10/graphics-004_shrink-1024x768.png 1024w" sizes="(max-width: 1440px) 100vw, 1440px" /></p>
+<p>Combien de temps met la CADA pour rendre un avis une fois qu’elle a été saisie ? Le graphique ci-dessous montre qu’elle a mis un peu moins de 4 mois, cette année (2018), dans la moitié des cas (notion de médiane), et un peu moins de 70 jours dans un quart des cas (notion de 25<sup>ème</sup> percentile). La tendance longue montre un allongement des délais de réponse, notamment depuis 2013 — ce qui s’explique en partie par un accroissement du nombre de saisines sur la même période.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-8725" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/10/graphics-005_shrink.png" alt="Temps de réponse médian de la CADA constatés entre 1998 et septembre 2018" width="1440" height="1080" srcset="/wp-content/uploads/2018/10/graphics-005_shrink.png 1440w, /wp-content/uploads/2018/10/graphics-005_shrink-300x225.png 300w, /wp-content/uploads/2018/10/graphics-005_shrink-768x576.png 768w, /wp-content/uploads/2018/10/graphics-005_shrink-1024x768.png 1024w" sizes="(max-width: 1440px) 100vw, 1440px" /></p>
+<h2>Les 40 prochaines années</h2>
+<p>Le site <a href="https://cada.data.gouv.fr/">cada.data.gouv.fr</a> est en constante évolution. Nous l’enrichissons régulièrement, ce qui nous permet de travailler sur des gros volumes de fichiers au format texte. Mais notre vision pour les textes juridiques s’étend au-delà des avis CADA. Nous réfléchissons actuellement à la façon la plus élégante de rendre certaines décision de justice consultables en ligne. Pour suivre notre réflexion à mesure qu’elle avance, <a href="http://![header/ image](https://res.cloudinary.com/bboulesteix/image/upload/v1538755146/2018-10-05-quarante-ans-cada.md.png) À l’occasion des 40 ans de la commission d’accès aux documents administratifs (CADA), nous avons mis à jour [cada.data.gouv.fr](https://cada.data.gouv.fr),/ le site qui permet de consulter les avis émis par la CADA lorsqu’elle est saisie. Cette démarche s’inscrit dans le cadre plus large du [principe d’ouverture spontanée des données publiques](https://www.etalab.gouv.fr/comment-etalab-aide-les-administrations-a-ouvrir-leurs-donnees). Comme de juste, les avis consultables sur [cada.data.gouv.fr](https://cada.data.gouv.fr)/ sont par ailleurs [publiés dans un format ouvert sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/53698f37a3a729239d2036a0). ## Qu’est-ce que la CADA et à quoi sert-elle ? Pour le dire vite, la CADA est une autorité administrative indépendante, qui a été créée en 1978, par la loi à laquelle elle a donné son nom : [la loi CADA](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000339241). Cette loi avait pour objectif d’améliorer les relations entre les administrations, qui produisent ou reçoivent des documents, et le public, qui peut demander à consulter certains documents administratifs. Par exemple, si un patient demande à un hôpital de lui transmettre son dossier médical et que ce dernier refuse, le patient peut saisir la CADA pour obtenir un avis indépendant, un regard neutre. La CADA se prononce alors comme favorable ou défavorable à ce que le dossier médical en question soit communiqué au patient. L’hôpital peut ensuite tenir compte de l’avis émis par la CADA et s’en servir pour revenir sur son refus initial — mais rien ne l’y contraint. ## Le site cada.data.gouv.fr À ce jour, la CADA a rendu plus de 31 000 avis. Ces avis sont ouverts, c’est-à-dire qu’ils sont consultables sur [cada.data.gouv.fr](https://cada.data.gouv.fr)/ — un projet développé par Etalab et la CADA dans le but d’explorer les avis de cette dernière. Aujourd’hui, [cada.data.gouv.fr](https://cada.data.gouv.fr),/ c’est : * plus de 31 000 avis consultables gratuitement en ligne ; * des archives ouvertes qui remontent jusqu’en 1984 ; * une [API documentée](https://cada.data.gouv.fr/api/) (qui sert du JSON). ## 40 ans d’avis CADA Les 14 personnes qui travaillent à la CADA traitent chaque année plus de 5 000 demandes, comme le montre le graphique qui suit. ![graphique time](https://res.cloudinary.com/bboulesteix/image/upload/v1538749924/graphics.001.png) Quand la CADA reçoit une demande, c’est-à-dire quand elle est saisie par un citoyen, elle rend un avis qui peut-être : * **favorable** : par exemple, quand la CADA estime que le document pour lequel elle a été saisie gagnerait à être communiqué par l’administration au citoyen qui en a fait la demande ; * **défavorable** : par exemple, lorsque la CADA estime que la préservation d&#039;un secret commercial ou industriel justifie la non-communication du document demandé par le citoyen ; * **sans objet** : par exemple, quand les documents pour lesquels la CADA est saisie n’existent pas ou quand ils on déjà été communiqués au demandeur ; * **irrecevable** : par exemple, quand la CADA manque d’éléments pour rendre un avis, soit parce que la demande du citoyen est trop imprécise pour identifier les documents à transmettre, soit parce que le document en question a déjà été diffusé publiquement ; * **incompétente** : par exemple, quand la CADA estime que ce que demande le citoyen à l’administration ne correspond pas à un document mais à un renseignement, c’est-à-dire une question plus large, plus ouverte, dont la nature excède le domaine de compétence de la CADA. Le graphique ci-dessous montre que les avis émis par la CADA sont majoritairement favorables, c’est-à-dire qu’ils encouragent dans la plupart des cas les administrations à communiquer des documents aux citoyens qui en font la demande. ![graphique pie](https://res.cloudinary.com/bboulesteix/image/upload/v1538749924/graphics.002.png) Le graphique suivant montre que la position globalement favorable de la CADA a été constante au cours des cinq dernières années. ![graphique rel](https://res.cloudinary.com/bboulesteix/image/upload/v1538749924/graphics.003.png) Quelles sont les administrations ou les services publics qui sont à l’origine du plus grand nombre de demandes CADA ? Pour répondre à cette question, nous avons isolé les 10 premiers organismes qui ont engendré des saisines de la CADA. Le graphique ci-dessous montre par exemple que plusieurs patients ont saisi la CADA après avoir demandé la communication de leur dossier médical aux hôpitaux de Paris et avoir essuyé un refus — ou constaté une absence de réponse de leur part. ![graphique top 10](https://res.cloudinary.com/bboulesteix/image/upload/v1538749924/graphics.004.png) Combien de temps met la CADA pour rendre un avis une fois qu’elle a été saisie ? Le graphique ci-dessous montre qu’elle a mis un peu moins de 4 mois, cette année (2018), dans la moitié des cas. La tendance longue montre un allongement des délais de réponse, notamment depuis 2013 — ce qui s’explique en partie par un accroissement du nombre de saisines sur la même période. ![graphique délais réponse](https://res.cloudinary.com/bboulesteix/image/upload/v1538749924/graphics.005.png) ## Les 40 prochaines années Le site [cada.data.gouv.fr](https://cada.data.gouv.fr)/ est en constante évolution. Nous l’enrichissons régulièrement, ce qui nous permet de travailler sur des gros volumes de fichiers au format texte. Mais notre vision pour les textes juridiques s’étend au-delà des avis CADA. Nous réfléchissons actuellement à la façon la plus élégante de rendre certaines décision de justice consultables en ligne. Pour suivre notre réflexion à mesure qu’elle avance, [abonnez-vous à @etalab sur Twitter](https://twitter.com/Etalab). Joyeux anniversaire à la CADA ainsi qu’à celles et ceux qui y travaillent ou y ont travaillé." target="_blank" rel="noopener noreferrer" class="broken_link">abonnez-vous au compte @etalab sur Twitter</a>.</p>
+<p>Joyeux anniversaire à la CADA ainsi qu’à celles et ceux qui y travaillent ou y ont travaillé.[:]
+]]></content:encoded>
+					
+					<wfw:commentRss>/graphiques-40-ans-cada-data-gouv-fr/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Comment Etalab aide les administrations à ouvrir leurs données</title>
+		<link>/comment-etalab-aide-les-administrations-a-ouvrir-leurs-donnees</link>
+		
+		<dc:creator><![CDATA[Brice Boulesteix]]></dc:creator>
+		<pubDate>Wed, 03 Oct 2018 15:47:01 +0000</pubDate>
+				<category><![CDATA[Annonces]]></category>
+		<category><![CDATA[Data.gouv.fr]]></category>
+		<category><![CDATA[AGD]]></category>
+		<category><![CDATA[loi pour une République numérique]]></category>
+		<category><![CDATA[open data]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8705</guid>
+
+					<description><![CDATA[La loi pour une République numérique a créé un principe de mise en ligne spontanée de certains documents administratifs. Ce principe va être étendu à partir du 7 octobre 2018. À compter de cette date, la plupart des administrations devront publier certaines bases de données et certains documents — en plus de ce qu’elles étaient &#8230;<p class="read-more"> <a class="" href="/comment-etalab-aide-les-administrations-a-ouvrir-leurs-donnees"> <span class="screen-reader-text">Comment Etalab aide les administrations à ouvrir leurs données</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-8709" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/10/2018-10-01-cover-article-7-octobre_shrink-1.png" alt="Image de couverture de l’article consacré à l’entrée en application du principe d’ouverture spontanée des données" width="1200" height="800" srcset="/wp-content/uploads/2018/10/2018-10-01-cover-article-7-octobre_shrink-1.png 1200w, /wp-content/uploads/2018/10/2018-10-01-cover-article-7-octobre_shrink-1-300x200.png 300w, /wp-content/uploads/2018/10/2018-10-01-cover-article-7-octobre_shrink-1-768x512.png 768w, /wp-content/uploads/2018/10/2018-10-01-cover-article-7-octobre_shrink-1-1024x683.png 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>La loi pour une République numérique a créé un principe de mise en ligne <em>spontanée</em> de certains documents administratifs. Ce principe va être étendu à partir du 7 octobre 2018. À compter de cette date, la plupart des administrations devront publier certaines bases de données et certains documents — en plus de ce qu’elles étaient déjà tenues de mettre en ligne dans les répertoires d’informations publiques. Les documents rendus publics devront l’être gratuitement et dans un format à la fois ouvert et exploitable par une machine. Cette loi a pour objectif de faire de la circulation des données la règle, et non plus l’exception.</p>
+<p>La loi pour une république numérique — aussi appelée loi Lemaire — est en vigueur depuis le 7 octobre 2016, mais elle ne s’appliquera aux bases de données et documents d’intérêt économique, social, sanitaire ou environnemental, qu’à partir du 7 octobre 2018 (dimanche). Pour les aider à préparer au mieux cette échéance, nous avons reçu les ministères à la rentrée. Avec eux, nous avons identifié les bases de données et les jeux de données qui étaient susceptibles d’être mis en ligne à partir du 7 octobre.</p>
+<h2>Les dates importantes</h2>
+<p>L’ouverture des données publiques ne s’est pas faite en un jour. Elle a commencé en 1978, avec <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000339241">la loi CADA</a>, loi qui donnait à chaque citoyen le droit de solliciter une administration pour lui demander un document en sa possession. En 2016, la loi pour une République numérique est venue inverser les rôles définis par la loi CADA, puisqu’elle oblige désormais les administrations à ouvrir <em>spontanément</em> leurs données, sans attendre qu’un citoyen en fasse la demande.</p>
+<p>La loi pour une République numérique prévoyait 3 grandes échéances pour arriver progressivement à l’ouverture spontanée des données publiques.</p>
+<table>
+<colgroup>
+<col />
+<col /> </colgroup>
+<thead>
+<tr>
+<th>Date</th>
+<th>Documents à rendre publics à partir de cette date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07/04/2017</td>
+<td>Les documents communiqués à la suite d’une demande d’accès (CADA) et leurs mise à jour</td>
+</tr>
+<tr>
+<td>07/10/2017</td>
+<td>Les documents présents dans les répertoires d’informations publiques</td>
+</tr>
+<tr>
+<td>07/10/2018</td>
+<td>Les bases de données et tout document d’intérêt social, économique ou environnemental (et leurs mises à jour)</td>
+</tr>
+</tbody>
+</table>
+<p>Ces trois échéances s’appliquent à toutes les administrations de plus de 50 agents (ou salariés), sauf s’il s’agit de communes (ou municipalités) de moins de 3 500 habitants. L’obligation de publication concerne aussi les organismes privés qui assurent une mission de service public, comme la SNCF dans le domaine du transport.</p>
+<h2>Ce que les administrations doivent faire</h2>
+<p>Les documents produits ou reçus par les administrations dans le cadre de leur mission de service publics sont considérés comme des documents administratifs, et ce, quelle que soit leur forme. Concrètement, il peut s’agir de bases de données, de rapports, de circulaires, ou encore de codes sources. La loi dispose que ces documents administratifs doivent être mis en ligne :</p>
+<ul>
+<li>gratuitement, sans aucune barrière à l’entrée ;</li>
+<li>dans leur forme définitive, une fois achevés ;</li>
+<li>dans un format ouvert et manipulable par une machine ;</li>
+<li>après avoir été dépouillés des « secrets » et des données personnelles qu’ils contiennent (sauf rares exceptions).</li>
+</ul>
+<h3>Prévoir une licence est conseillé mais pas obligatoire</h3>
+<p>Pour définir ce que le public peut faire des données publiées, l’administration à l’origine des données peut prévoir une licence — chose souhaitable. Cette licence peut être ouverte, comme <a href="https://www.etalab.gouv.fr/licence-ouverte-open-licence">celle proposée par Etalab</a> ; mais elle peut aussi inclure une clause de réciprocité, si les données publiées répondent à un objectif d’intérêt général (cas de la licence OdBL).</p>
+<h3>Seuls les documents numériques sont concernés</h3>
+<p>Le principe d’ouverture spontanée s’applique à tous les documents administratifs qui existent sous une forme numérique, c’est-à-dire ceux qui n’ont pas besoin d’être passés au scanner ou sortis des archives pour être mis en ligne. La publication des documents peut se faire sur <a href="http://data.gouv.fr/">data.gouv.fr</a> ou sur le site de l’administration concernée.</p>
+<h2>Ce qu’Etalab peut faire pour aider les administrations</h2>
+<p>L’équipe d’Etalab est composée de juristes, développeurs et de spécialistes de la donnée (<em>data scientists</em>) qui peuvent aider une administration à :</p>
+<ul>
+<li>préparer un jeu de données en vue de le mettre en ligne ;</li>
+<li>répondre aux questions juridiques posées par l’ouverture des données ;</li>
+<li>consolider des bases de données pour en faciliter la lisibilité ;</li>
+<li>apporter un éclairage sur un algorithme ou un code source, <a href="https://www.etalab.gouv.fr/openapb-remise-et-publication-du-rapport-detalab-sur-les-conditions-douverture-dadmission-post-bac">comme nous l’avons fait avec Admission Post-Bac</a> (APB).</li>
+</ul>
+<h2>Ce que le public peut faire des données obtenues</h2>
+<p>La loi pour une République numérique oblige les administrations à ouvrir leurs données, sans préjuger de leur utilisation potentielle. Ce qu’il est possible de faire avec les données publiées dépend de la licence qui en régit l’utilisation, mais dans le cas d’une licence ouverte, les données peuvent alors être :</p>
+<ul>
+<li><strong>réutilisées</strong> : par exemple copier les données, les mettre en forme dans un tableau, ou sur un fond de carte ;</li>
+<li><strong>redistribuées</strong> : par exemple publier les données sur un blog, dans un livre, ou encore sur Twitter ;</li>
+<li><strong>adaptées</strong> : par exemple changer le titre d’une colonne dans un fichier CSV pour en faciliter la compréhension ;</li>
+<li><strong>exploitées commercialement</strong> : par exemple faire une carte à partir de données ouvertes, l’imprimer, et la vendre.</li>
+</ul>
+<p>Sous réserve de :</p>
+<ul>
+<li>mentionner la source des données réutilisées ;</li>
+<li>inclure la date de dernière mise à jour des données.</li>
+</ul>
+<h2>Comprendre l’ouverture des données</h2>
+<p>En plus d’apporter de l’aide aux administrations dans le cadre de la publication de leurs données, Etalab propose aussi des ressources sur le sujet de l’ouverture des données publiques (<em>open data</em>).</p>
+<p>Cela inclut les deux rapports au Premier ministre de l’<a href="https://agd.data.gouv.fr/">administrateur général des données</a> :</p>
+<ul>
+<li>2016-2017 : <a href="https://agd.data.gouv.fr/2018/04/10/rapport-2016-1017-de-ladministrateur-general-des-donnees-la-donnee-comme-infrastructure-essentielle/">La donnée comme infrastructure essentielle</a> ;</li>
+<li>2015 : <a href="https://agd.data.gouv.fr/2016/01/21/rapport-annuel-2015-mettre-les-donnees-au-service-de-la-transformation-de-laction-publique/">Mettre les données au service de la transformation de l’action publique</a>.</li>
+</ul>
+<h3>Le portail des données ouvertes data.gouv.fr</h3>
+<p>Nous développons aussi la plateforme <a href="http://data.gouv.fr/">data.gouv.fr</a>, qui est un peu le magasin général des données publiques. <a href="http://data.gouv.fr/">data.gouv.fr</a> permet à n’importe quelle administration ou collectivité locale de mettre en ligne ses données, gratuitement.</p>
+<p>La plateforme se décline aussi en sous-domaines, qui contiennent chacun des données plus spécifiques :</p>
+<ul>
+<li><a href="http://transport.data.gouv.fr/">transport.data.gouv.fr</a>, pour les données de transport ;</li>
+<li><a href="https://geo.data.gouv.fr/fr/">geo.data.gouv.fr</a>, pour les données géographiques ;</li>
+<li><a href="https://entreprise.data.gouv.fr/" class="broken_link">entreprise.data.gouv.fr</a>, pour les entreprises et les associations.</li>
+</ul>
+<h2>La suite</h2>
+<p>La date du 7 octobre n’est pas une date butoir à redouter mais une étape supplémentaire dans la longue marche vers l’ouverture des données publiques. Nous poursuivons notre travail avec les administrations et les collectivités locales dans le but de rendre l’action publique plus ouverte. Il nous reste encore bien du chemin à parcourir, c’est indéniable, et c’est aussi la raison pour laquelle nous recrutons. Si vous voulez être du voyage, jetez donc un œil à <a href="https://www.fonction-publique.gouv.fr/biep?idOffre=138877&amp;idOrigine=&amp;LCID=1036&amp;offerReference=2018-138877" class="broken_link">nos offres d’emploi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Journées de l’open data par principe : parler du futur de l’ouverture des données</title>
+		<link>/journees-open-data-par-principe</link>
+					<comments>/journees-open-data-par-principe#comments</comments>
+		
+		<dc:creator><![CDATA[Brice Boulesteix]]></dc:creator>
+		<pubDate>Mon, 01 Oct 2018 16:17:45 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<guid isPermaLink="false">https://www.etalab.gouv.fr/?p=8700</guid>
+
+					<description><![CDATA[[:fr] Du 4 au 12 octobre, Etalab participera aux journées de l’open data par principe (#odpp sur Twitter). Ces journées sont organisées pour célébrer l’application du principe d’ouverture spontanée des données publiques. Ce principe — qui vise à faire de l’ouverture des données la règle et non plus l’exception — a été introduit par la loi &#8230;<p class="read-more"> <a class="" href="/journees-open-data-par-principe"> <span class="screen-reader-text">Journées de l’open data par principe : parler du futur de l’ouverture des données</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[[:fr]<img loading="lazy" decoding="async" class="alignnone size-full wp-image-8701" src="https://www.etalab.gouv.fr/wp-content/uploads/2018/10/2018-10-01-cover-article-odpp_shrink.png" alt="Image de couverture de l’article" width="1200" height="800" srcset="/wp-content/uploads/2018/10/2018-10-01-cover-article-odpp_shrink.png 1200w, /wp-content/uploads/2018/10/2018-10-01-cover-article-odpp_shrink-300x200.png 300w, /wp-content/uploads/2018/10/2018-10-01-cover-article-odpp_shrink-768x512.png 768w, /wp-content/uploads/2018/10/2018-10-01-cover-article-odpp_shrink-1024x683.png 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>Du 4 au 12 octobre, Etalab participera aux journées de l’open data par principe (<a href="https://twitter.com/search?f=tweets&amp;q=%23odpp&amp;src=typd"><span class="hashtag">#odpp</span></a> sur Twitter). Ces journées sont organisées pour célébrer l’application du principe d’ouverture spontanée des données publiques. Ce principe — qui vise à faire de l’ouverture des données la règle et non plus l’exception — a été introduit par la loi pour une République numérique (2016). Ces journées seront aussi l’occasion de s’interroger sur ce qu’il reste à faire en matière d’open data.</p>
+<p>Les évènements auront lieu à Paris et ils accueilleront des membres d’Etalab, des journalistes, des consultants, des développeurs, des <em>data scientists</em>, des associations et des citoyens.</p>
+<h2>Les ateliers animés par Etalab</h2>
+<p>Les journées de l’open data par principe rassembleront un grand nombre d’intervenants, parmi lesquels figureront des membres d’Etalab, la mission gouvernementale à l’origine de data.gouv.fr. Nous organiserons trois ateliers, pour lesquels l’entrée sera libre et gratuite.</p>
+<h3>Élargir le service public de la données</h3>
+<ul>
+<li><strong>Date</strong> : lundi 8 octobre à 16 h 00 ;</li>
+<li><strong>Lieu</strong> : Liberté Living-Lab, <a href="https://osm.org/go/0BPIirjiy?m=&amp;way=55046162">9 Rue d’Alexandrie, 75002 PARIS</a> ;</li>
+<li><strong>Animateur</strong> : équipe data.gouv.fr.</li>
+</ul>
+<p>Le service public de la donnée est une création de la loi pour une République numérique de 2016. Grâce à lui, 9 jeux de données font l’objet d’une attention toute particulière, car leur utilisation par des administrations ou des entreprises a des effets économiques ou sociaux importants. À titre d’exemple, la base SIRENE, sorte de répertoire national des entreprises, fait partie des 9 données de référence rassemblées au sein du service public de la donnée.</p>
+<p>Joignez-vous à nous si vous souhaitez :</p>
+<ol>
+<li>déterminer les autres jeux de données qui pourraient être intégrés au service public de la donnée ;</li>
+<li>imaginer les services qui pourraient être développés à partir de ces nouvelles données de références.</li>
+</ol>
+<p><a href="https://www.eventbrite.com/e/billets-atelier-elargissons-le-service-public-de-la-donnee-50866855133" class="broken_link">S’inscrire à l’atelier sur EventBrite</a></p>
+<h3>L’aspect éditorial de data.gouv.fr</h3>
+<ul>
+<li><strong>Date</strong> : jeudi 11 octobre à 10 h 00 ;</li>
+<li><strong>Lieu</strong> : La Paillasse, <a href="https://osm.org/go/0BPIoDRpg?m=&amp;node=2798968100">226 Rue Saint-Denis, 75002 Paris</a> ;</li>
+<li><strong>Animateur</strong> : équipe data.gouv.fr.</li>
+</ul>
+<p>L’ouverture des données publiques ne se réduit pas à la mise en ligne de fichiers au format CSV. En faciliter la réutilisation fait aussi partie de la mission de data.gouv.fr. Cette mission passe par l’ajout de métadonnées, c’est-à-dire de données au sujet des données, qui permettent de trouver, appréhender, et utiliser simplement un fichier. Nous avons encore beaucoup de travail à faire sur les métadonnées de data.gouv.fr et votre avis nous serait très utile.</p>
+<p>Joignez-vous à nous si vous souhaitez :</p>
+<ul>
+<li>donner votre avis sur ce qui constitue une bonne description d’un jeu de données (titre, texte, métadonnées) ;</li>
+<li>établir une description canonique, une sorte de modèle, qui pourrait aider les producteurs à bien décrire les données qu’ils mettent en ligne.</li>
+</ul>
+<p><a href="https://www.eventbrite.com/e/billets-atelier-de-la-donnee-ouverte-a-linformation-50867174087" class="broken_link">S’inscrire à l’atelier sur EventBrite</a></p>
+<h3>L’avenir de data.gouv.fr</h3>
+<ul>
+<li><strong>Date</strong> : vendredi 12 octobre, à 10 heures ;</li>
+<li><strong>Lieu</strong> : Fondation Mozilla, <a href="https://osm.org/go/0BPIiU9l0?m=&amp;node=2883451098">16 Boulevard Montmartre, 75009 Paris</a> ;</li>
+<li><strong>Animateur</strong> : équipe data.gouv.fr.</li>
+</ul>
+<p>De plus en plus de données publiques sont mises en ligne, dans des formats de plus en plus variés : codes sources, textes, images… Comment adapter la plate-forme data.gouv.fr pour répondre à la multiplication des formats qu’elle accueille ? Venez en parler avec notre équipe.</p>
+<p>Joignez-vous à nous si vous souhaitez :</p>
+<ul>
+<li>réfléchir à la meilleure façon d’intégrer de nouveaux formats de données sur la plateforme ;</li>
+<li>imaginer de nouvelles utilisations de data.gouv.fr pour tirer partie de ces nouveaux formats de données.</li>
+</ul>
+<p><a href="https://www.eventbrite.com/e/billets-atelier-plateforme-datagouvfr-50867012604" class="broken_link">S’inscrire à l’atelier sur EventBrite</a></p>
+<h2>Notez la date</h2>
+<p>Venez parler avec nous de l’ouverture des données publiques, de ce que vous en faites, des outils que vous utilisez, et de ce qui pourrait vous aider à mieux exploiter les données.</p>
+<p>Le calendrier complet des ateliers <a href="https://openagenda.com/open-data-par-principe/events/workshop-etalab-editorialisation-de-data-gouv-fr?lang=fr">est visible sur Open Agenda</a>. Il est encore susceptible de changer à la marge, mais les grandes dates sont dores et déjà fixées.</p>
+<p>Nous espérons vous croiser aux journées de l’open data par principe, lors des ateliers, ou lors de la soirée anniversaire du mercredi 10. D’ici là, <a href="https://twitter.com/datagouvfr">suivez @datagouvfr sur Twitter</a> pour garder un œil sur les derniers jeux de données que nous avons en magasin.[:]
+]]></content:encoded>
+					
+					<wfw:commentRss>/journees-open-data-par-principe/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
